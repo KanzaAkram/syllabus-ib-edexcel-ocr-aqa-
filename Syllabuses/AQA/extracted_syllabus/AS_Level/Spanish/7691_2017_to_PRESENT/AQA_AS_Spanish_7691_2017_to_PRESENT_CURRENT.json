@@ -1,0 +1,205 @@
+{
+  "source_pdf": "AS_Level/Spanish/7691_2017_to_PRESENT/AQA_AS_Spanish_7691_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "AS_Level",
+  "subject": "Spanish",
+  "spec_code": "7691",
+  "pdf_name": "AQA_AS_Spanish_7691_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Social issues and trends",
+          "level": 1,
+          "content": "Students must study the following themes and sub-themes in relation to at least one Spanish-\nspeaking country. Students must study the themes and sub-themes using a range of sources,\nincluding material from online media.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Aspects of Hispanic society",
+              "level": 2,
+              "content": "Students may study all sub-themes in relation to any Spanish-speaking country or countries.\n- Modern and traditional values (Los valores tradicionales y modernos)\n- Los cambios en la familia\n- Actitudes hacia el matrimonio/el divorcio\n- La influencia de la Iglesia Católica\n- Cyberspace (El ciberespacio)\n- La influencia de internet\n- Las redes sociales: beneficios y peligros\n- Los móviles inteligentes en nuestra sociedad\n- Equal rights (La igualdad de los sexos)\n- La mujer en el mercado laboral\n- El machismo y el feminismo\n- Los derechos de los gays y las personas transgénero",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Artistic culture",
+          "level": 1,
+          "content": "Students must study the following themes and sub-themes in relation to at least one Spanish-\nspeaking country.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Artistic culture in the Hispanic world",
+              "level": 2,
+              "content": "Students must study the sub-theme Spanish regional identity in relation to Spain. Students may\nstudy the remaining sub-themes in relation to any Spanish-speaking country or countries.\n- Modern day idols (La influencia de los ídolos)\n- Cantantes y músicos\n- Estrellas de televisión y cine\n- Modelos\n- Spanish regional identity (La identidad regional en España)\n- Tradiciones y costumbres\n- La gastronomía\n- Las lenguas\n- Cultural heritage (El patrimonio cultural)\n- Sitios turísticos y civilizaciones prehispánicas: Machu Picchu, la Alhambra, etc\n- Arte y arquitectura\n- El patrimonio musical y su diversidad",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Grammar",
+          "level": 1,
+          "content": "AS students will be expected to have studied the grammatical system and structures of the\nlanguage during their course. Knowledge of the grammar and structures specified for GCSE is\nassumed.\nIn the exam students will be required to use, actively and accurately, grammar and structures\nappropriate to the tasks set, drawn from the following list. The mention of an item in this list implies\nknowledge of both its forms and its functions at an appropriate level of accuracy and complexity.\nThe examples in italics in parentheses are indicative; they serve to illustrate the part of speech or\nstructure that the student must know and do not represent an exhaustive specification of the\nrequired grammatical knowledge. For items marked (R), receptive knowledge only is required.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Nouns",
+              "level": 2,
+              "content": "Gender\nSingular and plural forms\nPlural of male/female pairs (eg los Reyes)\nAffective suffixes (R)",
+              "children": []
+            },
+            {
+              "code": "3.3.2",
+              "title": "Articles",
+              "level": 2,
+              "content": "Definite and indefinite\nEl with feminine nouns beginning with stressed a (el agua)\nLo + adjective",
+              "children": []
+            },
+            {
+              "code": "3.3.3",
+              "title": "Adjectives",
+              "level": 2,
+              "content": "Agreement\nPosition\nApocopation (eg gran, buen, mal, primer)\nComparative and superlative (eg más fuerte; mejor, peor, mayor, menor)\nUse of adjectives as nouns (eg una triste, la roja, las norteamericanas)\nDemonstrative (eg este, ese, aquel)\nIndefinite (eg alguno, cualquiera, otro)\nPossessive (weak and strong forms) (eg mi /mío)\nInterrogative and exclamatory (eg ¿cuánto?/ ¡cuánto!, etc, including use of ¿qué?/ ¡qué!)\nRelative (cuyo) (R)",
+              "children": []
+            },
+            {
+              "code": "3.3.4",
+              "title": "Numerals",
+              "level": 2,
+              "content": "Cardinal (eg uno, dos)\nOrdinal 1–10 (eg primero, segundo)\nAgreement (eg cuatrocientas chicas)\nExpression of time and date",
+              "children": []
+            },
+            {
+              "code": "3.3.5",
+              "title": "Adverbs",
+              "level": 2,
+              "content": "Formation of adverbs in -mente\nComparative and superlative (eg más despacio)\nUse of adjectives as adverbs (eg rápido, claro)\nAdjectives as equivalents of English adverbs (eg Salió contenta)\nInterrogative (eg ¿cómo?, ¿cuándo?, ¿dónde?)",
+              "children": []
+            },
+            {
+              "code": "3.3.6",
+              "title": "Quantifiers/intensifiers",
+              "level": 2,
+              "content": "(eg muy, bastante, poco, mucho)",
+              "children": []
+            },
+            {
+              "code": "3.3.7",
+              "title": "Pronouns",
+              "level": 2,
+              "content": "Subject\nObject: direct and indirect; use of se for le(s); ‘redundant’ use of indirect object (eg Dale un beso a\ntu papá)\nReflexive\nUnstressed/stressed forms (eg me/mí)\nPosition and order\nRelative (que, quien, el que, el cual)\nDemonstrative (este, ese, aquel; esto, eso, aquello)\nIndefinite (eg algo, alguien)\nPossessive (eg el mío, la mía). Expression of possession by the use of the indirect object pronoun\n(Le rompió el brazo) must also be included.\nInterrogative",
+              "children": []
+            },
+            {
+              "code": "3.3.8",
+              "title": "Verbs",
+              "level": 2,
+              "content": "Regular conjugations of -ar, -er and -ir verbs, including radical-changing (eg recordar/recuerdo,\npedir/pido) and orthographic-changing (eg abrazar/ abracé) verbs in all tenses and moods, finite\nand non-finite forms\nRegular and irregular verbs, in all tenses and moods, finite and non-finite forms\nAgreement of verb and subject\nUse of hay que in all tenses\nUse of tenses:\n- present\n- preterite\n- imperfect\n- future\n- conditional\n- perfect\n- future perfect\n- conditional perfect\n- pluperfect.\nUse of the infinitive, the gerund and the past participle\nVerbal paraphrases and their uses. These include but are not limited to the following:\n- ir a + infinitive\n- estar + gerund\n- acabar de + infinitive\n- estar para + infinitive\n- llevar + gerund\n- ir + gerund (R)\n- venir + gerund (R).\nUse of the subjunctive\nCommands\nConditional sentences\nAfter conjunctions of time\nAfter para que, sin que\nIn relative clauses (R)\nAfter other subordinating conjunctions (R)\nWith verbs and verbal expressions of wishing, commanding, influencing, emotional reaction, doubt,\ndenial, possibility, probability (R)\nSequence of tense in indirect speech and other subordinate clauses\nVoice\nUse of the reflexive as a passive (eg El puente se construyó para unir a las comunidades)\nUse of the reflexive to express an impersonal subject (eg ¿Cómo se llega a la estación?)\nUse of ser + past participle\nUse of estar + past participle\n‘Nuance’ reflexive verbs (eg caerse, pararse)\nModes of address (tú, usted; vos (R))\nConstructions with verbs\nVerbs followed directly by an infinitive (eg querer, poder)\nVerbs followed by a preposition plus an infinitive or noun phrase (eg insistir en, negarse a)\nVerbs followed by a gerund (eg seguir)\nVerbs of perception (eg Vi asfaltar la calle)\nUses of ser and estar",
+              "children": []
+            },
+            {
+              "code": "3.3.9",
+              "title": "Prepositions",
+              "level": 2,
+              "content": "All prepositions, both simple (eg bajo) and complex (eg encima de)\n‘Personal’ a\nDiscrimination of por and para",
+              "children": []
+            },
+            {
+              "code": "3.3.10",
+              "title": "Conjunctions",
+              "level": 2,
+              "content": "Coordinating conjunctions (eg y, o, pero)\nSubordinating conjunctions. These include but are not limited to the following:\n- cause (porque)\n- purpose (para que)\n- proviso (con tal que)\n- supposition (a no ser que)\n- time (cuando)\n- concession (aunque).\nUse of que to introduce a clause (eg ¡Cuidado, que se va a quemar la tortilla!) (R)",
+              "children": []
+            },
+            {
+              "code": "3.3.11",
+              "title": "Negation",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "3.3.12",
+              "title": "Questions",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "3.3.13",
+              "title": "Commands",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "3.3.14",
+              "title": "Word order",
+              "level": 2,
+              "content": "Subject following verb (Ha llegado el profesor; Me gustan las patatas)\nFocalisation (Tú ¿qué opinas?; A Cristiano lo odian) (R)",
+              "children": []
+            },
+            {
+              "code": "3.3.15",
+              "title": "Other constructions",
+              "level": 2,
+              "content": "Time expressions with hace/hacía and desde hace/hacía\nCleft sentences (Fue en Madrid donde nos conocimos)\nComparative constructions. These include but are not limited to the following:\n- tan... como..., etc\n- más... que..., etc.\nTiene más dinero de lo que creía (R)\nIndirect speech",
+              "children": []
+            },
+            {
+              "code": "3.3.16",
+              "title": "Discourse markers",
+              "level": 2,
+              "content": "(eg Es que..., Por ejemplo, Ahora bien...)",
+              "children": []
+            },
+            {
+              "code": "3.3.17",
+              "title": "Fillers",
+              "level": 2,
+              "content": "(eg pues, bueno)",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Works",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Literary texts and films",
+              "level": 2,
+              "content": "Students must study either one text or one film from the list below. Abridged editions should not be\nused.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Texts",
+                  "level": 3,
+                  "content": "- Federico García Lorca La casa de Bernarda Alba\n- Gabriel García Márquez Crónica de una muerte anunciada\n- Laura Esquivel Como agua para chocolate\n- Ramón J. Sender Réquiem por un campesino español\n- Carlos Ruiz Zafón La sombra del viento\n- Isabel Allende La casa de los espíritus\n- Gustavo Adolfo Bécquer Rimas\n- Fernando Fernán-Gómez Las bicicletas son para el verano\n- Luis de Castresana El otro árbol de Guernica\n- Gabriel García Márquez El coronel no tiene quien le escriba",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Films",
+                  "level": 3,
+                  "content": "- El laberinto del fauno Guillermo del Toro (2006)\n- Ocho apellidos vascos Emilio Martínez-Lázaro (2014)\n- María, llena eres de gracia Joshua Marston (2004)\n- Volver Pedro Almodóvar (2006)\n- Abel Diego Luna (2010)\n- Las 13 rosas Emilio Martínez-Lázaro (2007)",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

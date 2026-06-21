@@ -1,0 +1,128 @@
+{
+  "Mathematics": {
+    "subject": "Mathematics",
+    "spec_code": "9MA0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/mathematics-2017.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Mathematics/2017/specification-and-sample-assesment/a-level-l3-mathematics-specification-issue4.pdf"
+  },
+  "Biology": {
+    "subject": "Biology",
+    "spec_code": "9BI0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/biology-b-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/biology-b/2015/specification-and-sample-assessment-materials/9781446930892-gce2015-a-biob-spec.pdf"
+  },
+  "Chemistry": {
+    "subject": "Chemistry",
+    "spec_code": "9CH0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/chemistry-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Chemistry/2015/Specification and sample assessments/a-level-chemistry-2015-specification.pdf"
+  },
+  "Physics": {
+    "subject": "Physics",
+    "spec_code": "9PH0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/physics-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Physics/2015/Specification and sample assessments/pearsonedexcel-alevel-physics-spec.pdf"
+  },
+  "Psychology": {
+    "subject": "Psychology",
+    "spec_code": "9PS0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/psychology-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Psychology/2015/specification-and-sample-assessments/al-specification-psychology.pdf"
+  },
+  "History": {
+    "subject": "History",
+    "spec_code": "9HI0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/history-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/History/2015/Specification and sample assessments/9781446914366-gce-2015-a-hist.pdf"
+  },
+  "English_Literature": {
+    "subject": "English_Literature",
+    "spec_code": "9ET0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-literature-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/English Literature/2015/Specification and sample assessments/gce2015-a-level-eng-lit-spec.pdf"
+  },
+  "English_Language": {
+    "subject": "English_Language",
+    "spec_code": "9EN0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/english-language-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/English Language/2015/Specification and sample assessment/AS-EnglishLanguage-Spec.pdf"
+  },
+  "Geography": {
+    "subject": "Geography",
+    "spec_code": "9GE0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/geography-2016.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Geography/2016/specification-and-sample-assessments/pearson-edexcel-a-level-geography-issue-6.pdf"
+  },
+  "Business_Studies": {
+    "subject": "Business_Studies",
+    "spec_code": "9BS0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/business-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Business Studies/2015/specification-and-sample-assessment-materials/9781446914694-gce2015-a-bus-web.pdf"
+  },
+  "Economics": {
+    "subject": "Economics",
+    "spec_code": "9EC0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/economics-a-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Economics/2015/teaching-and-learning-materials/Specification_mapping.pdf"
+  },
+  "Religious_Studies": {
+    "subject": "Religious_Studies",
+    "spec_code": "9RS0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/religious-studies-2016.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Religious Studies/2016/Specification and sample assessments/Specification_GCE_A_Level_in_Religious_Studies.pdf"
+  },
+  "Spanish": {
+    "subject": "Spanish",
+    "spec_code": "9SP0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/spanish-2016.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Spanish/2016/Specification and sample assessments/Specification_GCE_A_level_L3_in_Spanish.pdf"
+  },
+  "French": {
+    "subject": "French",
+    "spec_code": "9FR0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/french-2016.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/French/2016/Specification and sample assessments/Specification_GCE_A_level_L3_in_French.pdf"
+  },
+  "Politics": {
+    "subject": "Politics",
+    "spec_code": "9PL0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/politics-2017.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Politics/2017/Specification and sample assessments/Politics_assessment_guidance.pdf"
+  },
+  "Physical_Education": {
+    "subject": "Physical_Education",
+    "spec_code": "9PE0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/physical-education-2016.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Physical Education/2016/Specification and sample assessments/a-level-pe-specification.pdf"
+  },
+  "Music": {
+    "subject": "Music",
+    "spec_code": "9MU0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/music-2016.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Music/2016/Specification and sample assessments/Pearson_Edexcel_Level_3_Advanced_GCE_in_Music_9MU0_specification_issue7.pdf"
+  },
+  "Drama": {
+    "subject": "Drama",
+    "spec_code": "9DR0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/drama-and-theatre-2016.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Drama-and-Theatre/2016/Specification and sample assessments/a-level-drama-spec.pdf"
+  },
+  "Design_and_Technology": {
+    "subject": "Design_and_Technology",
+    "spec_code": "9DT0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/design-technology-product-design-2017.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Design and Technology - Product Design/2017/specification-and-sample-assessments/Pearson_Edexcel_Level_3_GCE_in_Design_and_Technology_Specification_issue2.pdf"
+  },
+  "Art_and_Design": {
+    "subject": "Art_and_Design",
+    "spec_code": "9AD0",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/art-and-design-2015.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/Art and Design/2015/specification-and-sample-assessment-materials/gce-a-level-art-and-design-specification-issue-4.pdf"
+  },
+  "Statistics": {
+    "subject": "Statistics",
+    "spec_code": "",
+    "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/statistics-2017.html",
+    "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/A Level/statistics/2017/Specification and Sample assessment material/a-level-statistics-specification.pdf"
+  }
+}

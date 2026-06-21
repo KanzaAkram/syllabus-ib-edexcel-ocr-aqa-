@@ -1,0 +1,597 @@
+{
+  "source_pdf": "GCSE/Design_and_Technology/8552_2017_to_PRESENT/AQA_GCSE_Design_and_Technology_8552_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Design and Technology",
+  "spec_code": "8552",
+  "pdf_name": "AQA_GCSE_Design_and_Technology_8552_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Core technical principles",
+          "level": 1,
+          "content": "In order to make effective design choices students will need a breadth of core technical knowledge\nand understanding that consists of:\n- new and emerging technologies\n- energy generation and storage\n- developments in new materials\n- systems approach to designing\n- mechanical devices\n- materials and their working properties.\nAll of this section must be taught and all will be assessed.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "New and emerging technologies",
+              "level": 2,
+              "content": "Students must know and understand the impact of new and emerging technologies on\ncontemporary and potential future scenarios in relation to the following areas:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Industry",
+                  "level": 3,
+                  "content": "The impact of new and emerging technologies on:\n- the design and organisation of the workplace\nincluding automation and the use of robotics\n- buildings and the place of work\n- tools and equipment.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Enterprise",
+                  "level": 3,
+                  "content": "Enterprise based on the development of an effective\nbusiness innovation:\n- crowd funding\n- virtual marketing and retail\n- co-operatives\n- fair trade.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Sustainability",
+                  "level": 3,
+                  "content": "The impact of resource consumption on the planet:\n- finite\n- non-finite\n- disposal of waste.\nPotential links to maths and science\nTaking into consideration the ecological\nand social footprint of materials.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "People",
+                  "level": 3,
+                  "content": "How technology push/market pull affects choice.\nChanging job roles due to the emergence of new\nways of working driven by technological change.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Culture",
+                  "level": 3,
+                  "content": "Changes in fashion and trends in relation to new and\nemergent technologies.\nRespecting people of different faiths and beliefs.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Society",
+                  "level": 3,
+                  "content": "How products are designed and made to avoid\nhaving a negative impact on others:\n- design for disabled\n- elderly\n- different religious groups.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Environment",
+                  "level": 3,
+                  "content": "Positive and negative impacts new products have on\nthe environment:\n- continuous improvement\n- efficient working\n- pollution\n- global warming.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Production techniques and systems",
+                  "level": 3,
+                  "content": "The contemporary and potential future use of:\n- automation\n- computer aided design (CAD)\n- computer aided manufacture (CAM)\n- flexible manufacturing systems (FMS)\n- just in time (JIT)\n- lean manufacturing.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "How the critical evaluation of new and emerging technologies informs design decisions",
+                  "level": 3,
+                  "content": "That it is important to consider scenarios from\ndifferent perspectives and considering:\n- planned obsolescence\n- design for maintenance\n- ethics\n- the environment.\nPotential links to maths and science\nEthical factors and consideration of\necological and social footprint.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Energy generation and storage",
+              "level": 2,
+              "content": "Students should understand how energy is generated and stored and how this is used as the basis\nfor the selection of products and power systems.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Fossil fuels",
+                  "level": 3,
+                  "content": "How power is generated from:\n- coal\n- gas\n- oil.\nArguments for and against the selection of fossil\nfuels.\nPotential links to maths and science\nHow to choose appropriate energy\nsources.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Nuclear power",
+                  "level": 3,
+                  "content": "How nuclear power is generated.\nArguments for and against the selection of nuclear\npower.\nPotential links to maths and science\nHow to choose appropriate energy\nsources.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Renewable energy",
+                  "level": 3,
+                  "content": "How power is generated from:\n- wind\n- solar\n- tidal\n- hydro-electrical\n- biomass.\nArguments for and against the selection of\nrenewable energy.\nPotential links to maths and science\nHow to choose appropriate energy\nsources.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Energy storage systems including batteries",
+                  "level": 3,
+                  "content": "Kinetic pumped storage systems.\nAlkaline and re-chargeable batteries.\nPotential links to maths and science\nHow to choose appropriate energy\nsources.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Developments in new materials",
+              "level": 2,
+              "content": "Students should be aware of developments in new materials.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Modern materials",
+                  "level": 3,
+                  "content": "Developments made through the invention of new or\nimproved processes eg Graphene, Metal foams and\nTitanium.\nAlterations to perform a particular function eg\nCoated metals, Liquid Crystal Displays (LCDs) and\nNanomaterials.\nPotential links to maths and science\nClassification of the types of properties of a\nrange of materials.\nSelecting appropriate materials.\nExtracting information from technical\nspecifications.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Smart materials",
+                  "level": 3,
+                  "content": "That materials can have one or more properties that\ncan be significantly changed in a controlled fashion\nby external stimuli, such as stress, temperature,\nmoisture, or PH eg shape memory alloys,\nthermochromic pigments and photochromic\npigments\nPotential links to maths and science\nClassification of the types of properties of a\nrange of materials.\nSelecting appropriate materials.\nExtracting information from technical\nspecifications.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Composite materials",
+                  "level": 3,
+                  "content": "That composite materials are produced by\ncombining two or more different materials to create\nan enhanced material eg glass reinforced plastic\n(GRP) and carbonfibre reinforced plastic (CRP).\nPotential links to maths and science\nClassification of the types of properties of a\nrange of materials.\nSelecting appropriate materials.\nExtracting information from technical\nspecifications.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Technical textiles",
+                  "level": 3,
+                  "content": "How fibres can be spun to make enhanced fabrics\neg conductive fabrics, fire resistant fabrics, kevlar\nand microfibres incorporating micro encapsulation.\nPotential links to maths and science\nClassification of the types of properties of a\nrange of materials.\nSelecting appropriate materials.\nExtracting information from technical\nspecifications.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.4",
+              "title": "Systems approach to designing",
+              "level": 2,
+              "content": "Students should consider electronic systems including programmable components to provide\nfunctionality to products and processes, and enhance and customise their operation.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Inputs",
+                  "level": 3,
+                  "content": "The use of light sensors, temperature sensors,\npressure sensors and switches.\nPotential links to maths and science\nExtracting information from technical\nspecifications.\nComponent names, interaction and\noperation.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Processes",
+                  "level": 3,
+                  "content": "The use of programming microcontrollers as\ncounters, timers and for decision making, to provide\nfunctionality to products and processes.\nPotential links to maths and science\nExtracting information from technical\nspecifications.\nComponent names, interaction and\noperation.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Outputs",
+                  "level": 3,
+                  "content": "The use of buzzers, speakers and lamps, to provide\nfunctionality to products and processes.\nPotential links to maths and science\nExtracting information from technical\nspecifications.\nComponent names, interaction and\noperation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.5",
+              "title": "Mechanical devices",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Different types of movement",
+                  "level": 3,
+                  "content": "The functions of mechanical devices to produce\nlinear, rotary, reciprocating and oscillating\nmovements.\nPotential links to maths and science\nVisualise and represent 2D and 3D objects\nincluding 2D diagrams of mechanisms/\nmechanical movement.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Changing magnitude and direction of force",
+                  "level": 3,
+                  "content": "Levers:\n- first order\n- second order\n- third order.\nLinkages:\n- bell cranks\n- push/pull.\nRotary systems:\n- CAMs and followers\n- simple gear trains\n- pulleys and belts.\nPotential links to maths and science\nThe action of forces and how levers and\ngears transmit and transform the effects of\nforces.\nArithmetic and numerical computation eg\nuse ratios.\nUse angular measures in degrees,\nvisualise and represent 2D and 3D objects\nincluding 2D diagrams of mechanisms/\nmechanical movement.\nKnowledge of the function of mechanical\ndevices to produce different sorts of\nmovement, changing the magnitude and\ndirection of forces.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.6",
+              "title": "Materials and their working properties",
+              "level": 2,
+              "content": "Students should know and understand the categorisation of the types and properties of the\nfollowing materials.",
+              "children": [
+                {
+                  "code": "3.1.6.1",
+                  "title": "Material categories",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Papers and boards",
+                      "level": 4,
+                      "content": "Students should have an overview of the main\ncategories and types of papers and boards:\npapers including:\n- bleed proof\n- cartridge paper\n- grid\n- layout paper\n- tracing paper\nboards including:\n- corrugated card\n- duplex board\n- foil lined board\n- foam core board\n- ink jet card\n- solid white board.\nPotential links to maths and science\nClassification of the types and properties of\na range of materials.\nPhysical properties of materials related to\nuse and knowledge applied when\ndesigning and making.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Natural and manufactured timbers",
+                      "level": 4,
+                      "content": "Students should have an overview of the main\ncategories and types of natural and manufactured\ntimbers:\nhardwoods including:\n- ash\n- beech\n- mahogany\n- oak\n- balsa\nsoftwoods including:\n- larch\n- pine\n- spruce\nmanufactured boards including:\n- medium density fibreboard (MDF)\n- plywood\n- chipboard.\nPotential links to maths and science\nClassification of the types and properties of\na range of materials.\nPhysical properties of materials related to\nuse and knowledge applied when\ndesigning and making.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Metals and alloys",
+                      "level": 4,
+                      "content": "Students should have an overview of the main\ncategories and types of metals and alloys:\nferrous metals including:\n- low carbon steel\n- cast Iron\n- high carbon/tool steel\nnon ferrous metals including:\n- aluminum\n- copper\n- tin\n- zinc\nalloys including:\n- brass\n- stainless steel\n- high speed steel.\nPotential links to maths and science\nClassification of the types and properties of\na range of materials.\nPhysical properties of materials related to\nuse and knowledge applied when\ndesigning and making.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Polymers",
+                      "level": 4,
+                      "content": "Students should have an overview of the main\ncategories and types of polymers:\nthermoforming including:\n- acrylic (PMMA)\n- high impact polystyrene (HIPS)\n- high density polythene (HDPE)\n- polypropylene (PP)\n- polyvinyl chloride (PVC)\n- polyethylene terephthalate (PET)\nthermosetting including:\n- epoxy resin (ER)\n- melamine-formaldehyde (MF)\n- phenol formaldehyde (PF)\n- polyester resin (PR)\n- urea-formaldehyde (UF).\nPotential links to maths and science\nClassification of the types and properties of\na range of materials.\nPhysical properties of materials related to\nuse and knowledge applied when\ndesigning and making.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Textiles",
+                      "level": 4,
+                      "content": "Students should have an overview of the main\ncategories and types of textiles:\nnatural fibres including:\n- cotton\n- wool\n- silk\nsynthetic fibres including:\n- polyester\n- polyamide (nylon)\n- elastane (lycra)\nblended and mixed fibres including:\n- cotton/polyester\nwoven including:\n- plain weave\nnon-woven including:\n- bonded fabrics\n- felted fabrics\nknitted textiles including:\n- knitted fabrics.\nPotential links to maths and science\nClassification of the types and properties of\na range of materials.\nPhysical properties of materials related to\nuse and knowledge applied when\ndesigning and making.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.1.6.2",
+                  "title": "Material properties",
+                  "level": 3,
+                  "content": "Students should have an understanding of the working and physical properties of the materials in\nMaterial categories (page 16).",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Material properties",
+                      "level": 4,
+                      "content": "In relation to the main categories outlined above (not\nthe specific materials identified), students should\nknow and understand physical properties such as:\n- absorbency (resistance to moisture)\n- density\n- fusibility\n- electrical and thermal conductivity.\nIn relation to the main categories outlined above (not\nthe specific materials identified), students should\nknow and understand working properties such as:\n- strength\n- hardness\n- toughness\n- malleability\n- ductility and elasticity.\nPotential links to maths and science\nScientific vocabulary eg metals/non-metals\nand physical and chemical differences\nbetween them eg types and properties\nacross a range of materials.\nUsing materials eg composition of some\nimportant alloys eg selection of an alloy for\nenhanced durability in a particular design\nsituation.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Specialist technical principles",
+          "level": 1,
+          "content": "In addition to the core technical principles, all students should develop an in-depth knowledge and\nunderstanding of the following specialist technical principles:\n- selection of materials or components\n- forces and stresses\n- ecological and social footprint\n- sources and origins\n- using and working with materials\n- stock forms, types and sizes\n- scales of production\n- specialist techniques and processes\n- surface treatments and finishes.\nEach specialist technical principle should be delivered through at least one material category or\nsystem. Not all of the principles outlined above relate to every material category or system, but all\nmust be taught.\nThe categories through which the principles can be delivered are:\n- papers and boards\n- timber based materials\n- metal based materials\n- polymers\n- textile based materials\n- electronic and mechanical systems.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Selection of materials or components",
+              "level": 2,
+              "content": "In relation to at least one material category or system, students should be able to select materials\nand components considering the factors listed below.\nFunctionality: application of use, ease of working.\nAesthetics: surface finish, texture and colour.\nEnvironmental factors: recyclable or reused\nmaterials.\nAvailability: ease of sourcing and purchase.\nCost: bulk buying.\nSocial factors: social responsibility.\nCultural factors: sensitive to cultural influences.\nEthical factors: purchased from ethical sources such\nas FSC.\nPotential links to maths and science\nCalculation of material costs.\nSelection and use of materials considering\nend of life disposal.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Forces and stresses",
+              "level": 2,
+              "content": "In relation to at least one material category or system, students should know and understand the\nimpact of forces and stresses and the way in which materials can be reinforced and stiffened.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Materials and objects can be manipulated to resist and work with forces and stresses",
+                  "level": 3,
+                  "content": "Tension, compression, bending, torsion and shear.\nPotential links to maths and science\nChanging the magnitude and direction of\nforces.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Materials can be enhanced to resist and work with forces and stresses to improve functionality",
+                  "level": 3,
+                  "content": "How materials can be reinforced, stiffened or made\nmore flexible: eg lamination, bending, folding,\nwebbing, fabric interfacing.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.3",
+              "title": "Ecological and social footprint",
+              "level": 2,
+              "content": "In relation to at least one material category or system, students should have a knowledge and\nunderstanding of the ecological and social footprint left by designers.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Ecological issues in the design and manufacture of products",
+                  "level": 3,
+                  "content": "Deforestation, mining, drilling and farming.\nMileage of product from raw material source,\nmanufacture, distribution, user location and final\ndisposal.\nThat carbon is produced during the manufacture of\nproducts.\nPotential links to maths and science\nSelecting appropriate materials.\nUnderstanding of how to choose\nappropriate energy sources.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "The six Rs",
+                  "level": 3,
+                  "content": "Reduce, refuse, re-use, repair, recycle and rethink.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Social issues in the design and manufacture of products",
+                  "level": 3,
+                  "content": "Safe working conditions; reducing oceanic/\natmospheric pollution and reducing the detrimental\n(negative) impact on others.\nPotential links to maths and science\nEthical factors and the social footprint of\nmaterials used in products.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.4",
+              "title": "Sources and origins",
+              "level": 2,
+              "content": "In relation to at least one material category, students should know and understand the sources\nand origins of materials.\nPrimary sources of materials and the main\nprocesses involved in converting into workable\nforms for at least one material area.\n- Paper and board (how cellulose fibres are\nderived from wood and grasses and converted\ninto paper).\n- Timber based materials (seasoning,\nconversion and creation of manufactured\ntimbers).\n- Metal based materials (extraction and\nrefining).\n- Polymers (refining crude oil, fractional\ndistillation and cracking).\n- Textile based materials (obtaining raw material\nfrom animal, chemical and vegetable sources,\nprocessing and spinning).\nPotential links to maths and science\nLife cycle assessment and recycling ie the\nbasic principles in carrying out a life cycle\nassessment of a material.",
+              "children": []
+            },
+            {
+              "code": "3.2.5",
+              "title": "Using and working with materials",
+              "level": 2,
+              "content": "In relation to at least one material category or system, students should know and understand in\naddition to material properties, the factors listed below.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Properties of materials",
+                  "level": 3,
+                  "content": "Students must know and understand how different\nproperties of materials and components are used in\ncommercial products, how properties influence use\nand how properties affect performance.\nStudents must know and understand the physical\nand mechanical properties relevant to commercial\nproducts in their chosen area as follows.\n- Papers and boards (flyers/leaflets and card\nbased food packaging).\n- Timber based materials (traditional timber\nchildren’s toys and flat pack furniture).\n- Metal based materials (cooking utensils and\nhand tools).\n- Polymers (polymer seating and electrical\nfittings).\n- Textile based materials (sportswear and\nfurnishings).\n- Electronic and mechanical systems (motor\nvehicles and domestic appliances).\nPotential links to maths and science\nHow physical and working properties are\nselected related and used in commercial\nproducts when designing and making.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "The modification of properties for specific purposes",
+                  "level": 3,
+                  "content": "- Additives to prevent moisture transfer (paper\nand boards).\n- Seasoning to reduce moisture content of\ntimbers (timber based materials).\n- Annealing to soften material to improve\nmalleability (metal based materials).\n- Stabilisers to resist UV degradation\n(polymers).\n- Flame retardants reduce combustion and fire\nhazards (textile based materials).\n- Photosensitive PCB board in PCB\nmanufacture and anodizing aluminium to\nimprove surface hardness (electronic and\nmechanical systems).\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "How to shape and form using cutting, abrasion and addition",
+                  "level": 3,
+                  "content": "- Papers and boards (how to cut, crease, score,\nfold and perforate card).\n- Timber based materials (how to cut, drill,\nchisel, sand and plane).\n- Metal based materials (how to cut, drill, turn,\nmill, cast, braze and weld).\n- Polymers (how to cut, drill, cast, deform, print\nand weld).\n- Textile based materials (how to sew, pleat,\ngather, quilt and pipe).\n- Electronic and mechanical systems (how to\ncut, drill and solder).\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.6",
+              "title": "Stock forms, types and sizes",
+              "level": 2,
+              "content": "In relation to at least one material category or system, students should know and understand the\ndifferent stock forms types and sizes in order to calculate and determine the quantity of materials\nor components required.\nCommercially available types and sizes of materials\nand components.\nPapers and boards:\n- sheet, roll and ply\n- sold by size eg A3, thickness, weight and\ncolour\n- standard components eg fasteners, seals and\nbindings\n- cartridge paper and corrugated card.\nTimber based materials:\n- planks, boards and standard moldings\n- sold by length, width, thickness and diameter\n- standard components eg woodscrews, hinges,\nKD fittings.\nMetal based materials:\n- sheet, rod, bar and tube\n- sold by length, width, thickness and diameter\n- standard components eg rivets, machine\nscrews, nuts, and bolts.\nPolymers:\n- sheet, rod, powder, granules, foam and films\n- sold by length, width, gauge and diameter\n- standard components eg screws, nuts and\nbolts, hinges.\nTextile based materials:\n- yarns and fabrics\n- sold by roll size, width, weight and ply\n- standard components eg zips, press studs,\nvelcro.\nElectrical and mechanical components:\n- sold by quantity, volt and current rating\n- standard components eg E12 resistor series,\ndual in line IC packages (DIL), microcontrollers\n(PIC).\nPotential links to maths and science\nCalculation of material quantities and\nsizes.\nCalculate surface area and volume eg\nmaterial requirements for a specific use.\nEfficient material use, pattern spacing,\nnesting and minimising waste.",
+              "children": []
+            },
+            {
+              "code": "3.2.7",
+              "title": "Scales of production",
+              "level": 2,
+              "content": "In relation to at least one material category or system, students should be able to select materials\nand components considering scales of production and referencing the processes listed in\nSpecialist Techniques and processes. (page 25)\nHow products are produced in different volumes.\nThe reasons why different manufacturing methods\nare used for different production volumes:\n- prototype\n- batch\n- mass\n- continuous.\nPotential links to maths and science",
+              "children": []
+            },
+            {
+              "code": "3.2.8",
+              "title": "Specialist techniques and processes",
+              "level": 2,
+              "content": "In relation to at least one material category or system, students should know and understand the\nfactors listed below.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "The use of production aids",
+                  "level": 3,
+                  "content": "How to use measurement/reference points,\ntemplates, jigs and patterns where suitable.\nPotential links to maths and science\nScaling of drawings, working to datums.\nMaterial quantities required.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Tools, equipment and processes",
+                  "level": 3,
+                  "content": "A range of tools, equipment and processes that can\nbe used to shape, fabricate, construct and assemble\nhigh quality prototypes, as appropriate to the\nmaterials and/or components being used including:\nwastage, such as:\n- die cutting\n- perforation\n- turning\n- sawing\n- milling\n- drilling\n- cutting and shearing\naddition, such as:\n- brazing\n- welding\n- lamination\n- soldering\n- 3D printing\n- batik\n- sewing\n- bonding\n- printing\ndeforming and reforming such as:\n- vacuum forming\n- creasing\n- pressing\n- drape forming\n- bending\n- folding\n- blow moulding\n- casting\n- injection moulding\n- extrusion.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "How materials are cut shaped and formed to a tolerance",
+                  "level": 3,
+                  "content": "The manufacture to minimum and maximum\nmeasurements.\nPotential links to maths and science\nExtracting information on tolerances and\nusing it to control quality and make a\nprototype.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Commercial processes",
+                  "level": 3,
+                  "content": "- Papers and boards (offset lithography and die\ncutting).\n- Timber based materials (routing and turning).\n- Metal based materials (milling and casting).\n- Polymers (injection molding and extrusion).\n- Textile based materials (weaving, dying and\nprinting).\n- Electrical and mechanical systems (pick and\nplace assembly and flow soldering).\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Quality control",
+                  "level": 3,
+                  "content": "The application and use of quality control to include\nmeasurable and quantitative systems used during\nmanufacture\n- Papers and boards (registration marks).\n- Timber based materials (dimensional accuracy\nusing go/no go fixture).\n- Metal based materials (dimensional accuracy\nusing a depth stop).\n- Polymers (dimensional accuracy by selecting\ncorrect laser settings).\n- Textile based materials (dimensional accuracy\nchecking a repeating print against an original\nsample).\n- Electrical and mechanical systems (UV\nexposure, developing and etching times in\nPCB manufacture).\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.9",
+              "title": "Surface treatments and finishes",
+              "level": 2,
+              "content": "In relation to at least one material category or system, students should have knowledge and\nunderstanding of surface treatments and finishes.\nThe preparation and application of treatments and\nfinishes to enhance functional and aesthetic\nproperties.\n- Papers and boards (printing, embossing and\nUV varnishing).\n- Timber based materials (painting, varnishing\nand tanalising).\n- Metal based materials (dip coating, powder\ncoating and galvanizing).\n- Polymers (polishing, printing and vinyl decals).\n- Textile based materials (printing, dyes and\nstain protection).\n- Electronic and mechanical systems (PCB\nlacquering, and lubrication).\nPotential links to maths and science\nSurface treatments to inhibit corrosion and\noxidation.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Designing and making principles",
+          "level": 1,
+          "content": "Students should know and understand that all design and technology activities take place within a\nwide range of contexts.\nThey should also understand how the prototypes they develop must satisfy wants or needs and be\nfit for their intended use. For example, the home, school, work or leisure.\nThey will need to demonstrate and apply knowledge and understanding of designing and making\nprinciples in relation to the following areas:\n- investigation, primary and secondary data\n- environmental, social and economic challenge\n- the work of others\n- design strategies\n- communication of design ideas\n- prototype development\n- selection of materials and components\n- tolerances\n- material management\n- specialist tools and equipment\n- specialist techniques and processes.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Investigation, primary and secondary data",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Use primary and secondary data to understand client and/or user needs",
+                  "level": 3,
+                  "content": "How the following techniques are used and applied:\n- market research, interviews and human factors\nincluding ergonomics\n- focus groups and product analysis and\nevaluation\n- the use of anthropometric data and\npercentiles.\nPotential links to maths and science\nAnalysing responses to user\nquestionnaires.\nFrequency tables and information on\ndesign decisions.\nPresentation of client survey responses.\nPercentiles ranges used in\nanthropometrics and/or ergonomics.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "How to write a design brief and produce a design and manufacturing specification",
+                  "level": 3,
+                  "content": "Students should consider their own needs, wants\nand interests and those of others.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Carry out investigations in order to identfy problems and needs",
+                  "level": 3,
+                  "content": "Why a designer considers alterations to a brief and\nmodifying the brief as required.\nPotential links to maths and science\nComparative chart of performance criteria\nas for existing products to help evaluate\nthem.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.2",
+              "title": "Environmental, social and economic challenge",
+              "level": 2,
+              "content": "The environment, social and economic challenges\nthat influence design and making.\nHow the following might present opportunities and\nconstraints that influence the processes of\ndesigning and making:\n- deforestation\n- possible increase in carbon dioxide levels\nleading to potential global warming\n- the need for fair trade.\nPotential links to maths and science\nSelection of materials based on ethical\nfactors and social and environmental\nfootprints.",
+              "children": []
+            },
+            {
+              "code": "3.3.3",
+              "title": "The work of others",
+              "level": 2,
+              "content": "Students should investigate, analyse and evaluate\nthe work of past and present designers and\ncompanies to inform their own designing.\nStudents should investigate the work of a minimum\nof two of the following designers:\n- Alexander McQueen\n- Aldo Rossi\n- Aljoud Lootah\n- Charles Rennie Macintosh\n- Coco Chanel\n- David Adjaye\n- Elsie Owusu\n- Ettore Sottsass\n- Gerrit Reitveld\n- Harry Beck\n- Joe Casely-Hayford\n- Karim Rashid\n- Kusheda Mensah\n- Louis Comfort Tiffany\n- Marcel Breuer\n- Mary Quant\n- Morag Myerscough\n- Norman Foster\n- Philippe Starck\n- Pierre Davis\n- Raymond Templier\n- Rei Kawakubo\n- Sir Alec Issigonis\n- The Singh Twins\n- Vivienne Westwood\n- William Morris\n- Yinka Ilori\n- Zaha Hadid.\nStudents should investigate the work of a minimum\nof two of the following companies:\n- Alessi\n- Apple\n- Braun\n- Dyson\n- Gap\n- Primark\n- Under Armour\n- Zara.\nPotential links to maths and science",
+              "children": []
+            },
+            {
+              "code": "3.3.4",
+              "title": "Design strategies",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Generate imaginative and creative design ideas using a range of different design strategies",
+                  "level": 3,
+                  "content": "How different strategies can be applied, including:\n- collaboration\n- user centered design\n- a systems approach\n- iterative design\n- avoiding design fixation.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Explore and develop their own ideas",
+                  "level": 3,
+                  "content": "How this can be done using an iterative process\nincluding:\n- sketching\n- modelling\n- testing\n- evaluation of their work to improve outcomes.\nPotential links to maths and science\nMeasurement and marking out of\ncomponent parts for models.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.5",
+              "title": "Communication of design ideas",
+              "level": 2,
+              "content": "Develop, communicate, record and justify design\nideas using a range of appropriate techniques such\nas:\n- freehand sketching, isometric and perspective\n- 2D and 3D drawings\n- system and schematic diagrams\n- annotated drawings that explain detailed\ndevelopment or the conceptual stages of\ndesigning\n- exploded diagrams to show constructional\ndetail or assembly\n- working drawings: 3rd angle orthographic,\nusing conventions, dimensions and drawn to\nscale\n- audio and visual recordings in support of\naspects of designing: eg interviews with client\nor users\n- mathematical modelling\n- computer based tools\n- modelling: working directly with materials and\ncomponents, eg card modelling, producing a\ntoile when designing garments, constructing a\ncircuit using breadboard.\nPotential links to maths and science\nScaling drawings.",
+              "children": []
+            },
+            {
+              "code": "3.3.6",
+              "title": "Prototype development",
+              "level": 2,
+              "content": "Design and develop prototypes in response to client\nwants and needs. Note the term prototype can be\nused to describe either a product or system.\nHow the development of prototypes:\n- satisfy the requirements of the brief\n- respond to client wants and needs\n- demonstrate innovation\n- are functional\n- consider aesthetics\n- are potentially marketable.\nStudents should know and understand how to\nevaluate prototypes and be able to:\n- reflect critically, responding to feedback when\nevaluating their own prototypes\n- suggest modifications to improve them through\ninception and manufacture\n- assess if prototypes are fit for purpose.\nIn relation to at least one of the following material categories students must develop and apply an\nin-depth knowledge and understanding of sections Selection of materials and components (page\n33) to Specialist techniques and processes (page 35)\n- papers and boards\n- timber based materials\n- metal based materials\n- polymers\n- textile based materials\n- electronic and mechanical systems.\nPotential links to maths and science\nA presentation of data; tabulate responses\nand findings.",
+              "children": []
+            },
+            {
+              "code": "3.3.7",
+              "title": "Selection of materials and components",
+              "level": 2,
+              "content": "Appropriate materials and components to make a\nprototype.\nHow to select and use materials and components\nappropriate to the task considering:\n- functional need\n- cost\n- availability.\nPotential links to maths and science\nSI units; identify appropriate commercially\navailable stock forms and select\nappropriately.\nComposition of some important alloys;\nselecting appropriate metal alloys as\nrequired.",
+              "children": []
+            },
+            {
+              "code": "3.3.8",
+              "title": "Tolerances",
+              "level": 2,
+              "content": "Work accurately using tolerances.\nHow a range of materials are cut, shaped and\nformed to designated tolerances.\nWhy tolerances are applied during making activities.\nPotential links to maths and science\nSI units eg accurate use of appropriate\ntolerances +/- 2mm, resistor tolerance and\nseam allowance.",
+              "children": []
+            },
+            {
+              "code": "3.3.9",
+              "title": "Material management",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Cut materials efficiently and minimise waste",
+                  "level": 3,
+                  "content": "The importance of planning the cutting and shaping\nof material to minimise waste eg nesting of shapes\nand parts to be cut from material stock forms.\nHow additional material may be removed by a\ncutting method or required for seam allowance, joint\noverlap etc.\nPotential links to maths and science\nExpression in decimal and standard form\neg calculation of required materials.\nCalculate surface area and volume eg\nmaterial requirements.\nAngular measures eg measurement and\nmarking out.\nSI units eg measurement of materials and\ncomponents using standard units as\nappropriate.\nThe use of reference datum points and co-\nordinates.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Use appropriate marking out methods, data points and coordinates",
+                  "level": 3,
+                  "content": "The value of using measurement and marking out to\ncreate an accurate and quality prototype.\nThe use of data points and coordinates including the\nuse of reference points, lines and surfaces,\ntemplates, jigs and/or patterns\nPotential links to maths and science\nUse angular measures eg tessellation of\ncomponent parts.\nCalculating material area eg working out\nthe quantity of materials required.\nSI units eg accurate use of appropriate\nunits of measurement to calculate material\nrequirements.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.10",
+              "title": "Specialist tools and equipment",
+              "level": 2,
+              "content": "How to select and use specialist tools and\nequipment, including hand tools, machinery, digital\ndesign and manufacture, appropriate for the material\nand/or task to complete quality outcomes.\nHow to use them safely to protect themselves and\nothers from harm.\nPotential links to maths and science",
+              "children": []
+            },
+            {
+              "code": "3.3.11",
+              "title": "Specialist techniques and processes",
+              "level": 2,
+              "content": "How to select and use specialist techniques and\nprocesses appropriate for the material and/or task\nand use them to the required level of accuracy in\norder to complete quality outcomes.\nHow to use them safely to shape, fabricate and\nconstruct a high quality prototype, including\ntechniques such as wastage, addition, deforming\nand reforming.\nPotential links to maths and science",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Surface treatments and finishes",
+                  "level": 3,
+                  "content": "Students should know and understand that surface\ntreatments and finishes are applied for functional\nand aesthetic purposes.\nHow to prepare a material for a treatment or finish.\nHow to apply an appropriate surface treatment or\nfinish.\nPotential links to maths and science\nCorrosion and oxidation eg how corrosion\nand/or oxidation affects different materials,\nhow they can be protected through\ndifferent surface treatments and finishes.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

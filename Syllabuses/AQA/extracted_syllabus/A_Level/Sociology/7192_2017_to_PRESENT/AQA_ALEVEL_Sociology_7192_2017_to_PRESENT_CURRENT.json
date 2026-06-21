@@ -1,0 +1,212 @@
+{
+  "source_pdf": "A_Level/Sociology/7192_2017_to_PRESENT/AQA_ALEVEL_Sociology_7192_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "A_Level",
+  "subject": "Sociology",
+  "spec_code": "7192",
+  "pdf_name": "AQA_ALEVEL_Sociology_7192_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 2,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject Content – AS",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Education with Methods in Context",
+          "level": 1,
+          "content": "The study of the topics in this paper should engage students in theoretical debate while\nencouraging an active involvement with the research process.\nThe study should foster a critical awareness of contemporary social processes and change, and\ndraw together the knowledge, understanding and skills learnt in different aspects of the course.\nIn their study of the topics, students should examine:\n- topic areas in relation to the two core themes (socialisation, culture and identity; and social\ndifferentiation, power and stratification)\n- both the evidence of and the sociological explanations for the content listed in the topic areas\nbelow.\nThroughout, students should be encouraged to use examples drawn from their own experience of\nsmall-scale research.\nAttention should be given to drawing out links with other topics studied in this specification.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Education",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- the role and functions of the education system, including its relationship to the economy and\nto class structure\n- differential educational achievement of social groups by social class, gender and ethnicity in\ncontemporary society\n- relationships and processes within schools, with particular reference to teacher/pupil\nrelationships, pupil identities and subcultures, the hidden curriculum, and the organisation of\nteaching and learning\n- the significance of educational policies, including policies of selection, marketisation and\nprivatisation, and policies to achieve greater equality of opportunity or outcome, for an\nunderstanding of the structure, role, impact and experience of and access to education; the\nimpact of globalisation on educational policy.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Methods in Context",
+              "level": 2,
+              "content": "Students must be able to apply sociological research methods to the study of education.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Research Methods and Topics in Sociology",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Research Methods",
+              "level": 2,
+              "content": "Students must examine the following areas:\n- quantitative and qualitative methods of research; research design\n- sources of data, including questionnaires, interviews, participant and non-participant\nobservation, experiments, documents and official statistics\n- the distinction between primary and secondary data, and between quantitative and qualitative\ndata\n- the relationship between positivism, interpretivism and sociological methods; the nature of\n‘social facts’\n- the theoretical, practical and ethical considerations influencing choice of topic, choice of\nmethod(s) and the conduct of research.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Topics in Sociology",
+              "level": 2,
+              "content": "The study of these topics should engage students in theoretical debate while encouraging an\nactive involvement with the research process.\nThe study should foster a critical awareness of contemporary social processes and change, and\ndraw together the knowledge, understanding and skills learnt in different aspects of the course.\nIn their study of these topics, students should examine:\n- topic areas in relation to the two core themes (socialisation, culture and identity; and social\ndifferentiation, power and stratification)\n- both the evidence of and the sociological explanations for the content listed in the topic areas\nbelow.\nThroughout, students should be encouraged to use examples drawn from their own experience of\nsmall-scale research.\nAttention should be given to drawing out links with other topics studied in this specification.",
+              "children": [
+                {
+                  "code": "3.2.2.1",
+                  "title": "Culture and Identity",
+                  "level": 3,
+                  "content": "Students are expected to be familiar with sociological explanations of the following content:\n- different conceptions of culture, including subculture, mass culture, folk culture, high and low\nculture, popular culture and global culture\n- the socialisation process and the role of the agencies of socialisation\n- the self, identity and difference as both socially caused and socially constructed\n- the relationship of identity to age, disability, ethnicity, gender, nationality, sexuality and social\nclass in contemporary society\n- the relationship of identity to production, consumption and globalisation.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.2",
+                  "title": "Families and Households",
+                  "level": 3,
+                  "content": "Students are expected to be familiar with sociological explanations of the following content:\n- the relationship of the family to the social structure and social change, with particular\nreference to the economy and to state policies\n- changing patterns of marriage, cohabitation, separation, divorce, childbearing and the life\ncourse, including the sociology of personal life, and the diversity of contemporary family and\nhousehold structures\n- gender roles, domestic labour and power relationships within the family in contemporary\nsociety\n- the nature of childhood, and changes in the status of children in the family and society\n- demographic trends in the United Kingdom since 1900: birth rates, death rates, family size,\nlife expectancy, ageing population, and migration and globalisation.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.3",
+                  "title": "Health",
+                  "level": 3,
+                  "content": "Students are expected to be familiar with sociological explanations of the following content:\n- the social construction of health, illness, disability and the body, and models of health and\nillness\n- the unequal social distribution of health chances in the United Kingdom by social class,\ngender, ethnicity and region\n- inequalities in the provision of, and access to, health care in contemporary society\n- the nature and social distribution of mental illness\n- the role of medicine, the health professions and the globalised health industry.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.4",
+                  "title": "Work, Poverty and Welfare",
+                  "level": 3,
+                  "content": "Students are expected to be familiar with sociological explanations of the following content:\n- the nature, existence and persistence of poverty in contemporary society\n- the distribution of poverty, wealth and income between different social groups\n- responses and solutions to poverty by the state and by private, voluntary and informal\nwelfare providers in contemporary society\n- organisation and control of the labour process, including the division of labour, the role of\ntechnology, skill and de-skilling\n- the significance of work and worklessness for people's lives and life chances, including the\neffects of globalisation.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_code": "4",
+      "section_title": "Subject Content – A-level",
+      "topics": [
+        {
+          "code": "4.1",
+          "title": "Education with Theory and Methods",
+          "level": 1,
+          "content": "The study of the topics in this paper should engage students in theoretical debate while\nencouraging an active involvement with the research process.\nThe study should foster a critical awareness of contemporary social processes and change, and\ndraw together the knowledge, understanding and skills learnt in different aspects of the course.\nIn their study of the topics, students should examine:\n- topic areas in relation to the two core themes (socialisation, culture and identity; and social\ndifferentiation, power and stratification)\n- both the evidence of and the sociological explanations for the content listed in the topic areas\nbelow.\nThroughout, students should be encouraged to use examples drawn from their own experience of\nsmall-scale research.\nAttention should be given to drawing out links with other topics studied in this specification.",
+          "children": [
+            {
+              "code": "4.1.1",
+              "title": "Education",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- the role and functions of the education system, including its relationship to the economy and\nto class structure\n- differential educational achievement of social groups by social class, gender and ethnicity in\ncontemporary society\n- relationships and processes within schools, with particular reference to teacher/pupil\nrelationships, pupil identities and subcultures, the hidden curriculum, and the organisation of\nteaching and learning\n- the significance of educational policies, including policies of selection, marketisation and\nprivatisation, and policies to achieve greater equality of opportunity or outcome, for an\nunderstanding of the structure, role, impact and experience of and access to education; the\nimpact of globalisation on educational policy.",
+              "children": []
+            },
+            {
+              "code": "4.1.2",
+              "title": "Methods in Context",
+              "level": 2,
+              "content": "Students must be able to apply sociological research methods to the study of education.",
+              "children": []
+            },
+            {
+              "code": "4.1.3",
+              "title": "Theory and Methods",
+              "level": 2,
+              "content": "Students must examine the following areas:\n- quantitative and qualitative methods of research; research design\n- sources of data, including questionnaires, interviews, participant and non-participant\nobservation, experiments, documents and official statistics\n- the distinction between primary and secondary data, and between quantitative and qualitative\ndata\n- the relationship between positivism, interpretivism and sociological methods; the nature of\n‘social facts’\n- the theoretical, practical and ethical considerations influencing choice of topic, choice of\nmethod(s) and the conduct of research\n- consensus, conflict, structural and social action theories\n- the concepts of modernity and post-modernity in relation to sociological theory\n- the nature of science and the extent to which Sociology can be regarded as scientific\n- the relationship between theory and methods\n- debates about subjectivity, objectivity and value freedom\n- the relationship between Sociology and social policy.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.2",
+          "title": "Topics in Sociology",
+          "level": 1,
+          "content": "The study of these topics should engage students in theoretical debate while encouraging an\nactive involvement with the research process.\nThe study should foster a critical awareness of contemporary social processes and change, and\ndraw together the knowledge, understanding and skills learnt in different aspects of the course.\nIn their study of these topics, students should examine:\n- topic areas in relation to the two core themes (socialisation, culture and identity; and social\ndifferentiation, power and stratification)\n- both the evidence of and the sociological explanations for the content listed in the topic areas\nbelow.\nThroughout, students should be encouraged to use examples drawn from their own experience of\nsmall-scale research.\nAttention should be given to drawing out links with other topics studied in this specification.",
+          "children": [
+            {
+              "code": "4.2.1",
+              "title": "Culture and Identity",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- different conceptions of culture, including subculture, mass culture, folk culture, high and low\nculture, popular culture and global culture\n- the socialisation process and the role of the agencies of socialisation\n- the self, identity and difference as both socially caused and socially constructed\n- the relationship of identity to age, disability, ethnicity, gender, nationality, sexuality and social\nclass in contemporary society\n- the relationship of identity to production, consumption and globalisation.",
+              "children": []
+            },
+            {
+              "code": "4.2.2",
+              "title": "Families and Households",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- the relationship of the family to the social structure and social change, with particular\nreference to the economy and to state policies\n- changing patterns of marriage, cohabitation, separation, divorce, childbearing and the life\ncourse, including the sociology of personal life, and the diversity of contemporary family and\nhousehold structures\n- gender roles, domestic labour and power relationships within the family in contemporary\nsociety\n- the nature of childhood, and changes in the status of children in the family and society\n- demographic trends in the United Kingdom since 1900: birth rates, death rates, family size,\nlife expectancy, ageing population, and migration and globalisation.",
+              "children": []
+            },
+            {
+              "code": "4.2.3",
+              "title": "Health",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- the social construction of health, illness, disability and the body, and models of health and\nillness\n- the unequal social distribution of health chances in the United Kingdom by social class,\ngender, ethnicity and region\n- inequalities in the provision of, and access to, health care in contemporary society\n- the nature and social distribution of mental illness\n- the role of medicine, the health professions and the globalised health industry.",
+              "children": []
+            },
+            {
+              "code": "4.2.4",
+              "title": "Work, Poverty and Welfare",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- the nature, existence and persistence of poverty in contemporary society\n- the distribution of poverty, wealth and income between different social groups\n- responses and solutions to poverty by the state and by private, voluntary and informal\nwelfare providers in contemporary society\n- organisation and control of the labour process, including the division of labour, the role of\ntechnology, skill and de-skilling\n- the significance of work and worklessness for people's lives and life chances, including the\neffects of globalisation.",
+              "children": []
+            },
+            {
+              "code": "4.2.5",
+              "title": "Beliefs in Society",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- ideology, science and religion, including both Christian and non-Christian religious traditions\n- the relationship between social change and social stability, and religious beliefs, practices\nand organisations\n- religious organisations, including cults, sects, denominations, churches and New Age\nmovements, and their relationship to religious and spiritual belief and practice\n- the relationship between different social groups and religious/spiritual organisations and\nmovements, beliefs and practices\n- the significance of religion and religiosity in the contemporary world, including the nature and\nextent of secularisation in a global context, and globalisation and the spread of religions.",
+              "children": []
+            },
+            {
+              "code": "4.2.6",
+              "title": "Global Development",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- development, underdevelopment and global inequality\n- globalisation and its influence on the cultural, political and economic relationships between\nsocieties\n- the role of transnational corporations, non-governmental organisations and international\nagencies in local and global strategies for development\n- development in relation to aid and trade, industrialisation, urbanisation, the environment, and\nwar and conflict\n- employment, education, health, demographic change and gender as aspects of\ndevelopment.",
+              "children": []
+            },
+            {
+              "code": "4.2.7",
+              "title": "The Media",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- the new media and their significance for an understanding of the role of the media in\ncontemporary society\n- the relationship between ownership and control of the media\n- the media, globalisation and popular culture\n- the processes of selection and presentation of the content of the news\n- media representations of age, social class, ethnicity, gender, sexuality and disability\n- the relationship between the media, their content and presentation, and audiences.",
+              "children": []
+            },
+            {
+              "code": "4.2.8",
+              "title": "Stratification and Differentiation",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- stratification and differentiation by social class, gender, ethnicity and age\n- dimensions of inequality: class, status and power; differences in life-chances by social class,\ngender, ethnicity, age and disability\n- the problems of defining and measuring social class; occupation, gender and social class\n- changes in structures of inequality, including globalisation and the transnational capitalist\nclass, and the implications of these changes\n- the nature, extent and significance of patterns of social mobility.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.3",
+          "title": "Crime and Deviance with Theory and Methods",
+          "level": 1,
+          "content": "The study of the topics in this paper should engage students in theoretical debate while\nencouraging an active involvement with the research process.\nThe study should foster a critical awareness of contemporary social processes and change, and\ndraw together the knowledge, understanding and skills learnt in different aspects of the course.\nIn their study of this topic, students should examine:\n- topic areas in relation to the two core themes (socialisation, culture and identity; and social\ndifferentiation, power and stratification)\n- both the evidence of and the sociological explanations for the content listed in the topic areas\nbelow.\nThroughout, students should be encouraged to use examples drawn from their own experience of\nsmall-scale research.\nAttention should be given to drawing out links with other topics studied in this specification.",
+          "children": [
+            {
+              "code": "4.3.1",
+              "title": "Crime and Deviance",
+              "level": 2,
+              "content": "Students are expected to be familiar with sociological explanations of the following content:\n- crime, deviance, social order and social control\n- the social distribution of crime and deviance by ethnicity, gender and social class, including\nrecent patterns and trends in crime\n- globalisation and crime in contemporary society; the media and crime; green crime; human\nrights and state crimes\n- crime control, surveillance, prevention and punishment, victims, and the role of the criminal\njustice system and other agencies.",
+              "children": []
+            },
+            {
+              "code": "4.3.2",
+              "title": "Theory and Methods",
+              "level": 2,
+              "content": "Students must examine the following areas:\n- quantitative and qualitative methods of research; research design\n- sources of data, including questionnaires, interviews, participant and non-participant\nobservation, experiments, documents and official statistics\n- the distinction between primary and secondary data, and between quantitative and qualitative\ndata\n- the relationship between positivism, interpretivism and sociological methods; the nature of\n‘social facts’\n- the theoretical, practical and ethical considerations influencing choice of topic, choice of\nmethod(s) and the conduct of research\n- consensus, conflict, structural and social action theories\n- the concepts of modernity and post-modernity in relation to sociological theory\n- the nature of science and the extent to which Sociology can be regarded as scientific\n- the relationship between theory and methods\n- debates about subjectivity, objectivity and value freedom\n- the relationship between Sociology and social policy.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

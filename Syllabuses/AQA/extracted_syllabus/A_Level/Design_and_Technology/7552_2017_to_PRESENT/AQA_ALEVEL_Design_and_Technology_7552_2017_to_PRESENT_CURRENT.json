@@ -1,0 +1,646 @@
+{
+  "source_pdf": "A_Level/Design_and_Technology/7552_2017_to_PRESENT/AQA_ALEVEL_Design_and_Technology_7552_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "A_Level",
+  "subject": "Design and Technology",
+  "spec_code": "7552",
+  "pdf_name": "AQA_ALEVEL_Design_and_Technology_7552_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Technical principles",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Materials and their applications",
+              "level": 2,
+              "content": "Students are expected to be able to name\nspecific materials for a wide range of\napplications.\nThey must also be able to provide detailed and\njustified explanations of why specific materials\nand combinations of materials are suitable for\ngiven applications, with reference to:\n- physical and mechanical properties\n(working characteristics)\n- product function\n- aesthetics\n- cost\n- manufacture and disposal.\nPotential links to maths and science\nUnderstand the appropriate use of materials\nincluding polymers, composites, woods and\nmetals based on their physical and working\ncharacteristics such as:\n- malleability\n- toughness\n- hardness\n- resistance to corrosion and degradation\n- thermal conductivity\n- electrical conductivity.\nCalculation of quantities of materials sizes and\ncosts.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Classification of materials",
+                  "level": 3,
+                  "content": "Students should know and understand the\nclassifications of the following materials and be\nable to name examples that belong to each\ncategory:\n- metals (ferrous, non-ferrous, alloys)\n- woods (hardwoods, softwoods,\nmanufactured boards)\n- polymers (thermoplastics, thermoset\npolymers, elastomers)\n- papers and boards\n- composites\n- smart materials\n- modern materials.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Methods for investigating and testing materials",
+                  "level": 3,
+                  "content": "Students should be able to describe how\nworkshop and industrial tests are set up and\nwhat will be tested, measured and compared,\nincluding:\n- tensile strength\n- toughness\n- hardness\n- malleability\n- corrosion\n- conductivity.\nPotential links to maths and science\nAnalysis of data obtained from testing.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Performance characteristics of materials",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Performance characteristics of papers and boards",
+                  "level": 3,
+                  "content": "Students should be able to name different types\nof papers and boards.\nStudents should be able to describe the\nperformance characteristics of papers and\nboards, including:\n- the ability to be scored\n- cutting\n- folding\n- surface qualities for printing\n- impact resistance\n- recyclability and/or biodegradability.\nStudents should be able to explain why different\npapers and boards are suitable for different\napplications, including:\n- layout paper: sketch pads\n- cartridge paper: printing\n- tracing paper: copying images\n- bleed proof paper: marker rendering\n- treated paper: photographic printing\n- watercolour paper: painting\n- corrugated card: packaging\n- bleached card: greeting cards and high\nquality packaging\n- mount board: modelling\n- duplex card: food packaging\n- foil backed and laminated card: drinks\npackaging\n- metal effect card: gift packaging\n- moulded paper pulp: eco-friendly\npackaging.\nPotential links to maths and science\nEfficient use of materials in the construction of\ncontainers through 2D net design.\nEffective selection of materials to allow for\nrecyclability, biodegradability and stability.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Performance characteristics of polymer based sheet and film",
+                  "level": 3,
+                  "content": "Students should be able to name different types\nof polymer based sheet and film.\nStudents should be able to describe the\nperformance characteristics of polymer based\nsheet and film, including:\n- the ability to be scored\n- cutting\n- folding\n- moulding\n- transparency\n- translucency\n- flexibility\n- recyclability and/or biodegradability.\nStudents should be able to explain why different\npolymer based sheet and film are suitable for\ndifferent applications, including:\n- foam board: model making\n- fluted polypropylene: signs and box\nconstruction\n- translucent polypropylene sheets:\npackaging\n- styrofoam: modelling and formers\n- low density polyethylene sheet: wrapping,\npackaging and bags\n- plastazote foam: protective packaging\n- cellulose acetate: packaging\n- polyactide sheet and film: biodegradable\npackaging.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Performance characteristics of woods",
+                  "level": 3,
+                  "content": "Students should be aware of the different stock\nforms of timber, including:\n- rough sawn\n- planed square edge (PSE)\n- planed all round (PAR)\n- natural timber\n- manufactured boards\n- mouldings.\nPotential links to maths and science\nStudents should be able to describe the\nperformance characteristics of woods,\nincluding:\n- grain pattern\n- grain direction\n- surface defects\n- warpage\n- shrinkage\n- splitting\n- joining\n- forming\n- steam bending\n- laminating\n- machining qualities\n- resistance to decay\n- moisture resistance\n- toxicity.\nStudents should be familiar with the following\nwoods and wood products:\n- softwoods:\n- pine\n- spruce\n- Douglas fir\n- redwood\n- cedar\n- larch\n- hardwoods:\n- oak\n- ash\n- mahogany\n- teak\n- birch\n- beech\n- manufactured boards:\n- plywood\n- marine plywood\n- aeroply\n- flexible plywood\n- chipboard\n- medium density fibreboard (MDF)\n- veneers and melamine formaldehyde\nlaminates.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Performance characteristics of metals",
+                  "level": 3,
+                  "content": "Students should be aware of the different stock\nforms of metals, including:\n- sheet\n- plate\n- bar:\n- flat\n- round\n- square\n- hexagonal\n- tube:\n- round\n- square\n- rectangular\n- hexagonal\n- structural:\n- H beam\n- I beam\n- tee\n- channel\n- angle.\nStudents should be able to describe the\nperformance characteristics of metals,\nincluding:\n- hardness\n- toughness\n- malleability\n- elasticity\n- tensile strength\n- density\n- resistance to corrosion\n- thermal conductivity\n- electrical conductivity\n- melting points\n- ability to be alloyed\n- ability to be joined with heat processes\n- ability to take applied coatings and\nfinishes.\nPotential links to maths and science\nStudents should be familiar with the following\nmetals:\n- ferrous:\n- low carbon steel\n- stainless steel\n- high speed steel (HSS)\n- medium carbon steel\n- cast iron\n- non-ferrous:\n- aluminium\n- copper\n- zinc\n- silver\n- gold\n- titanium\n- tin\n- ferrous alloys:\n- stainless steel\n- die steel (tool steel)\n- non-ferrous alloys:\n- bronze\n- brass\n- duralumin\n- pewter.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Performance characteristics of polymers",
+                  "level": 3,
+                  "content": "Students should be aware of the different stock\nforms of polymers, including:\n- sheet\n- film\n- granules\n- rod and other extruded forms\n- foam\n- powder.\nPotential links to maths and science\nStudents should be able to describe the\nperformance characteristics of polymers,\nincluding:\n- toughness\n- elasticity\n- insulation (thermal and electrical)\n- UV resistance\n- ability to be moulded\n- resistance to chemicals and liquids\n- melting points\n- suitability for food packaging applications\n- biodegradability\n- recyclability\n- self finishing\n- ability to be combined with other polymers\nand/or additives.\nStudents should be familiar with the following\npolymers:\n- thermoplastic:\n- low density polyethylene (LDPE)\n- high density polyethylene (HDPE)\n- polypropylene (PP)\n- high impact polystyrene (HIPS)\n- acrylonitrile butadiene styrene (ABS)\n- polymethylmethacrylate (PMMA)\n- nylon\n- rigid and flexible polyvinyl chloride\n(PVC)\n- Polyethylene terephthalate (PET)\n- thermosets, with specific reference to\ntheir:\n- urea formaldehyde (UF)\n- melamine formaldehyde (MF)\n- polyester resin\n- epoxy resin.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Elastomers",
+                  "level": 3,
+                  "content": "Students should be able to explain the\nsuitability of elastomers for given applications\nmaking reference to relevant physical and/or\nmechanical properties, including:\n- ability to be stretched and then return to\noriginal shape\n- texture\n- self finishing\n- non-toxic.\nStudents should understand how elastomers\nare used to enhance products, for example in\nproducing grips for improved ergonomics.\nStudents should be familiar with the following\nelastomers:\n- natural rubber\n- polybutadiene\n- neoprene\n- silicone\n- Thermoplastic Elastomer (TPE).\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Biodegradable polymers",
+                  "level": 3,
+                  "content": "Students should be able to explain the\nsuitability of biodegradable polymers for given\napplication making reference to relevant\nphysical and/or mechanical properties,\nincluding:\n- ability to be moulded into 3D products or\nfilm\n- ability to degrade with the action of UV\nrays (sunlight), water or enzymes present\nin soil.\nStudents should understand how biodegradable\npolymers degrade.\nPotential links to maths and science\nStudents should be familiar with the following\nbiodegradable polymers:\n- corn starch polymers\n- potatopak\n- biopol (bio-batch additive)\n- polyactide (PLA)\n- polyhdroxyalkanoate (PHA)\n- water soluble: lactide, glycolide (Lactel\nand ecofilm).\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Composites",
+                  "level": 3,
+                  "content": "Students need to know and understand how\nmaterials are combined to make composites\nwith enhanced properties.\nStudents should be able to explain the\nsuitability of composites for given application\nmaking reference to relevant physical and/or\nmechanical properties, including:\n- ability to be moulded into a variety of 3D\nforms\n- enhancement of physical and/or\nmechanical properties\n- ease of manufacture for some uses\nagainst traditional materials\n- improved product performance.\nStudents should be familiar with the following\ncomposites:\n- carbon fibre reinforced plastic (CFRP)\n- glass reinforced plastic (GRP)\n- tungsten carbide\n- aluminium composite board\n- concrete, including reinforced concrete\n- fibre cement\n- engineered wood, eg glulam (glued\nlaminated timber).\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Smart materials",
+                  "level": 3,
+                  "content": "Students should know and understand the term\nsmart material.\nStudents should be able to explain the\nsuitability of smart materials for given\napplications making reference to how the\nmaterial responds to external stimuli, including:\n- changes in temperature\n- changes in light levels\n- changes in pressure (force).\nStudents should be familiar with the following\nsmart materials:\n- shape memory alloys (SMA), eg Nitinol\n- thermochromatic pigment\n- phosphorescent pigment\n- photochromic pigment\n- electroluminescent wire\n- piezo electric material.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Modern materials",
+                  "level": 3,
+                  "content": "Students should know and understand the term\nmodern material.\nStudents should be able to explain the\nsuitability of modern materials for given\napplications.\nStudents should be familiar with the following\nmodern materials:\n- kevlar\n- precious metal clay (PMC)\n- high density modelling foam\n- polymorph.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Enhancement of materials",
+              "level": 2,
+              "content": "Students are expected to be able to describe\nenhancement methods for given materials and\nexplain their suitability for specific product\napplications.\nPotential links to maths and science\nUnderstand the appropriate use of materials,\nincluding polymers, composites, woods and\nbased on their physical properties.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Polymer enhancement",
+                  "level": 3,
+                  "content": "The use of additives to enhance properties,\nincluding:\n- UV stabilisers to prolong the life of\npolymers\n- bio-batch materials to encourage\nbiodegradability.\nStudents should be familiar with how additives\nare used in specific polymer products, eg patio\nfurniture, food packaging and carrier bags.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Wood enhancement",
+                  "level": 3,
+                  "content": "The combining of natural timber with resins and\nlamination to give enhanced properties, eg\nincreased strength and stability.\nEnhancing timber products with preservatives,\nfinishes and coatings.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Metal enhancement",
+                  "level": 3,
+                  "content": "Students should be aware of heat treatment\nmethods of enhancing metals, including:\n- case hardening\n- hardening and tempering.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.4",
+              "title": "Forming, redistribution and addition processes",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Paper and board forming processes",
+                  "level": 3,
+                  "content": "Students should be aware of the ways that\npaper and board can be shaped into different\nproducts such as packaging.\nSpecific process to include:\n- die cutting\n- laser cutting\n- creasing\n- bending.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Polymer processes",
+                  "level": 3,
+                  "content": "Students should be aware of how polymers can\nbe formed into 3D products.\nThey should be able to describe the different\nforming methods.\nThey should be able to explain the suitability of\nthe different forming methods for a range of\nspecific products and scales of production.\nSpecific process to include:\n- vacuum forming\n- thermoforming\n- calendaring\n- line bending\n- laminating (layup)\n- injection moulding\n- blow moulding\n- rotational moulding\n- extrusion\n- compression moulding.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Metal processes",
+                  "level": 3,
+                  "content": "Students should be aware of how metals can\nbe shaped into 3D products.\nThey should be able to describe the different\nforming methods.\nThey should be able to explain the suitability of\nthe different forming methods for a range of\nspecific products and scales of production.\nSpecific processes to include:\n- press forming\n- spinning\n- cupping\n- deep drawing\n- forging\n- drop forging\n- bending\n- rolling\n- casting:\n- sand casting\n- die casting\n- investment casting\n- low temperature casting (pewter).\nStudents should be aware of the different\npermanent and temporary joining methods for\nmetals.\nThey should be able to describe the different\nmethods.\nThey should be able to explain the suitability of\nthe different joining methods for a range of\nspecific products and scales of production.\nIncluding addition/fabrication processes:\n- metal inert gas (MIG) welding\n- tungsten inert gas (TIG) welding\n- spot welding\n- oxy-acetylene welding\n- soldering (soft and hard)\n- brazing\n- riveting\n- temporary joining methods and fasteners:\n- self tapping screws\n- machine screws\n- nuts and bolts.\nPotential links to maths and science\nStudents should be aware of the different\nwasting processes.\nThey should be able to describe the different\nprocesses.\nThey should be able to explain the suitability of\nthe different wasting processes for a range of\nspecific components and products.\nSpecific processes to include:\n- milling\n- turning\n- flame cutting\n- plasma cutting\n- laser cutting\n- punching/stamping.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Wood processes",
+                  "level": 3,
+                  "content": "Students should be aware of how timber can be\njoined to form different products.\nThey should be able to describe the different\nmethods.\nThey should be able to explain the suitability of\nthe different joining methods for a range of\nspecific products and scales of production.\nIncluding:\n- addition/fabrication processes\n- traditional wood jointing:\n- dovetail joint\n- comb joint\n- housing joint\n- half-lap joint\n- dowel joint\n- mortise and tenon\n- component jointing:\n- knock down (KD) fittings\n- wood screws\n- nuts and bolts\n- coach bolts.\nPotential links to maths and science\nStudents should be aware of how timber can be\nformed into 3D products.\nThey should be able to describe the different\nprocesses.\nThey should be able to explain the suitability of\nthe different wasting processes for a range of\nspecific products.\nSpecific processes to include:\n- laminating\n- steam bending\n- machine processes:\n- turning between centre\n- use of the chuck and faceplate\n- milling\n- routering to produce slots, holes and\nprofiles.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.5",
+                  "title": "The use of adhesives and fixings",
+                  "level": 3,
+                  "content": "- PVA\n- Contact adhesives\n- UV hardening adhesive\n- Solvent cements such as Tensol or acrylic\ncement\n- Epoxy resin\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Jigs and fixtures",
+                  "level": 3,
+                  "content": "Students should be aware of how jigs and\nfixtures can be used to aid the manufacture of\nproducts.\nThey should be able to describe them and\nexplain their suitability for accurate and\nrepeated manufacture of products.\nPotential links to maths and science\nDimensions and angles in the design of jigs,\nfixtures and templates.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.5",
+              "title": "The use of finishes",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Paper and board finishing",
+                  "level": 3,
+                  "content": "Students should be aware of the ways that\npaper and board can be finished to enhance\ntheir appearance or for improved function.\nSpecific finishes to include:\n- laminating\n- embossing\n- debossing\n- varnishing, UV varnishing and spot\nvarnishing\n- foil blocking.\nPotential links to maths and science\nEnsure products are designed to take account\nof potential corrosion due to environmental\nfactors.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Paper and board printing processes",
+                  "level": 3,
+                  "content": "Students should be aware of the different types\nof printing processes and their suitability for\nspecific products and scales of production.\nSpecific processes to include:\n- screen printing\n- flexographic and offset lithographic\nprinting\n- digital printing.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Polymer finishing",
+                  "level": 3,
+                  "content": "Students should be aware of the ways that\npolymers can be finished to enhance their\naesthetics or for improved function.\nStudents should be aware that some polymers\nare self-finishing and that this should be\nconsidered as a polymer finish.\nSpecific finishes to include:\n- acrylic spray paints\n- thermoplastic elastomer.\nPotential links to maths and science\nStudents should understand how pigments can\nbe added to polymers in the moulding process,\nincluding:\n- gel coats when laminating GRP\n- smart pigments such as thermochromic or\nphosphorescent.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Metal finishing",
+                  "level": 3,
+                  "content": "Students should be aware of the ways that\nmetals can be finished to enhance their\nappearance or prevent corrosion.\nIncluding applied finishes:\n- cellulose paint\n- acrylic paint\n- electro-plating\n- dip coating\n- powder coating\n- galvanising\n- sealants\n- preservatives\n- anodising\n- plating\n- coating\n- cathodic protection.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Wood finishing",
+                  "level": 3,
+                  "content": "Students should be aware of the ways that\nwoods can be finished to enhance their\nappearance or prevent decay.\nSpecific finishes to include:\n- applied finished:\n- polyurethane varnish\n- acrylic varnish\n- water based paints\n- stains\n- colour wash\n- wax finishes\n- danish oil\n- teak oil\n- pressure treating with chemical\npreservatives.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.6",
+              "title": "Modern industrial and commercial practice",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Scales of production",
+                  "level": 3,
+                  "content": "Students should be aware of, and be able to\ndescribe, the different scales of production\ngiving example products and specific\nmanufacturing methods.\nSpecific scales of production to include:\n- one-off, bespoke\n- batch production\n- mass/line production\n- unit production systems (UPS)\n- quick response manufacturing (QRM)\n- vertical in-house production.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "3.1.6.2",
+                  "title": "Efficient use of materials",
+                  "level": 3,
+                  "content": "Students must develop an awareness of the\nrelationship between material cost, form, and\nmanufacturing processes, and the scale of\nproduction.\n- The development of designs which use\nmaterials economically and with regard to\ntheir characteristics.\n- The use of manufacturing processes\nwhich increase accuracy and reduce\nwaste.\n- The savings to be gained when\ncomparing bulk production with one-off\nproduction.\n- The advantages of Just In Time (JIT)\nmanufacture.\nPotential links to maths and science\nDetermining quantities of materials.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "The use of computer systems",
+                  "level": 3,
+                  "content": "Students should be aware of how computer\nsystems are used to plan and control\nmanufacturing, reduce waste and respond\nquickly to changes in consumer demand.\nStudents should be able to explain specific\nindustrial manufacturing systems and their use\nin the production of given products.\nSpecific manufacturing systems to include:\n- modular/cell production\n- just in time (JIT)\n- quick response manufacturing (QRM)\n- flexible manufacturing systems.\nStudents should be able to explain the use of\ncomputer controlled systems in production,\ndistribution and storage.\nStudents should be able to explain the use of\nstandardised and bought-in components made\nby specialist manufacturers.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Sub-assembly",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\nexplain, sub-assembly as a separate line of\nmanufacture for certain parts of a product.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.7",
+              "title": "Digital design and manufacture",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Computer aided design (CAD)",
+                  "level": 3,
+                  "content": "Students should be aware of, and be able to\ndescribe, the following:\n- the advantages and disadvantages of\nusing CAD compared to a manually\ngenerated alternative\n- the use of CAD to develop and present\nideas for products, including:\n- the use of 2D CAD for working\ndrawings\n- the use of 3D CAD to produce\npresentation drawings\n- how CAD is used in industrial\napplications.\nPotential links to maths and science\nUse of datum points and geometry when setting\nout design drawings.\nThe use of tolerances in dimensioning.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Computer aided manufacture (CAM)",
+                  "level": 3,
+                  "content": "Students should be aware of, and be able to\ndescribe, how CAM is used in the manufacture\nof products.\nSpecific processes to include:\n- laser cutting\n- routing\n- milling\n- turning\n- plotter cutting.\nPotential links to maths and science\nCalculating speeds and times for machining.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Virtual modelling",
+                  "level": 3,
+                  "content": "Students should be aware of, and be able to\ndescribe, how virtual modelling/testing is used\nin industry prior to product production.\nSpecific processes to include:\n- simulation\n- computational fluid dynamics (CFD) as\nused for testing aerodynamics and wind\nresistance, and flow of liquids within/\naround products\n- finite element analysis (FEA) as used in\ncomponent stress analysis.\nPotential links to maths and science\nInterpretation of data from CFD or FEA testing.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Rapid prototyping processes",
+                  "level": 3,
+                  "content": "Students should be aware of, and be able to\ndescribe, rapid prototyping processes, including\n3D printing.\nStudents should understand, and be able to\nexplain, the benefits to designers and\nmanufacturers.\nPotential links to maths and science\nCalculating volumes of 3D printed products,\ncalculating time/speed for 3D printing.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Electronic data interchange",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndescribe, the use of electronic point of sales\n(EPOS) for marketing purposes and the\ncollection of market research data, including:\n- the maintenance of stock levels\n- the capture of customer data, eg contact\ndetails.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Production, planning and control (PPC) networking",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndescribe, the role of PCC systems in the\nplanning and control of all aspects of\nmanufacturing, including:\n- availability of materials\n- scheduling of machines and people\n- coordinating suppliers and customers.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.8",
+              "title": "The requirements for product design and development",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Product development and improvement",
+                  "level": 3,
+                  "content": "Through the study and critical analysis of\nexisting products, students should develop an\nunderstanding of the requirements of the\nfollowing:\n- the design, development and manufacture\nof products to meet specification criteria\n- fitness for purpose\n- accuracy of production\n- how the critical assessment of products\ncan lead to the development of new\ndesigns.\nStudents should develop the skills to critically\nassess products and develop new design\nproposals.\nStudents should development their ability to\nwork with a variety of materials, including two-\nand three-dimensional forms, to produce\ncreative and original products which satisfy the\ndemands of the target market, and consider\naccurate and efficient manufacture.\nWhen designing products Students should\nconsider aesthetics, ergonomics and\nanthropometrics.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Inclusive design",
+                  "level": 3,
+                  "content": "Students should be aware of, and be able to\nexplain, the development of products that are\ninclusive in their design so that they can be\nused by a wide range of users including the\ndisabled, children and the elderly.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.9",
+              "title": "Health and safety",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Safe working practices",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\nexplain, health and safety procedures related to\nproducts and manufacturing, including:\n- knowledge of the Health and Safety at\nWork Act (1974), and how it influences\nthe safe manufacture of products\n- control of Substances Hazardous to\nHealth (COSHH) and safety precautions\nthat should be taken with relevant\nmaterials\n- safe working practices and identifying\npotential hazards for the school or college\nworkshop and industrial contexts\n- safety precautions that should be taken\nwith specific manufacturing processes\n- the concept of risk assessment and its\napplication to given manufacturing\nprocesses.\nPotential links to maths and science\nUnderstand why some materials, adhesives\nand finishes are hazards.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Safety in products and services to the customer",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\nexplain, how designers and manufacturers\nensure products are safe for consumers to use,\nincluding:\n- legislation used to protect consumers and\nits impact on product design, eg\nConsumer Rights Act (2015), Sales of\nGoods Act (1979)\n- the British Standards Institute (BSI), and\nhow specific products might be tested to\nmeet safety standards\n- measures to ensure the safety of toys, eg\nLion Mark\n- advice to consumers:\n- manufacturer’s instructions\n- safety warnings\n- aftercare advice.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.10",
+              "title": "Protecting designs and intellectual property",
+              "level": 2,
+              "content": "Students should be aware of, and able to\nexplain, the importance of the following to the\ndesigner:\n- copyright and design rights\n- patents\n- registered designs\n- trademarks\n- logos.\nStudents should be aware of, and able to\nexplain, the concept of ‘open design’.\nSpecifically referring to the development of\nproducts for the common good of society,\nincluding potential use. Students should be able\nto give examples of this in practice, eg\nhumanitarian projects and file sharing for 3D\nprinting.\nPotential links to maths and science",
+              "children": []
+            },
+            {
+              "code": "3.1.11",
+              "title": "Design for manufacturing, maintenance, repair and disposal",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Manufacture, repair, maintenance and disposal",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\nexplain, the need to modify designs to make\nthem more efficient to manufacture, including:\n- reducing the number of manufacturing\nprocesses\n- how the choice of materials affects the\nuse, care and disposal of products:\n- labelling of materials to aid separation\nfor recycling\n- making products easy to disassemble\nor separate\n- application of the six Rs of sustainability:\n- reduce the quantity of materials, of\ntoxic materials, of damaging materials\nand associated energy use\n- reuse components and parts\n- rethink by using eco friendly alternative\nmaterials\n- recycle materials and/or components\ninto new products\n- maintenance:\n- temporary and integral fixings\n- use of standardised parts\n- allowing for service and repair/\nreplacement of parts\n- ability to upgrade with software\ndownloads.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Ease of manufacture",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\nexplain, the different ways in which a product\ncan be designed to allow for more efficient\nmanufacture, including:\n- ribs and webbing to reduce material\nthicknesses\n- snap fittings to remove the need for\nfixings/adhesives\n- internal moulded screw posts for use with\nself tapping screws\n- use of pre made components\n- use of standardised patterns and sizes\n- addition of texture in moulding to reduce\nnumber of manufacturing processes\n- self finishing.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Disassembly",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\nexplain, how a product can be designed and\nmanufactured with disassembly in mind,\nincluding integral fixings and active disassembly\nusing smart materials such as SMA and\nbiodegradable parts.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.12",
+              "title": "Feasibility studies",
+              "level": 2,
+              "content": "Students should be aware of, and able to\nexplain, the use of feasibility studies to assess\nthe practicality for production of proposed\ndesigns, including the testing of prototypes with\npotential consumers.\nPotential links to maths and science\nInterpret statistical analyses to determine user\nneeds and preferences.\nUse data related to human scale and proportion\nto determine product scale and dimensions.",
+              "children": []
+            },
+            {
+              "code": "3.1.13",
+              "title": "Enterprise and marketing in the development of products",
+              "level": 2,
+              "content": "Students should be aware of, and able to\nexplain, the importance of marketing and brand\nidentity, including:\n- customer identification\n- labelling\n- packaging\n- corporate identification\n- concept of global marketing:\n- the promotion and advertisement of\nproducts including the use of new\ntechnologies, eg social media, viral\nmarketing\n- product costing and profit\n- awareness of the role of entrepreneurs.\nStudents should be aware of, and able to\nexplain, the collaborative working of designers\nin the development of new and innovative\nproducts, including virtual and face-to-face\ncollaborative working systems.\nPotential links to maths and science\nInterpretation of market research data,\ncalculating costs and profit.",
+              "children": []
+            },
+            {
+              "code": "3.1.14",
+              "title": "Design communication",
+              "level": 2,
+              "content": "Students should be aware of, and able to\nexplain and demonstrate the skills, in a range of\ncommunication and presentation techniques for\nconveying proposals and intentions to clients,\npotential users and manufacturers, including:\n- report writing\n- the use of graphs\n- tables and charts\n- 2D/3D sketching\n- the use of mixed media and rendering to\nenhance drawings\n- dimensioning and details for manufacture.\nPotential links to maths and science\nScaling drawings.\nUse of datum points and geometry when setting\nout design drawings.\nRepresentation of data used to inform design\ndecisions and evaluation of outcomes.\nPresentation of market data, user preferences\nand outcomes of market research.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Designing and making principles",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Design methods and processes",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Iterative design process",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\nexplain, different approaches to user centred\ndesign. That in approaching a design challenge\nthere is not a single process, but that good\ndesign always addresses many issues,\nincluding:\n- designing to meet needs, wants or values\n- investigations to inform the use of primary\nand secondary data:\n- market research\n- interviews\n- human factors\n- focus groups\n- product analysis and evaluation\n- the use of anthropometric data and\npercentiles\n- the use of ergonomic data\n- the development of a design proposal\n- the planning and manufacture of a\nprototype solution\n- the evaluation of a prototype solution to\ninform further development.\nPotential links to maths and science\nRepresentation of data used to inform design\ndecisions and evaluation of outcomes.\nThe use of ergonomic and anthropometric data\nwhen designing products for humans and\nspecific applications.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "Design theory",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Design influences",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss, how key historical design styles,\ndesign movements and influential designers\nthat have helped to shape product design and\nmanufacture.\nPotential links with maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Design styles and movements",
+                  "level": 3,
+                  "content": "Students should be aware of, and be able to\ndiscuss, key design styles and movements and\ntheir principles of design, including:\n- arts and craft movement\n- Art Deco\n- Modernism, eg Bauhaus\n- Post modernism, eg Memphis.\nDesigners and their work\nStudents should be aware of, and be able to\ndiscuss, the work of influential designers and\nhow their work represents the principles of\ndifferent design movements, including:\n- Phillipe Starck\n- James Dyson\n- Margaret Calvert\n- Dieter Rams\n- Charles and Ray Eames\n- Marianne Brandt.\nPotential links with maths and science\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.3",
+              "title": "How technology and cultural changes can impact on the work of designers",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Designers and their work",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Socio economic influences",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss, how socio economic influences have\nhelped to shape product design and\nmanufacture, including:\n- post WW1: the Bauhaus and\ndevelopment of furniture for mass\nproduction\n- WW2: rationing, the development of\n'utility' products\n- contemporary times:\n- fashion and demand for mass\nproduced furniture\n- decorative design.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Major developments in technology",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss, how major developments in technology\nare shaping product design and manufacture,\nincluding:\n- micro electronics\n- new materials\n- new methods of manufacture\n- advancements in CAD/CAM.\nPotential links to maths and science\nAn awareness of scientific advancements/\ndiscoveries and their potential development.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Social, moral and ethical issues",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss, the responsibilities of designers and\nmanufacturers, including:\n- products are made using sustainable\nmaterials and ethical production methods\n- the development of products that are:\n- culturally acceptable\n- not offensive to people of different\nrace, gender or religious belief\n- the development of products that are\ninclusive\n- the design and manufacture of products\nthat could assist with social problems, eg\npoverty, health and wellbeing, migration\nand housing\n- the impact of Fairtrade on design and\nconsumer demand\n- designing products to consider the six Rs\nof sustainability.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.4",
+                  "title": "Product life cycle",
+                  "level": 3,
+                  "content": "Design introduction, evolution, growth, maturity,\ndecline and replacement.\nStudents should be familiar with examples of\nhow designers refine and re-develop products\nin the lifecycle of specific products.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.4",
+              "title": "Design processes",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "The use of a design process",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss and implement, the stages of a range of\ndesign processes in order to apply personal\njudgement and relevant criteria in the appraisal\nof products and systems, including:\n- those used in the NEA\n- investigations and analysis\n- use of inspiration materials, eg mood\nboards\n- ideas generation\n- illustration\n- development of a design specification\n- modelling\n- planning\n- evaluating and testing.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Prototype development",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss and demonstrate, the development of a\nprototype from design proposals.\nThis knowledge should influence the\ndevelopment of design ideas for the NEA so\nthat students may make high quality products\nthat meet the needs of identified users.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "The iterative design process in industrial or commercial contexts",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss, how different design methodologies\nare used by designers in the corporate world\nwhen designing products including collaborative\nworking and the cyclic nature of commercial\ndesign and manufacture.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.5",
+              "title": "Critical analysis and evaluation",
+              "level": 2,
+              "content": "Students should be aware of, and able to\ndiscuss, their own and commercial products\nleading to possible improvements/modifications\nof the original idea.\nPotential links to maths and science",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Testing and evaluating products in commercial products",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss, how products are required to undergo\nrigorous testing, and the testing methods used,\nbefore they become commercially available for\nsale.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Use of third party feedback in the testing and evaluation process",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss, how the use of feedback and testing\ninforms the evaluation process, including:\n- informing future modification and\n- the importance of ensuring the views of\nother interested parties in order to have\nobjective and unbiased feedback.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.6",
+              "title": "Selecting appropriate tools, equipment and processes",
+              "level": 2,
+              "content": "Students should be aware of, and able to\ndiscuss and demonstrate, good and safe\nworking practices, including:\n- the importance of using the correct tools\nand equipment for specific tasks\n- the importance of ensuring their own\nsafety and that of others when in a\nworkshop situation\n- how designs are developed from a single\nprototype into mass produced products\n- the effect on the manufacturing process\nthat is brought about by the need for\nbatch and mass manufacture\n- how to select the most appropriate\nmanufacturing process to be able to\nrealise their, or others’, design proposals\n- the importance of health and safety in a\ncommercial setting including workforce\ntraining and national safety standards.\nPotential links to maths and science",
+              "children": []
+            },
+            {
+              "code": "3.2.7",
+              "title": "Accuracy in design and manufacture",
+              "level": 2,
+              "content": "Students should be aware of, and able to\ndiscuss and demonstrate, the importance of\naccuracy in manufacturing, whatever the scale\nof production, including:\n- how testing can eliminate errors\n- the value in the use of measuring aids, eg\ntemplates, jigs and fixtures in ensuring\nconsistency of accuracy and the reduction\nof possible human error.\nPotential links to maths and science\nDetermining quantities of materials.\nCalculation of sides and angles of products.\nUse of datum points and geometry when setting\nout design drawings.\nUse of geometry to create templates for\ndesigns.",
+              "children": []
+            },
+            {
+              "code": "3.2.8",
+              "title": "Responsible design",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Environmental issues",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss, the importance environmental issues in\ndesign and manufacture, including:\n- the responsibilities of designers and\nmanufacturers in ensuring products are\nmade from sustainable materials and\ncomponents\n- the environmental impact of packaging of\nproducts, eg the use of excessive\npackaging and plastics.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Conservation of energy and resources",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss, the concept of a circular economy,\nincluding:\n- how products are designed to conserve\nenergy, materials and components\n- the design of products for minimum\nimpact on the environment including raw\nmaterial extraction, consumption, ease of\nrepair, maintenance and end of life\n- sustainable manufacturing including the\nuse of alternative energy and methods to\nminimise waste\n- the impact of waste, surplus and by-\nproducts created in the process of\nmanufacture including reuse of material\noff-cuts, chemicals, heat and water\n- cost implications of dealing with waste\n- the impact of global manufacturing on\nproduct miles.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.9",
+              "title": "Design for manufacture and project management",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Planning for accuracy and efficiency",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss and demonstrate, the importance of\nplanning for accuracy when making prototypes\nand making recommendations for small,\nmedium and large scale production.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Quality assurance",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss and demonstrate, the procedures and\npolicies put in place to reduce waste and\nensure manufactured products are produced\naccurately and within acceptable tolerances,\nincluding quality assurance systems including\nTotal Quality Management (TQM), scrum, Six\nSigma and their applications to specific\nindustrial examples including critical path\nanalysis.\nPotential links to maths and science",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Quality control",
+                  "level": 3,
+                  "content": "Students should be aware of, and able to\ndiscuss and demonstrate, quality control,\nincluding:\n- the monitoring, checking and testing of\nmaterials, components, equipment and\nproducts throughout production to ensure\nthey conform to acceptable tolerances\n- specific quality control methods including\nthe use of ‘go-no go’ gauges, laser or\nprobe scanning and measuring\n- use of digital measuring devices such as\nvernier callipers and micrometers\n- non-destructive testing such as x-rays\nand ultrasound.\nPotential links to maths and science",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.10",
+              "title": "National and international standards in product design",
+              "level": 2,
+              "content": "Students should be aware of, and able to\ndiscuss, the importance of national and\ninternational standards in product design,\nincluding:\n- British Standards Institute (BSI)\n- International Organisation for\nStandardisation (ISO)\n- Restriction of Hazardous Substances\n(ROHS) directive\n- battery directive\n- polymer codes for identification and\nrecycling\n- packaging directives\n- WEEE directives\n- energy ratings of products\n- eco-labelling:\n- the Mobius Loop\n- the European Eco-label\n- the EC energy label\n- the Energy Efficient label and logo\n- Forest Stewardship Council (FSC)\n- EPA energy star.\nPotential links to maths and science",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

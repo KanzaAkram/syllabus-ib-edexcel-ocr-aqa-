@@ -1,0 +1,47 @@
+{
+  "source_pdf": "Entry_Level_Certificate/English_Language/5970_2017_to_PRESENT/AQA_ELC_English_Language_5970_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "Entry_Level_Certificate",
+  "subject": "English Language",
+  "spec_code": "5970",
+  "pdf_name": "AQA_ELC_English_Language_5970_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Scope of study",
+          "level": 1,
+          "content": "Based on the criteria for GCSE English Language, Step Up to English will require students to study\nthe following content:",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Reading and comprehension",
+              "level": 2,
+              "content": "- Reading and comprehension: identifying and interpreting themes, ideas and information in\nliterature and other writing; reading in different ways for different purposes and comparing\nand evaluating content for these purposes; drawing inferences; expressing a point of view\nsometimes supported by evidence.\n- Commenting on writer's choice of vocabulary, form, grammatical and structural features.\n- Comparing texts: identifying similarities and differences between two texts.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Writing",
+              "level": 2,
+              "content": "- Producing clear and coherent text: writing for different purposes and audiences; to describe,\nnarrate, explain, instruct, give and respond to information, and argue; selecting vocabulary,\ngrammar, form and structural and organisational features to reflect audience, purpose and\ncontext; using language imaginatively and creatively; using information provided by others to\nwrite in different forms; maintaining a consistent point of view; maintaining coherence and\nconsistency across a text.\n- Writing for impact: selecting, organising and emphasising facts, ideas and key points;\ncreating emotional impact; using language creatively, imaginatively and persuasively.",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Spoken language",
+              "level": 2,
+              "content": "- Presenting information and ideas: selecting and organising information and ideas effectively\nand persuasively for prepared spoken presentations; planning effectively for different\npurposes and audiences; making presentations and speeches.\n- Responding to spoken language: listening to and responding appropriately to any questions\nand feedback.\n- Spoken English: expressing ideas using Standard English whenever and wherever\nappropriate.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

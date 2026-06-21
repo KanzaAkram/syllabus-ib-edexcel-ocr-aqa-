@@ -1,0 +1,1032 @@
+[
+  {
+    "pdf": "AS_Level/Biology/7401_2016_to_PRESENT/AQA_AS_Biology_7401_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 70,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Biology\\7401_2016_to_PRESENT\\AQA_AS_Biology_7401_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Business_Studies/7131_2016_to_PRESENT/AQA_AS_Business_Studies_7131_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 53,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Business_Studies\\7131_2016_to_PRESENT\\AQA_AS_Business_Studies_7131_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Chemistry/7404_2016_to_PRESENT/AQA_AS_Chemistry_7404_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 118,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Chemistry\\7404_2016_to_PRESENT\\AQA_AS_Chemistry_7404_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Computer_Science/7516_2016_to_PRESENT/AQA_AS_Computer_Science_7516_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 351,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Computer_Science\\7516_2016_to_PRESENT\\AQA_AS_Computer_Science_7516_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Economics/7135_2016_to_PRESENT/AQA_AS_Economics_7135_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 153,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Economics\\7135_2016_to_PRESENT\\AQA_AS_Economics_7135_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/English_Language/7701_2016_to_PRESENT/AQA_AS_English_Language_7701_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 29,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\English_Language\\7701_2016_to_PRESENT\\AQA_AS_English_Language_7701_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/English_Literature/7711_2016_to_PRESENT/AQA_AS_English_Literature_A_7711_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 55,
+    "max_depth": 5,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\English_Literature\\7711_2016_to_PRESENT\\AQA_AS_English_Literature_A_7711_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/English_Literature/7716_2016_to_PRESENT/AQA_AS_English_Literature_B_7716_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 32,
+    "max_depth": 4,
+    "empty_leaves": 2,
+    "warnings": [],
+    "out": "AS_Level\\English_Literature\\7716_2016_to_PRESENT\\AQA_AS_English_Literature_B_7716_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/French/7651_2017_to_PRESENT/AQA_AS_French_7651_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 24,
+    "max_depth": 2,
+    "empty_leaves": 2,
+    "warnings": [],
+    "out": "AS_Level\\French\\7651_2017_to_PRESENT\\AQA_AS_French_7651_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Geography/7036_2016_to_PRESENT/AQA_AS_Geography_7036_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 59,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Geography\\7036_2016_to_PRESENT\\AQA_AS_Geography_7036_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/German/7661_2017_to_PRESENT/AQA_AS_German_7661_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 22,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\German\\7661_2017_to_PRESENT\\AQA_AS_German_7661_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/History/7041_2016_to_PRESENT/AQA_AS_History_7041_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 264,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\History\\7041_2016_to_PRESENT\\AQA_AS_History_7041_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Mathematics/7356_2018_to_PRESENT/AQA_AS_Mathematics_7356_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 23,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Mathematics\\7356_2018_to_PRESENT\\AQA_AS_Mathematics_7356_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Physics/7407_2016_to_PRESENT/AQA_AS_Physics_7407_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 194,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Physics\\7407_2016_to_PRESENT\\AQA_AS_Physics_7407_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Psychology/7181_2016_to_PRESENT/AQA_AS_Psychology_7181_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 34,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Psychology\\7181_2016_to_PRESENT\\AQA_AS_Psychology_7181_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Religious_Studies/7061_2017_to_PRESENT/AQA_AS_Religious_Studies_7061_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 40,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Religious_Studies\\7061_2017_to_PRESENT\\AQA_AS_Religious_Studies_7061_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Sociology/7191_2016_to_PRESENT/AQA_AS_Sociology_7191_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 26,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "AS_Level\\Sociology\\7191_2016_to_PRESENT\\AQA_AS_Sociology_7191_2016_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "AS_Level/Spanish/7691_2017_to_PRESENT/AQA_AS_Spanish_7691_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 26,
+    "max_depth": 3,
+    "empty_leaves": 3,
+    "warnings": [],
+    "out": "AS_Level\\Spanish\\7691_2017_to_PRESENT\\AQA_AS_Spanish_7691_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Art_and_Design/7201_2017_to_PRESENT/AQA_ALEVEL_Art_and_Design_7201_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 31,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Art_and_Design\\7201_2017_to_PRESENT\\AQA_ALEVEL_Art_and_Design_7201_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Art_and_Design/7202_2017_to_PRESENT/AQA_ALEVEL_Art_and_Design_7202_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 31,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Art_and_Design\\7202_2017_to_PRESENT\\AQA_ALEVEL_Art_and_Design_7202_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Art_and_Design/7203_2017_to_PRESENT/AQA_ALEVEL_Art_and_Design_7203_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 31,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Art_and_Design\\7203_2017_to_PRESENT\\AQA_ALEVEL_Art_and_Design_7203_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Art_and_Design/7204_2017_to_PRESENT/AQA_ALEVEL_Art_and_Design_7204_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 31,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Art_and_Design\\7204_2017_to_PRESENT\\AQA_ALEVEL_Art_and_Design_7204_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Art_and_Design/7205_2017_to_PRESENT/AQA_ALEVEL_Art_and_Design_7205_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 31,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Art_and_Design\\7205_2017_to_PRESENT\\AQA_ALEVEL_Art_and_Design_7205_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Art_and_Design/7206_2017_to_PRESENT/AQA_ALEVEL_Art_and_Design_7206_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 31,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Art_and_Design\\7206_2017_to_PRESENT\\AQA_ALEVEL_Art_and_Design_7206_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Biology/2410_2005_to_2016/AQA_ALEVEL_Biology_2410_2005_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 11,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Biology\\2410_2005_to_2016\\AQA_ALEVEL_Biology_2410_2005_to_2016_LEGACY.json"
+  },
+  {
+    "pdf": "A_Level/Biology/7402_2017_to_PRESENT/AQA_ALEVEL_Biology_7402_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 70,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Biology\\7402_2017_to_PRESENT\\AQA_ALEVEL_Biology_7402_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Business_Studies/2140_2005_to_2016/AQA_ALEVEL_Business_Studies_2140_2005_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 21,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Business_Studies\\2140_2005_to_2016\\AQA_ALEVEL_Business_Studies_2140_2005_to_2016_LEGACY.json"
+  },
+  {
+    "pdf": "A_Level/Business_Studies/7132_2017_to_PRESENT/AQA_ALEVEL_Business_Studies_7132_2017_to_PRESENT_CURRENT_pub2015.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 53,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Business_Studies\\7132_2017_to_PRESENT\\AQA_ALEVEL_Business_Studies_7132_2017_to_PRESENT_CURRENT_pub2015.json"
+  },
+  {
+    "pdf": "A_Level/Business_Studies/7132_2017_to_PRESENT/AQA_ALEVEL_Business_Studies_7132_2017_to_PRESENT_CURRENT_pub2023.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 52,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Business_Studies\\7132_2017_to_PRESENT\\AQA_ALEVEL_Business_Studies_7132_2017_to_PRESENT_CURRENT_pub2023.json"
+  },
+  {
+    "pdf": "A_Level/Chemistry/2420_2005_to_2016/AQA_ALEVEL_Chemistry_2420_2005_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 13,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Chemistry\\2420_2005_to_2016\\AQA_ALEVEL_Chemistry_2420_2005_to_2016_LEGACY.json"
+  },
+  {
+    "pdf": "A_Level/Chemistry/7405_2017_to_PRESENT/AQA_ALEVEL_Chemistry_7405_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 118,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Chemistry\\7405_2017_to_PRESENT\\AQA_ALEVEL_Chemistry_7405_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Computer_Science/2520_2010_to_2016/AQA_ALEVEL_Computer_Science_2520_2010_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 41,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Computer_Science\\2520_2010_to_2016\\AQA_ALEVEL_Computer_Science_2520_2010_to_2016_LEGACY.json"
+  },
+  {
+    "pdf": "A_Level/Computer_Science/7517_2017_to_PRESENT/AQA_ALEVEL_Computer_Science_7517_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 351,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Computer_Science\\7517_2017_to_PRESENT\\AQA_ALEVEL_Computer_Science_7517_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Design_and_Technology/7552_2017_to_PRESENT/AQA_ALEVEL_Design_and_Technology_7552_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 87,
+    "max_depth": 3,
+    "empty_leaves": 1,
+    "warnings": [],
+    "out": "A_Level\\Design_and_Technology\\7552_2017_to_PRESENT\\AQA_ALEVEL_Design_and_Technology_7552_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Design_and_Technology/7562_2017_to_PRESENT/AQA_ALEVEL_Design_and_Technology_7562_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 64,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Design_and_Technology\\7562_2017_to_PRESENT\\AQA_ALEVEL_Design_and_Technology_7562_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Drama/7262_2017_to_PRESENT/AQA_ALEVEL_Drama_7262_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 19,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Drama\\7262_2017_to_PRESENT\\AQA_ALEVEL_Drama_7262_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Economics/7136_2017_to_PRESENT/AQA_ALEVEL_Economics_7136_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 153,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Economics\\7136_2017_to_PRESENT\\AQA_ALEVEL_Economics_7136_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/English_Language/2720_2005_to_2016/AQA_ALEVEL_English_Language_2720_2005_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 4,
+    "max_depth": 1,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\English_Language\\2720_2005_to_2016\\AQA_ALEVEL_English_Language_2720_2005_to_2016_LEGACY.json"
+  },
+  {
+    "pdf": "A_Level/English_Language/7702_2017_to_PRESENT/AQA_ALEVEL_English_Language_7702_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 29,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\English_Language\\7702_2017_to_PRESENT\\AQA_ALEVEL_English_Language_7702_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/English_Literature/7712_2017_to_PRESENT/AQA_ALEVEL_English_Literature_7712_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 55,
+    "max_depth": 5,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\English_Literature\\7712_2017_to_PRESENT\\AQA_ALEVEL_English_Literature_7712_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/English_Literature/7717_2017_to_PRESENT/AQA_ALEVEL_English_Literature_7717_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 32,
+    "max_depth": 4,
+    "empty_leaves": 2,
+    "warnings": [],
+    "out": "A_Level\\English_Literature\\7717_2017_to_PRESENT\\AQA_ALEVEL_English_Literature_7717_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/French/7652_2017_to_PRESENT/AQA_ALEVEL_French_7652_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 33,
+    "max_depth": 3,
+    "empty_leaves": 2,
+    "warnings": [],
+    "out": "A_Level\\French\\7652_2017_to_PRESENT\\AQA_ALEVEL_French_7652_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Further_Mathematics/7367_2017_to_PRESENT/AQA_ALEVEL_Further_Mathematics_7367_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 38,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Further_Mathematics\\7367_2017_to_PRESENT\\AQA_ALEVEL_Further_Mathematics_7367_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Geography/7037_2017_to_PRESENT/AQA_ALEVEL_Geography_7037_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 116,
+    "max_depth": 4,
+    "empty_leaves": 1,
+    "warnings": [],
+    "out": "A_Level\\Geography\\7037_2017_to_PRESENT\\AQA_ALEVEL_Geography_7037_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/German/7662_2018_to_PRESENT/AQA_ALEVEL_German_7662_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 30,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\German\\7662_2018_to_PRESENT\\AQA_ALEVEL_German_7662_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/History/7042_2017_to_PRESENT/AQA_ALEVEL_History_7042_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 264,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\History\\7042_2017_to_PRESENT\\AQA_ALEVEL_History_7042_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Mathematics/7357_2017_to_PRESENT/AQA_ALEVEL_Mathematics_7357_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 25,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Mathematics\\7357_2017_to_PRESENT\\AQA_ALEVEL_Mathematics_7357_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Media_Studies/7572_2017_to_PRESENT/AQA_ALEVEL_Media_Studies_7572_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 43,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Media_Studies\\7572_2017_to_PRESENT\\AQA_ALEVEL_Media_Studies_7572_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Music/7272_2017_to_PRESENT/AQA_ALEVEL_Music_7272_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 42,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Music\\7272_2017_to_PRESENT\\AQA_ALEVEL_Music_7272_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Physical_Education/7582_2017_to_PRESENT/AQA_ALEVEL_Physical_Education_7582_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 60,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Physical_Education\\7582_2017_to_PRESENT\\AQA_ALEVEL_Physical_Education_7582_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Physics/2450_2005_to_2016/AQA_ALEVEL_Physics_2450_2005_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 27,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Physics\\2450_2005_to_2016\\AQA_ALEVEL_Physics_2450_2005_to_2016_LEGACY.json"
+  },
+  {
+    "pdf": "A_Level/Physics/7408_2017_to_PRESENT/AQA_ALEVEL_Physics_7408_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 194,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Physics\\7408_2017_to_PRESENT\\AQA_ALEVEL_Physics_7408_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Polish/7687_2018_to_PRESENT/AQA_ALEVEL_Polish_7687_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 35,
+    "max_depth": 3,
+    "empty_leaves": 2,
+    "warnings": [],
+    "out": "A_Level\\Polish\\7687_2018_to_PRESENT\\AQA_ALEVEL_Polish_7687_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Politics/7152_2017_to_PRESENT/AQA_ALEVEL_Politics_7152_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 41,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Politics\\7152_2017_to_PRESENT\\AQA_ALEVEL_Politics_7152_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Psychology/2185_2005_to_2016/AQA_ALEVEL_Psychology_2185_2005_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 6,
+    "max_depth": 1,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Psychology\\2185_2005_to_2016\\AQA_ALEVEL_Psychology_2185_2005_to_2016_LEGACY.json"
+  },
+  {
+    "pdf": "A_Level/Psychology/7182_2017_to_PRESENT/AQA_ALEVEL_Psychology_7182_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 34,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Psychology\\7182_2017_to_PRESENT\\AQA_ALEVEL_Psychology_7182_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Religious_Studies/7062_2017_to_PRESENT/AQA_ALEVEL_Religious_Studies_7062_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 87,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Religious_Studies\\7062_2017_to_PRESENT\\AQA_ALEVEL_Religious_Studies_7062_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Sociology/7192_2017_to_PRESENT/AQA_ALEVEL_Sociology_7192_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 2,
+    "nodes": 26,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "A_Level\\Sociology\\7192_2017_to_PRESENT\\AQA_ALEVEL_Sociology_7192_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "A_Level/Spanish/7692_2017_to_PRESENT/AQA_ALEVEL_Spanish_7692_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 35,
+    "max_depth": 3,
+    "empty_leaves": 3,
+    "warnings": [],
+    "out": "A_Level\\Spanish\\7692_2017_to_PRESENT\\AQA_ALEVEL_Spanish_7692_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "Entry_Level_Certificate/Biology/5960_2017_to_PRESENT/AQA_ELC_Biology_5960_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 32,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "Entry_Level_Certificate\\Biology\\5960_2017_to_PRESENT\\AQA_ELC_Biology_5960_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "Entry_Level_Certificate/English_Language/5970_2017_to_PRESENT/AQA_ELC_English_Language_5970_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 4,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "Entry_Level_Certificate\\English_Language\\5970_2017_to_PRESENT\\AQA_ELC_English_Language_5970_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "Entry_Level_Certificate/Mathematics/5930_2017_to_PRESENT/AQA_ELC_Mathematics_5930_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 48,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "Entry_Level_Certificate\\Mathematics\\5930_2017_to_PRESENT\\AQA_ELC_Mathematics_5930_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/8201-8206_2017_to_PRESENT/AQA_GCSE_Art_and_Design_8201-8206_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 33,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Art_and_Design\\8201-8206_2017_to_PRESENT\\AQA_GCSE_Art_and_Design_8201-8206_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/8201_2017_to_PRESENT/AQA_GCSE_Art_and_Design_8201_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 33,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Art_and_Design\\8201_2017_to_PRESENT\\AQA_GCSE_Art_and_Design_8201_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/8202_2017_to_PRESENT/AQA_GCSE_Art_and_Design_8202_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 33,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Art_and_Design\\8202_2017_to_PRESENT\\AQA_GCSE_Art_and_Design_8202_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/8203_2017_to_PRESENT/AQA_GCSE_Art_and_Design_8203_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 33,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Art_and_Design\\8203_2017_to_PRESENT\\AQA_GCSE_Art_and_Design_8203_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/8204_2017_to_PRESENT/AQA_GCSE_Art_and_Design_8204_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 33,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Art_and_Design\\8204_2017_to_PRESENT\\AQA_GCSE_Art_and_Design_8204_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/8205_2017_to_PRESENT/AQA_GCSE_Art_and_Design_8205_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 33,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Art_and_Design\\8205_2017_to_PRESENT\\AQA_GCSE_Art_and_Design_8205_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/8206_2017_to_PRESENT/AQA_GCSE_Art_and_Design_8206_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 33,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Art_and_Design\\8206_2017_to_PRESENT\\AQA_GCSE_Art_and_Design_8206_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Biology/8461_2017_to_PRESENT/AQA_GCSE_Biology_8461_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 126,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Biology\\8461_2017_to_PRESENT\\AQA_GCSE_Biology_8461_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Business_Studies/8132_2017_to_PRESENT/AQA_GCSE_Business_Studies_8132_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 35,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Business_Studies\\8132_2017_to_PRESENT\\AQA_GCSE_Business_Studies_8132_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Chemistry/8462_2017_to_PRESENT/AQA_GCSE_Chemistry_8462_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 165,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Chemistry\\8462_2017_to_PRESENT\\AQA_GCSE_Chemistry_8462_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Citizenship_Studies/8100_2018_to_PRESENT/AQA_GCSE_Citizenship_Studies_8100_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 31,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Citizenship_Studies\\8100_2018_to_PRESENT\\AQA_GCSE_Citizenship_Studies_8100_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Combined_Science/8464_2018_to_PRESENT/AQA_GCSE_Combined_Science_8464_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 3,
+    "nodes": 308,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Combined_Science\\8464_2018_to_PRESENT\\AQA_GCSE_Combined_Science_8464_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Combined_Science/8465_2018_to_PRESENT/AQA_GCSE_Combined_Science_8465_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 203,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Combined_Science\\8465_2018_to_PRESENT\\AQA_GCSE_Combined_Science_8465_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Computer_Science/8525_2017_to_PRESENT/AQA_GCSE_Computer_Science_8525_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 43,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Computer_Science\\8525_2017_to_PRESENT\\AQA_GCSE_Computer_Science_8525_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Design_and_Technology/8063_2009_to_2016/AQA_GCSE_Design_and_Technology_8063_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 2,
+    "max_depth": 1,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Design_and_Technology\\8063_2009_to_2016\\AQA_GCSE_Design_and_Technology_8063_2009_to_2016_LEGACY.json"
+  },
+  {
+    "pdf": "GCSE/Design_and_Technology/8552_2017_to_PRESENT/AQA_GCSE_Design_and_Technology_8552_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 80,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Design_and_Technology\\8552_2017_to_PRESENT\\AQA_GCSE_Design_and_Technology_8552_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Drama/8261_2017_to_PRESENT/AQA_GCSE_Drama_8261_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 15,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Drama\\8261_2017_to_PRESENT\\AQA_GCSE_Drama_8261_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Economics/8136_2017_to_PRESENT/AQA_GCSE_Economics_8136_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 52,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Economics\\8136_2017_to_PRESENT\\AQA_GCSE_Economics_8136_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/English_Language/8700_2017_to_PRESENT/AQA_GCSE_English_Language_8700_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 4,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\English_Language\\8700_2017_to_PRESENT\\AQA_GCSE_English_Language_8700_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/English_Literature/8702_2017_to_PRESENT/AQA_GCSE_English_Literature_8702_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 10,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\English_Literature\\8702_2017_to_PRESENT\\AQA_GCSE_English_Literature_8702_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Food_Preparation_and_Nutrition/8585_2018_to_PRESENT/AQA_GCSE_Food_Preparation_and_Nutrition_8585_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 62,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Food_Preparation_and_Nutrition\\8585_2018_to_PRESENT\\AQA_GCSE_Food_Preparation_and_Nutrition_8585_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/French/8652_2017_to_PRESENT/AQA_GCSE_French_8652_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 48,
+    "max_depth": 5,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\French\\8652_2017_to_PRESENT\\AQA_GCSE_French_8652_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/French/8658_2017_to_PRESENT/AQA_GCSE_French_8658_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 125,
+    "max_depth": 5,
+    "empty_leaves": 7,
+    "warnings": [],
+    "out": "GCSE\\French\\8658_2017_to_PRESENT\\AQA_GCSE_French_8658_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Further_Mathematics/8365_2018_to_PRESENT/AQA_GCSE_Further_Mathematics_8365_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 63,
+    "max_depth": 2,
+    "empty_leaves": 6,
+    "warnings": [],
+    "out": "GCSE\\Further_Mathematics\\8365_2018_to_PRESENT\\AQA_GCSE_Further_Mathematics_8365_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Geography/8035_2017_to_PRESENT/AQA_GCSE_Geography_8035_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 35,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Geography\\8035_2017_to_PRESENT\\AQA_GCSE_Geography_8035_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/German/8668_2018_to_PRESENT/AQA_GCSE_German_8668_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 129,
+    "max_depth": 5,
+    "empty_leaves": 7,
+    "warnings": [],
+    "out": "GCSE\\German\\8668_2018_to_PRESENT\\AQA_GCSE_German_8668_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/History/8145_2017_to_PRESENT/AQA_GCSE_History_8145_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 80,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\History\\8145_2017_to_PRESENT\\AQA_GCSE_History_8145_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Mathematics/8300_2017_to_PRESENT/AQA_GCSE_Mathematics_8300_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 16,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Mathematics\\8300_2017_to_PRESENT\\AQA_GCSE_Mathematics_8300_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Media_Studies/4810_2009_to_2016/AQA_GCSE_Media_Studies_4810_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 4,
+    "max_depth": 1,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Media_Studies\\4810_2009_to_2016\\AQA_GCSE_Media_Studies_4810_2009_to_2016_LEGACY.json"
+  },
+  {
+    "pdf": "GCSE/Media_Studies/8572_2017_to_PRESENT/AQA_GCSE_Media_Studies_8572_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 53,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Media_Studies\\8572_2017_to_PRESENT\\AQA_GCSE_Media_Studies_8572_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Music/8271_2017_to_PRESENT/AQA_GCSE_Music_8271_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 36,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Music\\8271_2017_to_PRESENT\\AQA_GCSE_Music_8271_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Physical_Education/8582_2017_to_PRESENT/AQA_GCSE_Physical_Education_8582_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 34,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Physical_Education\\8582_2017_to_PRESENT\\AQA_GCSE_Physical_Education_8582_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Physics/8463_2017_to_PRESENT/AQA_GCSE_Physics_8463_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 128,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Physics\\8463_2017_to_PRESENT\\AQA_GCSE_Physics_8463_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Polish/8688_2018_to_PRESENT/AQA_GCSE_Polish_8688_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 127,
+    "max_depth": 4,
+    "empty_leaves": 7,
+    "warnings": [],
+    "out": "GCSE\\Polish\\8688_2018_to_PRESENT\\AQA_GCSE_Polish_8688_2018_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Psychology/8182_2017_to_PRESENT/AQA_GCSE_Psychology_8182_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 11,
+    "max_depth": 3,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Psychology\\8182_2017_to_PRESENT\\AQA_GCSE_Psychology_8182_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Religious_Studies/8061_2017_to_PRESENT/AQA_GCSE_Religious_Studies_8061_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 21,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Religious_Studies\\8061_2017_to_PRESENT\\AQA_GCSE_Religious_Studies_8061_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Religious_Studies/8062_2017_to_PRESENT/AQA_GCSE_Religious_Studies_8062_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 81,
+    "max_depth": 4,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Religious_Studies\\8062_2017_to_PRESENT\\AQA_GCSE_Religious_Studies_8062_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Sociology/8192_2017_to_PRESENT/AQA_GCSE_Sociology_8192_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 27,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Sociology\\8192_2017_to_PRESENT\\AQA_GCSE_Sociology_8192_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Spanish/8692_2017_to_PRESENT/AQA_GCSE_Spanish_8692_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 46,
+    "max_depth": 6,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Spanish\\8692_2017_to_PRESENT\\AQA_GCSE_Spanish_8692_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Spanish/8698_2017_to_PRESENT/AQA_GCSE_Spanish_8698_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 128,
+    "max_depth": 4,
+    "empty_leaves": 8,
+    "warnings": [],
+    "out": "GCSE\\Spanish\\8698_2017_to_PRESENT\\AQA_GCSE_Spanish_8698_2017_to_PRESENT_CURRENT.json"
+  },
+  {
+    "pdf": "GCSE/Statistics/8382_2017_to_PRESENT/AQA_GCSE_Statistics_8382_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "sections": 1,
+    "nodes": 83,
+    "max_depth": 2,
+    "empty_leaves": 0,
+    "warnings": [],
+    "out": "GCSE\\Statistics\\8382_2017_to_PRESENT\\AQA_GCSE_Statistics_8382_2017_to_PRESENT_CURRENT.json"
+  }
+]

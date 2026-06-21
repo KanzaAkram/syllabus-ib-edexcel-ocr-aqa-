@@ -1,0 +1,247 @@
+{
+  "entries": [
+    {
+      "subject": "Mathematics",
+      "slug": "mathematics",
+      "spec_code": "8300",
+      "year": "2015",
+      "file": "AQA-8300-SP-2015.PDF",
+      "size_kb": 807,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Further_Mathematics",
+      "slug": "mathematics",
+      "spec_code": "8365",
+      "year": "2018",
+      "file": "AQA-8365-SP-2018.PDF",
+      "size_kb": 699,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Statistics",
+      "slug": "mathematics",
+      "spec_code": "8382",
+      "year": "2017",
+      "file": "AQA-8382-SP-2017.PDF",
+      "size_kb": 796,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Psychology",
+      "slug": "psychology",
+      "spec_code": "8182",
+      "year": "2017",
+      "file": "AQA-8182-SP-2017.PDF",
+      "size_kb": 683,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Biology",
+      "slug": "biology",
+      "spec_code": "8461",
+      "year": "2016",
+      "file": "AQA-8461-SP-2016.PDF",
+      "size_kb": 829,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Chemistry",
+      "slug": "chemistry",
+      "spec_code": "8462",
+      "year": "2016",
+      "file": "AQA-8462-SP-2016.PDF",
+      "size_kb": 2637,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Physics",
+      "slug": "physics",
+      "spec_code": "8463",
+      "year": "2016",
+      "file": "AQA-8463-SP-2016.PDF",
+      "size_kb": 1992,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "History",
+      "slug": "history",
+      "spec_code": "8145",
+      "year": "2016",
+      "file": "AQA-8145-SP-2016.PDF",
+      "size_kb": 847,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "English_Literature",
+      "slug": "english",
+      "spec_code": "8702",
+      "year": "2015",
+      "file": "AQA-8702-SP-2015.PDF",
+      "size_kb": 758,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "English_Language",
+      "slug": "english",
+      "spec_code": "8700",
+      "year": "2015",
+      "file": "AQA-8700-SP-2015.PDF",
+      "size_kb": 2265,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Geography",
+      "slug": "geography",
+      "spec_code": "8035",
+      "year": "2016",
+      "file": "AQA-8035-SP-2016.PDF",
+      "size_kb": 846,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Sociology",
+      "slug": "sociology",
+      "spec_code": "8192",
+      "year": "2017",
+      "file": "AQA-8192-SP-2017.PDF",
+      "size_kb": 2014,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Business_Studies",
+      "slug": "business",
+      "spec_code": "8132",
+      "year": "2017",
+      "file": "AQA-8132-SP-2017.PDF",
+      "size_kb": 1150,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Economics",
+      "slug": "economics",
+      "spec_code": "8136",
+      "year": "2017",
+      "file": "AQA-8136-SP-2017.PDF",
+      "size_kb": 1120,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Computer_Science",
+      "slug": "computing",
+      "spec_code": "8525",
+      "year": "2020",
+      "file": "AQA-8525-SP-2020.PDF",
+      "size_kb": 946,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Religious_Studies",
+      "slug": "rs",
+      "spec_code": "8062",
+      "year": "2016",
+      "file": "AQA-8062-SP-2016.PDF",
+      "size_kb": 1404,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Religious_Studies",
+      "slug": "rs",
+      "spec_code": "8061",
+      "year": "2016",
+      "file": "AQA-8061-SP-2016.PDF",
+      "size_kb": 690,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Spanish",
+      "slug": "spanish",
+      "spec_code": "8698",
+      "year": "2016",
+      "file": "AQA-8698-SP-2016.PDF",
+      "size_kb": 1104,
+      "status": "LEGACY"
+    },
+    {
+      "subject": "Spanish",
+      "slug": "spanish",
+      "spec_code": "8692",
+      "year": "2024",
+      "file": "AQA-8692-SP-2024.PDF",
+      "size_kb": 1879,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "French",
+      "slug": "french",
+      "spec_code": "8658",
+      "year": "2016",
+      "file": "AQA-8658-SP-2016.PDF",
+      "size_kb": 1136,
+      "status": "LEGACY"
+    },
+    {
+      "subject": "French",
+      "slug": "french",
+      "spec_code": "8652",
+      "year": "2024",
+      "file": "AQA-8652-SP-2024.pdf",
+      "size_kb": 1721,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Physical_Education",
+      "slug": "pe",
+      "spec_code": "8582",
+      "year": "2016",
+      "file": "AQA-8582-SP-2016.PDF",
+      "size_kb": 1490,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Music",
+      "slug": "music",
+      "spec_code": "8271",
+      "year": "2016",
+      "file": "AQA-8271-SP-2016.PDF",
+      "size_kb": 1274,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Drama",
+      "slug": "drama",
+      "spec_code": "8261",
+      "year": "2016",
+      "file": "AQA-8261-SP-2016.PDF",
+      "size_kb": 756,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Design_and_Technology",
+      "slug": "design-and-technology",
+      "spec_code": "8552",
+      "year": "2017",
+      "file": "AQA-8552-SP-2017.PDF",
+      "size_kb": 1201,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Media_Studies",
+      "slug": "media-studies",
+      "spec_code": "8572",
+      "year": "2017",
+      "file": "AQA-8572-SP-2017.PDF",
+      "size_kb": 631,
+      "status": "CURRENT"
+    },
+    {
+      "subject": "Art_and_Design",
+      "slug": "art-and-design",
+      "spec_code": "8201-8206",
+      "year": "2016",
+      "file": "AQA-ART-GCSE-SP-2016.PDF",
+      "size_kb": 1046,
+      "status": "CURRENT"
+    }
+  ]
+}

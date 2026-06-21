@@ -1,0 +1,281 @@
+{
+  "source_pdf": "GCSE/Music/8271_2017_to_PRESENT/AQA_GCSE_Music_8271_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Music",
+  "spec_code": "8271",
+  "pdf_name": "AQA_GCSE_Music_8271_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Understanding music",
+          "level": 1,
+          "content": "The areas of study provide an appropriate focus for students to appraise, develop and demonstrate\nan in-depth knowledge and understanding of musical elements, musical context and musical\nlanguage. The four areas of study can also provide a rich source of material for your students to\nwork with when developing performance and composition skills.\nThere are four areas of study:\n1. Western classical tradition 1650–1910\n2. Popular music\n3. Traditional music\n4. Western classical tradition since 1910.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Areas of study 1–4",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Listening – unfamiliar music",
+                  "level": 3,
+                  "content": "Students must be able to listen attentively to unfamiliar music from all four areas of study to\nidentify and accurately describe musical elements, musical contexts and use musical language\n(including staff notation).",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Study pieces",
+                  "level": 3,
+                  "content": "For two areas of study (one of which must be Area of study 1 and the other a choice of one from\nAreas of study 2–4), students must also be able to critically appraise the music from the specified\nstudy pieces using knowledge and understanding of:\n- the effect of audience, time and place on how the study pieces were created, developed and\nperformed\n- how and why the music across the selected areas of study has changed over time\n- how the composer’s purpose and intention for the study pieces is reflected in their use of\nmusical elements\n- relevant musical vocabulary and terminology for the study pieces.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Area of study 1: Western classical tradition 1650–1910 (compulsory)",
+              "level": 2,
+              "content": "For the purposes of this specification, the western classical tradition is defined as art music of (or\ngrowing out of) the European tradition, normally notated, and normally intended for public\nperformance.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Listening – unfamiliar music",
+                  "level": 3,
+                  "content": "Students must be able to listen attentively to unfamiliar music from the following styles/genres to\nidentify and accurately describe musical elements, musical contexts and musical language:\n- The Coronation Anthems and Oratorios of Handel.\n- The Orchestra Music of Haydn, Mozart and Beethoven.\n- The piano music of Chopin and Schumann.\n- The Requiem of the late Romantic period.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Study piece",
+                  "level": 3,
+                  "content": "Mozart: Clarinet Concerto in A major, K. 622, 3rd movement, Rondo (first taught 2020, first\nassessed 2022, final assessment 2025).\nBeethoven: Symphony No.1, Movement 1: Adagio molto – Allegro con brio (first taught 2024, first\nassessed 2026)",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Musical elements",
+                  "level": 3,
+                  "content": "The following table contains all the musical elements, for this area of study, that students must\nknow and understand to answer questions in section A (Listening) and section B (Study piece).\nMarks will also be awarded for knowledge of other terms if relevant to this area of study in section\nB (Study piece) of the exam.\nElement type\nElement\nMelody\n- conjunct, disjunct, triadic, broken chords, scalic, arpeggio\n- intervals within the octave\n- passing notes\n- diatonic, chromatic\n- slide/portamento, ornamentation including acciaccaturas,\nappoggiaturas\n- ostinato\n- phrasing, articulation.\nHarmony\n- diatonic, chromatic\n- consonant, dissonant\n- pedal, drone\n- cadences: perfect, plagal, imperfect, interrupted and tièrce de\nPicardie\n- identification of major, minor and dominant seventh chords\nusing chord symbols/roman numerals.\nElement type\nElement\nTonality\n- major, minor, and their key signatures to four sharps and flats\n- modulation to dominant, subdominant in major or minor keys\n- relative major or minor\n- tonic major or minor.\nStructure\n- binary and ternary\n- rondo\n- arch-shape\n- through-composed\n- theme and variations, sonata, minuet and trio, scherzo and trio\n- call and response\n- ground bass, continuo\n- cadenza.\nSonority (Timbre)\n- instruments and voices singly and in combination as found in\nmusic, including that for solo instruments, concertos, chamber\ngroups\n- instrumental techniques such as arco, pizzicato, con sordino.\nTexture\n- harmonic/homophonic/chordal\n- polyphonic/contrapuntal\n- imitative, canonic, layered\n- antiphonal\n- a cappella\n- monophonic/single melody line\n- melody and accompaniment\n- unison, octaves.\nTempo, metre and rhythm\n- simple and compound time\n- regular\n- anacrusis\n- common Italian tempo terms eg allegro, andante\n- pulse\n- augmentation, diminution\n- hemiola\n- semibreve, minim, crotchet, quaver, semiquaver\n- dotted rhythms, triplets, scotch snap\n- rubato, pause\n- tempo.\nDynamics and articulation\nGradation of dynamics as follows:\n- pp, p. mp, mf, f, ff including the Italian terms\n- cresc, crescendo, dim, diminuendo including hairpins\n- sfz, sforzando\n- common signs, terms and symbols.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Musical language (Area of study 1)",
+              "level": 2,
+              "content": "Students must be able to use the musical language appropriate to this Area of study in the\nfollowing ways:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Reading staff notation",
+                  "level": 3,
+                  "content": "Students must be able to identify musical elements (as above) when reading short passages of\nunfamiliar music in staff notation of up to 12 bars.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Writing staff notation",
+                  "level": 3,
+                  "content": "Students must be able to demonstrate the ability to write staff notation within short passages of up\nto eight bars:\n- melodically up to four sharps and flats\n- rhythmically including simple and compound time.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Chords",
+                  "level": 3,
+                  "content": "Students must learn major and minor chords and be able to identify them in aural and written form.\nExamples of relevant types of chords can be found in the musical elements table above.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Musical vocabulary and terminology",
+                  "level": 3,
+                  "content": "Students must be able to identify and apply appropriate musical vocabulary and terminology to\nmusic heard and notated. The appropriate vocabulary required can be found in the table above.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.4",
+              "title": "Area of study 2: Popular music",
+              "level": 2,
+              "content": "For the purpose of this specification, popular music is defined as mainstream music including a\nnumber of musical styles and genres including rock, pop, musical theatre, film and computer\ngaming music from 1950 to the present.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Listening – unfamiliar music",
+                  "level": 3,
+                  "content": "Students must be able to listen attentively to unfamiliar music from the following styles/genres to\nidentify and accurately describe musical elements, musical contexts and musical language:\n- music of Broadway 1950s to 1990s\n- rock music of 1960s and 1970s\n- film and computer gaming music 1990s to present\n- pop music 1990s to present.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Study piece",
+                  "level": 3,
+                  "content": "Little Shop of Horrors 1982 off-Broadway version – the following three tracks:\n- Prologue/Little Shop of Horrors (overture)\n- Mushnik and Son\n- Feed Me (Sudden Changes material is not part of the stated set work)\n(first teaching 2020, first assessment 2022, final assessment 2025)\nQueen – the following three tracks:\n- Bohemian Rhapsody\n- The Seven Seas of Rhye\n- Love of my Life\n(first taught 2024, first assessed 2026)",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Musical elements",
+                  "level": 3,
+                  "content": "In addition to the musical elements listed for Area of study 1, students must know and understand\nmusical elements appropriate to this Area of study.\nThe following table contains all the musical elements, for this area of study, that students must\nknow and understand to answer questions in section A (Listening) and section B (Study piece).\nMarks will also be awarded for knowledge of other terms if relevant to this area of study in section\nB (Study piece) of the exam.\nElement type\nElement\nMelody\n- riff\n- pitch bend\n- melisma\n- hook\n- slide\n- glissando\n- improvisation\n- ostinato\n- blue notes.\nHarmony\n- power chords\nchord symbols eg C7\n- stock chord progressions eg I VI IV V.\nTonality\n- pentatonic\n- modal\n- blues scale.\nStructure\n- intro/outro\n- verse\n- chorus\n- break\n- twelve-bar blues\n- drum fill.\nElement type\nElement\nSonority (Timbre)\n- standard contemporary instrument types eg electric guitar,\nsynthesisers\n- specific instrument types eg sitar, dilruba\n- instrumental techniques eg palm mute (pm), pitch bend,\nhammer-on (ho), pull-off (po), slide guitar/bottleneck\n- drum kit components and techniques eg rim shot\n- vocal timbres eg falsetto, belt, rap, beat-boxing, scat singing\n- specific instrumental techniques eg slap bass\n- specific instrumental effects eg amplification, distortion\n- specific technological recording techniques eg automatic\ndouble-tracking (ADT) and direct input transformer (DIT).\nTempo, metre and rhythm\n- bpm (beats per minute)\n- mm (metronome marking)\n- groove\n- backbeat\n- syncopation\n- off-beat\n- shuffle, swing/swung.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.5",
+              "title": "Area of study 3: Traditional music",
+              "level": 2,
+              "content": "For the purpose of this specification, traditional music is defined as music that takes influences\nfrom traditional sources including folk music and reinterprets them in a contemporary style, and\ntraditional music from traditional sources and cultures that is performed as intended by the\ncomposer.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Listening – unfamiliar music",
+                  "level": 3,
+                  "content": "Students must be able to listen attentively to unfamiliar music from the following styles/genres to\nidentify and accurately describe musical elements, musical contexts and musical language:\n- Blues music from 1920–1950\n- Fusion music incorporating African and/or Caribbean music\n- Contemporary Latin music\n- Contemporary Folk music of the British Isles.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Study piece",
+                  "level": 3,
+                  "content": "Paul Simon Graceland album – the following three tracks:\n- Graceland\n- Diamonds on the Soles of Her Shoes\n- You Can Call Me Al\n(first teaching 2020, first assessment 2022, final assessment 2025)\nEsperanza Spalding – the following three tracks:\n- I Know You Know\n- Little Fly\n- I Adore You\n(first taught 2024, first assessed 2026)",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Musical elements",
+                  "level": 3,
+                  "content": "In addition to the musical elements listed for Area of study 1, students must know and understand\nmusical elements appropriate to this Area of study.\nThe following table contains all the musical elements, for this area of study, that students must\nknow and understand to answer questions in section A (Listening) and section B (Study piece).\nMarks will also be awarded for knowledge of other terms if relevant to this area of study in section\nB (Study piece) of the exam.\nElement type\nElement\nMelody\n- blue notes\n- pentatonic, whole tone, modal\n- slide/glissando/portamento, pitch bend, appoggiaturas\n- ostinato\n- riff\n- melody–scat\n- melisma\n- improvisation.\nTonality\n- modal\n- pentatonic.\nStructure\n- strophic, verse and chorus, cyclic\n- call and response\n- popular song forms\n- structure–12/16 bar blues.\nSonority (Timbre)\n- generic families of instruments as found in traditional/world\nmusic eg steel drums\n- the use of technology, synthesised and computer-generated\nsounds, sampling and the use of techniques such as reverb,\ndistortion and chorus\n- drone\n- vocal techniques eg falsetto, vibrato, rap.\nTexture\n- a cappella\n- imitative\n- layered/layering.\nElement type\nElement\nTempo, metre and rhythm\n- irregular, free\n- skank\n- bubble\n- clave (Bo Diddley type beat)\n- augmentation, diminution\n- anacrusis\n- hemiola\n- bi-rhythm, cross-rhythm, polyrhythm\n- shuffle beat\n- backbeat\n- syncopation\n- off-beat\n- bossa nova\n- samba\n- salsa\n- tango\n- habanera\n- danzón\n- merengue\n- cha-cha-cha\n- rumba.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.6",
+              "title": "Area of study 4: Western classical tradition since 1910",
+              "level": 2,
+              "content": "For the purpose of this specification, western classical tradition since 1910 is defined as music that\ncomprises modern, contemporary classical music, experimental and minimalist music as well as\nother forms.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Listening – unfamiliar music",
+                  "level": 3,
+                  "content": "Students must be able to listen attentively to unfamiliar music from the following styles/genres to\nidentify and accurately describe musical elements, musical contexts and musical language:\n- The orchestral music of Copland\n- British music of Arnold, Britten, Maxwell-Davies and Tavener\n- The orchestral music of Zoltán Kodály and Béla Bartók\n- Minimalist music of John Adams, Steve Reich and Terry Riley.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Study piece",
+                  "level": 3,
+                  "content": "Zoltán Kodály: Battle and Defeat of Napoleon and Intermezzo from Háry János. (Orchestral\nversion with cimbalom and without vocal parts.)\n(first teaching 2020, first assessment 2022, final assessment 2025)\nBartók: Hungarian Pictures – the following four movements*:\n- Movement 1: Evening in the Village\n- Movement 2: The Bear Dance\n- Movement 4: Slightly Tipsy\n- Movement 5: Swineherd’s Dance\n(first taught 2024, first assessed 2026)\n*Please note that Movement 3: Melody is not to be included.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Musical elements",
+                  "level": 3,
+                  "content": "In addition to the musical elements listed for Area of study 1, students must know and understand\nmusical elements appropriate to this Area of study.\nThe following table contains all the musical elements, for this area of study, that students must\nknow and understand to answer questions in section A (Listening) and section B (Study piece).\nMarks will also be awarded for knowledge of other terms if relevant to this area of study in section\nB (Study piece) of the exam.\nElement type\nElement\nMelody\n- ostinato\n- motifs\n- melisma.\nHarmony\n- chromatic\n- dissonant\n- pedal.\nTonality\n- pentatonic\n- whole tone\n- modal\n- tonal ambiguity.\nSonority (Timbre)\n- specific families of instruments\n- use of technology, synthesised and computer-generated sounds\n- instrumental techniques eg vamping.\nTexture\n- drones\n- imitative\n- layered/layering.\nTempo, metre and rhythm\n- irregular, free\n- augmentation, diminution\n- anacrusis\n- hemiola\n- rubato\n- bi-rhythm, cross-rhythm, polyrhythm\n- syncopation\n- off-beat.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.7",
+              "title": "Musical language (Areas of study 2–4)",
+              "level": 2,
+              "content": "Students must be able to use musical language appropriate to their selected area of study in the\nfollowing ways.",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Reading staff notation",
+                  "level": 3,
+                  "content": "Students must be able to identify musical elements (as above) when reading short passages of\nstaff notation of up to 12 bars.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Chords and chord symbols",
+                  "level": 3,
+                  "content": "Students must learn major and minor chords and their associated symbols and be able to identify\nthem in aural and written form. Examples of relevant types of chords and symbols can be found in\nthe musical elements tables above.",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Musical vocabulary and terminology",
+                  "level": 3,
+                  "content": "Students must be able to identify and apply appropriate musical vocabulary and terminology to\nmusic heard and notated. The appropriate vocabulary required can be found in the tables relevant\nto the area of study.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Performing music",
+          "level": 1,
+          "content": "Students must be able to perform live music using one or both of the following ways:\n- instrumental (including DJ)/vocal\n- production via technology.\nOne performance must be as a soloist and one piece must be as part of an ensemble lasting a\ncombined minimum of four minutes. The performance as part of an ensemble must last for a\nminimum of one minute.\nRepertoire will be determined by the student and teacher. It need not reference an area of study\nand can be in any chosen style or genre.\nStudents must be able to interpret relevant musical elements as appropriate using resources (eg\nmicrophones) and techniques (eg pizzicato) as appropriate to communicate musical ideas with\naccuracy and expression and interpretation, including phrasing and dynamics appropriate to the\nstyle and mood of the music.\nIf students choose to perform using non-standard instruments (ie for which there are no nationally\nrecognised accredited music grades) the requirements for instrumental/vocal must be followed.\nPlease refer to Component 2: Performing music assessment grids (page 34) for information about\nhow to mark performances.\nIn all cases, the recording of the performances must be accompanied by one or more of the\nfollowing documents, as appropriate to the type of performance:\n- notated score\n- lead sheet\n- guide recording\n- annotation.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Instrumental (including DJ)/vocal",
+              "level": 2,
+              "content": "Instrumental\nDefinition\n(including DJ)/\nvocal\nperformance type\nSolo\nA solo instrument/voice with\naccompaniment/backing track\nwhere the student has a\nsubstantial solo part.\nUnaccompanied instrumental/\nvocal solo.\nPerformance of pieces written\nwith an accompaniment\nintended by the composer\nshould not be unaccompanied.\nEnsemble\nMusic performed by the student\nin conjunction with at least one\nother musician (one of which\nmust be the student being\nassessed), in which each player\nor singer has a unique and\nsignificant role (ie that is not\ndoubled).\nTechnical control\nExpression and\n(accuracy)\ninterpretation\nPitch (including\nTempo, dynamics,\nintonation).\nphrasing and\narticulation.\nRhythm and fluency.\nInstrumental\nDefinition\n(including DJ)/\nvocal\nperformance type\nSolo DJ\nUsing turntables (raw vinyl/CDJ)\nand/or Digital DJ technology\n(software controller/DVS) to\nmanipulate tracks and\ndemonstrate an understanding\nand use of a range of\ntechniques. There must be a\nminimum of two tracks – beat\nmatched, with respect to the\nstructure, tonality and\narrangement of the selected\ntracks.\nEnsemble DJ\nUsing turntables (raw vinyl/CDJ)\nand/or Digital DJ technology\n(software controller/DVS) to\nperform with one or more DJs/\nlive musicians in which each\nperformer has a unique and\nsignificant role (ie that is not\ndoubled). For the student being\nassessed, there must be a\nminimum of two tracks – beat\nmatched, with respect to the\nstructure, tonality and\narrangement of the selected\ntracks.\nTechnical control\nExpression and\n(accuracy)\ninterpretation\nDynamics and\nPitch.\narticulation.\nRhythm, tempo and\nfluency.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "DJing skills",
+              "level": 2,
+              "content": "Students must know, understand and be able to apply the following as appropriate to the level of\ndemand of the piece.\nDJing skills and sound sources\nBasic skills\ncue stuttering\nrewind/spin-back\ndrop-ins\nE.Q. Blending or use of on board FX (eg filtering, flanger,\ndelay etc).\nDJing skills and sound sources\nIntermediate skills\nbaby scratches\nlooping (using digital buttons)\nhot cues – jumping to parts of the song during performance\nor edited live\na cappellas – as a chosen sound source for 8 bars or more\n– vocal must fit harmonically, rhythmically and structurally\nwith overall mix.\nAdvanced skills\nadvanced scratching – transforms\nadvanced scratching – flares\nadvanced scratching – chirps\nadvanced scratching – orbits\nhot-cue drumming – using hot cue to trigger multiple sounds\nto create something new\njuggling – live looping using platters not buttons\na cappellas – as a chosen sound source for 32 bars or more\n– vocal must fit harmonically, rhythmically and structurally\nwith overall mix.\nSound sources\ntracks\nscratch samples (allowing hot cue triggering or scratching)\nloops\ndrum loops\nbass loops\na cappellas (pre-separated vocals from another song).\nFor examples of DJ performances, please refer to e-AQA online standardisation materials.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Production",
+              "level": 2,
+              "content": "Technology\nDefinition\nperformance type\nSolo\nA complete performance of a\npre-existing piece using music\ntechnology, sequencing and/or\nmulti-tracking techniques to\nrecord a solo performance of a\nminimum of three tracks. At\nleast one track must be\nperformed live in real time.\nEnsemble\nA complete performance of a\npre-existing piece using music\ntechnology, sequencing and/or\nmulti-tracking techniques to\nrecord an ensemble\nperformance of a minimum of\nfour tracks, three of which\nmust be performed by the\nstudent and one or more tracks\nperformed by at least one other\nmusician in which each\nperformer has a unique and\nsignificant role (ie that is not\ndoubled). At least one track\nmust be performed live in real\ntime by the student and at least\none track must be performed\nlive in real time by at least one\nother member of the ensemble.\nTechnical control\nExpression and sense\n(accuracy)\nof style\nPitch (including\nDynamics, articulation\nintonation).\nand panning.\nRhythm and\nbalance.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Composing music",
+          "level": 1,
+          "content": "Students must learn how to develop musical ideas, including extending and manipulating musical\nideas, and compose music that is musically convincing through two compositions. One must be in\nresponse to an externally set brief (Composition 1) and the other a free composition (Composition\n2).\nThe combined duration of the compositions must be a minimum of three minutes.\nCompositions can be composed in any style or genre to best reflect the skills, strengths and\ninterests of the individual students.\nBoth compositions must be assessed on the student’s ability to demonstrate:\n- Creative and effective selection and use of musical elements\n- Appropriate selection and use of musical elements (to the compositional intention)\n- Technical and expressive control in the use of musical elements.\nEach composition must demonstrate selection and use of at least four types of musical element\nas follows:\n- at least two of rhythm, metre, texture, melody, structure, form\n- at least two of harmony, tonality, timbre, dynamics, phrasing, articulation.\nPlease also refer to the full tables of musical elements in Subject content (page 11).\nStudents must be able to compose using methods appropriate to the style/genre of their\ncomposition and may use a combination of vocal/instrumental and technology. This could include\nthe use of score writing software, sequencing software, studio multi-tracking or traditional\ntechniques including hand written notation and working through improvisation.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Documenting the composition",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Programme note",
+                  "level": 3,
+                  "content": "Students must write a Programme note of approximately 150 words for each composition, which\nclearly informs the assessor of the compositional intention, including the intended audience/\noccasion. Students must also identify the types of musical element selected and provide details of\nany software and hardware used in their compositional process.\nIn all cases the audio recording of the composition and Programme note must be accompanied by\none or more of the following documents:\n- staff notated score\n- lead sheet\n- aural guide.\nPlease refer to Component 3: Composing music assessment grid (page 44) for information about\nhow to mark compositions.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

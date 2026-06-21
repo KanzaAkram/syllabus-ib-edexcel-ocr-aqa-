@@ -1,0 +1,269 @@
+{
+  "source_pdf": "GCSE/Business_Studies/8132_2017_to_PRESENT/AQA_GCSE_Business_Studies_8132_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Business Studies",
+  "spec_code": "8132",
+  "pdf_name": "AQA_GCSE_Business_Studies_8132_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Business in the real world",
+          "level": 1,
+          "content": "The purpose of business activity, the role of business enterprise and entrepreneurship, and the\ndynamic nature of business.\nStudents need to be aware of the impact business in the real world has on the four functional areas\nof business:\n- business operations\n- human resources\n- marketing\n- finance.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "The purpose and nature of businesses",
+              "level": 2,
+              "content": "- Purpose of business\nStudents should be able to:\n- Reasons for starting a business\n- Basic functions and types of\nbusiness\n- Business enterprise and\nentrepreneurship\n- Dynamic nature of business\n- understand what a business is and the reasons\nfor starting a business (including producing\ngoods, supplying services, distributing products,\nfulfilling a business opportunity and providing a\ngood or service to benefit others)\nunderstand the difference between goods and\nservices, needs and wants\nunderstand the meaning of factors of production\n– land, labour, capital, enterprise\ndefine opportunity cost\ndefine the three sectors of primary, secondary\nand tertiary and give examples of types of\nbusiness that operate in each sector\nunderstand the term enterprise and what is\nmeant by an entrepreneur\noutline the characteristics of an entrepreneur,\nsuch as hard working, innovative, organised and\nwillingness to take a risk\noutline the objectives of an entrepreneur,\nincluding to be their own boss, flexible working\nhours, to pursue an interest, earn more money,\nidentify a gap in the market and dissatisfaction\nwith current job\nunderstand that businesses face a constantly\nchanging business environment due to changes\nin technology, economic situation, legislation\nand environmental expectations.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Business ownership",
+              "level": 2,
+              "content": "- Sole traders\nStudents should be able to:\n- Partnerships\n- Private limited companies (ltd)\n- Public limited companies (plc)\n- Not-for-profit organisations\n- Students are not expected to have an understanding\nof the legal process of incorporation.\nunderstand the different legal structures that\nbusinesses adopt\nanalyse the benefits and drawbacks of each\nlegal structure (including issues such as\nmanagement and control, sources of finance\navailable, liability and distribution of profits)\nunderstand the concept of limited liability and\nwhich legal structures benefit from this\nevaluate which legal structure would be most\nappropriate for a variety of business examples,\nincluding new start-up businesses and large\nestablished businesses.",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Setting business aims and objectives",
+              "level": 2,
+              "content": "- What are business aims and\nStudents should be able to:\nobjectives\n- Purpose of setting objectives\n- Role of objectives in running a\nbusiness\n- Changing objectives\n- Use of objectives in judging\n- success\n- understand the main aims and objectives for\nbusinesses: survival, profit maximisation, growth\n(domestic and international), market share,\ncustomer satisfaction, social and ethical\nobjectives and shareholder value\nunderstand the role of objectives in running a\nbusiness\nunderstand how and why the objectives set will\ndiffer between businesses (reasons include the\nsize of the business, level of competition faced\nand type of business (not-for-profit\norganisations))\nunderstand how and why the objectives set may\nchange as businesses evolve. Students should\nconsider how the objectives of larger more\nestablished businesses might differ from smaller\nstart-up businesses, eg becoming the dominant\nbusiness in the market, international expansion,\nincreasing shareholder value and ethical and\nenvironmental considerations\nunderstand the success of a business can be\nmeasured in other ways than profit.",
+              "children": []
+            },
+            {
+              "code": "3.1.4",
+              "title": "Stakeholders",
+              "level": 2,
+              "content": "- Main stakeholders of businesses\nStudents should be able to:\n- Objectives of stakeholders\n- Impact of business activity on\nstakeholders\n- Impact and influence stakeholders\nhave on businesses\n- understand what is meant by a stakeholder and\nwho the main stakeholders of a business are,\nincluding owners, employees, customers, local\ncommunity and suppliers\nunderstand stakeholders’ main objectives\nincluding maximising pay for workers,\nminimising environmental impact on local\ncommunity and high dividend payments for\nowners\nunderstand the impact and influence\nstakeholders have on businesses and their\nobjectives and how businesses may face\nconflict between stakeholders.",
+              "children": []
+            },
+            {
+              "code": "3.1.5",
+              "title": "Business location",
+              "level": 2,
+              "content": "Factors influencing the location decision\nStudents should be able to understand the factors that\nof a business\ninfluence where a business is located, including\nproximity to the market, availability of raw materials,\nlabour, competition and costs.",
+              "children": []
+            },
+            {
+              "code": "3.1.6",
+              "title": "Business planning",
+              "level": 2,
+              "content": "- The purpose of business planning\nStudents should be able to:\n- The main sections within a business\n- plan\n- Basic financial terms\n- Basic financial calculations\n- Students will not be expected to write a business plan.\nunderstand the reasons why businesses create\nplans, including importance in setting up a new\nbusiness, raising finance, setting objectives and\ndetailing how functions of a business will be\norganised\nunderstand the main sections of a business plan\nanalyse the benefits and drawbacks of business\nplanning\nunderstand the difference between variable\ncosts, fixed costs and total costs\nunderstand the concept of revenue, costs, profit\nand loss.",
+              "children": []
+            },
+            {
+              "code": "3.1.7",
+              "title": "Expanding a business",
+              "level": 2,
+              "content": "- Methods of expansion\nStudents should be able to:\n- Benefits and drawbacks of\n- expansion\n- Economies of scale\n- Diseconomies of scale\n- discuss the advantages and disadvantages of\nmethods of growth\nunderstand the methods used by businesses\nwhen expanding (organic growth through\nfranchising, opening new stores and expanding\nthrough e-commerce, outsourcing and external\ngrowth through mergers and takeovers)\nunderstand the benefits of growth in terms of\nunit cost advantages due to economies of scale\nand the drawbacks of growth due to\ndiseconomies of scale\nunderstand the meaning of purchasing and\ntechnical economies of scale\nunderstand that with growth businesses\nincrease the risk of diseconomies of scale\noccurring due to poor communication,\ncoordination issues and reduced staff motivation\ncalculate and interpret average unit costs.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Influences on business",
+          "level": 1,
+          "content": "The importance of external influences on business and how businesses change in response to\nthese influences.\nStudents need to be aware of the impact influences on business have on the four functional areas\nof business:\n- business operations\n- human resources\n- marketing\n- finance.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Technology",
+              "level": 2,
+              "content": "- E-commerce\nStudents should understand the impact of the\nchanging use of ICT and how it influences business\n- Digital communication\nactivity.\nE-commerce to access wider markets.\nDigital communication changing the way businesses\ncommunicate with stakeholders. Students are\nexpected to know relevant examples of digital\ntechnology/communication.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Ethical and environmental considerations",
+              "level": 2,
+              "content": "Ethical considerations\nStudents should be able to identify and analyse where\nthere may be a possible trade off between ethics and\nprofit.\nEthical behaviour requires businesses to act in ways\nthat stakeholders consider to be both fair and honest.\nStudents are expected to know relevant examples of\nways in which a business can behave ethically and\nthe benefits and drawbacks of ethical behaviour.\nEnvironmental considerations:\nStudents should be able to demonstrate knowledge\nand understanding of how business and consumers\n- impact on traffic congestion\naccept greater environmental responsibility in their\n- recycling\ndecision making and the costs and benefits of\n- disposing of waste\nbusinesses behaving this way.\n- noise and air pollution.\nSustainability:\nStudents should be able to identify and analyse where\nthere may be a possible trade-off between\n- global warming\nsustainability and profit.\n- using scarce resources.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "The economic climate on businesses",
+              "level": 2,
+              "content": "Students should be able to demonstrate and\n- Interest rates:\nunderstand how businesses might be affected by\n- how fluctuating interest rates can\nchanges in the rate of interest.\naffect businesses that rely on\noverdrafts and loans for finance\nStudents should be able to identify how and why\n- how fluctuating interest rates can\nbusinesses might be affected by changes in levels of\naffect consumer and business\nemployment.\nspending.\nStudents should be able to discuss how demand for\n- Level of employment\nproducts and services may change as incomes\n- Consumer spending\nfluctuate.\nEconomic theory relating to how/why interest rates\nchange is not required.",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "Globalisation",
+              "level": 2,
+              "content": "How UK businesses compete\nStudents should be able to demonstrate knowledge\ninternationally, offering:\nand understanding of globalisation and the benefits\nand drawbacks that it offers UK businesses.\n- better designs\n- higher quality products at lower\nprices.\nExchange rates\nStudents should understand the impact of exchange\nrates on the profit and sales of those businesses that\nimport and/or export.\nThey will not be asked to calculate exchange rate\nconversions.",
+              "children": []
+            },
+            {
+              "code": "3.2.5",
+              "title": "Legislation",
+              "level": 2,
+              "content": "- Employment law\nStudents should be able to assess the impact of\nlegislation on businesses, for example cost, training\n- Health and Safety law\nneeds, recruitment and the consequences of failure to\n- Consumer law\nfollow legislation for the business.\nStudents should be aware of the benefits for providing\na safe working environment.\nEmployment law including:\n- Health and safety law including: the Health and Safety\nat Work Act (1974).\nConsumer law including trade descriptions.\nOnly brief knowledge of each law is needed. More\nemphasis should be placed on the effects of the\nlegislation on businesses.\nnational minimum wage/living wage\nthe Equality Act (2010).",
+              "children": []
+            },
+            {
+              "code": "3.2.6",
+              "title": "Competitive environment",
+              "level": 2,
+              "content": "- Impact on businesses of operating\nStudents should be able to:\nin competitive markets\n- Uncertainty and risks businesses\nface\n- understand the meaning of a market and\ncompetition\nanalyse potential impacts of competition on\nbusinesses and identify situations when\nbusinesses face minimal or no competition\nunderstand the risks businesses face and the\nreasons why all businesses face uncertainty\nunderstand the reason why entrepreneurs\nembark on running businesses and the activities\nbusinesses can undertake to minimise risks.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Business operations",
+          "level": 1,
+          "content": "Students should understand the interdependent nature of business operations, human resources,\nmarketing and finance. Students should be able to give examples of how business objectives\nwould be split into functional plans with clear links throughout.\nWhat business operations involve, their role within the production of goods and the provision of\nservices, and how they influence business activity.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Production processes",
+              "level": 2,
+              "content": "Methods of production:\nStudents should be familiar with job and flow\nproduction methods and understand when each is\n- job\nappropriate.\n- flow.\nEfficiency in production:\nStudents should consider how production might be\nmade more efficient by the use of lean production\n- lean production\ntechniques.\n- just in time (JIT).",
+              "children": []
+            },
+            {
+              "code": "3.3.2",
+              "title": "The role of procurement",
+              "level": 2,
+              "content": "Managing stock:\nStudents should be able to evaluate the use of\nmanaging stock using JIT to a given business.\n- Just in time (JIT)\nStudents should recognise that the benefits of\n- Just in case (JIC).\nreduced costs must be balanced against the cost of\nmore frequent deliveries and lost purchasing\neconomies of scale.\nThe benefits of having spare stock to satisfy demand\nbalanced against the cost of holding buffer stock.\nStudents will not be asked to draw or interpret stock\ncontrol charts.\nFactors affecting choice of suppliers\nStudents should be able to analyse the factors that\nincluding:\naffect the choice of supplier for a given business.\n- price\n- quality\n- reliability.\nStudents should understand what procurement and\nThe effects of procurement and logistics\non a business, including:\nlogistics are and their effect on a business.\nStudents should recognise that the benefits of\n- efficiency\nreduced costs must be balanced against the quality of\n- lower unit costs.\nservice.\nThe value of effective supply chain\nStudents should understand what a supply chain is\nmanagement, including:\nand recognise the benefits of managing an effective\n- working with suppliers to ensure\nsupply chain.\nthat key processes are running\nefficiently and cost effectively\n- getting goods and services for the\nbest price and value\n- cutting any waste and unnecessary\ncosts to create a streamlined\nprocess and fast production times.",
+              "children": []
+            },
+            {
+              "code": "3.3.3",
+              "title": "The concept of quality",
+              "level": 2,
+              "content": "Consequences of quality issues\nStudents should have an understanding of customer\nexpectations of quality in terms of production of goods\nand the provision of services.\nHow businesses identify quality problems and how\nbusinesses measure quality and the consequences of\nthese issues.\nMethods of maintaining consistent quality:\nStudents should be aware of the methods of\nTotal quality management (TQM)\nmaintaining consistent quality and be able to identify\nthe advantages to a business of using TQM.\nStudents should be aware of the possible quality\nCosts and benefits of maintaining quality:\nissues as businesses grow, particularly if outsourcing\n- additional sales\nand franchising is used.\n- image/reputation\n- higher price\n- inspection costs\n- staff training\n- product recalls\n- the provision of services.",
+              "children": []
+            },
+            {
+              "code": "3.3.4",
+              "title": "Good customer services",
+              "level": 2,
+              "content": "Methods of good service:\nStudents should understand the sales process.\n- product knowledge\nStudents should be able to understand the importance\nof providing good service to customers and analyse\n- customer engagement (creating a\nthe techniques businesses use to provide good\npositive experience for the\ncustomer service.\ncustomer)\n- post sales services (eg user\ntraining, help lines, servicing).\nBenefits of good customer service,\nincluding:\n- increase in customer satisfaction\n- customer loyalty\n- increased spend\n- profitability.\nDangers of poor customer service,\nincluding:\n- dissatisfied customers\n- poor reputation via word of mouth\n- reduction in revenue.\nThe ways in which advances in ICT have\nallowed customer services to develop:\n- websites\n- e-commerce\n- social media.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Human resources",
+          "level": 1,
+          "content": "Students should understand the interdependent nature of business operations, human resources,\nmarketing and finance. Students should be able to give examples of how business objectives\nwould be split into functional plans with clear links throughout.\nThe purpose of human resources, its role within business and how it influences business activity.",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Organisational structures",
+              "level": 2,
+              "content": "- Organisational structures\nStudents should be able to understand:\n- Appropriateness of organisational\n- structures\n- Centralisation and decentralisation\n- internal organisational structures, span of\ncontrol, chain of command, delayering and\ndelegation\nwhy businesses have internal organisational\nstructures, including an understanding of\ndifferent job roles and responsibilities throughout\nthe business\nthe impact that having a tall or flat organisational\nstructure has on how a business is managed\nhow organisational structure may affect the\ndifferent ways of communication.",
+              "children": []
+            },
+            {
+              "code": "3.4.2",
+              "title": "Recruitment and selection of employees",
+              "level": 2,
+              "content": "- The need for recruitment\nStudents should be able to:\n- Methods of recruitment and\n- selection of employees\n- Contracts of employment\n- understand the difference between internal and\nexternal recruitment and the benefits and\ndrawbacks of each approach\noutline the main stages in the recruitment and\nselection process, including an understanding of\njob analysis, job description, person\nspecification, and selection methods\nanalyse the benefits of having an effective\nrecruitment and selection process for a\nbusiness, including high productivity, high quality\noutput or customer service and staff retention\nunderstand the difference between part time and\nfull time contracts, job share and zero hour\ncontracts\nunderstand the benefits of full and part time\nemployment.",
+              "children": []
+            },
+            {
+              "code": "3.4.3",
+              "title": "Motivating employees",
+              "level": 2,
+              "content": "- Importance of motivation in the\nStudents should be able to:\nworkforce\n- Methods to motivate staff\n- Specific motivational theories (such as Maslow) will\nnot be examined.\nunderstand the benefits of a motivated\nworkforce, such as staff retention and high\nproductivity\nunderstand the use of financial methods of\nmotivation (including an understanding of the\nmain methods of payment including salary,\nwage, commission and profit sharing)\nunderstand the use of non-financial methods of\nmotivation, including styles of management,\nimportance of training and greater responsibility,\nfringe benefits.",
+              "children": []
+            },
+            {
+              "code": "3.4.4",
+              "title": "Training",
+              "level": 2,
+              "content": "- Importance of training the workforce\nStudents should be able to:\n- Types of training undertaken by\n- businesses\n- explain the benefits of training employees for a\nbusiness, including increased productivity, ability\nto deal with changes in technology, increased\nmotivation, staff retention, production of high\nquality goods and good customer service\nunderstand the methods of training undertaken\nby businesses, including induction training, on\nthe job training and off the job training\nexplain the benefits of induction training\nanalyse the benefits and drawbacks of on the\njob and off the job training and evaluate which\nwould be the most appropriate method for a\nvariety of businesses.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Marketing",
+          "level": 1,
+          "content": "Students should understand the interdependent nature of business operations, human resources,\nmarketing and finance. Students should be able to give examples of how business objectives\nwould be split into functional plans with clear links throughout.\nThe purpose of marketing, its role within business and how it influences business activity.",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "Identifying and understanding customers",
+              "level": 2,
+              "content": "The importance of identifying and\nStudents should understand the importance of\nsatisfying customer needs\nidentifying and satisfying customer needs, in order to:\n- provide a product or service that customers will\nbuy\nincrease sales\nselect the correct marketing mix\navoid costly mistakes\nbe competitive.",
+              "children": []
+            },
+            {
+              "code": "3.5.2",
+              "title": "Segmentation",
+              "level": 2,
+              "content": "Types of segmentation\nStudents should understand how and why different\nbusinesses use segmentation to target customers,\nincluding:\n- gender\nage\nlocation\nincome.",
+              "children": []
+            },
+            {
+              "code": "3.5.3",
+              "title": "The purpose and methods of market research",
+              "level": 2,
+              "content": "Purpose of market research\nStudents should understand why businesses conduct\nmarket research, such as to identify market\nCollect information about:\nopportunities and to get a better insight into their\n- demand\ncustomers and competitors.\n- competition\n- target market.\nMethods of market research to include\nStudents should understand the difference between\nprimary and secondary:\nqualitative and quantitative market research.\n- questionnaires\nStudents should identify the benefits and drawbacks\nfor various market research techniques and select the\n- surveys\nbest method for a given business.\n- interviews\n- focus groups\n- internet research\n- printed press eg newspapers.\nUse of market research: information that\nStudents should be able to interpret and use\nmay help decision making\nqualitative and quantitative market research findings\nto help make appropriate decisions for different types\nof business.\nStudents should be expected to manipulate and\ninterpret data from tables and charts.\nStudents should be able to identify market size and\nmarket share.",
+              "children": []
+            },
+            {
+              "code": "3.5.4",
+              "title": "The elements of the marketing mix: price, product, promotion and place (4Ps)",
+              "level": 2,
+              "content": "Students should have an understanding of the main\nPricing methods, including:\nfeatures of pricing methods and the impact they will\n- price skimming\nhave on a business.\n- price penetration\n- competitive pricing\n- loss leader\n- cost-plus.\nStudents should be able to recognise the factors,\nThe factors that influence pricing\ndecisions, including:\ninternal and external, which might influence the\npricing decision, particularly as businesses grow and\n- costs\nexpand. They should be able to evaluate the factors\n- nature of the market\nand use them to assess the suitability of pricing\n- degree of competition\nmethods for a given business.\n- product life cycle.\nStudents should have an understanding of the basic\nrelationship between price and demand ie as prices\nrise demand is likely to fall.\nProduct\nStudents should understand the benefits and risks of\ndeveloping new products.\nStudents should understand the importance of\nproduct design, image and the needs of the target\nmarket when designing new products.\nProduct differentiation:\nStudents should appreciate the significance of having\na USP in a competitive market and the importance of\n- unique selling point (USP)\na good brand image.\n- brand image.\nStudents should have an understanding of the product\nThe product life cycle:\nlife cycle and demonstrate how demand for a product\n- research and development\nor service might change over time.\n- introduction\nStudents should be able to evaluate the effectiveness\n- growth\nof extension strategies and when they would be\n- maturity\nsuitable.\n- decline\n- extension strategies:\n- updating packaging\n- adding more or different features\n- changing target market\n- advertising\n- price reduction.\nProduct portfolio\nStudents should understand how and why businesses\nmight broaden and balance their product portfolio\nusing the Boston Matrix.\nStudents should be able to identify and explain the\nfour categories of the Boston Box.\nPromotional methods:\nStudents should be familiar with the promotional\nmethods which are likely to be used by a given\n- advertising, including:\nbusiness.\n- newspapers\nStudents should appreciate the benefits and\n- magazines\ndrawbacks of promotional methods used by\n- television\nbusinesses.\n- internet\nStudents should be able to analyse factors influencing\n- billboards.\nthe selection of the promotion mix to assess their\n- PR\nsuitability for a given business.\n- sales promotion\n- point of sales displays\n- 2 for 1 offers\n- free gifts\n- samples\n- coupons\n- competitions.\n- sponsorship\n- social media.\nFactors influencing the selection of the\npromotional mix:\n- finance available\n- competitor actions\n- the nature of the product or service\n- the nature of the market\n- target market.\nReasons for promotion:\n- inform/remind customers about the\nproduct\n- create or increase sales\n- create or change the image of the\nproduct\n- persuade customers to buy the\nproduct.\nPlace (the different channels of\nStudents should be familiar with the different channels\ndistribution used by businesses):\nof distribution used by businesses to gain access to\npotential customers.\n- retailers\nStudents should be able to analyse the\n- wholesalers\nappropriateness of each distribution method for a\n- telesales.\ngiven scenario.\nE-commerce and m-commerce\nStudents should be able to analyse the growing\nimportance of e-commerce and m-commerce and how\nit can extend the reach of businesses to include\ninternational markets.\nStudents should be able to identify the benefits and\ndrawbacks of a business using e-commerce and m-\ncommerce.\n- Integrated nature of the marketing\nStudents should be aware of the importance of the\nmix\nfour elements and how they work together.\n- Using the marketing mix to inform\nStudents should be able to recommend appropriate\nand implement business decisions\nmarketing activities for a given business.\nStudents should be able to recognise how the\nmarketing mix evolves over time and evaluate how\nbusinesses may react to this.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.6",
+          "title": "Finance",
+          "level": 1,
+          "content": "Students should understand the interdependent nature of business operations, human resources,\nmarketing and finance. Students should be able to give examples of how business objectives\nwould be split into functional plans with clear links throughout.\nThe purpose of the finance function, its role within business and how it influences business activity.",
+          "children": [
+            {
+              "code": "3.6.1",
+              "title": "Sources of finance",
+              "level": 2,
+              "content": "- Methods businesses use to raise\nStudents should be able to:\nfinance\n- Appropriateness of sources of\nfinance\n- understand the main internal and external\nsources of finance available (including family\nand friends, retained profit, a new share issue,\nobtaining a loan or mortgage, selling unwanted\nassets, overdrafts, trade credit, hire purchase\nand government grants)\nanalyse the advantages and disadvantages of\neach method for a given situation\nevaluate the suitability of sources of finance for\nnew and established businesses.",
+              "children": []
+            },
+            {
+              "code": "3.6.2",
+              "title": "Cash flow",
+              "level": 2,
+              "content": "- Importance of cash to businesses\nStudents should be able to:\n- Interpreting cash flow forecasts\n- Difference between cash and profit\n- understand the consequences of cash flow\nproblems and the effect of positive cash flow\nunderstand how and why cash flow forecasts\nare constructed\ncomplete and interpret sections of a cash flow\nforecast (this includes an understanding of cash\ninflows and outflows, net cash flow and the\nopening and closing balance. Students are not\nexpected to be able to construct an entire cash\nflow forecast)\nevaluate possible solutions to cash flow\nproblems, including re-scheduling payments,\noverdrafts, reducing cash outflow, increasing\ncash inflow and finding new sources of finance.",
+              "children": []
+            },
+            {
+              "code": "3.6.3",
+              "title": "Financial terms and calculations",
+              "level": 2,
+              "content": "- Basic financial terms\nStudents should be able to:\n- Basic financial calculations\n- Average rate of return\n- Break-even\n- Students will not be expected to draw break-even\ncharts or use the break-even formula.\nunderstand the difference between variable\ncosts, fixed costs and total costs\nunderstand the concept of revenue, costs, profit\nand loss\nunderstand the main investment projects that\nbusinesses undertake, including investment in\nnew machinery, buildings and vehicles and be\nable to calculate the average rate of return for\nthese projects\nunderstand the meaning of the term break-even\noutput and interpret break-even charts\nidentify the break-even level of output and\nmargin of safety from a break-even chart\nevaluate the value of using break-even analysis\nto a business.",
+              "children": []
+            },
+            {
+              "code": "3.6.4",
+              "title": "Analysing the financial performance of a business",
+              "level": 2,
+              "content": "- Purpose of financial statements\nStudents should be able to:\n- Components of financial statements\n- Interpretation of data given on\nfinancial statements\n- Students will not be given formulae in an exam.\nunderstand the importance of financial\nstatements for assessing business performance\nand helping make business decisions\nidentify the main components of the income\nstatement and the statement of financial position\nunderstand the difference between assets and\nliabilities and that the statement of financial\nposition is a snapshot in time\nmake judgements on the performance of a\nbusiness through the interpretation of the\ninformation contained in income statements\nconsider current performance, performance\nagainst previous years, performance against\ncompetitors and performance from the\nperspective of a range of stakeholders\ncalculate gross profit margin and net profit\nmargin to help assess financial performance.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

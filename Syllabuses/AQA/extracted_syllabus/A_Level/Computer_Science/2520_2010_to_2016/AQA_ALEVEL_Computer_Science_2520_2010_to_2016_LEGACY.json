@@ -1,0 +1,309 @@
+{
+  "source_pdf": "A_Level/Computer_Science/2520_2010_to_2016/AQA_ALEVEL_Computer_Science_2520_2010_to_2016_LEGACY.pdf",
+  "qualification": "A_Level",
+  "subject": "Computer Science",
+  "spec_code": "2520",
+  "pdf_name": "AQA_ALEVEL_Computer_Science_2520_2010_to_2016_LEGACY.pdf",
+  "extraction_method": "table",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject Content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Unit 1 INFO1 Practical Problem Solving in the Digital World",
+          "level": 1,
+          "content": "Introduction\nCourses based on this unit should provide students\nwith the opportunity to develop their knowledge and\nunderstanding of the development of ICT systems\nthrough practical experience in using a range of\napplications software in a structured way. Students\nshould then be able to apply the skills, knowledge\nand understanding gained from this practical work to\nthe solution of problems.\nRange of Software/Problems\nStudents are expected to make practical use of\na range of applications software, hardware and\ncommunication technologies to address several\ndifferent types of problem. The range of applications\nsoftware used should cover the processing of text,\nimages, numbers and sound.\nStudents should address several problems. These\nproblems can be selected to meet the individual\nneeds of learners. Examples of suitable solutions to\nproblems could include several from the following:\n- an electronic photo album\n- a rolling multimedia presentation for a school open\nday\n- a website for a local nursery\n- organising a blog for a local councillor\n- producing invoices for a small business\n- organising a set of podcasts for a teacher\n- an interactive multimedia display for a tourist\ninformation centre.\nStudents should be provided with opportunities to\ndevelop the following skills:\n- analysing\n- designing\n- implementing\n- testing\n- evaluating systems.\nAssessment\nAssessment of this unit is by examination so\ncandidates can show their understanding of the\nprocesses they have completed by their ability to\nrepeat those processes (e.g. identifying suitable\nsoftware to solve a given problem), or by being\nquestioned about what they have done.\nQuestions will test candidates’ practical experience\nin identifying methods of solution, and the design,\nimplementation, testing, and evaluation of actual\nsolutions based on a variety of applications software\nthat process different types of data. Candidates\nwill also be asked to identify evidence from Sample\nWork that they have completed and brought into the\nexamination.\nSample Work\nCandidates must bring into the examination a sample\nof their work which addresses one or two problems.\nThis Sample Work must be submitted with the\nquestion paper/answer booklet at the end of the\nexamination.\nThe Sample Work must address at least one problem\nand provide evidence as follows.\n1. A Problem Identiﬁ cation with a list of requirements\nfor that problem. Interpretation of those\nrequirements as Input, Processing and Output.\n2. A test plan and clearly annotated samples of\ntesting evidence that is cross-referenced to the\ntest plan.\nItems 1 and 2 could be from the same or two\ndifferent problem solutions.\nCandidates are expected to provide between 10\nand 20 pages of Sample Work. It must be succinct,\nclearly laid out and legible to the examiner. Page\nnumbers must be clearly visible. (The purpose of\nnumbering is to facilitate the candidate and the\nexaminer in ﬁ nding the required evidence quickly and\nreferencing it accurately.) Page numbering should\ntherefore be sequential from start to end and not\nsubdivided into sections. It should be noted that,\nif the pages are not numbered, examiners will not\nhave time to search through the Sample Work for the\nappropriate references.\nSupervision and authentication of\nSample Work\nThe ﬁ rst page of the Sample Work must be the\nCandidate Record Form which, in advance of the\nexamination, must be completed and signed by\nthe candidate and the teacher responsible for the\nsupervision of the candidate’s work in order to\nauthenticate that the Sample Work is the candidate’s\nown. This is a similar procedure to that concerning\nauthentication of coursework; see Section 6.1.\nFor further details and examples of Sample Work, see\nthe Teacher Resource Bank.\nContent and Ampliﬁ cation",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Health and safety in relation to the use of ICT systems",
+              "level": 2,
+              "content": "The need for and application of current health and safety legislation that relates to the use of the ICT systems. Health and safety guidelines cover the design and introduction of new software.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Analysis",
+              "level": 2,
+              "content": "Problem identifi cation. — Description of a problem that requires solving, including identifying who needs the solution to the problem (the Client), who will use the solution and what their (the Users’) skills are, and any further intended audience. Produce a list of the Client’s requirements.: Precisely what the solution is to produce and how the solution is to work. Interpret lists of requirements as input, processing and output for ICT solutions.: What information in what format is required as output? What data is needed to produce the outputs required? What processing is involved in converting the data inputs to information output?",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Design of solutions",
+              "level": 2,
+              "content": "Select design tools and techniques, and apply them to identifi ed problems. Design of data entry into ICT systems. — Design techniques will depend upon the solution chosen. See the Teacher Resource Bank for examples. Design of data capture forms and other input methods e.g. video and audio capture. Design of robust data entry using validation and verifi cation techniques as: • errors can occur as data is entered into an ICT system • data needs to be accurate • data needs to be valid. Design of processes.: Design of each process to be implemented. See the Teacher Resource Bank for further details and examples. Design of output of information.: Design of output method and format. Information to be produced in suitable formats and with suitable sequencing. See the Teacher Resource Bank for further details and examples. Designs need to be used by other people.: Produce designs that could be implemented by a third party.",
+              "children": []
+            },
+            {
+              "code": "3.1.4",
+              "title": "Selection and use of input devices and input media",
+              "level": 2,
+              "content": "Select from input devices and input media available, and justify why items selected were suitable to solve each particular problem. — By knowing the following, candidates will be able to select and justify the most suitable input devices and media: • the broad characteristics of current input methods • appropriate situations for use of each method • the input devices and media used for each method of input • any limitations of current input devices and media.",
+              "children": []
+            },
+            {
+              "code": "3.1.5",
+              "title": "Selection and use of storage requirements, media and devices",
+              "level": 2,
+              "content": "Select from storage media and devices available, and justify why items selected were suitable to solve each particular problem. — By knowing the following, candidates will be able to select and justify the most suitable input devices and media: • data needs to be stored for future use • data can be stored at different physical locations from where it may be used • the broad characteristics of current storage media • appropriate contexts for use of media • the devices needed for reading and/or writing data to the storage media • any limitations of current storage devices and media.",
+              "children": []
+            },
+            {
+              "code": "3.1.6",
+              "title": "Selection and use of output methods, media and devices",
+              "level": 2,
+              "content": "Select from output methods, media and devices available, and justify why items selected were suitable to solve each particular problem. — By knowing the following, candidates will be able to select and justify the most suitable methods, media and devices: • the broad characteristics of current output methods • appropriate situations for the use of each method • the output devices and media used for each method of output • any limitations on current output devices and media.",
+              "children": []
+            },
+            {
+              "code": "3.1.7",
+              "title": "Selection and use of appropriate software",
+              "level": 2,
+              "content": "Identify software available and justify why the selected software was suitable to solve each particular problem. Systems software and applications software — By knowing the following, candidates will be able to select and justify their choice of software: • an awareness of the concept of software, the need for and function of software • the role and functions of systems software and the role and the functions of applications software • appropriate uses of current applications software.",
+              "children": []
+            },
+            {
+              "code": "3.1.8",
+              "title": "Implementation of ICT-related solutions",
+              "level": 2,
+              "content": "Production of working solutions. — Use of the hardware and software and appropriate communications technologies as required to provide working solutions to identifi ed problems.",
+              "children": []
+            },
+            {
+              "code": "3.1.9",
+              "title": "Testing of ICT-related solutions",
+              "level": 2,
+              "content": "Construct test plans that include a range of suitable test data, identify expected outcomes and test that the client’s requirements have been met. — A test plan that shows the design of representative examples of tests to ensure: • validity of data input • accuracy of output • presentation of output • that the solution meets the requirement of the client • that the solution is usable by the end user and/or intended audience • that it incorporates the data to be used for testing the solution and the expected results of each test. Follow test plan in a systematic way.: Testing evidence that is cross-referenced to the test plan. Testing evidence that is clearly annotated to show an understanding of the testing process. Interpret the results of tests and take appropriate action. The results of testing evidence are used in the evaluation of the solution.",
+              "children": []
+            },
+            {
+              "code": "3.1.10",
+              "title": "Evaluation of ICT-related solutions",
+              "level": 2,
+              "content": "Assessment of the effectiveness of the solution in meeting the Client’s requirements and showing an understanding of what makes an ICT solution effective. — Candidates should ask themselves the following questions: • does the solution do what it is supposed to do? • does the solution do it in the way it is supposed to do it? • is the solution an effective one? • if it is not, then what is wrong with the solution and what would make the solution an effective one?. 3.2 Unit 2 INFO2 Living in the Digital World Today’s students are living in a world where the use Students should be asking questions such as: of ICT surrounds them, and where they, and others, • why is ICT being used frequently take this use for granted. • is it appropriate to use ICT It is increasingly important for future adults to be aware of the numerous issues arising from the use • what are the implications of its use for me, now of ICT for individuals, society and organisations. and in the future The issues change rapidly and increasingly involve • how does a particular use of ICT affect society? environmental and ethical ones. It is expected that students will study much of the This unit is designed to give students the wider content of this unit through the investigation of picture of the use of ICT and to enable the examples of ICT use, and the issues involved in those understanding of basic terms and concepts involved examples. in the study of the subject. Students should be able to discuss and comment on issues from a position The Teacher Resource Bank will provide further of knowledge and they can do this only if they have amplifi cation and a glossary of terms. the knowledge and understanding that underpins the subject. Students should be encouraged to consider the important issues involved in the use of ICT by themselves and by others. Students should also study the immediate effect on themselves and also the longer term effects on society and the world in general.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Unit 2 INFO2 Living in the Digital World",
+          "level": 1,
+          "content": "Today’s students are living in a world where the use\nof ICT surrounds them, and where they, and others,\nfrequently take this use for granted.\nIt is increasingly important for future adults to be\naware of the numerous issues arising from the use\nof ICT for individuals, society and organisations.\nThe issues change rapidly and increasingly involve\nenvironmental and ethical ones.\nThis unit is designed to give students the wider\npicture of the use of ICT and to enable the\nunderstanding of basic terms and concepts involved\nin the study of the subject. Students should be able\nto discuss and comment on issues from a position\nof knowledge and they can do this only if they have\nthe knowledge and understanding that underpins the\nsubject.\nStudents should be encouraged to consider the\nimportant issues involved in the use of ICT by\nthemselves and by others. Students should also\nstudy the immediate effect on themselves and also\nthe longer term effects on society and the world in\ngeneral.\nContent and Ampliﬁ cation\nStudents should be asking questions such as:\n- why is ICT being used\n- is it appropriate to use ICT\n- what are the implications of its use for me, now\nand in the future\n- how does a particular use of ICT affect society?\nIt is expected that students will study much of the\ncontent of this unit through the investigation of\nexamples of ICT use, and the issues involved in those\nexamples.\nThe Teacher Resource Bank will provide further\nampliﬁ cation and a glossary of terms.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "An ICT system and its components",
+              "level": 2,
+              "content": "What is ICT? — The use of technology for the input, storage, processing and transfer of data and the output of information. What is a system?: Any system involves input, processing and output. What is an ICT system?: ICT systems are those where the output from the system goes directly to a human being or into another ICT system. Any ICT system is made up of components.: The components are: • people • data • procedures • software • hardware • information.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Data and information",
+              "level": 2,
+              "content": "Data — Defi ne data. How data can arise. Data can be in different forms including text, still and moving images, numbers and sound. The need to code data on collection to enable effective processing. The need to encode data on input to an ICT system. Data is processed to produce information.: Processing is required to enable information to be produced from data. Information: Defi ne information. Factors that affect the quality of information.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "People and ICT systems",
+              "level": 2,
+              "content": "ICT systems are designed for and used by people. ICT systems are commissioned for a purpose. Characteristics of users.: Different users have differing requirements dependent upon: • experience • physical characteristics • environment of use • task to be undertaken • age. How users interact with ICT systems.: Students should be able to discuss the need for effective dialogue between humans and machines. Appropriate interface design to provide effective communication for users. The need for the provision of appropriate help and support for users of ICT systems. The benefi ts and limitations of different types of user interfaces. Working in ICT.: Students should be aware of the many different jobs available to ICT professionals. The personal qualities and general characteristics necessary for an ICT professional to work effectively within the industry. The characteristics of an effective ICT team.",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "Transfer of data in ICT systems",
+              "level": 2,
+              "content": "Students should be aware of current and emerging communication technologies. Basic elements of an ICT network.: Students should be aware of what is available in order to create and use an ICT network: • communication devices • networking software • data transfer media • standards and procedures • ICT networks for different geographical scales and uses should be considered. See the Teacher Resource Bank. Characteristics of networks.: The World Wide Web and the Internet and the ability to distinguish between them. The characteristics of intranets and extranets. Uses of communication technologies.: Candidates should be able to comment on the appropriate and inappropriate use of networks and other technologies for a range of activities. Standards: The need for standards when transferring data.",
+              "children": []
+            },
+            {
+              "code": "3.2.5",
+              "title": "Safety and security of data in ICT systems",
+              "level": 2,
+              "content": "The need to protect data in ICT systems. — Students should be able to discuss issues involving the: • privacy of data in ICT systems • legislation to protect data • commercial and intrinsic value of data. Threats to ICT systems.: There are different threats to ICT systems, including: • internal and external threats • malpractice and crime. Protecting ICT systems.: The measures that can be taken to try to protect all parts of ICT systems, including networks, against threats: • hardware measures • software measures • procedures. Legislation: Students should be aware of the provisions for legal action to be taken in the event of security breaches. The current legislation.",
+              "children": []
+            },
+            {
+              "code": "3.2.6",
+              "title": "Backup and recovery",
+              "level": 2,
+              "content": "The need for regular and systematic backup. — Case studies can be used to illustrate effective strategies and the problems of not having backup for individual users and groups of users Different individuals and organisations have different needs for backup and recovery.: These depend on the uses which are made of ICT. Options for backup and recovery dependent upon: • what • when • how • storage, including media and location. Responsibility needs to be allocated for backup and recovery procedures. The need for continuity of service.: Examples where continuity of service is different, including where different types of processing are used.",
+              "children": []
+            },
+            {
+              "code": "3.2.7",
+              "title": "What ICT can provide",
+              "level": 2,
+              "content": "What ICT can provide. — ICT can provide: • fast, repetitive processing • vast storage capability • the facility to search and combine data in many different ways that would otherwise be impossible • improved presentation of information • improved accessibility to information and services • improved security of data and processes. Is the use of ICT systems always appropriate?: Students should be able to discuss ICT systems that: • have limitations in what they can be used for • have limitations in the information that they produce • do not always provide the most appropriate solutions. Types of processing.: There are different types of processing: • batch • interactive • transaction. (See Teacher Resource Bank for defi nitions.) Characteristics of each type. Appropriate contexts for their use.",
+              "children": []
+            },
+            {
+              "code": "3.2.8",
+              "title": "Factors affecting the use of ICT",
+              "level": 2,
+              "content": "How the use of ICT is infl uenced by the following factors: • cultural • economic • environmental • ethical • legal • social. — Students should be able to discuss current issues, using examples to illustrate where and how each of the factors has had an effect on the use of ICT. See Teacher Resource Bank for ideas and resources.",
+              "children": []
+            },
+            {
+              "code": "3.2.9",
+              "title": "The consequences of the use of ICT",
+              "level": 2,
+              "content": "For individuals. For society. — Students should be able to discuss, using examples, the consequences of the use of ICT for different groups of individuals and society as a whole. See Teacher Resource Bank for ideas and resources.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Unit 3 INFO3 The Use of ICT in the Digital World",
+          "level": 1,
+          "content": "This unit looks at the fast changing subject of ICT,\nincluding developments in technology and ICT\nsystem capabilities, and how this might affect the\nworld that makes use of ICT.\nThe content is designed to address issues associated\nwith the management of ICT and its use within\norganisations. A range of organisations should be\nstudied, including charities, clubs and societies,\nsmall, medium and large businesses, both national\nand multi-national public and private organisations.\nThe number of people involved could range from one\nor two to many thousands.\nEach organisation will have the same ICT-related\nissues to consider on a scale appropriate to their\nContent and Ampliﬁ cation\nown needs, for instance, the introduction and testing\nof ICT systems, the training and support needed for\nusers of ICT systems, the outside organisations which\naffect the way the organisation runs its ICT.\nIt should be remembered when teaching this unit\nthat ICT systems are there to support the activities\nof organisations, and are essential in the modern\nworld. It is expected that students will study much\nof the content of this unit through the investigation of\nexamples of the uses made of ICT by organisations.\nThe Teacher Resource Bank will provide further\nampliﬁ cation and a glossary of terms.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Future developments",
+              "level": 2,
+              "content": "Emerging technologies. — Enabling devices for remote and mobile working. Advances in technology that give business and leisure benefi ts. Potential future uses of ICT.: Developments in uses of current and future ICT systems. Implications of future developments and future use of ICT.: The impact on society. The impact on the way organisations are run. The impact on individuals as consumers and as workers. The social, cultural, legal, technical, ethical, economic and environmental issues surrounding the rapid development of ICT.",
+              "children": []
+            },
+            {
+              "code": "3.3.2",
+              "title": "Information and systems",
+              "level": 2,
+              "content": "Different organisations have different information needs. — Type and scale of organisation. Nature and management style. Different activities within an organisation have different information needs.: Ordering systems, customer support Different levels of task have different information needs.: Strategic, Tactical, Operational Managing, Operating Different personnel have different information needs.: Suppliers, customers, offi cial and legal bodies. Organisations have to exchange information with external bodies.: Privacy, security, and legal compliance implications. ICT systems support the activities of organisations.: The role of ICT is to improve the effi ciency and effectiveness of business processes. Common ICT systems exist such as payroll, personnel and accounting. There is a need for information to be transferred between ICT systems both internally and externally.: The demands of the organisation itself. The requirements of external agencies. Supply chain. New systems interfacing with legacy systems. See the Teacher Resource Bank for further guidance. Types of ICT system and their uses.: Back Offi ce Systems. Transaction processing systems; workfl ow and document management systems; system for collaborative working. Management Information Systems (MIS). Enterprise systems, Customer Relationship Management. Decision Support Systems (DSS). E-commerce. For example: online sales, ticket reservations, licence applications. See the Teacher Resource Bank for further guidance.",
+              "children": []
+            },
+            {
+              "code": "3.3.3",
+              "title": "Managing ICT",
+              "level": 2,
+              "content": "The size of an organisation affects the degree of formality with which ICT is managed. — Small organisations have informal systems. Large organisations tend to have formal ones. An ICT strategy should match the long-term aims of an organisation. ICT policies outline how a strategy would be put into operation.: For example, an aim of the organisation to increase its market share might necessitate the ICT strategy, including the development of e-commerce. Contribution of ICT management to business strategy.: Chief Information Offi cer’s role as member of the company executive.",
+              "children": []
+            },
+            {
+              "code": "3.3.4",
+              "title": "ICT strategy",
+              "level": 2,
+              "content": "Factors that infl uence an ICT system strategy within an organisation. — For example, business goals, available fi nance, legacy systems, geography of clients and business fulfi lment, external factors: compliance, legislation. The management of information assets over time.: Students need to be aware that the long-term use of ICT systems involves the need to manage an increasing volume of data. The need for a corporate strategy covering technology for ICT systems in large organisations.: Future proofi ng, developments in technology, procurement. Technology lifecycle, information management, people considerations. Standards exist that may affect strategic choices.: For example, for exchanging data.",
+              "children": []
+            },
+            {
+              "code": "3.3.5",
+              "title": "ICT Policies",
+              "level": 2,
+              "content": "Organisations will have policies covering different aspects of the use of ICT, such as security, training and procurement.",
+              "children": []
+            },
+            {
+              "code": "3.3.6",
+              "title": "Legislation",
+              "level": 2,
+              "content": "The implication of legislation on ICT policies. Legislation will impact on procedures within an organisation.",
+              "children": []
+            },
+            {
+              "code": "3.3.7",
+              "title": "Developing ICT solutions",
+              "level": 2,
+              "content": "Factors that contribute to a successful development process. — For example, Management and End User involvement at appropriate times; effective ICT teamwork. Factors during the development process that might contribute to the failure of a newly introduced system.: For example, inadequate analysis; losing control of the project plan.",
+              "children": []
+            },
+            {
+              "code": "3.3.8",
+              "title": "Development methods",
+              "level": 2,
+              "content": "ICT systems need to be developed in stages. — Systems development life cycle. The stages of development.: Analysis of the problem and proposed solution. Design and specifi cation of the solution. Constructing the solution (writing code, customising a package). Testing (Module, Functional, Systems, User, Operational). Installation and Conversion (including documentation, training and handover). Review and maintenance. The need for systematic, formal methods.: Project management; agreed deliverables, milestones, sign-off and approval to proceed. Development methodologies.: Students need to be aware of a variety of linear and iterative methods.",
+              "children": []
+            },
+            {
+              "code": "3.3.9",
+              "title": "Techniques and tools for systems development",
+              "level": 2,
+              "content": "Investigating and recording techniques. Business process modelling tools. — Students need to be aware of the techniques available and their appropriate uses. Students need to know, understand and be able to use diagrams and tools used in the modelling of business processes. Data modelling tools. Techniques for testing.: Students need to know, understand and be able to use diagrams and tools used in the modelling of data. Students need to be aware of the range of techniques available. For example, techniques such as test harnesses, volume testing, scalability, prototyping, multi- platform, use of simulated environments. See the Teacher Resource Bank for further advice.",
+              "children": []
+            },
+            {
+              "code": "3.3.10",
+              "title": "Introducing large ICT systems into organisations",
+              "level": 2,
+              "content": "Scale — Large ICT systems can be used not only within a single organisation but also across multiple small organisations. For example, ordering systems used in newsagents; NHS systems used across the country in trusts but also in a single GP surgery. Reliability and testing.: Students need to be aware of the issues involved in testing large ICT systems: • ensuring that large ICT systems always operate as expected • designing testing to ensure reliable operation – techniques and the people involved • the specialist skills and facilities required for the testing of network based systems. Installation: Essential features of a successful installation plan for a large-scale ICT system. Methods of introducing systems. Hardware installation and testing. Software installation and testing. Documentation. Resources (cross-referenced to training) Backup and recovery.: Strategies for backup of large scale systems. Risk Analysis. Scale of backup. Procedures for recovery of large scale systems. Disaster Recovery/Contingency planning. Options for recovery. Cross-reference to training. Maintenance: Types of maintenance on large scale systems. Adaptive Corrective Perfective Maintenance teams; handover. Cross-reference to User support.",
+              "children": []
+            },
+            {
+              "code": "3.3.11",
+              "title": "Training and supporting users",
+              "level": 2,
+              "content": "Users of ICT systems can be both internal and external to the organisation. The training and support requirements may be different. — Different levels of staff need to learn different functionality of systems to match job and role requirements. External users may require training. Training: Training methods available. The relative merits of the different methods of training for: • the organisation • the individual being trained. Support: Support options available. Factors an organisation would consider when selecting a suitable support option. Customers: Interfaces available. The relationship between the choice of interface and business activities. Managing the interface between the organisation and its customers.",
+              "children": []
+            },
+            {
+              "code": "3.3.12",
+              "title": "External and internal resources",
+              "level": 2,
+              "content": "Using external ICT services and business support. — Students need to be aware of a range of ICT services available such as outsourcing, offshore, bulk printing (payroll, billing). Students need to be aware of different ways that organisations can obtain ICT services from suppliers such as contracting (people, space, equipment), leasing (software, communication links, equipment). Managing internal resources.: Planning the management and control of: • hardware resources • software resources • communication resources • consumables • facilities and power • people. The Project Report Should Include: Amplifi cation",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Unit 4 INFO4 Coursework: Practical Issues Involved in the Use of ICT in the Digital World",
+          "level": 1,
+          "content": "This unit provides students with the opportunity\nto complete a substantial project involving the\nproduction of an ICT-related system over an extended\nperiod of time. In so doing, students will enhance\ntheir transferable practical skills.\nThe unit is designed to be taught alongside or after\nUnit 3 and topics covered in Unit 3 may provide the\nstimulus for work for this Unit 4, but the centre or\nstudent can explore new areas of ICT if they wish.\nPossible projects\nIn addition to those given below, AQA will provide\nguidance on task setting in the Teacher Resource\nBank. Annual Standardisation Meetings will also\nbe provided for the purpose of giving guidance\nto teachers in the conduct of coursework and its\nmarking.\nThere is the scope for work to be tailored to the\nindividual needs of learners and for a wide range of\nICT-related systems to be created. It is also important\nfor each candidate’s project to have a level of\ncomplexity and demand appropriate to the second\nyear of an A Level.\nThe following may help to illustrate the range of\npossible projects that could be undertaken, and how\ngroups of students could work together (see below),\nwhilst still producing an individual project report that\nhas their own work clearly identiﬁ ed.\nStudents may, for example, produce:\n- a software solution such as an e-commerce or\nmultimedia system\n- a training system, including training materials for a\nclient. This could, for example, be for a course for\nsomeone working from home\n- a user support system, such as for a user help\ndesk in a company or school/college, or a fault\nlogging system\n- a system for ensuring the security of an\norganisation’s ICT systems. An idea here would\nbe to formulate a policy to specify appropriate\nuse of a company or a school’s/college’s laptop\ncomputers and other mobile devices, or a\ndatabase to record usage\n- a system for communication within an\norganisation: for example, for how schools could\nuse technology to communicate with students\nwithin the school or a communal diary system\n- a system for evaluating new software to be\npurchased or for a new system to be installed,\nincluding hardware, software, communications,\nconsumables and services\n- a backup and recovery system and a disaster\nrecovery plan for an organisation\n- a system for managing relationships with\ncustomers.\nMore suggestions are given later in this section along\nwith ideas on how to enable groups of students to\nwork together.\nWorking together\nIt is intended that this unit will provide opportunities\nfor students to become involved in real or realistic\nsituations in organisations where they can apply their\nskills, knowledge and understanding of ICT to solve\nproblems for a client. An organisation is deﬁ ned as\nany group of people who use ICT to achieve their\naims and objectives. Examples of an organisation\ninclude a local company, a retailer, a school or\ncollege, a charity, a club or society, or just a group of\npeople coming together to organise an event.\nIt is quite acceptable for students to work in teams for\nthe same client, if that is what is required for the work\nbeing undertaken. Students at this level are expected\nto work, in some part, collaboratively with others.\nThe team could consist of two or more students\nworking with one or more members from the client\norganisation. This approach is encouraged if it allows\nstudents to become involved in larger more realistic\nprojects where each student can work on part of a\nsystem.\nUsing software\nThe project should involve the students in the use of\napplications software for a variety of purposes and\nshould also introduce students to the fundamentals\nof project management and, although there is no\nrequirement to use dedicated project management\nsoftware, students may wish to so that they can\nbetter manage their own project or their part in a\nlarger project.\nStudents will have used a variety of applications\nsoftware during their study of Unit 1; Unit 4 provides\nstudents with the opportunity to enhance their skills\nor develop new ones.\nStudents will be expected to make full use of the\nfunctionality available in word processing software for\nthe production of the project report and, if required,\nto enable collaborative working.\nSkills\nThe skills set down in the QCA Subject Criteria for\nGCE ICT are those necessary to undertake an ICT-\nrelated project: thus, as part of this unit, students will\nhave the opportunity to enhance their transferable\nskills in:\n- investigation\n- analysis\n- deﬁ nition of requirements\n- design of effective solutions to meet a\nrequirements speciﬁ cation, including the methods\nto be used for testing and installation\n- selection and use of appropriate technologies\n- implementation\n- testing\n- documentation\n- evaluation of solutions and their own performance.\nThe project should encourage students to think\ncreatively, innovatively, analytically, logically and\ncritically as they consider and suggest alternative\napproaches, investigate and discuss possibilities, and\nrecommend actions to be taken.\nStudents will produce a project report which\nwill be assessed internally by the centre, to the\ncriteria provided in this speciﬁ cation. The centre’s\nassessment will then be moderated by AQA. For\nthis reason, although collaborative working is\nencouraged, it is imperative that assessors are able\nto identify each student’s own contribution, and each\nstudent must produce their own project report.\nFurther project ideas\nThe following may help to illustrate the range of\npossible projects that could be undertaken, and how\ngroups of students could work together, whilst still\nproducing an individual project report that has their\nown work clearly identiﬁ ed.\n- Website, intranet site or extranet site\nFor any organisation (or event), students\ncould produce parts of an intranet for different\ndepartments within an organisation, working\ncollaboratively to establish house styles and\nconsistency of end-product, and in sharing their\nskills in the use of the variety of applications\nsoftware needed to create the end-product.\n- Training materials\nTraining materials could be developed for a course\nwithin the centre or for an external organisation.\nMaterials could take a variety of formats and\nbe created using a range of software. Individual\nstudents could work on one aspect or one format,\nwhilst the whole group has to adopt consistent\nstyles and approaches to development. For\nexample, training could be needed in:\n– a new piece of software\n– using new laptops, PDAs or other portable\ndevices\n– using loan items such as digital cameras or\nrecording equipment\n– a new security policy\n– a backup and recovery strategy\n– health and safety legislation or guidelines\n– environmental policies, such as disposal of\ncomputer equipment.\nOther students could perhaps develop a system for\nstoring, cataloguing or loaning out training materials\nthat have been created.\n- User support and fault logging\nA group of students could each work with a\ndifferent type of user, or a different department\nof a school or other organisation. Materials\nrequired might be similar in purpose, but need\nto be produced so as to best suit the individual\ntypes of user, or some may have specialist needs\nwhich need supporting. Recording and storage of\nrequests for maintenance, error reporting or fault\nlogging could be built in.\n- Managing relationships with customers\nThis could involve a system for the collection\nof customer feedback via a website and a\nback ofﬁ ce system that can collect, store and\nclassify responses, plus a system that results\ncan be fed into for statistical analysis. Individual\nstudents could take on one of the elements,\nwhere collaboration would be essential to ensure\neffective data transfer, correctness and accuracy.\nThe Project Report Should\nAmpliﬁ cation\nInclude\n- Multimedia solutions\nThese can be used in a variety of situations. They\ncan be extremely large systems and frequently\nneed to be broken down into manageable\nchunks. Separate students could work on parts of\nan overall solution. This could include producing\nan interactive map, where subject specialisms or\nspecial interests could determine with what areas\nstudents became involved. For example, one\nstudent could prepare and incorporate information\non areas of interest for young adults, another on\nsporting venues, a third on ﬂ ora and fauna. This\ncould be produced for the local tourist board or\ntown council.\nAdditional information and examples are available in\nthe Teacher Resource Bank.",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Background and investigation",
+              "level": 2,
+              "content": "An introduction to the organisation. — This should include the type and purpose of the organisation, and give an idea of its size and scale of operation. The student’s contact within the organisation should be identifi ed. A description of the current system (or existing situation) and its environment.: Moving down in scale to describe the system (or existing situation) within the organisation/for the organisation, which is under investigation. The people/departments involved. Identifi cation of client and users.: Who is it for? Clear identifi cation of client (and users). N.B. It is likely that there is one client, but multiple users. At this level of study, it is expected that this will be the case. A business case (reasons) for change.: Why the project is needed by the organisation. Evidence of the use of relevant investigation techniques.: Evidence of, for example, planning, conducting, documenting and evaluating meetings with clients, interviews, observation, questionnaires, research as appropriate. (See the Teacher Resource Bank.) Requirements of the client.: What is the proposed system to provide?",
+              "children": []
+            },
+            {
+              "code": "3.4.2",
+              "title": "Analysis and deliverables",
+              "level": 2,
+              "content": "Statement of scope. — This should include any internal or external constraints on the proposed system. These may include hardware, communication technologies, software, format of external information requirements, staffi ng and environmental factors. Description of the proposed system.: This may take various formats but should include the benefi ts for, and likely impacts on, the organisation. Documentation of processes.: Again, the format for the documentation is not fi xed but should be appropriate to the system being analysed. Description of the users of the proposed system.: Details of the skills of the users of the proposed system, appropriate to the system. Evaluation criteria.: Both quantitative and qualitative criteria against which the solution can be tested and evaluated. These should be derived from the requirements of the client. The Project Report Should Include: Amplifi cation Agreed deliverables.: What is to be produced and handed over to the client? This may be a prototype system or a partial system. Evidence of checking the fi ndings with the client.: Findings must be presented in such a way as to be understandable to the client.",
+              "children": []
+            },
+            {
+              "code": "3.4.3",
+              "title": "Design and planning for implementa- tion1",
+              "level": 2,
+              "content": "Evidence of investigating alternative design solutions. — Should include investigating options for all elements of an ICT system as appropriate to the project. Draft design work.: To be able to discuss with client. Final design work.: From which to implement. Plan for implementation, testing and instalment, including proposed time scales. Training requirements for the new system.: This may include what documentation will be required for training the users. Testing strategy.: Should set out what testing is necessary, who will do it, when and where. Students should describe here any constraints on live testing that require a simulated environment to be used. Test plan.: The tests that will be undertaken, what the tests are testing, the order in which the tests will be completed.",
+              "children": []
+            },
+            {
+              "code": "3.4.4",
+              "title": "Testing and documentation of the implementation",
+              "level": 2,
+              "content": "Evidence of testing. — Where testing in the intended environment is not possible, testing in a simulated environment will be acceptable providing this has been explained and justifi ed in the testing strategy. Testing should concentrate on the testing of complete processes and the system as a whole. Evidence of functional or unit tests, for example for validation or for the backing up of one fi le, is not required. Evidence of testing should include evidence of client and/or end user testing.: As appropriate, depending on whether the client is also the end user. Comprehensive documentation of the solution that would allow the solution to be used/maintained or developed further which is appropriate for the client/ users.: Documentation could be technical or user documentation depending on the individual project undertaken and the agreed deliverables.",
+              "children": []
+            },
+            {
+              "code": "3.4.5",
+              "title": "Evaluation of the implemented solution",
+              "level": 2,
+              "content": "A critical evaluation of the solution that would allow the solution to be used/ maintained or developed further which is appropriate for the client/user. — The solution should be critically evaluated against the evaluation criteria and the client needs, as defi ned during the investigation and analysis stages. Evidence from testing should be referenced. An evaluation of the student’s own performance.: This should identify strengths and weaknesses in the approach they have identifi ed, how they would improve their performance on a similar project in the future. N.B. Students are not required to produce separate documentary evidence of implementation as this is provided through testing evidence and the fi nal documentation of the solution. The Project Report Should Include: Amplifi cation",
+              "children": []
+            },
+            {
+              "code": "3.4.6",
+              "title": "The Project Report",
+              "level": 2,
+              "content": "The complete work should be submitted in the format of a project report. — The report should be well structured and should make use of facilities available within software packages to enable this to be done: for example, by including a contents list, headers/footers, pagination, indexes, effective use of appendices and presentation techniques. Appropriate use of technically accurate illustrative and visual material for effective communication. An appropriate style of writing has been adopted. The standard of the student’s written communication will be assessed in the report. Marking Criteria 1 Background and investigation 14 marks 2 Analysis and deliverables 15 marks 3 Design and planning for implementation 14 marks 4 Testing and documentation of implementation 13 marks 5 Evaluation of the implemented solution 7 marks 6 The Project Report 7 marks Total 70 marks 1 Background and investigation (14 marks) This section is intended to assess the candidate’s ability to investigate situations, work with others, use appropriate techniques and analysis, and present their fi ndings in an appropriate manner. 0 - 6 MARKS: 7 - 10 MARKS: 11 - 14 MARKS The candidate has provided a brief introduction to the organisation and the current system (or existing situation), showing some understanding. The client for the ICT-related system has been identifi ed and the candidate shows that he/she has an idea of why the new system is required and what the client requires. The candidate has shown that he/she can use one investigation technique.: The candidate has provided an introduction to the organisation and shows understanding of the current system (or existing situation). The client for the ICT-related system and some of the users have been identifi ed and the candidate shows that he/she has some understanding of why the new system is required. The client’s requirements have been listed. The candidate has shown that he/she can use more than one investigation technique with an understanding of why it is appropriate for the task.: The candidate’s introduction to the organisation and description of the organisation are comprehensive, showing a full understanding of the system, the organisation and its environment. The candidate has described the client and all users of the proposed system (both technical and non- technical, if appropriate). A justifi cation of the required system is given with full understanding shown of the client’s requirements. The candidate has used more than two investigation techniques appropriate for the task. 0 - 5 MARKS: 6 - 9 MARKS: 10 - 15 MARKS A simple problem has been analysed with limited scope. The candidate has produced a brief statement of the scope of the project and has included a superfi cial description of the proposed system that shows some ability to analyse a system. Processes have been identifi ed and some understanding of what is involved in the new system is shown. The candidate has attempted to identify the skills of a user or some users. Evaluation criteria have been provided, showing some understanding of the need for the objective assessment of a solution. Some deliverables have been referred to in the report, showing that the candidate has an idea of what he/she has to produce. (Note: the maximum mark achievable in this section is 5 if a simple task, rather than a system, has been analysed.): A substantial problem has been analysed. There is a statement of the scope of the project. The candidate shows a good understanding of the proposed system and the likely benefi ts. The candidate has outlined the processes in the new system, showing some understanding of what is involved in each process. The skills of all users have been described, showing an understanding of the need to consider user skills when designing a solution. Both qualitative and quantitative evaluation criteria have been included, showing some understanding of the need for the objective assessment of a solution. The deliverables are listed, demonstrating some understanding of what the candidate has to produce. There is some evidence that fi ndings have been checked with the client, demonstrating that the candidate understands the need for client involvement.: A substantial problem has been analysed. There is a statement of scope along with an appreciation of any internal or external constraints on the project. The candidate has described the proposed system and included the benefi ts and likely impacts on the organisation. The candidate shows an understanding of the processes, which are fully documented and include the inputs and outputs required. The documentation could be used for design work, the candidate exhibiting strong skills of analysis and logical thinking. The skills of all users have been described, showing an understanding of the need to consider user skills in designing a solution. How the users will use the proposed system is described. Qualitative and quantitative evaluation criteria have been included that match the client requirements and show a good understanding of the need for the objective assessment of a solution. The candidate shows a full understanding of the deliverables that are required. There is evidence of how all fi ndings have been checked with the client and amended as necessary, demonstrating an effective response and full understanding of the need for client involvement. 0 - 5 MARKS: 6 - 10 MARKS: 11 - 14 MARKS The candidate has shown evidence of investigating alternative solutions. The candidate has included design work for the new system. The candidate has produced a limited plan for testing and installing the system with suggested deadlines, showing a basic understanding of the issues involved. The training required has been identifi ed. The candidate shows limited understanding of the testing process, but has included a test plan that may only include functional testing. (Note: the maximum mark achievable in this section is 5 if a simple task, rather than a system, has been designed and planned.): The candidate understands the basic principles of investigating and evaluating alternative solutions. The candidate has shown evidence of understanding the iterative nature of the design process by including design work for the new system that he/she has amended as a result of client feedback. Training needs have been considered and training is considered in a time plan that shows expected durations as well as deadlines, showing some understanding of the need to quantify time requirements. There is a test strategy for testing the effectiveness of the implemented system. The test plan shows an understanding of the need to test the system against evaluation criteria or client needs.: Alternative solutions have been considered and evaluated objectively in relation to client needs. The candidate shows full understanding of the design process and has included draft design work, which has been amended as a result of well- evidenced client feedback, and the resultant fi nal design for the new system. Training needs have been considered and training has been included in a time plan that shows expected durations as well as deadlines, showing understanding of the need to quantify time requirements. The process of testing a system is well understood with a strategy and plan that includes testing against both evaluation criteria and client needs. 4 Testing and documentation of the implementation (13 marks) This section is intended to assess the candidate’s ability to implement and document effective solutions, shown through his/her testing and documentation of the system. 0 - 5 MARKS: 6 - 9 MARKS: 10 - 13 MARKS The candidate has carried out some testing of the implementation that shows a limited understanding of the testing process. Some documentation has been provided that partly describes the implemented solution. The documentation would not be easily understood by a third party. (Note: the maximum mark achievable in this section is 5 if a simple task, rather than a system, has been tested and documented.): There is evidence that the candidate understands the need to test the processes in the system and the need to involve the client in the testing process. The candidate has shown client involvement in testing. The documentation is appropriate and comprehensive. The candidate has made some attempts to make the documentation suitable for the client and/or user(s) and, as a result, the documentation is understandable.: Appropriate testing of the whole system has been carried out, showing understanding of the purpose of testing. The candidate understands the need to involve both the client and user(s) in the testing process and has explained how he/she has achieved this, with evidence being shown. Documentation is comprehensive and could easily be used by the client and/or user(s), and for maintenance or upgrading of the solution – thus showing a good understanding of the purpose of documentation for an ICT-related system. 0 - 4 MARKS: 5 - 7 MARKS The candidate shows skills in evaluation by carrying out an evaluation of his/her implemented solution. Some strengths or weaknesses in the solution have been referred to. Reference is made in the evaluation to the client’s needs or the evaluation criteria. The candidate shows some understanding of the need to evaluate his or her own performance in completing the work.: Evaluation is well understood, with critical evaluation having been completed that identifi es strengths and weaknesses of the solution and suggests possible improvements that could be made. Evaluation refers to the client’s needs and evaluation criteria. The candidate has identifi ed the strengths and weaknesses in the approach he/she has taken to his/her work and has identifi ed how he/she could improve his/her performance on similar work in the future. 6 The Project Report (7 marks) The quality of written communication and the ability to use appropriate documentation, as well as the software skills needed to create it, are assessed in this section. The candidate shows some understanding of the requirements of a professional report. Software features have been used appropriately. The language used by the candidate is generally appropriate to the report, but the content may be disorganised. Some illustrative material has been included, but shows that the candidate has only a basic understanding of how to use illustrative material appropriately.: A well-structured report has been produced to a professional standard that makes good use of the features available in the software package used. The language used is suitable and the report is logical and well organised. The report is well illustrated, with appropriate material showing that the candidate has an understanding of the use of such material.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

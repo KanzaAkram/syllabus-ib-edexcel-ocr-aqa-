@@ -1,0 +1,1213 @@
+{
+  "source_pdf": "GCSE/Chemistry/8462_2017_to_PRESENT/AQA_GCSE_Chemistry_8462_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Chemistry",
+  "spec_code": "8462",
+  "pdf_name": "AQA_GCSE_Chemistry_8462_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "4",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "4.1",
+          "title": "Atomic structure and the periodic table",
+          "level": 1,
+          "content": "The periodic table provides chemists with a structured organisation of the known chemical\nelements from which they can make sense of their physical and chemical properties. The historical\ndevelopment of the periodic table and models of atomic structure provide good examples of how\nscientific ideas and explanations develop over time as new evidence emerges. The arrangement of\nelements in the modern periodic table can be explained in terms of atomic structure which provides\nevidence for the model of a nuclear atom with electrons in energy levels.",
+          "children": [
+            {
+              "code": "4.1.1",
+              "title": "A simple model of the atom, symbols, relative atomic mass, electronic charge and isotopes",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.1.1",
+                  "title": "Atoms, elements and compounds",
+                  "level": 3,
+                  "content": "All substances are made of atoms. An atom is the smallest part of\nan element that can exist.\nAtoms of each element are represented by a chemical symbol, eg\nO represents an atom of oxygen, Na represents an atom of sodium.\nThere are about 100 different elements. Elements are shown in the\nperiodic table.\nCompounds are formed from elements by chemical reactions.\nChemical reactions always involve the formation of one or more\nnew substances, and often involve a detectable energy change.\nCompounds contain two or more elements chemically combined in\nfixed proportions and can be represented by formulae using the\nsymbols of the atoms from which they were formed. Compounds\ncan only be separated into elements by chemical reactions.\nChemical reactions can be represented by word equations or\nequations using symbols and formulae.\nStudents will be supplied with a periodic table for the exam and\nshould be able to:\n- use the names and symbols of the first 20 elements in the\nperiodic table, the elements in Groups 1 and 7, and other\nelements in this specification\n- name compounds of these elements from given formulae or\nsymbol equations\n- write word equations for the reactions in this specification\n- write formulae and balanced chemical equations for the\nreactions in this specification.\n(HT only) write balanced half equations and ionic equations where\nappropriate.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.2",
+                  "title": "Mixtures",
+                  "level": 3,
+                  "content": "A mixture consists of two or more elements or compounds not\nchemically combined together. The chemical properties of each\nsubstance in the mixture are unchanged.\nMixtures can be separated by physical processes such as filtration,\ncrystallisation, simple distillation, fractional distillation and\nchromatography. These physical processes do not involve chemical\nreactions and no new substances are made.\nStudents should be able to:\n- describe, explain and give examples of the specified\nprocesses of separation\n- suggest suitable separation and purification techniques for\nmixtures when given appropriate information.\nKey opportunities for\nskills development\nWS 2.2, 2.3\nAT 4\nSafe use of a range of\nequipment to separate\nchemical mixtures.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.3",
+                  "title": "The development of the model of the atom (common content with physics)",
+                  "level": 3,
+                  "content": "New experimental evidence may lead to a scientific model being\nchanged or replaced.\nBefore the discovery of the electron, atoms were thought to be tiny\nspheres that could not be divided.\nThe discovery of the electron led to the plum pudding model of the\natom. The plum pudding model suggested that the atom is a ball of\npositive charge with negative electrons embedded in it.\nThe results from the alpha particle scattering experiment led to the\nconclusion that the mass of an atom was concentrated at the centre\n(nucleus) and that the nucleus was charged. This nuclear model\nreplaced the plum pudding model.\nNiels Bohr adapted the nuclear model by suggesting that electrons\norbit the nucleus at specific distances. The theoretical calculations\nof Bohr agreed with experimental observations.\nLater experiments led to the idea that the positive charge of any\nnucleus could be subdivided into a whole number of smaller\nparticles, each particle having the same amount of positive charge.\nThe name proton was given to these particles.\nThe experimental work of James Chadwick provided the evidence\nto show the existence of neutrons within the nucleus. This was\nabout 20 years after the nucleus became an accepted scientific\nidea.\nStudents should be able to describe:\nKey opportunities for\nskills development\nWS 1.1, 1.6\nThis historical context\nprovides an opportunity for\nstudents to show an\nunderstanding of why and\ndescribe how scientific\nmethods and theories\ndevelop over time.\nWS 1.2\n- why the new evidence from the scattering experiment led to a\nchange in the atomic model\n- the difference between the plum pudding model of the atom\nand the nuclear model of the atom.\nDetails of experimental work supporting the Bohr model are not\nrequired.\nDetails of Chadwick’s experimental work are not required.\nKey opportunities for\nskills development\nWS 1.1\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.4",
+                  "title": "Relative electrical charges of subatomic particles",
+                  "level": 3,
+                  "content": "The relative electrical charges of the particles in atoms are:\nIn an atom, the number of electrons is equal to the number of\nprotons in the nucleus. Atoms have no overall electrical charge.\nThe number of protons in an atom of an element is its atomic\nnumber. All atoms of a particular element have the same number of\nprotons. Atoms of different elements have different numbers of\nprotons.\nStudents should be able to use the nuclear model to describe\natoms.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.5",
+                  "title": "Size and mass of atoms",
+                  "level": 3,
+                  "content": "Atoms are very small, having a radius of about 0.1 nm (1 x 10-10 m).\nThe radius of a nucleus is less than 1/10 000 of that of the atom\n(about 1 x 10-14 m).\nAlmost all of the mass of an atom is in the nucleus.\nThe relative masses of protons, neutrons and electrons are:\nThe sum of the protons and neutrons in an atom is its mass\nnumber.\nAtoms of the same element can have different numbers of\nneutrons; these atoms are called isotopes of that element.\nAtoms can be represented as shown in this example:\nStudents should be able to calculate the numbers of protons,\nneutrons and electrons in an atom or ion, given its atomic number\nand mass number.\nStudents should be able to relate size and scale of atoms to objects\nin the physical world.\nKey opportunities for\nskills development\nWS 4.3, 4\nUse SI units and the prefix\nnano.\nMS 1b\nRecognise expressions in\nstandard form.\nMS 1d",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.6",
+                  "title": "Relative atomic mass",
+                  "level": 3,
+                  "content": "The relative atomic mass of an element is an average value that\ntakes account of the abundance of the isotopes of the element.\nStudents should be able to calculate the relative atomic mass of an\nelement given the percentage abundance of its isotopes.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.7",
+                  "title": "Electronic structure",
+                  "level": 3,
+                  "content": "The electrons in an atom occupy the lowest available energy levels\n(innermost available shells). The electronic structure of an atom can\nbe represented by numbers or by a diagram. For example, the\nelectronic structure of sodium is 2,8,1 or\nshowing two electrons in the lowest energy level, eight in the\nsecond energy level and one in the third energy level.\nStudents may answer questions in terms of either energy levels or\nshells.\nKey opportunities for\nskills development\nWS 1.2\nStudents should be able to\nrepresent the electronic\nstructures of the first twenty\nelements of the periodic\ntable in both forms.\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.2",
+              "title": "The periodic table",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.2.1",
+                  "title": "The periodic table",
+                  "level": 3,
+                  "content": "The elements in the periodic table are arranged in order of atomic\n(proton) number and so that elements with similar properties are in\ncolumns, known as groups. The table is called a periodic table\nbecause similar properties occur at regular intervals.\nElements in the same group in the periodic table have the same\nnumber of electrons in their outer shell (outer electrons) and this\ngives them similar chemical properties.\nStudents should be able to:\n- explain how the position of an element in the periodic table is\nrelated to the arrangement of electrons in its atoms and hence\nto its atomic number\n- predict possible reactions and probable reactivity of elements\nfrom their positions in the periodic table.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.2",
+                  "title": "Development of the periodic table",
+                  "level": 3,
+                  "content": "Before the discovery of protons, neutrons and electrons, scientists\nattempted to classify the elements by arranging them in order of\ntheir atomic weights.\nThe early periodic tables were incomplete and some elements were\nplaced in inappropriate groups if the strict order of atomic weights\nwas followed.\nMendeleev overcame some of the problems by leaving gaps for\nelements that he thought had not been discovered and in some\nplaces changed the order based on atomic weights.\nElements with properties predicted by Mendeleev were discovered\nand filled the gaps. Knowledge of isotopes made it possible to\nexplain why the order based on atomic weights was not always\ncorrect.\nStudents should be able to describe these steps in the development\nof the periodic table.\nKey opportunities for\nskills development\nWS 1.1, 1.6\nExplain how testing a\nprediction can support or\nrefute a new scientific idea.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.3",
+                  "title": "Metals and non-metals",
+                  "level": 3,
+                  "content": "Elements that react to form positive ions are metals.\nElements that do not form positive ions are non-metals.\nThe majority of elements are metals. Metals are found to the left\nand towards the bottom of the periodic table. Non-metals are found\ntowards the right and top of the periodic table.\nStudents should be able to:\n- explain the differences between metals and non-metals on the\nbasis of their characteristic physical and chemical properties.\nThis links to Group 0 (page 24), Group 1 (page 24), Group\n7 (page 25) and Bonding, structure and the properties of\nmatter (page 26)\n- explain how the atomic structure of metals and non-metals\nrelates to their position in the periodic table\n- explain how the reactions of elements are related to the\narrangement of electrons in their atoms and hence to their\natomic number.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.4",
+                  "title": "Group 0",
+                  "level": 3,
+                  "content": "The elements in Group 0 of the periodic table are called the noble\ngases. They are unreactive and do not easily form molecules\nbecause their atoms have stable arrangements of electrons. The\nnoble gases have eight electrons in their outer shell, except for\nhelium, which has only two electrons.\nThe boiling points of the noble gases increase with increasing\nrelative atomic mass (going down the group).\nStudents should be able to:\n- explain how properties of the elements in Group 0 depend on\nthe outer shell of electrons of the atoms\n- predict properties from given trends down the group.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.5",
+                  "title": "Group 1",
+                  "level": 3,
+                  "content": "The elements in Group 1 of the periodic table are known as the\nalkali metals and have characteristic properties because of the\nsingle electron in their outer shell.\nStudents should be able to describe the reactions of the first three\nalkali metals with oxygen, chlorine and water.\nIn Group 1, the reactivity of the elements increases going down the\ngroup.\nStudents should be able to:\n- explain how properties of the elements in Group 1 depend on\nthe outer shell of electrons of the atoms\n- predict properties from given trends down the group.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.6",
+                  "title": "Group 7",
+                  "level": 3,
+                  "content": "The elements in Group 7 of the periodic table are known as the\nhalogens and have similar reactions because they all have seven\nelectrons in their outer shell. The halogens are non-metals and\nconsist of molecules made of pairs of atoms.\nStudents should be able to describe the nature of the compounds\nformed when chlorine, bromine and iodine react with metals and\nnon-metals.\nIn Group 7, the further down the group an element is the higher its\nrelative molecular mass, melting point and boiling point.\nIn Group 7, the reactivity of the elements decreases going down the\ngroup.\nA more reactive halogen can displace a less reactive halogen from\nan aqueous solution of its salt.\nStudents should be able to:\n- explain how properties of the elements in Group 7 depend on\nthe outer shell of electrons of the atoms\n- predict properties from given trends down the group.\nKey opportunities for\nskills development\nAT 6\nOffers an opportunity within\ndisplacement reactions of\nhalogens.\nWS 1.2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.3",
+              "title": "Properties of transition metals (chemistry only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.3.1",
+                  "title": "Comparison with Group 1 elements",
+                  "level": 3,
+                  "content": "The transition elements are metals with similar properties which are\ndifferent from those of the elements in Group 1.\nStudents should be able to describe the difference compared with\nGroup 1 in melting points, densities, strength, hardness and\nreactivity with oxygen, water and halogens.\nStudents should be able to exemplify these general properties by\nreference to Cr, Mn, Fe, Co, Ni, Cu.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.1.3.2",
+                  "title": "Typical properties",
+                  "level": 3,
+                  "content": "Many transition elements have ions with different charges, form\ncoloured compounds and are useful as catalysts.\nStudents should be able to exemplify these general properties by\nreference to compounds of Cr, Mn, Fe, Co, Ni, Cu.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.2",
+          "title": "Bonding, structure, and the properties of matter",
+          "level": 1,
+          "content": "Chemists use theories of structure and bonding to explain the physical and chemical properties of\nmaterials. Analysis of structures shows that atoms can be arranged in a variety of ways, some of\nwhich are molecular while others are giant structures. Theories of bonding explain how atoms are\nheld together in these structures. Scientists use this knowledge of structure and bonding to\nengineer new materials with desirable properties. The properties of these materials may offer new\napplications in a range of different technologies.",
+          "children": [
+            {
+              "code": "4.2.1",
+              "title": "Chemical bonds, ionic, covalent and metallic",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.1.1",
+                  "title": "Chemical bonds",
+                  "level": 3,
+                  "content": "There are three types of strong chemical bonds: ionic, covalent and\nmetallic. For ionic bonding the particles are oppositely charged ions.\nFor covalent bonding the particles are atoms which share pairs of\nelectrons. For metallic bonding the particles are atoms which share\ndelocalised electrons.\nIonic bonding occurs in compounds formed from metals combined\nwith non-metals.\nCovalent bonding occurs in most non-metallic elements and in\ncompounds of non-metals.\nMetallic bonding occurs in metallic elements and alloys.\nStudents should be able to explain chemical bonding in terms of\nelectrostatic forces and the transfer or sharing of electrons.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.2",
+                  "title": "Ionic bonding",
+                  "level": 3,
+                  "content": "When a metal atom reacts with a non-metal atom electrons in the\nouter shell of the metal atom are transferred. Metal atoms lose\nelectrons to become positively charged ions. Non-metal atoms gain\nelectrons to become negatively charged ions. The ions produced by\nmetals in Groups 1 and 2 and by non-metals in Groups 6 and 7\nhave the electronic structure of a noble gas (Group 0).\nThe electron transfer during the formation of an ionic compound can\nbe represented by a dot and cross diagram, eg for sodium chloride\nStudents should be able to draw dot and cross diagrams for ionic\ncompounds formed by metals in Groups 1 and 2 with non-metals in\nGroups 6 and 7.\nThe charge on the ions produced by metals in Groups 1 and 2 and\nby non-metals in Groups 6 and 7 relates to the group number of the\nelement in the periodic table.\nStudents should be able to work out the charge on the ions of\nmetals and non-metals from the group number of the element,\nlimited to the metals in Groups 1 and 2, and non-metals in Groups 6\nand 7.\nKey opportunities for\nskills development\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.3",
+                  "title": "Ionic compounds",
+                  "level": 3,
+                  "content": "An ionic compound is a giant structure of ions. Ionic compounds are\nheld together by strong electrostatic forces of attraction between\noppositely charged ions. These forces act in all directions in the\nlattice and this is called ionic bonding.\nThe structure of sodium chloride can be represented in the following\nforms:\nKey opportunities for\nskills development\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.\nStudents should be able to:\n- deduce that a compound is ionic from a diagram of its\nstructure in one of the specified forms\n- describe the limitations of using dot and cross, ball and stick,\ntwo and three-dimensional diagrams to represent a giant ionic\nstructure\n- work out the empirical formula of an ionic compound from a\ngiven model or diagram that shows the ions in the structure.\nStudents should be familiar with the structure of sodium chloride but\ndo not need to know the structures of other ionic compounds.\nKey opportunities for\nskills development\nWS 1.2\nMS 4a\nMS 1a, 1c",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.4",
+                  "title": "Covalent bonding",
+                  "level": 3,
+                  "content": "When atoms share pairs of electrons, they form covalent bonds.\nThese bonds between atoms are strong.\nCovalently bonded substances may consist of small molecules.\nStudents should be able to recognise common substances that\nconsist of small molecules from their chemical formula.\nSome covalently bonded substances have very large molecules,\nsuch as polymers.\nSome covalently bonded substances have giant covalent\nstructures, such as diamond and silicon dioxide.\nThe covalent bonds in molecules and giant structures can be\nrepresented in the following forms:\nPolymers can be represented in the form:\nwhere n is a large number.\nKey opportunities for\nskills development\nWS 1.2\nRecognise substances as\nsmall molecules, polymers\nor giant structures from\ndiagrams showing their\nbonding.\nStudents should be able to:\n- draw dot and cross diagrams for the molecules of hydrogen,\nchlorine, oxygen, nitrogen, hydrogen chloride, water,\nammonia and methane\n- represent the covalent bonds in small molecules, in the\nrepeating units of polymers and in part of giant covalent\nstructures, using a line to represent a single bond\n- describe the limitations of using dot and cross, ball and stick,\ntwo and three-dimensional diagrams to represent molecules\nor giant structures\n- deduce the molecular formula of a substance from a given\nmodel or diagram in these forms showing the atoms and\nbonds in the molecule.\nKey opportunities for\nskills development\nMS 5b",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.5",
+                  "title": "Metallic bonding",
+                  "level": 3,
+                  "content": "Metals consist of giant structures of atoms arranged in a regular\npattern.\nThe electrons in the outer shell of metal atoms are delocalised and\nso are free to move through the whole structure. The sharing of\ndelocalised electrons gives rise to strong metallic bonds. The\nbonding in metals may be represented in the following form:\nKey opportunities for\nskills development\nWS 1.2\nRecognise substances as\nmetallic giant structures\nfrom diagrams showing\ntheir bonding.\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.2",
+              "title": "How bonding and structure are related to the properties of substances",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.2.1",
+                  "title": "The three states of matter",
+                  "level": 3,
+                  "content": "The three states of matter are solid, liquid and gas. Melting and\nfreezing take place at the melting point, boiling and condensing\ntake place at the boiling point.\nThe three states of matter can be represented by a simple model. In\nthis model, particles are represented by small solid spheres.\nParticle theory can help to explain melting, boiling, freezing and\ncondensing.\nThe amount of energy needed to change state from solid to liquid\nand from liquid to gas depends on the strength of the forces\nbetween the particles of the substance. The nature of the particles\ninvolved depends on the type of bonding and the structure of the\nsubstance. The stronger the forces between the particles the higher\nthe melting point and boiling point of the substance.\n(HT only) Limitations of the simple model above include that in the\nmodel there are no forces, that all particles are represented as\nspheres and that the spheres are solid.\nStudents should be able to:\n- predict the states of substances at different temperatures\ngiven appropriate data\n- explain the different temperatures at which changes of state\noccur in terms of energy transfers and types of bonding\n- recognise that atoms themselves do not have the bulk\nproperties of materials\n- (HT only) explain the limitations of the particle theory in\nrelation to changes of state when particles are represented by\nsolid inelastic spheres which have no forces between them.\nKey opportunities for\nskills development\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.2",
+                  "title": "State symbols",
+                  "level": 3,
+                  "content": "In chemical equations, the three states of matter are shown as (s),\n(l) and (g), with (aq) for aqueous solutions.\nStudents should be able to include appropriate state symbols in\nchemical equations for the reactions in this specification.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.3",
+                  "title": "Properties of ionic compounds",
+                  "level": 3,
+                  "content": "Ionic compounds have regular structures (giant ionic lattices) in\nwhich there are strong electrostatic forces of attraction in all\ndirections between oppositely charged ions.\nThese compounds have high melting points and high boiling points\nbecause of the large amounts of energy needed to break the many\nstrong bonds.\nWhen melted or dissolved in water, ionic compounds conduct\nelectricity because the ions are free to move and so charge can\nflow.\nKnowledge of the structures of specific ionic compounds other than\nsodium chloride is not required.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.4",
+                  "title": "Properties of small molecules",
+                  "level": 3,
+                  "content": "Substances that consist of small molecules are usually gases or\nliquids that have relatively low melting points and boiling points.\nThese substances have only weak forces between the molecules\n(intermolecular forces). It is these intermolecular forces that are\novercome, not the covalent bonds, when the substance melts or\nboils.\nThe intermolecular forces increase with the size of the molecules,\nso larger molecules have higher melting and boiling points.\nThese substances do not conduct electricity because the molecules\ndo not have an overall electric charge.\nStudents should be able to use the idea that intermolecular forces\nare weak compared with covalent bonds to explain the bulk\nproperties of molecular substances.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.5",
+                  "title": "Polymers",
+                  "level": 3,
+                  "content": "Polymers have very large molecules. The atoms in the polymer\nmolecules are linked to other atoms by strong covalent bonds. The\nintermolecular forces between polymer molecules are relatively\nstrong and so these substances are solids at room temperature.\nStudents should be able to recognise polymers from diagrams\nshowing their bonding and structure.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.6",
+                  "title": "Giant covalent structures",
+                  "level": 3,
+                  "content": "Substances that consist of giant covalent structures are solids with\nvery high melting points. All of the atoms in these structures are\nlinked to other atoms by strong covalent bonds. These bonds must\nbe overcome to melt or boil these substances. Diamond and\ngraphite (forms of carbon) and silicon dioxide (silica) are examples\nof giant covalent structures.\nStudents should be able to recognise giant covalent structures from\ndiagrams showing their bonding and structure.\nKey opportunities for\nskills development\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.7",
+                  "title": "Properties of metals and alloys",
+                  "level": 3,
+                  "content": "Metals have giant structures of atoms with strong metallic bonding.\nThis means that most metals have high melting and boiling points.\nIn pure metals, atoms are arranged in layers, which allows metals\nto be bent and shaped. Pure metals are too soft for many uses and\nso are mixed with other metals to make alloys which are harder.\nStudents should be able to explain why alloys are harder than pure\nmetals in terms of distortion of the layers of atoms in the structure of\na pure metal.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.8",
+                  "title": "Metals as conductors",
+                  "level": 3,
+                  "content": "Metals are good conductors of electricity because the delocalised\nelectrons in the metal carry electrical charge through the metal.\nMetals are good conductors of thermal energy because energy is\ntransferred by the delocalised electrons.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.3",
+              "title": "Structure and bonding of carbon",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.3.1",
+                  "title": "Diamond",
+                  "level": 3,
+                  "content": "In diamond, each carbon atom forms four covalent bonds with other\ncarbon atoms in a giant covalent structure, so diamond is very hard,\nhas a very high melting point and does not conduct electricity.\nStudents should be able to explain the properties of diamond in\nterms of its structure and bonding.\nKey opportunities for\nskills development\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.2.3.2",
+                  "title": "Graphite",
+                  "level": 3,
+                  "content": "In graphite, each carbon atom forms three covalent bonds with\nthree other carbon atoms, forming layers of hexagonal rings which\nhave no covalent bonds between the layers.\nIn graphite, one electron from each carbon atom is delocalised.\nStudents should be able to explain the properties of graphite in\nterms of its structure and bonding.\nStudents should know that graphite is similar to metals in that it has\ndelocalised electrons.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.2.3.3",
+                  "title": "Graphene and fullerenes",
+                  "level": 3,
+                  "content": "Graphene is a single layer of graphite and has properties that make\nit useful in electronics and composites.\nStudents should be able to explain the properties of graphene in\nterms of its structure and bonding.\nFullerenes are molecules of carbon atoms with hollow shapes. The\nstructure of fullerenes is based on hexagonal rings of carbon atoms\nbut they may also contain rings with five or seven carbon atoms.\nThe first fullerene to be discovered was Buckminsterfullerene (C60)\nwhich has a spherical shape.\nCarbon nanotubes are cylindrical fullerenes with very high length to\ndiameter ratios. Their properties make them useful for\nnanotechnology, electronics and materials.\nStudents should be able to:\n- recognise graphene and fullerenes from diagrams and\ndescriptions of their bonding and structure\n- give examples of the uses of fullerenes, including carbon\nnanotubes.\nKey opportunities for\nskills development\nWS 1.2, 1.4\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.4",
+              "title": "Bulk and surface properties of matter including nanoparticles (chemistry only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.4.1",
+                  "title": "Sizes of particles and their properties",
+                  "level": 3,
+                  "content": "Nanoscience refers to structures that are 1–100 nm in size, of the\norder of a few hundred atoms. Nanoparticles, are smaller than fine\nparticles (PM2.5), which have diameters between 100 and 2500 nm\n(1 x 10-7 m and 2.5 x 10-6 m). Coarse particles (PM10) have\ndiameters between 1 x 10-5 m and 2.5 x 10-6 m. Coarse particles\nare often referred to as dust.\nAs the side of cube decreases by a factor of 10 the surface area to\nvolume ratio increases by a factor of 10.\nNanoparticles may have properties different from those for the\nsame materials in bulk because of their high surface area to\nvolume ratio. It may also mean that smaller quantities are needed\nto be effective than for materials with normal particle sizes.\nKey opportunities for\nskills development\nWS 1.2, 1.4, 4.1, 4.2, 4.3\n4.4, 4.5\nMS 2h\nMake order of magnitude\ncalculations.\nMS 5c\nCalculate areas of triangles\nand rectangles, surface\nareas and volumes of cubes.\nStudents should be able to compare ‘nano’ dimensions to typical\ndimensions of atoms and molecules.\nKey opportunities for\nskills development\nMS 1b\nRecognise and use\nexpressions in standard\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 1d\nMake estimates of the\nresults of simple\ncalculations.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.4.2",
+                  "title": "Uses of nanoparticles",
+                  "level": 3,
+                  "content": "Nanoparticles have many applications in medicine, in electronics, in\ncosmetics and sun creams, as deodorants, and as catalysts. New\napplications for nanoparticulate materials are an important area of\nresearch.\nStudents should consider advantages and disadvantages of the\napplications of these nanoparticulate materials, but do not need to\nknow specific examples or properties other than those specified.\nStudents should be able to:\n- given appropriate information, evaluate the use of\nnanoparticles for a specified purpose\n- explain that there are possible risks associated with the use of\nnanoparticles.\nKey opportunities for\nskills development\nWS 1.3, 1.4, 1.5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.3",
+          "title": "Quantitative chemistry",
+          "level": 1,
+          "content": "Chemists use quantitative analysis to determine the formulae of compounds and the equations for\nreactions. Given this information, analysts can then use quantitative methods to determine the\npurity of chemical samples and to monitor the yield from chemical reactions.\nChemical reactions can be classified in various ways. Identifying different types of chemical\nreaction allows chemists to make sense of how different chemicals react together, to establish\npatterns and to make predictions about the behaviour of other chemicals. Chemical equations\nprovide a means of representing chemical reactions and are a key way for chemists to\ncommunicate chemical ideas.",
+          "children": [
+            {
+              "code": "4.3.1",
+              "title": "Chemical measurements, conservation of mass and the quantitative interpretation of chemical equations",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.1.1",
+                  "title": "Conservation of mass and balanced chemical equations",
+                  "level": 3,
+                  "content": "The law of conservation of mass states that no atoms are lost or\nmade during a chemical reaction so the mass of the products\nequals the mass of the reactants.\nThis means that chemical reactions can be represented by symbol\nequations which are balanced in terms of the numbers of atoms of\neach element involved on both sides of the equation.\nStudents should understand the use of the multipliers in equations\nin normal script before a formula and in subscript within a formula.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.2",
+                  "title": "Relative formula mass",
+                  "level": 3,
+                  "content": "The relative formula mass (Mr) of a compound is the sum of the\nrelative atomic masses of the atoms in the numbers shown in the\nformula.\nIn a balanced chemical equation, the sum of the relative formula\nmasses of the reactants in the quantities shown equals the sum of\nthe relative formula masses of the products in the quantities shown.\nStudents should be able to calculate the percentage by mass in a\ncompound given the relative formula mass and the relative atomic\nmasses.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.3",
+                  "title": "Mass changes when a reactant or product is a gas",
+                  "level": 3,
+                  "content": "Some reactions may appear to involve a change in mass but this\ncan usually be explained because a reactant or product is a gas\nand its mass has not been taken into account. For example: when a\nmetal reacts with oxygen the mass of the oxide produced is greater\nthan the mass of the metal or in thermal decompositions of metal\ncarbonates carbon dioxide is produced and escapes into the\natmosphere leaving the metal oxide as the only solid product.\nStudents should be able to explain any observed changes in mass\nin non-enclosed systems during a chemical reaction given the\nbalanced symbol equation for the reaction and explain these\nchanges in terms of the particle model.\nKey opportunities for\nskills development\nAT 1, 2,6\nOpportunities within\ninvestigation of mass\nchanges using various\napparatus.",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.4",
+                  "title": "Chemical measurements",
+                  "level": 3,
+                  "content": "Whenever a measurement is made there is always some\nuncertainty about the result obtained.\nStudents should be able to:\n- represent the distribution of results and make estimations of\nuncertainty\n- use the range of a set of measurements about the mean as a\nmeasure of uncertainty.\nKey opportunities for\nskills development\nWS 3.4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.2",
+              "title": "Use of amount of substance in relation to masses of pure substances",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.2.1",
+                  "title": "Moles (HT only)",
+                  "level": 3,
+                  "content": "Chemical amounts are measured in moles. The symbol for the unit\nmole is mol.\nThe mass of one mole of a substance in grams is numerically equal\nto its relative formula mass.\nOne mole of a substance contains the same number of the stated\nparticles, atoms, molecules or ions as one mole of any other\nsubstance.\nThe number of atoms, molecules or ions in a mole of a given\nsubstance is the Avogadro constant. The value of the Avogadro\nconstant is 6.02 x 1023 per mole.\nStudents should understand that the measurement of amounts in\nmoles can apply to atoms, molecules, ions, electrons, formulae and\nequations, for example that in one mole of carbon (C) the number of\natoms is the same as the number of molecules in one mole of\ncarbon dioxide (CO2).\nStudents should be able to use the relative formula mass of a\nsubstance to calculate the number of moles in a given mass of that\nsubstance and vice versa.\nKey opportunities for\nskills development\nWS 4.1, 4.2, 4.3, 4.5, 4.6\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1b\nRecognise and use\nexpressions in standard\nform.\nMS 2a\nUse an appropriate number\nof significant figures.\nMS 3a\nUnderstand and use the\nsymbols: =, <, <<, >>, >, ∝,\n~\nMS 3b\nChange the subject of an\nequation.\nMS 1c",
+                  "children": []
+                },
+                {
+                  "code": "4.3.2.2",
+                  "title": "Amounts of substances in equations (HT only)",
+                  "level": 3,
+                  "content": "The masses of reactants and products can be calculated from\nbalanced symbol equations.\nChemical equations can be interpreted in terms of moles. For\nexample:\nMg + 2HCI\nMgCI2 + H2\nshows that one mole of magnesium reacts with two moles of\nhydrochloric acid to produce one mole of magnesium chloride and\none mole of hydrogen gas.\nStudents should be able to:\n- calculate the masses of substances shown in a balanced\nsymbol equation\n- calculate the masses of reactants and products from the\nbalanced symbol equation and the mass of a given reactant\nor product.\nKey opportunities for\nskills development\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 3b\nChange the subject of an\nequation.\nMS 3c\nSubstitute numerical values\ninto algebraic equations\nusing appropriate units for\nphysical quantities.",
+                  "children": []
+                },
+                {
+                  "code": "4.3.2.3",
+                  "title": "Using moles to balance equations (HT only)",
+                  "level": 3,
+                  "content": "The balancing numbers in a symbol equation can be calculated\nfrom the masses of reactants and products by converting the\nmasses in grams to amounts in moles and converting the numbers\nof moles to simple whole number ratios.\nStudents should be able to balance an equation given the masses\nof reactants and products.\nStudents should be able to change the subject of a mathematical\nequation.\nKey opportunities for\nskills development\nMS 3b\nChange the subject of an\nequation.\nMS 3c\nSubstitute numerical values\ninto algebraic equations\nusing appropriate units for\nphysical quantities.",
+                  "children": []
+                },
+                {
+                  "code": "4.3.2.4",
+                  "title": "Limiting reactants (HT only)",
+                  "level": 3,
+                  "content": "In a chemical reaction involving two reactants, it is common to use\nan excess of one of the reactants to ensure that all of the other\nreactant is used. The reactant that is completely used up is called\nthe limiting reactant because it limits the amount of products.\nStudents should be able to explain the effect of a limiting quantity of\na reactant on the amount of products it is possible to obtain in terms\nof amounts in moles or masses in grams.\nKey opportunities for\nskills development\nWS 4.1",
+                  "children": []
+                },
+                {
+                  "code": "4.3.2.5",
+                  "title": "Concentration of solutions",
+                  "level": 3,
+                  "content": "Many chemical reactions take place in solutions. The concentration\nof a solution can be measured in mass per given volume of\nsolution, eg grams per dm3 (g/dm3).\nStudents should be able to:\n- calculate the mass of solute in a given volume of solution of\nknown concentration in terms of mass per given volume of\nsolution\n- (HT only) explain how the mass of a solute and the volume of\na solution is related to the concentration of the solution.\nKey opportunities for\nskills development\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 3b\nChange the subject of an\nequation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.3",
+              "title": "Yield and atom economy of chemical reactions (chemistry only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.3.1",
+                  "title": "Percentage yield",
+                  "level": 3,
+                  "content": "Even though no atoms are gained or lost in a chemical reaction, it is\nnot always possible to obtain the calculated amount of a product\nbecause:\n- the reaction may not go to completion because it is reversible\n- some of the product may be lost when it is separated from the\nreaction mixture\n- some of the reactants may react in ways different to the\nexpected reaction.\nThe amount of a product obtained is known as the yield. When\ncompared with the maximum theoretical amount as a percentage, it\nis called the percentage yield.\n% Yield =\nMaximum theoretical mass o f product × 100\nStudents should be able to:\n- calculate the percentage yield of a product from the actual\nyield of a reaction\n- (HT only) calculate the theoretical mass of a product from a\ngiven mass of reactant and the balanced equation for the\nreaction.\nKey opportunities for\nskills development\nWS 4.2, 4.6\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 2a\nUse an appropriate number\nof significant figures.\nMS 3b\nChange the subject of an\nequation.",
+                  "children": []
+                },
+                {
+                  "code": "4.3.3.2",
+                  "title": "Atom economy",
+                  "level": 3,
+                  "content": "The atom economy (atom utilisation) is a measure of the amount of\nstarting materials that end up as useful products. It is important for\nsustainable development and for economic reasons to use\nreactions with high atom economy.\nThe percentage atom economy of a reaction is calculated using the\nbalanced equation for the reaction as follows:\nSum o f relative f ormula masses o f all reactants f rom equation × 100\nStudents should be able to:\n- calculate the atom economy of a reaction to form a desired\nproduct from the balanced equation\n- (HT only) explain why a particular reaction pathway is chosen\nto produce a specified product given appropriate data such as\natom economy (if not calculated), yield, rate, equilibrium\nposition and usefulness of by-products.\nKey opportunities for\nskills development\nWS 4.2, 4.6\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 3b\nChange the subject of an\nequation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.4",
+              "title": "Using concentrations of solutions in mol/dm3 (chemistry only) (HT only)",
+              "level": 2,
+              "content": "The concentration of a solution can be measured in mol/dm3.\nThe amount in moles of solute or the mass in grams of solute in a\ngiven volume of solution can be calculated from its concentration in\nmol/dm3.\nIf the volumes of two solutions that react completely are known and\nthe concentration of one solution is known, the concentration of the\nother solution can be calculated.\nStudents should be able to explain how the concentration of a\nsolution in mol/dm3 is related to the mass of the solute and the\nvolume of the solution.\nKey opportunities for\nskills development\nWS 4.2, 4.3, 4.6\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 3b\nChange the subject of an\nequation.\nMS 3c\nSubstitute numerical values\ninto algebraic equations\nusing appropriate units for\nphysical quantities.\nAT 1, 3, 8\nOpportunities within\ntitrations including to\ndetermine concentrations of\nstrong acids and alkalis.",
+              "children": []
+            },
+            {
+              "code": "4.3.5",
+              "title": "Use of amount of substance in relation to volumes of gases (chemistry only) (HT only)",
+              "level": 2,
+              "content": "Equal amounts in moles of gases occupy the same volume under\nthe same conditions of temperature and pressure.\nThe volume of one mole of any gas at room temperature and\npressure (20oC and 1 atmosphere pressure) is 24 dm3.\nThe volumes of gaseous reactants and products can be calculated\nfrom the balanced equation for the reaction.\nStudents should be able to:\n- calculate the volume of a gas at room temperature and\npressure from its mass and relative formula mass\n- calculate volumes of gaseous reactants and products from a\nbalanced equation and a given volume of a gaseous reactant\nor product\n- change the subject of a mathematical equation.\nKey opportunities for\nskills development\nWS 1.2, 4.1, 4.2, 4.3, 4.6\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 3b\nChange the subject of an\nequation.\nMS 3c\nSubstitute numerical values\ninto algebraic equations\nusing appropriate units for\nphysical quantities.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.4",
+          "title": "Chemical changes",
+          "level": 1,
+          "content": "Understanding of chemical changes began when people began experimenting with chemical\nreactions in a systematic way and organizing their results logically. Knowing about these different\nchemical changes meant that scientists could begin to predict exactly what new substances would\nbe formed and use this knowledge to develop a wide range of different materials and processes. It\nalso helped biochemists to understand the complex reactions that take place in living organisms.\nThe extraction of important resources from the earth makes use of the way that some elements\nand compounds react with each other and how easily they can be ‘pulled apart’.",
+          "children": [
+            {
+              "code": "4.4.1",
+              "title": "Reactivity of metals",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.1.1",
+                  "title": "Metal oxides",
+                  "level": 3,
+                  "content": "Metals react with oxygen to produce metal oxides. The reactions\nare oxidation reactions because the metals gain oxygen.\nStudents should be able to explain reduction and oxidation in terms\nof loss or gain of oxygen.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.2",
+                  "title": "The reactivity series",
+                  "level": 3,
+                  "content": "When metals react with other substances the metal atoms form\npositive ions. The reactivity of a metal is related to its tendency to\nform positive ions. Metals can be arranged in order of their reactivity\nin a reactivity series. The metals potassium, sodium, lithium,\ncalcium, magnesium, zinc, iron and copper can be put in order of\ntheir reactivity from their reactions with water and dilute acids.\nThe non-metals hydrogen and carbon are often included in the\nreactivity series.\nA more reactive metal can displace a less reactive metal from a\ncompound.\nStudents should be able to:\n- recall and describe the reactions, if any, of potassium,\nsodium, lithium, calcium, magnesium, zinc, iron and copper\nwith water or dilute acids and where appropriate, to place\nthese metals in order of reactivity\n- explain how the reactivity of metals with water or dilute acids\nis related to the tendency of the metal to form its positive ion\n- deduce an order of reactivity of metals based on experimental\nresults.\nThe reactions of metals with water and acids are limited to room\ntemperature and do not include reactions with steam.\nKey opportunities for\nskills development\nAT 6\nMixing of reagents to\nexplore chemical changes\nand/or products.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.3",
+                  "title": "Extraction of metals and reduction",
+                  "level": 3,
+                  "content": "Unreactive metals such as gold are found in the Earth as the metal\nitself but most metals are found as compounds that require\nchemical reactions to extract the metal.\nMetals less reactive than carbon can be extracted from their oxides\nby reduction with carbon.\nReduction involves the loss of oxygen.\nKnowledge and understanding are limited to the reduction of oxides\nusing carbon.\nKnowledge of the details of processes used in the extraction of\nmetals is not required.\nStudents should be able to:\n- interpret or evaluate specific metal extraction processes when\ngiven appropriate information\n- identify the substances which are oxidised or reduced in\nterms of gain or loss of oxygen.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.4",
+                  "title": "Oxidation and reduction in terms of electrons (HT only)",
+                  "level": 3,
+                  "content": "Oxidation is the loss of electrons and reduction is the gain of\nelectrons.\nStudent should be able to:\n- write ionic equations for displacement reactions\n- identify in a given reaction, symbol equation or half equation\nwhich species are oxidised and which are reduced.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.2",
+              "title": "Reactions of acids",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.2.1",
+                  "title": "Reactions of acids with metals",
+                  "level": 3,
+                  "content": "Acids react with some metals to produce salts and hydrogen.\n(HT only) Students should be able to:\n- explain in terms of gain or loss of electrons, that these are\nredox reactions\n- identify which species are oxidised and which are reduced in\ngiven chemical equations.\nKnowledge of reactions limited to those of magnesium, zinc\nand iron with hydrochloric and sulfuric acids.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.2",
+                  "title": "Neutralisation of acids and salt production",
+                  "level": 3,
+                  "content": "Acids are neutralised by alkalis (eg soluble metal hydroxides) and\nbases (eg insoluble metal hydroxides and metal oxides) to produce\nsalts and water, and by metal carbonates to produce salts, water\nand carbon dioxide.\nThe particular salt produced in any reaction between an acid and a\nbase or alkali depends on:\n- the acid used (hydrochloric acid produces chlorides, nitric acid\nproduces nitrates, sulfuric acid produces sulfates)\n- the positive ions in the base, alkali or carbonate.\nStudents should be able to:\n- predict products from given reactants\n- use the formulae of common ions to deduce the formulae of\nsalts.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.3",
+                  "title": "Soluble salts",
+                  "level": 3,
+                  "content": "Soluble salts can be made from acids by reacting them with solid\ninsoluble substances, such as metals, metal oxides, hydroxides or\ncarbonates. The solid is added to the acid until no more reacts and\nthe excess solid is filtered off to produce a solution of the salt.\nSalt solutions can be crystallised to produce solid salts.\nStudents should be able to describe how to make pure, dry samples\nof named soluble salts from information provided.\nRequired practical 1: preparation of a pure, dry sample of a soluble salt from an insoluble oxide\nor carbonate using a Bunsen burner to heat dilute acid and a water bath or electric heater to\nevaporate the solution.\nAT skills covered by this practical activity: 2, 3, 4 and 6.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 103).\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.4",
+                  "title": "The pH scale and neutralisation",
+                  "level": 3,
+                  "content": "Acids produce hydrogen ions (H+) in aqueous solutions.\nAqueous solutions of alkalis contain hydroxide ions (OH–).\nThe pH scale, from 0 to 14, is a measure of the acidity or alkalinity\nof a solution, and can be measured using universal indicator or a\npH probe.\nA solution with pH 7 is neutral. Aqueous solutions of acids have pH\nvalues of less than 7 and aqueous solutions of alkalis have pH\nvalues greater than 7.\nIn neutralisation reactions between an acid and an alkali, hydrogen\nions react with hydroxide ions to produce water.\nThis reaction can be represented by the equation:\nStudents should be able to:\n- describe the use of universal indicator or a wide range\nindicator to measure the approximate pH of a solution\n- use the pH scale to identify acidic or alkaline solutions.\nKey opportunities for\nskills development\nAT 3\nThis is an opportunity to\ninvestigate pH changes\nwhen a strong acid\nneutralises a strong alkali.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.5",
+                  "title": "Titrations (chemistry only)",
+                  "level": 3,
+                  "content": "The volumes of acid and alkali solutions that react with each other\ncan be measured by titration using a suitable indicator.\nStudents should be able to:\n- describe how to carry out titrations using strong acids and\nstrong alkalis only (sulfuric, hydrochloric and nitric acids only)\nto find the reacting volumes accurately\n- (HT Only) calculate the chemical quantities in titrations\ninvolving concentrations in mol/dm3 and in g/dm3.\nRequired practical 2: (chemistry only) determination of the reacting volumes of solutions of a\nstrong acid and a strong alkali by titration.\n(HT only) determination of the concentration of one of the solutions in mol/dm3 and g/dm3 from the\nreacting volumes and the known concentration of the other solution.\nAT skills covered by this practical activity: 1 and 8.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities and skills development (page 104).\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.6",
+                  "title": "Strong and weak acids (HT only)",
+                  "level": 3,
+                  "content": "A strong acid is completely ionised in aqueous solution. Examples\nof strong acids are hydrochloric, nitric and sulfuric acids.\nA weak acid is only partially ionised in aqueous solution. Examples\nof weak acids are ethanoic, citric and carbonic acids.\nFor a given concentration of aqueous solutions, the stronger an\nacid, the lower the pH.\nAs the pH decreases by one unit, the hydrogen ion concentration of\nthe solution increases by a factor of 10.\nStudents should be able to:\n- use and explain the terms dilute and concentrated (in terms of\namount of substance), and weak and strong (in terms of the\ndegree of ionisation) in relation to acids\n- describe neutrality and relative acidity in terms of the effect on\nhydrogen ion concentration and the numerical value of pH\n(whole numbers only).\nKey opportunities for\nskills development\nAT 8\nAn opportunity to measure\nthe pH of different acids at\ndifferent concentrations.\nMS 2h\nMake order of magnitude\ncalculations.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.3",
+              "title": "Electrolysis",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.3.1",
+                  "title": "The process of electrolysis",
+                  "level": 3,
+                  "content": "When an ionic compound is melted or dissolved in water, the ions\nare free to move about within the liquid or solution. These liquids\nand solutions are able to conduct electricity and are called\nelectrolytes.\nPassing an electric current through electrolytes causes the ions to\nmove to the electrodes. Positively charged ions move to the\nnegative electrode (the cathode), and negatively charged ions move\nto the positive electrode (the anode). Ions are discharged at the\nelectrodes producing elements. This process is called electrolysis.\n(HT only) Throughout Section 4.4.3 Higher Tier students should be\nable to write half equations for the reactions occurring at the\nelectrodes during electrolysis, and may be required to complete and\nbalance supplied half equations.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.3.2",
+                  "title": "Electrolysis of molten ionic compounds",
+                  "level": 3,
+                  "content": "When a simple ionic compound (eg lead bromide) is electrolysed in\nthe molten state using inert electrodes, the metal (lead) is produced\nat the cathode and the non-metal (bromine) is produced at the\nanode.\nStudents should be able to predict the products of the electrolysis of\nbinary ionic compounds in the molten state.\nKey opportunities for\nskills development\nA safer alternative for\npractical work is anhydrous\nzinc chloride.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.3.3",
+                  "title": "Using electrolysis to extract metals",
+                  "level": 3,
+                  "content": "Metals can be extracted from molten compounds using electrolysis.\nElectrolysis is used if the metal is too reactive to be extracted by\nreduction with carbon or if the metal reacts with carbon. Large\namounts of energy are used in the extraction process to melt the\ncompounds and to produce the electrical current.\nAluminium is manufactured by the electrolysis of a molten mixture\nof aluminium oxide and cryolite using carbon as the positive\nelectrode (anode).\nStudents should be able to:\n- explain why a mixture is used as the electrolyte\n- explain why the positive electrode must be continually\nreplaced.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.3.4",
+                  "title": "Electrolysis of aqueous solutions",
+                  "level": 3,
+                  "content": "The ions discharged when an aqueous solution is electrolysed\nusing inert electrodes depend on the relative reactivity of the\nelements involved.\nAt the negative electrode (cathode), hydrogen is produced if the\nmetal is more reactive than hydrogen.\nAt the positive electrode (anode), oxygen is produced unless the\nsolution contains halide ions when the halogen is produced.\nThis happens because in the aqueous solution water molecules\nbreak down producing hydrogen ions and hydroxide ions that are\ndischarged.\nStudents should be able to predict the products of the electrolysis of\naqueous solutions containing a single ionic compound.\nRequired practical 3: investigate what happens when aqueous solutions are electrolysed using\ninert electrodes. This should be an investigation involving developing a hypothesis.\nAT skills covered by this practical activity: 3, 7 and 8.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities and skills development (page 104).\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.4.3.5",
+                  "title": "Representation of reactions at electrodes as half equations (HT only)",
+                  "level": 3,
+                  "content": "During electrolysis, at the cathode (negative electrode), positively\ncharged ions gain electrons and so the reactions are reductions.\nAt the anode (positive electrode), negatively charged ions lose\nelectrons and so the reactions are oxidations.\nReactions at electrodes can be represented by half equations, for\nexample:\n2H+ + 2e- → H2\nand\n4OH- → O2 + 2H2O + 4e-\nor\n4OH- – 4e- → O2 + 2H2O\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.5",
+          "title": "Energy changes",
+          "level": 1,
+          "content": "Energy changes are an important part of chemical reactions. The interaction of particles often\ninvolves transfers of energy due to the breaking and formation of bonds. Reactions in which energy\nis released to the surroundings are exothermic reactions, while those that take in thermal energy\nare endothermic. These interactions between particles can produce heating or cooling effects that\nare used in a range of everyday applications. Some interactions between ions in an electrolyte\nresult in the production of electricity. Cells and batteries use these chemical reactions to provide\nelectricity. Electricity can also be used to decompose ionic substances and is a useful means of\nproducing elements that are too expensive to extract any other way.",
+          "children": [
+            {
+              "code": "4.5.1",
+              "title": "Exothermic and endothermic reactions",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.1.1",
+                  "title": "Energy transfer during exothermic and endothermic reactions",
+                  "level": 3,
+                  "content": "Energy is conserved in chemical reactions. The amount of energy in\nthe universe at the end of a chemical reaction is the same as before\nthe reaction takes place. If a reaction transfers energy to the\nsurroundings the product molecules must have less energy than the\nreactants, by the amount transferred.\nAn exothermic reaction is one that transfers energy to the\nsurroundings so the temperature of the surroundings increases.\nExothermic reactions include combustion, many oxidation reactions\nand neutralisation.\nEveryday uses of exothermic reactions include self-heating cans\nand hand warmers.\nAn endothermic reaction is one that takes in energy from the\nsurroundings so the temperature of the surroundings decreases.\nEndothermic reactions include thermal decompositions and the\nreaction of citric acid and sodium hydrogencarbonate. Some sports\ninjury packs are based on endothermic reactions.\nStudents should be able to:\n- distinguish between exothermic and endothermic reactions on\nthe basis of the temperature change of the surroundings\n- evaluate uses and applications of exothermic and endothermic\nreactions given appropriate information.\nLimited to measurement of temperature change. Calculation of\nenergy changes or ΔH is not required.\nRequired practical 4: investigate the variables that affect temperature changes in reacting\nsolutions such as, eg acid plus metals, acid plus carbonates, neutralisations, displacement of\nmetals.\nAT skills covered by this practical activity: 1, 3, 5 and 6.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities and skills development (page 105).\nKey opportunities for\nskills development\nAT 5\nAn opportunity to measure\ntemperature changes when\nsubstances react or\ndissolve in water.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.2",
+                  "title": "Reaction profiles",
+                  "level": 3,
+                  "content": "Chemical reactions can occur only when reacting particles collide\nwith each other and with sufficient energy. The minimum amount of\nenergy that particles must have to react is called the activation\nenergy.\nReaction profiles can be used to show the relative energies of\nreactants and products, the activation energy and the overall\nenergy change of a reaction.\nStudents should be able to:\n- draw simple reaction profiles (energy level diagrams) for\nexothermic and endothermic reactions showing the relative\nenergies of reactants and products, the activation energy and\nthe overall energy change, with a curved line to show the\nenergy as the reaction proceeds\n- use reaction profiles to identify reactions as exothermic or\nendothermic\n- explain that the activation energy is the energy needed for a\nreaction to occur.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.3",
+                  "title": "The energy change of reactions (HT only)",
+                  "level": 3,
+                  "content": "During a chemical reaction:\n- energy must be supplied to break bonds in the reactants\n- energy is released when bonds in the products are formed.\nThe energy needed to break bonds and the energy released when\nbonds are formed can be calculated from bond energies.\nThe difference between the sum of the energy needed to break\nbonds in the reactants and the sum of the energy released when\nbonds in the products are formed is the overall energy change of\nthe reaction.\nIn an exothermic reaction, the energy released from forming new\nbonds is greater than the energy needed to break existing bonds.\nIn an endothermic reaction, the energy needed to break existing\nbonds is greater than the energy released from forming new bonds.\nStudents should be able to calculate the energy transferred in\nchemical reactions using bond energies supplied.\nKey opportunities for\nskills development\nMS 1a",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.2",
+              "title": "Chemical cells and fuel cells (chemistry only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.2.1",
+                  "title": "Cells and batteries",
+                  "level": 3,
+                  "content": "Cells contain chemicals which react to produce electricity.\nThe voltage produced by a cell is dependent upon a number of\nfactors including the type of electrode and electrolyte.\nA simple cell can be made by connecting two different metals in\ncontact with an electrolyte.\nBatteries consist of two or more cells connected together in series\nto provide a greater voltage.\nIn non-rechargeable cells and batteries the chemical reactions stop\nwhen one of the reactants has been used up. Alkaline batteries are\nnon-rechargeable.\nRechargeable cells and batteries can be recharged because the\nchemical reactions are reversed when an external electrical current\nis supplied.\nStudents should be able to interpret data for relative reactivity of\ndifferent metals and evaluate the use of cells.\nStudents do not need to know details of cells and batteries other\nthan those specified.\nKey opportunities for\nskills development\nAT6\nSafe and careful use of\nliquids.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.2.2",
+                  "title": "Fuel cells",
+                  "level": 3,
+                  "content": "Fuel cells are supplied by an external source of fuel (eg hydrogen)\nand oxygen or air. The fuel is oxidised electrochemically within the\nfuel cell to produce a potential difference.\nThe overall reaction in a hydrogen fuel cell involves the oxidation of\nhydrogen to produce water.\nHydrogen fuel cells offer a potential alternative to rechargeable cells\nand batteries.\nStudents should be able to:\n- evaluate the use of hydrogen fuel cells in comparison with\nrechargeable cells and batteries\n- (HT only) write the half equations for the electrode reactions\nin the hydrogen fuel cell.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.6",
+          "title": "The rate and extent of chemical change",
+          "level": 1,
+          "content": "Chemical reactions can occur at vastly different rates. Whilst the reactivity of chemicals is a\nsignificant factor in how fast chemical reactions proceed, there are many variables that can be\nmanipulated in order to speed them up or slow them down. Chemical reactions may also be\nreversible and therefore the effect of different variables needs to be established in order to identify\nhow to maximise the yield of desired product. Understanding energy changes that accompany\nchemical reactions is important for this process. In industry, chemists and chemical engineers\ndetermine the effect of different variables on reaction rate and yield of product. Whilst there may be\ncompromises to be made, they carry out optimisation processes to ensure that enough product is\nproduced within a sufficient time, and in an energy-efficient way.",
+          "children": [
+            {
+              "code": "4.6.1",
+              "title": "Rate of reaction",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.1.1",
+                  "title": "Calculating rates of reactions",
+                  "level": 3,
+                  "content": "The rate of a chemical reaction can be found by measuring the\nquantity of a reactant used or the quantity of product formed over\ntime:\nmean rate o f reaction = quantity o f reactant used\nmean rate o f reaction = quantity o f product f ormed\nThe quantity of reactant or product can be measured by the mass in\ngrams or by a volume in cm3.\nThe units of rate of reaction may be given as g/s or cm3/s.\nFor the Higher Tier, students are also required to use quantity of\nreactants in terms of moles and units for rate of reaction in mol/s.\nStudents should be able to:\n- calculate the mean rate of a reaction from given information\nabout the quantity of a reactant used or the quantity of a\nproduct formed and the time taken\n- draw, and interpret, graphs showing the quantity of product\nformed or quantity of reactant used up against time\n- draw tangents to the curves on these graphs and use the\nslope of the tangent as a measure of the rate of reaction\n- (HT only) calculate the gradient of a tangent to the curve on\nthese graphs as a measure of rate of reaction at a specific\ntime.\nKey opportunities for\nskills development\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 1d\nMake estimates of the\nresults of simple\ncalculations.\nMS 4a\nTranslate information\nbetween graphical and\nnumeric form.\nMS 4b\nDrawing and interpreting\nappropriate graphs from\ndata to determine rate of\nreaction.\nMS 4c\nPlot two variables from\nexperimental or other data.\nMS 4d\nDetermine the slope and\nintercept of a linear graph.\nMS 4e\nDraw and use the slope of a\ntangent to a curve as a\nmeasure of rate of change.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.2",
+                  "title": "Factors which affect the rates of chemical reactions",
+                  "level": 3,
+                  "content": "Factors which affect the rates of chemical reactions include: the\nconcentrations of reactants in solution, the pressure of reacting\ngases, the surface area of solid reactants, the temperature and the\npresence of catalysts.\nStudents should be able to recall how changing these factors\naffects the rate of chemical reactions.\nRequired practical 5: investigate how changes in concentration affect the rates of reactions by a\nmethod involving measuring the volume of a gas produced and a method involving a change in\ncolour or turbidity.\nThis should be an investigation involving developing a hypothesis.\nAT skills covered by this practical activity: 1, 3, 5 and 6.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 106).\nKey opportunities for\nskills development\nThis topic offers\nopportunities for practical\nwork and investigations in\naddition to required\npractical 5.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.3",
+                  "title": "Collision theory and activation energy",
+                  "level": 3,
+                  "content": "Collision theory explains how various factors affect rates of\nreactions. According to this theory, chemical reactions can occur\nonly when reacting particles collide with each other and with\nsufficient energy. The minimum amount of energy that particles\nmust have to react is called the activation energy.\nIncreasing the concentration of reactants in solution, the pressure of\nreacting gases, and the surface area of solid reactants increases\nthe frequency of collisions and so increases the rate of reaction.\nIncreasing the temperature increases the frequency of collisions\nand makes the collisions more energetic, and so increases the rate\nof reaction.\nStudents should be able to :\n- predict and explain using collision theory the effects of\nchanging conditions of concentration, pressure and\ntemperature on the rate of a reaction\nKey opportunities for\nskills development\nWS 1.2\n- predict and explain the effects of changes in the size of pieces\nof a reacting solid in terms of surface area to volume ratio\n- use simple ideas about proportionality when using collision\ntheory to explain the effect of a factor on the rate of a\nreaction.\nKey opportunities for\nskills development\nMS 5c\nMS 1c",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.4",
+                  "title": "Catalysts",
+                  "level": 3,
+                  "content": "Catalysts change the rate of chemical reactions but are not used up\nduring the reaction. Different reactions need different catalysts.\nEnzymes act as catalysts in biological systems.\nCatalysts increase the rate of reaction by providing a different\npathway for the reaction that has a lower activation energy.\nA reaction profile for a catalysed reaction can be drawn in the\nfollowing form:\nStudents should be able to identify catalysts in reactions from their\neffect on the rate of reaction and because they are not included in\nthe chemical equation for the reaction.\nStudents should be able to explain catalytic action in terms of\nactivation energy.\nStudents do not need to know the names of catalysts other than\nthose specified in the subject content.\nKey opportunities for\nskills development\nAT 5\nAn opportunity to\ninvestigate the catalytic\neffect of adding different\nmetal salts to a reaction\nsuch as the decomposition\nof hydrogen peroxide.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.2",
+              "title": "Reversible reactions and dynamic equilibrium",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.2.1",
+                  "title": "Reversible reactions",
+                  "level": 3,
+                  "content": "In some chemical reactions, the products of the reaction can react\nto produce the original reactants. Such reactions are called\nreversible reactions and are represented:\nA + B\nC + D\nThe direction of reversible reactions can be changed by changing\nthe conditions.\nFor example:\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.2",
+                  "title": "Energy changes and reversible reactions",
+                  "level": 3,
+                  "content": "If a reversible reaction is exothermic in one direction, it is\nendothermic in the opposite direction. The same amount of energy\nis transferred in each case. For example:\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.3",
+                  "title": "Equilibrium",
+                  "level": 3,
+                  "content": "When a reversible reaction occurs in apparatus which prevents the\nescape of reactants and products, equilibrium is reached when the\nforward and reverse reactions occur at exactly the same rate.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.4",
+                  "title": "The effect of changing conditions on equilibrium (HT only)",
+                  "level": 3,
+                  "content": "The relative amounts of all the reactants and products at equilibrium\ndepend on the conditions of the reaction.\nIf a system is at equilibrium and a change is made to any of the\nconditions, then the system responds to counteract the change.\nThe effects of changing conditions on a system at equilibrium can\nbe predicted using Le Chatelier’s Principle.\nStudents should be able to make qualitative predictions about the\neffect of changes on systems at equilibrium when given appropriate\ninformation.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.5",
+                  "title": "The effect of changing concentration (HT only)",
+                  "level": 3,
+                  "content": "If the concentration of one of the reactants or products is changed,\nthe system is no longer at equilibrium and the concentrations of all\nthe substances will change until equilibrium is reached again.\nIf the concentration of a reactant is increased, more products will be\nformed until equilibrium is reached again.\nIf the concentration of a product is decreased, more reactants will\nreact until equilibrium is reached again.\nStudents should be able to interpret appropriate given data to\npredict the effect of a change in concentration of a reactant or\nproduct on given reactions at equilibrium.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.6",
+                  "title": "The effect of temperature changes on equilibrium (HT only)",
+                  "level": 3,
+                  "content": "If the temperature of a system at equilibrium is increased:\n- the relative amount of products at equilibrium increases for an\nendothermic reaction\n- the relative amount of products at equilibrium decreases for\nan exothermic reaction.\nIf the temperature of a system at equilibrium is decreased:\n- the relative amount of products at equilibrium decreases for\nan endothermic reaction\n- the relative amount of products at equilibrium increases for an\nexothermic reaction.\nStudents should be able to interpret appropriate given data to\npredict the effect of a change in temperature on given reactions at\nequilibrium.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.7",
+                  "title": "The effect of pressure changes on equilibrium (HT only)",
+                  "level": 3,
+                  "content": "For gaseous reactions at equilibrium:\n- an increase in pressure causes the equilibrium position to\nshift towards the side with the smaller number of molecules as\nshown by the symbol equation for that reaction\n- a decrease in pressure causes the equilibrium position to shift\ntowards the side with the larger number of molecules as\nshown by the symbol equation for that reaction.\nStudents should be able to interpret appropriate given data to\npredict the effect of pressure changes on given reactions at\nequilibrium.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.7",
+          "title": "Organic chemistry",
+          "level": 1,
+          "content": "The chemistry of carbon compounds is so important that it forms a separate branch of chemistry. A\ngreat variety of carbon compounds is possible because carbon atoms can form chains and rings\nlinked by C-C bonds. This branch of chemistry gets its name from the fact that the main sources of\norganic compounds are living, or once-living materials from plants and animals. These sources\ninclude fossil fuels which are a major source of feedstock for the petrochemical industry. Chemists\nare able to take organic molecules and modify them in many ways to make new and useful\nmaterials such as polymers, pharmaceuticals, perfumes and flavourings, dyes and detergents.",
+          "children": [
+            {
+              "code": "4.7.1",
+              "title": "Carbon compounds as fuels and feedstock",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.1.1",
+                  "title": "Crude oil, hydrocarbons and alkanes",
+                  "level": 3,
+                  "content": "Crude oil is a finite resource found in rocks. Crude oil is the remains\nof an ancient biomass consisting mainly of plankton that was buried\nin mud.\nCrude oil is a mixture of a very large number of compounds. Most of\nthe compounds in crude oil are hydrocarbons, which are molecules\nmade up of hydrogen and carbon atoms only.\nMost of the hydrocarbons in crude oil are hydrocarbons called\nalkanes. The general formula for the homologous series of alkanes\nis CnH2n+2\nThe first four members of the alkanes are methane, ethane,\npropane and butane.\nAlkane molecules can be represented in the following forms:\nC2H6 or\nStudents should be able to recognise substances as alkanes given\ntheir formulae in these forms.\nStudents do not need to know the names of specific alkanes other\nthan methane, ethane, propane and butane.\nKey opportunities for\nskills development\nWS 1.2\nMake models of alkane\nmolecules using the\nmolecular modelling kits.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.1.2",
+                  "title": "Fractional distillation and petrochemicals",
+                  "level": 3,
+                  "content": "The many hydrocarbons in crude oil may be separated into\nfractions, each of which contains molecules with a similar number of\ncarbon atoms, by fractional distillation.\nThe fractions can be processed to produce fuels and feedstock for\nthe petrochemical industry.\nMany of the fuels on which we depend for our modern lifestyle,\nsuch as petrol, diesel oil, kerosene, heavy fuel oil and liquefied\npetroleum gases, are produced from crude oil.\nMany useful materials on which modern life depends are produced\nby the petrochemical industry, such as solvents, lubricants,\npolymers, detergents.\nThe vast array of natural and synthetic carbon compounds occur\ndue to the ability of carbon atoms to form families of similar\ncompounds.\nStudents should be able to explain how fractional distillation works\nin terms of evaporation and condensation.\nKnowledge of the names of other specific fractions or fuels is not\nrequired.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.7.1.3",
+                  "title": "Properties of hydrocarbons",
+                  "level": 3,
+                  "content": "Some properties of hydrocarbons depend on the size of their\nmolecules, including boiling point, viscosity and flammability. These\nproperties influence how hydrocarbons are used as fuels.\nStudents should be able to recall how boiling point, viscosity and\nflammability change with increasing molecular size.\nThe combustion of hydrocarbon fuels releases energy. During\ncombustion, the carbon and hydrogen in the fuels are oxidised. The\ncomplete combustion of a hydrocarbon produces carbon dioxide\nand water.\nStudents should be able to write balanced equations for the\ncomplete combustion of hydrocarbons with a given formula.\nKnowledge of trends in properties of hydrocarbons is limited to:\n- boiling points\n- viscosity\n- flammability.\nKey opportunities for\nskills development\nWS 1.2, 4.1\nInvestigate the properties of\ndifferent hydrocarbons.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.1.4",
+                  "title": "Cracking and alkenes",
+                  "level": 3,
+                  "content": "Hydrocarbons can be broken down (cracked) to produce smaller,\nmore useful molecules.\nCracking can be done by various methods including catalytic\ncracking and steam cracking.\nStudents should be able to describe in general terms the conditions\nused for catalytic cracking and steam cracking.\nThe products of cracking include alkanes and another type of\nhydrocarbon called alkenes.\nAlkenes are more reactive than alkanes and react with bromine\nwater, which is used as a test for alkenes.\nStudents should be able to recall the colour change when bromine\nwater reacts with an alkene.\nThere is a high demand for fuels with small molecules and so some\nof the products of cracking are useful as fuels.\nAlkenes are used to produce polymers and as starting materials for\nthe production of many other chemicals.\nStudents should be able to balance chemical equations as\nexamples of cracking given the formulae of the reactants and\nproducts.\nStudents should be able to give examples to illustrate the\nusefulness of cracking. They should also be able to explain how\nmodern life depends on the uses of hydrocarbons.\n(For Combined Science: Trilogy and Synergy students do not need\nto know the formulae or names of individual alkenes.)\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.2",
+              "title": "Reactions of alkenes and alcohols (chemistry only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.2.1",
+                  "title": "Structure and formulae of alkenes",
+                  "level": 3,
+                  "content": "Alkenes are hydrocarbons with a double carbon-carbon bond. The\ngeneral formula for the homologous series of alkenes is CnH2n\nAlkene molecules are unsaturated because they contain two fewer\nhydrogen atoms than the alkane with the same number of carbon\natoms.\nThe first four members of the homologous series of alkenes are\nethene, propene, butene and pentene.\nAlkene molecules can be represented in the following forms:\nC3H6\nor\nStudents do not need to know the names of individual alkenes other\nthan ethene, propene, butene and pentene.\nKey opportunities for\nskills development\nWS 1.2\nRecognise substances that\nare alkenes from their\nnames or from given\nformulae in these forms.\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.2.2",
+                  "title": "Reactions of alkenes",
+                  "level": 3,
+                  "content": "Alkenes are hydrocarbons with the functional group C=C.\nIt is the generality of reactions of functional groups that determine\nthe reactions of organic compounds.\nAlkenes react with oxygen in combustion reactions in the same way\nas other hydrocarbons, but they tend to burn in air with smoky\nflames because of incomplete combustion.\nAlkenes react with hydrogen, water and the halogens, by the\naddition of atoms across the carbon-carbon double bond so that the\ndouble bond becomes a single carbon-carbon bond.\nStudents should be able to:\n- describe the reactions and conditions for the addition of\nhydrogen, water and halogens to alkenes\n- draw fully displayed structural formulae of the first four\nmembers of the alkenes and the products of their addition\nreactions with hydrogen, water, chlorine, bromine and iodine.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.7.2.3",
+                  "title": "Alcohols",
+                  "level": 3,
+                  "content": "Alcohols contain the functional group –OH.\nMethanol, ethanol, propanol and butanol are the first four members\nof a homologous series of alcohols.\nAlcohols can be represented in the following forms:\nCH3CH2OH\nor\nStudents should be able to:\n- describe what happens when any of the first four alcohols\nreact with sodium, burn in air, are added to water, react with\nan oxidising agent\n- recall the main uses of these alcohols.\nAqueous solutions of ethanol are produced when sugar solutions\nare fermented using yeast.\nStudents should know the conditions used for fermentation of sugar\nusing yeast.\nStudents should be able to recognise alcohols from their names or\nfrom given formulae.\nStudents do not need to know the names of individual alcohols\nother than methanol, ethanol, propanol and butanol.\nStudents are not expected to write balanced chemical equations for\nthe reactions of alcohols other than for combustion reactions.\nKey opportunities for\nskills development\nAT 2, 5, 6\nOpportunities when\ninvestigating reactions of\nalcohols.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.2.4",
+                  "title": "Carboxylic acids",
+                  "level": 3,
+                  "content": "Carboxylic acids have the functional group –COOH.\nThe first four members of a homologous series of carboxylic acids\nare methanoic acid, ethanoic acid, propanoic acid and butanoic\nacid.\nThe structures of carboxylic acids can be represented in the\nfollowing forms:\nCH3COOH\nor\nStudents should be able to:\n- describe what happens when any of the first four carboxylic\nacids react with carbonates, dissolve in water, react with\nalcohols\n- (HT only) explain why carboxylic acids are weak acids in\nterms of ionisation and pH (see Strong and weak acids (HT\nonly) (page 48)).\nStudents should be able to recognise carboxylic acids from their\nnames or from given formulae.\nStudents do not need to know the names of individual carboxylic\nacids other than methanoic acid, ethanoic acid, propanoic acid and\nbutanoic acid.\nStudents are not expected to write balanced chemical equations for\nthe reactions of carboxylic acids.\nStudents do not need to know the names of esters other than ethyl\nethanoate.\nKey opportunities for\nskills development\nAT 2, 5, 6\nOpportunities within\ninvestigation of the\nreactions of carboxylic\nacids.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.3",
+              "title": "Synthetic and naturally occurring polymers (chemistry only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.3.1",
+                  "title": "Addition polymerisation",
+                  "level": 3,
+                  "content": "Alkenes can be used to make polymers such as poly(ethene) and\npoly(propene) by addition polymerisation.\nIn addition polymerisation reactions, many small molecules\n(monomers) join together to form very large molecules (polymers).\nFor example:\nIn addition polymers the repeating unit has the same atoms as the\nmonomer because no other molecule is formed in the reaction.\nStudents should be able to:\n- recognise addition polymers and monomers from diagrams in\nthe forms shown and from the presence of the functional\ngroup C=C in the monomers\n- draw diagrams to represent the formation of a polymer from a\ngiven alkene monomer\n- relate the repeating unit to the monomer.\nKey opportunities for\nskills development\nWS 1.2\nUse models to represent\naddition polymerisation.\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.2",
+                  "title": "Condensation polymerisation (HT only)",
+                  "level": 3,
+                  "content": "Condensation polymerisation involves monomers with two\nfunctional groups. When these types of monomers react they join\ntogether, usually losing small molecules such as water, and so the\nreactions are called condensation reactions.\nThe simplest polymers are produced from two different monomers\nwith two of the same functional groups on each monomer.\nFor example:\nethanediol\nand\nhexanedioic acid\npolymerise to produce a polyester:\nStudents should be able to explain the basic principles of\ncondensation polymerisation by reference to the functional groups\nin the monomers and the repeating units in the polymers.\nKey opportunities for\nskills development\nWS 1.2\nUse models to represent\ncondensation\npolymerisation.\nMS 5b\nVisualise and represent 2D\nand 3D forms including two-\ndimensional representations\nof 3D objects.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.3",
+                  "title": "Amino acids (HT only)",
+                  "level": 3,
+                  "content": "Amino acids have two different functional groups in a molecule.\nAmino acids react by condensation polymerisation to produce\npolypeptides.\nFor example: glycine is H2NCH2COOH and polymerises to produce\nthe polypeptide\nDifferent amino acids can be combined in the same chain to\nproduce proteins.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.4",
+                  "title": "DNA (deoxyribonucleic acid) and other naturally occurring polymers",
+                  "level": 3,
+                  "content": "DNA (deoxyribonucleic acid) is a large molecule essential for life.\nDNA encodes genetic instructions for the development and\nfunctioning of living organisms and viruses.\nMost DNA molecules are two polymer chains, made from four\ndifferent monomers called nucleotides, in the form of a double helix.\nOther naturally occurring polymers important for life include\nproteins, starch and cellulose.\nStudents should be able to name the types of monomers from\nwhich these naturally occurring polymers are made.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.8",
+          "title": "Chemical analysis",
+          "level": 1,
+          "content": "Analysts have developed a range of qualitative tests to detect specific chemicals. The tests are\nbased on reactions that produce a gas with distinctive properties, or a colour change or an\ninsoluble solid that appears as a precipitate.\nInstrumental methods provide fast, sensitive and accurate means of analysing chemicals, and are\nparticularly useful when the amount of chemical being analysed is small. Forensic scientists and\ndrug control scientists rely on such instrumental methods in their work.",
+          "children": [
+            {
+              "code": "4.8.1",
+              "title": "Purity, formulations and chromatography",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.8.1.1",
+                  "title": "Pure substances",
+                  "level": 3,
+                  "content": "In chemistry, a pure substance is a single element or compound,\nnot mixed with any other substance.\nPure elements and compounds melt and boil at specific\ntemperatures. Melting point and boiling point data can be used to\ndistinguish pure substances from mixtures.\nIn everyday language, a pure substance can mean a substance\nthat has had nothing added to it, so it is unadulterated and in its\nnatural state, eg pure milk.\nStudents should be able to use melting point and boiling point data\nto distinguish pure from impure substances.\nKey opportunities for\nskills development\nWS 2.2, 4.1",
+                  "children": []
+                },
+                {
+                  "code": "4.8.1.2",
+                  "title": "Formulations",
+                  "level": 3,
+                  "content": "A formulation is a mixture that has been designed as a useful\nproduct. Many products are complex mixtures in which each\nchemical has a particular purpose. Formulations are made by\nmixing the components in carefully measured quantities to ensure\nthat the product has the required properties. Formulations include\nfuels, cleaning agents, paints, medicines, alloys, fertilisers and\nfoods.\nStudents should be able to identify formulations given appropriate\ninformation.\nStudents do not need to know the names of components in\nproprietary products.\nKey opportunities for\nskills development\nWS 1.4, 2.2",
+                  "children": []
+                },
+                {
+                  "code": "4.8.1.3",
+                  "title": "Chromatography",
+                  "level": 3,
+                  "content": "Chromatography can be used to separate mixtures and can give\ninformation to help identify substances. Chromatography involves a\nstationary phase and a mobile phase. Separation depends on the\ndistribution of substances between the phases.\nThe ratio of the distance moved by a compound (centre of spot from\norigin) to the distance moved by the solvent can be expressed as its\nRf value:\nRf = distance moved by substance\ndistance moved by solvent\nDifferent compounds have different Rf values in different solvents,\nwhich can be used to help identify the compounds. The compounds\nin a mixture may separate into different spots depending on the\nsolvent but a pure compound will produce a single spot in all\nsolvents.\nStudents should be able to:\n- explain how paper chromatography separates mixtures\n- suggest how chromatographic methods can be used for\ndistinguishing pure substances from impure substances\n- interpret chromatograms and determine Rf values from\nchromatograms\n- provide answers to an appropriate number of significant\nfigures.\nRequired practical 6: investigate how paper chromatography can be used to separate and tell the\ndifference between coloured substances. Students should calculate Rf values.\nAT skills covered by this practical activity: 1 and 4.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 107).\nKey opportunities for\nskills development\nWS 2.2, 3.1, 2, 3\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 1d\nMake estimates of the\nresults of simple\ncalculations.\nMS 2a",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.8.2",
+              "title": "Identification of common gases",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.8.2.1",
+                  "title": "Test for hydrogen",
+                  "level": 3,
+                  "content": "The test for hydrogen uses a burning splint held at the open end of\na test tube of the gas. Hydrogen burns rapidly with a pop sound.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.8.2.2",
+                  "title": "Test for oxygen",
+                  "level": 3,
+                  "content": "The test for oxygen uses a glowing splint inserted into a test tube of\nthe gas. The splint relights in oxygen.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.8.2.3",
+                  "title": "Test for carbon dioxide",
+                  "level": 3,
+                  "content": "The test for carbon dioxide uses an aqueous solution of calcium\nhydroxide (lime water). When carbon dioxide is shaken with or\nbubbled through limewater the limewater turns milky (cloudy).\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.8.2.4",
+                  "title": "Test for chlorine",
+                  "level": 3,
+                  "content": "The test for chlorine uses litmus paper. When damp litmus paper is\nput into chlorine gas the litmus paper is bleached and turns white.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.8.3",
+              "title": "Identification of ions by chemical and spectroscopic means (chemistry only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.8.3.1",
+                  "title": "Flame tests",
+                  "level": 3,
+                  "content": "Flame tests can be used to identify some metal ions (cations).\nLithium, sodium, potassium, calcium and copper compounds\nproduce distinctive colours in flame tests:\n- lithium compounds result in a crimson flame\n- sodium compounds result in a yellow flame\n- potassium compounds result in a lilac flame\n- calcium compounds result in an orange-red flame\n- copper compounds result in a green flame.\nIf a sample containing a mixture of ions is used some flame colours\ncan be masked.\nStudents should be able to identify species from the results of the\ntests in 4.8.3.1 to 4.8.3.5.\nFlame colours of other metal ions are not required knowledge.\nKey opportunities for\nskills development\nAT 8\nAn opportunity to\ninvestigate flame colours.\nWS 2.2",
+                  "children": []
+                },
+                {
+                  "code": "4.8.3.2",
+                  "title": "Metal hydroxides",
+                  "level": 3,
+                  "content": "Sodium hydroxide solution can be used to identify some metal ions\n(cations).\nSolutions of aluminium, calcium and magnesium ions form white\nprecipitates when sodium hydroxide solution is added but only the\naluminium hydroxide precipitate dissolves in excess sodium\nhydroxide solution.\nSolutions of copper(II), iron(II) and iron(III) ions form coloured\nprecipitates when sodium hydroxide solution is added.\nCopper(II) forms a blue precipitate, iron(II) a green precipitate and\niron(III) a brown precipitate.\nStudents should be able to write balanced equations for the\nreactions to produce the insoluble hydroxides.\nStudents are not expected to write equations for the production of\nsodium aluminate.\nKey opportunities for\nskills development\nAT 8\nAn opportunity to make\nprecipitates of metal\nhydroxides.\nWS 2.2",
+                  "children": []
+                },
+                {
+                  "code": "4.8.3.3",
+                  "title": "Carbonates",
+                  "level": 3,
+                  "content": "Carbonates react with dilute acids to form carbon dioxide gas.\nCarbon dioxide can be identified with limewater.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.8.3.4",
+                  "title": "Halides",
+                  "level": 3,
+                  "content": "Halide ions in solution produce precipitates with silver nitrate\nsolution in the presence of dilute nitric acid. Silver chloride is white,\nsilver bromide is cream and silver iodide is yellow.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.8.3.5",
+                  "title": "Sulfates",
+                  "level": 3,
+                  "content": "Sulfate ions in solution produce a white precipitate with barium\nchloride solution in the presence of dilute hydrochloric acid.\nRequired practical 7: use of chemical tests to identify the ions in unknown single ionic\ncompounds covering the ions from sections Flame tests (page 73) to Sulfates (page 74).\nKey opportunities for\nskills development\nAT skills covered by this practical activity: 1 and 8.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 107).",
+                  "children": []
+                },
+                {
+                  "code": "4.8.3.6",
+                  "title": "Instrumental methods",
+                  "level": 3,
+                  "content": "Elements and compounds can be detected and identified using\ninstrumental methods. Instrumental methods are accurate, sensitive\nand rapid.\nStudents should be able to state advantages of instrumental\nmethods compared with the chemical tests in this specification.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.8.3.7",
+                  "title": "Flame emission spectroscopy",
+                  "level": 3,
+                  "content": "Flame emission spectroscopy is an example of an instrumental\nmethod used to analyse metal ions in solutions.\nThe sample is put into a flame and the light given out is passed\nthrough a spectroscope. The output is a line spectrum that can be\nanalysed to identify the metal ions in the solution and measure their\nconcentrations.\nStudents should be able to interpret an instrumental result given\nappropriate data in chart or tabular form, when accompanied by a\nreference set in the same form, limited to flame emission\nspectroscopy.\nKey opportunities for\nskills development\nAT 8\nAn opportunity to observe\nflame spectra using a hand-\nheld spectroscope.\nWS 3.6\nMS 4a",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.9",
+          "title": "Chemistry of the atmosphere",
+          "level": 1,
+          "content": "The Earth’s atmosphere is dynamic and forever changing. The causes of these changes are\nsometimes man-made and sometimes part of many natural cycles. Scientists use very complex\nsoftware to predict weather and climate change as there are many variables that can influence this.\nThe problems caused by increased levels of air pollutants require scientists and engineers to\ndevelop solutions that help to reduce the impact of human activity.",
+          "children": [
+            {
+              "code": "4.9.1",
+              "title": "The composition and evolution of the Earth's atmosphere",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.9.1.1",
+                  "title": "The proportions of different gases in the atmosphere",
+                  "level": 3,
+                  "content": "For 200 million years, the proportions of different gases in the\natmosphere have been much the same as they are today:\n- about four-fifths (approximately 80%) nitrogen\n- about one-fifth (approximately 20%) oxygen\n- small proportions of various other gases, including carbon\ndioxide, water vapour and noble gases.\nKey opportunities for\nskills development\nMS 1c\nTo use ratios, fractions and\npercentages.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.1.2",
+                  "title": "The Earth's early atmosphere",
+                  "level": 3,
+                  "content": "Theories about what was in the Earth’s early atmosphere and how\nthe atmosphere was formed have changed and developed over\ntime. Evidence for the early atmosphere is limited because of the\ntime scale of 4.6 billion years.\nOne theory suggests that during the first billion years of the Earth’s\nexistence there was intense volcanic activity that released gases\nthat formed the early atmosphere and water vapour that condensed\nto form the oceans. At the start of this period the Earth’s\natmosphere may have been like the atmospheres of Mars and\nVenus today, consisting of mainly carbon dioxide with little or no\noxygen gas.\nVolcanoes also produced nitrogen which gradually built up in the\natmosphere and there may have been small proportions of methane\nand ammonia.\nWhen the oceans formed carbon dioxide dissolved in the water and\ncarbonates were precipitated producing sediments, reducing the\namount of carbon dioxide in the atmosphere. No knowledge of other\ntheories is required.\nStudents should be able to, given appropriate information, interpret\nevidence and evaluate different theories about the Earth’s early\natmosphere.\nKey opportunities for\nskills development\nWS 1.1, 1.2, 1.3, 3.5, 3.6,\n4.1",
+                  "children": []
+                },
+                {
+                  "code": "4.9.1.3",
+                  "title": "How oxygen increased",
+                  "level": 3,
+                  "content": "Algae and plants produced the oxygen that is now in the\natmosphere by photosynthesis, which can be represented by the\nequation:\nAlgae first produced oxygen about 2.7 billion years ago and soon\nafter this oxygen appeared in the atmosphere. Over the next billion\nyears plants evolved and the percentage of oxygen gradually\nincreased to a level that enabled animals to evolve.\nKey opportunities for\nskills development\nWS 1.2\nAn opportunity to show that\naquatic plants produce\noxygen in daylight.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.1.4",
+                  "title": "How carbon dioxide decreased",
+                  "level": 3,
+                  "content": "Algae and plants decreased the percentage of carbon dioxide in the\natmosphere by photosynthesis.\nCarbon dioxide was also decreased by the formation of\nsedimentary rocks and fossil fuels that contain carbon.\nStudents should be able to:\n- describe the main changes in the atmosphere over time and\nsome of the likely causes of these changes\n- describe and explain the formation of deposits of limestone,\ncoal, crude oil and natural gas.\nKey opportunities for\nskills development\nWS 1.2, 4.1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.9.2",
+              "title": "Carbon dioxide and methane as greenhouse gases",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.9.2.1",
+                  "title": "Greenhouse gases",
+                  "level": 3,
+                  "content": "Greenhouse gases in the atmosphere maintain temperatures on\nEarth high enough to support life. Water vapour, carbon dioxide and\nmethane are greenhouse gases.\nStudents should be able to describe the greenhouse effect in terms\nof the interaction of short and long wavelength radiation with matter.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.9.2.2",
+                  "title": "Human activities which contribute to an increase in greenhouse gases in the atmosphere",
+                  "level": 3,
+                  "content": "Some human activities increase the amounts of greenhouse gases\nin the atmosphere. These include:\n- carbon dioxide\n- methane.\nStudents should be able to recall two human activities that increase\nthe amounts of each of the greenhouse gases carbon dioxide and\nmethane.\nBased on peer-reviewed evidence, many scientists believe that\nhuman activities will cause the temperature of the Earth’s\natmosphere to increase at the surface and that this will result in\nglobal climate change.\nHowever, it is difficult to model such complex systems as global\nclimate change. This leads to simplified models, speculation and\nopinions presented in the media that may be based on only parts of\nthe evidence and which may be biased.\nStudents should be able to:\n- evaluate the quality of evidence in a report about global\nclimate change given appropriate information\n- describe uncertainties in the evidence base\n- recognise the importance of peer review of results and of\ncommunicating results to a wide range of audiences.\nKey opportunities for\nskills development\nWS 1.2, 1.3, 1.6",
+                  "children": []
+                },
+                {
+                  "code": "4.9.2.3",
+                  "title": "Global climate change",
+                  "level": 3,
+                  "content": "An increase in average global temperature is a major cause of\nclimate change.\nThere are several potential effects of global climate change.\nStudents should be able to:\n- describe briefly four potential effects of global climate change\n- discuss the scale, risk and environmental implications of\nglobal climate change.\nKey opportunities for\nskills development\nWS 1.5",
+                  "children": []
+                },
+                {
+                  "code": "4.9.2.4",
+                  "title": "The carbon footprint and its reduction",
+                  "level": 3,
+                  "content": "The carbon footprint is the total amount of carbon dioxide and other\ngreenhouse gases emitted over the full life cycle of a product,\nservice or event.\nThe carbon footprint can be reduced by reducing emissions of\ncarbon dioxide and methane.\nStudents should be able to:\n- describe actions to reduce emissions of carbon dioxide and\nmethane\n- give reasons why actions may be limited.\nKey opportunities for\nskills development\nWS 1.3",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.9.3",
+              "title": "Common atmospheric pollutants and their sources",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.9.3.1",
+                  "title": "Atmospheric pollutants from fuels",
+                  "level": 3,
+                  "content": "The combustion of fuels is a major source of atmospheric\npollutants.\nMost fuels, including coal, contain carbon and/or hydrogen and may\nalso contain some sulfur.\nThe gases released into the atmosphere when a fuel is burned may\ninclude carbon dioxide, water vapour, carbon monoxide, sulfur\ndioxide and oxides of nitrogen. Solid particles and unburned\nhydrocarbons may also be released that form particulates in the\natmosphere.\nStudents should be able to:\n- describe how carbon monoxide, soot (carbon particles), sulfur\ndioxide and oxides of nitrogen are produced by burning fuels\n- predict the products of combustion of a fuel given appropriate\ninformation about the composition of the fuel and the\nconditions in which it is used.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.9.3.2",
+                  "title": "Properties and effects of atmospheric pollutants",
+                  "level": 3,
+                  "content": "Carbon monoxide is a toxic gas. It is colourless and odourless and\nso is not easily detected.\nSulfur dioxide and oxides of nitrogen cause respiratory problems in\nhumans and cause acid rain.\nParticulates cause global dimming and health problems for humans.\nStudents should be able to describe and explain the problems\ncaused by increased amounts of these pollutants in the air.\nKey opportunities for\nskills development\nWS 1.4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.10",
+          "title": "Using resources",
+          "level": 1,
+          "content": "Industries use the Earth’s natural resources to manufacture useful products. In order to operate\nsustainably, chemists seek to minimise the use of limited resources, use of energy, waste and\nenvironmental impact in the manufacture of these products. Chemists also aim to develop ways of\ndisposing of products at the end of their useful life in ways that ensure that materials and stored\nenergy are utilised. Pollution, disposal of waste products and changing land use has a significant\neffect on the environment, and environmental chemists study how human activity has affected the\nEarth’s natural cycles, and how damaging effects can be minimised.",
+          "children": [
+            {
+              "code": "4.10.1",
+              "title": "Using the Earth's resources and obtaining potable water",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.10.1.1",
+                  "title": "Using the Earth's resources and sustainable development",
+                  "level": 3,
+                  "content": "Humans use the Earth’s resources to provide warmth, shelter, food\nand transport.\nNatural resources, supplemented by agriculture, provide food,\ntimber, clothing and fuels.\nFinite resources from the Earth, oceans and atmosphere are\nprocessed to provide energy and materials.\nChemistry plays an important role in improving agricultural and\nindustrial processes to provide new products and in sustainable\ndevelopment, which is development that meets the needs of current\ngenerations without compromising the ability of future generations\nto meet their own needs.\nStudents should be able to:\n- state examples of natural products that are supplemented or\nreplaced by agricultural and synthetic products\n- distinguish between finite and renewable resources given\nappropriate information.\nStudents should be able to:\n- extract and interpret information about resources from charts,\ngraphs and tables\n- use orders of magnitude to evaluate the significance of data.\nKey opportunities for\nskills development\nWS 3.2\nMS 2c, 4a\nMS 2h\nTranslate information\nbetween graphical and\nnumeric form.",
+                  "children": []
+                },
+                {
+                  "code": "4.10.1.2",
+                  "title": "Potable water",
+                  "level": 3,
+                  "content": "Water of appropriate quality is essential for life. For humans,\ndrinking water should have sufficiently low levels of dissolved salts\nand microbes. Water that is safe to drink is called potable water.\nPotable water is not pure water in the chemical sense because it\ncontains dissolved substances.\nThe methods used to produce potable water depend on available\nsupplies of water and local conditions.\nIn the United Kingdom (UK), rain provides water with low levels of\ndissolved substances (fresh water) that collects in the ground and in\nlakes and rivers, and most potable water is produced by:\n- choosing an appropriate source of fresh water\n- passing the water through filter beds\n- sterilising.\nSterilising agents used for potable water include chlorine, ozone or\nultraviolet light.\nIf supplies of fresh water are limited, desalination of salty water or\nsea water may be required. Desalination can be done by distillation\nor by processes that use membranes such as reverse osmosis.\nThese processes require large amounts of energy.\nStudents should be able to:\n- distinguish between potable water and pure water\n- describe the differences in treatment of ground water and\nsalty water\n- give reasons for the steps used to produce potable water.\nRequired practical 8: analysis and purification of water samples from different sources, including\npH, dissolved solids and distillation.\nAT skills covered by this practical activity: 2, 3 and 4.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities and skills development (page 107).\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.10.1.3",
+                  "title": "Waste water treatment",
+                  "level": 3,
+                  "content": "Urban lifestyles and industrial processes produce large amounts of\nwaste water that require treatment before being released into the\nenvironment. Sewage and agricultural waste water require removal\nof organic matter and harmful microbes. Industrial waste water may\nrequire removal of organic matter and harmful chemicals.\nSewage treatment includes:\n- screening and grit removal\n- sedimentation to produce sewage sludge and effluent\n- anaerobic digestion of sewage sludge\n- aerobic biological treatment of effluent.\nStudents should be able to comment on the relative ease of\nobtaining potable water from waste, ground and salt water.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.10.1.4",
+                  "title": "Alternative methods of extracting metals (HT only)",
+                  "level": 3,
+                  "content": "The Earth’s resources of metal ores are limited.\nCopper ores are becoming scarce and new ways of extracting\ncopper from low-grade ores include phytomining, and bioleaching.\nThese methods avoid traditional mining methods of digging, moving\nand disposing of large amounts of rock.\nPhytomining uses plants to absorb metal compounds. The plants\nare harvested and then burned to produce ash that contains metal\ncompounds.\nBioleaching uses bacteria to produce leachate solutions that\ncontain metal compounds.\nThe metal compounds can be processed to obtain the metal. For\nexample, copper can be obtained from solutions of copper\ncompounds by displacement using scrap iron or by electrolysis.\nStudents should be able to evaluate alternative biological methods\nof metal extraction, given appropriate information.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.10.2",
+              "title": "Life cycle assessment and recycling",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.10.2.1",
+                  "title": "Life cycle assessment",
+                  "level": 3,
+                  "content": "Life cycle assessments (LCAs) are carried out to assess the\nenvironmental impact of products in each of these stages:\n- extracting and processing raw materials\n- manufacturing and packaging\n- use and operation during its lifetime\n- disposal at the end of its useful life, including transport and\ndistribution at each stage.\nUse of water, resources, energy sources and production of some\nwastes can be fairly easily quantified. Allocating numerical values to\npollutant effects is less straightforward and requires value\njudgements, so LCA is not a purely objective process.\nSelective or abbreviated LCAs can be devised to evaluate a product\nbut these can be misused to reach pre-determined conclusions, eg\nin support of claims for advertising purposes.\nStudents should be able to carry out simple comparative LCAs for\nshopping bags made from plastic and paper.\nKey opportunities for\nskills development\nWS 1.3, 4, 5\nLCAs should be done as a\ncomparison of the impact\non the environment of the\nstages in the life of a\nproduct, and only quantified\nwhere data is readily\navailable for energy, water,\nresources and wastes.\nInterpret LCAs of materials\nor products given\nappropriate information.\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 1d\nMake estimates of the\nresults of simple\ncalculations.\nMS 2a\nUse an appropriate number\nof significant figures.\nMS 4a\nTranslate information\nbetween graphical and\nnumeric form.",
+                  "children": []
+                },
+                {
+                  "code": "4.10.2.2",
+                  "title": "Ways of reducing the use of resources",
+                  "level": 3,
+                  "content": "The reduction in use, reuse and recycling of materials by end users\nreduces the use of limited resources, use of energy sources, waste\nand environmental impacts.\nMetals, glass, building materials, clay ceramics and most plastics\nare produced from limited raw materials. Much of the energy for the\nprocesses comes from limited resources. Obtaining raw materials\nfrom the Earth by quarrying and mining causes environmental\nimpacts.\nSome products, such as glass bottles, can be reused. Glass bottles\ncan be crushed and melted to make different glass products. Other\nproducts cannot be reused and so are recycled for a different use.\nMetals can be recycled by melting and recasting or reforming into\ndifferent products. The amount of separation required for recycling\ndepends on the material and the properties required of the final\nproduct. For example, some scrap steel can be added to iron from a\nblast furnace to reduce the amount of iron that needs to be\nextracted from iron ore.\nStudents should be able to evaluate ways of reducing the use of\nlimited resources, given appropriate information.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.10.3",
+              "title": "Using materials (chemistry only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.10.3.1",
+                  "title": "Corrosion and its prevention",
+                  "level": 3,
+                  "content": "Corrosion is the destruction of materials by chemical reactions with\nsubstances in the environment. Rusting is an example of corrosion.\nBoth air and water are necessary for iron to rust.\nCorrosion can be prevented by applying a coating that acts as a\nbarrier, such as greasing, painting or electroplating. Aluminium has\nan oxide coating that protects the metal from further corrosion.\nSome coatings are reactive and contain a more reactive metal to\nprovide sacrificial protection, eg zinc is used to galvanise iron.\nStudents should be able to:\n- describe experiments and interpret results to show that both\nair and water are necessary for rusting\n- explain sacrificial protection in terms of relative reactivity.\nKey opportunities for\nskills development\nWS 2.2, 7, 3.5\nInvestigate the conditions\nfor rusting.",
+                  "children": []
+                },
+                {
+                  "code": "4.10.3.2",
+                  "title": "Alloys as useful materials",
+                  "level": 3,
+                  "content": "Most metals in everyday use are alloys.\nBronze is an alloy of copper and tin. Brass is an alloy of copper and\nzinc.\nGold used as jewellery is usually an alloy with silver, copper and\nzinc. The proportion of gold in the alloy is measured in carats. 24\ncarat being 100% (pure gold), and 18 carat being 75% gold.\nSteels are alloys of iron that contain specific amounts of carbon and\nother metals. High carbon steel is strong but brittle. Low carbon\nsteel is softer and more easily shaped. Steels containing chromium\nand nickel (stainless steels) are hard and resistant to corrosion.\nAluminium alloys are low density.\nStudents should be able to:\n- recall a use of each of the alloys specified\n- interpret and evaluate the composition and uses of alloys\nother than those specified given appropriate information.\nKey opportunities for\nskills development\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.",
+                  "children": []
+                },
+                {
+                  "code": "4.10.3.3",
+                  "title": "Ceramics, polymers and composites",
+                  "level": 3,
+                  "content": "Most of the glass we use is soda-lime glass, made by heating a\nmixture of sand, sodium carbonate and limestone. Borosilicate\nglass, made from sand and boron trioxide, melts at higher\ntemperatures than soda-lime glass.\nClay ceramics, including pottery and bricks, are made by shaping\nwet clay and then heating in a furnace.\nThe properties of polymers depend on what monomers they are\nmade from and the conditions under which they are made. For\nexample, low density (LD) and high density (HD) poly(ethene) are\nproduced from ethene.\nThermosoftening polymers melt when they are heated.\nThermosetting polymers do not melt when they are heated.\nStudents should be able to:\n- explain how low density and high density poly(ethene) are\nboth produced from ethene\n- explain the difference between thermosoftening and\nthermosetting polymers in terms of their structures.\nMost composites are made of two materials, a matrix or binder\nsurrounding and binding together fibres or fragments of the other\nmaterial, which is called the reinforcement.\nStudents should be able to recall some examples of composites.\nStudents should be able to, given appropriate information:\n- compare quantitatively the physical properties of glass and\nclay ceramics, polymers, composites and metals\n- explain how the properties of materials are related to their\nuses and select appropriate materials.\nKey opportunities for\nskills development\nWS 1.4, 3.5, 3.8\nCompare the properties of\nthermosetting and\nthermosoftening polymers.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.10.4",
+              "title": "The Haber process and the use of NPK fertilisers (chemistry only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.10.4.1",
+                  "title": "The Haber process",
+                  "level": 3,
+                  "content": "The Haber process is used to manufacture ammonia, which can be\nused to produce nitrogen-based fertilisers.\nThe raw materials for the Haber process are nitrogen and\nhydrogen.\nStudents should be able to recall a source for the nitrogen and a\nsource for the hydrogen used in the Haber process.\nThe purified gases are passed over a catalyst of iron at a high\ntemperature (about 450°C) and a high pressure (about 200\natmospheres). Some of the hydrogen and nitrogen reacts to form\nammonia. The reaction is reversible so some of the ammonia\nproduced breaks down into nitrogen and hydrogen:\nnitrogen + hydrogen\nammonia\nOn cooling, the ammonia liquefies and is removed. The remaining\nhydrogen and nitrogen are recycled.\n(HT only) Students should be able to:\n- interpret graphs of reaction conditions versus rate\n- apply the principles of dynamic equilibrium in Reversible\nreactions and dynamic equilibrium (page 59) to the Haber\nprocess\n- explain the trade-off between rate of production and position\nof equilibrium\n- explain how the commercially used conditions for the Haber\nprocess are related to the availability and cost of raw\nmaterials and energy supplies, control of equilibrium position\nand rate.\nKey opportunities for\nskills development\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nMS 1a\nRecognise and use\nexpressions in decimal\nform.\nMS 1c\nUse ratios, fractions and\npercentages.\nWS 3.5, 3.8",
+                  "children": []
+                },
+                {
+                  "code": "4.10.4.2",
+                  "title": "Production and uses of NPK fertilisers",
+                  "level": 3,
+                  "content": "Compounds of nitrogen, phosphorus and potassium are used as\nfertilisers to improve agricultural productivity. NPK fertilisers contain\ncompounds of all three elements.\nIndustrial production of NPK fertilisers can be achieved using a\nvariety of raw materials in several integrated processes. NPK\nfertilisers are formulations of various salts containing appropriate\npercentages of the elements.\nAmmonia can be used to manufacture ammonium salts and nitric\nacid.\nPotassium chloride, potassium sulfate and phosphate rock are\nobtained by mining, but phosphate rock cannot be used directly as\na fertiliser.\nPhosphate rock is treated with nitric acid or sulfuric acid to produce\nsoluble salts that can be used as fertilisers.\nStudents should be able to:\n- recall the names of the salts produced when phosphate rock\nis treated with nitric acid, sulfuric acid and phosphoric acid\n- compare the industrial production of fertilisers with laboratory\npreparations of the same compounds, given appropriate\ninformation.\nKey opportunities for\nskills development\nAT 4\nPrepare an ammonium salt.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.11",
+          "title": "Key ideas",
+          "level": 1,
+          "content": "The complex and diverse phenomena of the natural world can be described in terms of a small\nnumber of key ideas in chemistry.\nThese key ideas are of universal application, and we have embedded them throughout the subject\ncontent. They underpin many aspects of the science assessment and will therefore be assessed\nacross all papers.\nThese ideas include:\n- matter is composed of tiny particles called atoms and there are about 100 different naturally\noccurring types of atoms called elements\n- elements show periodic relationships in their chemical and physical properties\n- these periodic properties can be explained in terms of the atomic structure of the elements\n- atoms bond by either transferring electrons from one atom to another or by sharing electrons\n- the shapes of molecules (groups of atoms bonded together) and the way giant structures are\narranged is of great importance in terms of the way they behave\n- there are barriers to reaction so reactions occur at different rates\n- chemical reactions take place in only three different ways:\n- proton transfer\n- electron transfer\n- electron sharing\n- energy is conserved in chemical reactions so can therefore be neither created or destroyed.",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

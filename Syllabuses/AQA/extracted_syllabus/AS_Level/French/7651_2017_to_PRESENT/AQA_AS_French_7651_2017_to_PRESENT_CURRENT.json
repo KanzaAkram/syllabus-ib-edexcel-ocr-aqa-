@@ -1,0 +1,190 @@
+{
+  "source_pdf": "AS_Level/French/7651_2017_to_PRESENT/AQA_AS_French_7651_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "AS_Level",
+  "subject": "French",
+  "spec_code": "7651",
+  "pdf_name": "AQA_AS_French_7651_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Social issues and trends",
+          "level": 1,
+          "content": "Students must study the following themes and sub-themes in relation to at least one French-speaking\ncountry. Students must study the themes and sub-themes using a range of sources, including material\nfrom online media.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Aspects of French-speaking society: current trends",
+              "level": 2,
+              "content": "Students may study all sub-themes in relation to any French-speaking country or countries.\n- The changing nature of family (La famille en voie de changement)\n- Grands-parents, parents et enfants – soucis et problèmes\n- Monoparentalité, homoparentalité, familles recomposées\n- La vie de couple – nouvelles tendances\n- The ‘cyber-society’ (La « cyber-société »)\n- Qui sont les cybernautes ?\n- Comment la technologie facilite la vie quotidienne\n- Quels dangers la « cyber-société » pose-t-elle ?\n- The place of voluntary work (Le rôle du bénévolat)\n- Qui sont et que font les bénévoles ?\n- Le bénévolat – quelle valeur pour ceux qui sont aidés ?\n- Le bénévolat – quelle valeur pour ceux qui aident ?",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Artistic culture",
+          "level": 1,
+          "content": "Students must study the following themes and sub-themes in relation to at least one French-speaking\ncountry.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Artistic culture in the French-speaking world",
+              "level": 2,
+              "content": "Students may study all sub-themes in relation to any French-speaking country or countries.\n- A culture proud of its heritage (Une culture fière de son patrimoine)\n- Le patrimoine sur le plan national, régional et local\n- Comment le patrimoine reflète la culture\n- Le patrimoine et le tourisme\n- Contemporary francophone music (La musique francophone contemporaine)\n- La diversité de la musique francophone contemporaine\n- Qui écoute et apprécie cette musique ?\n- Comment sauvegarder cette musique ?\n- Cinema: the 7th art form (Cinéma : le septième art)\n- Pourquoi le septième art ?\n- Le cinéma – une passion nationale ?\n- Evolution du cinéma – les grandes lignes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Grammar",
+          "level": 1,
+          "content": "AS students will be expected to have studied the grammatical system and structures of the language\nduring their course. Knowledge of the grammar and structures specified for GCSE is assumed.\nIn the exam students will be required to use, actively and accurately, grammar and structures\nappropriate to the tasks set, drawn from the following list. The mention of an item in this list implies\nknowledge of both its forms and its functions at an appropriate level of accuracy and complexity.\nThe examples in italics in parentheses are indicative; they serve to illustrate the part of speech or\nstructure that the student must know and do not represent an exhaustive specification of the required\ngrammatical knowledge. For items marked (R), receptive knowledge only is required.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Nouns",
+              "level": 2,
+              "content": "Gender\nSingular and plural forms",
+              "children": []
+            },
+            {
+              "code": "3.3.2",
+              "title": "Articles",
+              "level": 2,
+              "content": "Definite, indefinite and partitive",
+              "children": []
+            },
+            {
+              "code": "3.3.3",
+              "title": "Adjectives",
+              "level": 2,
+              "content": "Agreement\nPosition\nComparative and superlative\nUse of adjectives as nouns (eg le vieux, les Anglais)\nDemonstrative (ce, cet, cette, ces)\nIndefinite (including autre, chaque, même, quelque)\nPossessive (mon, ma, mes, etc)\nInterrogative and exclamatory (quel, quelle, quels, quelles)",
+              "children": []
+            },
+            {
+              "code": "3.3.4",
+              "title": "Numerals",
+              "level": 2,
+              "content": "Cardinal (eg un, deux)\nOrdinal (eg premier, deuxième)\nExpression of time and date",
+              "children": []
+            },
+            {
+              "code": "3.3.5",
+              "title": "Adverbs",
+              "level": 2,
+              "content": "Formation of adverbs in -ment\nComparative and superlative\nInterrogative (including combien (de), comment, où, pourquoi, quand)",
+              "children": []
+            },
+            {
+              "code": "3.3.6",
+              "title": "Quantifiers/intensifiers",
+              "level": 2,
+              "content": "(including assez, beaucoup, moins, plus, la plupart, plusieurs, presque, tant, très, trop)",
+              "children": []
+            },
+            {
+              "code": "3.3.7",
+              "title": "Pronouns",
+              "level": 2,
+              "content": "Personal: subject, including on\nObject: direct and indirect\nDisjunctive/emphatic personal, as subject and object: moi/moi-même, etc\nPosition and order\nReflexive\nRelative (including qui, que, dont, lequel etc, auquel etc, ce qui, ce que)\nDemonstrative (celui, celle, ceux, celles; and celui-ci/celui-là etc)\nIndefinite (including quelqu’un, quelque chose)\nPossessive (le mien etc)\nInterrogative (including qui, que, quoi)\nUse of y, en",
+              "children": []
+            },
+            {
+              "code": "3.3.8",
+              "title": "Verbs",
+              "level": 2,
+              "content": "Conjugation of regular -er, -ir, -re verbs, modal verbs, principal irregular verbs, including reflexive verbs\nAgreement of verb and subject\nUse of il y a\nModes of address (tu, vous)\nImpersonal verbs\nConstructions with verbs\nVerbs followed by an infinitive (with or without a preposition)\nDependent infinitives (faire réparer) (R)\nPerfect infinitive\nNegative forms\nInterrogative forms\nUse of tenses:\n- present\n- perfect (including agreement of past participle)\n- imperfect\n- future\n- conditional\n- future perfect\n- conditional perfect\n- pluperfect\n- past historic (R).\nUse of the infinitive, present participle (eg en arrivant) and past participle\nVerbal paraphrases and their uses (including aller + infinitive, venir de + infinitive)\nPassive voice:\n- present tense\n- other tenses (R).\nSubjunctive mood: present (common uses, for example, after expressions of possibility, necessity,\nobligation and after conjunctions such as bien que)",
+              "children": []
+            },
+            {
+              "code": "3.3.9",
+              "title": "Prepositions",
+              "level": 2,
+              "content": "All prepositions, both simple (eg sous) and complex (eg au-delà de)",
+              "children": []
+            },
+            {
+              "code": "3.3.10",
+              "title": "Conjunctions",
+              "level": 2,
+              "content": "Coordinating conjunctions (eg et, ou, mais)\nSubordinating conjunctions",
+              "children": []
+            },
+            {
+              "code": "3.3.11",
+              "title": "Negation",
+              "level": 2,
+              "content": "Use of negative particles (eg ne...pas, ne...personne, ne...que)\nUse of ne with negative subjects (eg Personne n’est venu)",
+              "children": []
+            },
+            {
+              "code": "3.3.12",
+              "title": "Questions",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "3.3.13",
+              "title": "Commands",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "3.3.14",
+              "title": "Word order",
+              "level": 2,
+              "content": "Inversion after speech",
+              "children": []
+            },
+            {
+              "code": "3.3.15",
+              "title": "Other constructions",
+              "level": 2,
+              "content": "Time expressions with depuis and il y a\nComparative constructions\nIndirect speech",
+              "children": []
+            },
+            {
+              "code": "3.3.16",
+              "title": "Discourse markers",
+              "level": 2,
+              "content": "(eg Au contraire, En fait)",
+              "children": []
+            },
+            {
+              "code": "3.3.17",
+              "title": "Fillers",
+              "level": 2,
+              "content": "(eg alors, bon)",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Works",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Literary texts and films",
+              "level": 2,
+              "content": "Students must study either one text or one film from the list below. Abridged editions should not be\nused.\nTexts\n- Molière Le Tartuffe\n- Voltaire Candide\n- Guy de Maupassant Boule de Suif et autres contes de la guerre\n- Albert Camus L’étranger\n- Françoise Sagan Bonjour tristesse\n- Claire Etcherelli Elise ou la vraie vie\n- Joseph Joffo Un sac de billes\n- Faïza Guène Kiffe kiffe demain\n- Philippe Grimbert Un secret\n- Delphine de Vigan No et moi\nFilms\n- Les 400 coups François Truffaut (1959)\n- Au revoir les enfants Louis Malle (1987)\n- La Haine Mathieu Kassovitz (1995)\n- L’auberge espagnole Cédric Klapisch (2002)\n- Un long dimanche de fiançailles Jean-Pierre Jeunet (2004)\n- Entre les murs Laurent Cantet (2008)",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

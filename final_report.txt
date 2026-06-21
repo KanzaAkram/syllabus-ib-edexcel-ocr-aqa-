@@ -1,0 +1,207 @@
+==============================================================================
+SYLLABUS GATHERING — FINAL REPORT (year-range convention)
+Generated: 2026-06-21
+==============================================================================
+
+1. TOTALS
+   PDF files on disk          : 349
+   Total size                 : 920.1 MB
+   CSV rows                   : 442  (downloaded/migrated 349 | NOT_FOUND 38 | NOT_OFFERED 55)
+   By status                  : CURRENT 242 | LEGACY 107
+
+2. FILES BY BOARD x QUALIFICATION TYPE
+   Board      Qual         Files
+   AQA        ALEVEL       41
+   AQA        AS           18
+   AQA        ELC          3
+   AQA        GCSE         41
+   Edexcel    ALEVEL       38
+   Edexcel    GCSE         41
+   Edexcel    IAL          10
+   Edexcel    IGCSE        26
+   Edexcel    ILOWERSEC    4
+   Edexcel    IPRIMARY     4
+   IB         DP           40
+   IB         MYP          1
+   IB         PYP          2
+   OCR        ALEVEL       42
+   OCR        CAMNAT       4
+   OCR        GCSE         34
+   ------------------------------
+   AQA        TOTAL        103
+   Edexcel    TOTAL        123
+   IB         TOTAL        43
+   OCR        TOTAL        80
+
+3. FILES BY FIRST-ASSESSMENT-YEAR
+   2005: 8
+   2006: 2
+   2008: 27
+   2009: 16
+   2010: 2
+   2011: 16
+   2012: 17
+   2013: 6
+   2014: 14
+   2015: 11
+   2016: 33
+   2017: 153
+   2018: 20
+   2019: 5
+   2020: 4
+   2021: 4
+   2022: 5
+   2024: 2
+   2025: 3
+   2027: 1
+
+4. YEAR-COVERAGE GAPS PER SUBJECT (years 2005-2026 with NO spec on disk, any board)
+   Art_and_Design           gaps: 2005-2008
+   Biology                  FULL 2005-2026 coverage
+   Business_Studies         FULL 2005-2026 coverage
+   Chemistry                FULL 2005-2026 coverage
+   Citizenship_Studies      gaps: 2005-2017
+   Combined_Science         gaps: 2005-2017
+   Computer_Science         gaps: 2005-2009
+   Design_and_Technology    gaps: 2005-2008
+   Drama                    gaps: 2005-2007
+   Economics                gaps: 2005-2007
+   English_Language         FULL 2005-2026 coverage
+   English_Literature       gaps: 2005-2007
+   Food_Preparation_and_Nutrition gaps: 2005-2017
+   French                   gaps: 2005-2007
+   Further_Mathematics      gaps: 2005-2010
+   Geography                gaps: 2005-2007
+   German                   gaps: 2005-2016
+   History                  gaps: 2005-2007
+   Mathematics              FULL 2005-2026 coverage
+   Media_Studies            gaps: 2005-2008
+   Music                    gaps: 2005
+   Physical_Education       gaps: 2005-2007
+   Physics                  FULL 2005-2026 coverage
+   Polish                   gaps: 2005-2017
+   Politics                 gaps: 2005-2007
+   Psychology               FULL 2005-2026 coverage
+   Religious_Studies        gaps: 2005-2008
+   Sociology                gaps: 2005-2007
+   Spanish                  gaps: 2005-2010
+   Statistics               gaps: 2005-2010
+
+5. NOT_OFFERED (per board)
+   AQA        GCSE       Art_and_Design         4200     NOT_OFFERED: Legacy specification code 4200 was replaced by codes 8201
+   AQA        ALEVEL     Art_and_Design         2200     NOT_OFFERED: Legacy specification code 2200 cannot be confirmed. Curre
+   AQA        GCSE       Biology                4401     NOT_OFFERED: NOT_OFFERED: Superseded by specification 8461 in Septembe
+   AQA        GCSE       Chemistry              4402     NOT_OFFERED_ON_OFFICIAL_FILESTORE: Legacy GCSE specification (4402) is
+   AQA        GCSE       Design_and_Technology  4550     NOT_OFFERED: Legacy GCSE specification code 4550 (Graphic Products var
+   AQA        ALEVEL     Design_and_Technology  2550     NOT_OFFERED: Legacy A-Level specification code 2550 (Product Design 3D
+   AQA        GCSE       English_Literature     4710     NOT_OFFERED: Legacy specification 4710 is no longer available on AQA's
+   AQA        ALEVEL     English_Literature     2710     NOT_OFFERED: Legacy specification code 2710 not found in any accessibl
+   AQA        GCSE       French                 4655     NOT_OFFERED: Legacy GCSE French specification 4655 (2009-2016) is not 
+   AQA        ALEVEL     French                 2650     NOT_OFFERED: Legacy A-Level French specification 2650 (2005-2016) is n
+   AQA        ALEVEL     Further_Mathematics    5371     NOT_OFFERED: AQA specification code 5371 does not exist. The legacy AQ
+   AQA        GCSE       Geography              4030     NOT_OFFERED: This GCSE Geography specification code (4030) was replace
+   AQA        ALEVEL     Geography              2030     NOT_OFFERED: This A-Level Geography specification (2030) was offered t
+   AQA        GCSE       History                4040     NOT_OFFERED: Extensive search did not locate specification PDF or page
+   AQA        ALEVEL     History                1041     NOT_OFFERED: Extensive search did not locate specification PDF or page
+   AQA        GCSE       Mathematics            3301     NOT_OFFERED: NOT_OFFERED: Intermediate tier specification (linear) for
+   AQA        GCSE       Mathematics            4360     NOT_OFFERED: NOT_OFFERED: Unitised (modular) GCSE Mathematics specific
+   AQA        ALEVEL     Mathematics            5361     NOT_OFFERED: NOT_OFFERED: Superseded by specification 6360 and later 7
+   AQA        ALEVEL     Media_Studies          2570     NOT_OFFERED: A-Level Media Studies code 2570 is a legacy specification
+   AQA        GCSE       Music                  4270     NOT_OFFERED: Legacy specification code 4270 was discontinued after Jun
+   AQA        ALEVEL     Music                  2270     NOT_OFFERED: Legacy specification code 2270 was discontinued after 201
+   AQA        GCSE       Religious_Studies      4050     NOT_OFFERED: Legacy GCSE Religious Studies code 4050 (2009-2016) is no
+   AQA        ALEVEL     Religious_Studies      2060     NOT_OFFERED: Legacy A-level Religious Studies code 2060 (2005-2016) is
+   AQA        GCSE       Sociology              4190     NOT_OFFERED or ARCHIVED: Legacy AQA GCSE Sociology 4190 specification 
+   AQA        ALEVEL     Sociology              2190     NOT_OFFERED or ARCHIVED: Legacy AQA A-level Sociology 2190 specificati
+   AQA        GCSE       Spanish                4695     NOT_OFFERED_PUBLICLY: Specification 4695 was offered 2009-2016, confir
+   AQA        ALEVEL     Spanish                2690     NOT_OFFERED: Code 2690 not found on any official AQA sources. No speci
+   AQA        GCSE       Statistics             4310     NOT_OFFERED: Legacy qualification 4310 is confirmed to exist on AQA Al
+   Edexcel    ALEVEL     Art_and_Design         8AR01    NOT_OFFERED: Specification code 8AR01 does not exist in Edexcel system
+   Edexcel    IGCSE      Art_and_Design         4AR0     NOT_OFFERED: Specification code 4AR0 does not exist. IGCSE Art and Des
+   Edexcel    IGCSE      Art_and_Design         4AR1     NOT_OFFERED: Specification code 4AR1 does not exist. IGCSE Art and Des
+   Edexcel    ALEVEL     Computer_Science       8CP01    NOT_OFFERED: Edexcel does not offer UK A Level Computer Science. Legac
+   Edexcel    ALEVEL     Computer_Science       9CP0     NOT_OFFERED: Edexcel does not offer UK A Level Computer Science. Code 
+   Edexcel    IGCSE      Computer_Science       4CP1     NOT_OFFERED: Code 4CP1 does not exist. Edexcel IGCSE Computer Science 
+   Edexcel    IGCSE      Drama                  4DR0     NOT_OFFERED: Specification code 4DR0 could not be found in Edexcel/Pea
+   Edexcel    IGCSE      Drama                  4DR1     NOT_OFFERED: Specification code 4DR1 could not be found in Edexcel/Pea
+   Edexcel    ALEVEL     English_Language       8EN01    NOT_OFFERED: Specification archived and removed from qualifications.pe
+   Edexcel    IGCSE      English_Literature     4ET0     NOT_OFFERED: The official qualification page returns a 404 error. Firs
+   Edexcel    IGCSE      Mathematics            4400     NOT_OFFERED: NOT_OFFERED: Specification code 4400 is legacy modular IG
+   Edexcel    ALEVEL     Media_Studies          9MD0     NOT_OFFERED: After extensive searching of Pearson/Edexcel qualificatio
+   Edexcel    IGCSE      Music                  4MU0     NOT_OFFERED: Extensive searches of qualifications.pearson.com, Ofqual 
+   Edexcel    IGCSE      Music                  4MU1     NOT_OFFERED: Extensive searches of qualifications.pearson.com, Ofqual 
+   Edexcel    ALEVEL     Sociology              8SO01    NOT_OFFERED: No evidence found of this specification on Pearson qualif
+   Edexcel    ALEVEL     Sociology              9SO0     NOT_OFFERED: Third-party sites reference Edexcel A-Level Sociology, bu
+   Edexcel    ALEVEL     Spanish                8SP01    NOT_OFFERED: Spec code 8SP01 not found. Legacy A-level specifications 
+   IB         DP         Drama                  NA       NOT_OFFERED: Legacy IB DP Drama specification (code NA, first assessme
+   OCR        ALEVEL     Drama                  F641     NOT_OFFERED: OCR F641 Drama specification (2009-2016) with units F641-
+   OCR        ALEVEL     French                 H455     NOT_OFFERED: OCR H455 does not exist. OCR's A Level French codes were 
+   OCR        GCSE       French                 J242     NOT_OFFERED: J242 is the GCSE code for Additional Science A, not Frenc
+   OCR        ALEVEL     Physical_Education     F453     NOT_OFFERED: OCR F453 does not exist for Physical Education. The legac
+   OCR        CAMNAT     Physical_Education     J832     NOT_OFFERED: J832 is OCR Cambridge Nationals Engineering Manufacture, 
+   OCR        ALEVEL     Physics                H558     NOT_OFFERED: H558 is legacy code (2013 specification). The 2017 onward
+   OCR        ALEVEL     Politics               H410     NOT_OFFERED: OCR does not offer an A Level Politics qualification. OCR
+   OCR        ALEVEL     Spanish                H453     NOT_OFFERED: OCR withdrew from Spanish A Level qualifications in May 2
+   OCR        GCSE       Spanish                J243     NOT_OFFERED: J243 is the specification code for OCR GCSE Biology A, no
+
+6. FAILED DOWNLOADS — for manual retry (URL in CSV Source_URL)
+   AQA        GCSE       Art_and_Design         8201     
+   AQA        GCSE       Art_and_Design         8202     
+   AQA        GCSE       Art_and_Design         8203     
+   AQA        GCSE       Art_and_Design         8204     
+   AQA        GCSE       Art_and_Design         8205     
+   AQA        GCSE       Art_and_Design         8206     
+   AQA        AS         Biology                7401     
+   AQA        AS         Business_Studies       7131     
+   AQA        AS         Chemistry              7404     
+   AQA        GCSE       Computer_Science       4510     
+   AQA        AS         Computer_Science       7516     
+   AQA        GCSE       Drama                  4240     https://revisionworld.com/drama-4240-aqa-gcse-208
+   AQA        ALEVEL     Drama                  2240     https://www.scribd.com/document/427696738/AQA-2240-W-SP-14
+   AQA        ALEVEL     Economics              2140     https://pastpapersguru.com/Directory/AQA/AQA%20A%20Level/Eco
+   AQA        AS         Economics              7135     
+   AQA        GCSE       English_Language       4700     
+   AQA        AS         English_Language       7701     
+   AQA        AS         English_Literature     7711     
+   AQA        AS         English_Literature     7716     
+   AQA        AS         History                7041     
+   AQA        GCSE       Physical_Education     4890     https://www.aqa.org.uk/subjects/physical-education
+   AQA        ALEVEL     Physical_Education     2580     https://www.aqa.org.uk/subjects/physical-education
+   AQA        GCSE       Physics                4403     https://pdfcoffee.com/download/aqa-phys-w-sp-14-pdf-free.htm
+   AQA        AS         Physics                7407     
+   AQA        ALEVEL     Politics               2150     https://filestore.aqa.org.uk/resources/politics/specificatio
+   AQA        AS         Psychology             7181     
+   AQA        AS         Sociology              7191     
+   Edexcel    ALEVEL     Design_and_Technology  8DE01    
+   Edexcel    ALEVEL     Religious_Studies      8RS01    https://qualifications.pearson.com/en/qualifications/edexcel
+   IB         DP         Art_and_Design         NA       
+   IB         DP         Chemistry              NA       
+   IB         DP         Chemistry              NA       
+   IB         DP         Economics              NA       
+   IB         DP         French                 NA       
+   IB         DP         Media_Studies          NA       
+   IB         DP         Media_Studies          NA       
+   IB         DP         Spanish                NA       
+   OCR        GCSE       History                J417     https://www.ocr.org.uk/qualifications/gcse/history-b-modern-
+
+7. FOLDER TREE — file counts per board/qual
+   AQA/
+     AS_Level/  (18 pdf)
+     A_Level/  (41 pdf)
+     Entry_Level_Certificate/  (3 pdf)
+     GCSE/  (41 pdf)
+   Edexcel/
+     A_Level/  (38 pdf)
+     GCSE/  (41 pdf)
+     IGCSE/  (26 pdf)
+     International_A_Level/  (10 pdf)
+     iLowerSecondary/  (4 pdf)
+     iPrimary/  (4 pdf)
+   IB/
+     DP/  (40 pdf)
+     MYP/  (1 pdf)
+     PYP/  (2 pdf)
+   OCR/
+     A_Level/  (42 pdf)
+     Cambridge_Nationals/  (4 pdf)
+     GCSE/  (34 pdf)

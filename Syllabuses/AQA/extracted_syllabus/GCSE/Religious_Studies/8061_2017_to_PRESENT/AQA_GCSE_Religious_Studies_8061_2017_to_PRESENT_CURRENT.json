@@ -1,0 +1,174 @@
+{
+  "source_pdf": "GCSE/Religious_Studies/8061_2017_to_PRESENT/AQA_GCSE_Religious_Studies_8061_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Religious Studies",
+  "spec_code": "8061",
+  "pdf_name": "AQA_GCSE_Religious_Studies_8061_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Section A: The study of religions: beliefs and teachings",
+          "level": 1,
+          "content": "Students should study two of the following:\n- Christianity\n- Islam\n- Judaism\n- Buddhism.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Christianity",
+              "level": 2,
+              "content": "Students should be aware that Christianity is one of the diverse religious traditions and beliefs in\nGreat Britain today and that the main religious tradition in Great Britain is Christianity. This\nknowledge may be applied throughout the assessment of the specified content.\nStudents should study the beliefs and teachings of Christianity specified below and their basis in\nChristian sources of wisdom and authority. They should be able to refer to scripture and/or sacred\ntexts where appropriate. Some texts are prescribed for study in the content set out below and\nquestions may be set on them. Students may refer to any relevant text in their answers and AQA\nwill publish a list of appropriate texts as part of the supporting material for this specification. These\nadditional texts will not be required for study, alternatives may be used, and questions will not be\nset on them.\nStudents should study the influence of the beliefs and teachings studied on individuals,\ncommunities and societies.\nCommon and divergent views within Christianity in the way beliefs and teachings are understood\nand expressed should be included throughout. Students may refer to a range of different Christian\nperspectives in their answers including Catholic, Orthodox and Protestant. They must study the\nspecific differences identified below.",
+              "children": [
+                {
+                  "code": "3.1.1.1",
+                  "title": "Key beliefs",
+                  "level": 3,
+                  "content": "- The nature of God:\n- God as omnipotent, loving and just, and the problem of evil and suffering\n- the oneness of God and the Trinity: Father, Son and Holy Spirit.\n- Different Christian beliefs about creation including the role of Word and Spirit (John 1:1-3 and\nGenesis 1:1-3).\n- Different Christian beliefs about the afterlife and their importance, including: resurrection and\nlife after death; judgement, heaven and hell.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.2",
+                  "title": "Jesus Christ and salvation",
+                  "level": 3,
+                  "content": "- Beliefs and teachings about:\n- the incarnation and Jesus as the Son of God\n- the crucifixion, resurrection and ascension\n- sin, including original sin\n- the means of salvation, including law, grace and Spirit\n- the role of Christ in salvation including the idea of atonement.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Islam",
+              "level": 2,
+              "content": "Students should be aware that Islam is one of the diverse religious traditions and beliefs in Great\nBritain today and that the main religious tradition in Great Britain is Christianity. This knowledge\nmay be applied throughout the assessment of the specified content.\nStudents should study the beliefs and teachings of Islam specified below and their basis in Islamic\nsources of wisdom and authority. They should be able to refer to scripture and other writings where\nappropriate. Some texts are prescribed for study in the content set out below and questions may\nbe set on them. Students may refer to any relevant text in their answers and AQA will publish a list\nof appropriate texts as part of the supporting material for this specification. These additional texts\nwill not be required for study, alternatives may be used, and questions will not be set on them.\nStudents should study the influence of the beliefs and teachings studied on individuals,\ncommunities and societies.\nCommon and divergent views within Islam in the way beliefs and teachings are understood and\nexpressed should be included throughout. Students may refer to a range of different Muslim\nperspectives in their answers, including those from Sunni and Shi’a Islam. They must study the\nspecific differences identified below.",
+              "children": [
+                {
+                  "code": "3.1.2.1",
+                  "title": "Key beliefs",
+                  "level": 3,
+                  "content": "- The six articles of faith in Sunni Islam and five roots of ‘Usul ad-Din in Shi’a Islam, including\nkey similarities and differences.\n- Tawhid (the Oneness of God), Qur'an Surah 112.\n- The nature of God: omnipotence, beneficence, mercy, fairness and justice/Adalat in Shi’a\nIslam, including different ideas about God’s relationship with the world: immanence and\ntranscendence.\n- Angels, their nature and role, including Jibril and Mika’il.\n- Predestination and human freedom and its relationship to the Day of Judgement.\n- Akhirah (life after death), human responsibility and accountability, resurrection, heaven and\nhell.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.2",
+                  "title": "Authority",
+                  "level": 3,
+                  "content": "- Risalah (Prophethood) including the role and importance of Adam, Ibrahim and Muhammad.\n- The holy books:\n- Qur’an: revelation and authority\n- the Torah, the Psalms, the Gospel, the Scrolls of Abraham and their authority.\n- The imamate in Shi'a Islam: its role and significance.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Judaism",
+              "level": 2,
+              "content": "Students should be aware that Judaism is one of the diverse religious traditions and beliefs in\nGreat Britain today and that the main religious tradition in Great Britain is Christianity. This\nknowledge may be applied throughout the assessment of the specified content.\nStudents should study the beliefs and teachings of Judaism specified below and their basis in\nJewish sources of wisdom and authority. They should be able to refer to scripture and/or sacred\ntexts where appropriate. Some texts are prescribed for study in the content set out below and\nquestions may be set on them. Students may refer to any relevant text in their answers and AQA\nwill publish a list of appropriate texts as part of the supporting material for this specification. These\nadditional texts will not be required for study, alternatives may be used, and questions will not be\nset on them.\nStudents should study the influence of the beliefs and teachings studied on individuals,\ncommunities and societies.\nCommon and divergent views within Judaism in the way beliefs and teachings are understood and\nexpressed should be included throughout. Students may refer to a range of different Jewish\nperspectives in their answers, for example, Orthodox, Reform and Liberal Judaism. They must also\nstudy the differences identified below.",
+              "children": [
+                {
+                  "code": "3.1.3.1",
+                  "title": "Key beliefs",
+                  "level": 3,
+                  "content": "- The nature of God:\n- God as one\n- God as Creator\n- God as Law-Giver and Judge, loving and merciful.\n- The divine presence (Shekhinah).\n- Beliefs about life after death, including judgement and resurrection.\n- The nature and role of the Messiah, including different views on the role and importance of\nthe Messiah.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.2",
+                  "title": "The Covenant and the mitzvot",
+                  "level": 3,
+                  "content": "- The promised land and the Covenant with Abraham, Genesis 12:1-3.\n- The Covenant at Sinai and its importance including the role of Moses and the Ten\nCommandments, Exodus 20:1-17.\n- Key moral principles including justice, healing the world, charity and kindness to others.\n- The importance of the sanctity of human life, including the concept of ‘saving a life’ (Pikuach\nNefesh).\n- The relationship between free will and the 613 mitzvot.\n- Mitzvot between man and God and mitzvot between man and man, including the difference\nbetween them and their importance.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.4",
+              "title": "Buddhism",
+              "level": 2,
+              "content": "Students should be aware that Buddhism is one of the diverse religious traditions and beliefs in\nGreat Britain today and that the main religious tradition in Great Britain is Christianity. This\nknowledge may be applied throughout the assessment of the specified content.\nStudents should study the beliefs, teachings and practices of Buddhism specified below and their\nbasis in Buddhist sources of wisdom and authority. They should be able to refer to scripture and/or\nsacred texts where appropriate. Some texts are prescribed for study in the content set out below\nand questions may be set on them. Students may refer to any relevant text in their answers and\nAQA will publish a list of appropriate texts as part of the supporting material for this specification.\nThese additional texts will not be required for study, alternatives may be used, and questions will\nnot be set on them.\nStudents should study the influence of the beliefs, teachings and practices studied on individuals,\ncommunities and societies.\nCommon and divergent views within Buddhism in the way beliefs and teachings are understood\nand expressed should be included throughout. Students may refer to a range of Buddhist\nperspectives in their answers, for example, Theravada, Mahayana, Zen and Pure Land. They must\nstudy the specific differences identified below.",
+              "children": [
+                {
+                  "code": "3.1.4.1",
+                  "title": "Key Beliefs",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "The Dhamma (Dharma)",
+                      "level": 4,
+                      "content": "- The concept of Dhamma (Dharma).\n- The concept of dependent arising (paticcasamupada).\n- The Three Marks of Existence:\n- anicca (impermanence)\n- anatta (no fixed self)\n- dukkha (unsatisfactoriness of life, suffering).\n- The human personality, in the Theravada and Mahayana traditions:\n- Theravada: the Five Aggregates (skandhas) of form, sensation, perception, mental\nformations, consciousness\n- Mahayana: sunyata, the possibility of attaining Buddhahood and Buddha-nature.\n- Human destiny:\n- different ideals in Theravada and Mahayana traditions: Arhat (a ‘perfected person’) and\nBodhisattva ideals\n- Buddhahood and the Pure Land.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.1.4.2",
+                  "title": "The Buddha and the Four Noble Truths",
+                  "level": 3,
+                  "content": "- The Buddha’s life and its significance:\n- the birth of the Buddha and his life of luxury\n- the Four Sights: illness, old age, death, holy man (Jataka 075)\n- the Buddha’s ascetic life\n- the Buddha’s Enlightenment.\n- The Four Noble Truths:\n- suffering (dukkha) including different types of suffering\n- the causes of suffering (samudaya); the Three Poisons, ignorance, greed and hate\n- the end of craving (tanha), interpretations of nibbana (nirvana) and Enlightenment\n- the Eightfold Path (magga) to nibbana/nirvana; the pathas the Threefold Way: ethics (sila),\nmeditation (samadhi) and wisdom (panna). Dhammapada 190–191.\n- Ethical teachings:\n- kamma (karma) and rebirth\n- compassion (karuna)\n- loving kindness (metta)\n- the five moral precepts:\n- do not take life\n- do not take what is given\n- do not misuse the senses\n- do not speak falsehoods\n- do not take intoxicants that cloud the mind.\n- the six perfections in the Mahayanan tradition:\n- generosity\n- morality\n- patience\n- energy\n- meditation\n- wisdom, including how the individuals develop these perfections within themselves.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Section B: Thematic studies: religious, philosophical and ethical studies",
+          "level": 1,
+          "content": "Students should study both Theme A: Relationships and families and Theme B: Religion, peace\nand conflict.\nStudents should study religious and non-religious beliefs, such as atheism and humanism, in\ncontemporary British society about the issues raised.\nIn addition, students must also study religious, philosophical and ethical arguments related to the\nissues raised, and their impact and influence on the modern world.\nStudents will be expected to show their understanding of religion through the application of\nteachings from religion and beliefs. They will also be expected to make specific references to\nsources of wisdom and authority including scripture and/or sacred texts. They may refer to any\nrelevant religious text such as the Pali Canon, the sermons of the Buddha, the Bible, the\nCatechism of the Catholic Church, the Vedas and Upanishads, the Qur’an and Hadith, the Torah\nand Talmud, and the Guru Granth Sahib.\nAs part of the supporting material for this specification, AQA will publish a list of appropriate texts.\nThese will not be required for study, alternatives may be used and no questions will be set on\nthem.\nStudents should be able to demonstrate the knowledge that and understanding that:\n- the religious traditions of Great Britain are, in the main, Christian\n- the religious traditions in Great Britain are diverse.\nStudents may draw on Christianity, Buddhism, Hinduism, Islam, Judaism and Sikhism as well as\nother religious and non religious beliefs such as atheism and humanism.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Theme A: Relationships and families",
+              "level": 2,
+              "content": "Students should study religious teachings, and religious, philosophical and ethical arguments,\nrelating to the issues that follow, and their impact and influence in the modern world. They should\nbe aware of contrasting perspectives in contemporary British society on all of these issues.\nThey must be able to explain contrasting beliefs on the following three issues with reference to the\nmain religious tradition in Britain (Christianity) and a contrasting belilef:\n- Contraception.\n- Sexual relationships before marriage.\n- Homosexual relationships.",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "Sex, marriage and divorce",
+                  "level": 3,
+                  "content": "- Human sexuality including: heterosexual and homosexual relationships.\n- Sexual relationships before and outside of marriage.\n- Contraception and family planning.\n- The nature and purpose of marriage.\n- Same-sex marriage and cohabitation.\n- Divorce, including reasons for divorce, and remarrying.\n- Ethical arguments related to divorce, including those based on the sanctity of marriage vows\nand compassion.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Families and gender equality",
+                  "level": 3,
+                  "content": "- The nature of families, including:\n- the role of parents and children\n- extended families and the nuclear family.\n- The purpose of families, including:\n- procreation\n- stability and the protection of children\n- educating children in a faith.\n- Contemporary family issues including:\n- same-sex parents\n- polygamy.\n- The roles of men and women.\n- Gender equality.\n- Gender prejudice and discrimination, including examples.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "Theme B: Religion, peace and conflict",
+              "level": 2,
+              "content": "Students should study religious teachings, and religious, philosophical and ethical arguments,\nrelating to the issues that follow, and their impact and influence in the modern world. They should\nbe aware of contrasting perspectives in contemporary British society on all of these issues.\nOn the following three issues they must be able to explain a belief from the main religious tradition\nin Britain (Christianity) and a contrasting belief:\n- Violence.\n- Weapons of mass destruction.\n- Pacifism.",
+              "children": [
+                {
+                  "code": "3.2.2.1",
+                  "title": "Religion, violence, terrorism and war",
+                  "level": 3,
+                  "content": "- The meaning and significance of:\n- peace\n- justice\n- forgiveness\n- reconciliation.\n- Violence, including violent protest.\n- Terrorism.\n- Reasons for war, including greed, self-defence and retaliation.\n- The just war theory, including the criteria for a just war.\n- Holy war.\n- Pacifism.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.2",
+                  "title": "Religion and belief in 21st century conflict",
+                  "level": 3,
+                  "content": "- Religion and belief as a cause of war and violence in the contemporary world.\n- Nuclear weapons, including nuclear deterrence.\n- The use of weapons of mass destruction.\n- Religion and peace-making in the contemporary world including the work of individuals\ninfluenced by religious teaching.\n- Religious responses to the victims of war including the work of one present day religious\norganisation.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

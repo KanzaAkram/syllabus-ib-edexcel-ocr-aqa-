@@ -1,0 +1,1323 @@
+[
+  {
+    "segment": "aqa-gcse",
+    "entries": [
+      {
+        "subject": "Mathematics",
+        "spec_code": "8300",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/mathematics/specifications/AQA-8300-SP-2015.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/mathematics/gcse/mathematics-8300/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (807.4KB, matches AQA page's stated 807.43KB). First teaching 2015."
+      },
+      {
+        "subject": "Psychology",
+        "spec_code": "8182",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/psychology/specifications/AQA-8182-SP-2017.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/psychology/gcse/psychology-8182/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (683.6KB, matches AQA page's stated 683.58KB). First teaching 2017."
+      },
+      {
+        "subject": "Biology",
+        "spec_code": "8461",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/biology/specifications/AQA-8461-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/science/gcse/biology-8461/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (829.5KB, matches AQA page's stated 829.54KB). First teaching 2016."
+      },
+      {
+        "subject": "Chemistry",
+        "spec_code": "8462",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/chemistry/specifications/AQA-8462-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/science/gcse/chemistry-8462/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (2.6MB). First teaching 2016."
+      },
+      {
+        "subject": "Further_Mathematics",
+        "spec_code": "8365",
+        "year": "2018",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/mathematics/specifications/AQA-8365-SP-2018.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/mathematics/aqa-certificate/mathematics-8365/specification",
+        "confidence": "high",
+        "notes": "AQA Level 2 Certificate in Further Mathematics (nearest equivalent to GCSE; AQA has no separate GCSE Further Maths). Correct path is SP-2018, not 2015. Verified via search; filestore path confirmed by web search result."
+      },
+      {
+        "subject": "History",
+        "spec_code": "8145",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/history/specifications/AQA-8145-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/history/gcse/history-8145/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (847.9KB). First teaching 2016."
+      },
+      {
+        "subject": "Physics",
+        "spec_code": "8463",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/physics/specifications/AQA-8463-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/science/gcse/physics-8463/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (1.9MB). First teaching 2016."
+      },
+      {
+        "subject": "English_Literature",
+        "spec_code": "8702",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/english/specifications/AQA-8702-SP-2015.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/english/gcse/english-literature-8702/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (758.5KB). Subject slug is 'english'. First teaching 2015."
+      },
+      {
+        "subject": "English_Language",
+        "spec_code": "8700",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/english/specifications/AQA-8700-SP-2015.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/english/gcse/english-language-8700/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (2.2MB). Subject slug is 'english'. First teaching 2015."
+      },
+      {
+        "subject": "Geography",
+        "spec_code": "8035",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/geography/specifications/AQA-8035-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (846.2KB). First teaching 2016."
+      },
+      {
+        "subject": "Sociology",
+        "spec_code": "8192",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/sociology/specifications/AQA-8192-SP-2017.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/sociology/gcse/sociology-8192/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (2MB). First teaching 2017."
+      },
+      {
+        "subject": "Art_and_Design",
+        "spec_code": "8201",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/art-and-design/specifications/AQA-ART-GCSE-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/art-and-design/gcse/art-and-design-8201/specification",
+        "confidence": "high",
+        "notes": "Single spec covers titles 8201-8206 (Art craft & design, Fine art, Graphic comm, Textile, 3D design, Photography). Filename is AQA-ART-GCSE-SP-2016 (not numeric). Verified to load (1MB). First teaching 2016."
+      },
+      {
+        "subject": "Business_Studies",
+        "spec_code": "8132",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/business/specifications/AQA-8132-SP-2017.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/business/gcse/business-8132/specification",
+        "confidence": "high",
+        "notes": "AQA title is 'GCSE Business' (code 8132). Filestore slug is 'business' (not 'business-subjects'). Verified to load (1.1MB). First teaching 2017."
+      },
+      {
+        "subject": "Economics",
+        "spec_code": "8136",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/economics/specifications/AQA-8136-SP-2017.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/economics/gcse/economics-8136/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (1.1MB). First teaching 2017."
+      },
+      {
+        "subject": "Computer_Science",
+        "spec_code": "8525",
+        "year": "2025",
+        "status": "CURRENT",
+        "pdf_url": "https://cdn.sanity.io/files/p28bar15/green/28f4f0d160b28d28dce8fb3b50304bbdbd305b1d.pdf",
+        "page_url": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification",
+        "confidence": "medium",
+        "notes": "New 8525 spec first teaching September 2025 (now current). AQA serves it via Sanity CDN (verified 900.6KB, matches page's 900.65KB); the filestore path AQA-8525-SP-2025/2027.PDF does not resolve, so CDN link used. Not on filestore.aqa.org.uk under a predictable name yet."
+      },
+      {
+        "subject": "Computer_Science",
+        "spec_code": "8525",
+        "year": "2020",
+        "status": "LEGACY",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/computing/specifications/AQA-8525-SP-2020.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/computer-science/gcse/computer-science-8525/specification",
+        "confidence": "high",
+        "notes": "Previous 8525 spec, first teaching 2020 (last exams before 2025 reform). Filestore slug is 'computing'. Verified to load (946.4KB)."
+      },
+      {
+        "subject": "Religious_Studies",
+        "spec_code": "8062",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/rs/specifications/AQA-8062-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/religious-studies/gcse/religious-studies-a-8062/specification",
+        "confidence": "high",
+        "notes": "Religious Studies A (8062). Filestore slug is 'rs'. Verified to load (1.4MB). First teaching 2016. AQA also offers Religious Studies B (8063)."
+      },
+      {
+        "subject": "Spanish",
+        "spec_code": "8692",
+        "year": "2024",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/spanish/specifications/AQA-8692-SP-2024.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/spanish/gcse/spanish-8692/specification",
+        "confidence": "high",
+        "notes": "Reformed MFL spec, first teaching September 2024, first exams 2026 (code 8692 retained). Correct path is SP-2024 not 2016. Verified to load (1.8MB)."
+      },
+      {
+        "subject": "French",
+        "spec_code": "8652",
+        "year": "2024",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/french/specifications/AQA-8652-SP-2024.pdf",
+        "page_url": "https://www.aqa.org.uk/subjects/french/gcse/french-8652/specification",
+        "confidence": "high",
+        "notes": "Reformed MFL spec, first teaching September 2024, first exams 2026 (code 8652 retained). File extension is lowercase .pdf on filestore. Verified to load (1.7MB)."
+      },
+      {
+        "subject": "Politics",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered. AQA offers Politics only at AS/A-level (7151/7152), not at GCSE. Confirmed via search of aqa.org.uk/subjects/politics."
+      },
+      {
+        "subject": "Physical_Education",
+        "spec_code": "8582",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/pe/specifications/AQA-8582-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/physical-education/gcse/physical-education-8582/specification",
+        "confidence": "high",
+        "notes": "Filestore slug is 'pe'. Verified to load (1.5MB). First teaching 2016."
+      },
+      {
+        "subject": "Music",
+        "spec_code": "8271",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/music/specifications/AQA-8271-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/music/gcse/music-8271/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (1.2MB). First teaching 2016."
+      },
+      {
+        "subject": "Drama",
+        "spec_code": "8261",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/drama/specifications/AQA-8261-SP-2016.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/drama/gcse/drama-8261/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (756.1KB). First teaching 2016."
+      },
+      {
+        "subject": "Design_and_Technology",
+        "spec_code": "8552",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/design-and-technology/specifications/AQA-8552-SP-2017.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/design-and-technology/gcse/design-and-technology-8552/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (1.2MB). First teaching 2017."
+      },
+      {
+        "subject": "Statistics",
+        "spec_code": "8382",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/mathematics/specifications/AQA-8382-SP-2017.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/mathematics/gcse/statistics-8382/specification",
+        "confidence": "high",
+        "notes": "GCSE Statistics (8382). Filestore slug is 'mathematics' (not 'statistics'). Verified to load (796.2KB). First teaching 2017."
+      },
+      {
+        "subject": "Media_Studies",
+        "spec_code": "8572",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://filestore.aqa.org.uk/resources/media-studies/specifications/AQA-8572-SP-2017.PDF",
+        "page_url": "https://www.aqa.org.uk/subjects/media-studies/gcse/media-studies-8572/specification",
+        "confidence": "high",
+        "notes": "Filestore PDF verified to load (631.3KB). First teaching 2017."
+      }
+    ]
+  },
+  {
+    "segment": "edexcel-alevel"
+  },
+  {
+    "segment": "edexcel-gcse",
+    "entries": [
+      {
+        "subject": "Mathematics",
+        "spec_code": "1MA1",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/mathematics/2015/specification-and-sample-assesment/gcse-maths-2015-specification.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/mathematics-2015.html",
+        "confidence": "high",
+        "notes": "Verified: HEAD returns 200 application/pdf. Edexcel GCSE (9-1) Mathematics 1MA1, first teaching Sept 2015."
+      },
+      {
+        "subject": "Psychology",
+        "spec_code": "1PY0",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Psychology/2017/Specification%20and%20sample%20assessments/gcse-psychology-specification.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/psychology-2017.html",
+        "confidence": "high",
+        "notes": "Offered. Verified PDF HEAD 200 application/pdf. First teaching Sept 2017, first assessment 2019. Code 1PY0."
+      },
+      {
+        "subject": "Biology",
+        "spec_code": "1BI0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-biology-spec.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/sciences-2016.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Biology 1BI0, first teaching Sept 2016."
+      },
+      {
+        "subject": "Chemistry",
+        "spec_code": "1CH0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-chemistry-spec.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/sciences-2016.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Chemistry 1CH0, first teaching Sept 2016."
+      },
+      {
+        "subject": "Further_Mathematics",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered - Edexcel/Pearson does not offer a GCSE or Level 2 Certificate in Further Mathematics. They offer a 'Level 2 Extended Mathematics Certificate' (not a GCSE); the Level 2 Certificate in Further Maths is an AQA qualification."
+      },
+      {
+        "subject": "History",
+        "spec_code": "1HI0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/History/2016/specification-and-sample-assessments/gcse-9-1-history-specification.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/history-2016.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) History 1HI0, first teaching Sept 2016."
+      },
+      {
+        "subject": "Physics",
+        "spec_code": "1PH0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Science/2016/Specification/gcse-physics-spec.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/sciences-2016.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Physics 1PH0, first teaching Sept 2016."
+      },
+      {
+        "subject": "English_Literature",
+        "spec_code": "1ET0",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Literature/2015/specification-and-sample-assesment/9781446914359_GCSE_2015_L12_Englit.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/english-literature-2015.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) English Literature 1ET0, first teaching Sept 2015."
+      },
+      {
+        "subject": "English_Language",
+        "spec_code": "1EN0",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/English%20Language/2015/specification-and-sample-assesment/gcse-2015-englang-spec.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/english-language-2015.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) English Language 1EN0, first teaching 2015. Note: a parallel 'English Language 2.0' (1EA0, 2021) also exists, but the 2015 1EN0 remains the live standard offering."
+      },
+      {
+        "subject": "Geography",
+        "spec_code": "1GA0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Geography-A/2016/specification-and-sample-assessments/gcse-2016-l12-geography-a-spec.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/geography-a-2016.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Geography A 1GA0, first teaching 2016. (Geography B 1GB0 also offered.)"
+      },
+      {
+        "subject": "Sociology",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered - Pearson/Edexcel does not offer a GCSE (9-1) Sociology. GCSE Sociology is offered by AQA (8192) and Eduqas only."
+      },
+      {
+        "subject": "Art_and_Design",
+        "spec_code": "1AD0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Art%20and%20Design/2016/specification-and-sample-assessments/specification-gcse-art-design-2016-spec.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/art-and-design-2016.html",
+        "confidence": "high",
+        "notes": "Offered. Verified PDF HEAD 200 application/pdf. Edexcel GCSE (9-1) Art and Design 1AD0 (six endorsed titles), first teaching 2016, first assessment 2018."
+      },
+      {
+        "subject": "Business_Studies",
+        "spec_code": "1BS0",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Business/2017/specification-and-sample-assessments/gcse-business-spec-2017.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/business-2017.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Business 1BS0, first teaching 2017, first assessment 2019."
+      },
+      {
+        "subject": "Economics",
+        "spec_code": "1EC0",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/economics-2017.html",
+        "confidence": "low",
+        "notes": "Offered: Edexcel GCSE (9-1) Economics 1EC0, first teaching 2017, first assessment 2019 (confirmed via multiple secondary sources, formula-sheet refs, and exam-materials). Could NOT verify the direct specification PDF path: every guessed /content/dam/.../Economics/2017/... .pdf URL returned a soft-404 (HTTP 200 text/html), and search only surfaced the International GCSE 4EC1 spec. page_url given is the conventional slug but returned a 404 on fetch, so treat as unverified."
+      },
+      {
+        "subject": "Computer_Science",
+        "spec_code": "1CP2",
+        "year": "2020",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Computer%20Science/2020/specification-and-sample-assessments/GCSE_L1_L2_Computer_Science_2020_Specification.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/computer-science-2020.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Current Edexcel GCSE (9-1) Computer Science 1CP2, first teaching Sept 2020 (replaced the 2016 1CP1)."
+      },
+      {
+        "subject": "Religious_Studies",
+        "spec_code": "1RA0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Religious%20Studies/2016/Specification%20and%20sample%20assessments/specification-gcse-l1-l2-religious-studies-a-june-2016-draft-4.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/religious-studies-a-2016.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Religious Studies A 1RA0, first teaching 2016. ('draft-4' is the published filename used by Pearson.) Religious Studies B 1RB0 is also offered."
+      },
+      {
+        "subject": "Religious_Studies",
+        "spec_code": "1RB0",
+        "year": "2016",
+        "status": "LEGACY",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Religious%20Studies/2016/Specification%20and%20sample%20assessments/specification-gcse-l1-l2-religious-studies-b-june-2016-draft-4.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/religious-studies-b-2016.html",
+        "confidence": "high",
+        "notes": "Alternate/companion specification (not legacy in the superseded sense): Edexcel GCSE (9-1) Religious Studies B 1RB0, first teaching 2016. Verified HEAD 200 application/pdf. Listed as a second entry because Edexcel offers two parallel RS specs (A and B)."
+      },
+      {
+        "subject": "Spanish",
+        "spec_code": "1SP1",
+        "year": "2024",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Spanish/2024/specification-and-sample-assessments/gq000027-gcse-spanish-specification-2024-issue-2.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/spanish-2024.html",
+        "confidence": "high",
+        "notes": "Current redeveloped MFL spec, first teaching 2024, first assessment 2026 (Ofqual ref GQ000027, qualification code 1SP1). Verified HEAD 200 application/pdf (Issue 2)."
+      },
+      {
+        "subject": "Spanish",
+        "spec_code": "1SP0",
+        "year": "2016",
+        "status": "LEGACY",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Spanish/2016/specification-and-sample-assessments/Specification-Pearson-Edexcel-Level-1-Level-2-GCSE-9-1-Spanish.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/spanish-2016.html",
+        "confidence": "high",
+        "notes": "Legacy spec 1SP0, first teaching 2016, being phased out as the 2024 1SP1 replaces it. Verified HEAD 200 application/pdf."
+      },
+      {
+        "subject": "French",
+        "spec_code": "1FR1",
+        "year": "2024",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/French/2024/specification-and-sample-assessments/gq000023-gcse-french-specification-2024-issue-2.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/french-2024.html",
+        "confidence": "high",
+        "notes": "Current redeveloped MFL spec, first teaching 2024, first assessment 2026 (Ofqual ref GQ000023, qualification code 1FR1). Verified HEAD 200 application/pdf (Issue 2). Legacy 2016 spec 1FR0 also exists but not separately confirmed here."
+      },
+      {
+        "subject": "Politics",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered - Edexcel/Pearson offers Politics only at AS/A level (9PL0/8PL0), not at GCSE (9-1). No GCSE Politics or Government qualification exists from Pearson."
+      },
+      {
+        "subject": "Physical_Education",
+        "spec_code": "1PE0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Physical%20Education/2016/Specification%20and%20sample%20assessments/GCSE-physical-education-2016-specification.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/physical-education-2016.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Physical Education 1PE0, first teaching 2016."
+      },
+      {
+        "subject": "Music",
+        "spec_code": "1MU0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Music/2016/specification/Pearson_Edexcel_GCSE_9_to_1_in_Music_Specification_issue4.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/music-2016.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Music 1MU0, first teaching 2016 (Issue 4 is the current specification document)."
+      },
+      {
+        "subject": "Drama",
+        "spec_code": "1DR0",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Drama/2016/Specification%20and%20sample%20assessments/gcse2016-l12-drama.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/drama-2016.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Drama 1DR0, first teaching 2016 (current Issue updated/maintained at this filename)."
+      },
+      {
+        "subject": "Design_and_Technology",
+        "spec_code": "1DT0",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/design-and-technology/2017/specification-and-sample-assessments/Pearson_Edexcel_GCSE_9_to_1_in_Design_and_Technology_Specification_issue3.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/design-and-technology-9-1-from-2017.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Design and Technology 1DT0, first teaching 2017, first assessment 2019 (Issue 3 current)."
+      },
+      {
+        "subject": "Statistics",
+        "spec_code": "1ST0",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://qualifications.pearson.com/content/dam/pdf/GCSE/Statistics/2017/specification-and-sample-assessments/gcse-9-1-statistics-specification.pdf",
+        "page_url": "https://qualifications.pearson.com/en/qualifications/edexcel-gcses/statistics-2017.html",
+        "confidence": "high",
+        "notes": "Verified HEAD 200 application/pdf. Edexcel GCSE (9-1) Statistics 1ST0, first teaching 2017."
+      },
+      {
+        "subject": "Media_Studies",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered - Pearson/Edexcel does not offer a GCSE (9-1) Media Studies. GCSE Media Studies is offered by AQA (8572), OCR (J200) and WJEC/Eduqas only."
+      }
+    ]
+  },
+  {
+    "segment": "ocr-alevel",
+    "entries": [
+      {
+        "subject": "Mathematics",
+        "spec_code": "H240",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/308723-specification-accredited-a-level-gce-mathematics-a-h240.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/mathematics-a-h230-h240-from-2017/",
+        "confidence": "high",
+        "notes": "Mathematics A (H240), first teaching 2017. PDF link confirmed on official OCR spec page."
+      },
+      {
+        "subject": "Psychology",
+        "spec_code": "H567",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/171732-specification-accredited-a-level-gce-psychology-h567.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/psychology-h167-h567-from-2015/",
+        "confidence": "high",
+        "notes": "H567 is current; a refreshed H569 is accredited for first teach Sept 2027, so H567 remains current (final assessment summer 2028). PDF confirmed on official page."
+      },
+      {
+        "subject": "Biology",
+        "spec_code": "H420",
+        "year": "2023",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/687834-download-a-level-specification.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/biology-a-h020-h420-from-2015/",
+        "confidence": "high",
+        "notes": "Biology A (H420), Version 3 updated for first teaching Sept 2023, first assessment 2025. Current PDF (687834) confirmed on official spec page."
+      },
+      {
+        "subject": "Biology",
+        "spec_code": "H420",
+        "year": "2015",
+        "status": "LEGACY",
+        "pdf_url": "https://www.ocr.org.uk/Images/171736-download-a-level-specification-final-assessment-2024.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/biology-a-h020-h420-from-2015/",
+        "confidence": "high",
+        "notes": "Previous Biology A (H420) spec, original 2015 first teaching, marked final assessment 2024. Same code H420; superseded by 687834 version."
+      },
+      {
+        "subject": "Chemistry",
+        "spec_code": "H432",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/171720-specification-accredited-a-level-gce-chemistry-a-h432.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/chemistry-a-h032-h432-from-2015/",
+        "confidence": "high",
+        "notes": "Chemistry A (H432), first teaching 2015. PDF link confirmed on official OCR spec page."
+      },
+      {
+        "subject": "Further_Mathematics",
+        "spec_code": "H245",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/308752-specification-accredited-a-level-gce-further-mathematics-a-h245.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/further-mathematics-a-h235-h245-from-2017/",
+        "confidence": "high",
+        "notes": "Further Mathematics A (H245), first teaching 2017. PDF link confirmed on official OCR spec page."
+      },
+      {
+        "subject": "History",
+        "spec_code": "H505",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/170128-specification-accredited-a-level-gce-history-a-h505.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/history-a-h105-h505-from-2015/",
+        "confidence": "high",
+        "notes": "History A (H505), first teaching 2015. Y100 is the NEA unit code, not the spec code. PDF confirmed on official page."
+      },
+      {
+        "subject": "Physics",
+        "spec_code": "H556",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/171726-specification-accredited-a-level-gce-physics-a-h556.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/physics-a-h156-h556-from-2015/",
+        "confidence": "high",
+        "notes": "Physics A (H556), first teaching 2015. The A Level code is H556 (H156 is AS); H557 is not the live code. PDF confirmed on official page."
+      },
+      {
+        "subject": "English_Literature",
+        "spec_code": "H472",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/171200-specification-accredited-a-level-gce-english-literature-h472.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/english-literature-h072-h472-from-2015/",
+        "confidence": "high",
+        "notes": "English Literature (H472), first teaching 2015. PDF confirmed via official page and OCR Images path."
+      },
+      {
+        "subject": "English_Language",
+        "spec_code": "H470",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/171195-specification-accredited-a-level-gce-english-language-h470.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/english-language-h070-h470-from-2015/",
+        "confidence": "high",
+        "notes": "OCR does offer A Level English Language (H470), first teaching 2015. PDF confirmed on official OCR Images path."
+      },
+      {
+        "subject": "Geography",
+        "spec_code": "H481",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/223012-specification-accredited-a-level-gce-geography-h481.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/geography-h081-h481-from-2016/",
+        "confidence": "high",
+        "notes": "Geography (H481), first teaching 2016 / first assessment 2018. PDF link confirmed on official OCR spec page."
+      },
+      {
+        "subject": "Sociology",
+        "spec_code": "H580",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/170212-specification-accredited-a-level-gce-sociology.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/sociology-h180-h580-from-2015/",
+        "confidence": "high",
+        "notes": "Sociology (H580), first teaching 2015. Official PDF filename omits the h580 suffix (ends '-sociology.pdf'); confirmed on official spec page."
+      },
+      {
+        "subject": "Art_and_Design",
+        "spec_code": "H600",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/170210-specification-accredited-a-level-gce-art-and-design-h600-h606.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/art-and-design-h200-h600-from-2015/",
+        "confidence": "high",
+        "notes": "OCR does offer A Level Art and Design (H600, with endorsed titles H601-H606), first teaching 2015. Single combined spec PDF found via official OCR Images path. (H606 Critical & Contextual Studies being withdrawn, but H600 spec remains current.)"
+      },
+      {
+        "subject": "Business_Studies",
+        "spec_code": "H431",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/170837-specification-accredited-a-level-gce-business-h431.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/business-h031-h431-from-2015/",
+        "confidence": "high",
+        "notes": "Business (H431), first teaching 2015, still current. A new spec H436 is accredited for first teach Sept 2026; H431 final first teach Sept 2025, final assessment summer 2027. PDF confirmed on official page."
+      },
+      {
+        "subject": "Economics",
+        "spec_code": "H460",
+        "year": "2019",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/536455-specification-accredited-a-level-gce-economics-h460.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/economics-h060-h460-from-2015/",
+        "confidence": "high",
+        "notes": "Economics (H460). Current spec is the 2019-redeveloped version (536455), first assessment 2021. PDF verified as a valid OCR PDF download. The older 170839 version is superseded."
+      },
+      {
+        "subject": "Computer_Science",
+        "spec_code": "H446",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/computer-science-h046-h446-from-2015/",
+        "confidence": "high",
+        "notes": "Computer Science (H446), first teaching 2015. PDF link confirmed on official OCR spec page."
+      },
+      {
+        "subject": "Religious_Studies",
+        "spec_code": "H573",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/242913-specification-accredited-a-level-gce-religious-studies-h573.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/religious-studies-h173-h573-from-2016/",
+        "confidence": "high",
+        "notes": "Religious Studies (H573), first teaching 2016 / first assessment 2018. PDF link confirmed on official OCR spec page."
+      },
+      {
+        "subject": "Spanish",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "Not offered. OCR withdrew from Modern Foreign Languages (French, German, Spanish) from September 2016 and did not produce a reformed A Level. The only current OCR A Level languages are Latin and Classical Greek."
+      },
+      {
+        "subject": "French",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "Not offered. OCR withdrew from Modern Foreign Languages (French, German, Spanish) from September 2016 and did not produce a reformed A Level. Only Latin and Classical Greek remain as current OCR A Level languages."
+      },
+      {
+        "subject": "Politics",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "Not offered. OCR's AS/A Level Government and Politics (H095/H495) was discontinued; final assessment summer 2018. OCR did not develop a reformed 2017 Politics A Level."
+      },
+      {
+        "subject": "Physical_Education",
+        "spec_code": "H555",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/234833-specification-accredited-a-level-gce-physical-education-h555.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/physical-education-h155-h555-from-2016/",
+        "confidence": "high",
+        "notes": "Physical Education (H555), first teaching 2016 / first assessment 2018. PDF link confirmed on official OCR Images path."
+      },
+      {
+        "subject": "Music",
+        "spec_code": "H543",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/219397-specification-accredited-a-level-gce-music-h543.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/music-h143-h543-from-2016/",
+        "confidence": "high",
+        "notes": "Music (H543), first teaching 2016. PDF link confirmed on official OCR spec page."
+      },
+      {
+        "subject": "Drama",
+        "spec_code": "H459",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/242650-specification-accredited-a-level-gce-drama-and-theatre-h459.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/drama-and-theatre-h059-h459-from-2016/",
+        "confidence": "high",
+        "notes": "Drama and Theatre (H459), first teaching 2016. PDF link confirmed on official OCR spec page."
+      },
+      {
+        "subject": "Design_and_Technology",
+        "spec_code": "H404-H406",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/304609-specification-accredited-a-level-gce-design-and-technology-h404-h406.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/design-and-technology-h004-h006-h404-h406-from-2017/",
+        "confidence": "high",
+        "notes": "OCR does offer A Level Design and Technology, first teaching 2017. Single combined spec PDF covers all three endorsed titles: Design Engineering (H404), Fashion & Textiles (H405), Product Design (H406). PDF found via official OCR Images path."
+      },
+      {
+        "subject": "Statistics",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "Not offered. OCR does not provide a standalone A Level Statistics; statistics is only a content area within A Level Mathematics A (H240) and Further Mathematics A (H245)."
+      },
+      {
+        "subject": "Media_Studies",
+        "spec_code": "H409",
+        "year": "2023",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/687703-specification-accredited-a-level-gce-media-studies-h409.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/as-and-a-level/media-studies-h009-h409-from-2023/",
+        "confidence": "high",
+        "notes": "Media Studies (H409), updated spec for first teaching 2023. Current PDF (687703) confirmed on official spec page. The earlier 316672 '2017-2024' version is superseded."
+      }
+    ]
+  },
+  {
+    "segment": "ocr-gcse",
+    "entries": [
+      {
+        "subject": "Mathematics",
+        "spec_code": "J560",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/168982-specification-gcse-mathematics.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/mathematics-j560-from-2015/",
+        "confidence": "high",
+        "notes": "Verified via official spec page; direct PDF href extracted (168982). First teaching 2015, QN 601/4606/0."
+      },
+      {
+        "subject": "Psychology",
+        "spec_code": "J203",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/309306-specification-accredited-gcse-psychology-j203.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/psychology-j203-from-2017/",
+        "confidence": "high",
+        "notes": "OCR DOES offer GCSE Psychology (contrary to hint). Verified via spec page; PDF href 309306. QN 603/1109/5, first teaching 2017."
+      },
+      {
+        "subject": "Biology",
+        "spec_code": "J257",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/234595-specification-accredited-gcse-twenty-first-century-science-suite-biology-b-j257.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/twenty-first-century-science-suite-biology-b-j257-from-2016/",
+        "confidence": "high",
+        "notes": "Biology B (Twenty First Century Science), per hint J257. PDF downloaded successfully (1.2MB), URL live. Note OCR also offers Biology A (Gateway, J247)."
+      },
+      {
+        "subject": "Chemistry",
+        "spec_code": "J258",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/234599-specification-accredited-gcse-twenty-first-century-science-suite-chemistry-b-j258.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/twenty-first-century-science-suite-chemistry-b-j258-from-2016/",
+        "confidence": "high",
+        "notes": "Chemistry B (Twenty First Century Science), per hint J258. PDF downloaded successfully (1.7MB), URL live. Note OCR also offers Chemistry A (Gateway, J248)."
+      },
+      {
+        "subject": "Further_Mathematics",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered. OCR offers Further Mathematics only at AS/A Level (H235/H245, H635/H645) and FSMQ Additional Maths (6993), not as a GCSE."
+      },
+      {
+        "subject": "History",
+        "spec_code": "J410",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/207163-specification-accredited-gcse-history-a-first-teaching-2019-with-first-assessment-2021-j410.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/history-a-explaining-the-modern-world-j410-from-2016/",
+        "confidence": "high",
+        "notes": "History A (Explaining the Modern World) J410, the standard modular history GCSE. Spec PDF v1.9 (Jan 2026). OCR also offers History B (Schools History Project) J411."
+      },
+      {
+        "subject": "Physics",
+        "spec_code": "J259",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/234601-specification-accredited-gcse-twenty-first-century-science-suite-physics-b-j259.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/twenty-first-century-science-suite-physics-b-j259-from-2016/",
+        "confidence": "high",
+        "notes": "Physics B (Twenty First Century Science), per hint J259. Spec v4.2 (Feb 2024). Note OCR also offers Physics A (Gateway, J249)."
+      },
+      {
+        "subject": "English_Literature",
+        "spec_code": "J352",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/168995-specification-accredited-gcse-english-literature-j352.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/english-literature-j352-from-2015/",
+        "confidence": "high",
+        "notes": "PDF href 168995 from official site. First teaching 2015."
+      },
+      {
+        "subject": "English_Language",
+        "spec_code": "J351",
+        "year": "2015",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/168996-specification-accredited-gcse-english-language-j351.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/english-language-j351-from-2015/",
+        "confidence": "high",
+        "notes": "PDF href 168996 from official site. First teaching 2015."
+      },
+      {
+        "subject": "Geography",
+        "spec_code": "J383",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/207306-specification-accredited-gcse-geography-a-j383.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/geography-a-geographical-themes-j383-from-2016/",
+        "confidence": "high",
+        "notes": "Geography A (Geographical Themes) J383. OCR also offers Geography B (Geography for Enquiring Minds) J384. PDF href 207306."
+      },
+      {
+        "subject": "Sociology",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered. OCR only has legacy GCSE Sociology J696 (from 2012, not a 9-1 reformed GCSE) and current A Level Sociology. No current GCSE (9-1) Sociology."
+      },
+      {
+        "subject": "Art_and_Design",
+        "spec_code": "J170-J176",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/220463-specification-accredited-gcse-art-and-design-j170-j176.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/art-and-design-j170-j176-from-2016/",
+        "confidence": "high",
+        "notes": "OCR DOES offer GCSE Art and Design (contrary to hint), suite codes J170-J176. Single spec PDF (220463) covers all titles. First teaching 2016."
+      },
+      {
+        "subject": "Business_Studies",
+        "spec_code": "J204",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/304213-specification-accredited-gcse-business-j204.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/business-j204-from-2017/",
+        "confidence": "high",
+        "notes": "GCSE Business J204. Verified via spec page; PDF href 304213. QN 603/0295/1, first teaching 2017."
+      },
+      {
+        "subject": "Economics",
+        "spec_code": "J205",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/306377-specification-accredited-gcse-economics-j205.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/economics-j205-from-2017/",
+        "confidence": "high",
+        "notes": "GCSE Economics J205, spec v1.5. PDF href 306377. QN 603/0143/0, first teaching 2017."
+      },
+      {
+        "subject": "Computer_Science",
+        "spec_code": "J277",
+        "year": "2020",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/computer-science-j277-from-2020/",
+        "confidence": "high",
+        "notes": "GCSE Computer Science J277 (from 2020), replaced legacy J276. PDF href 558027."
+      },
+      {
+        "subject": "Religious_Studies",
+        "spec_code": "J625",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/240547-specification-accredited-gcse-religious-studies-j625.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/religious-studies-j625-j125-from-2016/",
+        "confidence": "high",
+        "notes": "GCSE (full course) Religious Studies J625; J125 is the short course. PDF href 240547 extracted from spec page. QN 601/8594/6."
+      },
+      {
+        "subject": "Spanish",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered. OCR withdrew from Modern Foreign Languages (French/German/Spanish) and does not offer reformed GCSE (9-1) Spanish."
+      },
+      {
+        "subject": "French",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered. OCR withdrew from Modern Foreign Languages (French/German/Spanish) and does not offer reformed GCSE (9-1) French."
+      },
+      {
+        "subject": "Politics",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered. OCR has no GCSE Politics. The nearest subject is GCSE Citizenship Studies (J270), which is a distinct qualification, not Politics."
+      },
+      {
+        "subject": "Physical_Education",
+        "spec_code": "J587",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/234822-specification-accredited-gcse-physical-education-j587.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/physical-education-j587-from-2016/",
+        "confidence": "high",
+        "notes": "GCSE Physical Education J587. PDF href 234822. First teaching 2016."
+      },
+      {
+        "subject": "Music",
+        "spec_code": "J536",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/219378-specification-accredited-gcse-music-j536.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/music-j536-from-2016/",
+        "confidence": "high",
+        "notes": "GCSE Music J536. PDF href 219378. QN 601/8216/7, first teaching 2016."
+      },
+      {
+        "subject": "Drama",
+        "spec_code": "J316",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/242630-specification-accredited-gcse-drama-j316.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/drama-j316-from-2016/",
+        "confidence": "high",
+        "notes": "GCSE Drama J316, spec v3.0 (Jan 2026). PDF href 242630. QN 601/8975/7, first teaching 2016."
+      },
+      {
+        "subject": "Design_and_Technology",
+        "spec_code": "J310",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/304658-specification-accredited-gcse-design-and-technology-j310.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/design-and-technology-j310-from-2017/",
+        "confidence": "high",
+        "notes": "GCSE Design and Technology J310. PDF href 304658. First teaching 2017."
+      },
+      {
+        "subject": "Statistics",
+        "spec_code": "N/A",
+        "year": "",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "",
+        "confidence": "high",
+        "notes": "not offered. OCR does not offer a standalone GCSE Statistics; statistics is covered within GCSE Mathematics J560. OCR only has AS Statistics (MEI) at higher level."
+      },
+      {
+        "subject": "Media_Studies",
+        "spec_code": "J200",
+        "year": "2023",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ocr.org.uk/Images/687701-specification-accredited-gcse-media-studies-j200.pdf",
+        "page_url": "https://www.ocr.org.uk/qualifications/gcse/media-studies-j200-from-2023/",
+        "confidence": "high",
+        "notes": "GCSE Media Studies J200, current version for first teaching 2023 (originally 2017 with updated set products). PDF href 687701. QN 603/2069/2."
+      }
+    ]
+  },
+  {
+    "segment": "aqa-alevel-holdouts"
+  },
+  {
+    "segment": "ib-availability",
+    "entries": [
+      {
+        "subject": "Mathematics",
+        "spec_code": "DP SL/HL (Analysis and Approaches)",
+        "year": "2021",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/mathematics-analysis-approaches-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/mathematics/mathematics-analysis-and-approaches/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (4.9MB) on ibo.org public globalassets path. Freely downloadable, NOT login-gated. First assessment 2021. (Applications and Interpretation guide also freely available at the same path: mathematics-applications-interpretation-guide.pdf, verified 200.)"
+      },
+      {
+        "subject": "Psychology",
+        "spec_code": "DP SL/HL",
+        "year": "2027",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/psychology-first-assessment-2027-guide-sbs.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/psychology/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (3.3MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2027 (latest revision)."
+      },
+      {
+        "subject": "Biology",
+        "spec_code": "DP SL/HL",
+        "year": "2025",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/biology-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/biology/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (5.0MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2025."
+      },
+      {
+        "subject": "Chemistry",
+        "spec_code": "DP SL/HL",
+        "year": "2025",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/chemistry-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/chemistry/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (5.0MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2025."
+      },
+      {
+        "subject": "Further_Mathematics",
+        "spec_code": "DP HL (Further Mathematics, discontinued)",
+        "year": "2014",
+        "status": "LEGACY",
+        "pdf_url": "https://www.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/registrar/resources/international-baccalaureate/IB-Further-Mathematics.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/mathematics/",
+        "confidence": "medium",
+        "notes": "IB Further Mathematics HL was discontinued (last examinations 2020) and is no longer offered. No current ibo.org guide. The official IB 'Further mathematics HL guide, first examinations 2014' is freely hosted as a PDF on CUNY's university site (verified HTTP 200 application/pdf, 1.4MB) \u2014 official IB document but on a third-party (university) host, not ibo.org. Provided only as a legacy reference."
+      },
+      {
+        "subject": "History",
+        "spec_code": "DP SL/HL",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/history-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/history/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (8.6MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2017."
+      },
+      {
+        "subject": "Physics",
+        "spec_code": "DP SL/HL",
+        "year": "2025",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/physics-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/physics/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (4.7MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2025."
+      },
+      {
+        "subject": "English_Literature",
+        "spec_code": "DP SL/HL (Language A: Literature)",
+        "year": "2021",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/language-a-literature-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/language-and-literature/language-a-literature/",
+        "confidence": "high",
+        "notes": "IB's nearest equivalent to English Literature is 'Language A: literature'. Verified HTTP 200 application/pdf (3.4MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2021."
+      },
+      {
+        "subject": "English_Language",
+        "spec_code": "DP SL/HL (Language A: Language and Literature)",
+        "year": "2021",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/language-a-language-literature-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/language-and-literature/language-a-language-and-literature/",
+        "confidence": "high",
+        "notes": "IB's nearest equivalent to English Language is 'Language A: language and literature'. Verified HTTP 200 application/pdf (3.4MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2021."
+      },
+      {
+        "subject": "Geography",
+        "spec_code": "DP SL/HL",
+        "year": "2019",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/geography-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/geography/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (3.0MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2019."
+      },
+      {
+        "subject": "Sociology",
+        "spec_code": "DP SL/HL (Social and Cultural Anthropology - nearest equivalent)",
+        "year": "2017",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "https://ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/social-and-cultural-anthropology/",
+        "confidence": "medium",
+        "notes": "IB DP has no 'Sociology' course; the nearest equivalent is Social and Cultural Anthropology. Only a 2-page subject brief is publicly hosted (ibo.org/contentassets/.../social-and-cultural-anthropology-sl-hl-2017-en.pdf, which returned a WAF 403 on test). The full subject guide is login-gated on resources.ibo.org / sold via store.ibo.org \u2014 not freely downloadable as a full guide."
+      },
+      {
+        "subject": "Art_and_Design",
+        "spec_code": "DP SL/HL (Visual Arts)",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/visual-arts-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/the-arts/visual-arts/",
+        "confidence": "high",
+        "notes": "IB's equivalent to Art and Design is 'Visual Arts'. Verified HTTP 200 application/pdf (2.7MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2016."
+      },
+      {
+        "subject": "Business_Studies",
+        "spec_code": "DP SL/HL (Business Management)",
+        "year": "2024",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/business-management-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/business-management/",
+        "confidence": "high",
+        "notes": "IB's equivalent to Business Studies is 'Business Management'. Verified HTTP 200 application/pdf (4.9MB) on ibo.org public globalassets path. Freely downloadable."
+      },
+      {
+        "subject": "Economics",
+        "spec_code": "DP SL/HL",
+        "year": "2022",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/economics-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/economics/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (4.7MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2022."
+      },
+      {
+        "subject": "Computer_Science",
+        "spec_code": "DP SL/HL",
+        "year": "2014",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/computer-science-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/computer-science/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (1.6MB) on ibo.org public globalassets path. Freely downloadable. (Current published guide; first assessment 2014, still in effect at time of research.)"
+      },
+      {
+        "subject": "Religious_Studies",
+        "spec_code": "DP SL (World Religions, discontinued)",
+        "year": "2011",
+        "status": "LEGACY",
+        "pdf_url": "https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/3_worldreligionssl.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/",
+        "confidence": "medium",
+        "notes": "IB DP has no 'Religious Studies'; the nearest equivalent was 'World Religions' (SL only), which has been discontinued (last assessment 2023). The official World Religions SL guide PDF is freely hosted on ibo.org public globalassets (verified HTTP 200 application/pdf, 0.8MB). Provided as a legacy reference since the course is no longer offered. (Philosophy guide is the closest currently-offered alternative and is freely downloadable at .../subject-guides/philosophy-guide.pdf, verified 200.)"
+      },
+      {
+        "subject": "Spanish",
+        "spec_code": "DP SL/HL (Language B)",
+        "year": "2020",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/language-b-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/language-acquisition/language-b/",
+        "confidence": "high",
+        "notes": "IB does not publish a separate Spanish guide; all modern languages are covered by the single 'Language B guide'. Verified HTTP 200 application/pdf (3.0MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2020."
+      },
+      {
+        "subject": "French",
+        "spec_code": "DP SL/HL (Language B)",
+        "year": "2020",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/language-b-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/language-acquisition/language-b/",
+        "confidence": "high",
+        "notes": "IB does not publish a separate French guide; all modern languages are covered by the single 'Language B guide'. Verified HTTP 200 application/pdf (3.0MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2020. (Same file as Spanish.)"
+      },
+      {
+        "subject": "Politics",
+        "spec_code": "DP SL/HL (Global Politics)",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/global-politics-hl-2016-en.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/individuals-and-societies/global-politics/",
+        "confidence": "high",
+        "notes": "IB's equivalent to Politics is 'Global Politics'. HL guide verified HTTP 200 application/pdf (0.86MB) on ibo.org public globalassets path; SL version (global-politics-sl-2016-en.pdf) also verified 200. Freely downloadable. First assessment 2016."
+      },
+      {
+        "subject": "Physical_Education",
+        "spec_code": "DP SL/HL (Sports, Exercise and Health Science)",
+        "year": "2024",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/sports-exercise-health-science-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/sports-exercise-and-health-science/",
+        "confidence": "high",
+        "notes": "IB has no 'Physical Education' DP course; the nearest equivalent is 'Sports, Exercise and Health Science'. Verified HTTP 200 application/pdf (3.7MB) on ibo.org public globalassets path. Freely downloadable."
+      },
+      {
+        "subject": "Music",
+        "spec_code": "DP SL/HL",
+        "year": "2020",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/music-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/the-arts/music/",
+        "confidence": "high",
+        "notes": "Verified HTTP 200 application/pdf (3.2MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2022."
+      },
+      {
+        "subject": "Drama",
+        "spec_code": "DP SL/HL (Theatre)",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://ibo.org/globalassets/new-structure/university-admission/pdfs/subject-guides/theatre-guide.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/the-arts/theatre/",
+        "confidence": "high",
+        "notes": "IB's equivalent to Drama is 'Theatre'. Verified HTTP 200 application/pdf (3.6MB) on ibo.org public globalassets path. Freely downloadable. First assessment 2016."
+      },
+      {
+        "subject": "Design_and_Technology",
+        "spec_code": "DP SL/HL",
+        "year": "2016",
+        "status": "CURRENT",
+        "pdf_url": "https://www.ibo.org/globalassets/new-structure/programmes/dp/pdfs/design-technology---sl.pdf",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/sciences/design-technology/",
+        "confidence": "high",
+        "notes": "Design Technology SL specimen/guide PDF verified HTTP 200 application/pdf (0.6MB) on ibo.org public globalassets path. The HL counterpart (design-technology--hl.pdf, same path) is indexed publicly and is a real public asset but returned WAF 403 on direct test. Full current subject guide is otherwise login-gated on resources.ibo.org; this freely-downloadable SL document is the publicly accessible official version."
+      },
+      {
+        "subject": "Statistics",
+        "spec_code": "n/a (no IB DP course)",
+        "year": "2021",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/mathematics/",
+        "confidence": "high",
+        "notes": "IB Diploma Programme does NOT offer a standalone Statistics course or guide. Statistics is taught only as a strand within the two DP Mathematics courses (Analysis & Approaches and Applications & Interpretation). No separate IB Statistics subject guide exists, so no PDF."
+      },
+      {
+        "subject": "Media_Studies",
+        "spec_code": "n/a (no IB DP course; nearest is Film)",
+        "year": "2019",
+        "status": "CURRENT",
+        "pdf_url": "",
+        "page_url": "https://www.ibo.org/programmes/diploma-programme/curriculum/the-arts/film/",
+        "confidence": "high",
+        "notes": "IB Diploma Programme does NOT offer a 'Media Studies' course. The nearest equivalent is 'Film' (in the Arts group). No IB Media Studies subject guide exists, so no PDF. (The Film guide itself is login-gated on resources.ibo.org / sold via store.ibo.org and is not freely downloadable on the public globalassets path.)"
+      }
+    ]
+  }
+]

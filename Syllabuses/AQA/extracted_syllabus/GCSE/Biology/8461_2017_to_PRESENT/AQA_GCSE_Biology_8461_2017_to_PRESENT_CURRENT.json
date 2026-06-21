@@ -1,0 +1,928 @@
+{
+  "source_pdf": "GCSE/Biology/8461_2017_to_PRESENT/AQA_GCSE_Biology_8461_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Biology",
+  "spec_code": "8461",
+  "pdf_name": "AQA_GCSE_Biology_8461_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "4",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "4.1",
+          "title": "Cell biology",
+          "level": 1,
+          "content": "Cells are the basic unit of all forms of life. In this section we explore how structural differences between\ntypes of cells enables them to perform specific functions within the organism. These differences in cells\nare controlled by genes in the nucleus. For an organism to grow, cells must divide by mitosis producing\ntwo new identical cells.\nIf cells are isolated at an early stage of growth before they have become too specialised, they can retain\ntheir ability to grow into a range of different types of cells. This phenomenon has led to the development\nof stem cell technology. This is a new branch of medicine that allows doctors to repair damaged organs\nby growing new tissue from stem cells.",
+          "children": [
+            {
+              "code": "4.1.1",
+              "title": "Cell structure",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.1.1",
+                  "title": "Eukaryotes and prokaryotes",
+                  "level": 3,
+                  "content": "Plant and animal cells (eukaryotic cells) have a cell membrane,\ncytoplasm and genetic material enclosed in a nucleus.\nBacterial cells (prokaryotic cells) are much smaller in comparison. They\nhave cytoplasm and a cell membrane surrounded by a cell wall. The\ngenetic material is not enclosed in a nucleus. It is a single DNA loop and\nthere may be one or more small rings of DNA called plasmids.\nStudents should be able to demonstrate an understanding of the scale\nand size of cells and be able to make order of magnitude calculations,\nincluding the use of standard form.\nKey opportunities for\nskills development\nMS 1b, 2a, 2h\nWS 4.4\nUse prefixes centi, milli,\nmicro and nano.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.2",
+                  "title": "Animal and plant cells",
+                  "level": 3,
+                  "content": "Students should be able to explain how the main sub-cellular structures,\nincluding the nucleus, cell membranes, mitochondria, chloroplasts in\nplant cells and plasmids in bacterial cells are related to their functions.\nMost animal cells have the following parts:\n- a nucleus\n- cytoplasm\n- a cell membrane\n- mitochondria\n- ribosomes.\nIn addition to the parts found in animal cells, plant cells often have:\n- chloroplasts\n- a permanent vacuole filled with cell sap.\nPlant and algal cells also have a cell wall made of cellulose, which\nstrengthens the cell.\nKey opportunities for\nskills development\nWS 1.2\nRecognise, draw and\ninterpret images of cells.\nStudents should be able to use estimations and explain when they\nshould be used to judge the relative size or area of sub-cellular\nstructures.\nRequired practical activity 1: use a light microscope to observe, draw and label a selection of plant\nand animal cells. A magnification scale must be included.\nAT skills covered by this practical activity: AT 1 and 7.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nKey opportunities for\nskills development\nMS 1d, 3a\nAT 7\nImages of cells in videos,\nbioviewers, photographs\nand micrographs can be\nused as comparison for\nstudents own drawings.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.3",
+                  "title": "Cell specialisation",
+                  "level": 3,
+                  "content": "Students should be able to, when provided with appropriate information,\nexplain how the structure of different types of cell relate to their function\nin a tissue, an organ or organ system, or the whole organism.\nCells may be specialised to carry out a particular function:\n- sperm cells, nerve cells and muscle cells in animals\n- root hair cells, xylem and phloem cells in plants.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.4",
+                  "title": "Cell differentiation",
+                  "level": 3,
+                  "content": "Students should be able to explain the importance of cell differentiation.\nAs an organism develops, cells differentiate to form different types of\ncells.\n- Most types of animal cell differentiate at an early stage.\n- Many types of plant cells retain the ability to differentiate throughout\nlife.\nIn mature animals, cell division is mainly restricted to repair and\nreplacement. As a cell differentiates it acquires different sub-cellular\nstructures to enable it to carry out a certain function. It has become a\nspecialised cell.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.5",
+                  "title": "Microscopy",
+                  "level": 3,
+                  "content": "Students should be able to:\n- understand how microscopy techniques have developed over time\n- explain how electron microscopy has increased understanding of\nsub-cellular structures.\nLimited to the differences in magnification and resolution.\nAn electron microscope has much higher magnification and resolving\npower than a light microscope. This means that it can be used to\nstudy cells in much finer detail. This has enabled biologists to see and\nunderstand many more sub-cellular structures.\nStudents should be able to carry out calculations involving\nmagnification, real size and image size using the formula:\nmagniﬁcation =\nStudents should be able to express answers in standard form if\nappropriate.\nKey opportunities for\nskills development\nWS 1.1\nMS 1a, 1b, 2h, 3b\nWS 4.4\nUse prefixes centi, milli,\nmicro and nano.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.6",
+                  "title": "Culturing microorganisms (biology only)",
+                  "level": 3,
+                  "content": "Bacteria multiply by simple cell division (binary fission) as often as\nonce every 20 minutes if they have enough nutrients and a suitable\ntemperature.\nBacteria can be grown in a nutrient broth solution or as colonies on an\nagar gel plate.\nUncontaminated cultures of microorganisms are required for\ninvestigating the action of disinfectants and antibiotics.\nStudents should be able to describe how to prepare an uncontaminated\nculture using aseptic technique.\nThey should be able to explain why:\n- Petri dishes and culture media must be sterilised before use\n- inoculating loops used to transfer microorganisms to the media must\nbe sterilised by passing them through a flame\n- the lid of the Petri dish should be secured with adhesive tape and\nstored upside down\n- in school laboratories, cultures should generally be incubated at\n25°C.\nStudents should be able to calculate cross-sectional areas of colonies or\nclear areas around colonies using πr².\nStudents should be able to calculate the number of bacteria in a\npopulation after a certain time if given the mean division time.\n(HT only) Students should be able to express the answer in standard\nform.\nRequired practical activity 2: investigate the effect of antiseptics or antibiotics on bacterial growth\nusing agar plates and measuring zones of inhibition.\nAT skills covered by this practical activity: AT 1, 3, 4 and 8.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nThere are links with this practical to Antibiotics and painkillers.\nKey opportunities for\nskills development\nMS 1a, 1b, 1d, 2a, 2h\nCalculate the number of\nbacteria in a population\nafter a certain time if given\nthe mean division time.\nMS 5c\nCalculate cross-sectional\nareas of colonies or clear\nareas around colonies\nusing πr².\nWS 2.2, 2.4\nMS 5c\nMS 1a, 2a, 2h\nMS 1b",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.2",
+              "title": "Cell division",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.2.1",
+                  "title": "Chromosomes",
+                  "level": 3,
+                  "content": "The nucleus of a cell contains chromosomes made of DNA molecules.\nEach chromosome carries a large number of genes.\nIn body cells the chromosomes are normally found in pairs.\nKey opportunities for\nskills development\nWS 1.2\nUse models and analogies\nto develop explanations of\nhow cells divide.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.2",
+                  "title": "Mitosis and the cell cycle",
+                  "level": 3,
+                  "content": "Cells divide in a series of stages called the cell cycle. Students should\nbe able to describe the stages of the cell cycle, including mitosis.\nDuring the cell cycle the genetic material is doubled and then divided\ninto two identical cells.\nBefore a cell can divide it needs to grow and increase the number of\nsub-cellular structures such as ribosomes and mitochondria. The DNA\nreplicates to form two copies of each chromosome.\nIn mitosis one set of chromosomes is pulled to each end of the cell and\nthe nucleus divides.\nFinally the cytoplasm and cell membranes divide to form two identical\ncells.\nStudents need to understand the three overall stages of the cell cycle\nbut do not need to know the different phases of the mitosis stage.\nCell division by mitosis is important in the growth and development of\nmulticellular organisms.\nStudents should be able to recognise and describe situations in given\ncontexts where mitosis is occurring.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.3",
+                  "title": "Stem cells",
+                  "level": 3,
+                  "content": "A stem cell is an undifferentiated cell of an organism which is capable of\ngiving rise to many more cells of the same type, and from which certain\nother cells can arise from differentiation.\nStudents should be able to describe the function of stem cells in\nembryos, in adult animals and in the meristems in plants.\nStem cells from human embryos can be cloned and made to\ndifferentiate into most different types of human cells.\nStem cells from adult bone marrow can form many types of cells\nincluding blood cells.\nMeristem tissue in plants can differentiate into any type of plant cell,\nthroughout the life of the plant.\nKnowledge and understanding of stem cell techniques are not required.\nTreatment with stem cells may be able to help conditions such as\ndiabetes and paralysis.\nIn therapeutic cloning an embryo is produced with the same genes as\nthe patient. Stem cells from the embryo are not rejected by the patient’s\nbody so they may be used for medical treatment.\nThe use of stem cells has potential risks such as transfer of viral\ninfection, and some people have ethical or religious objections.\nStem cells from meristems in plants can be used to produce clones of\nplants quickly and economically.\n- Rare species can be cloned to protect from extinction.\n- Crop plants with special features such as disease resistance can be\ncloned to produce large numbers of identical plants for farmers.\nKey opportunities for\nskills development\nWS 1.3\nEvaluate the practical\nrisks and benefits, as\nwell as social and ethical\nissues, of the use of stem\ncells in medical research\nand treatments.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.3",
+              "title": "Transport in cells",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.3.1",
+                  "title": "Diffusion",
+                  "level": 3,
+                  "content": "Substances may move into and out of cells across the cell membranes\nvia diffusion.\nDiffusion is the spreading out of the particles of any substance in\nsolution, or particles of a gas, resulting in a net movement from an area\nof higher concentration to an area of lower concentration.\nSome of the substances transported in and out of cells by diffusion are\noxygen and carbon dioxide in gas exchange, and of the waste product\nurea from cells into the blood plasma for excretion in the kidney.\nStudents should be able to explain how different factors affect the rate\nof diffusion.\nFactors which affect the rate of diffusion are:\n- the difference in concentrations (concentration gradient)\n- the temperature\n- the surface area of the membrane.\nA single-celled organism has a relatively large surface area to volume\nratio. This allows sufficient transport of molecules into and out of the cell\nto meet the needs of the organism.\nStudents should be able to calculate and compare surface area to\nvolume ratios.\nStudents should be able to explain the need for exchange surfaces and\na transport system in multicellular organisms in terms of surface area to\nvolume ratio.\nStudents should be able to explain how the small intestine and lungs in\nmammals, gills in fish, and the roots and leaves in plants, are adapted\nfor exchanging materials.\nIn multicellular organisms, surfaces and organ systems are specialised\nfor exchanging materials. This is to allow sufficient molecules to\nbe transported into and out of cells for the organism’s needs. The\neffectiveness of an exchange surface is increased by:\n- having a large surface area\n- a membrane that is thin, to provide a short diffusion path\n- (in animals) having an efficient blood supply\n- (in animals, for gaseous exchange) being ventilated.\nKey opportunities for\nskills development\nWS 1.2\nRecognise, draw and\ninterpret diagrams that\nmodel diffusion.\nWS 1.5\nUse of isotonic drinks\nand high energy drinks in\nsport.\nMS 1c, 5c",
+                  "children": []
+                },
+                {
+                  "code": "4.1.3.2",
+                  "title": "Osmosis",
+                  "level": 3,
+                  "content": "Water may move across cell membranes via osmosis. Osmosis is the\ndiffusion of water from a dilute solution to a concentrated solution\nthrough a partially permeable membrane.\nStudents should be able to:\n- use simple compound measures of rate of water uptake\n- use percentages\n- calculate percentage gain and loss of mass of plant tissue.\nStudents should be able to plot, draw and interpret appropriate graphs.\nRequired practical activity 3: investigate the effect of a range of concentrations of salt or sugar\nsolutions on the mass of plant tissue.\nAT skills covered by this practical activity: AT 1, 3 and 5.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nKey opportunities for\nskills development\nWS 1.2\nRecognise, draw and\ninterpret diagrams that\nmodel osmosis.\nMS 1a, 1c\nMS 4a, 4b, 4c, 4d",
+                  "children": []
+                },
+                {
+                  "code": "4.1.3.3",
+                  "title": "Active transport",
+                  "level": 3,
+                  "content": "Active transport moves substances from a more dilute solution to a more\nconcentrated solution (against a concentration gradient). This requires\nenergy from respiration.\nActive transport allows mineral ions to be absorbed into plant root hairs\nfrom very dilute solutions in the soil. Plants require ions for healthy\ngrowth.\nIt also allows sugar molecules to be absorbed from lower concentrations\nin the gut into the blood which has a higher sugar concentration. Sugar\nmolecules are used for cell respiration.\nStudents should be able to:\n- describe how substances are transported into and out of cells by\ndiffusion, osmosis and active transport\n- explain the differences between the three processes.\nKey opportunities for\nskills development\nThere are links\nwith this content to\nCell specialisation.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.2",
+          "title": "Organisation",
+          "level": 1,
+          "content": "In this section we will learn about the human digestive system which provides the body with nutrients\nand the respiratory system that provides it with oxygen and removes carbon dioxide. In each case\nthey provide dissolved materials that need to be moved quickly around the body in the blood by the\ncirculatory system.\nDamage to any of these systems can be debilitating if not fatal. Although there has been huge progress\nin surgical techniques, especially with regard to coronary heart disease, many interventions would not\nbe necessary if individuals reduced their risks through improved diet and lifestyle.\nWe will also learn how the plant’s transport system is dependent on environmental conditions to ensure\nthat leaf cells are provided with the water and carbon dioxide that they need for photosynthesis.",
+          "children": [
+            {
+              "code": "4.2.1",
+              "title": "Principles of organisation",
+              "level": 2,
+              "content": "Cells are the basic building blocks of all living organisms.\nA tissue is a group of cells with a similar structure and function.\nOrgans are aggregations of tissues performing specific functions.\nOrgans are organised into organ systems, which work together to form\norganisms.\nKey opportunities for\nskills development\nMS 1c\nStudents should be\nable to develop an\nunderstanding of size\nand scale in relation to\ncells, tissues, organs and\nsystems.",
+              "children": []
+            },
+            {
+              "code": "4.2.2",
+              "title": "Animal tissues, organs and organ systems",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.2.1",
+                  "title": "The human digestive system",
+                  "level": 3,
+                  "content": "This section assumes knowledge of the digestive system studied in Key\nStage 3 science.\nThe digestive system is an example of an organ system in which several\norgans work together to digest and absorb food.\nStudents should be able to relate knowledge of enzymes to Metabolism.\nStudents should be able to describe the nature of enzyme molecules\nand relate their activity to temperature and pH changes.\nStudents should be able to carry out rate calculations for chemical\nreactions.\nEnzymes catalyse specific reactions in living organisms due to the shape\nof their active site.\nKey opportunities for\nskills development\nMS 1a, 1c\nStudents should be able to use the ‘lock and key theory’ as a simplified\nmodel to explain enzyme action.\nStudents should be able to recall the sites of production and the action\nof amylase, proteases and lipases.\nStudents should be able to understand simple word equations but no\nchemical symbol equations are required.\nDigestive enzymes convert food into small soluble molecules that can be\nabsorbed into the bloodstream.\nCarbohydrases break down carbohydrates to simple sugars. Amylase is\na carbohydrase which breaks down starch.\nProteases break down proteins to amino acids.\nLipases break down lipids (fats) to glycerol and fatty acids.\nThe products of digestion are used to build new carbohydrates, lipids\nand proteins. Some glucose is used in respiration.\nBile is made in the liver and stored in the gall bladder. It is alkaline to\nneutralise hydrochloric acid from the stomach. It also emulsifies fat\nto form small droplets which increases the surface area. The alkaline\nconditions and large surface area increase the rate of fat breakdown by\nlipase.\nRequired practical activity 4: use qualitative reagents to test for a range of carbohydrates, lipids and\nproteins.\nTo include: Benedict’s test for sugars; iodine test for starch; and Biuret reagent for protein.\nAT skills covered by this practical activity: AT 2 and 8.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nRequired practical activity 5: investigate the effect of pH on the rate of reaction of amylase enzyme.\nStudents should use a continuous sampling technique to determine the time taken to completely\ndigest a starch solution at a range of pH values. Iodine reagent is to be used to test for starch every 30\nseconds. Temperature must be controlled by use of a water bath or electric heater.\nAT skills covered by this practical activity: AT 1, 2, 5 and 8.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nKey opportunities for\nskills development\nWS 1.2\nStudents should be able\nto use other models to\nexplain enzyme action.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.2",
+                  "title": "The heart and blood vessels",
+                  "level": 3,
+                  "content": "Students should know the structure and functioning of the human heart\nand lungs, including how lungs are adapted for gaseous exchange.\nThe heart is an organ that pumps blood around the body in a double\ncirculatory system. The right ventricle pumps blood to the lungs where\ngas exchange takes place. The left ventricle pumps blood around the\nrest of the body.\nKnowledge of the blood vessels associated with the heart is limited to\nthe aorta, vena cava, pulmonary artery, pulmonary vein and coronary\narteries. Knowledge of the names of the heart valves is not required.\nKnowledge of the lungs is restricted to the trachea, bronchi, alveoli and\nthe capillary network surrounding the alveoli.\nThe natural resting heart rate is controlled by a group of cells located\nin the right atrium that act as a pacemaker. Artificial pacemakers are\nelectrical devices used to correct irregularities in the heart rate.\nThe body contains three different types of blood vessel:\n- arteries\n- veins\n- capillaries.\nStudents should be able to explain how the structure of these vessels\nrelates to their functions.\nStudents should be able to use simple compound measures such as\nrate and carry out rate calculations for blood flow.\nKey opportunities for\nskills development\nMS 1a, 1c",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.3",
+                  "title": "Blood",
+                  "level": 3,
+                  "content": "Blood is a tissue consisting of plasma, in which the red blood cells,\nwhite blood cells and platelets are suspended.\nStudents should know the functions of each of these blood components.\nStudents should be able to recognise different types of blood cells in\na photograph or diagram, and explain how they are adapted to their\nfunctions.\nKey opportunities for\nskills development\nAT 7\nObserving and drawing\nblood cells seen under a\nmicroscope.\nWS 1.5\nEvaluate risks related to\nuse of blood products.\nWS 3.5",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.4",
+                  "title": "Coronary heart disease: a non-communicable disease",
+                  "level": 3,
+                  "content": "Students should be able to evaluate the advantages and disadvantages\nof treating cardiovascular diseases by drugs, mechanical devices or\ntransplant.\nIn coronary heart disease layers of fatty material build up inside the\ncoronary arteries, narrowing them. This reduces the flow of blood\nthrough the coronary arteries, resulting in a lack of oxygen for the heart\nmuscle. Stents are used to keep the coronary arteries open. Statins are\nwidely used to reduce blood cholesterol levels which slows down the\nrate of fatty material deposit.\nIn some people heart valves may become faulty, preventing the valve\nfrom opening fully, or the heart valve might develop a leak. Students\nshould understand the consequences of faulty valves. Faulty heart\nvalves can be replaced using biological or mechanical valves.\nIn the case of heart failure a donor heart, or heart and lungs can be\ntransplanted. Artificial hearts are occasionally used to keep patients alive\nwhilst waiting for a heart transplant, or to allow the heart to rest as an\naid to recovery.\nKey opportunities for\nskills development\nWS 1.4\nWS 1.3\nEvaluate methods of\ntreatment bearing in\nmind the benefits and\nrisks associated with the\ntreatment.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.5",
+                  "title": "Health issues",
+                  "level": 3,
+                  "content": "Students should be able to describe the relationship between health and\ndisease and the interactions between different types of disease.\nHealth is the state of physical and mental well-being.\nDiseases, both communicable and non-communicable, are major\ncauses of ill health. Other factors including diet, stress and life situations\nmay have a profound effect on both physical and mental health.\nDifferent types of disease may interact.\n- Defects in the immune system mean that an individual is more likely\nto suffer from infectious diseases.\n- Viruses living in cells can be the trigger for cancers.\n- Immune reactions initially caused by a pathogen can trigger allergies\nsuch as skin rashes and asthma.\n- Severe physical ill health can lead to depression and other mental\nillness.\nStudents should be able to translate disease incidence information\nbetween graphical and numerical forms, construct and interpret\nfrequency tables and diagrams, bar charts and histograms, and use a\nscatter diagram to identify a correlation between two variables.\nStudents should understand the principles of sampling as applied to\nscientific data, including epidemiological data.\nKey opportunities for\nskills development\nMS 2c, 2g, 4a\nMS 2d",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.6",
+                  "title": "The effect of lifestyle on some non-communicable diseases",
+                  "level": 3,
+                  "content": "Students should be able to:\n- discuss the human and financial cost of these non-communicable\ndiseases to an individual, a local community, a nation or globally\n- explain the effect of lifestyle factors including diet, alcohol and\nsmoking on the incidence of non-communicable diseases at local,\nnational and global levels.\nRisk factors are linked to an increased rate of a disease.\nThey can be:\n- aspects of a person’s lifestyle\n- substances in the person’s body or environment.\nA causal mechanism has been proven for some risk factors, but not in\nothers.\n- The effects of diet, smoking and exercise on cardiovascular disease.\n- Obesity as a risk factor for Type 2 diabetes.\n- The effect of alcohol on the liver and brain function.\n- The effect of smoking on lung disease and lung cancer.\n- The effects of smoking and alcohol on unborn babies.\n- Carcinogens, including ionising radiation, as risk factors in cancer.\nMany diseases are caused by the interaction of a number of factors.\nStudents should be able to understand the principles of sampling as\napplied to scientific data in terms of risk factors.\nStudents should be able to translate information between graphical\nand numerical forms; and extract and interpret information from charts,\ngraphs and tables in terms of risk factors.\nStudents should be able to use a scatter diagram to identify a correlation\nbetween two variables in terms of risk factors.\nKey opportunities for\nskills development\nWS 1.4\nWS 1.5\nInterpret data about risk\nfactors for specified\ndiseases.\nMS 2d\nMS 2c, 4a\nMS 2g",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.7",
+                  "title": "Cancer",
+                  "level": 3,
+                  "content": "Students should be able to describe cancer as the result of changes in\ncells that lead to uncontrolled growth and division.\nBenign tumours are growths of abnormal cells which are contained in\none area, usually within a membrane. They do not invade other parts of\nthe body.\nMalignant tumour cells are cancers. They invade neighbouring tissues\nand spread to different parts of the body in the blood where they form\nsecondary tumours.\nScientists have identified lifestyle risk factors for various types of cancer.\nThere are also genetic risk factors for some cancers.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.3",
+              "title": "Plant tissues, organs and systems",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.3.1",
+                  "title": "Plant tissues",
+                  "level": 3,
+                  "content": "Students should be able to explain how the structures of plant tissues\nare related to their functions.\nPlant tissues include:\n- epidermal tissues\n- palisade mesophyll\n- spongy mesophyll\n- xylem and phloem\n- meristem tissue found at the growing tips of shoots and roots.\nThe leaf is a plant organ. Knowledge limited to epidermis, palisade and\nspongy mesophyll, xylem and phloem, and guard cells surrounding\nstomata.\nKey opportunities for\nskills development\nAT 7\nObservation and drawing\nof a transverse section of\nleaf.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.3.2",
+                  "title": "Plant organ system",
+                  "level": 3,
+                  "content": "Students should be able to explain how the structure of\nroot hair cells, xylem and phloem are adapted to their\nfunctions.\nStudents should be able to explain the effect of\nchanging temperature, humidity, air movement and\nlight intensity on the rate of transpiration.\nStudents should be able to understand and use simple\ncompound measures such as the rate of transpiration.\nStudents should be able to:\n- translate information between graphical and\nnumerical form\n- plot and draw appropriate graphs, selecting\nappropriate scales for axes\n- extract and interpret information from graphs, charts\nand tables.\nThe roots, stem and leaves form a plant organ system\nfor transport of substances around the plant.\nStudents should be able to describe the process of\ntranspiration and translocation, including the structure\nand function of the stomata.\nRoot hair cells are adapted for the efficient uptake of\nwater by osmosis, and mineral ions by active transport.\nXylem tissue transports water and mineral ions from\nthe roots to the stems and leaves. It is composed of\nhollow tubes strengthened by lignin adapted for the\ntransport of water in the transpiration stream.\nThe role of stomata and guard cells are to control gas\nexchange and water loss.\nPhloem tissue transports dissolved sugars from the\nleaves to the rest of the plant for immediate use or\nstorage. The movement of food molecules through\nphloem tissue is called translocation.\nPhloem is composed of tubes of elongated cells. Cell\nsap can move from one phloem cell to the next through\npores in the end walls.\nDetailed structure of phloem tissue or the mechanism\nof transport is not required.\nKey opportunities for skills development\nAT 3, 4, 5\nMeasure the rate of transpiration by the\nuptake of water.\nAT 6, 7\nInvestigate the distribution of stomata and\nguard cells.\nMS 2a, 2d, 5c\nProcess data from investigations involving\nstomata and transpiration rates to find\narithmetic means, understand the principles\nof sampling and calculate surface areas\nand volumes.\nMS 1a, 1c\nMS 2c, 4a, 4c",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.3",
+          "title": "Infection and response",
+          "level": 1,
+          "content": "Pathogens are microorganisms such as viruses and bacteria that cause infectious diseases in animals\nand plants. They depend on their host to provide the conditions and nutrients that they need to grow\nand reproduce. They frequently produce toxins that damage tissues and make us feel ill.\nThis section will explore how we can avoid diseases by reducing contact with them, as well as how the\nbody uses barriers against pathogens. Once inside the body our immune system is triggered which is\nusually strong enough to destroy the pathogen and prevent disease.\nWhen at risk from unusual or dangerous diseases our body’s natural system can be enhanced by the\nuse of vaccination. Since the 1940s a range of antibiotics have been developed which have proved\nsuccessful against a number of lethal diseases caused by bacteria. Unfortunately many groups of\nbacteria have now become resistant to these antibiotics. The race is now on to develop a new set of\nantibiotics.",
+          "children": [
+            {
+              "code": "4.3.1",
+              "title": "Communicable diseases",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.1.1",
+                  "title": "Communicable (infectious) diseases",
+                  "level": 3,
+                  "content": "Students should be able to explain how diseases caused by viruses,\nbacteria, protists and fungi are spread in animals and plants.\nStudents should be able to explain how the spread of diseases can be\nreduced or prevented.\nPathogens are microorganisms that cause infectious disease. Pathogens\nmay be viruses, bacteria, protists or fungi. They may infect plants or\nanimals and can be spread by direct contact, by water or by air.\nBacteria and viruses may reproduce rapidly inside the body.\nBacteria may produce poisons (toxins) that damage tissues and make us\nfeel ill.\nViruses live and reproduce inside cells, causing cell damage.\nKey opportunities for\nskills development\nWS 1.4",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.2",
+                  "title": "Viral diseases",
+                  "level": 3,
+                  "content": "Measles is a viral disease showing symptoms of fever and a red skin\nrash. Measles is a serious illness that can be fatal if complications arise.\nFor this reason most young children are vaccinated against measles.\nThe measles virus is spread by inhalation of droplets from sneezes and\ncoughs.\nHIV initially causes a flu-like illness. Unless successfully controlled with\nantiretroviral drugs the virus attacks the body’s immune cells. Late\nstage HIV infection, or AIDS, occurs when the body’s immune system\nbecomes so badly damaged it can no longer deal with other infections\nor cancers. HIV is spread by sexual contact or exchange of body fluids\nsuch as blood which occurs when drug users share needles.\nTobacco mosaic virus (TMV) is a widespread plant pathogen affecting\nmany species of plants including tomatoes. It gives a distinctive ‘mosaic’\npattern of discolouration on the leaves which affects the growth of the\nplant due to lack of photosynthesis.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.3",
+                  "title": "Bacterial diseases",
+                  "level": 3,
+                  "content": "Salmonella food poisoning is spread by bacteria ingested in food,\nor on food prepared in unhygienic conditions. In the UK, poultry are\nvaccinated against Salmonella to control the spread. Fever, abdominal\ncramps, vomiting and diarrhoea are caused by the bacteria and the\ntoxins they secrete.\nGonorrhoea is a sexually transmitted disease (STD) with symptoms of\na thick yellow or green discharge from the vagina or penis and pain on\nurinating. It is caused by a bacterium and was easily treated with the\nantibiotic penicillin until many resistant strains appeared. Gonorrhoea\nis spread by sexual contact. The spread can be controlled by treatment\nwith antibiotics or the use of a barrier method of contraception such as a\ncondom.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.4",
+                  "title": "Fungal diseases",
+                  "level": 3,
+                  "content": "Rose black spot is a fungal disease where purple or black spots develop\non leaves, which often turn yellow and drop early. It affects the growth of\nthe plant as photosynthesis is reduced. It is spread in the environment\nby water or wind. Rose black spot can be treated by using fungicides\nand/or removing and destroying the affected leaves.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.5",
+                  "title": "Protist diseases",
+                  "level": 3,
+                  "content": "The pathogens that cause malaria are protists.\nThe malarial protist has a life cycle that includes the mosquito. Malaria\ncauses recurrent episodes of fever and can be fatal. The spread\nof malaria is controlled by preventing the vectors, mosquitos, from\nbreeding and by using mosquito nets to avoid being bitten.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.6",
+                  "title": "Human defence systems",
+                  "level": 3,
+                  "content": "Students should be able to describe the non-specific defence systems\nof the human body against pathogens, including the:\n- skin\n- nose\n- trachea and bronchi\n- stomach.\nStudents should be able to explain the role of the immune system in the\ndefence against disease.\nIf a pathogen enters the body the immune system tries to destroy the\npathogen.\nWhite blood cells help to defend against pathogens by:\n- phagocytosis\n- antibody production\n- antitoxin production.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.7",
+                  "title": "Vaccination",
+                  "level": 3,
+                  "content": "Students should be able to explain how vaccination will prevent illness\nin an individual, and how the spread of pathogens can be reduced by\nimmunising a large proportion of the population.\nVaccination involves introducing small quantities of dead or inactive\nforms of a pathogen into the body to stimulate the white blood cells\nto produce antibodies. If the same pathogen re-enters the body the\nwhite blood cells respond quickly to produce the correct antibodies,\npreventing infection.\nStudents do not need to know details of vaccination schedules and side\neffects associated with specific vaccines.\nKey opportunities for\nskills development\nWS 1.4\nEvaluate the global use\nof vaccination in the\nprevention of disease.",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.8",
+                  "title": "Antibiotics and painkillers",
+                  "level": 3,
+                  "content": "Students should be able to explain the use of antibiotics\nand other medicines in treating disease.\nAntibiotics, such as penicillin, are medicines that help to\ncure bacterial disease by killing infective bacteria inside\nthe body. It is important that specific bacteria should be\ntreated by specific antibiotics.\nThe use of antibiotics has greatly reduced deaths from\ninfectious bacterial diseases. However, the emergence of\nstrains resistant to antibiotics is of great concern.\nAntibiotics cannot kill viral pathogens.\nPainkillers and other medicines are used to treat the\nsymptoms of disease but do not kill pathogens.\nIt is difficult to develop drugs that kill viruses without also\ndamaging the body’s tissues.\nKey opportunities for skills\nWS 1.4\nThere are links with this content to\nCulturing microorganisms (biology only).\nThere are links with this content to\nResistant bacteria.",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.9",
+                  "title": "Discovery and development of drugs",
+                  "level": 3,
+                  "content": "Students should be able to describe the process of discovery and\ndevelopment of potential new medicines, including preclinical and\nclinical testing.\nTraditionally drugs were extracted from plants and microorganisms.\n- The heart drug digitalis originates from foxgloves.\n- The painkiller aspirin originates from willow.\n- Penicillin was discovered by Alexander Fleming from the Penicillium\nmould.\nMost new drugs are synthesised by chemists in the pharmaceutical\nindustry. However, the starting point may still be a chemical extracted\nfrom a plant.\nNew medical drugs have to be tested and trialled before being used to\ncheck that they are safe and effective.\nNew drugs are extensively tested for toxicity, efficacy and dose.\nPreclinical testing is done in a laboratory using cells, tissues and live\nanimals.\nClinical trials use healthy volunteers and patients.\n- Very low doses of the drug are given at the start of the clinical trial.\n- If the drug is found to be safe, further clinical trials are carried out to\nfind the optimum dose for the drug.\n- In double blind trials, some patients are given a placebo.\nKey opportunities for\nskills development\nWS 1.6\nUnderstand that the\nresults of testing and trials\nare published only after\nscrutiny by peer review.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.2",
+              "title": "Monoclonal antibodies (biology only) (HT only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.2.1",
+                  "title": "Producing monoclonal antibodies",
+                  "level": 3,
+                  "content": "Students should be able to describe how monoclonal antibodies are\nproduced.\nMonoclonal antibodies are produced from a single clone of cells. The\nantibodies are specific to one binding site on one protein antigen and so\nare able to target a specific chemical or specific cells in the body.\nThey are produced by stimulating mouse lymphocytes to make a\nparticular antibody. The lymphocytes are combined with a particular kind\nof tumour cell to make a cell called a hybridoma cell. The hybridoma\ncell can both divide and make the antibody. Single hybridoma cells\nare cloned to produce many identical cells that all produce the same\nantibody. A large amount of the antibody can be collected and purified.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.3.2.2",
+                  "title": "Uses of monoclonal antibodies",
+                  "level": 3,
+                  "content": "Students should be able to describe some of the ways in which\nmonoclonal antibodies can be used.\nSome examples include:\n- for diagnosis such as in pregnancy tests\n- in laboratories to measure the levels of hormones and other\nchemicals in blood, or to detect pathogens\n- in research to locate or identify specific molecules in a cell or tissue\nby binding to them with a fluorescent dye\n- to treat some diseases: for cancer the monoclonal antibody can be\nbound to a radioactive substance, a toxic drug or a chemical which\nstops cells growing and dividing. It delivers the substance to the\ncancer cells without harming other cells in the body.\nStudents are not expected to recall any specific tests or treatments but\ngiven appropriate information they should be able to explain how they\nwork.\nMonoclonal antibodies create more side effects than expected. They\nare not yet as widely used as everyone hoped when they were first\ndeveloped.\nKey opportunities for\nskills development\nWS 1.3\nAppreciate the power of\nmonoclonal antibodies\nand consider any ethical\nissues.\nWS 1.5\nEvaluate the advantages\nand disadvantages of\nmonoclonal antibodies.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.3",
+              "title": "Plant disease (biology only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.3.1",
+                  "title": "Detection and identification of plant diseases",
+                  "level": 3,
+                  "content": "(HT only) Plant diseases can be detected by:\n- stunted growth\n- spots on leaves\n- areas of decay (rot)\n- growths\n- malformed stems or leaves\n- discolouration\n- the presence of pests.\n(HT only) Identification can be made by:\n- reference to a gardening manual or website\n- taking infected plants to a laboratory to identify the pathogen\n- using testing kits that contain monoclonal antibodies.\nPlants can be infected by a range of viral, bacterial and fungal\npathogens as well as by insects.\nKnowledge of plant diseases is restricted to tobacco mosaic virus as a\nviral disease, black spot as a fungal disease and aphids as insects.\nPlants can be damaged by a range of ion deficiency conditions:\n- stunted growth caused by nitrate deficiency\n- chlorosis caused by magnesium deficiency.\nKnowledge of ions is limited to nitrate ions needed for protein synthesis\nand therefore growth, and magnesium ions needed to make chlorophyll.\nKey opportunities for\nskills development\nWS 1.4\nThe everyday application\nof scientific knowledge to\ndetect and identify plant\ndisease.\nWS 1.4\nThe understanding of\nion deficiencies allows\nhorticulturists to provide\noptimum conditions for\nplants.",
+                  "children": []
+                },
+                {
+                  "code": "4.3.3.2",
+                  "title": "Plant defence responses",
+                  "level": 3,
+                  "content": "Students should be able to describe physical and chemical plant\ndefence responses.\nPhysical defence responses to resist invasion of microorganisms.\n- Cellulose cell walls.\n- Tough waxy cuticle on leaves.\n- Layers of dead cells around stems (bark on trees) which fall off.\nChemical plant defence responses.\n- Antibacterial chemicals.\n- Poisons to deter herbivores.\nMechanical adaptations.\n- Thorns and hairs deter animals.\n- Leaves which droop or curl when touched.\n- Mimicry to trick animals.\nKey opportunities for\nskills development\nThere are links with this\ncontent to Adaptations.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.4",
+          "title": "Bioenergetics",
+          "level": 1,
+          "content": "In this section we will explore how plants harness the Sun’s energy in photosynthesis in order to make\nfood. This process liberates oxygen which has built up over millions of years in the Earth’s atmosphere.\nBoth animals and plants use this oxygen to oxidise food in a process called aerobic respiration which\ntransfers the energy that the organism needs to perform its functions. Conversely, anaerobic respiration\ndoes not require oxygen to transfer energy. During vigorous exercise the human body is unable to\nsupply the cells with sufficient oxygen and it switches to anaerobic respiration. This process will supply\nenergy but also causes the build-up of lactic acid in muscles which causes fatigue.",
+          "children": [
+            {
+              "code": "4.4.1",
+              "title": "Photosynthesis",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.1.1",
+                  "title": "Photosynthetic reaction",
+                  "level": 3,
+                  "content": "Photosynthesis is represented by the equation:\nlight glucose + oxygen\ncarbon dioxide + water\nStudents should recognise the chemical symbols:\nCO2, H2O, O2 and C6H12O6.\nStudents should be able to describe photosynthesis as an endothermic\nreaction in which energy is transferred from the environment to the\nchloroplasts by light.\nKey opportunities for\nskills development\nThere are links with this\ncontent to Plant tissues,\nthe leaf.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.2",
+                  "title": "Rate of photosynthesis",
+                  "level": 3,
+                  "content": "Students should be able to explain the effects of temperature, light\nintensity, carbon dioxide concentration, and the amount of chlorophyll\non the rate of photosynthesis.\nStudents should be able to:\n- measure and calculate rates of photosynthesis\n- extract and interpret graphs of photosynthesis rate involving one\nlimiting factor\n- plot and draw appropriate graphs selecting appropriate scale for axes\n- translate information between graphical and numeric form.\n(HT only) These factors interact and any one of them may be the factor\nthat limits photosynthesis.\n(HT only) Students should be able to explain graphs of photosynthesis\nrate involving two or three factors and decide which is the limiting factor.\n(HT only) Students should understand and use inverse proportion – the\ninverse square law and light intensity in the context of photosynthesis.\n(HT only) Limiting factors are important in the economics of\nenhancing the conditions in greenhouses to gain the maximum rate of\nphotosynthesis while still maintaining profit.\nRequired practical activity 6: investigate the effect of light intensity on the rate of photosynthesis\nusing an aquatic organism such as pondweed.\nAT skills covered by this practical activity: AT 1, 2, 3, 4 and 5.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nKey opportunities for\nskills development\nMS 3d\nSolve simple algebraic\nequations.\nMS 1a, 1c, 2c, 4a, 4c\nMS 3a, 3d\n(HT only) WS 1.4\nUse data to relate limiting\nfactors to the cost\neffectiveness of adding\nheat, light or carbon\ndioxide to greenhouses.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.3",
+                  "title": "Uses of glucose from photosynthesis",
+                  "level": 3,
+                  "content": "The glucose produced in photosynthesis may be:\n- used for respiration\n- converted into insoluble starch for storage\n- used to produce fat or oil for storage\n- used to produce cellulose, which strengthens the cell wall\n- used to produce amino acids for protein synthesis.\nTo produce proteins, plants also use nitrate ions that are absorbed from\nthe soil.\nKey opportunities for\nskills development\nAT 8\nTests to identify starch,\nglucose and proteins\nusing simple qualitative\nreagents.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.2",
+              "title": "Respiration",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.2.1",
+                  "title": "Aerobic and anaerobic respiration",
+                  "level": 3,
+                  "content": "Students should be able to describe cellular respiration as an\nexothermic reaction which is continuously occurring in living cells.\nThe energy transferred supplies all the energy needed for living\nprocesses.\nRespiration in cells can take place aerobically (using oxygen) or\nanaerobically (without oxygen), to transfer energy.\nStudents should be able to compare the processes of aerobic and\nanaerobic respiration with regard to the need for oxygen, the differing\nproducts and the relative amounts of energy transferred.\nOrganisms need energy for:\n- chemical reactions to build larger molecules\n- movement\n- keeping warm.\nAerobic respiration is represented by the equation:\nglucose + oxygen\ncarbon dioxide + water\nStudents should recognise the chemical symbols:\nC6H12O6, O2, CO2 and H2O.\nAnaerobic respiration in muscles is represented by the equation:\nglucose\nlactic acid\nAs the oxidation of glucose is incomplete in anaerobic respiration much\nless energy is transferred than in aerobic respiration.\nAnaerobic respiration in plant and yeast cells is represented by the\nequation:\nglucose\nethanol + carbon dioxide\nAnaerobic respiration in yeast cells is called fermentation and has\neconomic importance in the manufacture of bread and alcoholic drinks.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.2",
+                  "title": "Response to exercise",
+                  "level": 3,
+                  "content": "During exercise the human body reacts to the increased demand for\nenergy.\nThe heart rate, breathing rate and breath volume increase during\nexercise to supply the muscles with more oxygenated blood.\nIf insufficient oxygen is supplied anaerobic respiration takes place in\nmuscles. The incomplete oxidation of glucose causes a build up of\nlactic acid and creates an oxygen debt. During long periods of vigorous\nactivity muscles become fatigued and stop contracting efficiently.\n(HT only) Blood flowing through the muscles transports the lactic acid\nto the liver where it is converted back into glucose. Oxygen debt is the\namount of extra oxygen the body needs after exercise to react with the\naccumulated lactic acid and remove it from the cells.\nKey opportunities for\nskills development\nAT 1, 3, 4\nInvestigations into the\neffect of exercise on the\nbody.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.3",
+                  "title": "Metabolism",
+                  "level": 3,
+                  "content": "Students should be able to explain the importance of sugars, amino\nacids, fatty acids and glycerol in the synthesis and breakdown of\ncarbohydrates, proteins and lipids.\nMetabolism is the sum of all the reactions in a cell or the body.\nThe energy transferred by respiration in cells is used by the organism\nfor the continual enzyme controlled processes of metabolism that\nsynthesise new molecules.\nMetabolism includes:\n- conversion of glucose to starch, glycogen and cellulose\n- the formation of lipid molecules from a molecule of glycerol and three\nmolecules of fatty acids\n- the use of glucose and nitrate ions to form amino acids which in turn\nare used to synthesise proteins\n- respiration\n- breakdown of excess proteins to form urea for excretion.\nAll of these aspects are covered in more detail in the relevant\nspecification section but are linked together here.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.5",
+          "title": "Homeostasis and response",
+          "level": 1,
+          "content": "Cells in the body can only survive within narrow physical and chemical limits. They require a constant\ntemperature and pH as well as a constant supply of dissolved food and water. In order to do this the\nbody requires control systems that constantly monitor and adjust the composition of the blood and\ntissues. These control systems include receptors which sense changes and effectors that bring about\nchanges.\nIn this section we will explore the structure and function of the nervous system and how it can bring\nabout fast responses. We will also explore the hormonal system which usually brings about much\nslower changes. Hormonal coordination is particularly important in reproduction since it controls the\nmenstrual cycle. An understanding of the role of hormones in reproduction has allowed scientists to\ndevelop not only contraceptive drugs but also drugs which can increase fertility.",
+          "children": [
+            {
+              "code": "4.5.1",
+              "title": "Homeostasis",
+              "level": 2,
+              "content": "Students should be able to explain that homeostasis is the regulation\nof the internal conditions of a cell or organism to maintain optimum\nconditions for function in response to internal and external changes.\nHomeostasis maintains optimal conditions for enzyme action and all cell\nfunctions.\nIn the human body, these include control of:\n- blood glucose concentration\n- body temperature\n- water levels.\nThese automatic control systems may involve nervous responses or\nchemical responses.\nAll control systems include:\n- cells called receptors, which detect stimuli (changes in the\nenvironment)\n- coordination centres (such as the brain, spinal cord and pancreas)\nthat receive and process information from receptors\n- effectors, muscles or glands, which bring about responses which\nrestore optimum levels.\nKey opportunities for\nskills development",
+              "children": []
+            },
+            {
+              "code": "4.5.2",
+              "title": "The human nervous system",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.2.1",
+                  "title": "Structure and function",
+                  "level": 3,
+                  "content": "Students should be able to explain how the structure of the nervous\nsystem is adapted to its functions.\nThe nervous system enables humans to react to their surroundings and\nto coordinate their behaviour.\nInformation from receptors passes along cells (neurones) as electrical\nimpulses to the central nervous system (CNS). The CNS is the brain and\nspinal cord. The CNS coordinates the response of effectors which may\nbe muscles contracting or glands secreting hormones.\nstimulus\nreceptor\ncoordinator\neffector\nresponse\nStudents should be able to explain how the various structures in a reflex\narc – including the sensory neurone, synapse, relay neurone and motor\nneurone – relate to their function. Students should understand why reflex\nactions are important.\nReflex actions are automatic and rapid; they do not involve the\nconscious part of the brain.\nStudents should be able to extract and interpret data from graphs,\ncharts and tables, about the functioning of the nervous system.\nStudents should be able to translate information about reaction times\nbetween numerical and graphical forms.\nRequired practical activity 7: plan and carry out an investigation into the effect of a factor on human\nreaction time.\nAT skills covered by this practical activity: AT 1, 3 and 4.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nKey opportunities for\nskills development\nMS 2c\nMS 4a",
+                  "children": []
+                },
+                {
+                  "code": "4.5.2.2",
+                  "title": "The brain (biology only)",
+                  "level": 3,
+                  "content": "The brain controls complex behaviour. It is made of billions of\ninterconnected neurones and has different regions that carry out\ndifferent functions.\nStudents should be able to identify the cerebral cortex, cerebellum and\nmedulla on a diagram of the brain, and describe their functions.\n(HT only) Students should be able to explain some of the difficulties of\ninvestigating brain function and treating brain damage and disease.\n(HT only) Neuroscientists have been able to map the regions of the\nbrain to particular functions by studying patients with brain damage,\nelectrically stimulating different parts of the brain and using MRI\nscanning techniques. The complexity and delicacy of the brain makes\ninvestigating and treating brain disorders very difficult.\nKey opportunities for\nskills development\n(HT only)\nWS 1.5\nEvaluate the benefits\nand risks of procedures\ncarried out on the brain\nand nervous system.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.2.3",
+                  "title": "The eye (biology only)",
+                  "level": 3,
+                  "content": "Students should be able to relate the structures of the eye to their\nfunctions. This includes:\n- accommodation to focus on near or distant objects\n- adaptation to dim light.\nThe eye is a sense organ containing receptors sensitive to light intensity\nand colour.\nKey opportunities for\nskills development\nStudents should be able to identify the following structures on a diagram\nof the eye and explain how their structure is related to their function:\n- retina\n- optic nerve\n- sclera\n- cornea\n- iris\n- ciliary muscles\n- suspensory ligaments.\nAccommodation is the process of changing the shape of the lens to\nfocus on near or distant objects.\nTo focus on a near object:\n- the ciliary muscles contract\n- the suspensory ligaments loosen\n- the lens is then thicker and refracts light rays strongly.\nTo focus on a distant object:\n- the ciliary muscles relax\n- the suspensory ligaments are pulled tight\n- the lens is then pulled thin and only slightly refracts light rays.\nTwo common defects of the eyes are myopia (short sightedness) and\nhyperopia (long sightedness) in which rays of light do not focus on the\nretina.\n- Generally these defects are treated with spectacle lenses which\nrefract the light rays so that they do focus on the retina.\n- New technologies now include hard and soft contact lenses, laser\nsurgery to change the shape of the cornea and a replacement lens in\nthe eye.\nStudents should be able to interpret ray diagrams, showing these two\ncommon defects of the eye and demonstrate how spectacle lenses\ncorrect them.\nKey opportunities for\nskills development\nWS 1.2\nWS 1.2, 1.4",
+                  "children": []
+                },
+                {
+                  "code": "4.5.2.4",
+                  "title": "Control of body temperature (biology only)",
+                  "level": 3,
+                  "content": "Body temperature is monitored and controlled by the thermoregulatory\ncentre in the brain. The thermoregulatory centre contains receptors\nsensitive to the temperature of the blood. The skin contains temperature\nreceptors and sends nervous impulses to the thermoregulatory centre.\nIf the body temperature is too high, blood vessels dilate (vasodilation)\nand sweat is produced from the sweat glands. Both these mechanisms\ncause a transfer of energy from the skin to the environment.\nIf the body temperature is too low, blood vessels constrict\n(vasoconstriction), sweating stops and skeletal muscles contract (shiver).\n(HT only) Students should be able to explain how these mechanisms\nlower or raise body temperature in a given context.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.3",
+              "title": "Hormonal coordination in humans",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.3.1",
+                  "title": "Human endocrine system",
+                  "level": 3,
+                  "content": "Students should be able to describe the principles of hormonal\ncoordination and control by the human endocrine system.\nThe endocrine system is composed of glands which secrete chemicals\ncalled hormones directly into the bloodstream. The blood carries the\nhormone to a target organ where it produces an effect. Compared to the\nnervous system the effects are slower but act for longer.\nThe pituitary gland in the brain is a ‘master gland’ which secretes\nseveral hormones into the blood in response to body conditions. These\nhormones in turn act on other glands to stimulate other hormones to be\nreleased to bring about effects.\nStudents should be able to identify the position of the following on a\ndiagram of the human body:\n- pituitary gland\n- pancreas\n- thyroid\n- adrenal gland\n- ovary\n- testes.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.5.3.2",
+                  "title": "Control of blood glucose concentration",
+                  "level": 3,
+                  "content": "Blood glucose concentration is monitored and controlled by the\npancreas.\nIf the blood glucose concentration is too high, the pancreas produces\nthe hormone insulin that causes glucose to move from the blood into the\ncells. In liver and muscle cells excess glucose is converted to glycogen\nfor storage.\nStudents should be able to explain how insulin controls blood glucose\n(sugar) levels in the body.\nType 1 diabetes is a disorder in which the pancreas fails to produce\nsufficient insulin. It is characterised by uncontrolled high blood glucose\nlevels and is normally treated with insulin injections.\nIn Type 2 diabetes the body cells no longer respond to insulin produced\nby the pancreas. A carbohydrate controlled diet and an exercise regime\nare common treatments. Obesity is a risk factor for Type 2 diabetes.\nStudents should be able to compare Type 1 and Type 2 diabetes and\nexplain how they can be treated.\nStudents should be able to extract information and interpret data from\ngraphs that show the effect of insulin in blood glucose levels in both\npeople with diabetes and people without diabetes.\n(HT only) If the blood glucose concentration is too low, the pancreas\nproduces the hormone glucagon that causes glycogen to be converted\ninto glucose and released into the blood.\n(HT only) Students should be able to explain how glucagon interacts\nwith insulin in a negative feedback cycle to control blood glucose (sugar)\nlevels in the body.\nKey opportunities for\nskills development\nWS 1.3\nEvaluate information\naround the relationship\nbetween obesity and\ndiabetes, and make\nrecommendations taking\ninto account social and\nethical issues.\nMS 2c",
+                  "children": []
+                },
+                {
+                  "code": "4.5.3.3",
+                  "title": "Maintaining water and nitrogen balance in the body (biology only)",
+                  "level": 3,
+                  "content": "Students should be able to explain the effect on cells of osmotic\nchanges in body fluids.\nWater leaves the body via the lungs during exhalation.\nWater, ions and urea are lost from the skin in sweat.\nThere is no control over water, ion or urea loss by the lungs or skin.\nExcess water, ions and urea are removed via the kidneys in the urine.\nIf body cells lose or gain too much water by osmosis they do not\nfunction efficiently.\n(HT only) The digestion of proteins from the diet results in excess\namino acids which need to be excreted safely. In the liver these amino\nacids are deaminated to form ammonia. Ammonia is toxic and so it is\nimmediately converted to urea for safe excretion.\nStudents should be able to describe the function of kidneys in\nmaintaining the water balance of the body.\nThe kidneys produce urine by filtration of the blood and selective\nreabsorption of useful substances such as glucose, some ions and\nwater.\nKnowledge of other parts of the urinary system, the structure of the\nkidney and the structure of a nephron is not required.\nStudents should be able to translate tables and bar charts of glucose,\nions and urea before and after filtration.\n(HT only) Students should be able to describe the effect of ADH on the\npermeability of the kidney tubules.\n(HT only) The water level in the body is controlled by the hormone ADH\nwhich acts on the kidney tubules. ADH is released by the pituitary\ngland when the blood is too concentrated and it causes more water\nto be reabsorbed back into the blood from the kidney tubules. This is\ncontrolled by negative feedback.\nPeople who suffer from kidney failure may be treated by organ transplant\nor by using kidney dialysis. Students should know the basic principles of\ndialysis.\nKey opportunities for\nskills development\nMS 4a\nWS 1.4\nStudents should be able\nto describe how kidney\ndialysis works.\nWS 1.5\nEvaluate the advantages\nand disadvantages of\ntreating organ failure by\nmechanical device or\ntransplant.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.3.4",
+                  "title": "Hormones in human reproduction",
+                  "level": 3,
+                  "content": "Students should be able to describe the roles of hormones in human\nreproduction, including the menstrual cycle.\nDuring puberty reproductive hormones cause secondary sex\ncharacteristics to develop.\nOestrogen is the main female reproductive hormone produced in\nthe ovary. At puberty eggs begin to mature and one is released\napproximately every 28 days. This is called ovulation.\nTestosterone is the main male reproductive hormone produced by the\ntestes and it stimulates sperm production.\nSeveral hormones are involved in the menstrual cycle of a woman.\n- Follicle stimulating hormone (FSH) causes maturation of an egg in the\novary.\n- Luteinising hormone (LH) stimulates the release of the egg.\n- Oestrogen and progesterone are involved in maintaining the uterus\nlining.\n(HT only) Students should be able to explain the interactions of FSH,\noestrogen, LH and progesterone, in the control of the menstrual cycle.\n(HT only) Students should be able to extract and interpret data from\ngraphs showing hormone levels during the menstrual cycle.\nKey opportunities for\nskills development\nMS 2c",
+                  "children": []
+                },
+                {
+                  "code": "4.5.3.5",
+                  "title": "Contraception",
+                  "level": 3,
+                  "content": "Students should be able to evaluate the different hormonal and non-\nhormonal methods of contraception.\nFertility can be controlled by a variety of hormonal and non-hormonal\nmethods of contraception.\nThese include:\n- oral contraceptives that contain hormones to inhibit FSH production\nso that no eggs mature\n- injection, implant or skin patch of slow release progesterone to inhibit\nthe maturation and release of eggs for a number of months or years\n- barrier methods such as condoms and diaphragms which prevent the\nsperm reaching an egg\n- intrauterine devices which prevent the implantation of an embryo or\nrelease a hormone\n- spermicidal agents which kill or disable sperm\n- abstaining from intercourse when an egg may be in the oviduct\n- surgical methods of male and female sterilisation.\nKey opportunities for\nskills development\nWS 1.3\nShow why issues around\ncontraception cannot\nbe answered by science\nalone.\nWS 1.4\nExplain everyday and\ntechnological applications\nof science; evaluate\nassociated personal,\nsocial, economic\nand environmental\nimplications; and make\ndecisions based on the\nevaluation of evidence\nand arguments.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.3.6",
+                  "title": "The use of hormones to treat infertility (HT only)",
+                  "level": 3,
+                  "content": "Students should be able to explain the use of hormones in modern\nreproductive technologies to treat infertility.\nThis includes giving FSH and LH in a ‘fertility drug’ to a woman. She\nmay then become pregnant in the normal way.\nIn Vitro Fertilisation (IVF) treatment.\n- IVF involves giving a mother FSH and LH to stimulate the maturation\nof several eggs.\n- The eggs are collected from the mother and fertilised by sperm from\nthe father in the laboratory.\n- The fertilised eggs develop into embryos.\n- At the stage when they are tiny balls of cells, one or two embryos are\ninserted into the mother’s uterus (womb).\nAlthough fertility treatment gives a woman the chance to have a baby of\nher own:\n- it is very emotionally and physically stressful\n- the success rates are not high\n- it can lead to multiple births which are a risk to both the babies and\nthe mother.\nKey opportunities for\nskills development\nWS 1.1\nDevelopments of\nmicroscopy techniques\nhave enabled IVF\ntreatments to develop.\nWS 1.3\nUnderstand social and\nethical issues associated\nwith IVF treatments.\nWS 1.4\nEvaluate from the\nperspective of patients\nand doctors the methods\nof treating infertility.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.3.7",
+                  "title": "Negative feedback (HT only)",
+                  "level": 3,
+                  "content": "Students should be able to explain the roles of thyroxine and adrenaline\nin the body.\nAdrenaline is produced by the adrenal glands in times of fear or stress. It\nincreases the heart rate and boosts the delivery of oxygen and glucose\nto the brain and muscles, preparing the body for ‘flight or fight’.\nThyroxine from the thyroid gland stimulates the basal metabolic rate. It\nplays an important role in growth and development.\nThyroxine levels are controlled by negative feedback.\nKey opportunities for\nskills development\nWS 1.2, MS 2c\nInterpret and explain\nsimple diagrams of\nnegative feedback control.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.4",
+              "title": "Plant hormones (biology only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.4.1",
+                  "title": "Control and coordination",
+                  "level": 3,
+                  "content": "Plants produce hormones to coordinate and control growth and\nresponses to light (phototropism) and gravity (gravitropism or\ngeotropism). Unequal distributions of auxin cause unequal growth rates\nin plant roots and shoots.\n(HT only) Gibberellins are important in initiating seed germination.\n(HT only) Ethene controls cell division and ripening of fruits.\n(HT only) The mechanisms of how gibberellins and ethene work are not\nrequired.\nRequired practical activity 8: investigate the effect of light or gravity on the growth of newly\ngerminated seedlings.\nRecord results as both length measurements and as careful, labelled biological drawings to show the\neffects.\nAT skills covered by this practical activity: AT 1, 3, 4 and 7.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.5.4.2",
+                  "title": "Use of plant hormones (HT only)",
+                  "level": 3,
+                  "content": "Students should be able to describe the effects of some plant hormones\nand the different ways people use them to control plant growth.\nPlant growth hormones are used in agriculture and horticulture.\nAuxins are used:\n- as weed killers\n- as rooting powders\n- for promoting growth in tissue culture.\nEthene is used in the food industry to control ripening of fruit during\nstorage and transport.\nGibberellins can be used to:\n- end seed dormancy\n- promote flowering\n- increase fruit size.\nKey opportunities for\nskills development\nWS 1.3, 1.4\nUnderstand how the\neveryday use of hormones\nas weed killers has an\neffect on biodiversity.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.6",
+          "title": "Inheritance, variation and evolution",
+          "level": 1,
+          "content": "In this section we will discover how the number of chromosomes are halved during meiosis and then\ncombined with new genes from the sexual partner to produce unique offspring. Gene mutations occur\ncontinuously and on rare occasions can affect the functioning of the animal or plant. These mutations\nmay be damaging and lead to a number of genetic disorders or death. Very rarely a new mutation\ncan be beneficial and consequently, lead to increased fitness in the individual. Variation generated by\nmutations and sexual reproduction is the basis for natural selection; this is how species evolve.\nAn understanding of these processes has allowed scientists to intervene through selective breeding\nto produce livestock with favoured characteristics. Once new varieties of plants or animals have\nbeen produced it is possible to clone individuals to produce larger numbers of identical individuals all\ncarrying the favourable characteristic.\nScientists have now discovered how to take genes from one species and introduce them in to the\ngenome of another by a process called genetic engineering. In spite of the huge potential benefits that\nthis technology can offer, genetic modification still remains highly controversial.",
+          "children": [
+            {
+              "code": "4.6.1",
+              "title": "Reproduction",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.1.1",
+                  "title": "Sexual and asexual reproduction",
+                  "level": 3,
+                  "content": "Students should understand that meiosis leads to non-identical cells\nbeing formed while mitosis leads to identical cells being formed.\nSexual reproduction involves the joining (fusion) of male and female\ngametes:\n- sperm and egg cells in animals\n- pollen and egg cells in flowering plants.\nIn sexual reproduction there is mixing of genetic information which leads\nto variety in the offspring. The formation of gametes involves meiosis.\nAsexual reproduction involves only one parent and no fusion of gametes.\nThere is no mixing of genetic information. This leads to genetically\nidentical offspring (clones). Only mitosis is involved.\nKey opportunities for\nskills development\nThere are links\nwith this content to\nMitosis and the cell cycle.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.2",
+                  "title": "Meiosis",
+                  "level": 3,
+                  "content": "Students should be able to explain how meiosis halves the number of\nchromosomes in gametes and fertilisation restores the full number of\nchromosomes.\nCells in reproductive organs divide by meiosis to form gametes.\nWhen a cell divides to form gametes:\n- copies of the genetic information are made\n- the cell divides twice to form four gametes, each with a single set of\nchromosomes\n- all gametes are genetically different from each other.\nGametes join at fertilisation to restore the normal number of\nchromosomes. The new cell divides by mitosis. The number of cells\nincreases. As the embryo develops cells differentiate.\nKnowledge of the stages of meiosis is not required.\nKey opportunities for\nskills development\nWS 1.2\nModelling behaviour of\nchromosomes during\nmeiosis.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.3",
+                  "title": "Advantages and disadvantages of sexual and asexual reproduction (biology only)",
+                  "level": 3,
+                  "content": "Advantages of sexual reproduction:\n- produces variation in the offspring\n- if the environment changes variation gives a survival advantage by natural\nselection\n- natural selection can be speeded up by humans in selective breeding to\nincrease food production.\nAdvantages of asexual reproduction:\n- only one parent needed\n- more time and energy efficient as do not need to find a mate\n- faster than sexual reproduction\n- many identical offspring can be produced when conditions are favourable.\nSome organisms reproduce by both methods depending on the\ncircumstances.\n- Malarial parasites reproduce asexually in the human host, but sexually in\nthe mosquito.\n- Many fungi reproduce asexually by spores but also reproduce sexually to\ngive variation.\n- Many plants produce seeds sexually, but also reproduce asexually by\nrunners such as strawberry plants, or bulb division such as daffodils.\nKnowledge of reproduction in organisms is restricted to those mentioned.\nStudents are expected to be able to explain the advantages and\ndisadvantages of asexual and sexual reproduction for any organism if given\nappropriate information.\nKey opportunities for\nskills development\nThere are links\nwith this content to\nAnimal and plant cells\nand\nCloning (biology only).\nWS 1.1\nHistorical\ndevelopments of\nour understanding\nof the causes and\nprevention of malaria.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.4",
+                  "title": "DNA and the genome",
+                  "level": 3,
+                  "content": "Students should be able to describe the structure of DNA and define\ngenome.\nThe genetic material in the nucleus of a cell is composed of a chemical\ncalled DNA. DNA is a polymer made up of two strands forming a double\nhelix. The DNA is contained in structures called chromosomes.\nA gene is a small section of DNA on a chromosome. Each gene codes\nfor a particular sequence of amino acids, to make a specific protein.\nThe genome of an organism is the entire genetic material of that\norganism. The whole human genome has now been studied and this will\nhave great importance for medicine in the future.\nStudents should be able to discuss the importance of understanding the\nhuman genome.\nThis is limited to the:\n- search for genes linked to different types of disease\n- understanding and treatment of inherited disorders\n- use in tracing human migration patterns from the past.\nKey opportunities for\nskills development\nWS 1.1, 1.4",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.5",
+                  "title": "DNA structure (biology only)",
+                  "level": 3,
+                  "content": "Students should be able to describe DNA as a polymer made from four\ndifferent nucleotides. Each nucleotide consists of a common sugar and\nphosphate group with one of four different bases attached to the sugar.\nDNA contains four bases, A, C, G and T.\nA sequence of three bases is the code for a particular amino acid. The\norder of bases controls the order in which amino acids are assembled to\nproduce a particular protein.\nThe long strands of DNA consist of alternating sugar and phosphate\nsections. Attached to each sugar is one of the four bases.\nThe DNA polymer is made up of repeating nucleotide units.\nKey opportunities for\nskills development\nWS 1.2\nInterpret a diagram of\nDNA structure but will not\nbe required to reproduce\nit.\n(HT only) Students should be able to:\n- recall a simple description of protein synthesis\n- explain simply how the structure of DNA affects the protein made\n- describe how genetic variants may influence phenotype: a) in coding\nDNA by altering the activity of a protein: and b) in non-coding DNA by\naltering how genes are expressed.\n(HT only) In the complementary strands a C is always linked to a G on\nthe opposite strand and a T to an A.\n(HT only) Students are not expected to know or understand the structure\nof mRNA, tRNA, or the detailed structure of amino acids or proteins.\n(HT only) Students should be able to explain how a change in DNA\nstructure may result in a change in the protein synthesised by a gene.\n(HT only) Proteins are synthesised on ribosomes, according to a\ntemplate. Carrier molecules bring specific amino acids to add to the\ngrowing protein chain in the correct order.\n(HT only) When the protein chain is complete it folds up to form a\nunique shape. This unique shape enables the proteins to do their job as\nenzymes, hormones or forming structures in the body such as collagen.\n(HT only) Mutations occur continuously. Most do not alter the protein, or\nonly alter it slightly so that its appearance or function is not changed.\n(HT only) A few mutations code for an altered protein with a different\nshape. An enzyme may no longer fit the substrate binding site or a\nstructural protein may lose its strength.\n(HT only) Not all parts of DNA code for proteins. Non-coding parts of\nDNA can switch genes on and off, so variations in these areas of DNA\nmay affect how genes are expressed.\nKey opportunities for\nskills development\nWS 1.2\nModelling insertions and\ndeletions in chromosomes\nto illustrate mutations.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.6",
+                  "title": "Genetic inheritance",
+                  "level": 3,
+                  "content": "Students should be able to explain the terms:\n- gamete\n- chromosome\n- gene\n- allele\n- dominant\n- recessive\n- homozygous\n- heterozygous\n- genotype\n- phenotype.\nSome characteristics are controlled by a single gene, such as: fur colour\nin mice; and red-green colour blindness in humans. Each gene may have\ndifferent forms called alleles.\nThe alleles present, or genotype, operate at a molecular level to develop\ncharacteristics that can be expressed as a phenotype.\nA dominant allele is always expressed, even if only one copy is present.\nA recessive allele is only expressed if two copies are present (therefore\nno dominant allele present).\nIf the two alleles present are the same the organism is homozygous for\nthat trait, but if the alleles are different they are heterozygous.\nMost characteristics are a result of multiple genes interacting, rather\nthan a single gene.\nStudents should be able to understand the concept of probability\nin predicting the results of a single gene cross, but recall that most\nphenotype features are the result of multiple genes rather than single\ngene inheritance.\nStudents should be able to use direct proportion and simple ratios to\nexpress the outcome of a genetic cross.\nStudents should be able to complete a Punnett square diagram and\nextract and interpret information from genetic crosses and family trees.\n(HT only) Students should be able to construct a genetic cross by\nPunnett square diagram and use it to make predictions using the theory\nof probability.\nKey opportunities for\nskills development\nMS 2e\nMS 1c, 3a\nMS 2c, 4a\nMS 2e, WS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.7",
+                  "title": "Inherited disorders",
+                  "level": 3,
+                  "content": "Some disorders are inherited. These disorders are caused by the\ninheritance of certain alleles.\n- Polydactyly (having extra fingers or toes) is caused by a dominant\nallele.\n- Cystic fibrosis (a disorder of cell membranes) is caused by a\nrecessive allele.\nStudents should make informed judgements about the economic, social\nand ethical issues concerning embryo screening, given appropriate\ninformation.\nKey opportunities for\nskills development\nWS 1.3\nAppreciate that embryo\nscreening and gene\ntherapy may alleviate\nsuffering but consider the\nethical issues which arise.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.8",
+                  "title": "Sex determination",
+                  "level": 3,
+                  "content": "Ordinary human body cells contain 23 pairs of chromosomes.\n22 pairs control characteristics only, but one of the pairs carries the\ngenes that determine sex.\n- In females the sex chromosomes are the same (XX).\n- In males the chromosomes are different (XY).\nStudents should be able to carry out a genetic cross to show sex\ninheritance.\nStudents should understand and use direct proportion and simple ratios\nin genetic crosses.\nKey opportunities for\nskills development\nMS 1c, 3a",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.2",
+              "title": "Variation and evolution",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.2.1",
+                  "title": "Variation",
+                  "level": 3,
+                  "content": "Students should be able to describe simply how the genome and its\ninteraction with the environment influence the development of the\nphenotype of an organism.\nDifferences in the characteristics of individuals in a population is called\nvariation and may be due to differences in:\n- the genes they have inherited (genetic causes)\n- the conditions in which they have developed (environmental causes)\n- a combination of genes and the environment.\nStudents should be able to:\n- state that there is usually extensive genetic variation within a\npopulation of a species\n- recall that all variants arise from mutations and that: most have\nno effect on the phenotype; some influence phenotype; very few\ndetermine phenotype.\nMutations occur continuously. Very rarely a mutation will lead to a new\nphenotype. If the new phenotype is suited to an environmental change it\ncan lead to a relatively rapid change in the species.\nKey opportunities for\nskills development\nThere are links\nwith this content to\nSpeciation (biology only).",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.2",
+                  "title": "Evolution",
+                  "level": 3,
+                  "content": "Students should be able to describe evolution as a change in the\ninherited characteristics of a population over time through a process of\nnatural selection which may result in the formation of a new species.\nThe theory of evolution by natural selection states that all species of\nliving things have evolved from simple life forms that first developed\nmore than three billion years ago.\nStudents should be able to explain how evolution occurs through natural\nselection of variants that give rise to phenotypes best suited to their\nenvironment.\nIf two populations of one species become so different in phenotype\nthat they can no longer interbreed to produce fertile offspring they have\nformed two new species.\nKey opportunities for\nskills development\nWS 1.2\nUse the theory of\nevolution by natural\nselection in an\nexplanation.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.3",
+                  "title": "Selective breeding",
+                  "level": 3,
+                  "content": "Students should be able to explain the impact of selective breeding of\nfood plants and domesticated animals.\nSelective breeding (artificial selection) is the process by which humans\nbreed plants and animals for particular genetic characteristics. Humans\nhave been doing this for thousands of years since they first bred food\ncrops from wild plants and domesticated animals.\nSelective breeding involves choosing parents with the desired\ncharacteristic from a mixed population. They are bred together. From the\noffspring those with the desired characteristic are bred together. This\ncontinues over many generations until all the offspring show the desired\ncharacteristic.\nThe characteristic can be chosen for usefulness or appearance:\n- Disease resistance in food crops.\n- Animals which produce more meat or milk.\n- Domestic dogs with a gentle nature.\n- Large or unusual flowers.\nSelective breeding can lead to ‘inbreeding’ where some breeds are\nparticularly prone to disease or inherited defects.\nKey opportunities for\nskills development\nWS 1.3, 1.4\nExplain the benefits and\nrisks of selective breeding\ngiven appropriate\ninformation and consider\nrelated ethical issues.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.4",
+                  "title": "Genetic engineering",
+                  "level": 3,
+                  "content": "Students should be able to describe genetic engineering as a process\nwhich involves modifying the genome of an organism by introducing a\ngene from another organism to give a desired characteristic.\nPlant crops have been genetically engineered to be resistant to diseases\nor to produce bigger better fruits.\nBacterial cells have been genetically engineered to produce useful\nsubstances such as human insulin to treat diabetes.\nStudents should be able to explain the potential benefits and risks of\ngenetic engineering in agriculture and in medicine and that some people\nhave objections.\nIn genetic engineering, genes from the chromosomes of humans and\nother organisms can be ‘cut out’ and transferred to cells of other\norganisms.\nCrops that have had their genes modified in this way are called\ngenetically modified (GM) crops. GM crops include ones that are\nresistant to insect attack or to herbicides. GM crops generally show\nincreased yields.\nConcerns about GM crops include the effect on populations of wild\nflowers and insects. Some people feel the effects of eating GM crops on\nhuman health have not been fully explored.\nModern medical research is exploring the possibility of genetic\nmodification to overcome some inherited disorders.\n(HT only) Students should be able to describe the main steps in the\nprocess of genetic engineering.\n(HT only) In genetic engineering:\n- enzymes are used to isolate the required gene; this gene is inserted\ninto a vector, usually a bacterial plasmid or a virus\n- the vector is used to insert the gene into the required cells\n- genes are transferred to the cells of animals, plants or\nmicroorganisms at an early stage in their development so that they\ndevelop with desired characteristics.\nKey opportunities for\nskills development\nThere are links\nwith this content to\nRole of biotechnology\n(biology only).\nWS 1.3, 1.4\n(HT only)\nWS 1.4\nInterpret information\nabout genetic engineering\ntechniques and to make\ninformed judgements\nabout issues concerning\ncloning and genetic\nengineering, including GM\ncrops.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.5",
+                  "title": "Cloning (biology only)",
+                  "level": 3,
+                  "content": "Tissue culture: using small groups of cells from part of a plant to grow\nidentical new plants. This is important for preserving rare plant species\nor commercially in nurseries.\nCuttings: an older, but simple, method used by gardeners to produce\nmany identical new plants from a parent plant.\nEmbryo transplants: splitting apart cells from a developing animal\nembryo before they become specialised, then transplanting the identical\nembryos into host mothers.\nAdult cell cloning:\n- The nucleus is removed from an unfertilised egg cell.\n- The nucleus from an adult body cell, such as a skin cell, is inserted\ninto the egg cell.\n- An electric shock stimulates the egg cell to divide to form an embryo.\n- These embryo cells contain the same genetic information as the adult\nskin cell.\n- When the embryo has developed into a ball of cells, it is inserted into\nthe womb of an adult female to continue its development.\nKey opportunities for\nskills development\nWS 1.3, 1.4\nExplain the potential\nbenefits and risks of\ncloning in agriculture\nand in medicine and that\nsome people have ethical\nobjections.\nThere are links with this\ncontent to Advantages\nand disadvantages of\nsexual and asexual\nreproduction (biology only)\nand Selective breeding.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.3",
+              "title": "The development of understanding of genetics and evolution",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.3.1",
+                  "title": "Theory of evolution (biology only)",
+                  "level": 3,
+                  "content": "Charles Darwin, as a result of observations on a round the world\nexpedition, backed by years of experimentation and discussion and\nlinked to developing knowledge of geology and fossils, proposed the\ntheory of evolution by natural selection.\n- Individual organisms within a particular species show a wide range of\nvariation for a characteristic.\n- Individuals with characteristics most suited to the environment are\nmore likely to survive to breed successfully.\n- The characteristics that have enabled these individuals to survive are\nthen passed on to the next generation.\nDarwin published his ideas in On the Origin of Species (1859). There was\nmuch controversy surrounding these revolutionary new ideas.\nThe theory of evolution by natural selection was only gradually accepted\nbecause:\n- the theory challenged the idea that God made all the animals and\nplants that live on Earth\n- there was insufficient evidence at the time the theory was published\nto convince many scientists\n- the mechanism of inheritance and variation was not known until\n50 years after the theory was published.\nOther theories, including that of Jean-Baptiste Lamarck, are based\nmainly on the idea that changes that occur in an organism during its\nlifetime can be inherited. We now know that in the vast majority of cases\nthis type of inheritance cannot occur.\nA study of creationism is not required.\nKey opportunities for\nskills development\nWS 1.1, 1.3\nStudents should\nappreciate that the theory\nof evolution by natural\nselection developed over\ntime and from information\ngathered by many\nscientists.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.3.2",
+                  "title": "Speciation (biology only)",
+                  "level": 3,
+                  "content": "Students should be able to:\n- describe the work of Darwin and Wallace in the development of the\ntheory of evolution by natural selection\n- explain the impact of these ideas on biology.\nAlfred Russel Wallace independently proposed the theory of evolution\nby natural selection. He published joint writings with Darwin in 1858\nwhich prompted Darwin to publish On the Origin of Species (1859) the\nfollowing year.\nWallace worked worldwide gathering evidence for evolutionary theory.\nHe is best known for his work on warning colouration in animals and his\ntheory of speciation.\nAlfred Wallace did much pioneering work on speciation but more\nevidence over time has led to our current understanding of the theory of\nspeciation.\nStudents should be able to describe the steps which give rise to new\nspecies.\nKey opportunities for\nskills development\nThere are links with this\ncontent to Evolution.\nWS 1.1\nThe theory of speciation\nhas developed over time.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.3.3",
+                  "title": "The understanding of genetics (biology only)",
+                  "level": 3,
+                  "content": "Students should be able to:\n- describe the development of our understanding of genetics including\nthe work of Mendel\n- understand why the importance of Mendel’s discovery was not\nrecognised until after his death.\nIn the mid-19th century Gregor Mendel carried out breeding experiments\non plants. One of his observations was that the inheritance of\neach characteristic is determined by ‘units’ that are passed on to\ndescendants unchanged.\nIn the late 19th century behaviour of chromosomes during cell division\nwas observed.\nIn the early 20th century it was observed that chromosomes and\nMendel’s ‘units’ behaved in similar ways. This led to the idea that the\n‘units’, now called genes, were located on chromosomes.\nIn the mid-20th century the structure of DNA was determined and the\nmechanism of gene function worked out.\nThis scientific work by many scientists led to the gene theory being\ndeveloped.\nKey opportunities for\nskills development\nWS 1.1\nOur current understanding\nof genetics has developed\nover time.\nThere are links\nwith this content to\nGenetic inheritance.\nWS 1.1",
+                  "children": []
+                },
+                {
+                  "code": "4.6.3.4",
+                  "title": "Evidence for evolution",
+                  "level": 3,
+                  "content": "Students should be able to describe the evidence for evolution including\nfossils and antibiotic resistance in bacteria.\nThe theory of evolution by natural selection is now widely accepted.\nEvidence for Darwin’s theory is now available as it has been shown\nthat characteristics are passed on to offspring in genes. There is further\nevidence in the fossil record and the knowledge of how resistance to\nantibiotics evolves in bacteria.\nKey opportunities for\nskills development\nWS 1.3\nData is now available\nto support the theory of\nevolution.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.3.5",
+                  "title": "Fossils",
+                  "level": 3,
+                  "content": "Fossils are the ‘remains’ of organisms from millions of years ago, which\nare found in rocks.\nFossils may be formed:\n- from parts of organisms that have not decayed because one or more\nof the conditions needed for decay are absent\n- when parts of the organism are replaced by minerals as they decay\n- as preserved traces of organisms, such as footprints, burrows and\nrootlet traces.\nMany early forms of life were soft-bodied, which means that they\nhave left few traces behind. What traces there were have been mainly\ndestroyed by geological activity. This is why scientists cannot be certain\nabout how life began on Earth.\nWe can learn from fossils how much or how little different organisms\nhave changed as life developed on Earth.\nStudents should be able to extract and interpret information from charts,\ngraphs and tables such as evolutionary trees.\nKey opportunities for\nskills development\nMS 2c, 4a\nExtract and interpret\ninformation from charts,\ngraphs and tables.\nWS 1.3\nAppreciate why the fossil\nrecord is incomplete.\nWS 1.1\nUnderstand how scientific\nmethods and theories\ndevelop over time.\nMS 2c, 4a",
+                  "children": []
+                },
+                {
+                  "code": "4.6.3.6",
+                  "title": "Extinction",
+                  "level": 3,
+                  "content": "Extinctions occur when there are no remaining individuals of a species\nstill alive.\nStudents should be able to describe factors which may contribute to the\nextinction of a species.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.6.3.7",
+                  "title": "Resistant bacteria",
+                  "level": 3,
+                  "content": "Bacteria can evolve rapidly because they reproduce at a fast rate.\nMutations of bacterial pathogens produce new strains. Some strains\nmight be resistant to antibiotics, and so are not killed. They survive and\nreproduce, so the population of the resistant strain rises. The resistant\nstrain will then spread because people are not immune to it and there is\nno effective treatment.\nMRSA is resistant to antibiotics.\nTo reduce the rate of development of antibiotic resistant strains:\n- doctors should not prescribe antibiotics inappropriately, such as\ntreating non-serious or viral infections\n- patients should complete their course of antibiotics so all bacteria are\nkilled and none survive to mutate and form resistant strains\n- the agricultural use of antibiotics should be restricted.\nThe development of new antibiotics is costly and slow. It is unlikely to\nkeep up with the emergence of new resistant strains.\nKey opportunities for\nskills development\nThere are links\nwith this content to\nAntibiotics and painkillers.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.4",
+              "title": "Classification of living organisms",
+              "level": 2,
+              "content": "Traditionally living things have been classified into groups depending\non their structure and characteristics in a system developed by Carl\nLinnaeus.\nLinnaeus classified living things into kingdom, phylum, class, order,\nfamily, genus and species. Organisms are named by the binomial system\nof genus and species.\nStudents should be able to use information given to show understanding\nof the Linnaean system.\nStudents should be able to describe the impact of developments in\nbiology on classification systems.\nAs evidence of internal structures became more developed due to\nimprovements in microscopes, and the understanding of biochemical\nprocesses progressed, new models of classification were proposed.\nDue to evidence available from chemical analysis there is now a ‘three-\ndomain system’ developed by Carl Woese. In this system organisms are\ndivided into:\n- archaea (primitive bacteria usually living in extreme environments)\n- bacteria (true bacteria)\n- eukaryota (which includes protists, fungi, plants and animals).\nEvolutionary trees are a method used by scientists to show how they\nbelieve organisms are related. They use current classification data for\nliving organisms and fossil data for extinct organisms.\nKey opportunities for\nskills development\nWS 1.1\nUnderstand how scientific\nmethods and theories\ndevelop over time.\nWS 1.2\nInterpret evolutionary\ntrees.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.7",
+          "title": "Ecology",
+          "level": 1,
+          "content": "The Sun is a source of energy that passes through ecosystems. Materials including carbon and water\nare continually recycled by the living world, being released through respiration of animals, plants and\ndecomposing microorganisms and taken up by plants in photosynthesis.\nAll species live in ecosystems composed of complex communities of animals and plants dependent\non each other and that are adapted to particular conditions, both abiotic and biotic. These ecosystems\nprovide essential services that support human life and continued development.\nIn order to continue to benefit from these services humans need to engage with the environment in a\nsustainable way. In this section we will explore how humans are threatening biodiversity as well as the\nnatural systems that support it. We will also consider some actions we need to take to ensure our future\nhealth, prosperity and well-being.",
+          "children": [
+            {
+              "code": "4.7.1",
+              "title": "Adaptations, interdependence and competition",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.1.1",
+                  "title": "Communities",
+                  "level": 3,
+                  "content": "Students should be able to describe:\n- different levels of organisation in an ecosystem from individual\norganisms to the whole ecosystem\n- the importance of interdependence and competition in a community.\nStudents should be able to, when provided with appropriate information:\n- suggest the factors for which organisms are competing in a given\nhabitat\n- suggest how organisms are adapted to the conditions in which they\nlive.\nAn ecosystem is the interaction of a community of living organisms\n(biotic) with the non-living (abiotic) parts of their environment.\nTo survive and reproduce, organisms require a supply of materials from\ntheir surroundings and from the other living organisms there.\nPlants in a community or habitat often compete with each other for light\nand space, and for water and mineral ions from the soil. Animals often\ncompete with each other for food, mates and territory.\nWithin a community each species depends on other species for food,\nshelter, pollination, seed dispersal etc. If one species is removed it can\naffect the whole community. This is called interdependence. A stable\ncommunity is one where all the species and environmental factors are in\nbalance so that population sizes remain fairly constant.\nStudents should be able to extract and interpret information from charts,\ngraphs and tables relating to the interaction of organisms within a\ncommunity.\nKey opportunities for\nskills development\nWS 2.6\nRecording first-\nhand observations of\norganisms.\nMS 2c, 4a\nExtract and interpret\ninformation from charts,\ngraphs and tables.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.1.2",
+                  "title": "Abiotic factors",
+                  "level": 3,
+                  "content": "Students should be able to explain how a change in an abiotic factor\nwould affect a given community given appropriate data or context.\nAbiotic (non-living) factors which can affect a community are:\n- light intensity\n- temperature\n- moisture levels\n- soil pH and mineral content\n- wind intensity and direction\n- carbon dioxide levels for plants\n- oxygen levels for aquatic animals.\nStudents should be able to extract and interpret information from charts,\ngraphs and tables relating to the effect of abiotic factors on organisms\nwithin a community.\nKey opportunities for\nskills development\nWS 1.2\nMS 2c, 4a\nExtract and interpret\ninformation from charts,\ngraphs and tables.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.1.3",
+                  "title": "Biotic factors",
+                  "level": 3,
+                  "content": "Students should be able to explain how a change in a biotic factor might\naffect a given community given appropriate data or context.\nBiotic (living) factors which can affect a community are:\n- availability of food\n- new predators arriving\n- new pathogens\n- one species outcompeting another so the numbers are no longer\nsufficient to breed.\nStudents should be able to extract and interpret information from charts,\ngraphs and tables relating to the effect of biotic factors on organisms\nwithin a community.\nKey opportunities for\nskills development\nWS 1.2\nMS 2c, 4a\nExtract and interpret\ninformation from charts,\ngraphs and tables.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.1.4",
+                  "title": "Adaptations",
+                  "level": 3,
+                  "content": "Students should be able to explain how organisms are adapted to live in\ntheir natural environment, given appropriate information.\nOrganisms have features (adaptations) that enable them to survive in\nthe conditions in which they normally live. These adaptations may be\nstructural, behavioural or functional.\nSome organisms live in environments that are very extreme, such as\nat high temperature, pressure, or salt concentration. These organisms\nare called extremophiles. Bacteria living in deep sea vents are\nextremophiles.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.2",
+              "title": "Organisation of an ecosystem",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.2.1",
+                  "title": "Levels of organisation",
+                  "level": 3,
+                  "content": "Students should understand that photosynthetic organisms are the\nproducers of biomass for life on Earth.\nFeeding relationships within a community can be represented by\nfood chains. All food chains begin with a producer which synthesises\nmolecules. This is usually a green plant or alga which makes glucose by\nphotosynthesis.\nA range of experimental methods using transects and quadrats are used\nby ecologists to determine the distribution and abundance of species in\nan ecosystem.\nIn relation to abundance of organisms students should be able to:\n- understand the terms mean, mode and median\n- calculate arithmetic means\n- plot and draw appropriate graphs selecting appropriate scales for the\naxes.\nProducers are eaten by primary consumers, which in turn may be eaten\nby secondary consumers and then tertiary consumers.\nConsumers that kill and eat other animals are predators, and those\neaten are prey. In a stable community the numbers of predators and\nprey rise and fall in cycles.\nStudents should be able to interpret graphs used to model these cycles.\nRequired practical activity 9: measure the population size of a common species in a habitat. Use\nsampling techniques to investigate the effect of a factor on the distribution of this species.\nAT skills covered by this practical activity: AT 1, 3, 4, 6 and 8.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nKey opportunities for\nskills development\nMS 2b, 2f, 4a, 4c\nWS 1.2\nInterpret graphs used\nto model predator-prey\ncycles.\nMS 4a",
+                  "children": []
+                },
+                {
+                  "code": "4.7.2.2",
+                  "title": "How materials are cycled",
+                  "level": 3,
+                  "content": "Students should:\n- recall that many different materials cycle through the abiotic and\nbiotic components of an ecosystem\n- explain the importance of the carbon and water cycles to living\norganisms.\nAll materials in the living world are recycled to provide the building\nblocks for future organisms.\nThe carbon cycle returns carbon from organisms to the atmosphere as\ncarbon dioxide to be used by plants in photosynthesis.\nThe water cycle provides fresh water for plants and animals on land\nbefore draining into the seas. Water is continuously evaporated and\nprecipitated.\nStudents are not expected to study the nitrogen cycle.\nStudents should be able to explain the role of microorganisms in cycling\nmaterials through an ecosystem by returning carbon to the atmosphere\nas carbon dioxide and mineral ions to the soil.\nKey opportunities for\nskills development\nWS 1.2\nInterpret and explain the\nprocesses in diagrams\nof the carbon cycle, the\nwater cycle.\nThere are links with the\nwater cycle to GCSE\nChemistry 4.9.1.2 The\nEarth’s early atmosphere.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.2.3",
+                  "title": "Decomposition (biology only)",
+                  "level": 3,
+                  "content": "Students should be able to explain how temperature, water and\navailability of oxygen affect the rate of decay of biological material.\nStudents should be able to:\n- calculate rate changes in the decay of biological material\n- translate information between numerical and graphical form\n- plot and draw appropriate graphs selecting appropriate scales for the\naxes.\nGardeners and farmers try to provide optimum conditions for rapid\ndecay of waste biological material. The compost produced is used as a\nnatural fertiliser for growing garden plants or crops.\nAnaerobic decay produces methane gas. Biogas generators can be\nused to produce methane gas as a fuel.\nRequired practical activity 10: investigate the effect of temperature on the rate of decay of fresh milk\nby measuring pH change.\nAT skills covered by this practical activity: AT 1, 3, 4 and 5.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are given in\nKey opportunities for skills development.\nKey opportunities for\nskills development\nMS 1c, 4a, 4c",
+                  "children": []
+                },
+                {
+                  "code": "4.7.2.4",
+                  "title": "Impact of environmental change (biology only) (HT only)",
+                  "level": 3,
+                  "content": "Students should be able to evaluate the impact of environmental\nchanges on the distribution of species in an ecosystem given\nappropriate information.\nEnvironmental changes affect the distribution of species in an\necosystem. These changes include:\n- temperature\n- availability of water\n- composition of atmospheric gases.\nThe changes may be seasonal, geographic or caused by human\ninteraction.\nKey opportunities for\nskills development\nWS 1.4\nThere are links with this\ncontent to Biodiversity\nand the effect of\nhuman interaction on\necosystems.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.3",
+              "title": "Biodiversity and the effect of human interaction on ecosystems",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.3.1",
+                  "title": "Biodiversity",
+                  "level": 3,
+                  "content": "Biodiversity is the variety of all the different species of organisms on\nearth, or within an ecosystem.\nA great biodiversity ensures the stability of ecosystems by reducing\nthe dependence of one species on another for food, shelter and the\nmaintenance of the physical environment.\nThe future of the human species on Earth relies on us maintaining\na good level of biodiversity. Many human activities are reducing\nbiodiversity and only recently have measures been taken to try to stop\nthis reduction.\nKey opportunities for\nskills development\nWS 1.4\nExplain how waste,\ndeforestation and global\nwarming have an impact\non biodiversity.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.2",
+                  "title": "Waste management",
+                  "level": 3,
+                  "content": "Rapid growth in the human population and an increase in the standard\nof living mean that increasingly more resources are used and more\nwaste is produced. Unless waste and chemical materials are properly\nhandled, more pollution will be caused.\nPollution can occur:\n- in water, from sewage, fertiliser or toxic chemicals\n- in air, from smoke and acidic gases\n- on land, from landfill and from toxic chemicals.\nPollution kills plants and animals which can reduce biodiversity.\nKey opportunities for\nskills development\nThere are links with\nthis content to GCSE\nChemistry 4.9.3.1\nAtmospheric pollutants\nfrom fuels.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.3",
+                  "title": "Land use",
+                  "level": 3,
+                  "content": "Humans reduce the amount of land available for other animals and\nplants by building, quarrying, farming and dumping waste.\nThe destruction of peat bogs, and other areas of peat to produce\ngarden compost, reduces the area of this habitat and thus the\nvariety of different plant, animal and microorganism species that live\nthere (biodiversity).\nThe decay or burning of the peat releases carbon dioxide into the\natmosphere.\nKey opportunities for skills\nWS 1.4, 1.5\nUnderstand the conflict\nbetween the need for cheap\navailable compost to increase\nfood production and the need\nto conserve peat bogs and\npeatlands as habitats for\nbiodiversity and to reduce\ncarbon dioxide emissions.\nThere are links within this\nsection to Global warming.\nThere are links\nwithin this section to\nFactors affecting food security\n(biology only).",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.4",
+                  "title": "Deforestation",
+                  "level": 3,
+                  "content": "Large-scale deforestation in tropical areas has occurred to:\n- provide land for cattle and rice fields\n- grow crops for biofuels.\nKey opportunities for skills\nWS 1.4\nEvaluate the environmental\nimplications of deforestation.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.5",
+                  "title": "Global warming",
+                  "level": 3,
+                  "content": "Students should be able to describe some of the biological\nconsequences of global warming.\nLevels of carbon dioxide and methane in the atmosphere are\nincreasing, and contribute to ‘global warming’.\nKey opportunities for skills\nWS 1.6\nUnderstand that the scientific\nconsensus about global\nwarming and climate change is\nbased on systematic reviews\nof thousands of peer reviewed\npublications.\nWS 1.3\nExplain why evidence is\nuncertain or incomplete in a\ncomplex context.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.6",
+                  "title": "Maintaining biodiversity",
+                  "level": 3,
+                  "content": "Students should be able to describe both positive and negative human\ninteractions in an ecosystem and explain their impact on biodiversity.\nScientists and concerned citizens have put in place programmes to\nreduce the negative effects of humans on ecosystems and biodiversity.\nThese include:\n- breeding programmes for endangered species\n- protection and regeneration of rare habitats\n- reintroduction of field margins and hedgerows in agricultural areas\nwhere farmers grow only one type of crop\n- reduction of deforestation and carbon dioxide emissions by some\ngovernments\n- recycling resources rather than dumping waste in landfill.\nKey opportunities for\nskills development\nWS 1.4, 1.5\nEvaluate given information\nabout methods that\ncan be used to tackle\nproblems caused by\nhuman impacts on the\nenvironment.\nExplain and evaluate the\nconflicting pressures on\nmaintaining biodiversity\ngiven appropriate\ninformation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.4",
+              "title": "Trophic levels in an ecosystem (biology only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.4.1",
+                  "title": "Trophic levels",
+                  "level": 3,
+                  "content": "Students should be able to describe the differences between the trophic\nlevels of organisms within an ecosystem.\nTrophic levels can be represented by numbers, starting at level 1 with\nplants and algae. Further trophic levels are numbered subsequently\naccording to how far the organism is along the food chain.\nLevel 1: Plants and algae make their own food and are called producers.\nLevel 2: Herbivores eat plants/algae and are called primary consumers.\nLevel 3: Carnivores that eat herbivores are called secondary consumers.\nLevel 4: Carnivores that eat other carnivores are called tertiary\nconsumers. Apex predators are carnivores with no predators.\nDecomposers break down dead plant and animal matter by secreting\nenzymes into the environment. Small soluble food molecules then\ndiffuse into the microorganism.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.7.4.2",
+                  "title": "Pyramids of biomass",
+                  "level": 3,
+                  "content": "Pyramids of biomass can be constructed to represent the relative\namount of biomass in each level of a food chain. Trophic level 1 is at the\nbottom of the pyramid.\nStudents should be able to construct accurate pyramids of biomass\nfrom appropriate data.\nKey opportunities for\nskills development\nWS 1.2\nMS 2c",
+                  "children": []
+                },
+                {
+                  "code": "4.7.4.3",
+                  "title": "Transfer of biomass",
+                  "level": 3,
+                  "content": "Students should be able to:\n- describe pyramids of biomass\n- explain how biomass is lost between the different trophic levels.\nProducers are mostly plants and algae which transfer about 1 % of the\nincident energy from light for photosynthesis.\nOnly approximately 10 % of the biomass from each trophic level is\ntransferred to the level above it.\nLosses of biomass are due to:\n- not all the ingested material is absorbed, some is egested as faeces\n- some absorbed material is lost as waste, such as carbon dioxide and\nwater in respiration and water and urea in urine.\nLarge amounts of glucose are used in respiration.\nStudents should be able to calculate the efficiency of biomass transfers\nbetween trophic levels by percentages or fractions of mass.\nStudents should be able to explain how this affects the number of\norganisms at each trophic level.\nKey opportunities for\nskills development\nMS 1c\nCalculate the efficiency of\nbiomass transfer between\ntrophic levels.\nMS 1c",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.5",
+              "title": "Food production (biology only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.5.1",
+                  "title": "Factors affecting food security",
+                  "level": 3,
+                  "content": "Students should be able to describe some of the biological factors\naffecting levels of food security.\nFood security is having enough food to feed a population.\nBiological factors which are threatening food security include:\n- the increasing birth rate has threatened food security in some\ncountries\n- changing diets in developed countries means scarce food resources\nare transported around the world\n- new pests and pathogens that affect farming\n- environmental changes that affect food production, such as\nwidespread famine occurring in some countries if rains fail\n- the cost of agricultural inputs\n- conflicts that have arisen in some parts of the world which affect the\navailability of water or food.\nSustainable methods must be found to feed all people on Earth.\nKey opportunities for\nskills development\nWS 1.4\nInterpret population and\nfood production statistics\nto evaluate food security.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.5.2",
+                  "title": "Farming techniques",
+                  "level": 3,
+                  "content": "The efficiency of food production can be improved by restricting energy\ntransfer from food animals to the environment. This can be done by\nlimiting their movement and by controlling the temperature of their\nsurroundings.\nSome animals are fed high protein foods to increase growth.\nKey opportunities for\nskills development\nWS 1.3\nUnderstand that some\npeople have ethical\nobjections to some\nmodern intensive farming\nmethods.\nWS 1.4\nEvaluate the advantages\nand disadvantages\nof modern farming\ntechniques.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.5.3",
+                  "title": "Sustainable fisheries",
+                  "level": 3,
+                  "content": "Fish stocks in the oceans are declining. It is important to maintain fish\nstocks at a level where breeding continues or certain species may\ndisappear altogether in some areas.\nControl of net size and the introduction of fishing quotas play important\nroles in conservation of fish stocks at a sustainable level.\nKey opportunities for\nskills development\nWS 1.4\nUnderstand how\napplication of different\nfishing techniques\npromotes recovery of fish\nstocks.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.5.4",
+                  "title": "Role of biotechnology",
+                  "level": 3,
+                  "content": "Students should be able to describe and explain some possible\nbiotechnical and agricultural solutions, including genetic modification, to\nthe demands of the growing human population.\nModern biotechnology techniques enable large quantities of\nmicroorganisms to be cultured for food.\nThe fungus Fusarium is useful for producing mycoprotein, a protein-rich\nfood suitable for vegetarians. The fungus is grown on glucose syrup, in\naerobic conditions, and the biomass is harvested and purified.\nA genetically modified bacterium produces human insulin. When\nharvested and purified this is used to treat people with diabetes.\nGM crops could provide more food or food with an improved nutritional\nvalue such as golden rice.\nKey opportunities for\nskills development\nThere are links\nwith this content to\nGenetic engineering.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.8",
+          "title": "Key ideas",
+          "level": 1,
+          "content": "The complex and diverse phenomena of the natural world can be described in terms of a small number\nof key ideas in biology.\nThese key ideas are of universal application, and we have embedded them throughout the subject\ncontent. They underpin many aspects of the science assessment.\nThese ideas include:\n- life processes depend on molecules whose structure is related to their function\n- the fundamental units of living organisms are cells, which may be part of highly adapted structures\nincluding tissues, organs and organ systems, enabling living processes to be performed effectively\n- living organisms may form populations of single species, communities of many species and\necosystems, interacting with each other, with the environment and with humans in many different\nways\n- living organisms are interdependent and show adaptations to their environment\n- life on Earth is dependent on photosynthesis in which green plants and algae trap light from the Sun\nto fix carbon dioxide and combine it with hydrogen from water to make organic compounds and\noxygen\n- organic compounds are used as fuels in cellular respiration to allow the other chemical reactions\nnecessary for life\n- the chemicals in ecosystems are continually cycling through the natural world\n- the characteristics of a living organism are influenced by its genome and its interaction with the\nenvironment\n- evolution occurs by a process of natural selection and accounts both for biodiversity and how\norganisms are all related to varying degrees.",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

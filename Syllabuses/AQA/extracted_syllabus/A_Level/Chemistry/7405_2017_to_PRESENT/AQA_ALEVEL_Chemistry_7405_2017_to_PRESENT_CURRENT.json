@@ -1,0 +1,871 @@
+{
+  "source_pdf": "A_Level/Chemistry/7405_2017_to_PRESENT/AQA_ALEVEL_Chemistry_7405_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "A_Level",
+  "subject": "Chemistry",
+  "spec_code": "7405",
+  "pdf_name": "AQA_ALEVEL_Chemistry_7405_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Physical chemistry",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Atomic structure",
+              "level": 2,
+              "content": "The chemical properties of elements depend on their atomic structure and in particular on the\narrangement of electrons around the nucleus. The arrangement of electrons in orbitals is linked to\nthe way in which elements are organised in the Periodic Table. Chemists can measure the mass of\natoms and molecules to a high degree of accuracy in a mass spectrometer. The principles of\noperation of a modern mass spectrometer are studied.",
+              "children": [
+                {
+                  "code": "3.1.1.1",
+                  "title": "Fundamental particles",
+                  "level": 3,
+                  "content": "Appreciate that knowledge and understanding of atomic\nstructure has evolved over time.\nProtons, neutrons and electrons: relative charge and\nrelative mass.\nAn atom consists of a nucleus containing protons and\nneutrons surrounded by electrons.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.2",
+                  "title": "Mass number and isotopes",
+                  "level": 3,
+                  "content": "Mass number (A) and atomic (proton) number (Z).\nStudents should be able to:\n- determine the number of fundamental particles in\natoms and ions using mass number, atomic number\nand charge\n- explain the existence of isotopes.\nThe principles of a simple time of flight (TOF) mass\nspectrometer, limited to ionisation, acceleration to give all\nions constant kinetic energy, ion drift, ion detection, data\nanalysis.\nThe mass spectrometer gives accurate information about\nrelative isotopic mass and also about the relative\nabundance of isotopes.\nMass spectrometry can be used to identify elements.\nMass spectrometry can be used to determine relative\nmolecular mass.\nStudents should be able to:\n- interpret simple mass spectra of elements\n- calculate relative atomic mass from isotopic\nabundance, limited to mononuclear ions.\nMS 1.1\nStudents report calculations to an\nappropriate number of significant\nfigures, given raw data quoted to\nvarying numbers of significant figures.\nMS 1.2\nStudents calculate weighted means,\neg calculation of an atomic mass\nbased on supplied isotopic\nabundances.\nMS 3.1\nStudents interpret and analyse\nspectra.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.3",
+                  "title": "Electron configuration",
+                  "level": 3,
+                  "content": "Electron configurations of atoms and ions up to Z = 36 in\nterms of shells and sub-shells (orbitals) s, p and d.\nIonisation energies.\nStudents should be able to:\n- define first ionisation energy\n- write equations for first and successive ionisation\nenergies\n- explain how first and successive ionisation energies\nin Period 3 (Na–Ar) and in Group 2 (Be–Ba) give\nevidence for electron configuration in sub-shells and\nin shells.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Amount of substance",
+              "level": 2,
+              "content": "When chemists measure out an amount of a substance, they use an amount in moles. The mole is\na useful quantity because one mole of a substance always contains the same number of entities of\nthe substance. An amount in moles can be measured out by mass in grams, by volume in dm3 of a\nsolution of known concentration and by volume in dm3 of a gas.",
+              "children": [
+                {
+                  "code": "3.1.2.1",
+                  "title": "Relative atomic mass and relative molecular mass",
+                  "level": 3,
+                  "content": "Relative atomic mass and relative molecular mass in\nterms of 12C.\nThe term relative formula mass will be used for ionic\ncompounds.\nStudents should be able to:\n- define relative atomic mass (Ar)\n- define relative molecular mass (Mr).",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.2",
+                  "title": "The mole and the Avogadro constant",
+                  "level": 3,
+                  "content": "The Avogadro constant as the number of particles in a\nmole.\nThe mole as applied to electrons, atoms, molecules, ions,\nformulas and equations.\nThe concentration of a substance in solution, measured in\nmol dm–3.\nStudents should be able to carry out calculations:\n- using the Avogadro constant\n- using mass of substance, Mr, and amount in moles\n- using concentration, volume and amount of\nsubstance in a solution.\nStudents will not be expected to recall the value of the\nAvogadro constant.\nMS 0.1\nStudents carry out calculations using\nnumbers in standard and ordinary\nform, eg using the Avogadro constant.\nMS 0.4\nStudents carry out calculations using\nthe Avogadro constant.\nMS 1.1\nStudents report calculations to an\nappropriate number of significant\nfigures, given raw data quoted to\nvarying numbers of significant figures.\nStudents understand that calculated\nresults can only be reported to the\nlimits of the least accurate\nmeasurement.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.3",
+                  "title": "The ideal gas equation",
+                  "level": 3,
+                  "content": "The ideal gas equation pV = nRT with the variables in SI\nunits.\nStudents should be able to:\n- use the equation in calculations.\nStudents will not be expected to recall the value of the\ngas constant, R.\nAT a, b and k\nPS 3.2\nStudents could be asked to find the\nMr of a volatile liquid.\nMS 0.0\nStudents understand that the correct\nunits need to be in pV = nRT.\nMS 2.2, 2.3 and 2.4\nStudents carry out calculations with\nthe ideal gas equation, including\nrearranging the ideal gas equation to\nfind unknown quantities.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.4",
+                  "title": "Empirical and molecular formula",
+                  "level": 3,
+                  "content": "Empirical formula is the simplest whole number ratio of\natoms of each element in a compound.\nMolecular formula is the actual number of atoms of each\nelement in a compound.\nThe relationship between empirical formula and molecular\nformula.\nStudents should be able to:\n- calculate empirical formula from data giving\ncomposition by mass or percentage by mass\n- calculate molecular formula from the empirical\nformula and relative molecular mass.\nAT a and k\nPS 2.3 and 3.3\nStudents could be asked to find the\nempirical formula of a metal oxide.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.5",
+                  "title": "Balanced equations and associated calculations",
+                  "level": 3,
+                  "content": "Equations (full and ionic).\nPercentage atom economy is:\nsum of molecular masses of all reactants × 100\nEconomic, ethical and environmental advantages for\nsociety and for industry of developing chemical processes\nwith a high atom economy.\nStudents should be able to:\n- write balanced equations for reactions studied\n- balance equations for unfamiliar reactions when\nreactants and products are specified.\nStudents should be able to use balanced equations to\ncalculate:\n- masses\n- volumes of gases\n- percentage yields\n- percentage atom economies\n- concentrations and volumes for reactions in\nsolutions.\nAT a, d, e, f and k\nPS 4.1\nStudents could be asked to find:\n- the concentration of ethanoic\nacid in vinegar\n- the mass of calcium carbonate\nin an indigestion tablet\n- the Mr of MHCO3\n- the Mr of succinic acid\n- the mass of aspirin in an aspirin\ntablet\n- the yield for the conversion of\nmagnesium to magnesium\noxide\n- the Mr of a hydrated salt (eg\nmagnesium sulfate) by heating\nto constant mass.\nAT a and k\nStudents could be asked to find the\npercentage conversion of a Group 2\ncarbonate to its oxide by heat.\nAT d, e, f and k\nStudents could be asked to determine\nthe number of moles of water of\ncrystallisation in a hydrated salt by\ntitration.\nMS 0.2\nStudents construct and/or balance\nequations using ratios.\nStudents calculate percentage yields\nand atom economies of reactions.\nMS 1.2 and 1.3\nStudents select appropriate titration\ndata (ie identify outliers) in order to\ncalculate mean titres.\nStudents determine uncertainty when\ntwo burette readings are used to\ncalculate a titre value.\nRequired practical 1\nMake up a volumetric solution and carry out a simple\nacid–base titration.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Bonding",
+              "level": 2,
+              "content": "The physical and chemical properties of compounds depend on the ways in which the compounds\nare held together by chemical bonds and by intermolecular forces. Theories of bonding explain\nhow atoms or ions are held together in these structures. Materials scientists use knowledge of\nstructure and bonding to engineer new materials with desirable properties. These new materials\nmay offer new applications in a range of different modern technologies.",
+              "children": [
+                {
+                  "code": "3.1.3.1",
+                  "title": "Ionic bonding",
+                  "level": 3,
+                  "content": "Ionic bonding involves electrostatic attraction between\noppositely charged ions in a lattice.\nThe formulas of compound ions, eg sulfate, hydroxide,\nnitrate, carbonate and ammonium.\nStudents should be able to:\n- predict the charge on a simple ion using the position\nof the element in the Periodic Table\n- construct formulas for ionic compounds.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.2",
+                  "title": "Nature of covalent and dative covalent bonds",
+                  "level": 3,
+                  "content": "A single covalent bond contains a shared pair of\nelectrons.\nMultiple bonds contain multiple pairs of electrons.\nA co-ordinate (dative covalent) bond contains a shared\npair of electrons with both electrons supplied by one\natom.\nStudents should be able to represent:\n- a covalent bond using a line\n- a co-ordinate bond using an arrow.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.3",
+                  "title": "Metallic bonding",
+                  "level": 3,
+                  "content": "Metallic bonding involves attraction between delocalised\nelectrons and positive ions arranged in a lattice.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.4",
+                  "title": "Bonding and physical properties",
+                  "level": 3,
+                  "content": "The four types of crystal structure:\n- ionic\n- metallic\n- macromolecular (giant covalent)\n- molecular.\nThe structures of the following crystals as examples of\nthese four types of crystal structure:\n- diamond\n- graphite\n- ice\n- iodine\n- magnesium\n- sodium chloride.\nStudents should be able to:\n- relate the melting point and conductivity of materials\nto the type of structure and the bonding present\n- explain the energy changes associated with\nchanges of state\n- draw diagrams to represent these structures\ninvolving specified numbers of particles.\nAT a, b, h and k\nPS 1.1\nStudents could be asked to find the\ntype of structure of unknowns by\nexperiment (eg to test solubility,\nconductivity and ease of melting).",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.5",
+                  "title": "Shapes of simple molecules and ions",
+                  "level": 3,
+                  "content": "Bonding pairs and lone (non-bonding) pairs of electrons\nas charge clouds that repel each other.\nPairs of electrons in the outer shell of atoms arrange\nthemselves as far apart as possible to minimise repulsion.\nLone pair–lone pair repulsion is greater than lone pair–\nbond pair repulsion, which is greater than bond pair–bond\npair repulsion.\nThe effect of electron pair repulsion on bond angles.\nStudents should be able to:\n- explain the shapes of, and bond angles in, simple\nmolecules and ions with up to six electron pairs\n(including lone pairs of electrons) surrounding the\ncentral atom.\nMS 0.3 and 4.1\nStudents could be given familiar and\nunfamiliar examples of species and\nasked to deduce the shape according\nto valence shell electron pair\nrepulsion (VSEPR) principles.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.6",
+                  "title": "Bond polarity",
+                  "level": 3,
+                  "content": "Electronegativity as the power of an atom to attract the\npair of electrons in a covalent bond.\nThe electron distribution in a covalent bond between\nelements with different electronegativities will be\nunsymmetrical. This produces a polar covalent bond, and\nmay cause a molecule to have a permanent dipole.\nStudents should be able to:\n- use partial charges to show that a bond is polar\n- explain why some molecules with polar bonds do\nnot have a permanent dipole.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.7",
+                  "title": "Forces between molecules",
+                  "level": 3,
+                  "content": "Forces between molecules:\n- permanent dipole–dipole forces\n- induced dipole–dipole (van der Waals, dispersion,\nLondon) forces\n- hydrogen bonding.\nThe melting and boiling points of molecular substances\nare influenced by the strength of these intermolecular\nforces.\nThe importance of hydrogen bonding in the low density of\nice and the anomalous boiling points of compounds.\nStudents should be able to:\n- explain the existence of these forces between\nfamiliar and unfamiliar molecules\n- explain how melting and boiling points are\ninfluenced by these intermolecular forces.\nAT d and k\nPS 1.2\nStudents could try to deflect jets of\nvarious liquids from burettes to\ninvestigate the presence of different\ntypes and relative size of\nintermolecular forces.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.4",
+              "title": "Energetics",
+              "level": 2,
+              "content": "The enthalpy change in a chemical reaction can be measured accurately. It is important to know\nthis value for chemical reactions that are used as a source of heat energy in applications such as\ndomestic boilers and internal combustion engines.",
+              "children": [
+                {
+                  "code": "3.1.4.1",
+                  "title": "Enthalpy change",
+                  "level": 3,
+                  "content": "Reactions can be endothermic or exothermic.\nEnthalpy change (∆H) is the heat energy change\nmeasured under conditions of constant pressure.\nStandard enthalpy changes refer to standard conditions,\nie 100 kPa and a stated temperature (eg ∆H298Ɵ).\nStudents should be able to:\ndefine standard enthalpy of combustion (∆cHƟ)\n- define standard enthalpy of formation (∆fHƟ).",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.2",
+                  "title": "Calorimetry",
+                  "level": 3,
+                  "content": "The heat change, q, in a reaction is given by the equation\nq = mc∆T\nwhere m is the mass of the substance that has a\ntemperature change ∆T and a specific heat capacity c.\nStudents should be able to:\n- use this equation to calculate the molar enthalpy\nchange for a reaction\n- use this equation in related calculations.\nStudents will not be expected to recall the value of the\nspecific heat capacity, c, of a substance.\nRequired practical 2\nMeasurement of an enthalpy change.\nMS 0.0 and 1.1\nStudents understand that the correct\nunits need to be used in q = mc∆T\nStudents report calculations to an\nappropriate number of significant\nfigures, given raw data quoted to\nvarying numbers of significant figures.\nStudents understand that calculated\nresults can only be reported to the\nlimits of the least accurate\nmeasurement.\nAT a and k\nPS 2.4, 3.1, 3.2, 3.3 and 4.1\nStudents could be asked to find ∆H\nfor a reaction by calorimetry.\nExamples of reactions could include:\n- dissolution of potassium\nchloride\n- dissolution of sodium carbonate\n- neutralising NaOH with HCl\n- displacement reaction between\nCuSO4 + Zn\n- combustion of alcohols.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.3",
+                  "title": "Applications of Hess’s law",
+                  "level": 3,
+                  "content": "Hess’s law.\nStudents should be able to:\n- use Hess’s law to perform calculations, including\ncalculation of enthalpy changes for reactions from\nenthalpies of combustion or from enthalpies of\nformation.\nMS 2.4\nStudents carry out Hess's law\ncalculations.\nAT a and k\nPS 2.4, 3.2 and 4.1\nStudents could be asked to find ∆H\nfor a reaction using Hess’s law and\ncalorimetry, then present data in\nappropriate ways. Examples of\nreactions could include:\n- thermal decomposition of\nNaHCO3\n- hydration of MgSO4\n- hydration of CuSO4",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.4",
+                  "title": "Bond enthalpies",
+                  "level": 3,
+                  "content": "Mean bond enthalpy.\nStudents should be able to:\n- define the term mean bond enthalpy\n- use mean bond enthalpies to calculate an\napproximate value of ∆H for reactions in the\ngaseous phase\n- explain why values from mean bond enthalpy\ncalculations differ from those determined using\nHess’s law.\nMS 1.2\nStudents understand that bond\nenthalpies are mean values across a\nrange of compounds containing that\nbond.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.5",
+              "title": "Kinetics",
+              "level": 2,
+              "content": "The study of kinetics enables chemists to determine how a change in conditions affects the speed\nof a chemical reaction. Whilst the reactivity of chemicals is a significant factor in how fast chemical\nreactions proceed, there are variables that can be manipulated in order to speed them up or slow\nthem down.",
+              "children": [
+                {
+                  "code": "3.1.5.1",
+                  "title": "Collision theory",
+                  "level": 3,
+                  "content": "Reactions can only occur when collisions take place\nbetween particles having sufficient energy.\nThis energy is called the activation energy.\nStudents should be able to:\n- define the term activation energy\n- explain why most collisions do not lead to a\nreaction.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.2",
+                  "title": "Maxwell–Boltzmann distribution",
+                  "level": 3,
+                  "content": "Maxwell–Boltzmann distribution of molecular energies in\ngases.\nStudents should be able to:\n- draw and interpret distribution curves for different\ntemperatures.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.3",
+                  "title": "Effect of temperature on reaction rate",
+                  "level": 3,
+                  "content": "Meaning of the term rate of reaction.\nThe qualitative effect of temperature changes on the rate\nof reaction.\nStudents should be able to:\n- use the Maxwell–Boltzmann distribution to explain\nwhy a small temperature increase can lead to a\nlarge increase in rate.\nRequired practical 3\nInvestigation of how the rate of a reaction changes with\ntemperature.\nAT a, b, k and l\nPS 2.4 and 3.1\nStudents could investigate the effect\nof temperature on the rate of reaction\nof sodium thiosulfate and hydrochloric\nacid by an initial rate method.\nResearch opportunity\nStudents could investigate how\nknowledge and understanding of the\nfactors that affect the rate of chemical\nreaction have changed methods of\nstorage and cooking of food.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.4",
+                  "title": "Effect of concentration and pressure",
+                  "level": 3,
+                  "content": "The qualitative effect of changes in concentration on\ncollision frequency.\nThe qualitative effect of a change in the pressure of a gas\non collision frequency.\nStudents should be able to:\n- explain how a change in concentration or a change\nin pressure influences the rate of a reaction.\nAT a, e, k and i\nStudents could investigate the effect\nof changing the concentration of acid\non the rate of a reaction of calcium\ncarbonate and hydrochloric acid by a\ncontinuous monitoring method.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.5",
+                  "title": "Catalysts",
+                  "level": 3,
+                  "content": "A catalyst is a substance that increases the rate of a\nchemical reaction without being changed in chemical\ncomposition or amount.\nCatalysts work by providing an alternative reaction route\nof lower activation energy.\nStudents should be able to:\n- use a Maxwell–Boltzmann distribution to help\nexplain how a catalyst increases the rate of a\nreaction involving a gas.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.6",
+              "title": "Chemical equilibria, Le Chatelier’s principle and Kc",
+              "level": 2,
+              "content": "In contrast with kinetics, which is a study of how quickly reactions occur, a study of equilibria\nindicates how far reactions will go. Le Chatelier’s principle can be used to predict the effects of\nchanges in temperature, pressure and concentration on the yield of a reversible reaction. This has\nimportant consequences for many industrial processes. The further study of the equilibrium\nconstant, Kc, considers how the mathematical expression for the equilibrium constant enables us\nto calculate how an equilibrium yield will be influenced by the concentration of reactants and\nproducts.",
+              "children": [
+                {
+                  "code": "3.1.6.1",
+                  "title": "Chemical equilibria and Le Chatelier's principle",
+                  "level": 3,
+                  "content": "Many chemical reactions are reversible.\nIn a reversible reaction at equilibrium:\n- forward and reverse reactions proceed at equal\nrates\n- the concentrations of reactants and products remain\nconstant\nLe Chatelier’s principle.\nLe Chatelier's principle can be used to predict the effects\nof changes in temperature, pressure and concentration on\nthe position of equilibrium in homogeneous reactions.\nA catalyst does not affect the position of equilibrium.\nStudents should be able to:\n- use Le Chatelier’s principle to predict qualitatively\nthe effect of changes in temperature, pressure and\nconcentration on the position of equilibrium\n- explain why, for a reversible reaction used in an\nindustrial process, a compromise temperature and\npressure may be used.\nPS 1.1\nStudents could carry out test-tube\nequilibrium shifts to show the effect of\nconcentration and temperature (eg\nCu(H2O)62+ with concentrated HCl).",
+                  "children": []
+                },
+                {
+                  "code": "3.1.6.2",
+                  "title": "Equilibrium constant Kc for homogeneous systems",
+                  "level": 3,
+                  "content": "The equilibrium constant Kc is deduced from the equation\nfor a reversible reaction.\nThe concentration, in mol dm–3, of a species X involved in\nthe expression for Kc is represented by [X]\nThe value of the equilibrium constant is not affected either\nby changes in concentration or addition of a catalyst.\nStudents should be able to:\n- construct an expression for Kc for a homogeneous\nsystem in equilibrium\n- calculate a value for Kc from the equilibrium\nconcentrations for a homogeneous system at\nconstant temperature\n- perform calculations involving Kc\n- predict the qualitative effects of changes of\ntemperature on the value of Kc\nMS 0.3\nStudents estimate the effect of\nchanging experimental parameters on\na measurable value, eg how the value\nof Kc would change with temperature,\ngiven different specified conditions.\nMS 1.1\nStudents report calculations to an\nappropriate number of significant\nfigures, given raw data quoted to\nvarying numbers of significant figures.\nStudents understand that calculated\nresults can only be reported to the\nlimits of the least accurate\nmeasurement.\nMS 2.2 and 2.3\nStudents calculate the concentration\nof a reagent at equilibrium.\nStudents calculate the value of an\nequilibrium constant Kc\nPS 2.3\nStudents could determine the\nequilibrium constant, Kc, for the\nreaction of ethanol with ethanoic acid\nin the presence of a strong acid\ncatalyst to ethyl ethanoate.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.7",
+              "title": "Oxidation, reduction and redox equations",
+              "level": 2,
+              "content": "Redox reactions involve a transfer of electrons from the reducing agent to the oxidising agent. The\nchange in the oxidation state of an element in a compound or ion is used to identify the element\nthat has been oxidised or reduced in a given reaction. Separate half-equations are written for the\noxidation or reduction processes. These half-equations can then be combined to give an overall\nequation for any redox reaction.\nOxidation is the process of electron loss and oxidising\nagents are electron acceptors.\nReduction is the process of electron gain and reducing\nagents are electron donors.\nThe rules for assigning oxidation states.\nStudents should be able to:\n- work out the oxidation state of an element in a\ncompound or ion from the formula\n- write half-equations identifying the oxidation and\nreduction processes in redox reactions\n- combine half-equations to give an overall redox\nequation.",
+              "children": []
+            },
+            {
+              "code": "3.1.8",
+              "title": "Thermodynamics (A-level only)",
+              "level": 2,
+              "content": "The further study of thermodynamics builds on the Energetics section and is important in\nunderstanding the stability of compounds and why chemical reactions occur. Enthalpy change is\nlinked with entropy change enabling the free-energy change to be calculated.",
+              "children": [
+                {
+                  "code": "3.1.8.1",
+                  "title": "Born–Haber cycles (A-level only)",
+                  "level": 3,
+                  "content": "Lattice enthalpy can be defined as either enthalpy of\nlattice dissociation or enthalpy of lattice formation.\nBorn–Haber cycles are used to calculate lattice enthalpies\nusing the following data:\n- enthalpy of formation\n- ionisation energy\n- enthalpy of atomisation\n- bond enthalpy\n- electron affinity.\nStudents should be able to:\n- define each of the above terms and lattice enthalpy\n- construct Born–Haber cycles to calculate lattice\nenthalpies using these enthalpy changes\n- construct Born–Haber cycles to calculate one of the\nother enthalpy changes\n- compare lattice enthalpies from Born–Haber cycles\nwith those from calculations based on a perfect\nionic model to provide evidence for covalent\ncharacter in ionic compounds.\nCycles are used to calculate enthalpies of solution for\nionic compounds from lattice enthalpies and enthalpies of\nhydration.\nStudents should be able to:\n- define the term enthalpy of hydration\n- perform calculations of an enthalpy change using\nthese cycles.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.8.2",
+                  "title": "Gibbs free-energy change, ∆G, and entropy change, ∆S (A-level only)",
+                  "level": 3,
+                  "content": "∆H, whilst important, is not sufficient to explain feasible\nchange.\nThe concept of increasing disorder (entropy change, ∆S).\n∆S accounts for the above deficiency, illustrated by\nphysical changes and chemical changes.\nThe balance between entropy and enthalpy determines\nthe feasibility of a reaction given by the relationship:\n∆G = ∆H – T∆S (derivation not required).\nFor a reaction to be feasible, the value of ∆G must be\nzero or negative.\nStudents should be able to:\n- calculate entropy changes from absolute entropy\nvalues\n- use the relationship\n∆G = ∆H – T∆S to determine how ∆G varies with\ntemperature\n- use the relationship ∆G = ∆H – T∆S to determine\nthe temperature at which a reaction becomes\nfeasible.\nAT a, b and k\nPS 3.2\nStudents could be asked to find ∆S\nfor vaporization of water using a\nkettle.\nMS 2.2, 2.3 and 2.4\nStudents rearrange the equation ∆G =\n∆H – T∆S to find unknown values.\nMS 3.3\nStudents determine ∆S and ∆H from a\ngraph of ∆G versus T.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.9",
+              "title": "Rate equations (A-level only)",
+              "level": 2,
+              "content": "In rate equations, the mathematical relationship between rate of reaction and concentration gives\ninformation about the mechanism of a reaction that may occur in several steps.",
+              "children": [
+                {
+                  "code": "3.1.9.1",
+                  "title": "Rate equations (A-level only)",
+                  "level": 3,
+                  "content": "The rate of a chemical reaction is related to the\nconcentration of reactants by a rate equation of the form:\nRate = k[A]m [B]n\nwhere m and n are the orders of reaction with respect to\nreactants A and B and k is the rate constant.\nThe orders m and n are restricted to the values 0, 1, and\n2.\nThe rate constant k varies with temperature as shown by\nthe equation:\nk = Ae–Ea/RT\nwhere A is a constant, known as the Arrhenius constant,\nEa is the activation energy and T is the temperature in K.\nStudents should be able to:\n- define the terms order of reaction and rate constant\n- perform calculations using the rate equation\n- explain the qualitative effect of changes in\ntemperature on the rate constant k\nperform calculations using the equation k = Ae–Ea/RT\n- understand that the equation k = Ae–Ea/RT can be\n- rearranged into the form ln k = –Ea /RT + ln A and\nknow how to use this rearranged equation with\nexperimental data to plot a straight line graph with\nslope –Ea/R\nThese equations and the gas constant, R, will be given\nwhen required.\nMS 0.0 and 2.4\nStudents use given rate data and\ndeduce a rate equation, then use\nsome of the data to calculate the rate\nconstant including units. Rate\nequations could be given and\nstudents asked to calculate rate\nconstant or rate.\nMS 3.3 and 3.4\nStudents use a graph of\nconcentration–time and calculate the\nrate constant of a zero-order reaction\nby determination of the gradient.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.9.2",
+                  "title": "Determination of rate equation (A-level only)",
+                  "level": 3,
+                  "content": "The rate equation is an experimentally determined\nrelationship.\nThe orders with respect to reactants can provide\ninformation about the mechanism of a reaction.\nStudents should be able to:\n- use concentration–time graphs to deduce the rate of\na reaction\n- use initial concentration–time data to deduce the\ninitial rate of a reaction\n- use rate–concentration data or graphs to deduce\nthe order (0, 1 or 2) with respect to a reactant\n- derive the rate equation for a reaction from the\norders with respect to each of the reactants\n- use the orders with respect to reactants to provide\ninformation about the rate determining/limiting step\nof a reaction.\nRequired practical 7\nMeasuring the rate of reaction:\n- by an initial rate method\n- by a continuous monitoring method.\nAT a, b, k and l\nPS 2.4 and 3.1\nStudents could determine the order of\nreaction for a reactant in the iodine\nclock reaction.\nMS 3.1\nStudents could be given data to plot\nand interpret in terms of order with\nrespect to a reactant. Alternatively,\nstudents could just be given\nappropriate graphs and asked to\nderive order(s).\nMS 3.3 and 3.4\nStudents calculate the rate constant\nof a zero-order reaction by\ndetermining the gradient of a\nconcentration–time graph.\nMS 3.5\nStudents plot concentration–time\ngraphs from collected or supplied\ndata and draw an appropriate best-fit\ncurve.\nStudents draw tangents to such\ncurves to deduce rates at different\ntimes.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.10",
+              "title": "Equilibrium constant Kp for homogeneous systems (A-level only)",
+              "level": 2,
+              "content": "The further study of equilibria considers how the mathematical expression for the equilibrium\nconstant Kp enables us to calculate how an equilibrium yield will be influenced by the partial\npressures of reactants and products. This has important consequences for many industrial\nprocesses.\nThe equilibrium constant Kp is deduced from the equation\nfor a reversible reaction occurring in the gas phase.\nKp is the equilibrium constant calculated from partial\npressures for a system at constant temperature.\nStudents should be able to:\n- derive partial pressure from mole fraction and total\npressure\n- construct an expression for Kp for a homogeneous\nsystem in equilibrium\n- perform calculations involving Kp\n- predict the qualitative effects of changes in\ntemperature and pressure on the position of\nequilibrium\n- predict the qualitative effects of changes in\ntemperature on the value of Kp\n- understand that, whilst a catalyst can affect the rate\nof attainment of an equilibrium, it does not affect the\nvalue of the equilibrium constant.\nMS 1.1\nStudents report calculations to an\nappropriate number of significant\nfigures, given raw data quoted to\nvarying numbers of significant\nfigures.\nStudents understand that calculated\nresults can only be reported to the\nlimits of the least accurate\nmeasurement.\nMS 2.2 and 2.3\nStudents calculate the partial\npressures of reactants and products\nat equilibrium.\nStudents calculate the value of an\nequilibrium constant Kp",
+              "children": []
+            },
+            {
+              "code": "3.1.11",
+              "title": "Electrode potentials and electrochemical cells (A-level only)",
+              "level": 2,
+              "content": "Redox reactions take place in electrochemical cells where electrons are transferred from the\nreducing agent to the oxidising agent indirectly via an external circuit. A potential difference is\ncreated that can drive an electric current to do work. Electrochemical cells have very important\ncommercial applications as a portable supply of electricity to power electronic devices such as\nmobile phones, tablets and laptops. On a larger scale, they can provide energy to power a vehicle.",
+              "children": [
+                {
+                  "code": "3.1.11.1",
+                  "title": "Electrode potentials and cells (A-level only)",
+                  "level": 3,
+                  "content": "IUPAC convention for writing half-equations for electrode\nreactions.\nThe conventional representation of cells.\nCells are used to measure electrode potentials by\nreference to the standard hydrogen electrode.\nThe importance of the conditions when measuring the\nelectrode potential, E (Nernst equation not required).\nStandard electrode potential, EƟ, refers to conditions of\n298 K, 100 kPa and 1.00 mol dm−3 solution of ions.\nStandard electrode potentials can be listed as an\nelectrochemical series.\nStudents should be able to:\nuse EƟ values to predict the direction of simple\n- redox reactions\n- calculate the EMF of a cell\n- write and apply the conventional representation of a\ncell.\nRequired practical 8\nMeasuring the EMF of an electrochemical cell.\nAT j and k\nPS 1.1\nStudents could make simple cells and\nuse them to measure unknown\nelectrode potentials.\nAT a, b, j and k\nPS 2.1 and 2.4\nStudents could be asked to plan and\ncarry out an experiment to investigate\nthe effect of changing conditions,\nsuch as concentration or temperature,\nin a voltaic cell such as Zn|Zn2+||Cu2+|\nCu\nAT j and k\nPS 2.2\nStudents could use EƟ values to\npredict the direction of simple redox\nreactions, then test these predictions\nby simple test-tube reactions.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.11.2",
+                  "title": "Commercial applications of electrochemical cells (A-level only)",
+                  "level": 3,
+                  "content": "Electrochemical cells can be used as a commercial\nsource of electrical energy.\nThe simplified electrode reactions in a lithium cell:\nPositive electrode: Li+ + CoO2 + e– → Li+[CoO2]–\nNegative electrode: Li → Li+ + e–\nCells can be non-rechargeable (irreversible),\nrechargeable or fuel cells.\nFuel cells are used to generate an electric current and do\nnot need to be electrically recharged.\nThe electrode reactions in an alkaline hydrogen–oxygen\nfuel cell.\nThe benefits and risks to society associated with using\nthese cells.\nStudents should be able to:\n- use given electrode data to deduce the reactions\noccurring in non-rechargeable and rechargeable\ncells\n- deduce the EMF of a cell\n- explain how the electrode reactions can be used to\ngenerate an electric current.\nResearch opportunity\nStudents could investigate how\nknowledge and understanding of\nelectrochemical cells has evolved\nfrom the first voltaic battery.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.12",
+              "title": "Acids and bases (A-level only)",
+              "level": 2,
+              "content": "Acids and bases are important in domestic, environmental and industrial contexts. Acidity in\naqueous solutions is caused by hydrogen ions and a logarithmic scale, pH, has been devised to\nmeasure acidity. Buffer solutions, which can be made from partially neutralised weak acids, resist\nchanges in pH and find many important industrial and biological applications.",
+              "children": [
+                {
+                  "code": "3.1.12.1",
+                  "title": "Brønsted–Lowry acid–base equilibria in aqueous solution (A-level only)",
+                  "level": 3,
+                  "content": "An acid is a proton donor.\nA base is a proton acceptor.\nAcid–base equilibria involve the transfer of protons.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.12.2",
+                  "title": "Definition and determination of pH (A-level only)",
+                  "level": 3,
+                  "content": "The concentration of hydrogen ions in aqueous solution\ncovers a very wide range. Therefore, a logarithmic scale,\nthe pH scale, is used as a measure of hydrogen ion\nconcentration.\npH = –log10[H+]\nStudents should be able to:\n- convert concentration of hydrogen ions into pH and\nvice versa\n- calculate the pH of a solution of a strong acid from\nits concentration.\nMS 0.4\nStudents carry out pH calculations.\nMS 2.5\nStudents could be given\nconcentration values and asked to\ncalculate pH or vice versa.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.12.3",
+                  "title": "The ionic product of water, Kw (A-level only)",
+                  "level": 3,
+                  "content": "Water is slightly dissociated.\nKw is derived from the equilibrium constant for this\ndissociation.\nKw = [H+][OH–]\nThe value of Kw varies with temperature.\nStudents should be able to:\n- use Kw to calculate the pH of a strong base from its\nconcentration.\nMS 0.1\nStudents use an appropriate number\nof decimal places in pH calculations.\nStudents understand standard form\nwhen applied to areas such as (but\nnot limited to) Kw\nMS 2.2\nStudents use Kw = [H+][OH–] to find\nthe pH of strong bases.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.12.4",
+                  "title": "Weak acids and bases Ka for weak acids (A-level only)",
+                  "level": 3,
+                  "content": "Weak acids and weak bases dissociate only slightly in\naqueous solution.\nKa is the dissociation constant for a weak acid.\npKa = –log10 Ka\nStudents should be able to:\n- construct an expression for Ka\n- perform calculations relating the pH of a weak acid\nto the concentration of the acid and the dissociation\nconstant, Ka\n- convert Ka into pKa and vice versa.\nMS 0.0\nStudents carry out pKa calculations\nand give appropriate units.\nMS 0.1\nStudents understand standard form\nwhen applied to areas such as (but\nnot limited to) Ka\nAT a, c, d, e, f and k\nPS 2.3\nStudents could calculate Ka of a weak\nacid by measuring the pH at half\nneutralisation.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.12.5",
+                  "title": "pH curves, titrations and indicators (A-level only)",
+                  "level": 3,
+                  "content": "Titrations of acids with bases.\nStudents should be able to:\n- perform calculations for these titrations based on\nexperimental results.\nTypical pH curves for acid–base titrations in all\ncombinations of weak and strong monoprotic acids and\nbases.\nStudents should be able to:\n- sketch and explain the shapes of typical pH curves\n- use pH curves to select an appropriate indicator.\nRequired practical 9\nInvestigate how pH changes when a weak acid reacts\nwith a strong base and when a strong acid reacts with a\nweak base.\nMS 3.2\nAT a, c, d and k\nPS 3.2 and 4.1\nStudents could plot pH curves to\nshow how pH changes during\nreactions.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.12.6",
+                  "title": "Buffer action (A-level only)",
+                  "level": 3,
+                  "content": "A buffer solution maintains an approximately constant pH,\ndespite dilution or addition of small amounts of acid or\nbase.\nAcidic buffer solutions contain a weak acid and the salt of\nthat weak acid.\nBasic buffer solutions contain a weak base and the salt of\nthat weak base.\nApplications of buffer solutions.\nStudents should be able to:\n- explain qualitatively the action of acidic and basic\nbuffers\n- calculate the pH of acidic buffer solutions.\nAT a, c, e and k\nPS 1.1\nStudents could be asked to prepare\nand test a buffer solution with a\nspecific pH value.\nMS 0.4\nStudents make appropriate\nmathematical approximations in buffer\ncalculations.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Inorganic chemistry",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Periodicity",
+              "level": 2,
+              "content": "The Periodic Table provides chemists with a structured organisation of the known chemical\nelements from which they can make sense of their physical and chemical properties. The historical\ndevelopment of the Periodic Table and models of atomic structure provide good examples of how\nscientific ideas and explanations develop over time.",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "Classification",
+                  "level": 3,
+                  "content": "An element is classified as s, p, d or f block according to\nits position in the Periodic Table, which is determined by\nits proton number.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Physical properties of Period 3 elements",
+                  "level": 3,
+                  "content": "The trends in atomic radius, first ionisation energy and\nmelting point of the elements Na–Ar\nThe reasons for these trends in terms of the structure of\nand bonding in the elements.\nStudents should be able to:\n- explain the trends in atomic radius and first\nionisation energy\n- explain the melting point of the elements in terms of\ntheir structure and bonding.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "Group 2, the alkaline earth metals",
+              "level": 2,
+              "content": "The elements in Group 2 are called the alkaline earth metals. The trends in the solubilities of the\nhydroxides and the sulfates of these elements are linked to their use. Barium sulfate, magnesium\nhydroxide and magnesium sulfate have applications in medicines whilst calcium hydroxide is used\nin agriculture to change soil pH, which is essential for good crop production and maintaining the\nfood supply.\nThe trends in atomic radius, first ionisation energy and\nmelting point of the elements Mg–Ba\nStudents should be able to:\n- explain the trends in atomic radius and first\nionisation energy\n- explain the melting point of the elements in terms of\ntheir structure and bonding.\nThe reactions of the elements Mg–Ba with water.\nThe use of magnesium in the extraction of titanium from\nTiCl4\nThe relative solubilities of the hydroxides of the elements\nMg–Ba in water.\nMg(OH)2 is sparingly soluble.\nThe use of Mg(OH)2 in medicine and of Ca(OH)2 in\nagriculture.\nThe use of CaO or CaCO3 to remove SO2 from flue\ngases.\nThe relative solubilities of the sulfates of the elements\nMg–Ba in water.\nBaSO4 is insoluble.\nThe use of acidified BaCl2 solution to test for sulfate ions.\nThe use of BaSO4 in medicine.\nStudents should be able to:\n- explain why BaCl2 solution is used to test for sulfate\nions and why it is acidified.\nAT c and k\nPS 2.2\nStudents could test the reactions of\nMg–Ba with water and Mg with steam\nand record their results.\nAT d and k\nPS 2.2\nStudents could test the solubility of\nGroup 2 hydroxides by mixing\nsolutions of soluble Group 2 salts with\nsodium hydroxide and record their\nresults.\nStudents could test the solubility of\nGroup 2 sulfates by mixing solutions\nof soluble Group 2 salts with sulfuric\nacid and record their results.\nStudents could test for sulfate ions\nusing acidified barium chloride and\nrecord their results.\nResearch opportunity\nStudents could investigate the use of\nBaSO4 in medicine.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Group 7(17), the halogens",
+              "level": 2,
+              "content": "The halogens in Group 7 are very reactive non-metals. Trends in their physical properties are\nexamined and explained. Fluorine is too dangerous to be used in a school laboratory but the\nreactions of chlorine are studied. Challenges in studying the properties of elements in this group\ninclude explaining the trends in ability of the halogens to behave as oxidising agents and the halide\nions to behave as reducing agents.",
+              "children": [
+                {
+                  "code": "3.2.3.1",
+                  "title": "Trends in properties",
+                  "level": 3,
+                  "content": "The trends in electronegativity and boiling point of the\nhalogens.\nStudents should be able to:\n- explain the trend in electronegativity\n- explain the trend in the boiling point of the elements\nin terms of their structure and bonding.\nThe trend in oxidising ability of the halogens down the\ngroup, including displacement reactions of halide ions in\naqueous solution.\nThe trend in reducing ability of the halide ions, including\nthe reactions of solid sodium halides with concentrated\nsulfuric acid.\nThe use of acidified silver nitrate solution to identify and\ndistinguish between halide ions.\nThe trend in solubility of the silver halides in ammonia.\nStudents should be able to explain why:\n- silver nitrate solution is used to identify halide ions\n- the silver nitrate solution is acidified\n- ammonia solution is added.\nAT d and k\nPS 2.2\nStudents could carry out test-tube\nreactions of solutions of the halogens\n(Cl2, Br2, I2) with solutions containing\ntheir halide ions (eg KCl, KBr, KI).\nStudents could record observations\nfrom reactions of NaCl, NaBr and NaI\nwith concentrated sulfuric acid.\nStudents could carry out tests for\nhalide ions using acidified silver\nnitrate, including the use of ammonia\nto distinguish the silver halides\nformed.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.2",
+                  "title": "Uses of chlorine and chlorate(I)",
+                  "level": 3,
+                  "content": "The reaction of chlorine with water to form chloride ions\nand chlorate(I) ions.\nThe reaction of chlorine with water to form chloride ions\nand oxygen.\nAppreciate that society assesses the advantages and\ndisadvantages when deciding if chemicals should be\nadded to water supplies.\nThe use of chlorine in water treatment.\nAppreciate that the benefits to health of water treatment\nby chlorine outweigh its toxic effects.\nThe reaction of chlorine with cold, dilute, aqueous NaOH\nand uses of the solution formed.\nResearch opportunity\nStudents could investigate the\ntreatment of drinking water with\nchlorine.\nStudents could investigate the\naddition of sodium fluoride to water\nsupplies.\nRequired practical 4\nCarry out simple test-tube reactions to identify:\ncations – Group 2, NH4+\n- anions – Group 7 (halide ions), OH–, CO32–, SO42–",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.4",
+              "title": "Properties of Period 3 elements and their oxides (A-level only)",
+              "level": 2,
+              "content": "The reactions of the Period 3 elements with oxygen are considered. The pH of the solutions\nformed when the oxides react with water illustrates further trends in properties across this period.\nExplanations of these reactions offer opportunities to develop an in-depth understanding of how\nand why these reactions occur.\nThe reactions of Na and Mg with water.\nThe trends in the reactions of the elements Na, Mg, Al, Si,\nP and S with oxygen, limited to the formation of Na2O,\nMgO, Al2O3, SiO2, P4O10, SO2 and SO3\nThe trend in the melting point of the highest oxides of the\nelements Na–S\nThe reactions of the oxides of the elements Na–S with\nwater, limited to Na2O, MgO, Al2O3, SiO2, P4O10, SO2\nand SO3, and the pH of the solutions formed.\nThe structures of the acids and the anions formed when\nP4O10, SO2 and SO3 react with water.\nStudents should be able to:\n- explain the trend in the melting point of the oxides of\nthe elements Na–S in terms of their structure and\nbonding\n- explain the trends in the reactions of the oxides with\nwater in terms of the type of bonding present in\neach oxide\n- write equations for the reactions that occur between\nthe oxides of the elements Na–S and given acids\nand bases.\nAT a, c and k\nPS 2.2\nStudents could carry out reactions of\nelements with oxygen and test the pH\nof the resulting oxides.",
+              "children": []
+            },
+            {
+              "code": "3.2.5",
+              "title": "Transition metals (A-level only)",
+              "level": 2,
+              "content": "The 3d block contains 10 elements, all of which are metals. Unlike the metals in Groups 1 and 2,\nthe transition metals Ti to Cu form coloured compounds and compounds where the transition metal\nexists in different oxidation states. Some of these metals are familiar as catalysts. The properties of\nthese elements are studied in this section with opportunities for a wide range of practical\ninvestigations.",
+              "children": [
+                {
+                  "code": "3.2.5.1",
+                  "title": "General properties of transition metals (A-level only)",
+                  "level": 3,
+                  "content": "Transition metal characteristics of elements Ti–Cu arise\nfrom an incomplete d sub-level in atoms or ions.\nThe characteristic properties include:\n- complex formation\n- formation of coloured ions\n- variable oxidation state\n- catalytic activity.\nA ligand is a molecule or ion that forms a co-ordinate\nbond with a transition metal by donating a pair of\nelectrons.\nA complex is a central metal atom or ion surrounded by\nligands.\nCo-ordination number is number of co-ordinate bonds to\nthe central metal atom or ion.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.2",
+                  "title": "Substitution reactions (A-level only)",
+                  "level": 3,
+                  "content": "H2O, NH3 and Cl− can act as monodentate ligands.\nThe ligands NH3 and H2O are similar in size and are\nuncharged.\nExchange of the ligands NH3 and H2O occurs without\nchange of co-ordination number (eg Co2+ and Cu2+).\nSubstitution may be incomplete (eg the formation of\n[Cu(NH3)4(H2O)2]2+).\nThe Cl− ligand is larger than the uncharged ligands NH3\nand H2O\nExchange of the ligand H2O by Cl– can involve a change\nof co-ordination number (eg Co2+, Cu2+ and Fe3+).\nLigands can be bidentate (eg H2NCH2CH2NH2 and\nC2O42–).\nLigands can be multidentate (eg EDTA4–).\nHaem is an iron(II) complex with a multidentate ligand.\nOxygen forms a co-ordinate bond to Fe(II) in\nhaemoglobin, enabling oxygen to be transported in the\nblood.\nCarbon monoxide is toxic because it replaces oxygen co-\nordinately bonded to Fe(II) in haemoglobin.\nBidentate and multidentate ligands replace monodentate\nligands from complexes. This is called the chelate effect.\nStudents should be able to:\n- explain the chelate effect, in terms of the balance\nbetween the entropy and enthalpy change in these\nreactions.\nAT d and k\nPS 1.2\nStudents could carry out test-tube\nreactions of complexes with\nmonodentate, bidentate and\nmultidentate ligands to compare ease\nof substitution.\nAT d and k\nPS 2.2\nStudents could carry out test-tube\nreactions of solutions of metal aqua\nions with ammonia or concentrated\nhydrochloric acid.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.3",
+                  "title": "Shapes of complex ions (A-level only)",
+                  "level": 3,
+                  "content": "Transition metal ions commonly form octahedral\ncomplexes with small ligands (eg H2O and NH3).\nOctahedral complexes can display cis–trans isomerism (a\nspecial case of E–Z isomerism) with monodentate ligands\nand optical isomerism with bidentate ligands.\nTransition metal ions commonly form tetrahedral\ncomplexes with larger ligands (eg Cl–).\nSquare planar complexes are also formed and can\ndisplay cis–trans isomerism.\nCisplatin is the cis isomer.\nAg+ forms the linear complex [Ag(NH3)2]+ as used in\nTollens’ reagent.\nMS 4.1 and 4.2\nStudents understand and draw the\nshape of complex ions.\nMS 4.3\nStudents understand the origin of cis–\ntrans and optical isomerism.\nStudents draw cis–trans and optical\nisomers.\nStudents describe the types of\nstereoisomerism shown by molecules/\ncomplexes.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.4",
+                  "title": "Formation of coloured ions (A-level only)",
+                  "level": 3,
+                  "content": "Transition metal ions can be identified by their colour.\nColour arises when some of the wavelengths of visible\nlight are absorbed and the remaining wavelengths of light\nare transmitted or reflected.\nd electrons move from the ground state to an excited\nstate when light is absorbed.\nThe energy difference between the ground state and the\nexcited state of the d electrons is given by:\n∆E = hν = hc/λ\nChanges in oxidation state, co-ordination number and\nligand alter ∆E and this leads to a change in colour.\nThe absorption of visible light is used in spectroscopy.\nA simple colorimeter can be used to determine the\nconcentration of coloured ions in solution.\nPS 3.1 and 3.2\nStudents could determine the\nconcentration of a solution of\ncopper(II) ions by colorimetry.\nMS 3.1 and 3.2\nStudents determine the concentration\nof a solution from a graph of\nabsorption versus concentration.\nAT a, e and k\nStudents could determine the\nconcentration of a coloured complex\nion by colorimetry.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.5",
+                  "title": "Variable oxidation states (A-level only)",
+                  "level": 3,
+                  "content": "Transition elements show variable oxidation states.\nVanadium species in oxidation states IV, III and II are\nformed by the reduction of vanadate(V) ions by zinc in\nacidic solution.\nThe redox potential for a transition metal ion changing\nfrom a higher to a lower oxidation state is influenced by\npH and by the ligand.\nThe reduction of [Ag(NH3)2]+ (Tollens’ reagent) to metallic\nsilver is used to distinguish between aldehydes and\nketones.\nThe redox titrations of Fe2+ and C2O42– with MnO4–\nStudents should be able to:\n- perform calculations for these titrations and similar\nredox reactions.\nAT d and k\nPS 1.2\nStudents could reduce vanadate(V)\nwith zinc in acidic solution.\nAT b, d and k\nPS 4.1\nStudents could carry out test-tube\nreactions of Tollens' reagent to\ndistinguish aldehydes and ketones.\nAT a, d, e and k\nPS 2.3, 3.2 and 3.3\nStudents could carry out redox\ntitrations.\nExamples include, finding:\n- the mass of iron in an iron tablet\n- the percentage of iron in steel\n- the Mr of hydrated ammonium\niron(II) sulfate\n- the Mr of ethanedioic acid\n- the concentration of H2O2 in\nhair bleach.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.6",
+                  "title": "Catalysts (A-level only)",
+                  "level": 3,
+                  "content": "Transition metals and their compounds can act as\nheterogeneous and homogeneous catalysts.\nA heterogeneous catalyst is in a different phase from the\nreactants and the reaction occurs at active sites on the\nsurface.\nThe use of a support medium to maximise the surface\narea of a heterogeneous catalyst and minimise the cost.\nV2O5 acts as a heterogeneous catalyst in the Contact\nprocess.\nFe is used as a heterogeneous catalyst in the Haber\nprocess.\nHeterogeneous catalysts can become poisoned by\nimpurities that block the active sites and consequently\nhave reduced efficiency; this has a cost implication.\nA homogeneous catalyst is in the same phase as the\nreactants.\nWhen catalysts and reactants are in the same phase, the\nreaction proceeds through an intermediate species.\nStudents should be able to:\n- explain the importance of variable oxidation states\nin catalysis\n- explain, with the aid of equations, how V2O5 acts as\na catalyst in the Contact process\nexplain, with the aid of equations, how Fe2+ ions\n- catalyse the reaction between I− and S2O82–\nexplain, with the aid of equations, how Mn2+ ions\n- autocatalyse the reaction between C2O42– and\nMnO4–\nAT d and k\nPS 4.1\nStudents could investigate Mn2+ as\nthe autocatalyst in the reaction\nbetween ethanedioic acid and\nacidified potassium manganate(VII).",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.6",
+              "title": "Reactions of ions in aqueous solution (A-level only)",
+              "level": 2,
+              "content": "The reactions of transition metal ions in aqueous solution provide a practical opportunity for\nstudents to show and to understand how transition metal ions can be identified by test-tube\nreactions in the laboratory.\nIn aqueous solution, the following metal-aqua ions are\nformed:\n[M(H2O)6]2+, limited to M = Fe and Cu\n[M(H2O)6]3+, limited to M = Al and Fe\nThe acidity of [M(H2O)6]3+ is greater than that of\n[M(H2O)6]2+\nSome metal hydroxides show amphoteric character by\ndissolving in both acids and bases (eg hydroxides of\nAl3+).\nStudents should be able to:\n- explain, in terms of the charge/size ratio of the\nmetal ion, why the acidity of [M(H2O)6]3+ is greater\nthan that of [M(H2O)6]2+\n- describe and explain the simple test-tube reactions\nof: M2+(aq) ions, limited to M = Fe and Cu, and of\nM3+(aq) ions, limited to M = Al and Fe, with the\nbases OH–, NH3 and CO32–\nRequired practical 11\nCarry out simple test-tube reactions to identify transition\nmetal ions in aqueous solution.\nAT d and K\nPS 1.2\nStudents could carry out test-tube\nreactions of metal-aqua ions with\nNaOH, NH3 and Na2CO3\nAT d and k\nPS 2.2\nStudents could carry out test-tube\nreactions to identify the positive and\nnegative ions in this specification.\nPS 1.1\nStudents could identify unknown\nsubstances using reagents.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Organic chemistry",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Introduction to organic chemistry",
+              "level": 2,
+              "content": "Organic chemistry is the study of the millions of covalent compounds of the element carbon.\nThese structurally diverse compounds vary from naturally occurring petroleum fuels to DNA and\nthe molecules in living systems. Organic compounds also demonstrate human ingenuity in the vast\nrange of synthetic materials created by chemists. Many of these compounds are used as drugs,\nmedicines and plastics.\nOrganic compounds are named using the International Union of Pure and Applied Chemistry\n(IUPAC) system and the structure or formula of molecules can be represented in various different\nways. Organic mechanisms are studied, which enable reactions to be explained.\nIn the search for sustainable chemistry, for safer agrochemicals and for new materials to match the\ndesire for new technology, Chemistry plays the dominant role.",
+              "children": [
+                {
+                  "code": "3.3.1.1",
+                  "title": "Nomenclature",
+                  "level": 3,
+                  "content": "Organic compounds can be represented by:\n- empirical formula\n- molecular formula\n- general formula\n- structural formula\n- displayed formula\n- skeletal formula.\nThe characteristics of a homologous series, a series of\ncompounds containing the same functional group.\nIUPAC rules for nomenclature.\nStudents should be able to:\n- draw structural, displayed and skeletal formulas for\ngiven organic compounds\n- apply IUPAC rules for nomenclature to name\norganic compounds limited to chains and rings with\nup to six carbon atoms each\n- apply IUPAC rules for nomenclature to draw the\nstructure of an organic compound from the IUPAC\nname limited to chains and rings with up to six\ncarbon atoms each.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.2",
+                  "title": "Reaction mechanisms",
+                  "level": 3,
+                  "content": "Reactions of organic compounds can be explained using\nmechanisms.\nFree-radical mechanisms:\n- the unpaired electron in a radical is represented by\na dot\n- the use of curly arrows is not required for radical\nmechanisms.\nStudents should be able to:\n- write balanced equations for the steps in a free-\nradical mechanism.\nOther mechanisms:\n- the formation of a covalent bond is shown by a curly\narrow that starts from a lone electron pair or from\nanother covalent bond\n- the breaking of a covalent bond is shown by a curly\narrow starting from the bond.\nStudents should be able to:\n- outline mechanisms by drawing the structures of the\nspecies involved and curly arrows to represent the\nmovement of electron pairs.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.3",
+                  "title": "Isomerism",
+                  "level": 3,
+                  "content": "Structural isomerism.\nStereoisomerism.\nE–Z isomerism is a form of stereoisomerism and occurs\nas a result of restricted rotation about the planar carbon–\ncarbon double bond.\nCahn–Ingold–Prelog (CIP) priority rules.\nStudents should be able to:\n- define the term structural isomer\n- draw the structures of chain, position and functional\ngroup isomers\n- define the term stereoisomer\n- draw the structural formulas of E and Z isomers\n- apply the CIP priority rules to E and Z isomers.\nMS 4.2\nStudents could be given the structure\nof one isomer and asked to draw\nfurther isomers. Various\nrepresentations could be used to give\nthe opportunity to identify those that\nare isomeric.\nMS 4.1, 4.2 and 4.3\nStudents understand the origin of E–Z\nisomerism.\nStudents draw different forms of\nisomers.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.2",
+              "title": "Alkanes",
+              "level": 2,
+              "content": "Alkanes are the main constituent of crude oil, which is an important raw material for the chemical\nindustry. Alkanes are also used as fuels and the environmental consequences of this use are\nconsidered in this section.",
+              "children": [
+                {
+                  "code": "3.3.2.1",
+                  "title": "Fractional distillation of crude oil",
+                  "level": 3,
+                  "content": "Alkanes are saturated hydrocarbons.\nPetroleum is a mixture consisting mainly of alkane\nhydrocarbons that can be separated by fractional\ndistillation.\nAT a, d and k\nPS 1.2\nFractional distillation of a crude oil\nsubstitute.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.2",
+                  "title": "Modification of alkanes by cracking",
+                  "level": 3,
+                  "content": "Cracking involves breaking C–C bonds in alkanes.\nThermal cracking takes place at high pressure and high\ntemperature and produces a high percentage of alkenes\n(mechanism not required).\nCatalytic cracking takes place at a slight pressure, high\ntemperature and in the presence of a zeolite catalyst and\nis used mainly to produce motor fuels and aromatic\nhydrocarbons (mechanism not required).\nStudents should be able to:\n- explain the economic reasons for cracking alkanes.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.3",
+                  "title": "Combustion of alkanes",
+                  "level": 3,
+                  "content": "Alkanes are used as fuels.\nCombustion of alkanes and other organic compounds can\nbe complete or incomplete.\nThe internal combustion engine produces a number of\npollutants including NOx, CO, carbon and unburned\nhydrocarbons.\nThese gaseous pollutants from internal combustion\nengines can be removed using catalytic converters.\nCombustion of hydrocarbons containing sulfur leads to\nsulfur dioxide that causes air pollution.\nStudents should be able to:\n- explain why sulfur dioxide can be removed from flue\ngases using calcium oxide or calcium carbonate.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.4",
+                  "title": "Chlorination of alkanes",
+                  "level": 3,
+                  "content": "The reaction of methane with chlorine.\nStudents should be able to:\n- explain this reaction as a free-radical substitution\nmechanism involving initiation, propagation and\ntermination steps.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.3",
+              "title": "Halogenoalkanes",
+              "level": 2,
+              "content": "Halogenoalkanes are much more reactive than alkanes. They have many uses, including as\nrefrigerants, as solvents and in pharmaceuticals. The use of some halogenoalkanes has been\nrestricted due to the effect of chlorofluorocarbons (CFCs) on the atmosphere.",
+              "children": [
+                {
+                  "code": "3.3.3.1",
+                  "title": "Nucleophilic substitution",
+                  "level": 3,
+                  "content": "Halogenoalkanes contain polar bonds.\nHalogenoalkanes undergo substitution reactions with the\nnucleophiles OH–, CN– and NH3\nStudents should be able to:\n- outline the nucleophilic substitution mechanisms of\nthese reactions\n- explain why the carbon–halogen bond enthalpy\ninfluences the rate of reaction.\nAT a, b and k\nPS 4.1\nStudents could follow instructions\nwhen carrying out test-tube hydrolysis\nof halogenoalkanes to show their\nrelative rates of reaction.\nAT d, g and k\nStudents could prepare a\nchloroalkane, purifying the product\nusing a separating funnel and\ndistillation.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.3.2",
+                  "title": "Elimination",
+                  "level": 3,
+                  "content": "The concurrent substitution and elimination reactions of a\nhalogenoalkane (eg 2-bromopropane with potassium\nhydroxide).\nStudents should be able to:\n- explain the role of the reagent as both nucleophile\nand base\n- outline the mechanisms of these reactions.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.3.3",
+                  "title": "Ozone depletion",
+                  "level": 3,
+                  "content": "Ozone, formed naturally in the upper atmosphere, is\nbeneficial because it absorbs ultraviolet radiation.\nChlorine atoms are formed in the upper atmosphere when\nultraviolet radiation causes C–Cl bonds in\nchlorofluorocarbons (CFCs) to break.\nChlorine atoms catalyse the decomposition of ozone and\ncontribute to the hole in the ozone layer.\nAppreciate that results of research by different groups in\nthe scientific community provided evidence for legislation\nto ban the use of CFCs as solvents and refrigerants.\nChemists have now developed alternative chlorine-free\ncompounds.\nStudents should be able to:\n- use equations, such as the following, to explain how\nchlorine atoms catalyse decomposition of ozone:\nCl• + O3 → ClO• + O2 and ClO• + O3 → 2O2 + Cl•\nResearch opportunity\nStudents could investigate the role of\nchemists in the introduction of\nlegislation to ban the use of CFCs\nand in finding replacements.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.4",
+              "title": "Alkenes",
+              "level": 2,
+              "content": "In alkenes, the high electron density of the carbon–carbon double bond leads to attack on these\nmolecules by electrophiles. This section also covers the mechanism of addition to the double bond\nand introduces addition polymers, which are commercially important and have many uses in\nmodern society.",
+              "children": [
+                {
+                  "code": "3.3.4.1",
+                  "title": "Structure, bonding and reactivity",
+                  "level": 3,
+                  "content": "Alkenes are unsaturated hydrocarbons.\nBonding in alkenes involves a double covalent bond, a\ncentre of high electron density.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.4.2",
+                  "title": "Addition reactions of alkenes",
+                  "level": 3,
+                  "content": "Electrophilic addition reactions of alkenes with HBr,\nH2SO4 and Br2\nThe use of bromine to test for unsaturation.\nThe formation of major and minor products in addition\nreactions of unsymmetrical alkenes.\nStudents should be able to:\n- outline the mechanisms for these reactions\n- explain the formation of major and minor products\nby reference to the relative stabilities of primary,\nsecondary and tertiary carbocation intermediates.\nAT d and k\nPS 4.1\nStudents could test organic\ncompounds for unsaturation using\nbromine water and record their\nobservations.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.4.3",
+                  "title": "Addition polymers",
+                  "level": 3,
+                  "content": "Addition polymers are formed from alkenes and\nsubstituted alkenes.\nThe repeating unit of addition polymers.\nIUPAC rules for naming addition polymers.\nAddition polymers are unreactive.\nAppreciate that knowledge and understanding of the\nproduction and properties of polymers has developed\nover time.\nTypical uses of poly(chloroethene), commonly known as\nPVC, and how its properties can be modified using a\nplasticiser.\nStudents should be able to:\n- draw the repeating unit from a monomer structure\n- draw the repeating unit from a section of the\npolymer chain\n- draw the structure of the monomer from a section of\nthe polymer\n- explain why addition polymers are unreactive\n- explain the nature of intermolecular forces between\nmolecules of polyalkenes.\nAT k\nPS 1.2\nMaking poly(phenylethene) from\nphenylethene.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.5",
+              "title": "Alcohols",
+              "level": 2,
+              "content": "Alcohols have many scientific, medicinal and industrial uses. Ethanol is one such alcohol and it is\nproduced using different methods, which are considered in this section. Ethanol can be used as a\nbiofuel.",
+              "children": [
+                {
+                  "code": "3.3.5.1",
+                  "title": "Alcohol production",
+                  "level": 3,
+                  "content": "Alcohols are produced industrially by hydration of alkenes\nin the presence of an acid catalyst.\nEthanol is produced industrially by fermentation of\nglucose. The conditions for this process.\nEthanol produced industrially by fermentation is\nseparated by fractional distillation and can then be used\nas a biofuel.\nStudents should be able to:\n- explain the meaning of the term biofuel\n- justify the conditions used in the production of\nethanol by fermentation of glucose\n- write equations to support the statement that\nethanol produced by fermentation is a carbon\nneutral fuel and give reasons why this statement is\nnot valid\n- outline the mechanism for the formation of an\nalcohol by the reaction of an alkene with steam in\nthe presence of an acid catalyst\n- discuss the environmental (including ethical) issues\nlinked to decision making about biofuel use.\nAT a, d and k\nPS 1.2\nStudents could produce ethanol by\nfermentation, followed by purification\nby fractional distillation.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.5.2",
+                  "title": "Oxidation of alcohols",
+                  "level": 3,
+                  "content": "Alcohols are classified as primary, secondary and tertiary.\nPrimary alcohols can be oxidised to aldehydes which can\nbe further oxidised to carboxylic acids.\nSecondary alcohols can be oxidised to ketones.\nTertiary alcohols are not easily oxidised.\nAcidified potassium dichromate(VI) is a suitable oxidising\nagent.\nStudents should be able to:\n- write equations for these oxidation reactions\n(equations showing [O] as oxidant are acceptable)\n- explain how the method used to oxidise a primary\nalcohol determines whether an aldehyde or\ncarboxylic acid is obtained\n- use chemical tests to distinguish between\naldehydes and ketones including Fehling’s solution\nand Tollens’ reagent.\nAT b, d and k\nStudents could carry out the\npreparation of an aldehyde by the\noxidation of a primary alcohol.\nStudents could carry out the\npreparation of a carboxylic acid by the\noxidation of a primary alcohol.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.5.3",
+                  "title": "Elimination",
+                  "level": 3,
+                  "content": "Alkenes can be formed from alcohols by acid-catalysed\nelimination reactions.\nAlkenes produced by this method can be used to produce\naddition polymers without using monomers derived from\ncrude oil.\nStudents should be able to:\n- outline the mechanism for the elimination of water\nfrom alcohols.\nRequired practical 5\nDistillation of a product from a reaction.\nAT b, d, g and k\nPS 4.1\nStudents could carry out the\npreparation of cyclohexene from\ncyclohexanol, including purification\nusing a separating funnel and by\ndistillation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.6",
+              "title": "Organic analysis",
+              "level": 2,
+              "content": "Our understanding of organic molecules, their structure and the way they react, has been\nenhanced by organic analysis. This section considers some of the analytical techniques used by\nchemists, including test-tube reactions and spectroscopic techniques.",
+              "children": [
+                {
+                  "code": "3.3.6.1",
+                  "title": "Identification of functional groups by test-tube reactions",
+                  "level": 3,
+                  "content": "The reactions of functional groups listed in the\nspecification.\nStudents should be able to:\n- identify the functional groups using reactions in the\nspecification.\nRequired practical 6\nTests for alcohol, aldehyde, alkene and carboxylic acid.\nAT b, d and k\nPS 2.2, 2.3 and 4.1\nStudents could carry out test-tube\nreactions in the specification to\ndistinguish alcohols, aldehydes,\nalkenes and carboxylic acids.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.6.2",
+                  "title": "Mass spectrometry",
+                  "level": 3,
+                  "content": "Mass spectrometry can be used to determine the\nmolecular formula of a compound.\nStudents should be able to:\n- use precise atomic masses and the precise\nmolecular mass to determine the molecular formula\nof a compound.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.6.3",
+                  "title": "Infrared spectroscopy",
+                  "level": 3,
+                  "content": "Bonds in a molecule absorb infrared radiation at\ncharacteristic wavenumbers.\n‘Fingerprinting’ allows identification of a molecule by\ncomparison of spectra.\nStudents should be able to:\n- use infrared spectra and the Chemistry Data Sheet\nor Booklet to identify particular bonds, and therefore\nfunctional groups, and also to identify impurities.\nThe link between absorption of infrared radiation by\nbonds in CO2, methane and water vapour and global\nwarming.\nStudents should be able to use data\nin the Chemistry Data Sheet or\nBooklet to suggest possible structures\nfor molecules.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.7",
+              "title": "Optical isomerism (A-level only)",
+              "level": 2,
+              "content": "Compounds that contain an asymmetric carbon atom form stereoisomers that differ in their effect\non plane polarised light. This type of isomerism is called optical isomerism.\nOptical isomerism is a form of stereoisomerism and\noccurs as a result of chirality in molecules, limited to\nmolecules with a single chiral centre.\nAn asymmetric carbon atom is chiral and gives rise to\noptical isomers (enantiomers), which exist as non super-\nimposable mirror images and differ in their effect on plane\npolarised light.\nA mixture of equal amounts of enantiomers is called a\nracemic mixture (racemate).\nStudents should be able to:\n- draw the structural formulas and displayed formulas\nof enantiomers\n- understand how racemic mixtures (racemates) are\nformed and why they are optically inactive.\nMS 4.1, 4.2 and 4.3\nStudents could be asked to recognise\nthe presence of a chiral centre in a\ngiven structure in 2D or 3D forms.\nThey could also be asked to draw the\n3D representation of chiral centres in\nvarious species.\nStudents understand the origin of\noptical isomerism.\nAT a and k\nPS 1.2\nPassing polarised light through a\nsolution of sucrose.",
+              "children": []
+            },
+            {
+              "code": "3.3.8",
+              "title": "Aldehydes and ketones (A-level only)",
+              "level": 2,
+              "content": "Aldehydes, ketones, carboxylic acids and their derivatives all contain the carbonyl group which is\nattacked by nucleophiles. This section includes the addition reactions of aldehydes and ketones.\nAldehydes are readily oxidised to carboxylic acids.\nChemical tests to distinguish between aldehydes and\nketones including Fehling’s solution and Tollens’ reagent.\nAldehydes can be reduced to primary alcohols, and\nketones to secondary alcohols, using NaBH4 in aqueous\nsolution. These reduction reactions are examples of\nnucleophilic addition.\nThe nucleophilic addition reactions of carbonyl\ncompounds with KCN, followed by dilute acid, to produce\nhydroxynitriles.\nAldehydes and unsymmetrical ketones form mixtures of\nenantiomers when they react with KCN followed by dilute\nacid.\nThe hazards of using KCN.\nStudents should be able to:\n- write overall equations for reduction reactions using\n[H] as the reductant\n- outline the nucleophilic addition mechanism for\nreduction reactions with NaBH4 (the nucleophile\nshould be shown as H–)\n- write overall equations for the formation of\nhydroxynitriles using HCN\n- outline the nucleophilic addition mechanism for the\nreaction with KCN followed by dilute acid\n- explain why nucleophilic addition reactions of KCN,\nfollowed by dilute acid, can produce a mixture of\nenantiomers.\nAT b, d and k\nPS 2.2\nStudents could carry out test-tube\nreactions of Tollens’ reagent and\nFehling’s solution to distinguish\naldehydes and ketones.",
+              "children": []
+            },
+            {
+              "code": "3.3.9",
+              "title": "Carboxylic acids and derivatives (A-level only)",
+              "level": 2,
+              "content": "Carboxylic acids are weak acids but strong enough to liberate carbon dioxide from carbonates.\nEsters occur naturally in vegetable oils and animal fats. Important products obtained from esters\ninclude biodiesel, soap and glycerol.",
+              "children": [
+                {
+                  "code": "3.3.9.1",
+                  "title": "Carboxylic acids and esters (A-level only)",
+                  "level": 3,
+                  "content": "The structures of:\n- carboxylic acids\n- esters.\nCarboxylic acids are weak acids but will liberate CO2 from\ncarbonates.\nCarboxylic acids and alcohols react, in the presence of an\nacid catalyst, to give esters.\nCommon uses of esters (eg in solvents, plasticisers,\nperfumes and food flavourings).\nVegetable oils and animal fats are esters of\npropane-1,2,3-triol (glycerol).\nEsters can be hydrolysed in acid or alkaline conditions to\nform alcohols and carboxylic acids or salts of carboxylic\nacids.\nVegetable oils and animal fats can be hydrolysed in\nalkaline conditions to give soap (salts of long-chain\ncarboxylic acids) and glycerol.\nBiodiesel is a mixture of methyl esters of long-chain\ncarboxylic acids.\nBiodiesel is produced by reacting vegetable oils with\nmethanol in the presence of a catalyst.\nAT b, d, g and k\nPS 4.1\nStudents could make esters by\nreacting alcohols with carboxylic\nacids, purifying the product using a\nseparating funnel and by distillation.\nAT b, d, g, h and k\nStudents could identify an ester by\nmeasuring its boiling point, followed\nby hydrolysis to form the carboxylic\nacid, which is purified by\nrecrystallisation, and determine its\nmelting point.\nAT b, c, d and k\nStudents could make soap.\nAT b and k\nStudents could make biodiesel.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.9.2",
+                  "title": "Acylation (A-level only)",
+                  "level": 3,
+                  "content": "The structures of:\n- acid anhydrides\n- acyl chlorides\n- amides.\nThe nucleophilic addition–elimination reactions of water,\nalcohols, ammonia and primary amines with acyl\nchlorides and acid anhydrides.\nThe industrial advantages of ethanoic anhydride over\nethanoyl chloride in the manufacture of the drug aspirin.\nStudents should be able to outline the mechanism of\nnucleophilic addition–elimination reactions of acyl\nchlorides with water, alcohols, ammonia and primary\namines.\nRequired practical 10\nPreparation of:\n- a pure organic solid and test of its purity\n- a pure organic liquid.\nAT d and k\nPS 2.2\nStudents could record observations\nfrom reaction of ethanoyl chloride and\nethanoic anhydride with water,\nethanol, ammonia and phenylamine.\nAT b, d, g and h\nPS 2.1, 2.3 and 4.1\nStudents could carry out the\npreparation of aspirin, purification by\nrecrystallisation and determination of\nits melting point.\nStudents could carry out the\npurification of impure benzoic acid\nand determination of its melting point.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.10",
+              "title": "Aromatic chemistry (A-level only)",
+              "level": 2,
+              "content": "Aromatic chemistry takes benzene as an example of this type of molecule and looks at the\nstructure of the benzene ring and its substitution reactions.",
+              "children": [
+                {
+                  "code": "3.3.10.1",
+                  "title": "Bonding (A-level only)",
+                  "level": 3,
+                  "content": "The nature of the bonding in a benzene ring, limited to\nplanar structure and bond length intermediate between\nsingle and double.\nDelocalisation of p electrons makes benzene more stable\nthan the theoretical molecule cyclohexa-1,3,5-triene.\nStudents should be able to:\n- use thermochemical evidence from enthalpies of\nhydrogenation to account for this extra stability\n- explain why substitution reactions occur in\npreference to addition reactions.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.10.2",
+                  "title": "Electrophilic substitution (A-level only)",
+                  "level": 3,
+                  "content": "Electrophilic attack on benzene rings results in\nsubstitution, limited to monosubstitutions.\nNitration is an important step in synthesis, including the\nmanufacture of explosives and formation of amines.\nFriedel–Crafts acylation reactions are also important\nsteps in synthesis.\nStudents should be able to outline the electrophilic\nsubstitution mechanisms of:\n- nitration, including the generation of the nitronium\nion\n- acylation using AlCl3 as a catalyst.\nAT b, d, g and h\nPS 2.1, 2.3 and 4.1\nStudents could carry out the\npreparation of methyl 3-nitrobenzoate\nby nitration of methyl benzoate,\npurification by recrystallisation and\ndetermination of melting point.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.11",
+              "title": "Amines (A-level only)",
+              "level": 2,
+              "content": "Amines are compounds based on ammonia where hydrogen atoms have been replaced by alkyl or\naryl groups. This section includes their reactions as nucleophiles.",
+              "children": [
+                {
+                  "code": "3.3.11.1",
+                  "title": "Preparation (A-level only)",
+                  "level": 3,
+                  "content": "Primary aliphatic amines can be prepared by the reaction\nof ammonia with halogenoalkanes and by the reduction of\nnitriles.\nAromatic amines, prepared by the reduction of nitro\ncompounds, are used in the manufacture of dyes.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.11.2",
+                  "title": "Base properties (A-level only)",
+                  "level": 3,
+                  "content": "Amines are weak bases.\nThe difference in base strength between ammonia,\nprimary aliphatic and primary aromatic amines.\nStudents should be able to:\n- explain the difference in base strength in terms of\nthe availability of the lone pair of electrons on the N\natom.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.11.3",
+                  "title": "Nucleophilic properties (A-level only)",
+                  "level": 3,
+                  "content": "Amines are nucleophiles.\nThe nucleophilic substitution reactions of ammonia and\namines with halogenoalkanes to form primary, secondary,\ntertiary amines and quaternary ammonium salts.\nThe use of quaternary ammonium salts as cationic\nsurfactants.\nThe nucleophilic addition–elimination reactions of\nammonia and primary amines with acyl chlorides and acid\nanhydrides.\nStudents should be able to outline the mechanisms of:\n- these nucleophilic substitution reactions\n- the nucleophilic addition–elimination reactions of\nammonia and primary amines with acyl chlorides.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.12",
+              "title": "Polymers (A-level only)",
+              "level": 2,
+              "content": "The study of polymers is extended to include condensation polymers. The ways in which\ncondensation polymers are formed are studied, together with their properties and typical uses.\nProblems associated with the reuse or disposal of both addition and condensation polymers are\nconsidered.",
+              "children": [
+                {
+                  "code": "3.3.12.1",
+                  "title": "Condensation polymers (A-level only)",
+                  "level": 3,
+                  "content": "Condensation polymers are formed by reactions between:\n- dicarboxylic acids and diols\n- dicarboxylic acids and diamines\n- amino acids.\nThe repeating units in polyesters (eg Terylene) and\npolyamides (eg nylon 6,6 and Kevlar) and the linkages\nbetween these repeating units.\nTypical uses of these polymers.\nStudents should be able to:\n- draw the repeating unit from monomer structure(s)\n- draw the repeating unit from a section of the\npolymer chain\n- draw the structure(s) of the monomer(s) from a\nsection of the polymer\n- explain the nature of the intermolecular forces\nbetween molecules of condensation polymers.\nAT k\nPS 1.2\nMaking nylon 6,6",
+                  "children": []
+                },
+                {
+                  "code": "3.3.12.2",
+                  "title": "Biodegradability and disposal of polymers (A-level only)",
+                  "level": 3,
+                  "content": "Polyalkenes are chemically inert and non-biodegradable.\nPolyesters and polyamides can be broken down by\nhydrolysis and are biodegradable.\nThe advantages and disadvantages of different methods\nof disposal of polymers, including recycling.\nStudents should be able to:\n- explain why polyesters and polyamides can be\nhydrolysed but polyalkenes cannot.\nResearch opportunity\nStudents could research problems\nassociated with the disposal of\ndifferent polymers.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.13",
+              "title": "Amino acids, proteins and DNA (A-level only)",
+              "level": 2,
+              "content": "Amino acids, proteins and DNA are the molecules of life. In this section, the structure and bonding\nin these molecules and the way they interact is studied. Drug action is also considered.",
+              "children": [
+                {
+                  "code": "3.3.13.1",
+                  "title": "Amino acids (A-level only)",
+                  "level": 3,
+                  "content": "Amino acids have both acidic and basic properties,\nincluding the formation of zwitterions.\nStudents should be able to draw the structures of amino\nacids as zwitterions and the ions formed from amino\nacids:\n- in acid solution\n- in alkaline solution.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.13.2",
+                  "title": "Proteins (A-level only)",
+                  "level": 3,
+                  "content": "Proteins are sequences of amino acids joined by peptide\nlinks.\nThe importance of hydrogen bonding and sulfur–sulfur\nbonds in proteins.\nThe primary, secondary (α-helix and β–pleated sheets)\nand tertiary structure of proteins.\nHydrolysis of the peptide link produces the constituent\namino acids.\nAmino acids can be separated and identified by thin-layer\nchromatography.\nAmino acids can be located on a chromatogram using\ndeveloping agents such as ninhydrin or ultraviolet light\nand identified by their Rf values.\nStudents should be able to:\n- draw the structure of a peptide formed from up to\nthree amino acids\n- draw the structure of the amino acids formed by\nhydrolysis of a peptide\n- identify primary, secondary and tertiary structures in\ndiagrams\n- explain how these structures are maintained by\nhydrogen bonding and S–S bonds\n- calculate Rf values from a chromatogram.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.13.3",
+                  "title": "Enzymes (A-level only)",
+                  "level": 3,
+                  "content": "Enzymes are proteins.\nThe action of enzymes as catalysts, including the concept\nof a stereospecific active site that binds to a substrate\nmolecule.\nThe principle of a drug acting as an enzyme inhibitor by\nblocking the active site.\nComputers can be used to help design such drugs.\nStudents should be able to:\n- explain why a stereospecific active site can only\nbond to one enantiomeric form of a substrate or\ndrug.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.13.4",
+                  "title": "DNA (A-level only)",
+                  "level": 3,
+                  "content": "The structures of the phosphate ion, 2-deoxyribose (a\npentose sugar) and the four bases adenine, cytosine,\nguanine and thymine are given in the Chemistry Data\nBooklet.\nA nucleotide is made up from a phosphate ion bonded to\n2-deoxyribose which is in turn bonded to one of the four\nbases adenine, cytosine, guanine and thymine.\nA single strand of DNA (deoxyribonucleic acid) is a\npolymer of nucleotides linked by covalent bonds between\nthe phosphate group of one nucleotide and the 2-\ndeoxyribose of another nucleotide. This results in a sugar-\nphosphate-sugar-phosphate polymer chain with bases\nattached to the sugars in the chain.\nDNA exists as two complementary strands arranged in\nthe form of a double helix.\nStudents should be able to:\n- explain how hydrogen bonding between base pairs\nleads to the two complementary strands of DNA.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.13.5",
+                  "title": "Action of anticancer drugs (A-level only)",
+                  "level": 3,
+                  "content": "The Pt(II) complex cisplatin is used as an anticancer drug.\nCisplatin prevents DNA replication in cancer cells by a\nligand replacement reaction with DNA in which a bond is\nformed between platinum and a nitrogen atom on\nguanine.\nAppreciate that society needs to assess the balance\nbetween the benefits and the adverse effects of drugs,\nsuch as the anticancer drug cisplatin.\nStudents should be able to:\n- explain why cisplatin prevents DNA replication\n- explain why such drugs can have adverse effects.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.14",
+              "title": "Organic synthesis (A-level only)",
+              "level": 2,
+              "content": "The formation of new organic compounds by multi-step syntheses using reactions included in the\nspecification is covered in this section.\nThe synthesis of an organic compound can involve\nseveral steps.\nStudents should be able to:\n- explain why chemists aim to design processes that\ndo not require a solvent and that use non-\nhazardous starting materials\n- explain why chemists aim to design production\nmethods with fewer steps that have a high\npercentage atom economy\n- use reactions in this specification to devise a\nsynthesis, with up to four steps, for an organic\ncompound.",
+              "children": []
+            },
+            {
+              "code": "3.3.15",
+              "title": "Nuclear magnetic resonance spectroscopy (A-level only)",
+              "level": 2,
+              "content": "Chemists use a variety of techniques to deduce the structure of compounds. In this section,\nnuclear magnetic resonance spectroscopy is added to mass spectrometry and infrared\nspectroscopy as an analytical technique. The emphasis is on the use of analytical data to solve\nproblems rather than on spectroscopic theory.\nAppreciation that scientists have developed a range of\nanalytical techniques which together enable the structures\nof new compounds to be confirmed.\nNuclear magnetic resonance (NMR) gives information\nabout the position of 13C or 1H atoms in a molecule.\n13C NMR gives simpler spectra than 1H NMR.\nThe use of the δ scale for recording chemical shift.\nChemical shift depends on the molecular environment.\nIntegrated spectra indicate the relative numbers of 1H\natoms in different environments.\n1H NMR spectra are obtained using samples dissolved in\ndeuterated solvents or CCl4\nThe use of tetramethylsilane (TMS) as a standard.\nStudents should be able to:\n- explain why TMS is a suitable substance to use as\na standard\nuse 1H NMR and 13C NMR spectra and chemical\n- shift data from the Chemistry Data Booklet to\nsuggest possible structures or part structures for\nmolecules\nuse integration data from 1H NMR spectra to\n- determine the relative numbers of equivalent\nprotons in the molecule\n- use the n+1 rule to deduce the spin–spin splitting\npatterns of adjacent, non-equivalent protons, limited\nto doublet, triplet and quartet formation in aliphatic\ncompounds.\nStudents should be able to use data\nin the Chemistry Data Booklet to\nsuggest possible structures for\nmolecules.",
+              "children": []
+            },
+            {
+              "code": "3.3.16",
+              "title": "Chromatography (A-level only)",
+              "level": 2,
+              "content": "Chromatography provides an important method of separating and identifying components in a\nmixture. Different types of chromatography are used depending on the composition of mixture to\nbe separated.\nChromatography can be used to separate and identify the\ncomponents in a mixture.\nTypes of chromatography include:\n- thin-layer chromatography (TLC) – a plate is coated\nwith a solid and a solvent moves up the plate\n- column chromatography (CC) – a column is packed\nwith a solid and a solvent moves down the column\n- gas chromatography (GC) – a column is packed\nwith a solid or with a solid coated by a liquid, and a\ngas is passed through the column under pressure at\nhigh temperature.\nSeparation depends on the balance between solubility in\nthe moving phase and retention by the stationary phase.\nRetention times and Rf values are used to identify\ndifferent substances.\nThe use of mass spectrometry to analyse the components\nseparated by GC.\nStudents should be able to:\n- calculate Rf values from a chromatogram\n- compare retention times and Rf values with\nstandards to identify different substances.\nRequired practical 12\nSeparation of species by thin-layer chromatography.\nAT a, i and k\nPS 1.2, 3.2 and 4.1\nStudents could use thin-layer\nchromatography to identify\nanalgesics.\nStudents could use thin-layer\nchromatography to identify transition\nmetal ions in a solution.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

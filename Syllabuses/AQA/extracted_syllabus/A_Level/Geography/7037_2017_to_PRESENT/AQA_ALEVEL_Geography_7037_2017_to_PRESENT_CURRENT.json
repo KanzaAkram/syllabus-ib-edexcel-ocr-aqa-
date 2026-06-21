@@ -1,0 +1,855 @@
+{
+  "source_pdf": "A_Level/Geography/7037_2017_to_PRESENT/AQA_ALEVEL_Geography_7037_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "A_Level",
+  "subject": "Geography",
+  "spec_code": "7037",
+  "pdf_name": "AQA_ALEVEL_Geography_7037_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Physical geography",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Water and carbon cycles",
+              "level": 2,
+              "content": "This section of our specification focuses on the major stores of water and carbon at or near the\nEarth’s surface and the dynamic cyclical relationships associated with them. These are major\nelements in the natural environment and understanding them is fundamental to many aspects of\nphysical geography.\nThis section specifies a systems approach to the study of water and carbon cycles. The content\ninvites students to contemplate the magnitude and significance of the cycles at a variety of scales,\ntheir relevance to wider geography and their central importance for human populations. The\nsection offers the opportunity to exercise and develop geographical skills including observation,\nmeasurement and geospatial mapping skills, together with data manipulation and statistical skills\nincluding those associated with and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.1.1.1",
+                  "title": "Water and carbon cycles as natural systems",
+                  "level": 3,
+                  "content": "Systems in physical geography: systems concepts and their application to the water and carbon\ncycles inputs – outputs, energy, stores/components, flows/transfers, positive/negative feedback,\ndynamic equilibrium.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.2",
+                  "title": "The water cycle",
+                  "level": 3,
+                  "content": "Global distribution and size of major stores of water – lithosphere, hydrosphere, cryosphere and\natmosphere.\nProcesses driving change in the magnitude of these stores over time and space, including flows\nand transfers: evaporation, condensation, cloud formation, causes of precipitation and cryospheric\nprocesses at hill slope, drainage basin and global scales with reference to varying timescales\ninvolved.\nDrainage basins as open systems – inputs and outputs, to include precipitation, evapo-\ntranspiration and runoff; stores and flows, to include interception, surface, soil water, groundwater\nand channel storage; stemflow, infiltration overland flow, and channel flow. Concept of water\nbalance.\nRunoff variation and the flood hydrograph.\nChanges in the water cycle over time to include natural variation including storm events, seasonal\nchanges and human impact including farming practices, land use change and water abstraction.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.3",
+                  "title": "The carbon cycle",
+                  "level": 3,
+                  "content": "Global distribution, and size of major stores of carbon – lithosphere, hydrosphere, cryosphere\nbiosphere, atmosphere.\nFactors driving change in the magnitude of these stores over time and space, including flows and\ntransfers at plant, sere and continental scales. Photosynthesis, respiration, decomposition,\ncombustion, carbon sequestration in oceans and sediments, weathering.\nChanges in the carbon cycle over time, to include natural variation (including wild fires, volcanic\nactivity) and human impact (including hydrocarbon fuel extraction and burning, farming practices,\ndeforestation, land use changes).\nThe carbon budget and the impact of the carbon cycle upon land, ocean and atmosphere,\nincluding global climate.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.4",
+                  "title": "Water, carbon, climate and life on Earth",
+                  "level": 3,
+                  "content": "The key role of the carbon and water stores and cycles in supporting life on Earth with particular\nreference to climate. The relationship between the water cycle and carbon cycle in the\natmosphere. The role of feedbacks within and between cycles and their link to climate change and\nimplications for life on Earth.\nHuman interventions in the carbon cycle designed to influence carbon transfers and mitigate the\nimpacts of climate change.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.5",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme\nwater and carbon cycles. Students must specifically understand simple mass balance, unit\nconversions and the analysis and presentation of field data.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.6",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study of a tropical rainforest setting to illustrate and analyse key themes in water and carbon\ncycles and their relationship to environmental change and human activity.\nCase study of a river catchment(s) at a local scale to illustrate and analyse the key themes above,\nengage with field data and consider the impact of precipitation upon drainage basin stores and\ntransfers and implications for sustainable water supply and/or flooding.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Hot desert systems and landscapes",
+              "level": 2,
+              "content": "This section of our specification focuses on drylands which occur at all latitudes and are\ncharacterised by limited soil moisture caused by low precipitation and high evaporation. The focus\nis on hot deserts and their margins, where the operation of characteristic aeolian and episodic\nfluvial processes with their distinctive landscape outcomes are readily observable. In common with\nwater and carbon cycles, a systems approach to study is specified.\nStudent engagement with subject content fosters informed appreciation of the beauty and diversity\nof deserts and the challenges they present as human habitats. The section offers the opportunity,\nin the right settings, to exercise and develop geographical skills, including observation,\nmeasurement and geospatial mapping skills, together with data manipulation and statistical skills,\nincluding those associated with and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.1.2.1",
+                  "title": "Deserts as natural systems",
+                  "level": 3,
+                  "content": "Systems in physical geography: systems concepts and their application to the development of\ndesert landscapes – inputs, outputs, energy, stores/components, flows/transfers, positive/negative\nfeedback, dynamic equilibrium. The concepts of landform and landscape and how related\nlandforms combine to form characteristic landscapes.\nThe global distribution of mid and low latitude deserts and their margins (arid and semi-arid).\nCharacteristics of hot desert environments and their margins: climate, soils and vegetation (and\ntheir interaction). Water balance and aridity index.\nThe causes of aridity: atmospheric processes relating to pressure, winds, continentality, relief and\ncold ocean currents.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.2",
+                  "title": "Systems and processes",
+                  "level": 3,
+                  "content": "Sources of energy in hot desert environments: insolation, winds, runoff.\nSediment sources, cells and budgets.\nGeomorphological processes: weathering, mass movement, erosion, transportation and\ndeposition.\nDistinctively arid geomorphological processes: weathering (thermal fracture, exfoliation, chemical\nweathering, block and granular disintegration).\nThe role of wind – erosion: deflation and abrasion; transportation; suspension, saltation, surface\ncreep, deposition.\nSources of water: exogenous, endoreic and ephemeral; the episodic role of water; sheet flooding,\nchannel flash flooding.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.3",
+                  "title": "Arid landscape development in contrasting settings",
+                  "level": 3,
+                  "content": "Origin and development of landforms of mid and low latitude deserts: aeolian – deflation hollows,\ndesert pavements, ventifacts, yardangs, zeugen, barchans and seif dunes; water – wadis,\nbahadas, pediments, playas, inselbergs.\nThe relationship between process, time, landforms and landscapes in mid and low latitude desert\nsettings: characteristic desert landscapes.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.4",
+                  "title": "Desertification",
+                  "level": 3,
+                  "content": "The changing extent and distribution of hot deserts over the last 10,000 years. The causes of\ndesertification – climate change and human impact; distribution of areas at risk; impact on\necosystems, landscapes and populations. Predicted climate change and its impacts; alternative\npossible futures for local populations.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.5",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme\nlandscape systems. These should include observation skills, measurement and geospatial\nmapping skills and data manipulation and statistical skills applied to field measurements.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.6",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study of a hot desert environment setting to illustrate and analyse key themes set out above\nand engage with field data (exemplifying field data may be gathered in settings that experience\nsome of the aeolian processes associated with mid and low latitude desert environments such as\ncoastal dunes).\nCase study at a local scale of a landscape where desertification has occurred to illustrate and\nanalyse key themes of desertification, causes and impacts, implications for sustainable\ndevelopment. Evaluation of human responses of resilience, mitigation and adaptation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Coastal systems and landscapes",
+              "level": 2,
+              "content": "This section of our specification focuses on coastal zones, which are dynamic environments in\nwhich landscapes develop by the interaction of winds, waves, currents and terrestrial and marine\nsediments. The operation and outcomes of fundamental geomorphological processes and their\nassociation with distinctive landscapes are readily observable. In common with water and carbon\ncycles, a systems approach to study is specified.\nStudent engagement with subject content fosters an informed appreciation of the beauty and\ndiversity of coasts and their importance as human habitats. The section offers the opportunity to\nexercise and develop observation skills, measurement and geospatial mapping skills, together with\ndata manipulation and statistical skills, including those associated with and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.1.3.1",
+                  "title": "Coasts as natural systems",
+                  "level": 3,
+                  "content": "Systems in physical geography: systems concepts and their application to the development of\ncoastal landscapes – inputs, outputs, energy, stores/components, flows/transfers, positive/negative\nfeedback, dynamic equilibrium. The concepts of landform and landscape and how related\nlandforms combine to form characteristic landscapes.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.2",
+                  "title": "Systems and processes",
+                  "level": 3,
+                  "content": "Sources of energy in coastal environments: winds, waves (constructive and destructive), currents\nand tides. Low energy and high energy coasts.\nSediment sources, cells and budgets.\nGeomorphological processes: weathering, mass movement, erosion, transportation and\ndeposition.\nDistinctively coastal processes: marine: erosion – hydraulic action, wave quarrying, corrasion/\nabrasion, cavitation, solution, attrition; transportation: traction, suspension (longshore/littoral drift)\nand deposition; sub-aerial weathering, mass movement and runoff.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.3",
+                  "title": "Coastal landscape development",
+                  "level": 3,
+                  "content": "This content must include study of a variety of landscapes from beyond the United Kingdom (UK)\nbut may also include UK examples.\nOrigin and development of landforms and landscapes of coastal erosion: cliffs and wave cut\nplatforms, cliff profile features including caves, arches and stacks; factors and processes in their\ndevelopment.\nOrigin and development of landforms and landscapes of coastal deposition. Beaches, simple and\ncompound spits, tombolos, offshore bars, barrier beaches and islands and sand dunes; factors and\nprocesses in their development.\nEstuarine mudflat/saltmarsh environments and associated landscapes; factors and processes in\ntheir development.\nEustatic, isostatic and tectonic sea level change: major changes in sea level in the last 10,000\nyears.\nCoastlines of emergence and submergence. Origin and development of associated landforms:\nraised beaches, marine platforms; rias, fjords, Dalmatian coasts.\nRecent and predicted climatic change and potential impact on coasts.\nThe relationship between process, time, landforms and landscapes in coastal settings.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.4",
+                  "title": "Coastal management",
+                  "level": 3,
+                  "content": "Human intervention in coastal landscapes. Traditional approaches to coastal flood and erosion\nrisk: hard and soft engineering. Sustainable approaches to coastal flood risk and coastal erosion\nmanagement: shoreline management/integrated coastal zone management.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.5",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme\nlandscape systems. These should include observation skills, measurement and geospatial\nmapping skills and data manipulation and statistical skills applied to field measurements.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.6",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study(ies) of coastal environment(s) at a local scale to illustrate and analyse fundamental\ncoastal processes, their landscape outcomes as set out above and engage with field data and\nchallenges represented in their sustainable management.\nCase study of a contrasting coastal landscape beyond the UK to illustrate and analyse how it\npresents risks and opportunities for human occupation and development and evaluate human\nresponses of resilience, mitigation and adaptation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.4",
+              "title": "Glacial systems and landscapes",
+              "level": 2,
+              "content": "This section of our specification focuses on glaciated landscapes. These are dynamic\nenvironments in which landscapes continue to develop through contemporary processes but which\nmainly reflect former climatic conditions associated with the Pleistocene era. The operation and\noutcomes of fundamental geomorphological processes and their association with distinctive\nlandscapes are readily observable. In common with water and carbon cycles, a systems approach\nto study is specified.\nStudent engagement with subject content fosters an informed appreciation of the beauty and\ndiversity of glaciated regions and the challenges they present for human habitation. The section\noffers the opportunity to exercise and develop observation skills, measurement and geospatial\nmapping skills, together with data manipulation and statistical skills, including those associated\nwith and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.1.4.1",
+                  "title": "Glaciers as natural systems",
+                  "level": 3,
+                  "content": "Systems in physical geography: systems concepts and their application to the development of\nglaciated landscapes – inputs, outputs, energy, stores/components, flows/transfers, positive/\nnegative feedback, dynamic equilibrium. The concepts of landform and landscape and how related\nlandforms combine to form characteristic landscapes.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.2",
+                  "title": "The nature and distribution of cold environments",
+                  "level": 3,
+                  "content": "The global distribution of cold environments.\nPhysical characteristics of cold environments. Climate, soils and vegetation (and their interaction).\nThe global distribution of past and present cold environments (polar, alpine, glacial and periglacial)\nand of areas affected by the Pleistocene glaciations.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.3",
+                  "title": "Systems and processes",
+                  "level": 3,
+                  "content": "Glacial systems including glacial budgets.\nAblation and accumulation – historical patterns of ice advance and retreat.\nWarm and cold based glaciers: characteristics and development.\nGeomorphological processes – weathering: frost action, nivation; ice movement: internal\ndeformation, rotational, compressional, extensional and basal sliding; erosion: plucking, abrasion;\ntransportation and deposition.\nFluvioglacial processes: meltwater, erosion transportation and deposition.\nPeriglacial features and processes: permafrost, active layer and mass movement.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.4",
+                  "title": "Glaciated landscape development",
+                  "level": 3,
+                  "content": "This content must include study of a variety of landscapes from beyond the UK and may also\ninclude UK examples.\nOrigin and development of glaciated landscapes.\nErosional and depositional landforms: corries, arêtes, glacial troughs, hanging valleys, truncated\nspurs, roches moutonnées. Characteristic glaciated landscapes.\nOrigin and development of landforms and landscapes of glacial deposition: drumlins, erratics,\nmoraines, till plains. Characteristic glaciated landscapes.\nFluvioglacial landforms of erosion and deposition: meltwater channels, kames, eskers, outwash\nplains. Characteristic fluvioglacial landscapes.\nPeriglacial landforms: patterned ground, ice wedges, pingos, blockfields, solifluction, lobes,\nterracettes, thermokarst. Characteristic periglacial landscapes.\nThe relationship between process, time, landforms and landscapes in glaciated settings:\ncharacteristic glaciated and periglacial landscapes.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.5",
+                  "title": "Human impacts on cold environments",
+                  "level": 3,
+                  "content": "Concept of environmental fragility. Human impacts on fragile cold environments over time and at a\nvariety of scales. Recent and prospective impact of climate change. Management of cold\nenvironments at present and in alternative possible futures.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.6",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme\nlandscape systems. These should include observation skills, measurement and geospatial\nmapping skills and data manipulation and statistical skills applied to field measurements.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.7",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study(ies) of glaciated environment(s) at a local scale to illustrate and analyse fundamental\nglacial processes, their landscape outcomes as set out above and engage with field data.\nCase study of a contrasting glaciated landscape from beyond the UK to illustrate and analyse how\nit presents challenges and opportunities for human occupation and development and evaluate\nhuman responses of resilience, mitigation and adaptation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.5",
+              "title": "Hazards",
+              "level": 2,
+              "content": "This optional section of our specification focuses on the lithosphere and the atmosphere, which\nintermittently but regularly present natural hazards to human populations, often in dramatic and\nsometimes catastrophic fashion. By exploring the origin and nature of these hazards and the\nvarious ways in which people respond to them, students are able to engage with many dimensions\nof the relationships between people and the environments they occupy. Study of this section offers\nthe opportunity to exercise and develop observation skills, measurement and geospatial mapping\nskills, together with data manipulation and statistical skills, including those associated with and\narising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.1.5.1",
+                  "title": "The concept of hazard in a geographical context",
+                  "level": 3,
+                  "content": "Nature, forms and potential impacts of natural hazards (geophysical, atmospheric and\nhydrological). Hazard perception and its economic and cultural determinants. Characteristic human\nresponses – fatalism, prediction, adjustment/adaptation, mitigation, management, risk sharing –\nand their relationship to hazard incidence, intensity, magnitude, distribution and level of\ndevelopment. The Park model of human response to hazards. The Hazard Management Cycle.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.2",
+                  "title": "Plate tectonics",
+                  "level": 3,
+                  "content": "Earth structure and internal energy sources. Plate tectonic theory of crustal evolution: tectonic\nplates; plate movement; gravitational sliding; ridge push, slab pull; convection currents and sea-\nfloor spreading.\nDestructive, constructive and conservative plate margins. Characteristic processes: seismicity and\nvulcanicity. Associated landforms: young fold mountains, rift valleys, ocean ridges, deep sea\ntrenches and island arcs, volcanoes.\nMagma plumes and their relationship to plate movement.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.3",
+                  "title": "Volcanic hazards",
+                  "level": 3,
+                  "content": "The nature of vulcanicity and its relation to plate tectonics: forms of volcanic hazard: nuées\nardentes, lava flows, mudflows, pyroclastic and ash fallout, gases/acid rain, tephra. Spatial\ndistribution, magnitude, frequency, regularity and predictability of hazard events.\nImpacts: primary/secondary, environmental, social, economic, political. Short and long-term\nresponses: risk management designed to reduce the impacts of the hazard through preparedness,\nmitigation, prevention and adaptation.\nImpacts and human responses as evidenced by a recent volcanic event.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.4",
+                  "title": "Seismic hazards",
+                  "level": 3,
+                  "content": "The nature of seismicity and its relation to plate tectonics: forms of seismic hazard: earthquakes,\nshockwaves, tsunamis, liquefaction, landslides. Spatial distribution, randomness, magnitude,\nfrequency, regularity, predictability of hazard events.\nImpacts: primary/secondary; environmental, social, economic, political. Short and long-term\nresponses; risk management designed to reduce the impacts of the hazard through preparedness,\nmitigation, prevention and adaptation.\nImpacts and human responses as evidenced by a recent seismic event.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.5",
+                  "title": "Storm hazards",
+                  "level": 3,
+                  "content": "The nature of tropical storms and their underlying causes. Forms of storm hazard: high winds,\nstorm surges, coastal flooding, river flooding and landslides. Spatial distribution, magnitude,\nfrequency, regularity, predictability of hazard events.\nImpacts: primary/secondary, environmental, social, economic, political. Short and long-term\nresponses: risk management designed to reduce the impacts of the hazard through preparedness,\nmitigation, prevention and adaptation.\nImpacts and human responses as evidenced by two recent tropical storms in contrasting areas of\nthe world.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.6",
+                  "title": "Fires in nature",
+                  "level": 3,
+                  "content": "Nature of wildfires. Conditions favouring intense wild fires: vegetation type, fuel characteristics,\nclimate and recent weather and fire behaviour. Causes of fires: natural and human agency.\nImpacts: primary/secondary, environmental, social, economic, political. Short and long-term\nresponses; risk management designed to reduce the impacts of the hazard through preparedness,\nmitigation, prevention and adaptation.\nImpact and human responses as evidenced by a recent wild fire event.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.7",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study of a multi-hazardous environment beyond the UK to illustrate and analyse the nature\nof the hazards and the social, economic and environmental risks presented, and how human\nqualities and responses such as resilience, adaptation, mitigation and management contribute to\nits continuing human occupation.\nCase study at a local scale of a specified place in a hazardous setting to illustrate the physical\nnature of the hazard and analyse how the economic, social and political character of its community\nreflects the presence and impacts of the hazard and the community’s response to the risk.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.6",
+              "title": "Ecosystems under stress",
+              "level": 2,
+              "content": "This optional section of our specification focuses on the biosphere and in particular the nature and\nfunctioning of ecosystems and their relationships to the nature and intensity of human activities.\nStudy of the impact of population growth and economic development on ecosystems at various\nscales affords the opportunity for students to engage with fundamental contemporary people–\nenvironment issues including those relating to biodiversity and sustainability. Study of this section\noffers the opportunity to exercise and develop observation skills, measurement and geospatial\nmapping skills, together with data manipulation and statistical skills including those associated with\nand arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.1.6.1",
+                  "title": "Ecosystems and sustainability",
+                  "level": 3,
+                  "content": "The concept of biodiversity. Local and global trends in biodiversity. Causes, rates and potential\nimpacts of declining biodiversity.\nEcosystems and their importance for human populations in the light of continuing population\ngrowth and economic development. Human populations in ecosystem development and\nsustainability.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.6.2",
+                  "title": "Ecosystems and processes",
+                  "level": 3,
+                  "content": "Nature of ecosystems – their structure, energy flows, trophic levels, food chains and food webs.\nApplication of systems concepts to ecosystems – inputs, outputs, stores and transfers of energy\nand materials. Concepts of biomass and net primary production.\nConcepts of succession: seral stages, climatic climax, sub-climax and plagioclimax.\nMineral nutrient cycling.\nNature of terrestrial ecosystems and the inter-connections between climate, vegetation, soil and\ntopography which produce them. Ecosystem responses to changes in one or more of their\ncomponents or environmental controls.\nFactors influencing the changing of ecosystems, including climate change and human exploitation\nof the global environment.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.6.3",
+                  "title": "Biomes",
+                  "level": 3,
+                  "content": "The concept of the biome. The global distribution of major terrestrial biomes.\nThe nature of two contrasting biomes: tropical rainforest and savanna grassland to include:\n- the main characteristics of each biome\n- ecological responses to the climate, soil and soil moisture budget – adaptations by flora and\nfauna\n- human activity and its impact on each biome\n- typical development issues in each biome to include changes in population, economic\ndevelopment, agricultural extension and intensification, implications for biodiversity and\nsustainability.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.6.4",
+                  "title": "Ecosystems in the British Isles over time",
+                  "level": 3,
+                  "content": "Succession and climatic climax as illustrated by lithoseres and hydroseres.\nThe characteristics of the climatic climax: temperate deciduous woodland biome.\nThe effects of human activity on succession – illustrated by one plagioclimax such as a heather\nmoorland.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.6.5",
+                  "title": "Marine ecosystems",
+                  "level": 3,
+                  "content": "The distribution and main characteristics of coral reef ecosystems. Environmental conditions\nassociated with reef development.\nThe following aspects should be examined with reference to a named, located coral reef:\nFactors in the health and survival of reefs:\n- Natural: Water temperature, acidity, salinity, algal blooms.\n- Human activity and its impact: Major drainage basin schemes, onshore development,\ndesalination, pollution, tourism, fishing.\n- Future prospects for coral reefs.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.6.6",
+                  "title": "Local ecosystems",
+                  "level": 3,
+                  "content": "The main characteristics of a distinctive local ecosystem (such as an area of heathland, managed\nparkland, pond, dune system). Ecological responses to the climate, soil and soil moisture budget –\nadaptations by flora and fauna.\nLocal factors in ecological development and change (such as agriculture, urban change, the\nplanned and unplanned introduction of new species).\nThe impacts of change and measures to manage these impacts. Conservation strategies and their\nimplementation in specific settings.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.6.7",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study of a specified region experiencing ecological change to illustrate and analyse the\nnature of the change and the reasons for it, how the economic, social and political character of its\ncommunity reflects its ecological setting and how the community is responding to change.\nCase study of a specified ecosystem at a local scale to illustrate and analyse key themes set out\nabove, including the nature and properties of the ecosystem, human impact upon it and the\nchallenges and opportunities presented in its sustainable development.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Human geography",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Global systems and global governance",
+              "level": 2,
+              "content": "This section of our specification focuses on globalisation – the economic, political and social\nchanges associated with technological and other driving forces which have been a key feature of\nglobal economy and society in recent decades.\nIncreased interdependence and transformed relationships between peoples, states and\nenvironments have prompted more or less successful attempts at a global level to manage and\ngovern some aspects of human affairs. Students engage with important dimensions of these\nphenomena with particular emphasis on international trade and access to markets and the\ngovernance of the global commons. Students contemplate many complex dimensions of\ncontemporary world affairs and their own place in and perspective on them. Study of this section\noffers the opportunity to exercise and develop both qualitative and quantitative approaches to\ngathering, processing and interpreting relevant information and data, including those associated\nwith and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "Globalisation",
+                  "level": 3,
+                  "content": "Dimensions of globalisation: flows of capital, labour, products, services and information; global\nmarketing; patterns of production, distribution and consumption.\nFactors in globalisation: the development of technologies, systems and relationships, including\nfinancial, transport, security, communications, management and information systems and trade\nagreements.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Global systems",
+                  "level": 3,
+                  "content": "Form and nature of economic, political, social and environmental interdependence in the\ncontemporary world.\nIssues associated with interdependence including how:\n- unequal flows of people, money, ideas and technology within global systems can sometimes\nact to promote stability, growth and development but can also cause inequalities, conflicts\nand injustices for people and places\n- unequal power relations enable some states to drive global systems to their own advantage\nand to directly influence geopolitical events, while others are only able to respond or resist in\na more constrained way.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.3",
+                  "title": "International trade and access to markets",
+                  "level": 3,
+                  "content": "Global features and trends in the volume and pattern of international trade and investment\nassociated with globalisation.\nTrading relationships and patterns between large, highly developed economies such as the United\nStates, the European Union, emerging major economies such as China and India and smaller, less\ndeveloped economies such as those in sub-Saharan Africa, southern Asia and Latin America.\nDifferential access to markets associated with levels of economic development and trading\nagreements and its impacts on economic and societal well-being.\nThe nature and role of transnational corporations (TNCs), including their spatial organisation,\nproduction, linkages, trading and marketing patterns, with a detailed reference to a specified TNC\nand its impacts on those countries in which it operates.\nWorld trade in at least one food commodity or one manufacturing product.\nAnalysis and assessment of the geographical consequences of global systems to specifically\nconsider how international trade and variable access to markets underly and impacts on students'\nand other people's lives across the globe.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.4",
+                  "title": "Global governance",
+                  "level": 3,
+                  "content": "The emergence and developing role of norms, laws and institutions in regulating and reproducing\nglobal systems.\nIssues associated with attempts at global governance, including how:\n- agencies, including the UN in the post-1945 era, can work to promote growth and stability but\nmay also exacerbate inequalities and injustices\n- interactions between the local, regional, national, international and global scales are\nfundamental to understanding global governance.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.5",
+                  "title": "The 'global commons'",
+                  "level": 3,
+                  "content": "The concept of the ‘global commons’. The rights of all to the benefits of the global commons.\nAcknowledgement that the rights of all people to sustainable development must also acknowledge\nthe need to protect the global commons.",
+                  "children": [
+                    {
+                      "code": "3.2.1.5.1",
+                      "title": "Antarctica as a global common",
+                      "level": 4,
+                      "content": "An outline of the contemporary geography, including climate, of Antarctica (including the Southern\nOcean as far north as the Antarctic Convergence) to demonstrate its role as a global common and\nillustrate its vulnerability to global economic pressures and environmental change.\nThreats to Antarctica arising from:\n- climate change\n- fishing and whaling\n- the search for mineral resources\n- tourism and scientific research.\nCritical appraisal of the developing governance of Antarctica. International government\norganisations to include United Nations (UN) agencies such as United Nations Environment\nProgramme (UNEP) and the International Whaling Commission. The Antarctic Treaty (1959), the\nProtocol on Environmental Protection to the Antarctic Treaty (1991); IWC Whaling Moratorium\n(1982) – their purpose, scope and systems for inspection and enforcement.\nThe role of NGOs in monitoring threats and enhancing protection of Antarctica.\nAnalysis and assessment of the geographical consequences of global governance for citizens and\nplaces in Antarctica and elsewhere to specifically consider how global governance underlies and\nimpacts on students’ and other people's lives across the globe.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.1.6",
+                  "title": "Globalisation critique",
+                  "level": 3,
+                  "content": "The impacts of globalisation to consider the benefits of growth, development, integration, stability\nagainst the costs in terms of inequalities, injustice, conflict and environmental impact.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.7",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with quantitative and qualitative approaches across the theme as a whole.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "Changing places",
+              "level": 2,
+              "content": "This section of our specification focuses on people's engagement with places, their experience of\nthem and the qualities they ascribe to them, all of which are of fundamental importance in their\nlives. Students acknowledge this importance and engage with how places are known and\nexperienced, how their character is appreciated, the factors and processes which impact upon\nplaces and how they change and develop over time. Through developing this knowledge, students\nwill gain understanding of the way in which their own lives and those of others are affected by\ncontinuity and change in the nature of places which are of fundamental importance in their lives.\nStudy of the content must be embedded in two contrasting places, one to be local. The local place\nmay be a locality, neighbourhood or small community either urban or rural. A contrasting place is\nlikely to be distant – it could be in the same country or a different country but it must show\nsignificant contrast in terms of economic development and/or population density and/or cultural\nbackground and/or systems of political and economic organisation.\nThe place studies complement the requirement to embed the study of content in two contrasting\nplaces. Study of this section offers particular opportunities to exercise and develop qualitative (and\nquantitative) investigative techniques and practice-related observation, measurement and various\nmapping skills, together with data manipulation and statistical skills including those associated with\nand arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.2.2.1",
+                  "title": "The nature and importance of places",
+                  "level": 3,
+                  "content": "The concept of place and the importance of place in human life and experience.\nInsider and outsider perspectives on place.\nCategories of place:\n- near places and far places\n- experienced places and media places.\nFactors contributing to the character of places:\n- Endogenous: location, topography, physical geography, land use, built environment and\ninfrastructure, demographic and economic characteristics.\n- Exogenous: relationships with other places.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.2",
+                  "title": "Changing places – relationships, connections, meaning and representation",
+                  "level": 3,
+                  "content": "In relation to the local place within which students live or study and then at least one further\ncontrasting place and encompassing local, regional, national, international and global scales:\n- the ways in which the following factors: relationships and connections, meaning and\nrepresentation, affect continuity and change in the nature of places and our understanding of\nplace\nand\n- the ways in which students’ own lives and those of others are affected by continuity and\nchange in the nature of places and our understanding of place.",
+                  "children": [
+                    {
+                      "code": "3.2.2.2.1",
+                      "title": "Relationships and connections",
+                      "level": 4,
+                      "content": "The impact of relationships and connections on people and place with a particular focus on:\neither\nchanging demographic and cultural characteristics\nor\neconomic change and social inequalities.\n- How the demographic, socio-economic and cultural characteristics of places are shaped by\nshifting flows of people, resources, money and investment, and ideas at all scales from local\nto global.\n- The characteristics and impacts of external forces operating at different scales from local to\nglobal, including either government policies or the decisions of transnational corporations or\nthe impacts of international or global institutions.\n- How past and present connections, within and beyond localities, shape places and embed\nthem in the regional, national, international and global scales.",
+                      "children": []
+                    },
+                    {
+                      "code": "3.2.2.2.2",
+                      "title": "Meaning and representation",
+                      "level": 4,
+                      "content": "The importance of the meanings and representations attached to places by people with a particular\nfocus on people's lived experience of place in the past and at present.\n- How humans perceive, engage with and form attachments to places and how they present\nand represent the world to others, including the way in which everyday place meanings are\nbound up with different identities, perspectives and experiences.\n- How external agencies, including government, corporate bodies and community or local\ngroups make attempts to influence or create specific place-meanings and thereby shape the\nactions and behaviours of individuals, groups, businesses and institutions.\n- How places may be represented in a variety of different forms such as advertising copy,\ntourist agency material, local art exhibitions in diverse media (eg film, photography, art, story,\nsong etc) that often give contrasting images to that presented formally or statistically such as\ncartography and census data.\n- How both past and present processes of development can be seen to influence the social\nand economic characteristics of places and so be implicit in present meanings.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.2.3",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with a range of quantitative and qualitative approaches across the theme as\na whole. Quantitative data, including the use of geospatial data, must be used to investigate and\npresent place characteristics, particular weight must be given to qualitative approaches involved in\nrepresenting place, and to analysing critically the impacts of different media on place meanings\nand perceptions. The use of different types of data should allow the development of critical\nperspectives on the data categories and approaches.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.4",
+                  "title": "Place studies",
+                  "level": 3,
+                  "content": "Local place study exploring the developing character of a place local to the home or study centre.\nContrasting place study exploring the developing character of a contrasting and distant place.\nPlace studies must apply the knowledge acquired through engagement with prescribed\nspecification content and thereby further enhance understanding of the way students' own lives\nand those of others are affected by continuity and change in the nature of places. Sources must\ninclude qualitative and quantitative data to represent places in the past and present.\nBoth place studies must focus equally on:\n- people's lived experience of the place in the past and at present\nand either\n- changing demographic and cultural characteristics\nor\n- economic change and social inequalities.\nSuitable data sources could include:\n- statistics, such as census data\n- maps\n- geo-located data\n- geospatial data, including geographic information systems (GIS) applications\n- photographs\n- text, from varied media\n- audio-visual media\n- artistic representations\n- oral sources, such as interviews, reminiscences, songs etc.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.3",
+              "title": "Contemporary urban environments",
+              "level": 2,
+              "content": "This optional section of our specification focuses on urban growth and change which are seemingly\nubiquitous processes and present significant environmental and social challenges for human\npopulations. The section examines these processes and challenges and the issues associated with\nthem, in particular the potential for environmental sustainability and social cohesion. Engaging with\nthese themes in a range of urban settings from contrasting areas of the world affords the\nopportunity for students to appreciate human diversity and develop awareness and insight into\nprofound questions of opportunity, equity and sustainability. Study of this section offers the\nopportunity to exercise and develop observation skills, measurement and geospatial mapping\nskills, together with data manipulation and statistical skills, including those associated with and\narising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.2.3.1",
+                  "title": "Urbanisation",
+                  "level": 3,
+                  "content": "Urbanisation and its importance in human affairs. Global patterns of urbanisation since 1945.\nUrbanisation, suburbanisation, counter-urbanisation, urban resurgence. The emergence of\nmegacities and world cities and their role in global and regional economies.\nEconomic, social, technological, political and demographic processes associated with urbanisation\nand urban growth.\nUrban change: deindustrialisation, decentralisation, rise of service economy.\nUrban policy and regeneration in Britain since 1979.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.2",
+                  "title": "Urban forms",
+                  "level": 3,
+                  "content": "Contemporary characteristics of mega/world cities. Urban characteristics in contrasting settings.\nPhysical and human factors in urban forms. Spatial patterns of land use, economic inequality,\nsocial segregation and cultural diversity in contrasting urban areas, and the factors that influence\nthem.\nNew urban landscapes: town centre mixed developments, cultural and heritage quarters, fortress\ndevelopments, gentrified areas, edge cities. The concept of the post-modern western city.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.3",
+                  "title": "Social and economic issues associated with urbanisation",
+                  "level": 3,
+                  "content": "Issues associated with economic inequality, social segregation and cultural diversity in contrasting\nurban areas.\nStrategies to manage these issues.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.4",
+                  "title": "Urban climate",
+                  "level": 3,
+                  "content": "The impact of urban forms and processes on local climate and weather.\nUrban temperatures: the urban heat island effect. Precipitation: frequency and intensity. Fogs and\nthunderstorms in urban environments. Wind: the effects of urban structures and layout on wind\nspeed, direction and frequency. Air quality: particulate and photo-chemical pollution.\nPollution reduction policies.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.5",
+                  "title": "Urban drainage",
+                  "level": 3,
+                  "content": "Urban precipitation, surfaces and catchment characteristics; impacts on drainage basin storage\nareas; urban water cycle: water movement through urban catchments as measured by\nhydrographs.\nIssues associated with catchment management in urban areas. The development of sustainable\nurban drainage systems (SUDS).\nRiver restoration and conservation in damaged urban catchments with reference to a specific\nproject. Reasons for and aims of the project; attitudes and contributions of parties involved; project\nactivities and evaluation of project outcomes.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.6",
+                  "title": "Urban waste and its disposal",
+                  "level": 3,
+                  "content": "Urban physical waste generation: sources of waste - industrial and commercial activity, personal\nconsumption. Relation of waste components and waste streams to economic characteristics,\nlifestyles and attitudes. The environmental impacts of alternative approaches to waste disposal:\nunregulated, recycling, recovery, incineration, burial, submergence and trade.\nComparison of incineration and landfill approaches to waste disposal in relation to a specified\nurban area.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.7",
+                  "title": "Other contemporary urban environmental issues",
+                  "level": 3,
+                  "content": "Environmental problems in contrasting urban areas: atmospheric pollution, water pollution and\ndereliction.\nStrategies to manage these environmental problems.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.8",
+                  "title": "Sustainable urban development",
+                  "level": 3,
+                  "content": "Impact of urban areas on local and global environments. Ecological footprint of major urban areas.\nDimensions of sustainability: natural, physical, social and economic. Nature and features of\nsustainable cities. Concept of liveability.\nContemporary opportunities and challenges in developing more sustainable cities.\nStrategies for developing more sustainable cities.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.9",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case studies of two contrasting urban areas to illustrate and analyse key themes set out above, to\ninclude:\n- patterns of economic and social well-being\n- the nature and impact of physical environmental conditions\nwith particular reference to the implications for environmental sustainability, the character of the\nstudy areas and the experience and attitudes of their populations.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.4",
+              "title": "Population and the environment",
+              "level": 2,
+              "content": "This optional section of our specification has been designed to explore the relationships between\nkey aspects of physical geography and population numbers, population health and well-being,\nlevels of economic development and the role and impact of the natural environment. Engaging with\nthese themes at different scales fosters opportunities for students to contemplate the reciprocating\nrelationships between the physical environment and human populations and the relationships\nbetween people in their local, national and international communities.\nStudy of this section offers the opportunity to exercise and develop observation skills,\nmeasurement and geospatial mapping skills, together with data manipulation and statistical skills,\nincluding those associated with and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.2.4.1",
+                  "title": "Introduction",
+                  "level": 3,
+                  "content": "The environmental context for human population characteristics and change. Key elements in the\nphysical environment: climate, soils, resource distributions including water supply. Key population\nparameters: distribution, density, numbers, change. Key role of development processes. Global\npatterns of population numbers, densities and change rates.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.2",
+                  "title": "Environment and population",
+                  "level": 3,
+                  "content": "Global and regional patterns of food production and consumption. Agricultural systems and\nagricultural productivity. Relationship with key physical environmental variables – climate and soils.\nCharacteristics and distribution of two major climatic types to exemplify relationships between\nclimate and human activities and numbers. Climate change as it affects agriculture.\nCharacteristics and distribution of two key zonal soils to exemplify relationship between soils and\nhuman activities especially agriculture. Soil problems and their management as they relate to\nagriculture: soil erosion, waterlogging, salinisation, structural deterioration.\nStrategies to ensure food security.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.3",
+                  "title": "Environment, health and well-being",
+                  "level": 3,
+                  "content": "Global patterns of health, mortality and morbidity. Economic and social development and the\nepidemiological transition.\nThe relationship between environment variables eg climate, topography (drainage) and incidence\nof disease. Air quality and health. Water quality and health.\nThe global prevalence, distribution, seasonal incidence of one specified biologically transmitted\ndisease, eg malaria; its links to physical and socio-economic environments including impacts of\nenvironmental variables on transmission vectors. Impact on health and well-being. Management\nand mitigation strategies.\nThe global prevalence and distribution of one specified non-communicable disease, eg a specific\ntype of cancer, coronary heart disease, asthma; its links to physical and socio-economic\nenvironment including impacts of lifestyles. Impact on health and well-being. Management and\nmitigation strategies.\nRole of international agencies and NGOs in promoting health and combating disease at the global\nscale.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.4",
+                  "title": "Population change",
+                  "level": 3,
+                  "content": "Factors in natural population change: the demographic transition model, key vital rates, age–sex\ncomposition; cultural controls. Models of natural population change, and their application in\ncontrasting physical and human settings. Concept of the Demographic Dividend.\nInternational migration: refugees, asylum seekers and economic migrants: environmental and\nsocio-economic causes, processes. Demographic, environmental, social, economic, health and\npolitical implications of migration.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.5",
+                  "title": "Principles of population ecology and their application to human populations",
+                  "level": 3,
+                  "content": "Population growth dynamics. Concepts of overpopulation, underpopulation and optimum\npopulation. Implications of population size and structure for the balance between population and\nresources; the concepts of ‘carrying capacity’ and ‘ecological footprint’ and their implications.\nPopulation, resources and pollution model: positive and negative feedback. Contrasting\nperspectives on population growth and its implications; Malthusian, neo-Malthusian and\nalternatives such as associated with Boserup and Simon.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.6",
+                  "title": "Global population futures",
+                  "level": 3,
+                  "content": "Health impacts of global environmental change: ozone depletion – skin cancer, cataracts; climate\nchange – thermal stress, emergent and changing distribution of vector borne diseases, agricultural\nproductivity and nutritional standards.\nProspects for the global population. Projected distributions. Critical appraisal of future population-\nenvironment relationships.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.7",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study of a country/society experiencing specific patterns of overall population change –\nincrease or decline – to illustrate and analyse the character, scale, and patterns of change,\nrelevant environmental and socio-economic factors and implications for the country/society.\nCase study of a specified local area to illustrate and analyse the relationship between place and\nhealth related to its physical environment, socio-economic character and the experience and\nattitudes of its populations.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.5",
+              "title": "Resource security",
+              "level": 2,
+              "content": "This optional section of our specification focuses on the large-scale exploitation of unevenly\ndistributed natural resources, which is one of the defining features of the present era. Increasing\ndemand for water, energy and minerals and their critical role in human affairs leads to massive\nlocal and regional transfers of water and massive global transfers of energy and minerals.\nIn this section students contemplate the fundamental relationships between the physical\nenvironment and human activities and wants and the relationships between people in their local,\nnational and international communities involving themes of sustainability and conflict. They engage\nwith these themes in relation to energy, water and minerals but may concentrate on one or other in\ntheir case studies.\nStudy of this section offers the opportunity to exercise and develop observation skills,\nmeasurement and geospatial mapping skills, together with data manipulation and statistical skills,\nincluding those associated with and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.2.5.1",
+                  "title": "Resource development",
+                  "level": 3,
+                  "content": "Concept of a resource. Resource classifications to include stock and flow resources. Stock\nresource evaluation: measured reserves, indicated reserves, inferred resources, possible\nresources. Natural resource development over time: exploration, exploitation, development.\nConcept of the resource frontier. Concept of resource peak.\nSustainable resource development. Environmental Impact Assessment (EIA) in relation to resource\ndevelopment projects.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.2",
+                  "title": "Natural resource issues",
+                  "level": 3,
+                  "content": "Global patterns of production, consumption and trade/movements of energy and ore minerals.\nGlobal patterns of water availability and demand.\nThe geopolitics of energy, ore mineral and water resource distributions, trade and management.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.3",
+                  "title": "Water security",
+                  "level": 3,
+                  "content": "Sources of water; components of demand, water stress.\nRelationship of water supply (volume and quality) to key aspects of physical geography – climate,\ngeology and drainage.\nStrategies to increase water supply to include catchment, diversion, storage and water transfers\nand desalination.\nEnvironmental impacts of a major water supply scheme incorporating a major dam and/or barrage\nand associated distribution networks.\nStrategies to manage water consumption (including reducing demand).\nSustainability issues associated with water management: virtual water trade, conservation,\nrecycling, ‘greywater’ and groundwater management.\nWater conflicts at a variety of scales – local, national, international.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.4",
+                  "title": "Energy security",
+                  "level": 3,
+                  "content": "Sources of energy, both primary and secondary. Components of demand and energy mixes in\ncontrasting settings.\nRelationship of energy supply (volume and quality) to key aspects of physical geography – climate,\ngeology and drainage.\nEnergy supplies in a globalising world: competing national interests and the role of transnational\ncorporations in energy production, processing and distribution.\nEnvironmental impacts of a major energy resource development such as an oil, coal or gas field\nand associated distribution networks.\nStrategies to increase energy supply (oil and gas exploration, nuclear power and development of\nrenewable sources).\nStrategies to manage energy consumption (including reducing demand).\nSustainability issues associated with energy production, trade and consumption: acid rain, the\nenhanced greenhouse effect, nuclear waste and energy conservation.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.5",
+                  "title": "Mineral security",
+                  "level": 3,
+                  "content": "With reference to iron ore or a specified globally traded non-ferrous metal ore eg copper, tin,\nmanganese.\nSources of the specified ore. Distribution of reserves/resources. End uses of the ore. Components\nof demand for ore. Role of specified ore in global commerce and industry.\nKey aspects of physical geography associated with ore occurrence and working: geological\nconditions and location.\nEnvironmental impacts of a major mineral resource extraction scheme and associated distribution\nnetworks.\nSustainability issues associated with ore extraction, trade and processing.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.6",
+                  "title": "Resource futures",
+                  "level": 3,
+                  "content": "Alternative energy, water and mineral ore futures and their relationship with a range of\ntechnological, economic, environmental and political developments.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.7",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study of either water or energy or mineral ore resource issues in a global or specified\nregional setting to illustrate and analyse theme(s) set out above, their implications for the setting\nincluding the relationship between resource security and human welfare and attempts to manage\nthe resource.\nCase study of a specified place to illustrate and analyse how aspects of its physical environment\naffects the availability and cost of water or energy or mineral ore and the way in which water or\nenergy or mineral ore is used.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Geography fieldwork investigation",
+          "level": 1,
+          "content": "The geography fieldwork investigation is assessed in Component 3.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Fieldwork requirements",
+              "level": 2,
+              "content": "All students are required to undertake fieldwork in relation to processes in both physical and\nhuman geography. Students must undertake four days of fieldwork during their A-level course.\nFieldwork can be completed in a number of ways: locally or further afield, on full days or on part\ndays. Schools and colleges will be required to confirm that all A-level geography students have\nbeen given an opportunity to fulfil this requirement.\nSchools and colleges are required to provide a fieldwork statement that confirms each student has\nundertaken four days of geographical fieldwork in relation to processes in both physical and human\ngeography. Schools and colleges must provide the fieldwork statement by 15 May in the year of\nentry. Any failure to provide this statement in a timely manner will be treated as malpractice or\nmaladministration (under Ofqual's General Condition A8 (Malpractice and maladministration)).",
+              "children": []
+            },
+            {
+              "code": "3.3.2",
+              "title": "Investigation requirements",
+              "level": 2,
+              "content": "Students are required to undertake an independent investigation. This must incorporate a\nsignificant element of fieldwork. The fieldwork undertaken as part of the individual investigation\nmay be based on either human or physical aspects of geography, or a combination of both. They\nmay incorporate field data and/or evidence from field investigations collected individually or in\ngroups. What is important is that students work on their own on contextualising, analysing and\nreporting of their work to produce an independent investigation with an individual title that\ndemonstrates required fieldwork knowledge, skills and understanding.\nThe independent investigation must:\n- be based on a research question or issue defined and developed by the student individually\nto address aims, questions and/or hypotheses relating to any part of the specification content\n- involve research of relevant literature sources and an understanding of the theoretical or\ncomparative context for a research question/hypothesis\n- incorporate the observation and recording of field data and/or evidence from field\ninvestigations that is of good quality and relevant to the topic under investigation\n- involve justification of the practical approaches adopted in the field including frequency/timing\nof observation, sampling and data collection approaches\n- draw on the student's own research, including their own field data and/or secondary data,\nand their experience of field methodologies of the investigation of core human and physical\nprocesses\n- demonstrate knowledge and understanding of the techniques appropriate for analysing field\ndata and information and for representing results, and show ability to select suitable\nquantitative or qualitative approaches and to apply them\n- demonstrate the ability to interrogate and critically examine field data in order to comment on\nits accuracy and/or the extent to which it is representative, and use the experience to extend\ngeographical understanding\n- require the student to independently contextualise, analyse and summarise findings and\ndata, and to draw conclusions, by applying existing knowledge, theory and concepts to order\nand understand field observations and identify their relation to the wider context\n- involve the writing up of field results clearly, logically and coherently using a range of\npresentation methods and extended writing\n- demonstrate the ability to answer a specific geographical question drawing effectively on\nevidence and theory to make a well-argued case\n- require evaluation and reflection on the investigation including showing an understanding of\nthe ethical dimensions of field research.",
+              "children": [
+                {
+                  "code": "3.3.2.1",
+                  "title": "Independence",
+                  "level": 3,
+                  "content": "Some stages of the investigation must be carried out independently. Other parts of the\ninvestigation may be carried out collaboratively, either as a class, group or pair.\nIndependence is compulsory in the following stages of the investigation:\n- defining and developing a question or issue to address aims, questions and/or hypotheses\nrelating to any aspect of the specification\n- drawing on research, including field data and if relevant, secondary data which must be\nsourced by the student\n- contextualising, analysing and summarising findings and data\n- presenting data and drawing conclusions.\nCollaboration is allowed in the following stages of the investigation:\n- exploring the focus of potential investigations\n- collecting field data and/or evidence from field investigations.\nIf students collaborate where independence is expected then the teacher must record this\nadditional assistance on the Candidate record form (CRF) and take it into account when marking\nthe work. You must award a mark which reflects the student’s unaided achievement. Failure to do\nso will be considered as malpractice. If malpractice is suspected, we will investigate. If malpractice\nis found to have taken place a penalty will be given dependent on the circumstances and severity\nof the malpractice. For full information, please see Malpractice (page 48) and the JCQ\ninstructions Suspected Malpractice in Examinations and Assessment.\nStudents should select a manageable focus for their investigation which enables them to select\none or more specific research question(s) or issue(s) with both a theoretical basis and a locational\ncontext. Appropriate and feasible methods should be used to collect relevant data. The data\ncollected should permit the use of appropriate cartographical, graphical and statistical skills to\nenable a full interpretation to be made, which should include reference to the title/aim. The\nconclusion should include a summary of the results, the relevance of these to the title/aim and an\nevaluation of the overall investigation, including the contributions and limitations of geography in\nunderstanding the topic and opportunities for further research.\nPreparation must involve enquiry work outside the classroom, to include data collection in the field\nand might include, for example, data collected in specialist study venues, work experience settings,\ninternet research and use of library or archive.\nStudents are expected to submit a written report which is 3,000–4,000 words in length. This\nincludes all text, text boxes and supplementary material such as photographs and data\npresentation techniques. It does not include appendices. When attaching appendices students\nshould have examples of raw data only, such as data sheets and questionnaires, rather than every\nquestionnaire completed.\nStudents who offer work that is below the advisory word count may be penalising themselves by\nnot allowing appropriate coverage of the required assessment objectives. Students who exceed\nthe advisory word count may be penalising themselves through a lack of precision and focus.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.2",
+                  "title": "Teacher guidance for students",
+                  "level": 3,
+                  "content": "Teachers should:\n- provide broad parameters for students’ investigation proposals (including themes from the\nspecification, locations, availability of equipment, time constraints)\n- explain what independence means\n- advise on health and safety considerations, the use of equipment and potential ethical\nconcerns\n- discuss with students their initial exploratory planning and tentative investigation titles\n- review each student’s independent investigation proposal. Within this review you should\nensure that the proposed investigation can suitably access the specification requirements\nand you should give general guidance on the methodology and analytical tools that the\nstudent plans to use.\n- advise on good practice such as referencing and using a bibliography system.\nThe above advice does not need to be recorded or taken into account when marking the work.\nTeachers must not:\n- provide students with a choice of titles or tasks from which they then choose\n- mark work provisionally and share that mark so that the student may then improve it\n- give specific guidance on how to make improvements to a draft in order to meet the\nassessment criteria without recording it as additional assistance on the Candidate record\nform (CRF) and taking it into account when marking the work.\nThese conditions apply equally to third party fieldwork providers. Failure to adhere to them\nconstitutes malpractice. You must ensure that at all times you remain confident in the authenticity\nand independence of students’ work.\nAssistance that goes beyond general advice includes (but is not limited to):\n- providing templates or model answers for specific titles or students\n- providing specific guidance on how to improve an individual student’s draft to meet the\nassessment criteria so that the student is no longer engaged in independent learning\n- providing specific guidance on errors and omissions which limits students’ opportunities to\nshow initiative themselves\n- providing primary or secondary data not collected by the student either individually or as part\nof a group.\nAny additional guidance of this nature must be recorded on the Candidate record form (CRF) and\ntaken into account when marking the work. Annotation must be used to explain how marks were\napplied in the context of the additional assistance given. Failure to do so will be considered as\nmalpractice.\nIf malpractice is suspected with regard to guidance and feedback to students, we will investigate. If\nmalpractice is found to have taken place a penalty will be given dependent on the circumstances\nand severity of the malpractice. For full information, please see Malpractice (page 48) and the\nJCQ instructions Suspected Malpractice in Examinations and Assessment.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.3",
+              "title": "Non-exam assessment mark scheme guidance",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Level 4",
+                  "level": 3,
+                  "content": "Detailed, effective, thorough, complete, well-developed.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Overall description of level",
+                      "level": 4,
+                      "content": "- The research question(s) will be effectively identified and preliminary research will be\nthoroughly undertaken with well-understood and well-stated contexts.\n- The methods of field investigation will be detailed and thorough with reasoned justification.\n- The methods of critical analysis will be effective, developed and complete.\n- The conclusions and evaluation will be thorough, effective and complete and the presentation\nwill be logical and coherent.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "",
+                  "title": "Level 3",
+                  "level": 3,
+                  "content": "Clear, secure, explicit, focused, precise, consistent.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Overall description of this level",
+                      "level": 4,
+                      "content": "- The research question(s) will be securely identified and preliminary research will be focused\nwith consistently understood and stated contexts.\n- The methods of field investigation will be clear and relevant with explicit justification.\n- The methods of critical analysis will be clear, precise and consistent.\n- The conclusions and evaluation will be clear, secure and focused and the presentation will be\nclear and precise.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "",
+                  "title": "Level 2",
+                  "level": 3,
+                  "content": "Intermittent, partial, some, implicit, imprecise, inconsistent.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Overall description of this level",
+                      "level": 4,
+                      "content": "- The research question(s) will be partial and preliminary research will be imprecise with\ninconsistently understood and stated contexts.\n- The methods of field investigation will be intermittently applied with only some aspects\njustified.\n- The methods of critical analysis will be imprecise, partial and inconsistent.\n- The conclusions and evaluation will be partial and inconsistent and the presentation will be\nincomplete.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "",
+                  "title": "Level 1",
+                  "level": 3,
+                  "content": "Basic, limited, tentative, generalised, isolated.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Overall description of level",
+                      "level": 4,
+                      "content": "- The research question(s) will be generalised and preliminary research will be limited with\nonly isolated contexts.\n- The methods of field investigation will be basic and limited in scope with tentative\njustification.\n- The methods of critical analysis will be basic, limited and tentative.\n- The conclusions and evaluation will be limited and generalised and the presentation will be\nbasic.\nDoes not meet criteria.\nDoes not meet criteria.\nNo marks\nA research question(s)\nto the specification are\nLimited or basic use of\nis generalised. Links\nrelevant literature\n2–1 marks\ntentative.\nsources.\nLevel 1\nA research question(s)\nto the specification are\nwhich is partial. Links\nSupported by some\nliterature sources.\nuse of relevant\n5–3 marks\nimprecise.\nLevel 2\nA research question(s)\nSupported by focused\nthat is explicitly linked\nis securely identified\nto the specification.\nliterature sources.\nuse of relevant\ncomparative contexts\nTheoretical and\nare isolated.\ncomparative contexts\nare inconsistently\nTheoretical and\nstated.\ncomparative contexts\nunderstood and\nare consistently\nTheoretical and",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.3.4.1",
+                  "title": "Area 1: Introduction and preliminary research",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.4",
+              "title": "Non-exam assessment mark scheme",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.3.4.2",
+                  "title": "Area 2: Methods of field investigation",
+                  "level": 3,
+                  "content": "Does not meet criteria.\nDoes not meet criteria.\nNo marks\nof practical knowledge\nLimited demonstration\ncollection approaches\napproaches including\nrecording and other\nJustification of data\ndata collection\nobservational,\nBasic use of\nappropriate\nis tentative.\n3–1 marks\nsampling.\nLevel 1\napproaches including\nSome justification of\nrecording and other\nIntermittent use of\ndemonstration of\ndata collection\ndata collection\nobservational,\napproaches.\nappropriate\nIntermittent\n7–4 marks\nsampling.\nLevel 2\nof practical knowledge\nExplicit justification of\napproaches including\nClear demonstration\nrecording and other\ndata collection\ndata collection\nobservational,\napproaches.\n11–8 marks\nClear use of\nappropriate\nsampling.\nLevel 3\napproaches including\nreasoned justification\nrange of appropriate\nrecording and other\nThorough and well-\nDetailed use of a\nof data collection\ndemonstration of\ndata collection\nobservational,\n15–12 marks\napproaches.\nsampling.\nDetailed\nLevel 4\nphenomena in the field\nTo observe and record\ncollection approaches\nand devise and justify\ntiming of observation,\npractical approaches\nincluding frequency/\nAssessment criteria\npractical knowledge\nsampling, and data\ntaken in the field\nTo demonstrate\n(AO3).\nDoes not meet criteria.\ninvestigation of human\nchosen methodologies\nquality and relevant to\nand understanding of\nfield methodologies\ninformation of good\nimplementation of\nappropriate to the\nthe topic under\nto collect data/\ninvestigation.\nand physical\nprocesses.\nLimited\ninvestigation of human\nPartial implementation\nquality and relevant to\nand understanding of\npractical knowledge\nfield methodologies\ninformation of good\nappropriate to the\nmethodologies to\nthe topic under\ninvestigation.\nand physical\ncollect data/\nprocesses.\nof chosen\ninvestigation of human\nquality and relevant to\nClear implementation\nand understanding of\nfield methodologies\ninformation of good\nappropriate to the\nmethodologies to\nthe topic under\ninvestigation.\nand physical\ncollect data/\nprocesses.\nof chosen\ninvestigation of human\nchosen methodologies\nquality and relevant to\nand understanding of\npractical knowledge\nfield methodologies\ninformation of good\nimplementation of\nappropriate to the\nthe topic under\nto collect data/\ninvestigation.\nand physical\nprocesses.\nDetailed\ninvestigation of human\nquality and relevant to\nTo implement chosen\nand understanding of\ninvestigation (AO3).\nfield methodologies\ninformation of good\nappropriate to the\nprocesses (AO3).\nmethodologies to\nthe topic under\nand physical\ncollect data/\nDoes not meet criteria.\nNo marks\nLimited demonstration\nunderstanding of the\nand information and\n(AO2 – 1; AO3 – 3)\nanalysing field data\nof knowledge and\nfor representing\nappropriate for\n4–1 marks\ntechniques\nLevel 1\nresults.\nunderstanding of the\nand information and\n(AO2 – 2; AO3 – 7)\nanalysing field data\ndemonstration of\nfor representing\nknowledge and\nappropriate for\n9–5 marks\ntechniques\nImprecise\nLevel 2\nresults.\nPrecise demonstration\n(AO2 – 4; AO3 – 10)\nunderstanding of the\nand information and\nanalysing field data\nof knowledge and\nfor representing\nappropriate for\n14–10 marks\ntechniques\nLevel 3\nresults.\n20 marks – AO2: 6 marks; AO3 (strand 2): 14 marks\nsuitable quantitative or\nqualitative approaches\nBasic ability to select\nand to apply them.\nsuitable quantitative or\nqualitative approaches\nSome ability to select\nand to apply them.\nsuitable quantitative or\nqualitative approaches\nClear ability to select\nand to apply them.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.4.3",
+                  "title": "Area 3: Methods of critical analysis",
+                  "level": 3,
+                  "content": "Does not meet criteria\nNo marks\ncritically examine field\nexperience to extend\naccuracy and/or the\n(AO2 – 1; AO3 – 3)\nTentative use of the\nextent to which it is\nLimited ability to\ncomment on its\ninterrogate and\ndata in order to\nunderstanding.\nrepresentative.\ngeographical\n4–1 marks\nLevel 1\nInconsistent use of the\ncritically examine field\nexperience to extend\naccuracy and/or the\n(AO2 – 2; AO3 – 7)\nextent to which it is\ncomment on its\nPartial ability to\ninterrogate and\ndata in order to\nunderstanding.\nrepresentative.\ngeographical\n9–5 marks\nLevel 2\ncritically examine field\nexperience to extend\n(AO2 – 4; AO3 – 10)\naccuracy and/or the\nextent to which it is\nSecure use of the\ncomment on its\ninterrogate and\ndata in order to\nDoes not meet criteria.\nof existing knowledge,\nTentative application\ntheory and concepts\nunderstand field\nobservations.\nto order and\nImplicit application of\ntheory and concepts\nexisting knowledge,\nunderstand field\nobservations.\nto order and\nFocused application of\ntheory and concepts\nexisting knowledge,\nunderstand field",
+                  "children": []
+                },
+                {
+                  "code": "3.3.4.4",
+                  "title": "Area 4: Conclusions, evaluation and presentation",
+                  "level": 3,
+                  "content": "Does not meet criteria.\nDoes not meet criteria.\nNo marks\nfieldwork investigation.\nexplanation of how the\nup field results clearly\nrange of presentation\nand logically, using a\nand reflection on the\nTentative evaluation\nBasic ability to write\nresults relate to the\nwider context(s).\nGeneralised\n3–1 marks\nmethods.\nLevel 1\nfieldwork investigation.\nImprecise explanation\nPartial evaluation and\nup field results clearly\nrange of presentation\nand logically, using a\nSome ability to write\nsome inconsistency.\nrelate to the wider\nmethods, but with\nof how the results\nreflection on the\n7–4 marks\ncontext(s).\nLevel 2\nfieldwork investigation.\nSecure evaluation and\nPrecise explanation of\nup field results clearly\nhow the results relate\nrange of presentation\nand logically, using a\nClear ability to write\nreflection on the\n11–8 marks\nto the wider\ncontext(s).\nmethods.\nLevel 3\nfieldwork investigation.\npresentation methods.\nComplete explanation\nand reflection on the\nclearly and logically,\nwrite up field results\nEffective evaluation\nThorough ability to\nrelate to the wider\nof how the results\nusing a range of\n15–12 marks\ncontext(s).\nLevel 4\ninvestigations, explain\npresentation methods\nhow the results relate\nethical dimensions of\nTo show the ability to\nunderstanding of the\nclearly and logically,\nwrite up field results\nAssessment criteria\nto the wider context\nreflect on fieldwork\nusing a range of\nTo evaluate and\n(AO3 strand 3).\nand show an\nLimited understanding\ndimensions of field\nof the ethical\nresearch.\nSome understanding\ndimensions of field\nof the ethical\nresearch.\nClear understanding\ndimensions of field\nof the ethical\nresearch.\nethical dimensions of\nunderstanding of the\nfield research.\nThorough\nfield research (AO3\nstrand 2).\nDoes not meet criteria.\nNo marks\nspecific geographical\nevidence and theory\nDraws tentatively on\nBasic ability to write\nfieldwork findings in\nto make an isolated\norder to answer a\nan analysis of\n3–1 marks\nquestion.\nLevel 1\ncase.\nPartial ability to write a\nstructured analysis of\nspecific geographical\nDraws inconsistently\nfieldwork findings in\norder to answer a\ntheory to make a\non evidence and\nreasoned case.\n7–4 marks\nquestion.\nLevel 2\ngeographical question.\nevidence and theory\nanalysis of fieldwork\nto make an argued\nDraws explicitly on\nfindings in order to\nFocused ability to\nanswer a specific\nwrite a coherent\n11–8 marks\nLevel 3\ncase.\nevidence and theory to\ngeographical question.\nanalysis of fieldwork\nDraws effectively on\nmake a well-argued\nThorough ability to\nfindings in order to\nanswer a specific\nwrite a coherent\n15–12 marks\nLevel 4\ncase.\nto make a well-argued\nspecific geographical\ncase (AO3 strand 3).\nevidence and theory\ncoherent analysis of\nAssessment criteria\nfieldwork findings in\nTo demonstrate the\nquestion and to do\norder to answer a\nability to write a\neffectively on\nthis drawing",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Geographical skills checklist",
+          "level": 1,
+          "content": "Competence in geographical skills should be developed during study of the course content, in an\nintegrated way and not as a separate theme or topic. While the relative balance of quantitative and\nqualitative methods and skills will differ between each of the core elements and the options,\nstudents must be introduced to a roughly equal balance of quantitative and qualitative methods\nacross the specification.\nDuring their A-level course students should:\n- understand the nature and use of different types of geographical information, including\nqualitative and quantitative data, primary and secondary data, images, factual text and\ndiscursive/creative material, digital data, numerical and spatial data and other forms of data,\nincluding crowd-sourced and 'big data'\n- collect, analyse and interpret such information, and demonstrate the ability to understand and\napply suitable analytical approaches for the different information types\n- undertake informed and critical questioning of data sources, analytical methodologies, data\nreporting and presentation, including the ability to identify sources of error in data and to\nidentify the misuse of data\n- communicate and evaluate findings, draw well-evidenced conclusions informed by wider\ntheory, and construct extended written argument about geographical matters.\nStudents at A-level are required to demonstrate all the skills and approaches detailed below.",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Qualitative skills and quantitative skills",
+              "level": 2,
+              "content": "Students should develop the following with respect to qualitative data:\n- use and understanding of a mixture of methodological approaches, including interviews\n- interpretation and evaluation of a range of source material including textual and visual\nsources\n- understanding of the opportunities and limitations of qualitative techniques such as coding\nand sampling, and appreciation of how they actively create particular geographical\nrepresentations\n- understanding of the ethical and socio-political implications of collecting, studying and\nrepresenting geographical data about human communities.\nStudents should develop the following with respect to quantitative data:\n- understanding of what makes data geographical and the geospatial technologies (eg GIS)\nthat are used to collect, analyse and present geographical data\n- an ability to collect and use digital and geo-located data, and understand a range of\napproaches to use and analyse such data\n- understanding of the purposes and difference between the following and to use them in\nappropriate contexts:\n- descriptive statistics of central tendency and dispersion\n- descriptive measures of difference and association, inferential statistics and the\nfoundations of relational statistics\n- measurement, measurement errors, and sampling\n- understanding of the ethical and socio-political implications of collecting, studying and\nrepresenting geographical data about human communities.",
+              "children": []
+            },
+            {
+              "code": "3.4.2",
+              "title": "Specific skills",
+              "level": 2,
+              "content": "The following sections identify specific qualitative and quantitative skills to be developed.",
+              "children": [
+                {
+                  "code": "3.4.2.1",
+                  "title": "Core skills",
+                  "level": 3,
+                  "content": "- Use and annotation of illustrative and visual material: base maps, sketch maps, OS maps (at\na variety of scales), diagrams, graphs, field sketches, photographs, geospatial, geo-located\nand digital imagery.\n- Use of overlays, both physical and electronic.\n- Literacy – use of factual text and discursive/creative material and coding techniques when\nanalysing text.\n- Numeracy – use of number, measure and measurement.\n- Questionnaire and interview techniques.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.2.2",
+                  "title": "Cartographic skills",
+                  "level": 3,
+                  "content": "- Atlas maps.\n- Weather maps – including synoptic charts (if applicable).\n- Maps with located proportional symbols.\n- Maps showing movement – flow lines, desire lines and trip lines.\n- Maps showing spatial patterns – choropleth, isoline and dot maps.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.2.3",
+                  "title": "Graphical skills",
+                  "level": 3,
+                  "content": "- Line graphs – simple, comparative, compound and divergent.\n- Bar graphs – simple, comparative, compound and divergent.\n- Scatter graphs, and the use of best fit line.\n- Pie charts and proportional divided circles.\n- Triangular graphs.\n- Graphs with logarithmic scales.\n- Dispersion diagrams.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.2.4",
+                  "title": "Statistical skills",
+                  "level": 3,
+                  "content": "- Measures of central tendency – mean, mode, median.\n- Measures of dispersion – range, inter-quartile range and standard deviation.\n- Inferential and relational statistical techniques to include Spearman’s rank correlation and\nChi-square test and the application of significance tests.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.2.5",
+                  "title": "ICT skills",
+                  "level": 3,
+                  "content": "- Use of remotely sensed data (as described above in Core skills).\n- Use of electronic databases.\n- Use of innovative sources of data such as crowd sourcing and ‘big data’.\n- Use of ICT to generate evidence of many of the skills provided above such as producing\nmaps, graphs and statistical calculations.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

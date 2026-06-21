@@ -1,0 +1,289 @@
+{
+  "source_pdf": "A_Level/Further_Mathematics/7367_2017_to_PRESENT/AQA_ALEVEL_Further_Mathematics_7367_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "A_Level",
+  "subject": "Further Mathematics",
+  "spec_code": "7367",
+  "pdf_name": "AQA_ALEVEL_Further_Mathematics_7367_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Overarching themes",
+          "level": 1,
+          "content": "A-level specifications in further mathematics must require students to demonstrate the overarching\nknowledge and skills contained in sections OT1, OT2 and OT3. These must be applied, along with\nassociated mathematical thinking and understanding, across the whole of the detailed content set\nout in sections A to DG.\nAppendix A sets out the mathematical notation that students are required to understand for this\nqualification. Appendix B sets out the mathematical formulae and identities students are required to\nuse in this qualification. Further information is provided in the appendices.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "OT1: Mathematical argument, language and proof",
+              "level": 2,
+              "content": "OT1.1\nConstruct and present mathematical arguments through appropriate use of\ndiagrams; sketching graphs; logical deduction; precise statements involving\ncorrect use of symbols and connecting language, including: constant, coefficient,\nexpression, equation, function, identity, index, term, variable.\nOT1.2\nUnderstand and use mathematical language and syntax as set out in the content.\nOT1.3\nUnderstand and use language and symbols associated with set theory, as set out\nin the content.\nOT1.4\nUnderstand and use the definition of a function; domain and range of functions.\nOT1.5\nComprehend and critique mathematical arguments, proofs and justifications of\nmethods and formulae, including those relating to applications of mathematics.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "OT2: Mathematical problem solving",
+              "level": 2,
+              "content": "OT2.1\nRecognise the underlying mathematical structure in a situation and simplify and\nabstract appropriately to enable problems to be solved.\nOT2.2\nConstruct extended arguments to solve problems presented in an unstructured\nform, including problems in context.\nOT2.3\nInterpret and communicate solutions in the context of the original problem.\nOT2.6\nUnderstand the concept of a mathematical problem solving cycle, including\nspecifying the problem, collecting information, processing and representing\ninformation and interpreting results, which may identify the need to repeat the\ncycle.\nOT2.7\nUnderstand, interpret and extract information from diagrams and construct\nmathematical diagrams to solve problems, including in mechanics.",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "OT3: Mathematical modelling",
+              "level": 2,
+              "content": "Knowledge/skill\nOT3.1\nTranslate a situation in context into a mathematical model, making simplifying\nassumptions.\nOT3.2\nUse a mathematical model with suitable inputs to engage with and explore\nsituations (for a given model or a model constructed or selected by the student).\nOT3.3\nInterpret the outputs of a mathematical model in the context of the original\nsituation (for a given model or a model constructed or selected by the student).\nOT3.4\nUnderstand that a mathematical model can be refined by considering its outputs\nand simplifying assumptions; evaluate whether the model is appropriate.\nOT3.5\nUnderstand and use modelling assumptions.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Compulsory content",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "A: Proof",
+              "level": 2,
+              "content": "A1\nConstruct proofs using mathematical induction; contexts include sums of series,\ndivisibility, and powers of matrices.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "B: Complex numbers",
+              "level": 2,
+              "content": "B1\nSolve any quadratic equation with real coefficients; solve cubic or quartic\nequations with real coefficients (given sufficient information to deduce at least one\nroot for cubics or at least one complex root or quadratic factor for quartics).\nAdd, subtract, multiply and divide complex numbers in the form x + iy with x and\nB2\ny real; understand and use the terms ‘real part’ and ‘imaginary part’.\nB3\nUnderstand and use the complex conjugate; know that non-real roots of\npolynomial equations with real coefficients occur in conjugate pairs.\nKnowledge/skill\nB4\nUse and interpret Argand diagrams.\nB5\nConvert between the Cartesian form and the modulus-argument form of a\ncomplex number (knowledge of radians is assumed).\nB6\nMultiply and divide complex numbers in modulus-argument form (knowledge of\nradians and compound angle formulae is assumed).\nConstruct and interpret simple loci in the Argand diagram such as z −a > r and\nB7\narg z −a = � (knowledge of radians is assumed).\nKnowledge/skill\nB8\nUnderstand de Moivre’s theorem and use it to find multiple angle formulae and\nsums of series.\nB9\nKnow and use the definition ei�= cos�+ isin� and the form z = rei�\nB10\nFind the n distinct n th roots of rei� for r ≠0 and know that they form the vertices\nof a regular n -gon in the Argand diagram.\nB11\nUse complex roots of unity to solve geometric problems.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "C: Matrices",
+              "level": 2,
+              "content": "C1\nAdd, subtract and multiply conformable matrices; multiply a matrix by a scalar.\nC2\nUnderstand and use zero and identity matrices.\nC3\nUse matrices to represent linear transformations in 2D; successive\ntransformations; single transformations in 3D (3D transformations confined to\nreflection in one of x = 0, y = 0, z = 0 or rotation about one of the coordinate axes)\n(knowledge of 3D vectors is assumed).\nC4\nFind invariant points and lines for a linear transformation.\nC5\nCalculate determinants of 2 × 2 and 3 × 3 matrices and interpret as scale factors,\nincluding the effect on orientation.\nC6\nUnderstand and use singular and non-singular matrices; properties of inverse\nmatrices.\nCalculate and use the inverse of non-singular 2 × 2 matrices and 3 × 3 matrices.\nC7\nSolve three linear simultaneous equations in three variables by use of the inverse\nmatrix.\nC8\nInterpret geometrically the solution and failure of solution of three simultaneous\nlinear equations.\nC9\nFactorisation of determinants using row and column operations.\nC10\nFind eigenvalues and eigenvectors of 2 × 2 and 3 × 3 matrices.\nFind and use the characteristic equation.\nUnderstand the geometrical significance of eigenvalues and eigenvectors.\nC11\nDiagonalisation of matrices; M = UDU-1; M n = UD n U-1; when eigenvalues are\nreal.",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "D: Further algebra and functions",
+              "level": 2,
+              "content": "D1\nUnderstand and use the relationship between roots and coefficients of polynomial\nequations up to quartic equations.\nD2\nForm a polynomial equation whose roots are a linear transformation of the roots of\na given polynomial equation (of at least cubic degree).\nD3\nUnderstand and use formulae for the sums of integers, squares and cubes and\nuse these to sum other series.\nD4\nUnderstand and use the method of differences for summation of series including\nuse of partial fractions.\nD5\nFind the Maclaurin series of a function including the general term.\nD6\nRecognise and use the Maclaurin series for ex , ln 1 + x , sin x , cos x , and\n1 + x n , and be aware of the range of values of x for which they are valid (proof\nnot required).\nD7\nEvaluation of limits using Maclaurin series or l'Hôpital's rule.\nD8\nInequalities involving polynomial equations (cubic and quartic).\nD9\nSolving inequalities such as ax + b\ncx + d < ex + f algebraically.\nD10\nModulus of functions and associated inequalities.\nD11\nGraphs of y = f x , y =\nf x for given y = f x\nD12\nGraphs of rational functions of form ax + b\ncoordinate axes or other straight lines; associated inequalities.\nGraphs of rational functions of form ax2 + bx + c\nD13\nthese coefficients are zero; asymptotes parallel to coordinate axes; oblique\nasymptotes.\nD14\nUsing quadratic theory (not calculus) to find the possible values of the function\nand coordinates of the stationary points of the graph for rational functions of form\nD15\nSketching graphs of curves with equations y2 = 4ax , x2\nxy = c2 including intercepts with axes and equations of asymptotes of hyperbolas.\nD16\nSingle transformations of curves involving translations, stretches parallel to\ncoordinate axes and reflections in the coordinate axes and the lines y = ± x .\nExtend to composite transformations including rotations and enlargements.\ncx + d ; asymptotes, points of intersection with\ndx2 + ex + f , including cases when some of\na2 + y2\nb2 = 1 , x2\na2 −y2\nb2 = 1 ,",
+              "children": []
+            },
+            {
+              "code": "3.2.5",
+              "title": "E: Further calculus",
+              "level": 2,
+              "content": "E1\nEvaluate improper integrals where either the integrand is undefined at a value in\nthe range of integration or the range of integration extends to infinity.\nE2\nDerive formulae for and calculate volumes of revolution.\nE3\nUnderstand and evaluate the mean value of a function.\nIntegrate using partial fractions (extend to quadratic factors ax2 + c in the\nE4\ndenominator).\nE5\nDifferentiate inverse trigonometric functions.\nE6\nIntegrate functions of the form a2 −x2 −1\ntrigonometric substitutions to integrate associated functions.\nE7\nArc length and area of surface of revolution for curves expressed in Cartesian or\nparametric coordinates.\nE8\nDerivation and use of reduction formulae for integration.\nE9\n∞xke−x and lim\n0 xkln x where k > 0 , applied to improper integrals\nThe limits lim\n2 and a2 + x2 −1 and be able to choose",
+              "children": []
+            },
+            {
+              "code": "3.2.6",
+              "title": "F: Further vectors",
+              "level": 2,
+              "content": "F1\nUnderstand and use the vector and Cartesian forms of an equation of a straight\nline in 3D.\nF2\nUnderstand and use the vector and Cartesian forms of the equation of a plane.\nF3\nCalculate the scalar product and use it to calculate the angle between two lines, to\nexpress the equation of a plane, and to calculate the angle between two planes\nand the angle between a line and a plane.\nF4\nCheck whether vectors are perpendicular by using the scalar product.\nF5\nCalculate and understand the properties of the vector product.\nUnderstand and use the equation of a straight line in the form (r – a) × b = 0.\nUse vector products to find the area of a triangle.\nF6\nFind the intersection of two lines.\nFind the intersection of a line and a plane.\nCalculate the perpendicular distance between two lines, from a point to a line and\nfrom a point to a plane.",
+              "children": []
+            },
+            {
+              "code": "3.2.7",
+              "title": "G: Polar coordinates",
+              "level": 2,
+              "content": "G1\nUnderstand and use polar coordinates and be able to convert between polar and\nCartesian coordinates.\nG2\nSketch curves with r given as a function of � , including use of trigonometric\nfunctions.\nG3\nFind the area enclosed by a polar curve.",
+              "children": []
+            },
+            {
+              "code": "3.2.8",
+              "title": "H: Hyperbolic functions",
+              "level": 2,
+              "content": "H1\nUnderstand the definitions of hyperbolic functions sinh x , cosh x and tanh x ,\nincluding their domains and ranges, and be able to sketch their graphs.\nUnderstand the definitions of hyperbolic functions sech x , cosech x and coth x ,\nincluding their domains and ranges.\nH2\nDifferentiate and integrate hyperbolic functions.\nH3\nUnderstand and be able to use the definitions of the inverse hyperbolic functions\nand their domains and ranges.\nH4\nDerive and use the logarithmic forms of the inverse hyperbolic functions.\nH5\nIntegrate functions of the form x2 + a2 −1\nsubstitutions to integrate associated functions.\n2 and x2 −a2 −1\n2 and be able to choose\nH6\nUnderstand and use tanh x ≡sinhx\nUnderstand and use cosh2 x −sinh2 x ≡1 ; sech2 x ≡1 −tanh2 x and\ncosech2x ≡coth2 x −1 , cosh 2x ≡cosh2 x + sinh2 x , sinh 2x ≡2sinh xcosh x\nH7\nConstruct proofs involving hyperbolic functions and identities.",
+              "children": []
+            },
+            {
+              "code": "3.2.9",
+              "title": "I: Differential equations",
+              "level": 2,
+              "content": "I1\nFind and use an integrating factor to solve differential equations of the form\ndx + P x y = Q x and recognise when it is appropriate to do so.\nI2\nFind both general and particular solutions of differential equations.\nI3\nUse differential equations in modelling in kinematics and in other contexts.\nSolve differential equations of the form y \" + ay′ + by = 0 where a and b are\nI4\nconstants, by using the auxiliary equation.\nI5\nSolve differential equations of the form y \" + ay′ + by = f x where a and b are\nconstants by solving the homogeneous case and adding a particular integral to\nthe complementary function (in cases where f x is a polynomial, exponential or\ntrigonometric function).\nI6\nUnderstand and use the relationship between the cases when the discriminant of\nthe auxiliary equation is positive, zero and negative and the form of solution of the\ndifferential equation.\nI7\nSolve the equation for simple harmonic motion x¨ = −�2x and relate the solution to\nthe motion.\nI8\nModel damped oscillations using 2nd order differential equations and interpret\ntheir solutions.\nUnderstand light, critical and heavy damping and be able to determine when each\nwill occur.\nI9\nAnalyse and interpret models of situations with one independent variable and two\ndependent variables as a pair of coupled 1st order simultaneous equations and be\nable to solve them, for example predator-prey models.\nI10\nUse of Hooke’s Law with T = kx to formulate a differential equation for simple\nharmonic motion, where k is a constant.\nI11\nUse models for damped motion where the damping force is proportional to the\nvelocity.",
+              "children": []
+            },
+            {
+              "code": "3.2.10",
+              "title": "J: Numerical methods",
+              "level": 2,
+              "content": "J1\nMid-ordinate rule and Simpson’s rule for integration.\nJ2\nEuler’s step by step method for solving first order differential equations.\nJ3\nImproved Euler method for solving first order differential equations.\nyr + 1 = yr −1 + 2hf xryr , xr + 1 = xr + h",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Optional application 1 – mechanics",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "MA: Dimensional analysis",
+              "level": 2,
+              "content": "MA1\nFinding dimensions of quantities; checking for dimensional consistency.\nMA2\nPrediction of formulae; finding powers in potential formulae.",
+              "children": []
+            },
+            {
+              "code": "3.3.2",
+              "title": "MB: Momentum and collisions",
+              "level": 2,
+              "content": "MB1\nConservation of momentum for linear motion and cases where velocities are given\nas one or two dimensional vectors (problems which require resolving).\nMB2\nCoefficient of restitution and Newton’s Experimental Law. Use in direct collisions\nand impacts with a fixed smooth surface. Problems which require resolving.\nImpulse and its relation to momentum. Use of Ft = mv −mu . Problems which\nMB3\nrequire resolving.\nImpulse for variable forces. One dimension only. Use of I = ∫Fdt .\nMB4",
+              "children": []
+            },
+            {
+              "code": "3.3.3",
+              "title": "MC: Work, energy and power",
+              "level": 2,
+              "content": "MC1\nWork done by a force acting in the direction of motion or directly opposing the\nmotion. Use of WD = Fd cos�\nMC2\nGravitational potential energy. Use in conservation of energy problems.\nMC3\nKinetic energy. Use in conservation of energy problems.\nMC4\nHooke’s Law including using modulus of elasticity.\nUse of T = kx or T = �\nl x\nMC5\nWork done by a variable force. Use of WD = ∫Fdx .\nUse in conservation of energy problems.\nMC6\nElastic potential energy using modulus of elasticity. Use of EPE = kx2\nEPE = �x2\n2l .\nUse in conservation of energy problems.\nPower. Use of P = Fv\nMC7\n2 and",
+              "children": []
+            },
+            {
+              "code": "3.3.4",
+              "title": "MD: Circular motion",
+              "level": 2,
+              "content": "MD1\nMotion of a particle moving in a circle with constant speed (knowledge of radians\nassumed).\nMD2\nUnderstand the definition of angular speed.\nUse both radians and revolutions per unit time.\nMD3\nRelationships between speed, angular speed, radius and acceleration. Use of\nv = r� , a = r�2 and a = v2\nMD4\nUse position, velocity and acceleration as vectors in the context of circular motion.\nMD5\nConical pendulum, with one or two strings.\nMD6\nCircular motion in a vertical plane. Includes conditions to complete vertical circles.\nUse of conservation of energy in this context.",
+              "children": []
+            },
+            {
+              "code": "3.3.5",
+              "title": "ME: Centres of mass and moments",
+              "level": 2,
+              "content": "ME1\nCentre of mass for a system of particles.\nME2\nCentre of mass for a composite body.\nME3\nCentre of mass of a lamina by integration.\nME4\nCentres of mass of bodies formed by rotating a region about the x -axis.\nME5\nConditions for sliding and toppling. Problems including suspension and on an\ninclined plane.\nME6\nDetermine the forces acting on a rigid body in equilibrium. Use of moments and\ncouples.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Optional application 2 – statistics",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "SA: Discrete random variables (DRVs) and expectation",
+              "level": 2,
+              "content": "SA1\nUnderstand DRVs with distributions given in the form of a table or function.\nSA2\nEvaluate probabilities for a DRV.\nSA3\nEvaluate measures of average and spread for a DRV to include mean, variance,\nstandard deviation, mode and median.\nUnderstand expectation and know the formulae: E X = ∑xipi ; E X 2 = ∑xi\nSA4\nVar X = E X 2 −E X\nSA5\nUnderstand expectation of linear functions of DRVs and know the formulae:\nE aX + b = aE X + b and Var aX + b = a2Var X\nKnow the formula E g X\n= ∑g xi pi\nFind the mean, variance and standard deviation for functions of a DRV such as\nE 5X 3 , E 18X −3 , Var 6X −1\n2pi ;\nSA6\nKnow the discrete uniform distribution defined on the set 1,2, …,n . Understand\nwhen this distribution can be used as a model.\nSA7\nProof of mean and variance of discrete uniform distribution.",
+              "children": []
+            },
+            {
+              "code": "3.4.2",
+              "title": "SB: Poisson distribution",
+              "level": 2,
+              "content": "SB1\nUnderstand conditions for a Poisson distribution to model a situation. Understand\nterminology X Po � .\nSB2\nKnow the Poisson formula and calculate Poisson probabilities using the formula or\nequivalent calculator function.\nSB3\nKnow mean, variance and standard deviation of a Poisson distribution.\nUse the result that, if X Po � then the mean and variance of X are equal.\nSB4\nUnderstand the distribution of the sum of independent Poisson distributions.\nSB5\nFormulate hypotheses and carry out a hypothesis test of a population mean from\na single observation from a Poisson distribution using direct evaluation of Poisson\nprobabilities.",
+              "children": []
+            },
+            {
+              "code": "3.4.3",
+              "title": "SC: Type I and Type II errors",
+              "level": 2,
+              "content": "SC1\nUnderstand Type I and Type II errors and define in context. Calculate the\nprobability of making a Type I error from tests based on a Poisson or Binomial\ndistribution.\nCalculate probability of making Type I error from tests based on a normal\ndistribution.\nSC2\nUnderstand the power of a test. Calculations of P(Type II error) and power for a\ntest for tests based on a normal, Binomial or a Poisson distribution.",
+              "children": []
+            },
+            {
+              "code": "3.4.4",
+              "title": "SD: Continuous random variables (CRVs)",
+              "level": 2,
+              "content": "Understand and use a probability density function, f x , for a continuous\nSD1\ndistribution and understand the differences between discrete and continuous\ndistributions. Understand and use distributions of random variables that are part\ndiscrete and part continuous.\nSD2\nFind the probability of an observation lying in a specified interval.\nFind the median and quartiles for a given probability density function, f x .\nSD3\nSD4\nFind the mean, variance and standard deviation for a given pdf, f x . Know the\nformulae\nE X = ∫xf x dx , E X 2 = ∫x2f x dx , Var X = E X 2 −E X\nSD5\nUnderstand the expectation and variance of linear functions of CRVs and know\nthe formulae:\nE aX + b = aE X + b and Var aX + b = a2Var X\nKnow the formula E g X\n= ∫g x f x dx\nFind the mean, variance and standard deviation of functions of a continuous\nrandom variable such as\nE 5X 3 , E 18X −3 , Var 6X −1\nSD6\nUnderstand and use a cumulative distribution function, F x . Know the\nrelationship between f x and F x .\nx f t dt and f x = d\nF x = ∫−∞\ndxF x\nSD7\nUnderstand the rectangular distribution f x where\na ≤x ≤b\nf x =\notherwise\nKnow the conditions for the rectangular distribution to be used as a model.\nCalculate probabilities from a rectangular distribution.\nKnow proofs of mean, variance and standard deviation for a rectangular\ndistribution.\nSD8\nKnow that if X and Y are independent (discrete or continuous) random variables\nthen E X + Y = E X + E Y and Var X + Y = Var X + Var Y",
+              "children": []
+            },
+            {
+              "code": "3.4.5",
+              "title": "SE: Chi squared tests for association",
+              "level": 2,
+              "content": "SE1\nConstruction of n × m contingency tables.\nSE2\nas an approximate χ2 statistic with appropriate degrees of\nUse of ∑\nfreedom.\nKnow and use the convention that all Ei should be greater than 5.\nSE3\nSE4\nIdentification of sources of association in the context of a question.\nSE5\nKnowledge of when and how to apply Yates’ correction.",
+              "children": []
+            },
+            {
+              "code": "3.4.6",
+              "title": "SF: Exponential distribution",
+              "level": 2,
+              "content": "SF1\nKnow the conditions for an exponential distribution to be used as a model. Know\nthe probability density function, f x , and the cumulative distribution function,\nF x , for an exponential distribution.\nCalculate probabilities for an exponential distribution using F x or integration of\nSF2\nf x\nSF3\nKnow proofs of mean, variance and standard deviation for an exponential\ndistribution.\nSF4\nUnderstand that the lengths of intervals between Poisson events have an\nexponential distribution.",
+              "children": []
+            },
+            {
+              "code": "3.4.7",
+              "title": "SG: Inference – one sample t - distribution",
+              "level": 2,
+              "content": "SG1\nTest for the mean of a normal distribution with unknown variance using a\nt -statistic with appropriate degrees of freedom.",
+              "children": []
+            },
+            {
+              "code": "3.4.8",
+              "title": "SH: Confidence Intervals",
+              "level": 2,
+              "content": "SH1\nConstruct symmetric confidence intervals for the mean of a normal distribution\nwith known variance.\nSH2\nConstruct symmetric confidence intervals from large samples, for the mean of a\nnormal distribution with unknown variance.\nSH3\nMake inferences from constructed or given confidence intervals.\nSH4\nConstruct symmetric confidence intervals from small samples, for the mean of a\nnormal distribution with unknown variance using the t -distribution.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Optional application 3 – discrete mathematics",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "DA: Graphs",
+              "level": 2,
+              "content": "DA1\nUnderstand and use the language of graphs including: vertex, edge, trail, cycle,\nconnected, degree, subgraph, subdivision, multiple edge and loop.\nDA2\nIdentify or prove properties of a graph including that a graph is Eulerian,\nsemi-Eulerian or Hamiltonian.\nDA3\nUnderstand and use Euler’s formula for connected planar graphs.\nDA4\nUse Kuratowski’s Theorem to determine the planarity of graphs.\nDA5\nUnderstand and use complete graphs and bipartite graphs, including adjacency\nmatrices and the complement of a graph.\nDA6\nUnderstand and use simple graphs, simple-connected graphs and trees.\nDA7\nRecognise and find isomorphism between graphs.",
+              "children": []
+            },
+            {
+              "code": "3.5.2",
+              "title": "DB: Networks",
+              "level": 2,
+              "content": "DB1\nUnderstand and use the language of networks including: node, arc and weight.\nDB2\nSolve network optimisation problems using spanning trees.\nDB3\nSolve route inspection problems.\nDB4\nFind and interpret upper bounds and lower bounds for the travelling salesperson\nproblem.\nDB5\nEvaluate, modify and refine models which use networks.",
+              "children": []
+            },
+            {
+              "code": "3.5.3",
+              "title": "DC: Network flows",
+              "level": 2,
+              "content": "DC1\nInterpret flow problems represented by a network of directed arcs.\nDC2\nFind the value of a cut and understand its meaning.\nDC3\nUse and interpret the maximum flow-minimum cut theorem.\nDC4\nIntroduce supersources and supersinks to a network.\nDC5\nAugment flows and determine the maximum flow in a network\nDC6\nSolve problems involving arcs with upper and lower capacities.\nDC7\nRefine network flow problems including using nodes of restricted capacity.",
+              "children": []
+            },
+            {
+              "code": "3.5.4",
+              "title": "DD: Linear programming",
+              "level": 2,
+              "content": "DD1\nFormulate constrained optimisation problems.\nDD2\nSolve constrained optimisation problems via graphical methods.\nDD3\nUse the Simplex algorithm for optimising (maximising and minimising) an objective\nfunction including the use of slack variables.\nDD4\nInterpret a Simplex tableau.",
+              "children": []
+            },
+            {
+              "code": "3.5.5",
+              "title": "DE: Critical path analysis",
+              "level": 2,
+              "content": "DE1\nConstruct, represent and interpret a precedence (activity) network using\nactivity-on-node.\nDE2\nDetermine earliest and latest start and finish times for an activity network.\nDE3\nIdentify critical activities, critical paths and the float of non-critical activities.\nDE4\nRefine models and understand the implications of possible changes in the context\nof critical path analysis.\nDE5\nConstruct and interpret Gantt (cascade) diagrams and resource histograms.\nDE6\nCarry out resource levelling (using heuristic procedures) and solve problems\nwhere resources are restricted.",
+              "children": []
+            },
+            {
+              "code": "3.5.6",
+              "title": "DF: Game theory for zero-sum games",
+              "level": 2,
+              "content": "DF1\nUnderstand, interpret and construct pay-off matrices.\nDF2\nFind play-safe strategies and the value of the game.\nDF3\nProve the existence or non-existence of a stable solution.\nDF4\nIdentify and make use of dominated strategies.\nDF5\nFind optimal mixed strategies for a game including use of graphical methods.\nDF6\nConvert and solve higher order games to linear programming problems.",
+              "children": []
+            },
+            {
+              "code": "3.5.7",
+              "title": "DG: Binary operations",
+              "level": 2,
+              "content": "DG1\nUnderstand and use binary operations including use of modular arithmetic and\nmatrix multiplication.\nDG2\nUnderstand, use and prove the commutativity of a binary operation.\nDG3\nUnderstand, use and prove the associativity of a binary operation.\nDG4\nConstruct a Cayley table for a given set under a given binary operation.\nDG5\nUnderstand and prove the existence of an identity element for a given set under a\ngiven binary operation.\nDG6\nFind the inverse of an element belonging to a given set under a given binary\noperation.\nDG7\nUnderstand and use the language of groups including: order, period, subgroup,\nproper, trivial, non-trivial.\nDG8\nUnderstand and use the group axioms: closure, identity, inverses and\nassociativity, including use of Cayley tables.\nDG9\nRecognise and use finite and infinite groups and their subgroups, including:\ngroups of symmetries of regular polygons, cyclic groups and abelian groups.\nDG10\nUnderstand and use Lagrange’s theorem.\nDG11\nIdentify and use the generators of a group.\nDG12\nRecognise and find isomorphism between groups of finite order.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

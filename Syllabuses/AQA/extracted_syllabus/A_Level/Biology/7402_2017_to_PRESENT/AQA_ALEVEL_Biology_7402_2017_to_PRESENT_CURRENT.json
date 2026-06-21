@@ -1,0 +1,525 @@
+{
+  "source_pdf": "A_Level/Biology/7402_2017_to_PRESENT/AQA_ALEVEL_Biology_7402_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "A_Level",
+  "subject": "Biology",
+  "spec_code": "7402",
+  "pdf_name": "AQA_ALEVEL_Biology_7402_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Biological molecules",
+          "level": 1,
+          "content": "All life on Earth shares a common chemistry. This provides indirect evidence for evolution.\nDespite their great variety, the cells of all living organisms contain only a few groups of carbon-\nbased compounds that interact in similar ways.\nCarbohydrates are commonly used by cells as respiratory substrates. They also form structural\ncomponents in plasma membranes and cell walls.\nLipids have many uses, including the bilayer of plasma membranes, certain hormones and as\nrespiratory substrates.\nProteins form many cell structures. They are also important as enzymes, chemical messengers\nand components of the blood.\nNucleic acids carry the genetic code for the production of proteins. The genetic code is common to\nviruses and to all living organisms, providing evidence for evolution.\nThe most common component of cells is water; hence our search for life elsewhere in the universe\ninvolves a search for liquid water.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Monomers and polymers",
+              "level": 2,
+              "content": "The variety of life, both past and present, is extensive, but the\nbiochemical basis of life is similar for all living things.\nMonomers are the smaller units from which larger molecules are\nmade.\nPolymers are molecules made from a large number of monomers\njoined together.\nMonosaccharides, amino acids and nucleotides are examples of\nmonomers.\nA condensation reaction joins two molecules together with the\nformation of a chemical bond and involves the elimination of a\nmolecule of water.\nA hydrolysis reaction breaks a chemical bond between two\nmolecules and involves the use of a water molecule.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Carbohydrates",
+              "level": 2,
+              "content": "Monosaccharides are the monomers from which larger\ncarbohydrates are made. Glucose, galactose and fructose are\ncommon monosaccharides.\nA condensation reaction between two monosaccharides forms a\nglycosidic bond.\nDisaccharides are formed by the condensation of two\nmonosaccharides:\n- maltose is a disaccharide formed by condensation of two\nglucose molecules\n- sucrose is a disaccharide formed by condensation of a\nglucose molecule and a fructose molecule\n- lactose is a disaccharide formed by condensation of a\nglucose molecule and a galactose molecule.\nGlucose has two isomers, α-glucose and β-glucose, with\nstructures:\nPolysaccharides are formed by the condensation of many glucose\nunits.\n- Glycogen and starch are formed by the condensation of α-\nglucose.\n- Cellulose is formed by the condensation of β-glucose.\nThe basic structure and functions of glycogen, starch and cellulose.\nThe relationship of structure to function of these substances in\nanimal cells and plant cells.\nBiochemical tests using Benedict's solution for reducing sugars\nand non-reducing sugars and iodine/potassium iodide for starch.\nAT f\nStudents could use, and\ninterpret the results of,\nqualitative tests for reducing\nsugars, non-reducing sugars\nand starch.\nAT g\nStudents could use\nchromatography, with known\nstandard solutions, to\nseparate a mixture of\nmonosaccharides and\nidentify their components.\nAT c\nStudents could produce a\ndilution series of glucose\nsolution and use colorimetric\ntechniques to produce a\ncalibration curve with which\nto identify the concentration\nof glucose in an unknown\nsolution.",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Lipids",
+              "level": 2,
+              "content": "Triglycerides and phospholipids are two groups of lipid.\nTriglycerides are formed by the condensation of one molecule of\nglycerol and three molecules of fatty acid.\nA condensation reaction between glycerol and a fatty acid\n(RCOOH) forms an ester bond.\nThe R-group of a fatty acid may be saturated or unsaturated.\nIn phospholipids, one of the fatty acids of a triglyceride is\nsubstituted by a phosphate-containing group.\nThe different properties of triglycerides and phospholipids related\nto their different structures.\nThe emulsion test for lipids.\nStudents should be able to:\n- recognise, from diagrams, saturated and unsaturated fatty\nacids\n- explain the different properties of triglycerides and\nphospholipids.\nAT f\nStudents could use, and\ninterpret the results of, the\nemulsion test for lipids.",
+              "children": []
+            },
+            {
+              "code": "3.1.4",
+              "title": "Proteins",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.1.4.1",
+                  "title": "General properties of proteins",
+                  "level": 3,
+                  "content": "Amino acids are the monomers from which proteins are made. The\ngeneral structure of an amino acid as:\nwhere NH2 represents an amine group, COOH represents a\ncarboxyl group and R represents a side chain. The twenty amino\nacids that are common in all organisms differ only in their side\ngroup.\nA condensation reaction between two amino acids forms a peptide\nbond.\n- Dipeptides are formed by the condensation of two amino\nacids.\n- Polypeptides are formed by the condensation of many amino\nacids.\nA functional protein may contain one or more polypeptides.\nThe role of hydrogen bonds, ionic bonds and disulfide bridges in\nthe structure of proteins.\nProteins have a variety of functions within all living organisms. The\nrelationship between primary, secondary, tertiary and quaternary\nstructure, and protein function.\nThe biuret test for proteins.\nStudents should be able to relate the structure of proteins to\nproperties of proteins named throughout the specification.\nAT f\nStudents could use, and\ninterpret the results of, a\nbiuret test for proteins.\nAT g\nStudents could use\nchromatography with known\nstandard solutions, to\nseparate a mixture of amino\nacids and identify their\ncomponents.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.2",
+                  "title": "Many proteins are enzymes",
+                  "level": 3,
+                  "content": "Each enzyme lowers the activation energy of the reaction it\ncatalyses.\nThe induced-fit model of enzyme action.\nThe properties of an enzyme relate to the tertiary structure of its\nactive site and its ability to combine with complementary\nsubstrate(s) to form an enzyme-substrate complex.\n- The specificity of enzymes\n- The effects of the following factors on the rate of enzyme-\ncontrolled reactions – enzyme concentration, substrate\nconcentration, concentration of competitive and of non-\ncompetitive inhibitors, pH and temperature.\nStudents should be able to:\n- appreciate how models of enzyme action have changed over\ntime\n- appreciate that enzymes catalyse a wide range of\nintracellular and extracellular reactions that determine\nstructures and functions from cellular to whole-organism\nlevel.\nMS 0.5\nStudents could be given the\nhydrogen ion concentration\nof a solution in order to\ncalculate its pH, using the\nformula:\npH = −log10 H+\nRequired practical 1: Investigation into the effect of a named\nvariable on the rate of an enzyme-controlled reaction.\nPS 2.4\nStudents could identify the\nvariables that must be\ncontrolled in their\ninvestigation into rate of\nreaction.\nPS 3.3\nStudents could calculate the\nuncertainty of their\nmeasurements of the rate of\nreaction.\nMS 3.2\nStudents could select an\nappropriate format for the\ngraphical presentation of the\nresults of their investigation\ninto the rate of enzyme-\ncontrolled reactions.\nMS 3.6\nStudents could use a\ntangent to find the initial rate\nof an enzyme-controlled\nreaction.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.5",
+              "title": "Nucleic acids are important information-carrying molecules",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.1.5.1",
+                  "title": "Structure of DNA and RNA",
+                  "level": 3,
+                  "content": "Deoxyribonucleic acid (DNA) and ribonucleic acid (RNA) are\nimportant information-carrying molecules. In all living cells, DNA\nholds genetic information and RNA transfers genetic information\nfrom DNA to the ribosomes.\nRibosomes are formed from RNA and proteins.\nBoth DNA and RNA are polymers of nucleotides. Each nucleotide\nis formed from a pentose, a nitrogen-containing organic base and a\nphosphate group:\n- The components of a DNA nucleotide are deoxyribose, a\nphosphate group and one of the organic bases adenine,\ncytosine, guanine or thymine.\n- The components of an RNA nucleotide are ribose, a\nphosphate group and one of the organic bases adenine,\ncytosine, guanine or uracil.\n- A condensation reaction between two nucleotides forms a\nphosphodiester bond.\nA DNA molecule is a double helix with two polynucleotide chains\nheld together by hydrogen bonds between specific complementary\nbase pairs.\nAn RNA molecule is a relatively short polynucleotide chain.\nStudents should be able to appreciate that the relative simplicity\nof DNA led many scientists to doubt that it carried the genetic code.\nMS 0.3\nStudents could use\nincomplete information\nabout the frequency of\nbases on DNA strands to\nfind the frequency of other\nbases.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.2",
+                  "title": "DNA replication",
+                  "level": 3,
+                  "content": "The semi-conservative replication of DNA ensures genetic\ncontinuity between generations of cells.\nThe process of semi-conservative replication of DNA in terms of:\n- unwinding of the double helix\n- breakage of hydrogen bonds between complementary bases\nin the polynucleotide strands\n- the role of DNA helicase in unwinding DNA and breaking its\nhydrogen bonds\n- attraction of new DNA nucleotides to exposed bases on\ntemplate strands and base pairing\n- the role of DNA polymerase in the condensation reaction that\njoins adjacent nucleotides.\nStudents should be able to evaluate the work of scientists in\nvalidating the Watson–Crick model of DNA replication.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.6",
+              "title": "ATP",
+              "level": 2,
+              "content": "A single molecule of adenosine triphosphate (ATP) is a nucleotide\nderivative and is formed from a molecule of ribose, a molecule of\nadenine and three phosphate groups.\nHydrolysis of ATP to adenosine diphosphate (ADP) and an\ninorganic phosphate group (Pi) is catalysed by the enzyme ATP\nhydrolase.\n- The hydrolysis of ATP can be coupled to energy-requiring\nreactions within cells.\n- The inorganic phosphate released during the hydrolysis of\nATP can be used to phosphorylate other compounds, often\nmaking them more reactive.\nATP is resynthesised by the condensation of ADP and Pi. This\nreaction is catalysed by the enzyme ATP synthase during\nphotosynthesis, or during respiration.",
+              "children": []
+            },
+            {
+              "code": "3.1.7",
+              "title": "Water",
+              "level": 2,
+              "content": "Water is a major component of cells. It has several properties that\nare important in biology. In particular, water:\n- is a metabolite in many metabolic reactions, including\ncondensation and hydrolysis reactions\n- is an important solvent in which metabolic reactions occur\n- has a relatively high heat capacity, buffering changes in\ntemperature\n- has a relatively large latent heat of vaporisation, providing a\ncooling effect with little loss of water through evaporation\n- has strong cohesion between water molecules; this supports\ncolumns of water in the tube-like transport cells of plants and\nproduces surface tension where water meets air.",
+              "children": []
+            },
+            {
+              "code": "3.1.8",
+              "title": "Inorganic ions",
+              "level": 2,
+              "content": "Inorganic ions occur in solution in the cytoplasm and body fluids of\norganisms, some in high concentrations and others in very low\nconcentrations.\nEach type of ion has a specific role, depending on its properties.\nStudents should be able to recognise the role of ions in the\nfollowing topics: hydrogen ions and pH; iron ions as a component\nof haemoglobin; sodium ions in the co-transport of glucose and\namino acids; and phosphate ions as components of DNA and of\nATP.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Cells",
+          "level": 1,
+          "content": "All life on Earth exists as cells. These have basic features in common. Differences between cells\nare due to the addition of extra features. This provides indirect evidence for evolution.\nAll cells arise from other cells, by binary fission in prokaryotic cells and by mitosis and meiosis in\neukaryotic cells.\nAll cells have a cell-surface membrane and, in addition, eukaryotic cells have internal membranes.\nThe basic structure of these membranes is the same and enables control of the passage of\nsubstances across exchange surfaces by passive or active transport.\nCell-surface membranes contain embedded proteins. Some of these are involved in cell signalling\n– communication between cells. Others act as antigens, allowing recognition of ‘self’ and ‘foreign’\ncells by the immune system. Interactions between different types of cell are involved in disease,\nrecovery from disease and prevention of symptoms occurring at a later date if exposed to the same\nantigen, or antigen-bearing pathogen.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Cell structure",
+              "level": 2,
+              "content": "The cell theory is a unifying concept in biology.",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "Structure of eukaryotic cells",
+                  "level": 3,
+                  "content": "The structure of eukaryotic cells, restricted to the structure and\nfunction of:\n- cell-surface membrane\n- nucleus (containing chromosomes, consisting of protein-\nbound, linear DNA, and one or more nucleoli)\n- mitochondria\n- chloroplasts (in plants and algae)\n- Golgi apparatus and Golgi vesicles\n- lysosomes (a membrane-bound organelle that releases\nhydrolytic enzymes)\n- ribosomes\n- rough endoplasmic reticulum and smooth endoplasmic\nreticulum\n- cell wall (in plants, algae and fungi)\n- cell vacuole (in plants).\nIn complex multicellular organisms, eukaryotic cells become\nspecialised for specific functions. Specialised cells are organised\ninto tissues, tissues into organs and organs into systems.\nStudents should be able to apply their knowledge of these\nfeatures in explaining adaptations of eukaryotic cells.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Structure of prokaryotic cells and of viruses",
+                  "level": 3,
+                  "content": "Prokaryotic cells are much smaller than eukaryotic cells. They also\ndiffer from eukaryotic cells in having:\n- cytoplasm that lacks membrane-bound organelles\n- smaller ribosomes\n- no nucleus; instead they have a single circular DNA molecule\nthat is free in the cytoplasm and is not associated with\nproteins\n- a cell wall that contains murein, a glycoprotein.\nIn addition, many prokaryotic cells have:\n- one or more plasmids\n- a capsule surrounding the cell\n- one or more flagella.\nDetails of these structural differences are not required.\nViruses are acellular and non-living. The structure of virus particles\nto include genetic material, capsid and attachment protein.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.3",
+                  "title": "Methods of studying cells",
+                  "level": 3,
+                  "content": "The principles and limitations of optical microscopes, transmission\nelectron microscopes and scanning electron microscopes.\nMeasuring the size of an object viewed with an optical microscope.\nThe difference between magnification and resolution.\nUse of the formula: magnification =\nPrinciples of cell fractionation and ultracentrifugation as used to\nseparate cell components.\nStudents should be able to appreciate that there was a\nconsiderable period of time during which the scientific community\ndistinguished between artefacts and cell organelles.\nAT d, e and f\nStudents could use iodine in\npotassium iodide solution to\nidentify starch grains in plant\ncells.\nMS 1.8",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "All cells arise from other cells",
+              "level": 2,
+              "content": "Within multicellular organisms, not all cells retain the ability to\ndivide.\nEukaryotic cells that do retain the ability to divide show a cell cycle.\n- DNA replication occurs during the interphase of the cell cycle.\n- Mitosis is the part of the cell cycle in which a eukaryotic cell\ndivides to produce two daughter cells, each with the identical\ncopies of DNA produced by the parent cell during DNA\nreplication.\nThe behaviour of chromosomes during interphase, prophase,\nmetaphase, anaphase and telophase of mitosis. The role of spindle\nfibres attached to centromeres in the separation of chromatids.\nDivision of the cytoplasm (cytokinesis) usually occurs, producing\ntwo new cells.\nMeiosis is covered in section 3.4.3\nStudents should be able to:\n- recognise the stages of the cell cycle: interphase, prophase,\nmetaphase, anaphase and telophase (including cytokinesis)\n- explain the appearance of cells in each stage of mitosis.\nMitosis is a controlled process. Uncontrolled cell division can lead\nto the formation of tumours and of cancers. Many cancer\ntreatments are directed at controlling the rate of cell division.\nBinary fission in prokaryotic cells involves:\n- replication of the circular DNA and of plasmids\n- division of the cytoplasm to produce two daughter cells, each\nwith a single copy of the circular DNA and a variable number\nof copies of plasmids.\nBeing non-living, viruses do not undergo cell division. Following\ninjection of their nucleic acid, the infected host cell replicates the\nvirus particles.\nRequired practical 2: Preparation of stained squashes of cells\nfrom plant root tips; set-up and use of an optical microscope to\nidentify the stages of mitosis in these stained squashes and\ncalculation of a mitotic index.\nStudents should measure the apparent size of cells in the root tip\nand calculate their actual size using the formula:\nActual size = size of image\nAT d and e\nMS 0.3\nCalculation of a mitotic\nindex.\nMS 1.8",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Transport across cell membranes",
+              "level": 2,
+              "content": "The basic structure of all cell membranes, including cell-surface\nmembranes and the membranes around the cell organelles of\neukaryotes, is the same.\nThe arrangement and any movement of phospholipids, proteins,\nglycoproteins and glycolipids in the fluid-mosaic model of\nmembrane structure. Cholesterol may also be present in cell\nmembranes where it restricts the movement of other molecules\nmaking up the membrane.\nMovement across membranes occurs by:\n- simple diffusion (involving limitations imposed by the nature\nof the phospholipid bilayer)\n- facilitated diffusion (involving the roles of carrier proteins and\nchannel proteins)\n- osmosis (explained in terms of water potential)\n- active transport (involving the role of carrier proteins and the\nimportance of the hydrolysis of ATP)\n- co-transport (illustrated by the absorption of sodium ions and\nglucose by cells lining the mammalian ileum).\nCells may be adapted for rapid transport across their internal or\nexternal membranes by an increase in surface area of, or by an\nincrease in the number of protein channels and carrier molecules\nin, their membranes.\nStudents should be able to:\n- explain the adaptations of specialised cells in relation to the\nrate of transport across their internal and external\nmembranes\n- explain how surface area, number of channel or carrier\nproteins and differences in gradients of concentration or\nwater potential affect the rate of movement across cell\nmembranes.\nRequired practical 3: Production of a dilution series of a solute to\nproduce a calibration curve with which to identify the water\npotential of plant tissue.\nRequired practical 4: Investigation into the effect of a named\nvariable on the permeability of cell-surface membranes.\nMS 3.2\nStudents could plot the data\nfrom their investigations in\nan appropriate format.\nMS 3.4\nStudents could determine\nthe water potential of plant\ntissues using the intercept of\na graph of, eg, water\npotential of solution against\ngain/loss of mass.",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "Cell recognition and the immune system",
+              "level": 2,
+              "content": "Each type of cell has specific molecules on its surface that identify\nit. These molecules include proteins and enable the immune\nsystem to identify:\n- pathogens\n- cells from other organisms of the same species\n- abnormal body cells\n- toxins.\nDefinition of antigen. The effect of antigen variability on disease\nand disease prevention.\nPhagocytosis of pathogens. The subsequent destruction of\ningested pathogens by lysozymes.\nThe response of T lymphocytes to a foreign antigen (the cellular\nresponse).\n- The role of antigen-presenting cells in the cellular response.\n- The role of helper T cells (TH cells) in stimulating cytotoxic T\ncells (TC cells), B cells and phagocytes. The role of other T\ncells is not required.\nThe response of B lymphocytes to a foreign antigen, clonal\nselection and the release of monoclonal antibodies (the humoral\nresponse).\n- Definition of antibody.\n- Antibody structure.\n- The formation of an antigen-antibody complex, leading to the\ndestruction of the antigen, limited to agglutination and\nphagocytosis of bacterial cells.\n- The roles of plasma cells and of memory cells in producing\nprimary and secondary immune responses.\nThe use of vaccines to provide protection for individuals and\npopulations against disease. The concept of herd immunity.\nThe differences between active and passive immunity.\nStructure of the human immunodeficiency virus (HIV) and its\nreplication in helper T cells.\nHow HIV causes the symptoms of AIDS. Why antibiotics are\nineffective against viruses.\nThe use of monoclonal antibodies in:\n- targeting medication to specific cell types by attaching a\ntherapeutic drug to an antibody\n- medical diagnosis.\nDetails of the commercial or scientific production of monoclonal\nantibodies are not required.\nEthical issues associated with the use of vaccines and monoclonal\nantibodies.\nThe use of antibodies in the ELISA test.\nStudents should be able to:\n- discuss ethical issues associated with the use of vaccines\nand monoclonal antibodies\n- evaluate methodology, evidence and data relating to the use\nof vaccines and monoclonal antibodies.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Organisms exchange substances with their environment",
+          "level": 1,
+          "content": "The internal environment of a cell or organism is different from its external environment. The\nexchange of substances between the internal and external environments takes place at exchange\nsurfaces. To truly enter or leave an organism, most substances must cross cell plasma\nmembranes.\nIn large multicellular organisms, the immediate environment of cells is some form of tissue fluid.\nMost cells are too far away from exchange surfaces, and from each other, for simple diffusion\nalone to maintain the composition of tissue fluid within a suitable metabolic range. In large\norganisms, exchange surfaces are associated with mass transport systems that carry substances\nbetween the exchange surfaces and the rest of the body and between parts of the body. Mass\ntransport maintains the final diffusion gradients that bring substances to and from the cell\nmembranes of individual cells. It also helps to maintain the relatively stable environment that is\ntissue fluid.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Surface area to volume ratio",
+              "level": 2,
+              "content": "The relationship between the size of an organism or structure and\nits surface area to volume ratio.\nChanges to body shape and the development of systems in larger\norganisms as adaptations that facilitate exchange as this ratio\nreduces.\nStudents should be able to appreciate the relationship between\nsurface area to volume ratio and metabolic rate.\nPS 1.1\nStudents could use agar\nblocks containing indicator\nto determine the effect of\nsurface area to volume ratio\nand concentration gradient\non the diffusion of an acid or\nalkali.\nMS 4.1\nStudents could be given the\ndimensions of cells with\ndifferent shapes from which\nto calculate the surface area\nto volume ratios of these\ncells.",
+              "children": []
+            },
+            {
+              "code": "3.3.2",
+              "title": "Gas exchange",
+              "level": 2,
+              "content": "Adaptations of gas exchange surfaces, shown by gas exchange:\n- across the body surface of a single-celled organism\n- in the tracheal system of an insect (tracheae, tracheoles and\nspiracles)\n- across the gills of fish (gill lamellae and filaments including\nthe counter-current principle)\n- by the leaves of dicotyledonous plants (mesophyll and\nstomata).\nStructural and functional compromises between the opposing\nneeds for efficient gas exchange and the limitation of water loss\nshown by terrestrial insects and xerophytic plants.\nThe gross structure of the human gas exchange system limited to\nthe alveoli, bronchioles, bronchi, trachea and lungs.\nThe essential features of the alveolar epithelium as a surface over\nwhich gas exchange takes place.\nVentilation and the exchange of gases in the lungs. The\nmechanism of breathing to include the role of the diaphragm and\nthe antagonistic interaction between the external and internal\nintercostal muscles in bringing about pressure changes in the\nthoracic cavity.\nStudents should be able to:\n- interpret information relating to the effects of lung disease on\ngas exchange and/or ventilation\n- interpret data relating to the effects of pollution and smoking\non the incidence of lung disease\n- analyse and interpret data associated with specific risk\nfactors and the incidence of lung disease\n- evaluate the way in which experimental data led to statutory\nrestrictions on the sources of risk factors\n- recognise correlations and causal relationships.\nAT j\nStudents could dissect\nmammalian lungs, the gas\nexchange system of a bony\nfish or of an insect.\nAT d\nStudents could use an\noptical microscope to:\n- examine prepared\nmounts of gas\nexchange surfaces of\na mammal, fish and\ninsect, or temporary\nmounts of gills\n- examine vertical\nsections through a\ndicotyledonous leaf.\nAT b\nStudents could use three-\nway taps, manometers and\nsimple respirometers to\nmeasure volumes of air\ninvolved in gas exchange.\nMS 2.2\nStudents could be given\nvalues of pulmonary\nventilation rate (PVR) and\none other measure,\nrequiring them to change the\nsubject of the equation:\nPVR = tidal volume\n× breathing rate",
+              "children": []
+            },
+            {
+              "code": "3.3.3",
+              "title": "Digestion and absorption",
+              "level": 2,
+              "content": "During digestion, large biological molecules are hydrolysed to\nsmaller molecules that can be absorbed across cell membranes.\nDigestion in mammals of:\n- carbohydrates by amylases and membrane-bound\ndisaccharidases\n- lipids by lipase, including the action of bile salts\n- proteins by endopeptidases, exopeptidases and membrane-\nbound dipeptidases.\nMechanisms for the absorption of the products of digestion by cells\nlining the ileum of mammals, to include:\n- co-transport mechanisms for the absorption of amino acids\nand of monosaccharides\n- the role of micelles in the absorption of lipids.\nPS 1.1\nStudents could:\n- design and carry out\ninvestigations into the\neffect of a pH or bile\nsalts on the rate of\nreaction catalysed by a\ndigestive enzyme\n- use Visking tubing\nmodels to investigate\nthe absorption of the\nproducts of digestion.",
+              "children": []
+            },
+            {
+              "code": "3.3.4",
+              "title": "Mass transport",
+              "level": 2,
+              "content": "Over large distances, efficient movement of substance to and from exchange surfaces is provided\nby mass transport.",
+              "children": [
+                {
+                  "code": "3.3.4.1",
+                  "title": "Mass transport in animals",
+                  "level": 3,
+                  "content": "The haemoglobins are a group of chemically similar molecules\nfound in many different organisms. Haemoglobin is a protein with a\nquaternary structure.\nThe role of haemoglobin and red blood cells in the transport of\noxygen. The loading, transport and unloading of oxygen in relation\nto the oxyhaemoglobin dissociation curve. The cooperative nature\nof oxygen binding to show that the change in shape of\nhaemoglobin caused by binding of the first oxygens makes the\nbinding of further oxygens easier. The effects of carbon dioxide\nconcentration on the dissociation of oxyhaemoglobin (the Bohr\neffect).\nMany animals are adapted to their environment by possessing\ndifferent types of haemoglobin with different oxygen transport\nproperties.\nThe general pattern of blood circulation in a mammal. Names are\nrequired only of the coronary arteries and of the blood vessels\nentering and leaving the heart, lungs and kidneys.\nThe gross structure of the human heart. Pressure and volume\nchanges and associated valve movements during the cardiac cycle\nthat maintain a unidirectional flow of blood.\nThe structure of arteries, arterioles and veins in relation to their\nfunction.\nThe structure of capillaries and the importance of capillary beds as\nexchange surfaces. The formation of tissue fluid and its return to\nthe circulatory system.\nStudents should be able to:\n- analyse and interpret data relating to pressure and volume\nchanges during the cardiac cycle\n- analyse and interpret data associated with specific risk\nfactors and the incidence of cardiovascular disease\n- evaluate conflicting evidence associated with risk factors\naffecting cardiovascular disease\n- recognise correlations and causal relationships.\nRequired practical 5: Dissection of animal or plant gas exchange\nsystem or mass transport system or of organ within such a system.\nAT h\nStudents could design and\ncarry out an investigation\ninto the effect of a named\nvariable on human pulse\nrate or on the heart rate of\nan invertebrate, such as\nDaphnia.\nMS 2.2\nStudents could be given\nvalues of cardiac output\n(CO) and one other\nmeasure, requiring them to\nchange the subject of the\nequation:\nCO = stroke volume\n× heart rate\nAT j",
+                  "children": []
+                },
+                {
+                  "code": "3.3.4.2",
+                  "title": "Mass transport in plants",
+                  "level": 3,
+                  "content": "Xylem as the tissue that transports water in the stem and leaves of\nplants. The cohesion-tension theory of water transport in the xylem.\nPhloem as the tissue that transports organic substances in plants.\nThe mass flow hypothesis for the mechanism of translocation in\nplants. The use of tracers and ringing experiments to investigate\ntransport in plants.\nStudents should be able to:\n- recognise correlations and causal relationships\n- interpret evidence from tracer and ringing experiments and to\nevaluate the evidence for and against the mass flow\nhypothesis.\nAT b\nStudents could set up and\nuse a potometer to\ninvestigate the effect of a\nnamed environmental\nvariable on the rate of\ntranspiration.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Genetic information, variation and relationships between organisms",
+          "level": 1,
+          "content": "Biological diversity – biodiversity – is reflected in the vast number of species of organisms, in the\nvariation of individual characteristics within a single species and in the variation of cell types within\na single multicellular organism.\nDifferences between species reflect genetic differences. Differences between individuals within a\nspecies could be the result of genetic factors, of environmental factors, or a combination of both.\nA gene is a section of DNA located at a particular site on a DNA molecule, called its locus. The\nbase sequence of each gene carries the coded genetic information that determines the sequence\nof amino acids during protein synthesis. The genetic code used is the same in all organisms,\nproviding indirect evidence for evolution.\nGenetic diversity within a species can be caused by gene mutation, chromosome mutation or\nrandom factors associated with meiosis and fertilisation. This genetic diversity is acted upon by\nnatural selection, resulting in species becoming better adapted to their environment.\nVariation within a species can be measured using differences in the base sequence of DNA or in\nthe amino acid sequence of proteins.\nBiodiversity within a community can be measured using species richness and an index of diversity.",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "DNA, genes and chromosomes",
+              "level": 2,
+              "content": "In prokaryotic cells, DNA molecules are short, circular and not\nassociated with proteins.\nIn the nucleus of eukaryotic cells, DNA molecules are very long,\nlinear and associated with proteins, called histones. Together a\nDNA molecule and its associated proteins form a chromosome.\nThe mitochondria and chloroplasts of eukaryotic cells also contain\nDNA which, like the DNA of prokaryotes, is short, circular and not\nassociated with protein.\nA gene is a base sequence of DNA that codes for:\n- the amino acid sequence of a polypeptide\n- a functional RNA (including ribosomal RNA and tRNAs).\nA gene occupies a fixed position, called a locus, on a particular\nDNA molecule.\nA sequence of three DNA bases, called a triplet, codes for a\nspecific amino acid. The genetic code is universal, non-overlapping\nand degenerate.\nIn eukaryotes, much of the nuclear DNA does not code for\npolypeptides. There are, for example, non-coding multiple repeats\nof base sequences between genes. Even within a gene only some\nsequences, called exons, code for amino acid sequences. Within\nthe gene, these exons are separated by one or more non-coding\nsequences, called introns.",
+              "children": []
+            },
+            {
+              "code": "3.4.2",
+              "title": "DNA and protein synthesis",
+              "level": 2,
+              "content": "The concept of the genome as the complete set of genes in a cell\nand of the proteome as the full range of proteins that a cell is able\nto produce.\nThe structure of molecules of messenger RNA (mRNA) and of\ntransfer RNA (tRNA).\nTranscription as the production of mRNA from DNA. The role of\nRNA polymerase in joining mRNA nucleotides.\n- In prokaryotes, transcription results directly in the production\nof mRNA from DNA.\n- In eukaryotes, transcription results in the production of pre-\nmRNA; this is then spliced to form mRNA.\nTranslation as the production of polypeptides from the sequence of\ncodons carried by mRNA. The roles of ribosomes, tRNA and ATP.\nStudents should be able to:\n- relate the base sequence of nucleic acids to the amino acid\nsequence of polypeptides, when provided with suitable data\nabout the genetic code\n- interpret data from experimental work investigating the role of\nnucleic acids.\nStudents will not be required to recall in written papers specific\ncodons and the amino acids for which they code.",
+              "children": []
+            },
+            {
+              "code": "3.4.3",
+              "title": "Genetic diversity can arise as a result of mutation or during meiosis",
+              "level": 2,
+              "content": "Gene mutations involve a change in the base sequence of\nchromosomes. They can arise spontaneously during DNA\nreplication and include base deletion and base substitution. Due to\nthe degenerate nature of the genetic code, not all base\nsubstitutions cause a change in the sequence of encoded amino\nacids. Mutagenic agents can increase the rate of gene mutation.\nMutations in the number of chromosomes can arise spontaneously\nby chromosome non-disjunction during meiosis.\nMeiosis produces daughter cells that are genetically different from\neach other.\nThe process of meiosis only in sufficient detail to show how:\n- two nuclear divisions result usually in the formation of four\nhaploid daughter cells from a single diploid parent cell\n- genetically different daughter cells result from the\nindependent segregation of homologous chromosomes\n- crossing over between homologous chromosomes results in\nfurther genetic variation among daughter cells.\nStudents should be able to:\n- complete diagrams showing the chromosome content of cells\nafter the first and second meiotic division, when given the\nchromosome content of the parent cell\n- explain the different outcome of mitosis and meiosis\n- recognise where meiosis occurs when given information\nabout an unfamiliar life cycle\n- explain how random fertilisation of haploid gametes further\nincreases genetic variation within a species.\nAT d\nStudents could examine\nmeiosis in prepared slides of\nsuitable plant or animal\ntissue.\nMS 0.5\nStudents could:\nuse the expression 2n\n- to calculate the\npossible number of\ndifferent combinations\nof chromosomes\nfollowing meiosis,\nwithout crossing over\n- derive a formula from\nthis to calculate the\npossible number of\ndifferent combinations\nof chromosomes\nfollowing random\nfertilisation of two\ngametes,\nwhere n is the number of\nhomologous chromosomes\npairs.",
+              "children": []
+            },
+            {
+              "code": "3.4.4",
+              "title": "Genetic diversity and adaptation",
+              "level": 2,
+              "content": "Genetic diversity as the number of different alleles of genes in a\npopulation.\nGenetic diversity is a factor enabling natural selection to occur.\nThe principles of natural selection in the evolution of populations.\n- Random mutation can result in new alleles of a gene.\n- Many mutations are harmful but, in certain environments, the\nnew allele of a gene might benefit its possessor, leading to\nincreased reproductive success.\n- The advantageous allele is inherited by members of the next\ngeneration.\n- As a result, over many generations, the new allele increases\nin frequency in the population.\nDirectional selection, exemplified by antibiotic resistance in\nbacteria, and stabilising selection, exemplified by human birth\nweights.\nNatural selection results in species that are better adapted to their\nenvironment. These adaptations may be anatomical, physiological\nor behavioural.\nStudents should be able to:\n- use unfamiliar information to explain how selection produces\nchanges within a population of a species\n- interpret data relating to the effect of selection in producing\nchange within populations\n- show understanding that adaptation and selection are major\nfactors in evolution and contribute to the diversity of living\norganisms.\nRequired practical 6: Use of aseptic techniques to investigate the\neffect of antimicrobial substances on microbial growth.\nMS 2.5\nStudents could use a\nlogarithmic scale when\ndealing with data relating to\nlarge numbers of bacteria in\na culture.\nAT i",
+              "children": []
+            },
+            {
+              "code": "3.4.5",
+              "title": "Species and taxonomy",
+              "level": 2,
+              "content": "Two organisms belong to the same species if they are able to\nproduce fertile offspring. Courtship behaviour as a necessary\nprecursor to successful mating. The role of courtship in species\nrecognition.\nA phylogenetic classification system attempts to arrange species\ninto groups based on their evolutionary origins and relationships. It\nuses a hierarchy in which smaller groups are placed within larger\ngroups, with no overlap between groups. Each group is called a\ntaxon (plural taxa).\nOne hierarchy comprises the taxa: domain, kingdom, phylum,\nclass, order, family, genus and species.\nEach species is universally identified by a binomial consisting of\nthe name of its genus and species, eg, Homo sapiens.\nRecall of different taxonomic systems, such as the three domain or\nfive kingdom systems, will not be required.\nStudents should be able to appreciate that advances in\nimmunology and genome sequencing help to clarify evolutionary\nrelationships between organisms.",
+              "children": []
+            },
+            {
+              "code": "3.4.6",
+              "title": "Biodiversity within a community",
+              "level": 2,
+              "content": "Biodiversity can relate to a range of habitats, from a small local\nhabitat to the Earth.\nSpecies richness is a measure of the number of different species in\na community.\nAn index of diversity describes the relationship between the\nnumber of species in a community and the number of individuals in\neach species.\nCalculation of an index of diversity ( d) from the formula\nd = N N −1\nwhere N = total number of organisms of all species\nand n = total number of organisms of each species.\nFarming techniques reduce biodiversity. The balance between\nconservation and farming.\nMS 2.3\nStudents could be given\ndata from which to calculate\nan index of diversity and\ninterpret the significance of\nthe calculated value of the\nindex.",
+              "children": []
+            },
+            {
+              "code": "3.4.7",
+              "title": "Investigating diversity",
+              "level": 2,
+              "content": "Genetic diversity within, or between species, can be made by\ncomparing:\n- the frequency of measurable or observable characteristics\n- the base sequence of DNA\n- the base sequence of mRNA\n- the amino acid sequence of the proteins encoded by DNA\nand mRNA.\nStudents should be able to:\n- interpret data relating to similarities and differences in the\nbase sequences of DNA and in the amino acid sequences of\nproteins to suggest relationships between different organisms\nwithin a species and between species\n- appreciate that gene technology has caused a change in the\nmethods of investigating genetic diversity; inferring DNA\ndifferences from measurable or observable characteristics\nhas been replaced by direct investigation of DNA sequences.\nKnowledge of gene technologies will not be tested.\nQuantitative investigations of variation within a species involve:\n- collecting data from random samples\n- calculating a mean value of the collected data and the\nstandard deviation of that mean\n- interpreting mean values and their standard deviations.\nStudents will not be required to calculate standard deviations in\nwritten papers.\nAT k\nStudents could:\n- design appropriate\nmethods to ensure\nrandom sampling\n- carry out random\nsampling within a\nsingle population\n- use random samples\nto investigate the\neffect of position on\nthe growth of leaves.\nMS 1.2\nStudents could use standard\nscientific calculators to\ncalculate the mean values of\ndata they have collected or\nhave been given.\nMS 1.10\nStudents could calculate,\nand interpret the values of,\nthe standard deviations of\ntheir mean values.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Energy transfers in and between organisms (A-level only)",
+          "level": 1,
+          "content": "Life depends on continuous transfers of energy.\nIn photosynthesis, light is absorbed by chlorophyll and this is linked to the production of ATP.\nIn respiration, various substances are used as respiratory substrates. The hydrolysis of these\nrespiratory substrates is linked to the production of ATP.\nIn both respiration and photosynthesis, ATP production occurs when protons diffuse down an\nelectrochemical gradient through molecules of the enzyme ATP synthase, embedded in the\nmembranes of cellular organelles.\nThe process of photosynthesis is common in all photoautotrophic organisms and the process of\nrespiration is common in all organisms, providing indirect evidence for evolution.\nIn communities, the biological molecules produced by photosynthesis are consumed by other\norganisms, including animals, bacteria and fungi. Some of these are used as respiratory substrates\nby these consumers.\nPhotosynthesis and respiration are not 100% efficient. The transfer of biomass and its stored\nchemical energy in a community from one organism to a consumer is also not 100% efficient.",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "Photosynthesis (A-level only)",
+              "level": 2,
+              "content": "The light-dependent reaction in such detail as to show that:\n- chlorophyll absorbs light, leading to photoionisation of\nchlorophyll\n- some of the energy from electrons released during\nphotoionisation is conserved in the production of ATP and\nreduced NADP\n- the production of ATP involves electron transfer associated\nwith the transfer of electrons down the electron transfer chain\nand passage of protons across chloroplast membranes and\nis catalysed by ATP synthase embedded in these\nmembranes (chemiosomotic theory)\n- photolysis of water produces protons, electrons and oxygen.\nThe light-independent reaction uses reduced NADP from the light-\ndependent reaction to form a simple sugar. The hydrolysis of ATP,\nalso from the light-dependent reaction, provides the additional\nenergy for this reaction.\nThe light-independent reaction in such detail as to show that:\n- carbon dioxide reacts with ribulose bisphosphate (RuBP) to\nform two molecules of glycerate 3-phosphate (GP). This\nreaction is catalysed by the enzyme rubisco\n- ATP and reduced NADP from the light-dependent reaction\nare used to reduce GP to triose phosphate\n- some of the triose phosphate is used to regenerate RuBP in\nthe Calvin cycle\n- some of the triose phosphate is converted to useful organic\nsubstances.\nStudents should be able to:\n- identify environmental factors that limit the rate of\nphotosynthesis\n- evaluate data relating to common agricultural practices used\nto overcome the effect of these limiting factors.\nAT a\nStudents could devise and\ncarry out experiments to\ninvestigate the effect of\nnamed environmental\nvariables on the rate of\nphotosynthesis using\naquatic plants, algae or\nimmobilised algal beads.\nRequired practical 7: Use of chromatography to investigate the\npigments isolated from leaves of different plants, eg, leaves from\nshade-tolerant and shade-intolerant plants or leaves of different\ncolours.\nRequired practical 8: Investigation into the effect of a named\nfactor on the rate of dehydrogenase activity in extracts of\nchloroplasts.\nAT g and b",
+              "children": []
+            },
+            {
+              "code": "3.5.2",
+              "title": "Respiration (A-level only)",
+              "level": 2,
+              "content": "Respiration produces ATP.\nGlycolysis is the first stage of anaerobic and aerobic respiration. It\noccurs in the cytoplasm and is an anaerobic process.\nGlycolysis involves the following stages:\n- phosphorylation of glucose to glucose phosphate, using ATP\n- production of triose phosphate\n- oxidation of triose phosphate to pyruvate with a net gain of\nATP and reduced NAD.\nIf respiration is only anaerobic, pyruvate can be converted to\nethanol or lactate using reduced NAD. The oxidised NAD produced\nin this way can be used in further glycolysis.\nIf respiration is aerobic, pyruvate from glycolysis enters the\nmitochondrial matrix by active transport.\nAerobic respiration in such detail as to show that:\n- pyruvate is oxidised to acetate, producing reduced NAD in\nthe process\n- acetate combines with coenzyme A in the link reaction to\nproduce acetylcoenzyme A\n- acetylcoenzyme A reacts with a four-carbon molecule,\nreleasing coenzyme A and producing a six-carbon molecule\nthat enters the Krebs cycle\n- in a series of oxidation-reduction reactions, the Krebs cycle\ngenerates reduced coenzymes and ATP by substrate-level\nphosphorylation, and carbon dioxide is lost\n- synthesis of ATP by oxidative phosphorylation is associated\nwith the transfer of electrons down the electron transfer chain\nand passage of protons across inner mitochondrial\nmembranes and is catalysed by ATP synthase embedded in\nthese membranes (chemiosomotic theory)\n- other respiratory substrates include the breakdown products\nof lipids and amino acids, which enter the Krebs cycle.\nRequired practical 9: Investigation into the effect of a named\nvariable on the rate of respiration of cultures of single-celled\norganisms.\nAT b\nStudents could use a redox\nindicator to investigate\ndehydrogenase activity.\nAT b and i",
+              "children": []
+            },
+            {
+              "code": "3.5.3",
+              "title": "Energy and ecosystems (A-level only)",
+              "level": 2,
+              "content": "In any ecosystem, plants synthesise organic compounds from\natmospheric, or aquatic, carbon dioxide.\nMost of the sugars synthesised by plants are used by the plant as\nrespiratory substrates. The rest are used to make other groups of\nbiological molecules. These biological molecules form the biomass\nof the plants.\nBiomass can be measured in terms of mass of carbon or dry mass\nof tissue per given area. The chemical energy store in dry biomass\ncan be estimated using calorimetry.\nGross primary production ( GPP) is the chemical energy store in\nplant biomass, in a given area or volume.\nNet primary production ( NPP) is the chemical energy store in\nplant biomass after respiratory losses to the environment have\nbeen taken into account,\nie NPP = GPP – R\nwhere GPP represents gross production and R represents\nrespiratory losses to the environment.\nThis net primary production is available for plant growth and\nreproduction. It is also available to other trophic levels in the\necosystem, such as herbivores and decomposers.\nThe net production of consumers ( N), such as animals, can be\ncalculated as:\nN = I – (F + R)\nwhere I represents the chemical energy store in ingested food, F\nrepresents the chemical energy lost to the environment in faeces\nand urine and R represents the respiratory losses to the\nenvironment.\nPrimary and secondary productivity is the rate of primary or\nsecondary production, respectively. It is measured as biomass in a\ngiven area in a given time eg kJ ha–1 year–1.\nStudents should be able to appreciate the ways in which\nproduction is affected by farming practices designed to increase\nthe efficiency of energy transfer by:\n- simplifying food webs to reduce energy losses to non-human\nfood chains\n- reducing respiratory losses within a human food chain.\nMS 0.1\nStudents could be given\ndata from which to calculate\ngross primary production\nand to derive the appropriate\nunits.\nAT a\nStudents could carry out\ninvestigations to find the dry\nmass of plant samples or the\nenergy released by samples\nof plant biomass.\nMS 2.4\nStudents could be given\ndata from which to calculate:\n- the net productivity of\nproducers or\nconsumers from given\ndata\n- the efficiency of\nenergy transfers within\necosystems.\nMS 0.3\nStudents could be given\ndata from which to calculate\npercentage yields.",
+              "children": []
+            },
+            {
+              "code": "3.5.4",
+              "title": "Nutrient cycles (A-level only)",
+              "level": 2,
+              "content": "Nutrients are recycled within natural ecosystems, exemplified by\nthe nitrogen cycle and the phosphorus cycle.\nMicroorganisms play a vital role in recycling chemical elements\nsuch as phosphorus and nitrogen.\n- The role of saprobionts in decomposition.\n- The role of mycorrhizae in facilitating the uptake of water and\ninorganic ions by plants.\n- The role of bacteria in the nitrogen cycle in sufficient detail to\nillustrate the processes of saprobiotic nutrition,\nammonification, nitrification, nitrogen fixation and\ndenitrification.\n(The names of individual species of bacteria are not required).\nThe use of natural and artificial fertilisers to replace the nitrates and\nphosphates lost by harvesting plants and removing livestock.\nThe environmental issues arising from the use of fertilisers\nincluding leaching and eutrophication.\nPS 1.1\nStudents could devise\ninvestigations into the effect\nof named minerals on plant\ngrowth.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.6",
+          "title": "Organisms respond to changes in their internal and external environments (A-level only)",
+          "level": 1,
+          "content": "A stimulus is a change in the internal or external environment. A receptor detects a stimulus. A\ncoordinator formulates a suitable response to a stimulus. An effector produces a response.\nReceptors are specific to one type of stimulus.\nNerve cells pass electrical impulses along their length. A nerve impulse is specific to a target cell\nonly because it releases a chemical messenger directly onto it, producing a response that is\nusually rapid, short-lived and localised.\nIn contrast, mammalian hormones stimulate their target cells via the blood system. They are\nspecific to the tertiary structure of receptors on their target cells and produce responses that are\nusually slow, long-lasting and widespread.\nPlants control their response using hormone-like growth substances.",
+          "children": [
+            {
+              "code": "3.6.1",
+              "title": "Stimuli, both internal and external, are detected and lead to a response (A-level only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.6.1.1",
+                  "title": "Survival and response (A-level only)",
+                  "level": 3,
+                  "content": "Organisms increase their chance of survival by responding to\nchanges in their environment.\nIn flowering plants, specific growth factors move from growing\nregions to other tissues, where they regulate growth in response to\ndirectional stimuli.\nThe effect of different concentrations of indoleacetic acid (IAA) on\ncell elongation in the roots and shoots of flowering plants as an\nexplanation of gravitropism and phototropism in flowering plants.\nTaxes and kineses as simple responses that can maintain a mobile\norganism in a favourable environment.\nThe protective effect of a simple reflex, exemplified by a three-\nneurone simple reflex. Details of spinal cord and dorsal and ventral\nroots are not required.\nRequired practical 10: Investigation into the effect of an\nenvironmental variable on the movement of an animal using either\na choice chamber or a maze.\nAT h\nStudents could design and\ncarry out investigations into\nthe effects of indoleacetic\nacid on root growth in\nseedlings.\nAT h",
+                  "children": []
+                },
+                {
+                  "code": "3.6.1.2",
+                  "title": "Receptors (A-level only)",
+                  "level": 3,
+                  "content": "The Pacinian corpuscle should be used as an example of a\nreceptor to illustrate that:\n- receptors respond only to specific stimuli\n- stimulation of a receptor leads to the establishment of a\ngenerator potential.\nThe basic structure of a Pacinian corpuscle.\nDeformation of stretch-mediated sodium ion channels in a Pacinian\ncorpuscle leads to the establishment of a generator potential.\nThe human retina in sufficient detail to show how differences in\nsensitivity to light, sensitivity to colour and visual acuity are\nexplained by differences in the optical pigments of rods and cones\nand the connections rods and cones make in the optic nerve.\nAT h\nStudents could design and\ncarry out investigations into:\n- the sensitivity of\ntemperature receptors\nin human skin\n- habituation of touch\nreceptors in human\nskin\n- resolution of touch\nreceptors in human\nskin.",
+                  "children": []
+                },
+                {
+                  "code": "3.6.1.3",
+                  "title": "Control of heart rate (A-level only)",
+                  "level": 3,
+                  "content": "Myogenic stimulation of the heart and transmission of a\nsubsequent wave of electrical activity. The roles of the sinoatrial\nnode (SAN), atrioventricular node (AVN) and Purkyne tissue in the\nbundle of His.\nThe roles and locations of chemoreceptors and pressure receptors\nand the roles of the autonomic nervous system and effectors in\ncontrolling heart rate.\nAT h\nStudents could design and\ncarry out an investigation\ninto the effect of a named\nvariable on human pulse\nrate.\nMS 2.2\nStudents could use values of\nheart rate (R) and stroke\nvolume (V) to calculate\ncardiac output (CO), using\nthe formula CO = R × V",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.6.2",
+              "title": "Nervous coordination (A-level only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.6.2.1",
+                  "title": "Nerve impulses (A-level only)",
+                  "level": 3,
+                  "content": "The structure of a myelinated motor neurone.\nThe establishment of a resting potential in terms of differential\nmembrane permeability, electrochemical gradients and the\nmovement of sodium ions and potassium ions.\nChanges in membrane permeability lead to depolarisation and the\ngeneration of an action potential. The all-or-nothing principle.\nThe passage of an action potential along non-myelinated and\nmyelinated axons, resulting in nerve impulses.\nThe nature and importance of the refractory period in producing\ndiscrete impulses and in limiting the frequency of impulse\ntransmission.\nFactors affecting the speed of conductance: myelination and\nsaltatory conduction; axon diameter; temperature.\nMS 0.2\nStudents could use\nappropriate units when\ncalculating the maximum\nfrequency of impulse\nconduction given the\nrefractory period of a\nneurone.",
+                  "children": []
+                },
+                {
+                  "code": "3.6.2.2",
+                  "title": "Synaptic transmission (A-level only)",
+                  "level": 3,
+                  "content": "The detailed structure of a synapse and of a neuromuscular\njunction.\nThe sequence of events involved in transmission across a\ncholinergic synapse in sufficient detail to explain:\n- unidirectionality\n- temporal and spatial summation\n- inhibition by inhibitory synapses.\nA comparison of transmission across a cholinergic synapse and\nacross a neuromuscular junction.\nStudents should be able to use information provided to predict\nand explain the effects of specific drugs on a synapse.\n(Recall of the names and mode of action of individual drugs will not\nbe required.)",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.6.3",
+              "title": "Skeletal muscles are stimulated to contract by nerves and act as effectors (A-level only)",
+              "level": 2,
+              "content": "Muscles act in antagonistic pairs against an incompressible\nskeleton.\nGross and microscopic structure of skeletal muscle. The\nultrastructure of a myofibril.\nThe roles of actin, myosin, calcium ions and ATP in myofibril\ncontraction.\nThe roles of calcium ions and tropomyosin in the cycle of\nactinomyosin bridge formation. (The role of troponin is not\nrequired.)\nThe roles of ATP and phosphocreatine in muscle contraction.\nThe structure, location and general properties of slow and fast\nskeletal muscle fibres.\nAT d\nStudents could examine\nprepared slides of skeletal\nmuscle using an optical\nmicroscope.\nAT h\nStudents could investigate\nthe effect of repeated\nmuscular contraction on the\nrate of muscle fatigue in\nhuman vounteers.",
+              "children": []
+            },
+            {
+              "code": "3.6.4",
+              "title": "Homeostasis is the maintenance of a stable internal environment (A-level only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.6.4.1",
+                  "title": "Principles of homeostasis and negative feedback (A-level only)",
+                  "level": 3,
+                  "content": "Homeostasis in mammals involves physiological control systems\nthat maintain the internal environment within restricted limits.\nThe importance of maintaining a stable core temperature and\nstable blood pH in relation to enzyme activity.\nThe importance of maintaining a stable blood glucose\nconcentration in terms of availability of respiratory substrate and of\nthe water potential of blood.\nNegative feedback restores systems to their original level.\nThe possession of separate mechanisms involving negative\nfeedback controls departures in different directions from the\noriginal state, giving a greater degree of control.\nStudents should be able to interpret information relating to\nexamples of negative and positive feedback.",
+                  "children": []
+                },
+                {
+                  "code": "3.6.4.2",
+                  "title": "Control of blood glucose concentration (A-level only)",
+                  "level": 3,
+                  "content": "The factors that influence blood glucose concentration.\nThe role of the liver in glycogenesis, glycogenolysis and\ngluconeogenesis.\nThe action of insulin by:\n- attaching to receptors on the surfaces of target cells\n- controlling the uptake of glucose by regulating the inclusion\nof channel proteins in the surface membranes of target cells\n- activating enzymes involved in the conversion of glucose to\nglycogen.\nThe action of glucagon by:\n- attaching to receptors on the surfaces of target cells\n- activating enzymes involved in the conversion of glycogen to\nglucose\n- activating enzymes involved in the conversion of glycerol and\namino acids into glucose.\nThe role of adrenaline by:\n- attaching to receptors on the surfaces of target cells\n- activating enzymes involved in the conversion of glycogen to\nglucose.\nThe second messenger model of adrenaline and glucagon action,\ninvolving adenylate cyclase, cyclic AMP (cAMP) and protein\nkinase.\nThe causes of types I and II diabetes and their control by insulin\nand/or manipulation of the diet.\nStudents should be able to evaluate the positions of health\nadvisers and the food industry in relation to the increased\nincidence of type II diabetes.\nRequired practical 11: Production of a dilution series of a glucose\nsolution and use of colorimetric techniques to produce a calibration\ncurve with which to identify the concentration of glucose in an\nunknown ‘urine’ sample.\nAT b and c",
+                  "children": []
+                },
+                {
+                  "code": "3.6.4.3",
+                  "title": "Control of blood water potential (A-level only)",
+                  "level": 3,
+                  "content": "Osmoregulation as control of the water potential of the blood.\nThe roles of the hypothalamus, posterior pituitary and antidiuretic\nhormone (ADH) in osmoregulation.\nThe structure of the nephron and its role in:\n- the formation of glomerular filtrate\n- reabsorption of glucose and water by the proximal convoluted\ntubule\n- maintaining a gradient of sodium ions in the medulla by the\nloop of Henle\n- reabsorption of water by the distal convoluted tubule and\ncollecting ducts.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.7",
+          "title": "Genetics, populations, evolution and ecosystems (A- level only)",
+          "level": 1,
+          "content": "The theory of evolution underpins modern Biology. All new species arise from an existing species.\nThis results in different species sharing a common ancestry, as represented in phylogenetic\nclassification. Common ancestry can explain the similarities between all living organisms, such as\ncommon chemistry (eg all proteins made from the same 20 or so amino acids), physiological\npathways (eg anaerobic respiration), cell structure, DNA as the genetic material and a ‘universal’\ngenetic code.\nThe individuals of a species share the same genes but (usually) different combinations of alleles of\nthese genes. An individual inherits alleles from their parent or parents.\nA species exists as one or more populations. There is variation in the phenotypes of organisms in\na population, due to genetic and environmental factors. Two forces affect genetic variation in\npopulations: genetic drift and natural selection. Genetic drift can cause changes in allele frequency\nin small populations. Natural selection occurs when alleles that enhance the fitness of the\nindividuals that carry them rise in frequency. A change in the allele frequency of a population is\nevolution.\nIf a population becomes isolated from other populations of the same species, there will be no gene\nflow between the isolated population and the others. This may lead to the accumulation of genetic\ndifferences in the isolated population, compared with the other populations. These differences may\nultimately lead to organisms in the isolated population becoming unable to breed and produce\nfertile offspring with organisms from the other populations. This reproductive isolation means that a\nnew species has evolved.\nPopulations of different species live in communities. Competition occurs within and between these\npopulations for the means of survival. Within a single community, one population is affected by\nother populations, the biotic factors, in its environment. Populations within communities are also\naffected by, and in turn affect, the abiotic (physicochemical) factors in an ecosystem.",
+          "children": [
+            {
+              "code": "3.7.1",
+              "title": "Inheritance (A-level only)",
+              "level": 2,
+              "content": "The genotype is the genetic constitution of an organism.\nThe phenotype is the expression of this genetic constitution and its\ninteraction with the environment.\nThere may be many alleles of a single gene.\nAlleles may be dominant, recessive or codominant.\nIn a diploid organism, the alleles at a specific locus may be either\nhomozygous or heterozygous.\nThe use of fully labelled genetic diagrams to interpret, or predict,\nthe results of:\n- monohybrid and dihybrid crosses involving dominant,\nrecessive and codominant alleles\n- crosses involving sex-linkage, autosomal linkage, multiple\nalleles and epistasis.\nUse of the chi-squared ( Χ2) test to compare the goodness of fit of\nobserved phenotypic ratios with expected ratios.\nAT h\nStudents could investigate\ngenetic ratios using crosses\nof Drosophila or Fast Plant®\nMS 0.3\nStudents could use\ninformation to represent\nphenotypic ratios in\nmonohybrid and dihybrid\ncrosses.\nMS 1.4\nStudents could show\nunderstanding of the\nprobability associated with\ninheritance.\nMS 1.9\nStudents could use the Χ2\ntest to investigate the\nsignificance of differences\nbetween expected and\nobserved phenotypic ratios.",
+              "children": []
+            },
+            {
+              "code": "3.7.2",
+              "title": "Populations (A-level only)",
+              "level": 2,
+              "content": "Species exist as one or more populations.\nA population as a group of organisms of the same species\noccupying a particular space at a particular time that can potentially\ninterbreed.\nThe concepts of gene pool and allele frequency.\nThe Hardy–Weinberg principle provides a mathematical model,\nwhich predicts that allele frequencies will not change from\ngeneration to generation. The conditions under which the principle\napplies.\nThe frequency of alleles, genotypes and phenotypes in a\npopulation can be calculated using the Hardy–Weinberg equation:\np2 + 2pq + q2 = 1\nwhere p is the frequency of one (usually the dominant) allele and q\nis the frequency of the other (usually recessive) allele of the gene.\nAT k\nStudents could collect data\nabout the frequency of\nobservable phenotypes\nwithin a single population.\nMS 2.4\nStudents could calculate\nallele, genotype and\nphenotype frequencies from\nappropriate data using the\nHardy–Weinberg equation.",
+              "children": []
+            },
+            {
+              "code": "3.7.3",
+              "title": "Evolution may lead to speciation (A-level only)",
+              "level": 2,
+              "content": "Individuals within a population of a species may show a wide range\nof variation in phenotype. This is due to genetic and environmental\nfactors. The primary source of genetic variation is mutation.\nMeiosis and the random fertilisation of gametes during sexual\nreproduction produce further genetic variation.\nPredation, disease and competition for the means of survival result\nin differential survival and reproduction, ie natural selection.\nThose organisms with phenotypes providing selective advantages\nare likely to produce more offspring and pass on their favourable\nalleles to the next generation. The effect of this differential\nreproductive success on the allele frequencies within a gene pool.\nThe effects of stabilising, directional and disruptive selection.\nEvolution as a change in the allele frequencies in a population.\nReproductive separation of two populations can result in the\naccumulation of difference in their gene pools. New species arise\nwhen these genetic differences lead to an inability of members of\nthe populations to interbreed and produce fertile offspring. In this\nway, new species arise from existing species.\nAllopatric and sympatric speciation.\nThe importance of genetic drift in causing changes in allele\nfrequency in small populations.\nStudents should be able to:\n- explain why individuals within a population of a species may\nshow a wide range of variation in phenotype\n- explain why genetic drift is important only in small\npopulations\n- explain how natural selection and isolation may result in\nchange in the allele and phenotype frequency and lead to the\nformation of a new species\n- explain how evolutionary change over a long period of time\nhas resulted in a great diversity of species.\nMS 1.5\nStudents could apply their\nknowledge of sampling to\nthe concept of genetic drift.\nPS 1.2\nStudents could devise an\ninvestigation to mimic the\neffects of random sampling\non allele frequencies in a\npopulation.\nAT l\nStudents could use\ncomputer programs to model\nthe effects of natural\nselection and of genetic drift.",
+              "children": []
+            },
+            {
+              "code": "3.7.4",
+              "title": "Populations in ecosystems (A-level only)",
+              "level": 2,
+              "content": "Populations of different species form a community. A community\nand the non-living components of its environment together form an\necosystem. Ecosystems can range in size from the very small to\nthe very large.\nWithin a habitat, a species occupies a niche governed by\nadaptation to both abiotic and biotic conditions.\nAn ecosystem supports a certain size of population of a species,\ncalled the carrying capacity. This population size can vary as a\nresult of:\n- the effect of abiotic factors\n- interactions between organisms: interspecific and\nintraspecific competition and predation.\nThe size of a population can be estimated using:\n- randomly placed quadrats, or quadrats along a belt transect,\nfor slow-moving or non-motile organisms\n- the mark-release-recapture method for motile organisms. The\nassumptions made when using the mark-release-recapture\nmethod.\nEcosystems are dynamic systems.\nPrimary succession, from colonisation by pioneer species to climax\ncommunity.\nAt each stage in succession, certain species may be recognised\nwhich change the environment so that it becomes more suitable for\nother species with different adaptations. The new species may\nchange the environment in such a way that it becomes less\nsuitable for the previous species.\nChanges that organisms produce in their abiotic environment can\nresult in a less hostile environment and change biodiversity.\nConservation of habitats frequently involves management of\nsuccession.\nStudents should be able to:\n- show understanding of the need to manage the conflict\nbetween human needs and conservation in order to maintain\nthe sustainability of natural resources\n- evaluate evidence and data concerning issues relating to the\nconservation of species and habitats and consider conflicting\nevidence\n- use given data to calculate the size of a population estimated\nusing the mark-release-recapture method.\nAT k\nStudents could:\n- investigate the\ndistribution of\norganisms in a named\nhabitat using randomly\nplaced frame quadrats,\nor a belt transect\n- use both percentage\ncover and frequency\nas measures of\nabundance of a sessile\nspecies.\nAT h\nStudents could use the\nmark-release-recapture\nmethod to investigate the\nabundance of a motile\nspecies.\nAT i\nStudents could use turbidity\nmeasurements to investigate\nthe growth rate of a broth\nculture of microorganisms.\nMS 2.5\nStudents could use a\nlogarithmic scale in\nrepresenting the growth of a\npopulation of\nmicroorganisms.\nRequired practical 12: Investigation into the effect of a named\nenvironmental factor on the distribution of a given species.\nAT a and k",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.8",
+          "title": "The control of gene expression (A-level only)",
+          "level": 1,
+          "content": "Cells are able to control their metabolic activities by regulating the transcription and translation of\ntheir genome. Although the cells within an organism carry the same coded genetic information,\nthey translate only part of it. In multicellular organisms, this control of translation enables cells to\nhave specialised functions, forming tissues and organs.\nThere are many factors that control the expression of genes and, thus, the phenotype of\norganisms. Some are external, environmental factors, others are internal factors. The expression\nof genes is not as simple as once thought, with epigenetic regulation of transcription being\nincreasingly recognised as important.\nHumans are learning how to control the expression of genes by altering the epigenome, and how\nto alter genomes and proteomes of organisms. This has many medical and technological\napplications.\nConsideration of cellular control mechanisms underpins the content of this section. Students who\nhave studied it should develop an understanding of the ways in which organisms and cells control\ntheir activities. This should lead to an appreciation of common ailments resulting from a breakdown\nof these control mechanisms and the use of DNA technology in the diagnosis and treatment of\nhuman diseases.",
+          "children": [
+            {
+              "code": "3.8.1",
+              "title": "Alteration of the sequence of bases in DNA can alter the structure of proteins (A-level only)",
+              "level": 2,
+              "content": "Gene mutations might arise during DNA replication. They include\naddition, deletion, substitution, inversion, duplication and\ntranslocation of bases.\nGene mutations occur spontaneously. The mutation rate is\nincreased by mutagenic agents. Mutations can result in a different\namino acid sequence in the encoded polypeptide.\n- Some gene mutations change only one triplet code. Due to\nthe degenerate nature of the genetic code, not all such\nmutations result in a change to the encoded amino acid.\n- Some gene mutations change the nature of all base triplets\ndownstream from the mutation, ie result in a frame shift.\nStudents should be able to relate the nature of a gene mutation\nto its effect on the encoded polypeptide.",
+              "children": []
+            },
+            {
+              "code": "3.8.2",
+              "title": "Gene expression is controlled by a number of features (A-level only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.8.2.1",
+                  "title": "Most of a cell’s DNA is not translated (A-level only)",
+                  "level": 3,
+                  "content": "Totipotent cells can divide and produce any type of body cell.\nDuring development, totipotent cells translate only part of their\nDNA, resulting in cell specialisation.\nTotipotent cells occur only for a limited time in early mammalian\nembryos.\nPluripotent cells are found in embryos; multipotent and unipotent\ncells are found in mature mammals and can divide to form a limited\nnumber of different cell types.\n- Pluripotent stem cells can divide in unlimited numbers and\ncan be used in treating human disorders.\n- Unipotent cells, exemplified by the formation of\ncardiomyocytes.\n- Induced pluripotent stem cells (iPS cells) can be produced\nfrom adult somatic cells using appropriate protein\ntranscription factors.\nStudents should be able to evaluate the use of stem cells in\ntreating human disorders.\nAT i\nStudents could produce\ntissue cultures of explants of\ncauliflower (Brassica\noleracea).",
+                  "children": []
+                },
+                {
+                  "code": "3.8.2.2",
+                  "title": "Regulation of transcription and translation (A-level only)",
+                  "level": 3,
+                  "content": "In eukaryotes, transcription of target genes can be stimulated or\ninhibited when specific transcriptional factors move from the\ncytoplasm into the nucleus. The role of the steroid hormone,\noestrogen, in initiating transcription.\nEpigenetic control of gene expression in eukaryotes.\nEpigenetics involves heritable changes in gene function, without\nchanges to the base sequence of DNA. These changes are caused\nby changes in the environment that inhibit transcription by:\n- increased methylation of the DNA or\n- decreased acetylation of associated histones.\nThe relevance of epigenetics on the development and treatment of\ndisease, especially cancer.\nIn eukaryotes and some prokaryotes, translation of the mRNA\nproduced from target genes can be inhibited by RNA interference\n(RNAi).\nStudents should be able to:\n- interpret data provided from investigations into gene\nexpression\n- evaluate appropriate data for the relative influences of\ngenetic and environmental factors on phenotype.",
+                  "children": []
+                },
+                {
+                  "code": "3.8.2.3",
+                  "title": "Gene expression and cancer (A-level only)",
+                  "level": 3,
+                  "content": "The main characteristics of benign and malignant tumours.\nThe role of the following in the development of tumours:\n- tumour suppressor genes and oncogenes\n- abnormal methylation of tumour suppressor genes and\noncogenes\n- increased oestrogen concentrations in the development of\nsome breast cancers.\nStudents should be able to:\n- evaluate evidence showing correlations between genetic and\nenvironmental factors and various forms of cancer\n- interpret information relating to the way in which an\nunderstanding of the roles of oncogenes and tumour\nsuppressor genes could be used in the prevention, treatment\nand cure of cancer.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.8.3",
+              "title": "Using genome projects (A-level only)",
+              "level": 2,
+              "content": "Sequencing projects have read the genomes of a wide range of\norganisms, including humans.\nDetermining the genome of simpler organisms allows the\nsequences of the proteins that derive from the genetic code (the\nproteome) of the organism to be determined. This may have many\napplications, including the identification of potential antigens for\nuse in vaccine production.\nIn more complex organisms, the presence of non-coding DNA and\nof regulatory genes means that knowledge of the genome cannot\neasily be translated into the proteome.\nSequencing methods are continuously updated and have become\nautomated.",
+              "children": []
+            },
+            {
+              "code": "3.8.4",
+              "title": "Gene technologies allow the study and alteration of gene function allowing a better understanding of organism function and the design of new industrial and medical processes (A-level only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.8.4.1",
+                  "title": "Recombinant DNA technology (A-level only)",
+                  "level": 3,
+                  "content": "Recombinant DNA technology involves the transfer of fragments of\nDNA from one organism, or species, to another. Since the genetic\ncode is universal, as are transcription and translation mechanisms,\nthe transferred DNA can be translated within cells of the recipient\n(transgenic) organism.\nFragments of DNA can be produced by several methods, including:\n- conversion of mRNA to complementary DNA (cDNA), using\nreverse transcriptase\n- using restriction enzymes to cut a fragment containing the\ndesired gene from DNA\n- creating the gene in a ‘gene machine’.\nFragments of DNA can be amplified by in vitro and in vivo\ntechniques.\nThe principles of the polymerase chain reaction (PCR) as an in\nvitro method to amplify DNA fragments.\nThe culture of transformed host cells as an in vivo method to\namplify DNA fragments.\n- The addition of promoter and terminator regions to the\nfragments of DNA.\n- The use of restriction endonucleases and ligases to insert\nfragments of DNA into vectors. Transformation of host cells\nusing these vectors.\n- The use of marker genes to detect genetically modified (GM)\ncells or organisms. (Students will not be required to recall\nspecific marker genes in a written paper.)\nStudents should be able to:\n- interpret information relating to the use of recombinant DNA\ntechnology\n- evaluate the ethical, financial and social issues associated\nwith the use and ownership of recombinant DNA technology\nin agriculture, in industry and in medicine\n- balance the humanitarian aspects of recombinant DNA\ntechnology with the opposition from environmentalists and\nanti-globalisation activists\n- relate recombinant DNA technology to gene therapy.\nAT g\nStudents could investigate\nthe specificity of restriction\nenzymes using extracted\nDNA and electrophoresis.",
+                  "children": []
+                },
+                {
+                  "code": "3.8.4.2",
+                  "title": "Differences in DNA between individuals of the same species can be exploited for identification and diagnosis of heritable conditions (A-level only)",
+                  "level": 3,
+                  "content": "The use of labelled DNA probes and DNA hybridisation to locate\nspecific alleles of genes.\nThe use of labelled DNA probes that can be used to screen\npatients for heritable conditions, drug responses or health risks.\nThe use of this information in genetic counselling and personalised\nmedicine.\nStudents should be able to evaluate information relating to\nscreening individuals for genetically determined conditions and\ndrug responses.",
+                  "children": []
+                },
+                {
+                  "code": "3.8.4.3",
+                  "title": "Genetic fingerprinting (A-level only)",
+                  "level": 3,
+                  "content": "An organism’s genome contains many variable number tandem\nrepeats (VNTRs). The probability of two individuals having the\nsame VNTRs is very low.\nThe technique of genetic fingerprinting in analysing DNA fragments\nthat have been cloned by PCR, and its use in determining genetic\nrelationships and in determining the genetic variability within a\npopulation.\nThe use of genetic fingerprinting in the fields of forensic science,\nmedical diagnosis, animal and plant breeding.\nStudents should be able to:\n- explain the biological principles that underpin genetic\nfingerprinting techniques\n- interpret data showing the results of gel electrophoresis to\nseparate DNA fragments\n- explain why scientists might use genetic fingerprinting in the\nfields of forensic science, medical diagnosis, animal and\nplant breeding.\nAT g\nStudents could use gel\nelectrophoresis to produce\n‘fingerprints’ of food dyes.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

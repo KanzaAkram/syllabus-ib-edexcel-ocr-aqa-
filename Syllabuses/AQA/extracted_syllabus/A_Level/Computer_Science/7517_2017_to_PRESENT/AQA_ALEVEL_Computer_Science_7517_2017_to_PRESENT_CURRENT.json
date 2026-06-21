@@ -1,0 +1,2577 @@
+{
+  "source_pdf": "A_Level/Computer_Science/7517_2017_to_PRESENT/AQA_ALEVEL_Computer_Science_7517_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "A_Level",
+  "subject": "Computer Science",
+  "spec_code": "7517",
+  "pdf_name": "AQA_ALEVEL_Computer_Science_7517_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 2,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content – AS",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Fundamentals of programming",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Programming",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.1.1.1",
+                  "title": "Data types",
+                  "level": 3,
+                  "content": "Understand the concept of a data type.\nUnderstand and use the following appropriately:\n- integer\n- real/float\n- Boolean\n- character\n- string\n- date/time\n- records (or equivalent)\n- arrays (or equivalent).\nDefine and use user-defined data types based\non language-defined (built-in) data types.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.2",
+                  "title": "Programming concepts",
+                  "level": 3,
+                  "content": "Use, understand and know how the following\nstatement types can be combined in programs:\n- variable declaration\n- constant declaration\n- assignment\n- iteration\n- selection\n- subroutine (procedure/function).\nUse definite and indefinite iteration, including\nindefinite iteration with the condition(s) at the\nstart or the end of the iterative structure. A\ntheoretical understanding of condition(s) at\neither end of an iterative structure is required,\nregardless of whether they are supported by the\nlanguage being used.\nUse nested selection and nested iteration\nstructures.\nUse meaningful identifier names and know why\nit is important to use them.\nThe three combining principles (sequence,\niteration/repetition and selection/choice) are\nbasic to all imperative programming languages.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.3",
+                  "title": "Arithmetic operations in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with and be able to use:\n- addition\n- subtraction\n- multiplication\n- real/float division\n- integer division, including remainders\n- exponentiation\n- rounding\n- truncation.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.4",
+                  "title": "Relational operations in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with and be able to use:\n- equal to\n- not equal to\n- less than\n- greater than\n- less than or equal to\n- greater than or equal to.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.5",
+                  "title": "Boolean operations in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with and be able to use:\n- NOT\n- AND\n- OR\n- XOR.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.6",
+                  "title": "Constants and variables in a programming language",
+                  "level": 3,
+                  "content": "Be able to explain the differences between a\nvariable and a constant.\nBe able to explain the advantages of using\nnamed constants.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.7",
+                  "title": "String-handling operations in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with and be able to use:\n- length\n- position\n- substring\n- concatenation\n- character → character code\n- character code → character\n- string conversion operations.\nExpected string conversion operations:\n- string to integer\n- string to float\n- integer to string\n- float to string\n- date/time to string\n- string to date/time.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.8",
+                  "title": "Random number generation in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with, and be able to use, random\nnumber generation.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.9",
+                  "title": "Exception handling",
+                  "level": 3,
+                  "content": "Be familiar with the concept of exception\nhandling.\nKnow how to use exception handling in a\nprogramming language with which students are\nfamiliar.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.10",
+                  "title": "Subroutines (procedures/functions)",
+                  "level": 3,
+                  "content": "Be familiar with subroutines and their uses.\nKnow that a subroutine is a named ‘out of line’\nblock of code that may be executed (called) by\nsimply writing its name in a program statement.\nBe able to explain the advantages of using\nsubroutines in programs.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.11",
+                  "title": "Parameters of subroutines",
+                  "level": 3,
+                  "content": "Be able to describe the use of parameters to\npass data within programs.\nBe able to use subroutines with interfaces.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.12",
+                  "title": "Returning a value/values from a subroutine",
+                  "level": 3,
+                  "content": "Be able to use subroutines that return values to\nthe calling routine.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.13",
+                  "title": "Local variables in subroutines",
+                  "level": 3,
+                  "content": "Know that subroutines may declare their own\nvariables, called local variables, and that local\nvariables:\n- exist only while the subroutine is\nexecuting\n- are accessible only within the subroutine.\nBe able to use local variables and explain why it\nis good practice to do so.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.14",
+                  "title": "Global variables in a programming language",
+                  "level": 3,
+                  "content": "Be able to contrast local variables with global\nvariables.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Procedural-oriented programming",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.1.2.1",
+                  "title": "Structured programming",
+                  "level": 3,
+                  "content": "Understand the structured approach to program\ndesign and construction.\nBe able to construct and use hierarchy charts\nwhen designing programs.\nBe able to explain the advantages of the\nstructured approach.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Fundamentals of data structures",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Data structures and abstract data types",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "Data structures",
+                  "level": 3,
+                  "content": "Be familiar with the concept of data structures.\nIt may be helpful to set the concept of a data\nstructure in various contexts that students may\nalready be familiar with. It may also be helpful\nto suggest/demonstrate how data structures\ncould be used in a practical setting.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Single- and multi-dimensional arrays (or equivalent)",
+                  "level": 3,
+                  "content": "Use arrays (or equivalent) in the design of\nsolutions to simple problems.\nA one-dimensional array is a useful way of\nrepresenting a vector. A two-dimensional array\nis a useful way of representing a matrix. More\ngenerally, an n-dimensional array is a set of\nelements with the same data type that are\nindexed by a tuple of n integers, where a tuple\nis an ordered list of elements.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.3",
+                  "title": "Fields, records and files",
+                  "level": 3,
+                  "content": "Be able to read/write from/to a text file.\nBe able to read/write data from/to a binary (non-\ntext) file.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Systematic approach to problem solving",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Aspects of software development",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.3.1.1",
+                  "title": "Analysis",
+                  "level": 3,
+                  "content": "Be aware that before a problem can be solved,\nit must be defined, the requirements of the\nsystem that solves the problem must be\nestablished and a data model created.\nStudents should have experience of using\nabstraction to model aspects of the external\nworld in a program.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.2",
+                  "title": "Design",
+                  "level": 3,
+                  "content": "Be aware that before constructing a solution,\nthe solution should be designed and specificed,\nfor example planning data structures for the\ndata model, designing algorithms, designing an\nappropriate modular structure for the solution\nand designing the human user interface.\nStudents should have sufficient experience of\nsuccessfully structuring programs into modular\nparts with clear documented interfaces to\nenable them to design appropriate modular\nstructures for solutions.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.3",
+                  "title": "Implementation",
+                  "level": 3,
+                  "content": "Be aware that the models and algorithms need\nto be implemented in the form of data structures\nand code (instructions) that a computer can\nunderstand.\nStudents should have sufficient practice of\nwriting, debugging and testing programs to\nenable them to develop the skills to articulate\nhow programs work, arguing for their\ncorrectness and efficiency using logical\nreasoning, test data and user feedback.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.4",
+                  "title": "Testing",
+                  "level": 3,
+                  "content": "Be aware that the implementation must be\ntested for the presence of errors, using selected\ntest data covering normal (typical), boundary\nand erroneous data.\nStudents should have practical experience of\ndesigning and applying test data, normal,\nboundary and erroneous to the testing of\nprograms so that they are familiar with these\ntest data types and the purpose of testing.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.5",
+                  "title": "Evaluation",
+                  "level": 3,
+                  "content": "Know the criteria for evaluating a computer\nsystem.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Theory of computation",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Abstraction and automation",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.4.1.1",
+                  "title": "Problem-solving",
+                  "level": 3,
+                  "content": "Be able to develop solutions to simple logic\nproblems.\nBe able to check solutions to simple logic\nproblems.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.2",
+                  "title": "Following and writing algorithms",
+                  "level": 3,
+                  "content": "Understand the term algorithm.\nBe able to express the solution to a simple\nproblem as an algorithm using pseudo-code,\nwith the standard constructs:\n- sequence\n- assignment\n- selection\n- iteration.\nBe able to hand-trace algorithms.\nBe able to convert an algorithm from pseudo-\ncode into high level language program code.\nBe able to articulate how a program works,\narguing for its correctness and its efficiency\nusing logical reasoning, test data and user\nfeedback.\nA sequence of steps that can be followed to\ncomplete a task and that always terminates.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.3",
+                  "title": "Abstraction",
+                  "level": 3,
+                  "content": "Be familiar with the concept of abstraction as\nused in computations and know that:\n- representational abstraction is a\nrepresentation arrived at by removing\nunnecessary details\n- abstraction by generalisation or\ncategorisation is a grouping by common\ncharacteristics to arrive at a hierarchical\nrelationship of the 'is a kind of' type.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.4",
+                  "title": "Information hiding",
+                  "level": 3,
+                  "content": "Be familiar with the process of hiding all details\nof an object that do not contribute to its essential\ncharacteristics.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.5",
+                  "title": "Procedural abstraction",
+                  "level": 3,
+                  "content": "Know that procedural abstraction represents a\ncomputational method.\nThe result of abstracting away the actual values\nused in any particular computation is a\ncomputational pattern or computational method\n- a procedure.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.6",
+                  "title": "Functional abstraction",
+                  "level": 3,
+                  "content": "Know that for functional abstraction the\nparticular computation method is hidden.\nThe result of a procedural abstraction is a\nprocedure, not a function. To get a function\nrequires yet another abstraction, which\ndisregards the particular computation method.\nThis is functional abstraction.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.7",
+                  "title": "Data abstraction",
+                  "level": 3,
+                  "content": "Know that details of how data are actually\nrepresented are hidden, allowing new kinds of\ndata objects to be constructed from previously\ndefined types of data objects.\nData abstraction is a methodology that enables\nus to isolate how a compound data object is\nused from the details of how it is constructed.\nFor example, a stack could be implemented as\nan array and a pointer for top of stack.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.8",
+                  "title": "Problem abstraction/reduction",
+                  "level": 3,
+                  "content": "Know that details are removed until the problem\nis represented in a way that is possible to solve\nbecause the problem reduces to one that has\nalready been solved.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.9",
+                  "title": "Decomposition",
+                  "level": 3,
+                  "content": "Know that procedural decomposition means\nbreaking a problem into a number of sub-\nproblems, so that each sub-problem\naccomplishes an identifiable task, which might\nitself be further subdivided.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.10",
+                  "title": "Composition",
+                  "level": 3,
+                  "content": "Know how to build a composition abstraction by\ncombining procedures to form compound\nprocedures.\nKnow how to build data abstractions by\ncombining data objects to form compound data,\nfor example tree data structure.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.11",
+                  "title": "Automation",
+                  "level": 3,
+                  "content": "Understand that automation requires putting\nmodels (abstraction of real world objects/\nphenomena) into action to solve problems. This\nis achieved by:\n- creating algorithms\n- implementing the algorithms in program\ncode (instructions)\n- implementing the models in data\nstructures\n- executing the code.\nComputer science is about building clean\nabstract models (abstractions) of messy, noisy,\nreal world objects or phenomena. Computer\nscientists have to choose what to include in\nmodels and what to discard, to determine the\nminimum amount of detail necessary to model\nin order to solve a given problem to the required\ndegree of accuracy.\nComputer science deals with putting the models\ninto action to solve problems. This involves\ncreating algorithms for performing actions on,\nand with, the data that has been modelled.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.4.2",
+              "title": "Finite state machines (FSMs)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.4.2.1",
+                  "title": "Finite state machines (FSMs) without output",
+                  "level": 3,
+                  "content": "Be able to draw and interpret simple state\ntransition diagrams and state transition tables\nfor FSMs with no output.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Fundamentals of data representation",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "Number systems",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.1.1",
+                  "title": "Natural numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a natural number\nand the set ℕ of natural numbers (including\nzero).\nℕ = {0, 1, 2, 3, … }",
+                  "children": []
+                },
+                {
+                  "code": "3.5.1.2",
+                  "title": "Integer numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of an integer and\nthe set ℤ of integers.\nℤ = { …, -3, -2, -1, 0, 1, 2, 3, … }",
+                  "children": []
+                },
+                {
+                  "code": "3.5.1.3",
+                  "title": "Rational numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a rational\nnumber and the set ℚ of rational numbers, and\nthat this set includes the integers.\nℚ is the set of numbers that can be written as\nfractions (ratios of integers). Since a number\nsuch as 7 can be written as 7/1, all integers are\nrational numbers.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.1.4",
+                  "title": "Irrational numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of an irrational\nnumber.\nAn irrational number is one that cannot be\nwritten as a fraction, for example √2.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.1.5",
+                  "title": "Real numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a real number\nand the set ℝ of real numbers, which includes\nthe natural numbers, the rational numbers, and\nthe irrational numbers.\nℝ is the set of all 'possible real world quantities'.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.1.6",
+                  "title": "Ordinal numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of ordinal numbers\nand their use to describe the numerical\npositions of objects.\nWhen objects are placed in order, ordinal\nnumbers are used to tell their position. For\nexample, if we have a well-ordered set S = {‘a’,\n‘b’, ‘c’, ‘d’}, then ‘a’ is the 1st object, ‘b’ the 2nd,\nand so on.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.1.7",
+                  "title": "Counting and measurement",
+                  "level": 3,
+                  "content": "Be familiar with the use of:\n- natural numbers for counting\n- real numbers for measurement.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.5.2",
+              "title": "Number bases",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.2.1",
+                  "title": "Number base",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a number base,\nin particular:\n- decimal (base 10)\n- binary (base 2)\n- hexadecimal (base 16).\nConvert between decimal, binary and\nhexadecimal number bases.\nBe familiar with, and able to use, hexadecimal\nas a shorthand for binary and to understand\nwhy it is used in this way.\nStudents should be familiar with expressing a\nnumber’s base using a subscript as follows:\nBase 10: Number10, eg 6710\nBase 2: Number2, eg 100110112\nBase 16: Number16, eg AE16",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.5.3",
+              "title": "Units of information",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.3.1",
+                  "title": "Bits and bytes",
+                  "level": 3,
+                  "content": "Know that:\n- the bit is the fundamental unit of\ninformation\n- a byte is a group of 8 bits.\nKnow that the 2n different values can be\nrepresented with n bits.\nA bit is either 0 or 1.\nFor example, 3 bits can be configured in 23 = 8\ndifferent ways.\n000, 001, 010, 011, 100, 101, 110, 111",
+                  "children": []
+                },
+                {
+                  "code": "3.5.3.2",
+                  "title": "Units",
+                  "level": 3,
+                  "content": "Know that quantities of bytes can be described\nusing binary prefixes representing powers of 2\nor using decimal prefixes representing powers\nof 10, eg one kibibyte is written as 1KiB = 210 B\nand one kilobyte is written as 1 kB = 103 B.\nKnow the names, symbols and corresponding\npowers of 2 for the binary prefixes:\nkibi, Ki - 210\n- mebi, Mi - 220\n- gibi, Gi - 230\n- tebi, Ti - 240\n- Know the names, symbols and corresponding\npowers of 10 for the decimal prefixes:\nkilo, k - 103\n- mega, M - 106\n- giga, G - 109\n- tera, T - 1012\n- Historically the terms kilobyte, megabyte, etc\nhave often been used when kibibyte, mebibyte,\netc are meant.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.5.4",
+              "title": "Binary number system",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.4.1",
+                  "title": "Unsigned binary",
+                  "level": 3,
+                  "content": "Know the difference between unsigned binary\nand signed binary.\nKnow that in unsigned binary the minimum and\nmaximum values for a given number of bits, n,\nare 0 and 2n -1 respectively.\nStudents are expected to be able to convert\nbetween unsigned binary and decimal and vice\nversa.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.4.2",
+                  "title": "Unsigned binary arithmetic",
+                  "level": 3,
+                  "content": "Be able to:\n- add two unsigned binary integers\n- multiply two unsigned binary integers.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.4.3",
+                  "title": "Signed binary using two’s complement",
+                  "level": 3,
+                  "content": "Know that signed binary can be used to\nrepresent negative integers and that one\npossible coding scheme is two’s complement.\nKnow how to:\n- represent negative and positive integers\nin two’s complement\n- perform subtraction using two’s\ncomplement\n- calculate the range of a given number of\nbits, n.\nThis is the only representation of negative\nintegers that will be examined. Students are\nexpected to be able to convert between signed\nbinary and decimal and vice versa.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.4.4",
+                  "title": "Numbers with a fractional part",
+                  "level": 3,
+                  "content": "Know how numbers with a fractional part can be\nrepresented in:\n- fixed point form in binary in a given\nnumber of bits.\nBe able to convert for each representation form:\n- decimal to binary of a given number of\nbits\n- binary to decimal of a given number of\nbits.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.5.5",
+              "title": "Information coding systems",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.5.1",
+                  "title": "Character form of a decimal digit",
+                  "level": 3,
+                  "content": "Differentiate between the character code\nrepresentation of a decimal digit and its pure\nbinary representation.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.5.2",
+                  "title": "ASCII and Unicode",
+                  "level": 3,
+                  "content": "Describe ASCII and Unicode coding systems\nfor coding character data and explain why\nUnicode was introduced.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.5.3",
+                  "title": "Error checking and correction",
+                  "level": 3,
+                  "content": "Describe and explain the use of:\n- parity bits\n- majority voting\n- check digits.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.5.6",
+              "title": "Representing images, sound and other data",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.6.1",
+                  "title": "Bit patterns, images, sound and other data",
+                  "level": 3,
+                  "content": "Describe how bit patterns may represent other\nforms of data, including graphics and sound.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.6.2",
+                  "title": "Analogue and digital",
+                  "level": 3,
+                  "content": "Understand the difference between analogue\nand digital:\n- data\n- signals.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.6.3",
+                  "title": "Analogue/digital conversion",
+                  "level": 3,
+                  "content": "Describe the principles of operation of:\n- an analogue to digital converter (ADC)\n- a digital to analogue converter (DAC).",
+                  "children": []
+                },
+                {
+                  "code": "3.5.6.4",
+                  "title": "Bitmapped graphics",
+                  "level": 3,
+                  "content": "Explain how bitmaps are represented.\nExplain the following for bitmaps:\n- resolution\n- colour depth\n- size in pixels.\nCalculate storage requirements for bitmapped\nimages and be aware that bitmap image files\nmay also contain metadata.\nBe familiar with typical metadata.\nThe size of an image is also alternatively\nsometimes described as the resolution of an\nimage.\nSize of an image in pixels is width of image in\npixels x height of image in pixels.\nResolution is expressed as number of dots per\ninch where a dot is a pixel.\nColour depth = number of bits stored for each\npixel.\nIgnoring metadata,\nstorage requirements = size in pixels x colour\ndepth\nwhere size in pixels is width in pixels x height in\npixels.\neg width, height, colour depth.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.6.5",
+                  "title": "Digital representation of sound",
+                  "level": 3,
+                  "content": "Describe the digital representation of sound in\nterms of:\n- sample resolution\n- sampling rate and the Nyquist theorem.\nCalculate sound sample sizes in bytes.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.6.6",
+                  "title": "Musical Instrument Digital Interface (MIDI)",
+                  "level": 3,
+                  "content": "Describe the purpose of MIDI and the use of\nevent messages in MIDI.\nDescribe the advantages of using MIDI files for\nrepresenting music.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.6.7",
+                  "title": "Data compression",
+                  "level": 3,
+                  "content": "Know why images and sound files are often\ncompressed and that other files, such as text\nfiles, can also be compressed.\nUnderstand the difference between lossless\nand lossy compression and explain the\nadvantages and disadvantages of each.\nExplain the principles behind the following\ntechniques for lossless compression:\n- run length encoding (RLE)\n- dictionary-based methods.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.6.8",
+                  "title": "Encryption",
+                  "level": 3,
+                  "content": "Understand what is meant by encryption and be\nable to define it.\nBe familiar with Caesar cipher and be able to\napply it to encrypt a plaintext message and\ndecrypt a ciphertext.\nBe able to explain why it is easily cracked.\nBe familiar with Vernam cipher or one-time pad\nand be able to apply it to encrypt a plaintext\nmessage and decrypt a ciphertext.\nExplain why Vernam cipher is considered as a\ncypher with perfect security.\nStudents should be familiar with the terms\ncipher, plaintext and ciphertext.\nCaesar and Vernam ciphers are at opposite\nextremes. One offers perfect security, the other\ndoesn’t. Between these two types are ciphers\nthat are computationally secure – see below.\nStudents will be assessed on the two types.\nCiphers other than Caesar may be used to\nassess students' understanding of the principles\ninvolved. These will be explained and be similar\nin terms of computational complexity.\nSince the key k is chosen uniformly at random,\nthe ciphertext c is also distributed uniformly.\nThe key k must be used once only. The key k is\nknown as a one-time pad.\nCompare Vernam cipher with ciphers that\ndepend on computational security.\nVernam cipher is the only one to have been\nmathematically proved to be completely secure.\nThe worth of all other ciphers ever devised is\nbased on computational security. In theory,\nevery cryptographic algorithm except for\nVernam cipher can be broken, given enough\nciphertext and time.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.6",
+          "title": "Fundamentals of computer systems",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.6.1",
+              "title": "Hardware and software",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.6.1.1",
+                  "title": "Relationship between hardware and software",
+                  "level": 3,
+                  "content": "Understand the relationship between hardware\nand software and be able to define the terms:\n- hardware\n- software.",
+                  "children": []
+                },
+                {
+                  "code": "3.6.1.2",
+                  "title": "Classification of software",
+                  "level": 3,
+                  "content": "Explain what is meant by:\n- system software\n- application software.\nUnderstand the need for, and attributes of,\ndifferent types of software.",
+                  "children": []
+                },
+                {
+                  "code": "3.6.1.3",
+                  "title": "System software",
+                  "level": 3,
+                  "content": "Understand the need for, and functions of the\nfollowing system software:\n- operating systems (OSs)\n- utility programs\n- libraries\n- translators (compiler, assembler,\ninterpreter).",
+                  "children": []
+                },
+                {
+                  "code": "3.6.1.4",
+                  "title": "Role of an operating system (OS)",
+                  "level": 3,
+                  "content": "Understand that a role of the operating system\nis to hide the complexities of the hardware.\nKnow that the OS handles resource\nmanagement, managing hardware to allocate\nprocessors, memories and I/O devices among\ncompeting processes.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.6.2",
+              "title": "Classification of programming languages",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.6.2.1",
+                  "title": "Classification of programming languages",
+                  "level": 3,
+                  "content": "Show awareness of the development of types of\nprogramming languages and their classification\ninto low-and high-level languages.\nKnow that low-level languages are considered\nto be:\n- machine-code\n- assembly language.\nKnow that high-level languages include\nimperative high level-language.\nDescribe machine-code language and\nassembly language.\nUnderstand the advantages and disadvantages\nof machine-code and assembly language\nprogramming compared with high-level\nlanguage programming.\nExplain the term ‘imperative high-level\nlanguage’ and its relationship to low-level\nlanguages.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.6.3",
+              "title": "Types of program translator",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.6.3.1",
+                  "title": "Types of program translator",
+                  "level": 3,
+                  "content": "Understand the role of each of the following:\n- assembler\n- compiler\n- interpreter.\nExplain the differences between compilation\nand interpretation. Describe situations in which\neach would be appropriate.\nExplain why an intermediate language such as\nbytecode is produced as the final output by\nsome compilers and how it is subsequently\nused.\nUnderstand the difference between source and\nobject (executable) code.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.6.4",
+              "title": "Logic gates",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.6.4.1",
+                  "title": "Logic gates",
+                  "level": 3,
+                  "content": "Construct truth tables for the following logic\ngates:\n- NOT\n- AND\n- OR\n- XOR\n- NAND\n- NOR.\nBe familiar with drawing and interpreting logic\ngate circuit diagrams involving one or more of\nthe above gates.\nComplete a truth table for a given logic gate\ncircuit.\nWrite a Boolean expression for a given logic\ngate circuit.\nStudents should know and be able to use ANSI/\nIEEE standard 91-1984 Distinctive shape logic\ngate symbols for these logic gates.\nDraw an equivalent logic gate circuit for a given\nBoolean expression.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.6.5",
+              "title": "Boolean algebra",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.6.5.1",
+                  "title": "Using Boolean algebra",
+                  "level": 3,
+                  "content": "Be familiar with the use of Boolean identities\nand De Morgan’s laws to manipulate and\nsimplify Boolean expressions.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.7",
+          "title": "Fundamentals of computer organisation and architecture",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.7.1",
+              "title": "Internal hardware components of a computer",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.7.1.1",
+                  "title": "Internal hardware components of a computer",
+                  "level": 3,
+                  "content": "Have an understanding and knowledge of the\nbasic internal components of a computer\nsystem.\nUnderstand the role of the following\ncomponents and how they relate to each other:\n- processor\n- main memory\n- address bus\n- data bus\n- control bus\n- I/O controllers.\nUnderstand the need for, and means of,\ncommunication between components. In\nparticular, understand the concept of a bus and\nhow address, data and control buses are used.\nAlthough exam questions about specific\nmachines will not be asked, it might be useful to\nbase this section on the machines used at the\ncentre.\nBe able to explain the difference between von\nNeumann and Harvard architectures and\ndescribe where each is typically used.\nUnderstand the concept of addressable\nmemory.\nEmbedded systems such as digital signal\nprocessing (DSP) systems use Harvard\narchitecture processors extensively.\nVon Neumann architecture is used extensively\nin general purpose computing systems.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.7.2",
+              "title": "The stored program concept",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.7.2.1",
+                  "title": "The meaning of the stored program concept",
+                  "level": 3,
+                  "content": "Be able to describe the stored program\nconcept: machine code instructions stored in\nmain memory are fetched and executed serially\nby a processor that performs arithmetic and\nlogical operations.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.7.3",
+              "title": "Structure and role of the processor and its components",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.7.3.1",
+                  "title": "The processor and its components",
+                  "level": 3,
+                  "content": "Explain the role and operation of a processor\nand its major components:\n- arithmetic logic unit\n- control unit\n- clock\n- general-purpose registers\n- dedicated registers, including:\n- program counter\n- current instruction register\n- memory address register\n- memory buffer register\n- status register.",
+                  "children": []
+                },
+                {
+                  "code": "3.7.3.2",
+                  "title": "The Fetch-Execute cycle and the role of registers within it",
+                  "level": 3,
+                  "content": "Explain how the Fetch-Execute cycle is used to\nexecute machine code programs, including the\nstages in the cycle (fetch, decode, execute) and\ndetails of registers used.",
+                  "children": []
+                },
+                {
+                  "code": "3.7.3.3",
+                  "title": "The processor instruction set",
+                  "level": 3,
+                  "content": "Understand the term ‘processor instruction set’\nand know that an instruction set is processor\nspecific.\nKnow that instructions consist of an opcode and\none or more operands (value, memory address\nor register).\nA simple model will be used in which the\naddressing mode will be incorporated into the\nbits allocated to the opcode so the latter defines\nboth the basic machine operation and the\naddressing mode. Students will not be expected\nto define opcode, only interpret opcodes in the\ngiven context of a question.\nFor example, 4 bits have been allocated to the\nopcode (3 bits for basic machine operation, eg\nADD, and 1 bit for the addressing mode). 4 bits\nhave been allocated to the operand, making the\ninstruction, opcode + operand, 8 bits in length.\nIn this example, 16 different opcodes are\npossible (24 = 16).",
+                  "children": []
+                },
+                {
+                  "code": "3.7.3.4",
+                  "title": "Addressing modes",
+                  "level": 3,
+                  "content": "Understand and apply immediate and direct\naddressing modes.\nImmediate addressing: the operand is the\ndatum.\nDirect addressing: the operand is the address of\nthe datum. Address to be interpreted as\nmeaning either main memory or register.",
+                  "children": []
+                },
+                {
+                  "code": "3.7.3.5",
+                  "title": "Machine-code/assembly language operations",
+                  "level": 3,
+                  "content": "Understand and apply the basic machine-code\noperations of:\n- load\n- add\n- subtract\n- store\n- branching (conditional and unconditional)\n- compare\n- logical bitwise operators (AND, OR, NOT,\nXOR)\n- logical\n- shift right\n- shift left\n- halt.\nUse the basic machine-code operations above\nwhen machine-code instructions are expressed\nin mnemonic form- assembly language, using\nimmediate and direct addressing.",
+                  "children": []
+                },
+                {
+                  "code": "3.7.3.6",
+                  "title": "Factors affecting processor performance",
+                  "level": 3,
+                  "content": "Explain the effect on processor performance of:\n- multiple cores\n- cache memory\n- clock speed\n- word length\n- address bus width\n- data bus width.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.7.4",
+              "title": "External hardware devices",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.7.4.1",
+                  "title": "Input and output devices",
+                  "level": 3,
+                  "content": "Know the main characteristics, purposes and\nsuitability of the devices and understand their\nprinciples of operation.\nDevices that need to be considered are:\n- barcode reader\n- digital camera\n- laser printer\n- RFID.",
+                  "children": []
+                },
+                {
+                  "code": "3.7.4.2",
+                  "title": "Secondary storage devices",
+                  "level": 3,
+                  "content": "Explain the need for secondary storage within a\ncomputer system.\nKnow the main characteristics, purposes,\nsuitability and understand the principles of\noperation of the following devices:\n- hard disk\n- optical disk\n- solid-state disk (SSD).\nCompare the capacity and speed of access of\nvarious media and make a judgement about\ntheir suitability for different applications.\nSSD = NAND flash memory + a controller that\nmanages pages, and blocks and complexities of\nwriting. Based on floating gate transistors that\ntrap and store charge. A block, made up of\nmany pages, cannot overwrite pages, page has\nto be erased before it can be written to but\ntechnology requires the whole block to be\nerased. Lower latency and faster transfer\nspeeds than a magnetic disk drive.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.8",
+          "title": "Consequences of uses of computing",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.8.1",
+              "title": "Individual (moral), social (ethical), legal and cultural issues and opportunities",
+              "level": 2,
+              "content": "Show awareness of current individual (moral),\nsocial (ethical), legal and cultural opportunities\nand risks of computing.\nUnderstand that:\n- developments in computer science and\nthe digital technologies have dramatically\naltered the shape of communications and\ninformation flows in societies, enabling\nmassive transformations in the capacity\nto:\n- monitor behaviour\n- amass and analyse personal\ninformation\n- distribute, publish, communicate and\ndisseminate personal information.\n- computer scientists and software\nengineers therefore have power, as well\nas the responsibilities that go with it, in the\nalgorithms that they devise and the code\nthat they deploy.\n- software and their algorithms embed\nmoral and cultural values.\n- the issue of scale, for software the whole\nworld over, creates potential for individual\ncomputer scientists and software\nengineers to produce great good, but with\nit comes the ability to cause great harm.\nBe able to discuss the challenges facing\nlegislators in the digital age.\nTeachers may wish to employ two very powerful\ntechniques, hypotheticals and case studies, to\nengage students in the issues.\nHypotheticals allow students to isolate quickly\nimportant ethical principles in an artificially\nsimplified context. For example, a teacher might\nask students to explain and defend how, as a\nGoogle project manager, they would evaluate a\nproposal to bring Google’s Street View\ntechnology to a remote African village. What\nquestions should be asked? Who should be\nconsulted? What benefits, risks and safeguards\nconsidered? What are the trade-offs?\nCase studies allow students to confront the\ntricky interplay between the sometimes\ncompeting ethical values and principles relevant\nin real world settings. For example, the Google\nStreet View case might be used to tease out the\nethical conflicts between individual and cultural\nexpectations, the principle of informed consent,\nStreet View’s value as a service, its potential\nimpact on human perceptions and behaviours,\nand its commercial value to Google and its\nshareholders.\nThere are many resources available on the\nInternet to support teaching of this topic.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.9",
+          "title": "Fundamentals of communication and networking",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.9.1",
+              "title": "Communication",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.9.1.1",
+                  "title": "Communication methods",
+                  "level": 3,
+                  "content": "Define serial and parallel transmission methods\nand discuss the advantages of serial over\nparallel transmission.\nDefine and compare synchronous and\nasynchronous data transmission.\nDescribe the purpose of start and stop bits in\nasynchronous data transmission.",
+                  "children": []
+                },
+                {
+                  "code": "3.9.1.2",
+                  "title": "Communication basics",
+                  "level": 3,
+                  "content": "Define:\n- baud rate\n- bit rate\n- bandwidth\n- latency\n- protocol.\nDifferentiate between baud rate and bit rate.\nUnderstand the relationship between bit rate\nand bandwidth.\nBit rate can be higher than baud rate if more\nthan one bit is encoded in each signal change.\nBit rate is directly proportionate to bandwidth.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.9.2",
+              "title": "Networking",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.9.2.1",
+                  "title": "Network topology",
+                  "level": 3,
+                  "content": "Understand:\n- physical star topology\n- logical bus network topology\nand:\n- differentiate between them\n- explain their operation\nA network physically wired in star topology can\nbehave logically as a bus network by using a\nbus protocol and appropriate physical switching.",
+                  "children": []
+                },
+                {
+                  "code": "3.9.2.2",
+                  "title": "Types of networking between hosts",
+                  "level": 3,
+                  "content": "Explain the following and describe situations\nwhere they might be used:\n- peer-to-peer networking\n- client-server networking.\nIn a peer-to-peer network, each computer has\nequal status. In a client-server network, most\ncomputers are nominated as clients and one or\nmore as servers. The clients request services\nfrom the servers, which provide these services,\nfor example file server, email server.",
+                  "children": []
+                },
+                {
+                  "code": "3.9.2.3",
+                  "title": "Wireless networking",
+                  "level": 3,
+                  "content": "Explain the purpose of WiFi.\nBe familiar with the components required for\nwireless networking.\nBe familiar with how wireless networks are\nsecured.\nExplain the wireless protocol Carrier Sense\nMultiple Access with Collision Avoidance\n(CSMA/CA) with and without Request to Send/\nClear to Send (RTS/CTS).\nBe familiar with the purpose of Service Set\nIdentifier (SSID).\nA wireless local area network that is based on\ninternational standards.\nUsed to enable devices to connect to a network\nwirelessly.\nWireless network adapter.\nWireless access point.\nStrong encryption of transmitted data using\nWPA (Wifi Protected Access)/WPA2, SSID\n(Service Set Identifier) broadcast disabled,\nMAC (Media Access Control) address allow list.\nKnowledge of Carrier Sense Multiple Access/\nCollection Detection (CSMA/CD) as used in, for\nexample, Ethernet, is not required.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_code": "4",
+      "section_title": "Subject content – A-level",
+      "topics": [
+        {
+          "code": "4.1",
+          "title": "Fundamentals of programming",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.1.1",
+              "title": "Programming",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.1.1",
+                  "title": "Data types",
+                  "level": 3,
+                  "content": "Understand the concept of a data type.\nUnderstand and use the following appropriately:\n- integer\n- real/float\n- Boolean\n- character\n- string\n- date/time\n- pointer/reference\n- records (or equivalent)\n- arrays (or equivalent).\nDefine and use user-defined data types based\non language-defined (built-in) data types.\nVariables declared as a pointer or reference\ndata type are used as stores for memory\naddresses of objects created at runtime, ie\ndynamically. Not all languages support explicit\npointer types, but students should have an\nopportunity to understand this data type.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.2",
+                  "title": "Programming concepts",
+                  "level": 3,
+                  "content": "Use, understand and know how the following\nstatement types can be combined in programs:\n- variable declaration\n- constant declaration\n- assignment\n- iteration\n- selection\n- subroutine (procedure/function).\nUse definite and indefinite iteration, including\nindefinite iteration with the condition(s) at the\nstart or the end of the iterative structure. A\ntheoretical understanding of condition(s) at\neither end of an iterative structure is required,\nregardless of whether they are supported by the\nlanguage being used.\nUse nested selection and nested iteration\nstructures.\nUse meaningful identifier names and know why\nit is important to use them.\nThe three combining principles (sequence,\niteration/repetition and selection/choice) are\nbasic to all imperative programming languages.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.3",
+                  "title": "Arithmetic operations in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with and be able to use:\n- addition\n- subtraction\n- multiplication\n- real/float division\n- integer division, including remainders\n- exponentiation\n- rounding\n- truncation.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.4",
+                  "title": "Relational operations in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with and be able to use:\n- equal to\n- not equal to\n- less than\n- greater than\n- less than or equal to\n- greater than or equal to.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.5",
+                  "title": "Boolean operations in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with and be able to use:\n- NOT\n- AND\n- OR\n- XOR.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.6",
+                  "title": "Constants and variables in a programming language",
+                  "level": 3,
+                  "content": "Be able to explain the differences between a\nvariable and a constant.\nBe able to explain the advantages of using\nnamed constants.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.7",
+                  "title": "String-handling operations in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with and be able to use:\n- length\n- position\n- substring\n- concatenation\n- character → character code\n- character code → character\n- string conversion operations.\nExpected string conversion operations:\n- string to integer\n- string to float\n- integer to string\n- float to string\n- date/time to string\n- string to date/time.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.8",
+                  "title": "Random number generation in a programming language",
+                  "level": 3,
+                  "content": "Be familiar with, and be able to use, random\nnumber generation.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.9",
+                  "title": "Exception handling",
+                  "level": 3,
+                  "content": "Be familiar with the concept of exception\nhandling.\nKnow how to use exception handling in a\nprogramming language with which students are\nfamiliar.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.10",
+                  "title": "Subroutines (procedures/functions)",
+                  "level": 3,
+                  "content": "Be familiar with subroutines and their uses.\nKnow that a subroutine is a named ‘out of line’\nblock of code that may be executed (called) by\nsimply writing its name in a program statement.\nBe able to explain the advantages of using\nsubroutines in programs.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.11",
+                  "title": "Parameters of subroutines",
+                  "level": 3,
+                  "content": "Be able to describe the use of parameters to\npass data within programs.\nBe able to use subroutines with interfaces.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.12",
+                  "title": "Returning a value/values from a subroutine",
+                  "level": 3,
+                  "content": "Be able to use subroutines that return values to\nthe calling routine.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.13",
+                  "title": "Local variables in subroutines",
+                  "level": 3,
+                  "content": "Know that subroutines may declare their own\nvariables, called local variables, and that local\nvariables:\n- exist only while the subroutine is\nexecuting\n- are accessible only within the subroutine.\nBe able to use local variables and explain why it\nis good practice to do so.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.14",
+                  "title": "Global variables in a programming language",
+                  "level": 3,
+                  "content": "Be able to contrast local variables with global\nvariables.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.15",
+                  "title": "Role of stack frames in subroutine calls",
+                  "level": 3,
+                  "content": "Be able to explain how a stack frame is used\nwith subroutine calls to store:\n- return addresses\n- parameters\n- local variables.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.16",
+                  "title": "Recursive techniques",
+                  "level": 3,
+                  "content": "Be familiar with the use of recursive techniques\nin programming languages (general and base\ncases and the mechanism for implementation).\nBe able to solve simple problems using\nrecursion.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.2",
+              "title": "Programming paradigms",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.2.1",
+                  "title": "Programming paradigms",
+                  "level": 3,
+                  "content": "Understand the characteristics of the\nprocedural- and object-oriented programming\nparadigms, and have experience of\nprogramming in each.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.2",
+                  "title": "Procedural-oriented programming",
+                  "level": 3,
+                  "content": "Understand the structured approach to program\ndesign and construction.\nBe able to construct and use hierarchy charts\nwhen designing programs.\nBe able to explain the advantages of the\nstructured approach.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.3",
+                  "title": "Object-oriented programming",
+                  "level": 3,
+                  "content": "Be familiar with the concepts of:\n- class\n- object\n- instantiation\n- encapsulation\n- inheritance\n- aggregation\n- composition\n- polymorphism\n- overriding.\nKnow why the object-oriented paradigm is used.\nBe aware of the following object-oriented design\nprinciples:\n- encapsulate what varies\n- favour composition over inheritance\n- program to interfaces, not implementation.\nStudents should know that:\n- a class defines methods and property/\nattribute fields that capture the common\nbehaviours and characteristics of objects\n- objects based on a class are created\nusing a constructor, implicit or explicit, and\na reference to the object assigned to a\nreference variable of the class type\n- in the Unified Modelling Language (UML)\ncomposition is represented by a black\ndiamond line and aggregation by a white\ndiamond line.\nStudents would benefit from practical\nexperience of programming to an interface, but\nwill not be explicitly tested on programming to\ninterfaces or be required to program to\ninterfaces in any practical exam.\nBe able to write object-oriented programs.\nBe able to draw and interpret class diagrams.\nPractical experience of coding for user-defined\nclasses involving:\n- abstract, virtual and static methods\n- inheritance\n- aggregation\n- polymorphism\n- public, private and protected specifiers.\nClass diagrams involving single inheritance,\ncomposition (black diamond line), aggregation\n(white diamond line), public (+), private (-) and\nprotected (#) specifiers.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.2",
+          "title": "Fundamentals of data structures",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.2.1",
+              "title": "Data structures and abstract data types",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.1.1",
+                  "title": "Data structures",
+                  "level": 3,
+                  "content": "Be familiar with the concept of data structures.\nIt may be helpful to set the concept of a data\nstructure in various contexts that students may\nalready be familiar with. It may also be helpful\nto suggest/demonstrate how data structures\ncould be used in a practical setting.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.2",
+                  "title": "Single- and multi-dimensional arrays (or equivalent)",
+                  "level": 3,
+                  "content": "Use arrays (or equivalent) in the design of\nsolutions to simple problems.\nA one-dimensional array is a useful way of\nrepresenting a vector. A two-dimensional array\nis a useful way of representing a matrix. More\ngenerally, an n-dimensional array is a set of\nelements with the same data type that are\nindexed by a tuple of n integers, where a tuple\nis an ordered list of elements.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.3",
+                  "title": "Fields, records and files",
+                  "level": 3,
+                  "content": "Be able to read/write from/to a text file.\nBe able to read/write data from/to a binary (non-\ntext) file.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.4",
+                  "title": "Abstract data types/data structures",
+                  "level": 3,
+                  "content": "Be familiar with the concept and uses of a:\n- queue\n- stack\n- graph\n- tree\n- hash table\n- dictionary\n- vector.\nBe able to distinguish between static and\ndynamic structures and compare their uses, as\nwell as explaining the advantages and\ndisadvantages of each.\nDescribe the creation and maintenance of data\nwithin:\n- queues (linear, circular, priority)\n- stacks\n- hash tables.\nBe able to use these abstract data types and\ntheir equivalent data structures in simple\ncontexts.\nStudents should also be familiar with methods\nfor representing them when a programming\nlanguage does not support these structures as\nbuilt-in types.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.2",
+              "title": "Queues",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.2.1",
+                  "title": "Queues",
+                  "level": 3,
+                  "content": "Be able to describe and apply the following to\nlinear queues, circular queues and priority\nqueues:\n- add an item\n- remove an item\n- test for an empty queue\n- test for a full queue.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.3",
+              "title": "Stacks",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.3.1",
+                  "title": "Stacks",
+                  "level": 3,
+                  "content": "Be able to describe and apply the following\noperations:\n- push\n- pop\n- peek or top\n- test for empty stack\n- test for stack full.\nPeek or top returns the value of the top element\nwithout removing it.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.4",
+              "title": "Graphs",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.4.1",
+                  "title": "Graphs",
+                  "level": 3,
+                  "content": "Be aware of a graph as a data structure used to\nrepresent more complex relationships.\nBe familiar with typical uses for graphs.\nBe able to explain the terms:\n- graph\n- weighted graph\n- vertex/node\n- edge/arc\n- undirected graph\n- directed graph.\nKnow how an adjacency matrix and an\nadjacency list may be used to represent a\ngraph.\nBe able to compare the use of adjacency\nmatrices and adjacency lists.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.5",
+              "title": "Trees",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.5.1",
+                  "title": "Trees (including binary trees)",
+                  "level": 3,
+                  "content": "Know that a tree is a connected, undirected\ngraph with no cycles.\nNote that a tree does not have to have a root.\nKnow that a rooted tree is a tree in which one\nvertex has been designated as the root. A\nrooted tree has parent-child relationships\nbetween nodes. The root is the only node with\nno parent and all other nodes are descendants\nof the root.\nKnow that a binary tree is a rooted tree in which\neach node has at most two children.\nBe familiar with typical uses for rooted trees.\nA common application of a binary tree is as a\nbinary search tree.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.6",
+              "title": "Hash tables",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.6.1",
+                  "title": "Hash tables",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a hash table and\nits uses.\nBe able to apply simple hashing algorithms.\nKnow what is meant by a collision and how\ncollisions are handled using rehashing.\nA hash table is a data structure that creates a\nmapping between keys and values.\nA collision occurs when two key values\ncompute the same hash.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.7",
+              "title": "Dictionaries",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.7.1",
+                  "title": "Dictionaries",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a dictionary.\nBe familiar with simple applications of\ndictionaries, for example information retrieval,\nand have experience of using a dictionary data\nstructure in a programming language.\nA collection of key-value pairs in which the\nvalue is accessed via the associated key.\nInformation retrieval:\nFor example, the document 'The green, green\ngrass grows' would be represented by the\ndictionary:\n{‘grass’ : 1, ‘green’ : 2, ‘grows’ : 1, ‘the’ : 1}\nignoring letter case.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.8",
+              "title": "Vectors",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.8.1",
+                  "title": "Vectors",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a vector and the\nfollowing notations for specifying a vector:\n- [2.0, 3.14159, -1.0, 2.718281828]\n4-vector over ℝ written as ℝ4\n- function interpretation\n0 ↦ 2.0\n- 1 ↦ 3.14159\n- 2 ↦ -1.0\n- 3 ↦ 2.718281828\n- ↦ means maps to\n- That all the entries must be drawn from the\nsame field, eg ℝ.\nDictionary representation of a vector.\nList representation of a vector.\n1-D array representation of a vector.\nVisualising a vector as an arrow.\nVector addition and scalar-vector multiplication.\nConvex combination of two vectors, u and v.\nDot or scalar product of two vectors.\nApplications of dot product.\nA vector can be represented as a list of\nnumbers, as a function and as a way of\nrepresenting a geometric point in space.\nA dictionary is a useful way of representing a\nvector if a vector is viewed as a function.\nf : S → ℝ\nthe set S = {0,1,2,3} and the co-domain, ℝ, the\nset of Reals\nFor example, in Python the 4-vector example\ncould be represented as a dictionary as follows:\n{0:2.0, 1:3.14159, 2:-1.0, 3:2.718281828}\nSee above.\nFor example, in Python, a 2-vector over ℝ\nwould be written as [2.0,3.0].\nFor example in VB.Net, a 4-vector over ℝ would\nbe written as Dim example(3) As Single.\nFor example a 2-vector [2.0, 3.0] over ℝ can be\nrepresented by an arrow with its tail at the origin\nand its head at (2.0, 3.0).\nKnow that vector addition achieves translation\nand scalar-vector multiplication achieves\nscaling.\nIs an expression of the form αu + βv where α, β\n≥ 0 and α + β = 1\nThe dot product of two vectors, u and v,\nu = [u1, …., un ] and v = [v1, ….., vn ] is\nu ∙ v = u1v1 + u2v2 + …… + unvn\nFinding the angle between two vectors.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.3",
+          "title": "Fundamentals of algorithms",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.3.1",
+              "title": "Graph-traversal",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.1.1",
+                  "title": "Simple graph-traversal algorithms",
+                  "level": 3,
+                  "content": "Be able to trace breadth-first and depth-first\nsearch algorithms and describe typical\napplications of both.\nBreadth-first: shortest path for an unweighted\ngraph.\nDepth-first: Navigating a maze.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.2",
+              "title": "Tree-traversal",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.2.1",
+                  "title": "Simple tree-traversal algorithms",
+                  "level": 3,
+                  "content": "Be able to trace the tree-traversal algorithms:\n- pre-order\n- post-order\n- in-order.\nBe able to describe uses of tree-traversal\nalgorithms.\nPre-Order: copying a tree.\nIn-Order: binary search tree, outputting the\ncontents of a binary search tree in ascending\norder.\nPost-Order: Infix to RPN (Reverse Polish\nNotation) conversions, producing a postfix\nexpression from an expression tree, emptying a\ntree.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.3",
+              "title": "Reverse Polish",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.3.1",
+                  "title": "Reverse Polish – infix transformations",
+                  "level": 3,
+                  "content": "Be able to convert simple expressions in infix\nform to Reverse Polish notation (RPN) form and\nvice versa. Be aware of why and where it is\nused.\nEliminates need for brackets in sub-\nexpressions.\nExpressions in a form suitable for evaluation\nusing a stack.\nUsed in interpreters based on a stack for\nexample Postscript and bytecode.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.4",
+              "title": "Searching algorithms",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.4.1",
+                  "title": "Linear search",
+                  "level": 3,
+                  "content": "Know and be able to trace and analyse the\ncomplexity of the linear search algorithm.\nTime complexity is O(n).",
+                  "children": []
+                },
+                {
+                  "code": "4.3.4.2",
+                  "title": "Binary search",
+                  "level": 3,
+                  "content": "Know and be able to trace and analyse the time\ncomplexity of the binary search algorithm.\nTime complexity is O(log n).",
+                  "children": []
+                },
+                {
+                  "code": "4.3.4.3",
+                  "title": "Binary tree search",
+                  "level": 3,
+                  "content": "Be able to trace and analyse the time\ncomplexity of the binary tree search algorithm.\nTime complexity is O(log n).",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.5",
+              "title": "Sorting algorithms",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.5.1",
+                  "title": "Bubble sort",
+                  "level": 3,
+                  "content": "Know and be able to trace and analyse the time\ncomplexity of the bubble sort algorithm.\nThis is included as an example of a particularly\ninefficient sorting algorithm, time-wise. Time\ncomplexity is O(n2).",
+                  "children": []
+                },
+                {
+                  "code": "4.3.5.2",
+                  "title": "Merge sort",
+                  "level": 3,
+                  "content": "Be able to trace and analyse the time\ncomplexity of the merge sort algorithm.\nThe 'merge' sort is an example of 'Divide and\nConquer' approach to problem solving. Time\ncomplexity is O(nlog n).",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.6",
+              "title": "Optimisation algorithms",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.6.1",
+                  "title": "Dijkstra’s shortest path algorithm",
+                  "level": 3,
+                  "content": "Understand and be able to trace Dijkstra’s\nshortest path algorithm.\nBe aware of applications of shortest path\nalgorithm.\nStudents will not be expected to recall the steps\nin Dijkstra's shortest path algorithm.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.4",
+          "title": "Theory of computation",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.4.1",
+              "title": "Abstraction and automation",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.1.1",
+                  "title": "Problem-solving",
+                  "level": 3,
+                  "content": "Be able to develop solutions to simple logic\nproblems.\nBe able to check solutions to simple logic\nproblems.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.2",
+                  "title": "Following and writing algorithms",
+                  "level": 3,
+                  "content": "Understand the term algorithm.\nBe able to express the solution to a simple\nproblem as an algorithm using pseudo-code,\nwith the standard constructs:\n- sequence\n- assignment\n- selection\n- iteration.\nBe able to hand-trace algorithms.\nBe able to convert an algorithm from pseudo-\ncode into high level language program code.\nA sequence of steps that can be followed to\ncomplete a task and that always terminates.\nBe able to articulate how a program works,\narguing for its correctness and its efficiency\nusing logical reasoning, test data and user\nfeedback.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.3",
+                  "title": "Abstraction",
+                  "level": 3,
+                  "content": "Be familiar with the concept of abstraction as\nused in computations and know that:\n- representational abstraction is a\nrepresentation arrived at by removing\nunnecessary details\n- abstraction by generalisation or\ncategorisation is a grouping by common\ncharacteristics to arrive at a hierarchical\nrelationship of the 'is a kind of' type.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.4",
+                  "title": "Information hiding",
+                  "level": 3,
+                  "content": "Be familiar with the process of hiding all details\nof an object that do not contribute to its\nessential characteristics.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.5",
+                  "title": "Procedural abstraction",
+                  "level": 3,
+                  "content": "Know that procedural abstraction represents a\ncomputational method.\nThe result of abstracting away the actual values\nused in any particular computation is a\ncomputational pattern or computational method\n- a procedure.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.6",
+                  "title": "Functional abstraction",
+                  "level": 3,
+                  "content": "Know that for functional abstraction the\nparticular computation method is hidden.\nThe result of a procedural abstraction is a\nprocedure, not a function. To get a function\nrequires yet another abstraction, which\ndisregards the particular computation method.\nThis is functional abstraction.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.7",
+                  "title": "Data abstraction",
+                  "level": 3,
+                  "content": "Know that details of how data are actually\nrepresented are hidden, allowing new kinds of\ndata objects to be constructed from previously\ndefined types of data objects.\nData abstraction is a methodology that enables\nus to isolate how a compound data object is\nused from the details of how it is constructed.\nFor example, a stack could be implemented as\nan array and a pointer for top of stack.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.8",
+                  "title": "Problem abstraction/reduction",
+                  "level": 3,
+                  "content": "Know that details are removed until the problem\nis represented in a way that is possible to solve,\nbecause the problem reduces to one that has\nalready been solved.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.9",
+                  "title": "Decomposition",
+                  "level": 3,
+                  "content": "Know that procedural decomposition means\nbreaking a problem into a number of sub-\nproblems, so that each sub-problem\naccomplishes an identifiable task, which might\nitself be further subdivided.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.10",
+                  "title": "Composition",
+                  "level": 3,
+                  "content": "Know how to build a composition abstraction by\ncombining procedures to form compound\nprocedures.\nKnow how to build data abstractions by\ncombining data objects to form compound data,\nfor example tree data structure.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.11",
+                  "title": "Automation",
+                  "level": 3,
+                  "content": "Understand that automation requires putting\nmodels (abstraction of real world objects/\nphenomena) into action to solve problems. This\nis achieved by:\n- creating algorithms\n- implementing the algorithms in program\ncode (instructions)\n- implementing the models in data\nstructures\n- executing the code.\nComputer science is about building clean\nabstract models (abstractions) of messy, noisy,\nreal world objects or phenomena. Computer\nscientists have to choose what to include in\nmodels and what to discard, to determine the\nminimum amount of detail necessary to model\nin order to solve a given problem to the required\ndegree of accuracy.\nComputer science deals with putting the models\ninto action to solve problems. This involves\ncreating algorithms for performing actions on,\nand with, the data that has been modelled.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.2",
+              "title": "Regular languages",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.2.1",
+                  "title": "Finite state machines (FSMs) with and without output",
+                  "level": 3,
+                  "content": "Be able to draw and interpret simple state\ntransition diagrams and state transition tables\nfor FSMs with no output and with output (Mealy\nmachines only).",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.2",
+                  "title": "Maths for regular expressions",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a set and the\nfollowing notations for specifying a set:\nA = {1, 2, 3, 4, 5 }\nor set comprehension:\nA = {x | x ∈ ℕ ∧ x ≥ 1 }\nwhere A is the set consisting of those objects x\nsuch that x ∈ ℕ and x ≥ 1 is true.\nKnow that the empty set, {}, is the set with no\nelements.\nKnow that an alternative symbol for the empty\nset is Ø.\nBe familiar with the compact representation of\na set, for example, the set {0n1n | n ≥ 1}. This\nset contains all strings with an equal number of\n0 s and 1s.\nBe familiar with the concept of:\n- finite sets\n- infinite sets\n- countably infinite sets\n- cardinality of a finite set\n- Cartesian product of sets.\nA set is an unordered collection of values in\nwhich each value occurs at most once.\nSeveral languages support set construction.\nIn Python, for example, use of curly braces\nconstructs a set:\n{1, 2, 3 }.\n| means such that.\nx ∈ ℕ means that x is a member of the set ℕ\nconsisting of the natural numbers, ie {0, 1, 2, 3,\n4, … }.\nThe symbol ∧ means AND.\nThe term ∧ x > = 1 means AND x is greater than\nor equal to 1.\nIn Python, {2 ∗ x for x in {1, 2, 3 }} constructs {2,\n4, 6 }.\nThis is said to be a set comprehension over the\nset {1, 2, 3 } .\nFor example,\n{0n1n | n ≥ 1} = {01, 0011, 000111, 00001111,\n… }\nA finite set is one whose elements can be\ncounted off by natural numbers up to a particular\nnumber, for example as:\n1st element, 2nd element, …, 20th (and final)\nelement.\nThe set of natural numbers, ℕ and the set of real\nnumbers, ℝ are examples of infinite sets.\nA countably infinite set is one that can be\ncounted off by the natural numbers.\nThe set of real numbers is not countable. The\ncardinality of a finite set is the number of\nelements in a set. Cartesian product of two sets,\nX and Y, written X x Y and read 'X cross Y', is\nthe set of all ordered pairs (a, b) where a is a\nmember of A and b is a member of B.\nBe familiar with the meaning of the term:\n- subset\n- proper subset\n- countable set.\nBe familiar with the set operations:\n- membership\n- union\n- intersection\n- difference.\n{0, 1 , 2 } ⊂ ℕ where ⊂ means proper subset of,\nthat is ℕ contains everything in {0, 1, 2 } but\nthere is at least one element in ℕ that is not in\n{0, 1, 2 }.\n{0, 1 , 2 } ⊆ {0, 1, 2, 3 } where ⊆ means subset\nof.\n⊆ includes both ⊂ and =, for example\n{0, 1, 2, 3 } ⊆ {0, 1, 2, 3 } is also true, because\n{0, 1, 2, 3 } = {0, 1, 2, 3 }. A countable set is a\nset with the same cardinality (number of\nelements) as some subset of natural numbers.\nThe set difference A\\B (or alternatively A-B) is\ndefined by A\\B = {x : x ∈ A and x ∉ B}",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.3",
+                  "title": "Regular expressions",
+                  "level": 3,
+                  "content": "Know that a regular expression is simply a way\nof describing a set and that regular expressions\nallow particular types of languages to be\ndescribed in a convenient shorthand notation.\nBe able to form and use simple regular\nexpressions for string manipulation and\nmatching.\nBe able to describe the relationship between\nregular expressions and FSMs.\nBe able to write a regular expression to\nrecognise the same language as a given FSM\nand vice versa.\nFor example, the regular expression a(a|b)*\ngenerates the set of strings {a, aa, ab, aaa, aab,\naba, …}.\nStudents should be familiar with the\nmetacharacters:\n- * (0 or more repetitions)\n- + (1 or more repetitions)\n- ? (0 or 1 repetitions, ie optional)\n- | (alternation, ie or)\n- ( ) to group regular expressions.\nAny other metacharacters used in an exam\nquestion will be explained as part of the\nquestion.\nRegular expressions and FSMs are equivalent\nways of defining a regular language.\nA student's ability to write very simple regular\nexpressions and FSMs will be assessed.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.4",
+                  "title": "Regular language",
+                  "level": 3,
+                  "content": "Know that a language is called regular if it can\nbe represented by a regular expression.\nAlso, a regular language is any language that a\nFSM will accept.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.3",
+              "title": "Context-free languages",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.3.1",
+                  "title": "Backus-Naur Form (BNF)/syntax diagrams",
+                  "level": 3,
+                  "content": "Be able to check language syntax by referring\nto BNF or syntax diagrams and formulate\nsimple production rules.\nBe able to explain why BNF can represent\nsome languages that cannot be represented\nusing regular expressions.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.4",
+              "title": "Classification of algorithms",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.4.1",
+                  "title": "Comparing algorithms",
+                  "level": 3,
+                  "content": "Understand that algorithms can be compared\nby expressing their complexity as a function\nrelative to the size of the problem. Understand\nthat the size of the problem is the key issue.\nUnderstand that some algorithms are more\nefficient:\n- time-wise than other algorithms\n- space-wise than other algorithms.\nEfficiently implementing automated abstractions\nmeans designing data models and algorithms to\nrun quickly while taking up the minimal amount\nof resources such as memory.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.4.2",
+                  "title": "Maths for understanding Big-0 notation",
+                  "level": 3,
+                  "content": "Be familiar with the mathematical concept of a\nfunction as a mapping from one set of values,\nthe domain, to another set of values, drawn\nfrom the co-domain, for example ℕ → ℕ.\nBe familiar with the concept of:\n- a linear function, for example y = 2x\na polynomial function, for example y = 2x2\n- an exponential function, for example y =\n2x\n- a logarithmic function, for example\ny = log10 x.\nBe familiar with the notion of permutation of a\nset of objects or values, for example, the letters\nof a word and that the number of permutations\nof n distinct objects is n factorial (n!).\nn! is the product of all positive integers less than\nor equal to n.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.4.3",
+                  "title": "Order of complexity",
+                  "level": 3,
+                  "content": "Be familiar with Big-O notation to express time\ncomplexity and be able to apply it to cases\nwhere the running time requirements of the\nalgorithm grow in:\n- constant time\n- logarithmic time\n- linear time\n- polynomial time\n- exponential time.\nBe able to derive the time complexity of an\nalgorithm.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.4.4",
+                  "title": "Limits of computation",
+                  "level": 3,
+                  "content": "Be aware that algorithmic complexity and\nhardware impose limits on what can be\ncomputed.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.4.5",
+                  "title": "Classification of algorithmic problems",
+                  "level": 3,
+                  "content": "Know that algorithms may be classified as\nbeing either:\n- tractable - problems that have a\npolynomial (or less) time solution are\ncalled tractable problems.\n- intractable - problems that have no\npolynomial (or less) time solution are\ncalled intractable problems.\nHeuristic methods are often used when tackling\nintractable problems.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.4.6",
+                  "title": "Computable and non-computable problems",
+                  "level": 3,
+                  "content": "Be aware that some problems cannot be solved\nalgorithmically.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.4.7",
+                  "title": "Halting problem",
+                  "level": 3,
+                  "content": "Describe the Halting problem (but not prove it),\nthat is the unsolvable problem of determining\nwhether any program will eventually stop if\ngiven particular input.\nUnderstand the significance of the Halting\nproblem for computation.\nThe Halting problem demonstrates that there\nare some problems that cannot be solved by a\ncomputer.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.5",
+              "title": "A model of computation",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.5.1",
+                  "title": "Turing machine",
+                  "level": 3,
+                  "content": "Be familiar with the structure and use of Turing\nmachines that perform simple computations.\nKnow that a Turing machine can be viewed as a\ncomputer with a single fixed program,\nexpressed using:\n- a finite set of states in a state transition\ndiagram\n- a finite alphabet of symbols\n- an infinite tape with marked-off squares\n- a sensing read-write head that can travel\nalong the tape, one square at a time.\nOne of the states is called a start state and\nstates that have no outgoing transitions are\ncalled halting states.\nUnderstand the equivalence between a\ntransition function and a state transition\ndiagram.\nBe able to:\n- represent transition rules using a\ntransition function\n- represent transition rules using a state\ntransition diagram\n- hand-trace simple Turing machines.\nBe able to explain the importance of Turing\nmachines and the Universal Turing machine to\nthe subject of computation.\nExam questions will only be asked about Turing\nmachines that have one tape that is infinite in\none direction.\nTuring machines provide a (general/formal)\nmodel of computation and provide a definition of\nwhat is computable.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.5",
+          "title": "Fundamentals of data representation",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.5.1",
+              "title": "Number systems",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.1.1",
+                  "title": "Natural numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a natural number\nand the set ℕ of natural numbers (including\nzero).\nℕ = {0, 1, 2, 3, … }",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.2",
+                  "title": "Integer numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of an integer and\nthe set ℤ of integers.\nℤ = { …, -3, -2, -1, 0, 1, 2, 3, … }",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.3",
+                  "title": "Rational numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a rational\nnumber and the set ℚ of rational numbers, and\nthat this set includes the integers.\nℚ is the set of numbers that can be written as\nfractions (ratios of integers). Since a number\nsuch as 7 can be written as 7/1, all integers are\nrational numbers.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.4",
+                  "title": "Irrational numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of an irrational\nnumber.\nAn irrational number is one that cannot be\nwritten as a fraction, for example √2.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.5",
+                  "title": "Real numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a real number\nand the set ℝ of real numbers, which includes\nthe natural numbers, the rational numbers and\nthe irrational numbers.\nℝ is the set of all 'possible real world quantities'.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.6",
+                  "title": "Ordinal numbers",
+                  "level": 3,
+                  "content": "Be familiar with the concept of ordinal numbers\nand their use to describe the numerical\npositions of objects.\nWhen objects are placed in order, ordinal\nnumbers are used to tell their position. For\nexample, if we have a well-ordered set S = {‘a’,\n‘b’, ‘c’, ‘d’}, then ‘a’ is the 1st object, ‘b’ the 2nd,\nand so on.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.7",
+                  "title": "Counting and measurement",
+                  "level": 3,
+                  "content": "Be familiar with the use of:\n- natural numbers for counting\n- real numbers for measurement.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.2",
+              "title": "Number bases",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.2.1",
+                  "title": "Number base",
+                  "level": 3,
+                  "content": "Be familiar with the concept of a number base,\nin particular:\n- decimal (base 10)\n- binary (base 2)\n- hexadecimal (base 16).\nConvert between decimal, binary and\nhexadecimal number bases.\nBe familiar with, and able to use, hexadecimal\nas a shorthand for binary and to understand\nwhy it is used in this way.\nStudents should be familiar with expressing a\nnumber’s base using a subscript as follows:\nBase 10: Number10, eg 6710\nBase 2: Number2, eg 100110112\nBase 16: Number16, eg AE16",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.3",
+              "title": "Units of information",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.3.1",
+                  "title": "Bits and bytes",
+                  "level": 3,
+                  "content": "Know that:\n- the bit is the fundamental unit of\ninformation\n- a byte is a group of 8 bits.\nKnow that the 2n different values can be\nrepresented with n bits.\nA bit is either 0 or 1.\nFor example, 3 bits can be configured in 23 = 8\ndifferent ways.\n000, 001, 010, 011, 100, 101, 110, 111",
+                  "children": []
+                },
+                {
+                  "code": "4.5.3.2",
+                  "title": "Units",
+                  "level": 3,
+                  "content": "Know that quantities of bytes can be described\nusing binary prefixes representing powers of 2\nor using decimal prefixes representing powers\nof 10, eg one kibibyte is written as 1KiB = 210 B\nand one kilobyte is written as 1 kB = 103 B.\nKnow the names, symbols and corresponding\npowers of 2 for the binary prefixes:\nkibi, Ki - 210\n- mebi, Mi - 220\n- gibi, Gi - 230\n- tebi, Ti - 240\n- Know the names, symbols and corresponding\npowers of 10 for the decimal prefixes:\nkilo, k - 103\n- mega, M - 106\n- giga, G - 109\n- tera, T - 1012\n- Historically the terms kilobyte, megabyte, etc\nhave often been used when kibibyte, mebibyte,\netc are meant.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.4",
+              "title": "Binary number system",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.4.1",
+                  "title": "Unsigned binary",
+                  "level": 3,
+                  "content": "Know the difference between unsigned binary\nand signed binary.\nKnow that in unsigned binary the minimum and\nmaximum values for a given number of bits, n,\nare 0 and 2n -1 respectively.\nStudents are expected to be able to convert\nbetween unsigned binary and decimal and vice\nversa.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.4.2",
+                  "title": "Unsigned binary arithmetic",
+                  "level": 3,
+                  "content": "Be able to:\n- add two unsigned binary integers\n- multiply two unsigned binary integers.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.4.3",
+                  "title": "Signed binary using two’s complement",
+                  "level": 3,
+                  "content": "Know that signed binary can be used to\nrepresent negative integers and that one\npossible coding scheme is two’s complement.\nKnow how to:\n- represent negative and positive integers\nin two’s complement\n- perform subtraction using two’s\ncomplement\n- calculate the range of a given number of\nbits, n.\nThis is the only representation of negative\nintegers that will be examined. Students are\nexpected to be able to convert between signed\nbinary and decimal and vice versa.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.4.4",
+                  "title": "Numbers with a fractional part",
+                  "level": 3,
+                  "content": "Know how numbers with a fractional part can be\nrepresented in:\n- fixed point form in binary in a given\nnumber of bits\n- floating point form in binary in a given\nnumber of bits.\nBe able to convert for each representation from:\n- decimal to binary of a given number of\nbits\n- binary to decimal of a given number of\nbits.\nStudents are not required to know the Institute\nof Electrical and Electronic Engineers (IEEE)\nstandard, only to know, understand and be able\nto use a simplified floating representation\nconsisting of mantissa + exponent.\nExam questions on floating point numbers will\nuse a format in which both the mantissa and\nexponent are represented using two's\ncomplement.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.4.5",
+                  "title": "Rounding errors",
+                  "level": 3,
+                  "content": "Know and be able to explain why both fixed\npoint and floating point representation of\ndecimal numbers may be inaccurate.\nUse binary fractions. For a real number to be\nrepresented exactly by the binary number\nsystem, it must be capable of being represented\nby a binary fraction in the given number of bits.\nSome values cannot ever be represented\nexactly, for example 0.110.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.4.6",
+                  "title": "Absolute and relative errors",
+                  "level": 3,
+                  "content": "Be able to calculate the absolute error of\nnumerical data stored and processed in\ncomputer systems.\nBe able to calculate the relative error of\nnumerical data stored and processed in\ncomputer systems.\nCompare absolute and relative errors for large\nand small magnitude numbers, and numbers\nclose to one.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.4.7",
+                  "title": "Range and precision",
+                  "level": 3,
+                  "content": "Compare the advantages and disadvantages of\nfixed point and floating point forms in terms of\nrange, precision and speed of calculation.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.4.8",
+                  "title": "Normalisation of floating point form",
+                  "level": 3,
+                  "content": "Know why floating point numbers are\nnormalised and be able to normalise un-\nnormalised floating point numbers with positive\nor negative mantissas.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.4.9",
+                  "title": "Underflow and overflow",
+                  "level": 3,
+                  "content": "Explain underflow and overflow and describe\nthe circumstances in which they occur.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.5",
+              "title": "Information coding systems",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.5.1",
+                  "title": "Character form of a decimal digit",
+                  "level": 3,
+                  "content": "Differentiate between the character code\nrepresentation of a decimal digit and its pure\nbinary representation.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.5.2",
+                  "title": "ASCII and Unicode",
+                  "level": 3,
+                  "content": "Describe ASCII and Unicode coding systems\nfor coding character data and explain why\nUnicode was introduced.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.5.3",
+                  "title": "Error checking and correction",
+                  "level": 3,
+                  "content": "Describe and explain the use of:\n- parity bits\n- majority voting\n- checksums\n- check digits.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.6",
+              "title": "Representing images, sound and other data",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.6.1",
+                  "title": "Bit patterns, images, sound and other data",
+                  "level": 3,
+                  "content": "Describe how bit patterns may represent other\nforms of data, including graphics and sound.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.6.2",
+                  "title": "Analogue and digital",
+                  "level": 3,
+                  "content": "Understand the difference between analogue\nand digital:\n- data\n- signals.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.6.3",
+                  "title": "Analogue/digital conversion",
+                  "level": 3,
+                  "content": "Describe the principles of operation of:\n- an analogue to digital converter (ADC)\n- a digital to analogue converter (DAC).\nKnow that ADCs are used with analogue\nsensors.\nKnow that the most common use for a DAC is\nto convert a digital audio signal to an analogue\nsignal.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.6.4",
+                  "title": "Bitmapped graphics",
+                  "level": 3,
+                  "content": "Explain how bitmaps are represented.\nExplain the following for bitmaps:\n- resolution\n- colour depth\n- size in pixels.\nCalculate storage requirements for bitmapped\nimages and be aware that bitmap image files\nmay also contain metadata.\nBe familiar with typical metadata.\nThe size of an image is also alternatively\nsometimes described as the resolution of an\nimage.\nSize of an image in pixels is width of image in\npixels x height of image in pixels.\nResolution is expressed as number of dots per\ninch where a dot is a pixel.\nColour depth = number of bits stored for each\npixel.\nIgnoring metadata,\nstorage requirements = size in pixels x colour\ndepth\nwhere size in pixels is width in pixels x height in\npixels.\neg width, height, colour depth.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.6.5",
+                  "title": "Vector graphics",
+                  "level": 3,
+                  "content": "Explain how vector graphics represents images\nusing lists of objects.\nGive examples of typical properties of objects.\nUse vector graphic primitives to create a simple\nvector graphic.\nThe properties of each geometric object/shape\nin the vector graphic image are stored as a list.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.6.6",
+                  "title": "Vector graphics versus bitmapped graphics",
+                  "level": 3,
+                  "content": "Compare the vector graphics approach with the\nbitmapped graphics approach and understand\nthe advantages and disadvantages of each.\nBe aware of appropriate uses of each approach.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.6.7",
+                  "title": "Digital representation of sound",
+                  "level": 3,
+                  "content": "Describe the digital representation of sound in\nterms of:\n- sample resolution\n- sampling rate and the Nyquist theorem.\nCalculate sound sample sizes in bytes.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.6.8",
+                  "title": "Musical Instrument Digital Interface (MIDI)",
+                  "level": 3,
+                  "content": "Describe the purpose of MIDI and the use of\nevent messages in MIDI.\nDescribe the advantages of using MIDI files for\nrepresenting music.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.6.9",
+                  "title": "Data compression",
+                  "level": 3,
+                  "content": "Know why images and sound files are often\ncompressed and that other files, such as text\nfiles, can also be compressed.\nUnderstand the difference between lossless\nand lossy compression and explain the\nadvantages and disadvantages of each.\nExplain the principles behind the following\ntechniques for lossless compression:\n- run length encoding (RLE)\n- dictionary-based methods.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.6.10",
+                  "title": "Encryption",
+                  "level": 3,
+                  "content": "Understand what is meant by encryption and be\nable to define it.\nBe familiar with Caesar cipher and be able to\napply it to encrypt a plaintext message and\ndecrypt a ciphertext.\nBe able to explain why it is easily cracked.\nBe familiar with Vernam cipher or one-time pad\nand be able to apply it to encrypt a plaintext\nmessage and decrypt a ciphertext.\nExplain why Vernam cipher is considered as a\ncypher with perfect security.\nCompare Vernam cipher with ciphers that\ndepend on computational security.\nStudents should be familiar with the terms\ncipher, plaintext and ciphertext.\nCaesar and Vernam ciphers are at opposite\nextremes. One offers perfect security, the other\ndoesn’t. Between these two types are ciphers\nthat are computationally secure – see below.\nStudents will be assessed on the two types.\nCiphers other than Caesar may be used to\nassess students' understanding of the principles\ninvolved. These will be explained and be similar\nin terms of computational complexity.\nSince the key k is chosen uniformly at random,\nthe ciphertext c is also distributed uniformly.\nThe key k must be used once only. The key k is\nknown as a one-time pad.\nVernam cipher is the only one to have been\nmathematically proved to be completely secure.\nThe worth of all other ciphers ever devised is\nbased on computational security. In theory,\nevery cryptographic algorithm except for\nVernam cipher can be broken, given enough\nciphertext and time.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.6",
+          "title": "Fundamentals of computer systems",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.6.1",
+              "title": "Hardware and software",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.1.1",
+                  "title": "Relationship between hardware and software",
+                  "level": 3,
+                  "content": "Understand the relationship between hardware\nand software and be able to define the terms:\n- hardware\n- software.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.2",
+                  "title": "Classification of software",
+                  "level": 3,
+                  "content": "Explain what is meant by:\n- system software\n- application software.\nUnderstand the need for, and attributes of,\ndifferent types of software.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.3",
+                  "title": "System software",
+                  "level": 3,
+                  "content": "Understand the need for, and functions of the\nfollowing system software:\n- operating systems (OSs)\n- utility programs\n- libraries\n- translators (compiler, assembler,\ninterpreter).",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.4",
+                  "title": "Role of an operating system (OS)",
+                  "level": 3,
+                  "content": "Understand that a role of the operating system\nis to hide the complexities of the hardware.\nKnow that the OS handles resource\nmanagement, managing hardware to allocate\nprocessors, memories and I/O devices among\ncompeting processes.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.2",
+              "title": "Classification of programming languages",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.2.1",
+                  "title": "Classification of programming languages",
+                  "level": 3,
+                  "content": "Show awareness of the development of types of\nprogramming languages and their classification\ninto low-and high-level languages.\nKnow that low-level languages are considered\nto be:\n- machine-code\n- assembly language.\nKnow that high-level languages include\nimperative high-level language.\nDescribe machine-code language and\nassembly language.\nUnderstand the advantages and disadvantages\nof machine-code and assembly language\nprogramming compared with high-level\nlanguage programming.\nExplain the term ‘imperative high-level\nlanguage’ and its relationship to low-level\nlanguages.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.3",
+              "title": "Types of program translator",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.3.1",
+                  "title": "Types of program translator",
+                  "level": 3,
+                  "content": "Understand the role of each of the following:\n- assembler\n- compiler\n- interpreter.\nExplain the differences between compilation\nand interpretation. Describe situations in which\neach would be appropriate.\nExplain why an intermediate language such as\nbytecode is produced as the final output by\nsome compilers and how it is subsequently\nused.\nUnderstand the difference between source code\nand object (executable) code.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.4",
+              "title": "Logic gates",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.4.1",
+                  "title": "Logic gates",
+                  "level": 3,
+                  "content": "Construct truth tables for the following logic\ngates:\n- NOT\n- AND\n- OR\n- XOR\n- NAND\n- NOR.\nBe familiar with drawing and interpreting logic\ngate circuit diagrams involving one or more of\nthe above gates.\nComplete a truth table for a given logic gate\ncircuit.\nWrite a Boolean expression for a given logic\ngate circuit.\nDraw an equivalent logic gate circuit for a given\nBoolean expression.\nRecognise and trace the logic of the circuits of a\nhalf-adder and a full-adder.\nConstruct the circuit for a half-adder.\nBe familiar with the use of the edge-triggered D-\ntype flip-flop as a memory unit.\nStudents should know and be able to use ANSI/\nIEEE standard 91-1984 Distinctive shape logic\ngate symbols for these logic gates.\nKnowledge of internal operation of this flip-flop\nis not required.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.5",
+              "title": "Boolean algebra",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.5.1",
+                  "title": "Using Boolean algebra",
+                  "level": 3,
+                  "content": "Be familiar with the use of Boolean identities\nand De Morgan’s laws to manipulate and\nsimplify Boolean expressions.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.7",
+          "title": "Fundamentals of computer organisation and architecture",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.7.1",
+              "title": "Internal hardware components of a computer",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.1.1",
+                  "title": "Internal hardware components of a computer",
+                  "level": 3,
+                  "content": "Have an understanding and knowledge of the\nbasic internal components of a computer\nsystem.\nUnderstand the role of the following\ncomponents and how they relate to each other:\n- processor\n- main memory\n- address bus\n- data bus\n- control bus\n- I/O controllers.\nUnderstand the need for, and means of,\ncommunication between components. In\nparticular, understand the concept of a bus and\nhow address, data and control buses are used.\nBe able to explain the difference between von\nNeumann and Harvard architectures and\ndescribe where each is typically used.\nUnderstand the concept of addressable\nmemory.\nAlthough exam questions about specific\nmachines will not be asked, it might be useful to\nbase this section on the machines used at the\ncentre.\nEmbedded systems such as digital signal\nprocessing (DSP) systems use Harvard\narchitecture processors extensively.\nVon Neumann architecture is used extensively\nin general purpose computing systems.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.2",
+              "title": "The stored program concept",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.2.1",
+                  "title": "The meaning of the stored program concept",
+                  "level": 3,
+                  "content": "Be able to describe the stored program\nconcept: machine code instructions stored in\nmain memory are fetched and executed serially\nby a processor that performs arithmetic and\nlogical operations.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.3",
+              "title": "Structure and role of the processor and its components",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.3.1",
+                  "title": "The processor and its components",
+                  "level": 3,
+                  "content": "Explain the role and operation of a processor\nand its major components:\n- arithmetic logic unit\n- control unit\n- clock\n- general-purpose registers\n- dedicated registers, including:\n- program counter\n- current instruction register\n- memory address register\n- memory buffer register\n- status register.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.2",
+                  "title": "The Fetch-Execute cycle and the role of registers within it",
+                  "level": 3,
+                  "content": "Explain how the Fetch-Execute cycle is used to\nexecute machine code programs including the\nstages in the cycle (fetch, decode, execute) and\ndetails of registers used.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.3",
+                  "title": "The processor instruction set",
+                  "level": 3,
+                  "content": "Understand the term ‘processor instruction set’\nand know that an instruction set is processor\nspecific.\nKnow that instructions consist of an opcode and\none or more operands (value, memory address\nor register).\nA simple model will be used in which the\naddressing mode will be incorporated into the\nbits allocated to the opcode so the latter defines\nboth the basic machine operation and the\naddressing mode. Students will not be expected\nto define opcode, only interpret opcodes in the\ngiven context of a question.\nFor example, 4 bits have been allocated to the\nopcode (3 bits for basic machine operation, eg\nADD, and 1 bit for the addressing mode). 4 bits\nhave been allocated to the operand, making the\ninstruction, opcode + operand, 8 bits in length.\nIn this example, 16 different opcodes are\npossible (24 = 16).",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.4",
+                  "title": "Addressing modes",
+                  "level": 3,
+                  "content": "Understand and apply immediate and direct\naddressing modes.\nImmediate addressing: the operand is the\ndatum.\nDirect addressing: the operand is the address of\nthe datum. Address to be interpreted as\nmeaning either main memory or register.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.5",
+                  "title": "Machine-code/assembly language operations",
+                  "level": 3,
+                  "content": "Understand and apply the basic machine-code\noperations of:\n- load\n- add\n- subtract\n- store\n- branching (conditional and unconditional)\n- compare\n- logical bitwise operators (AND, OR, NOT,\nXOR)\n- logical\n- shift right\n- shift left\n- halt.\nUse the basic machine-code operations above\nwhen machine-code instructions are expressed\nin mnemonic form- assembly language, using\nimmediate and direct addressing.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.6",
+                  "title": "Interrupts",
+                  "level": 3,
+                  "content": "Describe the role of interrupts and interrupt\nservice routines (ISRs); their effect on the\nFetch-Execute cycle; and the need to save the\nvolatile environment while the interrupt is being\nserviced.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.7",
+                  "title": "Factors affecting processor performance",
+                  "level": 3,
+                  "content": "Explain the effect on processor performance of:\n- multiple cores\n- cache memory\n- clock speed\n- word length\n- address bus width\n- data bus width.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.4",
+              "title": "External hardware devices",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.4.1",
+                  "title": "Input and output devices",
+                  "level": 3,
+                  "content": "Know the main characteristics, purposes and\nsuitability of the devices and understand their\nprinciples of operation.\nDevices that need to be considered are:\n- barcode reader\n- digital camera\n- laser printer\n- RFID.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.4.2",
+                  "title": "Secondary storage devices",
+                  "level": 3,
+                  "content": "Explain the need for secondary storage within a\ncomputer system.\nKnow the main characteristics, purposes,\nsuitability and understand the principles of\noperation of the following devices:\n- hard disk\n- optical disk\n- solid-state disk (SSD).\nCompare the capacity and speed of access of\nvarious media and make a judgement about\ntheir suitability for different applications.\nSSD = NAND flash memory + a controller that\nmanages pages, and blocks and complexities of\nwriting. Based on floating gate transistors that\ntrap and store charge. A block, made up of\nmany pages, cannot overwrite pages, page has\nto be erased before it can be written to but\ntechnology requires the whole block to be\nerased. Lower latency and faster transfer\nspeeds than a magnetic disk drive.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.8",
+          "title": "Consequences of uses of computing",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.8.1",
+              "title": "Individual (moral), social (ethical), legal and cultural issues and opportunities",
+              "level": 2,
+              "content": "Show awareness of current individual (moral),\nsocial (ethical), legal and cultural opportunities\nand risks of computing.\nUnderstand that:\n- developments in computer science and\nthe digital technologies have dramatically\naltered the shape of communications and\ninformation flows in societies, enabling\nmassive transformations in the capacity\nto:\n- monitor behaviour\n- amass and analyse personal\ninformation\n- distribute, publish, communicate and\ndisseminate personal information.\n- computer scientists and software\nengineers therefore have power, as well\nas the responsibilities that go with it, in the\nalgorithms that they devise and the code\nthat they deploy.\n- software and their algorithms embed\nmoral and cultural values.\n- the issue of scale, for software the whole\nworld over, creates potential for individual\ncomputer scientists and software\nengineers to produce great good, but with\nit comes the ability to cause great harm.\nBe able to discuss the challenges facing\nlegislators in the digital age.\nTeachers may wish to employ two very powerful\ntechniques, hypotheticals and case studies, to\nengage students in the issues.\nHypotheticals allow students to isolate quickly\nimportant ethical principles in an artificially\nsimplified context. For example, a teacher might\nask students to explain and defend how, as a\nGoogle project manager, they would evaluate a\nproposal to bring Google’s Street View\ntechnology to a remote African village. What\nquestions should be asked? Who should be\nconsulted? What benefits, risks and safeguards\nconsidered? What are the trade-offs?\nCase studies allow students to confront the\ntricky interplay between the sometimes\ncompeting ethical values and principles relevant\nin real world settings. For example, the Google\nStreet View case might be used to tease out the\nethical conflicts between individual and cultural\nexpectations, the principle of informed consent,\nStreet View’s value as a service, its potential\nimpact on human perceptions and behaviours,\nand its commercial value to Google and its\nshareholders.\nThere are many resources available on the\nInternet to support teaching of this topic.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.9",
+          "title": "Fundamentals of communication and networking",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.9.1",
+              "title": "Communication",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.9.1.1",
+                  "title": "Communication methods",
+                  "level": 3,
+                  "content": "Define serial and parallel transmission methods\nand discuss the advantages of serial over\nparallel transmission.\nDefine and compare synchronous and\nasynchronous data transmission.\nDescribe the purpose of start and stop bits in\nasynchronous data transmission.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.1.2",
+                  "title": "Communication basics",
+                  "level": 3,
+                  "content": "Define:\n- baud rate\n- bit rate\n- bandwidth\n- latency\n- protocol.\nDifferentiate between baud rate and bit rate.\nUnderstand the relationship between bit rate\nand bandwidth.\nBit rate can be higher than baud rate if more\nthan one bit is encoded in each signal change.\nBit rate is directly proportionate to bandwidth.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.9.2",
+              "title": "Networking",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.9.2.1",
+                  "title": "Network topology",
+                  "level": 3,
+                  "content": "Understand:\n- physical star topology\n- logical bus network topology\nand:\n- differentiate between them\n- explain their operation\nA network physically wired in star topology can\nbehave logically as a bus network by using a\nbus protocol and appropriate physical switching.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.2.2",
+                  "title": "Types of networking between hosts",
+                  "level": 3,
+                  "content": "Explain the following and describe situations\nwhere they might be used:\n- peer-to-peer networking\n- client-server networking.\nIn a peer-to-peer network, each computer has\nequal status. In a client-server network, most\ncomputers are nominated as clients and one or\nmore as servers. The clients request services\nfrom the servers, which provide these services,\nfor example file server, email server.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.2.3",
+                  "title": "Wireless networking",
+                  "level": 3,
+                  "content": "Explain the purpose of WiFi.\nBe familiar with the components required for\nwireless networking.\nBe familiar with how wireless networks are\nsecured.\nExplain the wireless protocol Carrier Sense\nMultiple Access with Collision Avoidance\n(CSMA/CA) with and without Request to Send/\nClear to Send (RTS/CTS).\nBe familiar with the purpose of Service Set\nIdentifier (SSID).\nA wireless local area network that is based on\ninternational standards.\nUsed to enable devices to connect to a network\nwirelessly.\nWireless network adapter.\nWireless access point.\nStrong encryption of transmitted data using\nWPA (Wifi Protected Access)/WPA2, SSID\n(Service Set Identifier) broadcast disabled,\nMAC (Media Access Control) address allow list.\nKnowledge of Carrier Sense Multiple Access/\nCollection Detection (CSMA/CD) as used in, for\nexample, Ethernet, is not required.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.9.3",
+              "title": "The Internet",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.9.3.1",
+                  "title": "The Internet and how it works",
+                  "level": 3,
+                  "content": "Understand the structure of the Internet.\nUnderstand the role of packet switching and\nrouters.\nKnow the main components of a packet.\nDefine:\n- router\n- gateway.\nConsider where and why they are used.\nExplain how routing is achieved across the\nInternet.\nDescribe the term 'uniform resource locator'\n(URL) in the context of internetworking.\nExplain the terms ‘fully qualified domain name’\n(FQDN), ‘domain name’ and ‘IP address’.\nDescribe how domain names are organised.\nUnderstand the purpose and function of the\ndomain service and its reliance on the Domain\nName Server (DNS) system.\nExplain the service provided by Internet\nregistries and why they are needed.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.3.2",
+                  "title": "Internet security",
+                  "level": 3,
+                  "content": "Understand how a firewall works (packet\nfiltering, proxy server, stateful inspection).\nExplain symmetric and asymmetric (private/\npublic key) encryption and key exchange.\nExplain how digital certificates and digital\nsignatures are obtained and used.\nDiscuss worms, trojans and viruses, and the\nvulnerabilities that they exploit.\nDiscuss how improved code quality, monitoring\nand protection can be used to address worms,\ntrojans and viruses.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.9.4",
+              "title": "The Transmission Control Protocol/Internet Protocol (TCP/IP) protocol",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.9.4.1",
+                  "title": "TCP/IP",
+                  "level": 3,
+                  "content": "Describe the role of the four layers of the\nTCP/IP stack (application, transport, network,\nlink).\nDescribe the role of sockets in the TCP/IP\nstack.\nBe familiar with the role of MAC (Media Access\nControl) addresses.\nExplain what the well-known ports and client\nports are used for and the differences between\nthem.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.2",
+                  "title": "Standard application layer protocols",
+                  "level": 3,
+                  "content": "Be familiar with the following protocols:\n- FTP (File Transfer Protocol)\n- HTTP (Hypertext Transfer Protocol)\n- HTTPS (Hypertext Transfer Protocol\nSecure)\n- POP3 (Post Office Protocol (v3))\n- SMTP (Simple Mail Transfer Protocol)\n- SSH (Secure Shell).\nBe familiar with FTP client software and an FTP\nserver, with regard to transferring files using\nanonymous and non-anonymous access.\nBe familiar with how SSH is used for remote\nmanagement.\nKnow how an SSH client is used to make a\nTCP connection to a remote port for the\npurpose of sending commands to this port using\napplication level protocols such as GET for\nHTTP, SMTP commands for sending email and\nPOP3 for retrieving email.\nBe familiar with using SSH to log in securely to\na remote computer and execute commands.\nExplain the role of an email server in retrieving\nand sending email.\nExplain the role of a web server in serving up\nweb pages in text form.\nUnderstand the role of a web browser in\nretrieving web pages and web page resources\nand rendering these accordingly.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.3",
+                  "title": "IP address structure",
+                  "level": 3,
+                  "content": "Know that an IP address is split into a network\nidentifier part and a host identifier part.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.4",
+                  "title": "Subnet masking",
+                  "level": 3,
+                  "content": "Know that networks can be divided into subnets\nand know how a subnet mask is used to identify\nthe network identifier part of the IP address.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.5",
+                  "title": "IP standards",
+                  "level": 3,
+                  "content": "Know that there are currently two standards of\nIP address, v4 and v6.\nKnow why v6 was introduced.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.6",
+                  "title": "Public and private IP addresses",
+                  "level": 3,
+                  "content": "Distinguish between routable and non-routable\nIP addresses.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.7",
+                  "title": "Dynamic Host Configuration Protocol (DHCP)",
+                  "level": 3,
+                  "content": "Understand the purpose and function of the\nDHCP system.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.8",
+                  "title": "Network Address Translation (NAT)",
+                  "level": 3,
+                  "content": "Explain the basic concept of NAT and why it is\nused.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.9",
+                  "title": "Port forwarding",
+                  "level": 3,
+                  "content": "Explain the basic concept of port forwarding\nand why it is used.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.10",
+                  "title": "Client server model",
+                  "level": 3,
+                  "content": "Be familiar with the client server model.\nBe familiar with the Websocket protocol and\nknow why it is used and where it is used.\nClient sends a request message to server,\nserver responds to request by replying with a\nresponse message to client.\nThe Websocket specification defines an API\n(Application Programming Interface)\nestablishing a full-duplex 'socket' connection\nbetween a web browser and a server over TCP.\nThis means that there is a persistent connection\nbetween client and server, allowing both parties\nto send data at any time.\nBe familiar with the principles of Web CRUD\nApplications and REST:\n- CRUD is an acronym for:\n- C – Create\n- R – Retrieve\n- U – Update\n- D – Delete.\n- REST enables CRUD to be mapped to\ndatabase functions (SQL) as follows:\n- GET → SELECT\n- POST → INSERT\n- DELETE → DELETE\n- PUT → UPDATE.\nCompare JSON (Java script object notation)\nwith XML.\nStudents should understand the principles:\n- database connected to browser using\nREST – Representational State Transfer -\nwhich relies on HTTP request methods\n- REST allows JavaScript to talk to server\nthrough HTTP\n- REST API (Application Programming\nInterface) created and run on server,\nbrowser Javascript calls API\n- JSON (JavaScript Object Notation) or\nXML can be used to transmit data\nbetween a server and web application\n- Javascript referenced by HTML file, eg\nindex.html, is run in browser.\nJSON compared with XML is:\n- easier for a human to read\n- more compact\n- easier to create\n- easier for computers to parse and\ntherefore quicker to parse.",
+                  "children": []
+                },
+                {
+                  "code": "4.9.4.11",
+                  "title": "Thin- versus thick-client computing",
+                  "level": 3,
+                  "content": "Compare and contrast thin-client computing\nwith thick-client computing.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.10",
+          "title": "Fundamentals of databases",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.10.1",
+              "title": "Conceptual data models and entity relationship modelling",
+              "level": 2,
+              "content": "Produce a data model from given data\nrequirements for a simple scenario involving\nmultiple entities.\nProduce entity relationship diagrams\nrepresenting a data model and entity\ndescriptions in the form: Entity1 (Attribute1,\nAttribute2, .... ).\nUnderlining can be used to identify the\nattribute(s) which form the entity identifier.",
+              "children": []
+            },
+            {
+              "code": "4.10.2",
+              "title": "Relational databases",
+              "level": 2,
+              "content": "Explain the concept of a relational database.\nBe able to define the terms:\n- attribute\n- primary key\n- composite primary key\n- foreign key.",
+              "children": []
+            },
+            {
+              "code": "4.10.3",
+              "title": "Database design and normalisation techniques",
+              "level": 2,
+              "content": "Normalise relations to third normal form.\nUnderstand why databases are normalised.\nStudents should know what properties are\npossessed by a relation in third normal form.",
+              "children": []
+            },
+            {
+              "code": "4.10.4",
+              "title": "Structured Query Language (SQL)",
+              "level": 2,
+              "content": "Be able to use SQL to retrieve, update, insert\nand delete data from multiple tables of a\nrelational database.\nBe able to use SQL to define a database table.",
+              "children": []
+            },
+            {
+              "code": "4.10.5",
+              "title": "Client server databases",
+              "level": 2,
+              "content": "Know that a client server database system\nprovides simultaneous access to the database\nfor multiple clients.\nKnow how concurrent access can be controlled\nto preserve the integrity of the database.\nConcurrent access can result in the problem of\nupdates being lost if two clients edit a record at\nthe same time. This problem can be managed\nby the use of record locks, serialisation,\ntimestamp ordering, commitment ordering.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.11",
+          "title": "Big Data",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.11.1",
+              "title": "Big Data",
+              "level": 2,
+              "content": "Know that 'Big Data' is a catch-all term for data\nthat won't fit the usual containers. Big Data can\nbe described in terms of:\n- volume - too big to fit into a single server\n- velocity - streaming data, milliseconds to\nseconds to respond\n- variety - data in many forms such as\nstructured, unstructured, text, multimedia.\nKnow that when data sizes are so big as not to\nfit on to a single server:\n- the processing must be distributed across\nmore than one machine\n- functional programming is a solution,\nbecause it makes it easier to write correct\nand efficient distributed code.\nKnow what features of functional programming\nmake it easier to write:\n- correct code\n- code that can be distributed to run across\nmore than one server.\nBe familiar with the:\n- fact-based model for representing data\n- graph schema for capturing the structure\nof the dataset\n- nodes, edges and properties in graph\nschema.\nWhilst its size receives all the attention, the\nmost difficult aspect of Big Data really involves\nits lack of structure. This lack of structure poses\nchallenges because:\n- analysing the data is made significantly\nmore difficult\n- relational databases are not appropriate\nbecause they require the data to fit into a\nrow-and-column format.\nMachine learning techniques are needed to\ndiscern patterns in the data and to extract\nuseful information.\n'Big' is a relative term, but size impacts when\nthe data doesn’t fit onto a single server because\nrelational databases don’t scale well across\nmultiple machines.\nData from networked sensors, smartphones,\nvideo surveillance, mouse clicks etc are\ncontinuously streamed.\nFunctional programming languages support:\n- immutable data structures\n- statelessness\n- higher-order functions.\nEach fact within a fact-based model captures a\nsingle piece of information.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.12",
+          "title": "Fundamentals of functional programming",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.12.1",
+              "title": "Functional programming paradigm",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.12.1.1",
+                  "title": "Function type",
+                  "level": 3,
+                  "content": "Know that a function, f, has a function type\nf: A → B (where the type is A → B, A is the\nargument type, and B is the result type).\nKnow that A is called the domain and B is called\nthe co-domain.\nKnow that the domain and co-domain are\nalways subsets of objects in some data type.\nLoosely speaking, a function is a rule that, for\neach element in some set A of inputs, assigns\nan output chosen from set B, but without\nnecessarily using every member of B. For\nexample,\nf: {a,b,c,…z} → {0,1,2,…,25} could use the rule\nthat maps a to 0, b to 1, and so on, using all\nvalues which are members of set B.\nThe domain is a set from which the function’s\ninput values are chosen.\nThe co-domain is a set from which the\nfunction’s output values are chosen. Not all of\nthe co-domain’s members need to be outputs.",
+                  "children": []
+                },
+                {
+                  "code": "4.12.1.2",
+                  "title": "First-class object",
+                  "level": 3,
+                  "content": "Know that a function is a first-class object in\nfunctional programming languages and in\nimperative programming languages that support\nsuch objects. This means that it can be an\nargument to another function as well as the\nresult of a function call.\nFirst-class objects (or values) are objects which\nmay:\n- appear in expressions\n- be assigned to a variable\n- be assigned as arguments\n- be returned in function calls.\nFor example, integers, floating-point values,\ncharacters and strings are first class objects in\nmany programming languages.",
+                  "children": []
+                },
+                {
+                  "code": "4.12.1.3",
+                  "title": "Function application",
+                  "level": 3,
+                  "content": "Know that function application means a function\napplied to its arguments.\nThe process of giving particular inputs to a\nfunction is called function application, for\nexample add(3,4) represents the application of\nthe function add to integer arguments 3 and 4.\nThe type of the function is\nf: integer x integer → integer\nwhere integer x integer is the Cartesian product\nof the set integer with itself.\nAlthough we would say that function f takes two\narguments, in fact it takes only one argument,\nwhich is a pair, for example (3,4).",
+                  "children": []
+                },
+                {
+                  "code": "4.12.1.4",
+                  "title": "Partial function application",
+                  "level": 3,
+                  "content": "Know what is meant by partial function\napplication for one, two and three argument\nfunctions and be able to use the notations\nshown opposite.\nThe function add takes two integers as\narguments and gives an integer as a result.\nViewed as follows in the partial function\napplication scheme:\nadd: integer → (integer → integer)\nadd 4 returns a function which when applied to\nanother integer adds 4 to that integer.\nThe brackets may be dropped so function add\nbecomes add:\ninteger → integer → integer\nThe function add is now viewed as taking one\nargument after another and returning a result of\ndata type integer.",
+                  "children": []
+                },
+                {
+                  "code": "4.12.1.5",
+                  "title": "Composition of functions",
+                  "level": 3,
+                  "content": "Know what is meant by composition of\nThe operation functional composition combines\nfunctions.\ntwo functions to get a new function.\nGiven two functions\nf: A → B\ng: B → C\nfunction g ○ f, called the composition of g and f, is\na function whose domain is A and co-domain is C.\nIf the domain and co-domains of f and g are ℝ,\nand f(x) = (x + 2) and g(y) = y3. Then\ng ○ f = (x + 2)3\nf is applied first and then g is applied to the result\nreturned by f.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.12.2",
+              "title": "Writing functional programs",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.12.2.1",
+                  "title": "Functional language programs",
+                  "level": 3,
+                  "content": "Show experience of constructing simple\nThe following is a list of functional programming\nprograms in a functional programming\nlanguages that could be used:\nlanguage.\nOther languages with built-in support for\nprogramming in a functional paradigm as well as\nother paradigms are:\nHigher-order functions.\nA function is higher-order if it takes a function as\nan argument or returns a function as a result, or\ndoes both.\n- Haskell\n- Standard ML\n- Scheme\n- Lisp.\n- Python\n- F#\n- C#\n- Scala\n- Java 8\n- Delphi XE versions onwards\n- VB.NET 2008 onwards.\nHave experience of using the following in a\nmap is the name of a higher-order function that\nfunctional programming language:\napplies a given function to each element of a list,\nreturning a list of results.\n- map\nfilter is the name of a higher-order function that\n- filter\nprocesses a data structure, typically a list, in some\n- reduce or fold.\norder to produce a new data structure containing\nexactly those elements of the original data\nstructure that match a given condition.\nreduce or fold is the name of a higher-order\nfunction which reduces a list of values to a single\nvalue by repeatedly applying a combining function\nto the list values.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.12.3",
+              "title": "Lists in functional programming",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.12.3.1",
+                  "title": "List processing",
+                  "level": 3,
+                  "content": "Be familiar with representing a list as a\nconcatenation of a head and a tail.\nKnow that the head is an element of a list and\nthe tail is a list.\nKnow that a list can be empty.\nDescribe and apply the following operations:\n- return head of list\n- return tail of list\n- test for empty list\n- return length of list\n- construct an empty list\n- prepend an item to a list\n- append an item to a list.\nHave experience writing programs for the list\noperations mentioned above in a functional\nprogramming language or in a language with\nsupport for the functional paradigm.\nFor example, in Haskell the list [4, 3, 5] can be\nwritten in the form head:tail where head is the\nfirst item in the list and tail is the remainder of\nthe list. In the example, we have 4:[3, 5]. We\ncall 4 the head of the list and [3, 5] the tail.\n[] is the empty list.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.13",
+          "title": "Systematic approach to problem solving",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.13.1",
+              "title": "Aspects of software development",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.13.1.1",
+                  "title": "Analysis",
+                  "level": 3,
+                  "content": "Be aware that before a problem can be solved,\nit must be defined, the requirements of the\nsystem that solves the problem must be\nestablished and a data model created.\nRequirements of system must be established by\ninteraction with the intended users of the\nsystem. The process of clarifying requirements\nmay involve prototyping/agile approach.\nStudents should have experience of using\nabstraction to model aspects of the external\nworld in a program.",
+                  "children": []
+                },
+                {
+                  "code": "4.13.1.2",
+                  "title": "Design",
+                  "level": 3,
+                  "content": "Be aware that before constructing a solution,\nthe solution should be designed and specified,\nfor example planning data structures for the\ndata model, designing algorithms, designing an\nappropriate modular structure for the solution\nand designing the human user interface.\nBe aware that design can be an iterative\nprocess involving a prototyping/agile approach.\nStudents should have sufficient experience of\nsuccessfully structuring programs into modular\nparts with clear documented interfaces to\nenable them to design appropriate modular\nstructures for solutions.",
+                  "children": []
+                },
+                {
+                  "code": "4.13.1.3",
+                  "title": "Implementation",
+                  "level": 3,
+                  "content": "Be aware that the models and algorithms need\nto be implemented in the form of data structures\nand code (instructions) that a computer can\nunderstand.\nBe aware that the final solution may be arrived\nat using an iterative process employing\nprototyping/an agile approach with a focus on\nsolving the critical path first.\nStudents should have sufficient practice of\nwriting, debugging and testing programs to\nenable them to develop the skills to articulate\nhow programs work arguing for their\ncorrectness and efficiency using logical\nreasoning, test data and user feedback.",
+                  "children": []
+                },
+                {
+                  "code": "4.13.1.4",
+                  "title": "Testing",
+                  "level": 3,
+                  "content": "Be aware that the implementation must be tested\nfor the presence of errors, using selected test data\ncovering normal (typical), boundary and erroneous\ndata.\nIt should also undergo acceptance testing with the\nintended user(s) of the system to ensure that the\nintended solution meets its specification.\nStudents should have practical experience\nof designing and applying test data, normal,\nboundary and erroneous to the testing of\nprograms so that they are familiar with these\ntest data types and the purpose of testing.\nStudents will only need to provide evidence\nof user feedback not details of the tests\ncarried out by the end user.",
+                  "children": []
+                },
+                {
+                  "code": "4.13.1.5",
+                  "title": "Evaluation",
+                  "level": 3,
+                  "content": "Know the criteria for evaluating a computer\nsystem.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.14",
+          "title": "Non-exam assessment - the computing practical project",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "4.14.1",
+              "title": "Overview",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.14.1.1",
+                  "title": "Purpose of the project",
+                  "level": 3,
+                  "content": "The project allows students to develop their practical skills in the context of solving a realistic\nproblem or carrying out an investigation. The project is intended to be as much a learning\nexperience as a method of assessment; students have the opportunity to work independently on a\nproblem of interest over an extended period, during which they can extend their programming skills\nand deepen their understanding of computer science.\nThe most important skill that should be assessed through the project is a student's ability to create\na programmed solution to a problem or investigation. This is recognised by allocating 42 of the 75\navailable marks to the technical solution and a lower proportion of marks for supporting\ndocumentation to reflect the expectation that reporting of the problem, its analysis, the design of a\nsolution or plan of an investigation and testing and evaluation will be concise.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.1.2",
+                  "title": "Types of problem/investigation",
+                  "level": 3,
+                  "content": "Students are encouraged to choose a problem to solve or investigate that will interest them and\nthat relates to a field that they have some knowledge of. There are no restrictions on the types of\nproblem/investigation that can be submitted or the development tools (for example programming\nlanguage) that can be used. The two key questions to ask when selecting a problem/investigation\nare:\n- Does the student have existing knowledge of the field, or are they in a position to find out\nabout it?\n- Is a solution to the problem/investigation likely to give the student the opportunity to\ndemonstrate the necessary degree of technical skill to achieve a mark that reflects their\npotential?\nSome examples of the types of problem to solve or investigate are:\n- a simulation for example, of a business or scientific nature, or an investigation of a well-\nknown problem such as the game of life\n- a solution to a data processing problem for an organisation, such as membership systems\n- the solution of an optimisation problem, such as production of a rota, shortest-path problems\nor route finding\n- a computer game\n- an application of artificial intelligence\n- a control system, operated using a device such as an Arduino board\n- a website with dynamic content, driven by a database back-end\n- an app for a mobile phone or tablet\n- an investigation into an area of computing, such as rendering a three-dimensional world on\nscreen\n- investigating an area of data science using, for example, Twitter feed data or online public\ndata sets\n- investigating machine learning algorithms.\nThere is an expectation that within a centre, the problems chosen by students to solve or\ninvestigate will be sufficiently different to avoid the work of one student informing the work of\nanother because they are working on the same problem or investigation. Teachers will be required\nto record on the Candidate Record Form for each student that they have followed this guideline. If\nin any doubt on whether problems chosen by students have the potential to raise this issue, please\ncontact your AQA adviser.\nTable 1 and Table 2 show the technical skills and coding styles required for an A-level standard\nproject. If a problem/investigation is selected that is not of A-level standard then the marks\navailable in each section will be restricted.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.1.3",
+                  "title": "Project documentation structure",
+                  "level": 3,
+                  "content": "The project is assessed in five sections. The table below lists the maximum available mark for\neach section of the project:\nSection\nAnalysis\nDocumented design\nTechnical solution\nTesting\nEvaluation\nTotal\nMax mark\nFor marking purposes, the project documentation should be presented in the order indicated in the\ntable above. The table does not imply that students are expected to follow a traditional systems life\ncycle approach when working on their projects, whereby a preceding stage must be completed\nbefore the next can be tackled. It is recognised that this approach is unsuited to the vast majority of\nproject work, and that project development is likely to be an iterative process, with earlier parts of\nthe project being revisited as a result of discoveries made in later parts. Students should be\nencouraged to start prototyping and writing code early on in the project process. A recommended\nstrategy is to tackle the critical path early in the project development process. The critical path is\nthe part of the project that everything else depends on for a working system or a complete\ninvestigation result to be achieved.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.14.2",
+              "title": "Using a level of response mark scheme",
+              "level": 2,
+              "content": "Level of response mark schemes are broken down into a number of levels, each of which has a\ndescriptor. The descriptor for the level shows the average performance for the level. There are a\nrange of marks in each level. The descriptor for the level represents a typical mid-mark\nperformance in that level.\nBefore applying the mark scheme to a student’s project, read it through and annotate it to show the\nqualities that are being looked for. You can then apply the mark scheme.",
+              "children": [
+                {
+                  "code": "4.14.2.1",
+                  "title": "Step 1 Determine a level",
+                  "level": 3,
+                  "content": "Start at the lowest level of the mark scheme and use it as a ladder to see whether the performance\nin that section of the project meets the descriptor for that level. The descriptor for the level\nindicates the different qualities that might be seen in the student’s work for that level. If it meets the\nlowest level then go to the next one and decide if it meets this level, and so on, until you have a\nmatch between the level descriptor and the work. With practice and familiarity you will find you will\nbe able to quickly skip through the lower levels of the mark scheme.\nWhen assigning a level you should look at the overall quality of the work rather than any small or\nspecific parts where the student has not performed quite as the level descriptor. If the work covers\ndifferent aspects of different levels of the mark scheme you should use a best fit approach for\ndefining the level and then use the variability of the response to help decide the mark within the\nlevel. ie if the response is predominantly level 3 with a small amount of level 4 material it would be\nplaced in level 3 but be awarded a mark near the top of the level because of the level 4 content.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.2.2",
+                  "title": "Step 2 Determine a mark",
+                  "level": 3,
+                  "content": "Once you have assigned a level you need to decide on the mark. The exemplar materials used for\nstandardisation will help. This work will have been awarded a mark by AQA. You can compare your\nstudent’s work with the exemplar to determine if it is the same standard, better or worse. You can\nthen use this to allocate a mark for the work based on AQA's mark on the exemplar.\nYou may well need to read back through the work as you apply the mark scheme to clarify points\nand assure yourself that the level and the mark are appropriate.\nWork which contains nothing of relevance to the project area being assessed must be awarded no\nmarks for that area.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.14.3",
+              "title": "Marking criteria",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.14.3.1",
+                  "title": "Analysis (9 marks)",
+                  "level": 3,
+                  "content": "Level\nMark range\nDescription\n7-9\nFully or nearly fully scoped analysis of a real problem,\npresented in a way that a third party can understand.\nRequirements fully documented in a set of measurable and\nappropriate specific objectives, covering all required\nfunctionality of the solution or areas of investigation.\nRequirements arrived at by considering, through dialogue,\nthe needs of the intended users of the system, or recipients\nof the outcomes for investigative projects.\nProblem sufficiently well modelled to be of use in\nsubsequent stages.\n4-6\nWell scoped analysis (but with some omissions that are not\nserious enough to undermine later design) of a real\nproblem.\nMost, but not all, requirements documented in a set of, in\nthe main, measurable and appropriate specific objectives\nthat cover most of the required functionality of a solution or\nareas of investigation.\nRequirements arrived at, in the main, by considering,\nthrough dialogue, the needs of the intended users of the\nsystem, or recipients of the outcomes for investigative\nprojects.\nProblem sufficiently well modelled to be of use in\nsubsequent stages.\n1-3\nPartly scoped analysis of a problem.\nRequirements partly documented in a set of specific\nobjectives, not all of which are measurable or appropriate\nfor developing a solution. The required functionality or areas\nof investigation are only partly addressed.\nSome attempt to consider, through dialogue, the needs of\nthe intended users of the system, or recipients of the\noutcomes for investigative projects.\nProblem partly modelled and of some use in subsequent\nstages.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.3.2",
+                  "title": "Documented design (12 marks)",
+                  "level": 3,
+                  "content": "Level\nMark range\nDescription\n10-12\nFully or nearly fully articulated design for a real problem,\nthat describes how all or almost all of the key aspects of the\nsolution/investigation are to be structured/are structured.\n7-9\nAdequately articulated design for a real problem that\ndescribes how most of the key aspects of the solution/\ninvestigation are to be structured/are structured.\n4-6\nPartially articulated design for a real problem that describes\nhow some aspects of the solution/investigation are to be\nstructured/are structured.\n1-3\nInadequate articulation of the design of the solution so that it\nis difficult to obtain a picture of how the solution/\ninvestigation is to be structured/is structured without\nresorting to looking directly at the programmed solution.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.3.3",
+                  "title": "Technical solution (42 marks)",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "4.14.3.3.1",
+                      "title": "Completeness of solution (15 marks)",
+                      "level": 4,
+                      "content": "Level\nMark range\nDescription\n11-15\nA system that meets almost all of the requirements of a\nsolution/an investigation (ignoring any requirements that go\nbeyond the demands of A-level).\n6-10\nA system that achieves many of the requirements but not\nall. The marks at the top end of the band are for systems\nthat include some of the most important requirements.\n1-5\nA system that tackles some aspects of the problem or\ninvestigation.",
+                      "children": []
+                    },
+                    {
+                      "code": "4.14.3.3.2",
+                      "title": "Techniques used (27 marks)",
+                      "level": 4,
+                      "content": "Level\nMark\nDescription\nRange\n19-27\nThe techniques used are\nappropriate and demonstrate a level\nof technical skill equivalent to those\nlisted in Group A in Table 1.\nProgram(s) demonstrate(s) that the\nskill required for this level has been\napplied sufficiently to demonstrate\nproficiency.\n10-18\nThe techniques used are\nappropriate and demonstrate a level\nof technical skill equivalent to those\nlisted in Group B in Table 1.\nProgram(s) demonstrate(s) that the\nskill required for this level has been\napplied sufficiently to demonstrate\nproficiency.\nAbove average performance: Group\nA equivalent algorithms and model\nprogrammed more than well to\nexcellent; all or almost all excellent\ncoding style characteristics; more\nthan to highly effective solution.\nAverage performance: Group A\nequivalent algorithms and/or model\nprogrammed well; majority of\nexcellent coding style\ncharacteristics; an effective solution.\nBelow average performance: Group\nA equivalent algorithms and/or\nmodel programmed just adequately\nto fully adequate; some excellent\ncoding style characteristics; less\nthan effective to fairly effective\nsolution.\nAbove average performance: Group\nB equivalent algorithms and model\nprogrammed more than well to\nexcellent; majority of excellent\ncoding style characteristics; more\nthan to highly effective solution.\nAverage performance: Group B\nequivalent algorithms and/or model\nprogrammed well; some excellent\ncoding style characteristics; effective\nsolution.\nBelow average performance: Group\nB equivalent algorithms and/or\nmodel programmed just adequately\nto fully adequate; all or almost all\nrelevant good coding style\ncharacteristics but possibly one\nexample at most of excellent\ncharacteristics; less than effective to\nfairly effective solution.\nLevel\nMark\nDescription\nRange\n1-9\nThe techniques used demonstrate a\nlevel of technical skill equivalent to\nthose listed in Group C in Table 1.\nProgram(s) demonstrate(s) that the\nskill required for this level has been\napplied sufficiently to demonstrate\nproficiency.\nSelect the band, 1, 2 or 3 with level of demand description that best matches the techniques and\nskill that the student’s program attempts to cover. The emphasis is on what the student has\nactually achieved that demonstrates proficiency at this level rather than what the student has set\nout to use and do but failed to demonstrate, eg because of poor execution. Check the proficiency\ndemonstrated in the program. If the student fails to demonstrate proficiency at the initial level of\nchoice, drop down a level to see if what the student has done demonstrates proficiency at this level\nfor the lower demand until a match is obtained. Table 1 is indicative of the standard required and is\nnot to be treated as just a list of things for students to select from and to be automatically credited\nfor including in their work.\nAs indicated above, having selected the appropriate level for techniques used and proficiency in\ntheir use, the exact mark to award should be determined based upon:\n- the extent to which the criteria for the mark band have been achieved\n- the quality of the coding style that the student has demonstrated (see Table 2 for\nexemplification of what is expected)\n- the effectiveness of the solution.\nAbove average performance: Group\nC equivalent model and algorithms\nprogrammed more than well to\nexcellent; almost all relevant good\ncoding style characteristics; more\nthan to highly effective simple\nsolution.\nAverage performance: Group C\nequivalent model and algorithms\nprogrammed well; some relevant\ngood coding style characteristics;\neffective simple solution.\nBelow average performance: Group\nC equivalent algorithms and/or\nmodel programmed in a severely\nlimited to limited way; basic coding\nstyle characteristics; trivial to lacking\nin effectiveness simple solution.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "4.14.3.4",
+                  "title": "Example technical skills",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "4.14.3.4.1",
+                      "title": "Table 1: Example technical skills",
+                      "level": 4,
+                      "content": "Group\nModel (including data model/structure)\nA\nComplex data model in database (eg\nseveral interlinked tables)\nHash tables, lists, stacks, queues, graphs,\ntrees or structures of equivalent standard\nFiles(s) organised for direct access\nComplex scientific/mathematical/robotics/\ncontrol/business model\nComplex user-defined use of object-\norientated programming (OOP) model, eg\nclasses, inheritance, composition,\npolymorphism, interfaces\nComplex client-server model\nAlgorithms\nCross-table parameterised SQL\nAggregate SQL functions\nUser/CASE-generated DDL script\nGraph/Tree Traversal\nList operations\nLinked list maintenance\nStack/Queue Operations\nHashing\nAdvanced matrix operations\nRecursive algorithms\nComplex user-defined algorithms (eg\noptimisation, minimisation, scheduling,\npattern matching) or equivalent difficulty\nMergesort or similarly efficient sort\nDynamic generation of objects based on\ncomplex user-defined use of OOP model\nServer-side scripting using request and\nresponse objects and server-side\nextensions for a complex client-server\nmodel\nCalling parameterised Web service APIs\nand parsing JSON/XML to service a\ncomplex client-server model\nGroup\nModel (including data model/structure)\nB\nSimple data model in database (eg two or\nthree interlinked tables)\nMulti-dimensional arrays\nDictionaries\nRecords\nText files\nFile(s) organised for sequential access\nSimple scientific/mathematical /robotics/\ncontrol/business model\nSimple OOP model\nSimple client-server model\nC\nSingle-dimensional arrays\nAppropriate choice of simple data types\nSingle table database\nNote that the contents of Table 1 are examples, selected to illustrate the level of demand of the\ntechnical skills that would be expected to be demonstrated in each group. The use of alternative\nalgorithms and data models is encouraged. If a project cannot easily be marked against Table 1\n(for example, a project with a considerable hardware component) then please consult your AQA\nnon-exam assessment Adviser or provide a full explanation of how you have arrived at the mark for\nthis section when submitting work for moderation.\nAlgorithms\nSingle table or non-parameterised SQL\nBubble sort\nBinary search\nWriting and reading from files\nSimple user defined algorithms (eg a range\nof mathematical/statistical calculations)\nGeneration of objects based on simple\nOOP model\nServer-side scripting using request and\nresponse objects and server-side\nextensions for a simple client-server model\nCalling Web service APIs and parsing\nJSON/XML to service a simple client-\nserver model\nLinear search\nSimple mathematical calculations (eg\naverage)\nNon-SQL table access",
+                      "children": []
+                    },
+                    {
+                      "code": "4.14.3.4.2",
+                      "title": "Table 2: Coding styles",
+                      "level": 4,
+                      "content": "Style\nCharacteristic\nExcellent\nModules (subroutines) with appropriate interfaces.\nLoosely coupled modules (subroutines) – module code interacts with other\nparts of the program through its interface only.\nCohesive modules (subroutines) – module code does just one thing.\nModules(collections of subroutines) – subroutines with common purpose\ngrouped.\nDefensive programming.\nGood exception handling.\nGood\nWell-designed user interface\nModularisation of code\nGood use of local variables\nMinimal use of global variables\nManaged casting of types\nUse of constants\nAppropriate indentation\nSelf-documenting code\nConsistent style throughout\nFile paths parameterised\nBasic\nMeaningful identifier names\nAnnotation used effectively where required\nThe descriptions in Table 2 are cumulative, ie for a program to be classified as excellent it would be\nexpected to exhibit the characteristics listed as excellent, good and basic not just those listed as\nexcellent.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "4.14.3.5",
+                  "title": "Testing (8 marks)",
+                  "level": 3,
+                  "content": "Mark range\nDescription\nLevel\n7-8\nClear evidence, in the form of carefully selected\nrepresentative samples, that thorough testing has been\ncarried out. This demonstrates the robustness of the\ncomplete or nearly complete solution/thoroughness of\ninvestigation and that the requirements of the solution/\ninvestigation have been achieved.\nLevel\nMark range\nDescription\n5-6\nExtensive testing has been carried out, but the evidence\npresented in the form of representative samples does not\nmake clear that all of the core requirements of the solution/\ninvestigation have been achieved. This may be due to some\nkey aspects not being tested or because the evidence is not\nalways presented clearly.\n3-4\nEvidence in the form of representative samples of\nmoderately extensive testing, but falling short of\ndemonstrating that the requirements of the solution/\ninvestigation have been achieved and the solution is robust/\ninvestigation thorough.\nThe evidence presented is explained.\n1-2\nA small number of tests have been carried out, which\ndemonstrate that some parts of the solution work/some\noutcomes of the investigation are achieved.\nThe evidence presented may not be entirely clear.\nEvidence for the testing section may be produced after the system has been fully coded or during\nthe coding process. It is expected that tests will either be planned in a test plan or that the tests will\nbe fully explained alongside the evidence for them. Only carefully selected representative samples\nare required.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.3.6",
+                  "title": "Evaluation (4 marks)",
+                  "level": 3,
+                  "content": "Level\nMark\nDescription\nFull consideration given to how well the outcome meets all\nof its requirements.\nHow the outcome could be improved if the problem was\nrevisited is discussed and given detailed consideration.\nIndependent feedback obtained of a useful and realistic\nnature, evaluated and discussed in a meaningful way.\nFull or nearly full consideration given to how well the\noutcome meets all of its requirements.\nHow the outcome could be improved if the problem was\nrevisited is discussed but consideration given is limited.\nIndependent feedback obtained of a useful and realistic\nnature but is not evaluated and discussed in a meaningful\nway, if at all.\nLevel\nMark\nDescription\nThe outcome is discussed but not all aspects are fully\naddressed either by omission or because some of the\nrequirements have not been met and those requirements\nnot met have been ignored in the evaluation.\nNo independent feedback obtained or if obtained is not\nsufficiently useful or realistic to be evaluated in a\nmeaningfully way even if attempted.\nSome of the outcomes are assessed but only in a superficial\nway.\nNo independent feedback obtained or if obtained is so basic\nas to be not worthy of evaluation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.14.4",
+              "title": "Project tasks that are not of A-level standard",
+              "level": 2,
+              "content": "If the task (problem or investigation) selected for a project is not of A-level standard, mark the\nproject against the criteria given, but adjust, the mark awarded downwards by two marking levels\n(two marks in the case of evaluation) in each section for all but the technical solution. You should\nhave already taken the standard into account for this, by directly applying the criteria. For example,\nif a student had produced a 'fully or nearly fully articulated design of a real problem describing how\nsolution is to be structured/is structured'. This would, for an A-level standard project, achieve a\nmark in Level Four for Documented Design (10-12 marks). If the problem selected was too simple\nto be of A-level standard but the same criteria had been fulfilled, shift the mark awarded down by\ntwo levels, into Level Two, an award of 4-6 marks. If a downward shift by two levels is not possible,\nthen a mark in the lowest level should be awarded.",
+              "children": []
+            },
+            {
+              "code": "4.14.5",
+              "title": "Guide to non-exam assessment documentation",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.14.5.1",
+                  "title": "Analysis",
+                  "level": 3,
+                  "content": "Students are expected to:\n- produce a clear statement that describes the problem area and specific problem that is being\nsolved/investigated\n- outline how they researched the problem\n- state for whom the problem is being solved/investigated\n- provide background in sufficient detail for a third party to understand the problem being\nsolved/investigated\n- produce a numbered list of measurable, \"appropriate\" specific objectives, covering all\nrequired functionality of the solution or areas of investigation (Appropriate means that the\nspecific objectives are single purpose and at a level of detail that is without ambiguity.)\n- report any modelling of the problem that will inform the Design stage, for example a graph/\nnetwork model of Facebook connections or an E-R model.\nA fully scoped analysis is one that has:\n- researched the problem thoroughly\n- has clearly defined the problem being solved/investigated\n- omitted nothing that is relevant to subsequent stages\n- statements of objectives which clearly and unambiguously identify the scope of the project\n- modelled the problem for the Design stage where this is possible and necessary.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.5.2",
+                  "title": "Design",
+                  "level": 3,
+                  "content": "Students are expected to articulate their design in a manner appropriate to the task and with\nsufficient clarity for a third party to understand how the key aspects of the solution/investigation are\nstructured and on what the design will rely, eg use of numerical and scientific package libraries,\ndata visualisation package library, particular relational database and/or web design framework. The\nemphasis is on communicating the design; therefore it is acceptable to provide a description of the\ndesign in a combination of diagrams and prose as appropriate, as well as a description of\nalgorithms, SQL, data structures, database relations as appropriate, and using relevant technical\ndescription languages, such as pseudo-code. Where design of a user interface is relevant, screen\nshots of actual screens are acceptable.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.5.3",
+                  "title": "Technical solution",
+                  "level": 3,
+                  "content": "Students should provide program listing(s) that demostrate their technical skill. The program\nlisting(s) should be appropriately annotated and self-documenting (an approach that uses\nmeaningful identifiers, with well structured code that minimises instances where program\ncomments are necessary).\nStudents should present their work in a way that will enable a third party to discern the quality and\npurpose of the coding. This could take the form of:\n- an overview guide which amongst other things includes the names of entities such as\nexecutables, data filenames/urls, database names, pathnames so that a third party can, if\nthey so desire, run the solution/investigation\n- explanations of particularly difficult-to-understand code sections; a careful division of the\npresentation of the code listing into appropriately labelled sections to make navigation as\neasy as possible for a third party reading the code listing.\nAchievement of the latter, to an extent, is linked to the skill in applying a structured approach during\nthe course of developing the solution or carrying out the investigation.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.5.4",
+                  "title": "Testing",
+                  "level": 3,
+                  "content": "Students must provide and present in a structured way for example in tabular form, clear evidence\nof testing. This should take the form of carefully selected and representative samples, which\ndemonstrate the robustness of the complete, or nearly complete, solution/thoroughness of\ninvestigation and which demonstrate that the requirements of the solution/investigation have been\nachieved. The emphasis should be on producing a representative sample in a balanced way and\nnot on recording every possible test and test outcome. Students should explain the tests carried\nout alongside the evidence for them. This could take the form of:\n- an introduction and overview\n- the test performed\n- its purpose if not self-evident\n- the test data\n- the expected test outcome\n- the actual outcome with a sample of the evidence, for example screen shots of before and\nafter the test, etc, sampled in order to limit volume.",
+                  "children": []
+                },
+                {
+                  "code": "4.14.5.5",
+                  "title": "Evaluation",
+                  "level": 3,
+                  "content": "Students should consider and assess how well the outcome meets its requirements. Students\nshould obtain independent feedback on how well the outcome meets its requirements and discuss\nthis feedback. Some of this feedback could be generated during prototyping. If so, this feedback,\nand how/why it was taken account must be presented and referenced so it can be found easily.\nStudents should also consider and discuss how the outcome could be improved more realistically if\nthe problem/investigation were to be revisited.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.14.6",
+              "title": "Assessment objective breakdown for non-exam assessment",
+              "level": 2,
+              "content": "Section\nTotal\nAO2\nAnalysis\nDesign\nTechnical Solution 42\nTesting\nEvaluation\nTotals\nAO3\nElements\nAO2b\nAO3a\nAO3b\nAO3c\nAO3c",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

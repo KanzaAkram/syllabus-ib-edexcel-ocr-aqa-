@@ -1,0 +1,47 @@
+{
+  "source_pdf": "GCSE/English_Language/8700_2017_to_PRESENT/AQA_GCSE_English_Language_8700_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "English Language",
+  "spec_code": "8700",
+  "pdf_name": "AQA_GCSE_English_Language_8700_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Scope of study",
+          "level": 1,
+          "content": "This GCSE specification in English Language will require students to study the following content:",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Critical reading and comprehension",
+              "level": 2,
+              "content": "- critical reading and comprehension: identifying and interpreting themes, ideas and\ninformation in a range of literature and other high-quality writing; reading in different ways for\ndifferent purposes, and comparing and evaluating the usefulness, relevance and\npresentation of content for these purposes; drawing inferences and justifying these with\nevidence; supporting a point of view by referring to evidence within the text; identifying bias\nand misuse of evidence, including distinguishing between statements that are supported by\nevidence and those that are not; reflecting critically and evaluatively on text, using the\ncontext of the text and drawing on knowledge and skills gained from wider reading;\nrecognising the possibility of different responses to a text\n- summary and synthesis: identifying the main theme or themes; summarising ideas and\ninformation from a single text; synthesising from more than one text\n- evaluation of a writer’s choice of vocabulary, form, grammatical and structural features:\nexplaining and illustrating how vocabulary and grammar contribute to effectiveness and\nimpact, using linguistic and literary terminology accurately to do so and paying attention to\ndetail; analysing and evaluating how form and structure contribute to the effectiveness and\nimpact of a text\n- comparing texts: comparing two or more texts critically with respect to the above.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Writing",
+              "level": 2,
+              "content": "- producing clear and coherent text: writing effectively for different purposes and audiences: to\ndescribe, narrate, explain, instruct, give and respond to information, and argue; selecting\nvocabulary, grammar, form, and structural and organisational features judiciously to reflect\naudience, purpose and context; using language imaginatively and creatively; using\ninformation provided by others to write in different forms; maintaining a consistent point of\nview; maintaining coherence and consistency across a text\n- writing for impact: selecting, organising and emphasising facts, ideas and key points; citing\nevidence and quotation effectively and pertinently to support views; creating emotional\nimpact; using language creatively, imaginatively and persuasively, including rhetorical\ndevices (such as rhetorical questions, antithesis, parenthesis).",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Spoken language",
+              "level": 2,
+              "content": "- presenting information and ideas: selecting and organising information and ideas effectively\nand persuasively for prepared spoken presentations; planning effectively for different\npurposes and audiences; making presentations and speeches\n- responding to spoken language: listening to and responding appropriately to any questions\nand feedback\n- spoken Standard English: expressing ideas using Standard English whenever and wherever\nappropriate.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

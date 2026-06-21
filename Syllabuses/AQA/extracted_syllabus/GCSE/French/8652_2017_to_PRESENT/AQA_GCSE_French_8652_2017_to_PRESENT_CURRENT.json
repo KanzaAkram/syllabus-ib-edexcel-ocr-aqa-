@@ -1,0 +1,368 @@
+{
+  "source_pdf": "GCSE/French/8652_2017_to_PRESENT/AQA_GCSE_French_8652_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "French",
+  "spec_code": "8652",
+  "pdf_name": "AQA_GCSE_French_8652_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Themes",
+          "level": 1,
+          "content": "The specification covers three distinct themes. These themes apply to all four question papers.\nPassages in the Listening and Reading assessments will be set in the context of the target\nlanguage countries and communities. In the Speaking and Writing assessments, students will be\nable to respond according to their own interests and experiences.\nThe texts and tasks set for the assessments will be based on the prescribed vocabulary list in\nAppendix 2 and the prescribed grammar in Section 3.2.\nIt is not intended that the themes and topics will be specifically referenced in all assessment tasks.\nStudents will be expected to use the prescribed vocabulary and grammar across a range of\ncontexts and assessment tasks.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Theme 1: People and lifestyle",
+              "level": 2,
+              "content": "Theme 1 covers the following three topics:\n- Topic 1: Identity and relationships with others\n- Topic 2: Healthy living and lifestyle\n- Topic 3: Education and work",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Theme 2: Popular culture",
+              "level": 2,
+              "content": "Theme 2 covers the following three topics:\n- Topic 1: Free-time activities\n- Topic 2: Customs, festivals and celebrations\n- Topic 3: Celebrity culture",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Theme 3: Communication and the world around us",
+              "level": 2,
+              "content": "Theme 3 covers the following three topics:\n- Topic 1: Travel and tourism, including places of interest\n- Topic 2: Media and technology\n- Topic 3: The environment and where people live",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Grammar",
+          "level": 1,
+          "content": "GCSE students will be expected to develop and use their knowledge of grammar throughout their\ncourse.\nThe grammar requirements for GCSE are set out in two tiers: Foundation and Higher. Students are\nrequired to use their knowledge of grammar from the specified lists, appropriate to the relevant tier\nof entry. Students entering Higher tier assessments will be required to apply all grammar listed for\nFoundation tier in addition to the grammar listed for Higher tier.\nStudents will be expected to use the prescribed grammar across a range of contexts and\nassessment tasks.\nThe lists describe grammatical features of the most widely used standard varieties.\nThe lists are written from the point of view of English-speaking students of the language, and so\ninclude some reference to certain cross-linguistically complex relations with English.\nStudents are required to demonstrate both receptive and productive knowledge of the grammar\nfrom the list (although the derivational morphology laid out in the grammar annex can only be\nincluded for Paper 3 Reading).\n‘Grammar’ is defined as including the morphology (inflectional and derivational) and syntax (rules\nof word order, relations between words and obligatory use of specific features). The vocabulary\nlists contain the lexicon that is needed to apply the grammar.\nSome grammatical features can be perceived as ‘grammar’ or ‘lexicon’ – these items are listed in\nthe vocabulary list, as stipulated in the DfE Subject Content. The vocabulary list also specifies\nhighly irregular forms within a grammatical subsystem (ie, subparts of paradigms where only some\nforms are irregular), as laid out in the Grammar requirements. This is because forms, such as\nirregular stems, are likely to be learnt and retrieved as individual items rather than as part of a\nbroader grammatical system. Listing them in the vocabulary list, therefore, reflects the pedagogical\nattention required for these highly irregular forms.\nItems given in brackets in the grammar list which are prefaced with 'eg' are illustrative, ie serve\nonly to clarify the description of the grammar features, and such items are not included in the\nvocabulary list. In contrast, items that are not prefaced by 'eg' are comprehensive, providing all the\nexamples of the grammar that are included in the DfE Subject Content, and all such items are\ncontained in the vocabulary list.\nNote that the English equivalents of some of the grammar are provided. This is relevant when\ntesting students’ ability to work from English to French (eg, in translation tasks).",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Foundation tier",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "Noun phrases",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Formation of feminine person nouns",
+                      "level": 4,
+                      "content": "Highly frequent irregulars are listed in the vocabulary list as separate items (eg, chef/cheffe, héros/\nhéroïne, Juif/Juive).\n- Add -e\n- No change (article changes only)\n-eur ➜ -rice and/or -euse depending on which relevant base words (masculine forms) are\n- included in the vocabulary list\n-en ➜ -nne",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Formation of plural nouns",
+                      "level": 4,
+                      "content": "Highly frequent irregulars are listed in the vocabulary list as separate items (eg, madame/\nmesdames, monsieur/messieurs, œil/yeux).\n- Add -s to most nouns\n- Add -x to masculine nouns ending in -(e)au and -eu\n- No change for nouns ending in -s, -x",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Infinitive used as a noun",
+                      "level": 4,
+                      "content": "Ie, equivalent of -ing (gerund) in English.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Determiners: Articles",
+                      "level": 4,
+                      "content": "Agreement of articles with noun for gender and number (le, la, les and un, une, des).\nContraction of definite article (le/la ➜ l’) before singular nouns that start with a vowel or h muet.\nFunctions of definite and indefinite articles, including where their use or omission differs from\nEnglish (eg, La santé est importante, le mercredi).\nUse of definite article before an adjective to form a noun, including uninflected adjectives for\nlanguages and addition of a capital letter where the resulting noun is a nationality (eg, seul ➜ le\nseul, anglais ➜ l’anglais, anglaise ➜ l'Anglaise).\nPartitive articles when distinguishing between parts and wholes. Eg, after jouer with musical\ninstruments, after faire with sports.\nUse of de (and omission of article) before nouns following a verb in negative and after expressions\nof quantity.\nContraction of de to d’ before a word beginning with a vowel.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Other determiners",
+                      "level": 4,
+                      "content": "Demonstrative adjectives (ce, cet, cette, ces).\nPossessive adjectives (mon, ma, mes, ton, ta, tes, son, sa, ses, notre, nos, votre, vos, leur, leurs).\nInterrogative adjectives (quel, quelle, quels, quelles).\nAgreement patterns for indefinite adjectives (chaque, plusieurs, même(s), autre(s), tout(e)(s), tous,\nquelque(s)).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Pronouns",
+                      "level": 4,
+                      "content": "Subject pronouns (je, tu, il, elle, on, nous, vous – as singular and plural formal ‘you’ – ils and elles\nare listed in the vocabulary list. Their grammar (agreement, position) is laid out in this grammar list.\nPreverbal position of singular direct object pronouns (me, te, vous, le, la) (not juxtaposed with\nindirect object pronouns).\nPreverbal position of singular indirect object pronouns (me, te, vous, lui) (not juxtaposed with direct\nobject pronouns).\nPreverbal position of singular reflexive pronouns (me, te, se).\nContraction of pronouns (me ➜ m’, te ➜ t’, le/la ➜ l’, se ➜ s’) before a vowel or h muet.\nUse of emphatic pronouns moi and toi after prepositions (the pronouns and relevant individual\nprepositions are listed separately in the vocabulary list).\nUse of relative pronoun qui in subject relative clauses.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Verb phrases",
+                  "level": 3,
+                  "content": "Verbs and verb forms that do not fit into the grammar detailed here can still be listed in the\nvocabulary list.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Negation",
+                      "level": 4,
+                      "content": "Syntax of verbal negation with ne…pas, ne…jamais, ne…rien (as equivalent of ‘not verb anything’\nand ‘verb nothing’), and ne…personne (as equivalent of ‘not verb anyone/body’ and ‘verb nobody’).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Interrogatives",
+                      "level": 4,
+                      "content": "Interrogatives expressed through:\n- intonation with subject verb (SV) word order, including when followed by a wh-word (qui,\nquand, quoi, pourquoi, comment, combien, où)\n- wh-word (qu’, quand, pourquoi, comment, combien, où) followed by est-ce que followed by\nSV word order\n- wh-word (que/qu’, quand, pourquoi, comment, combien, où) followed by verb subject (VS)\nword order.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Inflectional morphology",
+                      "level": 4,
+                      "content": "Specific irregular inflected forms (eg, faites, vont), as a minimum those specified below, are listed\nin the vocabulary list.\nSome verbs change the spelling in their stems. Eg, accents change (mener, je mène), consonants\nare doubled (jeter, je jette), softened (manger, nous mangeons and commencer, nous\ncommençons) or dropped (mettre, je mets). Such spelling changes will not be credit-bearing.",
+                      "children": [
+                        {
+                          "code": "",
+                          "title": "Regular* and four very high frequency irregular** patterns in 1st, 2nd, 3rd persons in singular and plural for:",
+                          "level": 5,
+                          "content": "*-er verbs (eg, parler), clusters of high frequency -ir verbs that all pattern following one of these\nfour ‘anchor’ verbs: choisir, partir, venir, ouvrir, clusters of high frequency -re verbs that all pattern\nfollowing one of these three ‘anchor’ verbs: entendre, prendre, traduire.\n**aller, avoir, être, faire (including use of avoir + noun where the English equivalent is ‘BE +\nadjective’ eg, + froid, + chaud, + an(s), + faim, + soif, + peur).\n- Present indicative, as equivalent of the English simple (I walk) and ongoing (I am walking)\nfunctions, and (with time adverbs) for expression of the future as equivalent of the English\nsimple (the holidays start tomorrow) and continuous (I am working this evening).\n- Irregular inflected forms of the four very high frequency irregular verbs (aller, avoir, être,\nfaire) are listed in the vocabulary list.\n- Perfect tense, as equivalent of the English simple past (I walked, he went) and present\nperfect (I have walked, he has gone), including past participle formation for -er verbs and the\nseven verb clusters listed above.\n- Irregular past participles of three very high frequency irregular verbs (été, eu, fait).\n- Periphrastic future expression (aller + infinitive), as equivalent of the English ‘will + verb’ and\n‘BE + going to + verb’.\n- Imperative (2nd person singular and plural only, including aller and faire; but not avoir, être;\nnot reflexive).",
+                          "children": []
+                        },
+                        {
+                          "code": "",
+                          "title": "Regular patterns (see * above) and four very high frequency irregular patterns (see ** above) in 1st, 2nd, 3rd persons in singular only (excluding ‘you’ formal) for:",
+                          "level": 5,
+                          "content": "- Imperfect for habitual (only for equivalent of English ‘used to + verb’) and ongoing (BE + ing)\nfunctions.\n- Irregular inflected forms of three very high frequency irregular verbs (avais, avait; étais,\nétait; faisais, faisait) are listed in the vocabulary list.\n- Additional English equivalent functions are listed in the vocabulary list as follows: étais,\nétait (to mean ‘was, were + adjectival complement’), avais, avait (to mean ‘had’).",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "",
+                      "title": "Other irregular inflected forms",
+                      "level": 4,
+                      "content": "Present indicative forms for 1st, 2nd, 3rd persons, in singular only, of nine high frequency verbs\n(boire, connaître, courir, croire, écrire, recevoir, rire, suivre, voir).\nTheir present indicative, past participle, imperative forms, and the infinitives are listed in the\nvocabulary list.\nAny other irregular present indicative forms, their past participles, imperative forms, and the\ninfinitives are listed in the vocabulary list.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Impersonal verbs",
+                      "level": 4,
+                      "content": "Il y a to mean ‘there is/are’, il y avait to mean ‘there was/were/used to be’ and il y aura to mean\n‘there is going to be/are going to be/will be’ are listed in the vocabulary list as multi-word phrases.\nIl fait + adjective (eg, il fait beau, il fait froid). Any adjectives that would be used in this construction\nare listed in the vocabulary list.\nIl + weather-related expressions (eg, il neige, il y a du soleil) are listed in the vocabulary list, as\nmulti-word phrases where necessary.\nIl faut + infinitive\nIl est for telling the time",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Modal verbs",
+                      "level": 4,
+                      "content": "Present indicative forms for 1st, 2nd, 3rd persons, in singular and plural of modals devoir, pouvoir,\nsavoir, vouloir followed by infinitive. All inflected forms of the modals are listed in the vocabulary\nlist.\nConditional forms in 1st, 2nd, 3rd persons, in singular only (excluding ‘you’ formal), of vouloir\n(voudrais, voudrait), as equivalent of English ‘would like (to) + verb’, are listed in the vocabulary\nlist.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Reflexive use of verbs",
+                      "level": 4,
+                      "content": "1st, 2nd, 3rd persons in singular only.\nReflexive verb forms (eg, se laver) with the same meaning as a listed base verb (eg, laver) are not\nlisted. Reflexive verb forms with different meanings from a listed base verb (eg, passer, se passer)\nwill be listed on the same line. When reflexive verb forms with different meanings from a listed\nbase verb are not listed, they will not be tested.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.1.3",
+                  "title": "Adjectival phrases",
+                  "level": 3,
+                  "content": "Agreement for gender and number with nouns following regular patterns (of adjectives listed in the\nvocabulary list).",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Gender",
+                      "level": 4,
+                      "content": "Highly frequent irregulars are listed in the vocabulary list as separate items (eg, net/te, bon/ne,\nnouveau/nouvelle, pareil/le, travailleur/travailleuse).\n- Add -e\n- No change with adjectives ending in mute -e\n-x ➜ -se\n- el ➜ -lle\n- en ➜ -nne\n- f ➜ -ve\n- er ➜ -ère",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Number",
+                      "level": 4,
+                      "content": "Irregulars beau/x and nouveau/x are listed in the vocabulary list as separate items.\n- Add -s\n- No change for masculine forms already ending in -s and -x\n-al ➜ -aux for masculine\n- Position of adjectives in relation to the nouns they refer to: mostly after nouns, before nouns only\nfor the defined set in the vocabulary list.\nUse of regular (plus…que/de, moins…que/de, aussi…que) and irregular comparative structures,\nwith the irregular adjectival forms (meilleur(e)(s) and pire(s)) listed in the vocabulary list.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.1.4",
+                  "title": "Adverbial phrases",
+                  "level": 3,
+                  "content": "Adverbs and adverbial phrases are listed in the vocabulary list.\nPosition of adverbs of time, manner, frequency, place.\nUse of regular (plus…que, moins…que, aussi…que) and irregular comparative structures, with the\nirregular adverbial form (mieux) listed in the vocabulary list.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.5",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "À/de can be needed before a noun or a second verb following some verbs. These verb +\npreposition combinations are listed in the vocabulary list alongside the verb entry (eg, finir ‘to\nfinish’, finir de + infinitive ‘to finish + verb’ and dépendre ‘to depend’, dépendre de ‘to depend on +\nnoun’). Where the preposition changes or adds to the meaning of the verb, English translations are\nlisted (eg arriver ‘to arrive’, arriver à ‘to manage to’).\nAppropriate use of en/à with proper nouns for places (eg countries, regions/states, cities).\nContraction of definite article when used with à and de to agree with the gender and number (ie, à,\nà la, au, aux; de, de la, du, des are listed in the vocabulary list).\nDe to indicate possession (eg, le sac de Léa).\nPrepositions (pour, sans) + infinitive.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.6",
+                  "title": "Derivational morphology (Reading only)",
+                  "level": 3,
+                  "content": "Derivational morphology listed here indicates that even if only the base form (eg, rapide) is listed in\nthe vocabulary list, a derived form that follows one of the patterns listed here (eg, rapidement) may\nbe included in reading texts – or if only the specific affixed form is listed, the base form may be\nincluded in reading texts. Note, if derived forms are included in listening material or required for\nproduction, they are listed separately in the vocabulary list.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Uniformly applicable derivational morphology that changes meaning",
+                      "level": 4,
+                      "content": "Ordinal numbers created by adding -ième (or by dropping -e and adding -ième) to cardinal\nnumbers eg, deux – deuxième, quatre – quatrième. Irregular forms premier and première are listed\nin the vocabulary list.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Other highly frequent patterns",
+                      "level": 4,
+                      "content": "",
+                      "children": [
+                        {
+                          "code": "",
+                          "title": "Morphology that changes meaning",
+                          "level": 5,
+                          "content": "Prefixes: adding in- or im- to adjectives, adverbs and nouns, only where the English equivalent is\nun- or in- or means ‘opposite of’. Eg, également ➜ inégalement, sécurité ➜ insécurité, possible ➜\nimpossible.",
+                          "children": []
+                        },
+                        {
+                          "code": "",
+                          "title": "Morphology that changes the part of speech",
+                          "level": 5,
+                          "content": "Suffixes:\n- Adjectives created by adding -able or -eable to the verb stem, only where the English\nequivalent is -able or -ible. Eg, porter ➜ portable, changer ➜ changeable.\n- Nouns created by adding -ion or -ation to the verb stem, only where the English equivalent is\n-ion or -ation. Eg, progresser ➜ progression, préparer ➜ préparation.\n- Adverbs ending in -ment, only where the English equivalent is -ly, created by:\nadding -ment to the feminine form of adjectives eg, première ➜ premièrement\n- by dropping -ant(e)/-ent(e) from an adjective and adding -amment/-emment eg, courant ➜\n- couramment, patient ➜ patiemment.",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "Higher tier",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.2.2.1",
+                  "title": "Noun phrases",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Determiners: Articles",
+                      "level": 4,
+                      "content": "Partitive articles with uncountable nouns\nUse of article with dans, omission of article with en",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Other determiners",
+                      "level": 4,
+                      "content": "Use of negative adjective determiner aucun(e)",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Pronouns",
+                      "level": 4,
+                      "content": "Preverbal use of pronouns y and en (not juxtaposed with other object pronouns, except in the\nphrase ‘il y en a', ‘il y en avait’ and ‘il y en aura’).\nPreverbal position of plural direct object pronouns (nous, vous, les) (not juxtaposed with indirect\nobject pronouns).\nPreverbal position of plural indirect object pronouns (nous, vous, leur) (not juxtaposed with direct\nobject pronouns).\nUse of emphatic pronouns (lui, elle, nous, vous, eux, elles) after prepositions.\nPreverbal position of plural reflexive pronouns (nous, vous, se).\nNegative subject pronouns personne ne + verb and rien ne + verb (as equivalent of English\n‘nobody + verb’ and ‘nothing + verb’).\nRelative clauses using wh- pronouns (où, quand, and que).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.2.2",
+                  "title": "Verb phrases",
+                  "level": 3,
+                  "content": "Syntax of negation with ne…plus, ne…ni… (ni …), ne… pas encore, ne…que.\nPassive voice in the present (full form only, ie with par).\nImpersonal verbs with adjectives + de (eg, il est difficile/facile/interdit de + infinitive). Any adjectives\nused in impersonal phrases are listed in the vocabulary list.\nImpersonal verbs in phrases il manque + noun, il vaut mieux + infinitive, il vaut la peine de +\ninfinitive.\nPeriphrastic time expressions être en train de (as equivalent of ‘BE [in the process of] + verb-ing’)\nand venir de (as equivalent of ‘HAVE just done + verb’).\nVerbs used with plural reflexive pronouns, with reflexive and reciprocal meanings (eg, nous nous\nécrivons, vous vous parlez, ils se regardent).",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Inflectional morphology",
+                      "level": 4,
+                      "content": "- Two additional clusters of high frequency verbs that all pattern following the ‘anchor’ verbs\nconnaître and écrire, in the forms as specified at Foundation: Present indicative (in 1st, 2nd,\n3rd persons, singular and plural), perfect tense, periphrastic future, imperative (2nd person\nsingular and plural, not reflexive), imperfect (in 1st, 2nd, 3rd persons, singular), plus the\nadditional forms laid out below for the anchor verbs.\n- Present tense with depuis (as equivalent of ‘have been + ing’ for ‘x time’).\n- Perfect tense of modals (devoir, pouvoir, savoir, vouloir) (with past participles listed in the\nvocabulary list).\nInflectional future for regular -er verbs (in 1st, 2nd, 3rd persons in singular and plural) as\n- equivalent of both ‘will + verb’ and ‘BE + going to + verb’.\n- Singular forms of four high frequency irregular verbs (aurai/auras/aura, ferai/feras/fera,\nirai/iras/ira, serai/seras/sera) are listed in the vocabulary list.\nConditional of regular -er forms only (1st, 2nd, 3rd persons) in singular and plural.\n- Singular forms of four high frequency irregular verbs (aurais/aurait, ferais/ferait, irais/irait,\nserais/serait) are listed in the vocabulary list.\nImperfect for regular (-er and the nine ‘anchor’ verb patterns) verbs 1st, 2nd and 3rd person\n- plural forms for equivalent of English habitual (‘used to + verb’) and ongoing (‘BE -ing’). This\nincludes the 1st, 2nd and 3rd person plural forms of the three very high frequency irregular\nverbs (avoir to mean ‘had’, être to mean ‘were + adjectival complement’, faire).\nImperative of 2nd person singular and plural of être (sois and soyez, each listed in vocabulary\n- list), and of regular (-er and the nine ‘anchor’ verb patterns) verbs 1st person plural (not\nreflexive), with the function ‘Let’s + verb!’\n- Present participle of regular (-er and the nine ‘anchor’ verb patterns) verbs after en, including\nadjectival use where relevant.\n- Irregular present participles of three very high frequency irregular verbs (étant, ayant,\nfaisant) are listed in the vocabulary list.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.2.3",
+                  "title": "Adjectival phrases",
+                  "level": 3,
+                  "content": "Use of regular superlative adjective structures (irregulars le meilleur/la meilleure/les meilleurs/les\nmeilleures, and le pire/la pire/les pires are listed in the vocabulary list).",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.4",
+                  "title": "Adverbial phrases",
+                  "level": 3,
+                  "content": "Use of regular superlative adverb structures (irregular le mieux is listed in the vocabulary list).",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.5",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "Preposition (avant de) + infinitive\nPreposition (après avoir) + past participle",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.6",
+                  "title": "Derivational morphology (Reading only)",
+                  "level": 3,
+                  "content": "Derivational morphology listed here indicates that even if only the base form (eg, porter) is listed in\nthe vocabulary list, a derived form that follows one of the patterns listed here (eg, porteur) may be\nincluded in reading texts. Or, if only the specific affixed form is listed, the base form may be\nincluded in reading texts. Note, if derived forms are included in listening material or required for\nproduction, they are listed separately in the vocabulary list.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Morphology that changes the part of speech",
+                      "level": 4,
+                      "content": "Suffixes: agent nouns created by adding -eur or -ateur to a verb stem, eg, porter ➜ porteur,\nconsommer ➜ consommateur",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "French sound-symbol correspondences",
+                      "level": 4,
+                      "content": "This list specifies key differences in sound-spelling correspondences between French and English\nwhich students will need to learn at GCSE to be able to read out loud and transcribe with sufficient\naccuracy at this level. It is not an exhaustive list of all the sound-spelling correspondences in the\nFrench language. Where a letter or combination of letters is pronounced (or a sound spelt) in\napproximately the same way in French as in English, it is not listed.\nStudents will be expected to pronounce words with stress patterns that allow their speech to be\nclear and comprehensible.\nThe use of hyphens indicates the position of the letters in a word, when position is relevant to the\nsound. Eg: xx- (at the beginning of a word), -xx- (in the middle of a word), -xx (at the end of a\nword).\n- silent final consonant\n- a\n- i/y\n- eu\n- e\n- au/eau/closed o/ô\n- ou\n- u\n- silent final e\n- é (-er, -ez)\n- en/an/em/am\n- on/om\n- ain/in/aim/im\n- è/ê/ai\n- oi/oy\n- ch\n- ç (and soft 'c')\n- qu\n- j\n- tion\n- ien\n- s-liaison\n- t-liaison\n- n-liaison\n- x-liaison\n- h\n- un\n- gn-\n- r\n- open eu/œu\n- open o\n- s-\n- th\n- ill-/-ille\n- aill-/ail\nPlease see Appendix 1 for examples of French words demonstrating the sound-symbol\ncorrespondences.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Vocabulary",
+          "level": 1,
+          "content": "Students should learn the GCSE French vocabulary list (Appendix 2) and will be expected to use\nthis vocabulary across a range of contexts and assessment tasks.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Composition of vocabulary content",
+              "level": 2,
+              "content": "1. Students are expected to know 1,200 lexical items for Foundation tier, and a further 500 lexical\nitems for Higher tier. Students are also required to know words which can be regularly inflected\nand (for Paper 3 Reading only) regularly derived from listed lexical items using the grammar\nspecified in section 3.3.\n2. Because no vocabulary is specified for KS2 or KS3, the vocabulary list is comprehensive and\nmakes no assumptions about vocabulary previously taught.\n3. The vocabulary lists include, as part of the 1,200 or 1,700 items, the words listed in the DfE\nsubject content Annex E. These are the words which are referenced in the grammar in section\n3. They include irregular forms of high frequency verbs and other parts of speech.\n4. In addition to the 1,200 and 1,700 items, the vocabulary lists contain:\na. 30 short phrases that are multi-word phrases in French\nb. 20 items to refer to relevant geographical or cultural places/events, including the names of\ncountries to be known receptively and productively.\n5. For Reading only:\na. Higher and overlapping tier texts in Paper 3 may include a small number of words outside the\nvocabulary list. English meanings of such words will be supplied adjacent to the text for\nreference. No more than 2% of words (rounded to the nearest whole word) in any given text\nmay be glossed in this way.\nb. For both Foundation and Higher tiers, all proper nouns (such as cities or countries) that are\nnot on the vocabulary list and are not deemed to be easily understood, can be glossed or\nexplained in an adjacent note.\nc. Up to 2% of words (rounded to the nearest whole word) of any given text can be comprised\nof cognates which are not included in the vocabulary list. Cognates are words in which the\nsubstantial majority of letters are the same in English and the assessed language; they have\nthe same meaning in both languages and any difference in spelling should not impede\nunderstanding for students entered for GCSE French.\n6. Words with multiple meanings but with the same part of speech (eg, the French noun histoire\nthat can be translated by the different English words ‘story’ and ‘history’) will be listed as one\nentry in the vocabulary list. All English equivalents that could be tested (eg, in questions that\nrequire working from English to French) are provided.\n7. The vocabulary which students will be expected to know, for both comprehension and\nproduction, will be compiled with close and explicit reference for each item on the list to\nfrequency of occurrence in the language. This information about frequency has been taken from\nLonsdale, D. & Le Bras. Y. (2009). A frequency dictionary of French: Core vocabulary for\nlearners.\n8. At least 85% of the 1,200 and 1,700 words selected has been drawn from the 2,000 most\nfrequent words occurring in the most widely used standard forms of the language. In some\ncases, more than one spelling is in common use, including where recent spelling reforms have\ntaken place. In such cases, tolerance is shown for both versions of the spelling, eg coût/cout.\nThe vast majority of lexical items listed as vocabulary are single word vocabulary items. Where a\ncompound word or multi-word phrase translates a single English word, it is counted either as a\nseparate lexical item in the main vocabulary list, or as one of the 30 multi-word phrases. However,\nwhere a compound word or phrase can easily be understood from its components, and where the\ncomponents are already included in the list, the compound word will not be included. Easily\nunderstood from its components means that the literal translation of the component parts\nunambiguously gives the meaning in English. An example of an easily understood compound word\nor phrase in French is point de vue. An example of a compound word/phrase in French that is not\neasily understood is petit déjeuner.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

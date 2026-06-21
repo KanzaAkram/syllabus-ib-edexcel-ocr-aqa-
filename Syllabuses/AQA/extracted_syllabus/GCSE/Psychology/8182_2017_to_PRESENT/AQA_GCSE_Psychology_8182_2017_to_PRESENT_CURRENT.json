@@ -1,0 +1,98 @@
+{
+  "source_pdf": "GCSE/Psychology/8182_2017_to_PRESENT/AQA_GCSE_Psychology_8182_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Psychology",
+  "spec_code": "8182",
+  "pdf_name": "AQA_GCSE_Psychology_8182_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Cognition and behaviour",
+          "level": 1,
+          "content": "Students will be expected to:\n- demonstrate knowledge and understanding of psychological ideas, processes, procedures\nand theories in relation to the specified Paper 1 content\n- apply psychological knowledge and understanding of the specified Paper 1 content in a\nrange of contexts\n- analyse and evaluate psychological ideas, information, processes and procedures in relation\nto the specified Paper 1 content and make judgements, draw conclusions and produce\ndevelopments or refinements of psychological procedures based on their reasoning and\nsynthesis of skills\n- evaluate therapies and treatments including in terms of their appropriateness and\neffectiveness\n- show how psychological knowledge and ideas change over time and how these inform our\nunderstanding of behaviour\n- demonstrate the contribution of psychology to an understanding of individual, social and\ncultural diversity\n- develop an understanding of the interrelationships between the core areas of psychology\n- show how the studies for topics relate to the associated theory.\nKnowledge and understanding of research methods (see 3.1.4 Research methods (page 11)),\npractical research skills and mathematical skills (see Appendix A: mathematical requirements\n(page 25)) will be assessed across all topic areas in Paper 1. These skills should be developed\nby studying the specification content and through ethical, practical research activities, involving:\n- designing research\n- conducting research\n- analysing and interpreting data.\nBy carrying out practical research activities, students will manage associated risks and use\ninformation and communication technology (ICT).",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Memory",
+              "level": 2,
+              "content": "Processes of memory: encoding (input)\nDifferent types of memory: episodic memory, semantic\nstorage and retrieval (output)\nmemory and procedural memory.\nHow memories are encoded and stored.\nStructures of memory\nThe multi-store model of memory: sensory, short term\nand long term.\nFeatures of each store: coding, capacity, duration.\nPrimacy and recency effects in recall: the effects of\nserial position.\nMurdock’s serial position curve study.\nMemory as an active process\nThe Theory of Reconstructive Memory, including the\nconcept of ‘effort after meaning’.\nBartlett’s War of the Ghosts study.\nFactors affecting the accuracy of memory, including\ninterference, context and false memories.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Perception",
+              "level": 2,
+              "content": "Sensation and perception\nThe difference between sensation and perception.\nVisual cues and constancies\nMonocular depth cues: height in plane, relative size,\nocclusion and linear perspective.\nBinocular depth cues: retinal disparity, convergence.\nGibson's direct theory of perception – the\nThe real world presents sufficient information for direct\ninfluence of nature\nperception without inference. Role of motion parallax\nin everyday perception.\nVisual illusions\nExplanations for visual illusions: ambiguity,\nmisinterpreted depth cues, fiction, size constancy.\nExamples of visual illusions: the Ponzo, the Müller-\nLyer, Rubin’s vase, the Ames Room, the Kanizsa\ntriangle and the Necker cube.\nGregory's constructivist theory of\nPerception uses inferences from visual cues and past\nperception – the influence of nurture\nexperience to construct a model of reality.\nFactors affecting perception\nPerceptual set and the effects of the following factors\naffecting perception: culture, motivation, emotion,\nexpectation.\nThe Gilchrist and Nesberg study of motivation and the\nBruner and Minturn study of perceptual set.",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Development",
+              "level": 2,
+              "content": "Early brain development\nA basic knowledge of brain development, from simple\nneural structures in the womb, of brain stem,\nthalamus, cerebellum and cortex, reflecting the\ndevelopment of autonomic functions, sensory\nprocessing, movement and cognition.\nThe roles of nature and nurture.\nPiaget’s stage theory and the\nPiaget’s Theory of Cognitive Development including\ndevelopment of intelligence\nconcepts of assimilation and accommodation.\nThe role of Piaget’s theory in education\nThe four stages of development: sensorimotor, pre-\noperational, concrete operational and formal\noperational. Application of these stages in education.\nReduction of egocentricity, development of\nconservation. McGarrigle and Donaldson’s ‘naughty\nteddy study’; Hughes’ ‘policeman doll study’.\nThe effects of learning on development\nDweck’s Mindset Theory of learning: fixed mindset\nand growth mindset. The role of praise and self-\nefficacy beliefs in learning.\nLearning styles including verbalisers and visualisers.\nWillingham’s Learning Theory and his criticism of\nlearning styles.",
+              "children": []
+            },
+            {
+              "code": "3.1.4",
+              "title": "Research methods",
+              "level": 2,
+              "content": "Formulation of testable hypotheses\nNull hypothesis and alternative hypothesis.\nTypes of variable\nIndependent variable, dependent variable, extraneous\nvariables.\nSampling methods\nTarget populations, samples and sampling methods\nand how to select samples using these methods:\n- Strengths and weaknesses of each sampling method.\nUnderstanding principles of sampling as applied to\nscientific data.\nrandom\nopportunity\nsystematic\nstratified.\nDesigning research\nQuantitative and qualitative methods:\n- Strengths and weaknesses of each research method\nand types of research for which they are suitable.\nCorrelation\nAn understanding of association between two\nvariables and the use of scatter diagrams to show\npossible correlational relationships.\nThe strengths and weaknesses of correlations.\nComputation of formulae is not required.\nResearch procedures\nThe use of standardised procedures, instructions to\nparticipants, randomisation, allocation to conditions,\ncounterbalancing and extraneous variables (including\nexplaining the effect of extraneous variables and how\nto control for them).\nPlanning and conducting research\nHow research should be planned, taking into\nconsideration the reliability and/or validity of:\n- Ethical considerations\nStudents should demonstrate knowledge and\nunderstanding of:\n- the experimental method (experimental designs,\nindependent groups, repeated measures,\nmatched pairs, including strengths and\nweaknesses of each experimental design)\nlaboratory experiments\nfield and natural experiments\ninterviews\nquestionnaires\ncase studies\nobservation studies (including categories of\nbehaviour and interobserver reliability).\nsampling methods\nexperimental designs\nquantitative and qualitative methods.\nethical issues in psychological research as\noutlined in the British Psychological Society\nguidelines\nways of dealing with each of these issues.",
+              "children": [
+                {
+                  "code": "3.1.4.1",
+                  "title": "Data handling",
+                  "level": 3,
+                  "content": "Quantitative and qualitative data\nThe difference between quantitative and qualitative\ndata.\nPrimary and secondary data\nThe difference between primary and secondary data.\nComputation\nRecognise and use expressions in decimal and\nstandard form: use ratios, fractions and percentages,\nestimate results, find arithmetic means and use an\nappropriate number of significant figures.\nDescriptive statistics\nUnderstand and calculate mean, median, mode and\nrange.\nInterpretation and display of quantitative\nConstruct and interpret frequency tables and\ndata\ndiagrams, bar charts, histograms and scatter\ndiagrams for correlation.\nNormal distributions\nThe characteristics of normal distribution.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Social context and behaviour",
+          "level": 1,
+          "content": "Students will be expected to:\n- demonstrate knowledge and understanding of psychological ideas, processes, procedures\nand theories in relation to the specified Paper 2 content\n- apply psychological knowledge and understanding of the specified Paper 2 content in a\nrange of contexts\n- analyse and evaluate psychological ideas, information, processes and procedures in relation\nto the specified Paper 2 content and make judgements, draw conclusions and produce\ndevelopments or refinements of psychological procedures based on their reasoning and\nsynthesis of skills\n- evaluate therapies and treatments including in terms of their appropriateness and\neffectiveness\n- show how psychological knowledge and ideas change over time and how these inform our\nunderstanding of behaviour\n- demonstrate the contribution of psychology to an understanding of individual, social and\ncultural diversity\n- develop an understanding of the interrelationships between the core areas of psychology\n- show how the studies for topics relate to the associated theory.\nKnowledge and understanding of research methods (see 3.1.4 Research methods (page 11)),\npractical research skills and mathematical skills (see Appendix A: mathematical requirements\n(page 25)) will be assessed across all topic areas in Paper 2. These skills should be developed\nby studying the specification content and through ethical, practical research activities, involving:\n- designing research\n- conducting research\n- analysing and interpreting data.\nBy carrying out practical research activities, students will manage associated risks and use\ninformation and communication technology (ICT).",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Social influence",
+              "level": 2,
+              "content": "Conformity\nIdentification and explanation of how social factors\n(group size, anonymity and task difficulty) and\ndispositional factors (personality, expertise) affect\nconformity to majority influence.\nAsch’s study of conformity.\nObedience\nMilgram’s Agency theory of social factors affecting\nobedience including agency, authority, culture and\nproximity.\nExplanation of dispositional factors affecting\nobedience including Adorno’s theory of the\nAuthoritarian Personality.\nProsocial behaviour\nBystander behaviour: identification and explanation of\nhow social factors (presence of others and the cost of\nhelping) and dispositional factors (similarity to victim\nand expertise) affect bystander intervention.\nPiliavin’s subway study.\nCrowd and collective behaviour\nProsocial and antisocial behaviour in crowds:\nidentification and explanation of how social factors\n(social loafing, deindividuation and culture) and\ndispositional factors (personality and morality) affect\ncollective behaviour.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Language, thought and communication",
+              "level": 2,
+              "content": "The possible relationship between\nPiaget’s theory: language depends on thought.\nlanguage and thought\nThe Sapir-Whorf hypothesis: thinking depends on\nThe effect of language and thought on\nlanguage.\nour view of the world\nVariation in recall of events and recognition of colours,\neg in Native American cultures.\nDifferences between human and animal\nLimited functions of animal communication (survival,\ncommunication\nreproduction, territory, food).\nVon Frisch’s bee study.\nProperties of human communication not present in\nanimal communication, eg plan ahead and discuss\nfuture events.\nNon-verbal communication\nDefinitions of non-verbal communication and verbal\ncommunication.\nFunctions of eye contact including regulating flow of\nconversation, signaling attraction and expressing\nemotion.\nBody language including open and closed posture,\npostural echo and touch.\nPersonal space including cultural, status and gender\ndifferences.\nExplanations of non-verbal behaviour\nDarwin’s evolutionary theory of non-verbal\ncommunication as evolved and adaptive.\nEvidence that non-verbal behaviour is innate, eg in\nneonates and the sensory deprived.\nEvidence that non-verbal behaviour is learned. Yuki’s\nstudy of emoticons.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Brain and neuropsychology",
+              "level": 2,
+              "content": "Structure and function of the nervous\nThe divisions of the human nervous system: central\nsystem\nand peripheral (somatic and autonomic), basic\nfunctions of these divisions.\nThe autonomic nervous system and the fight or flight\nresponse. The James-Lange theory of emotion.\nNeuron structure and function\nSensory, relay and motor neurons. Synaptic\ntransmission: release and reuptake of\nneurotransmitters. Excitation and inhibition. An\nunderstanding of how these processes interact.\nHebb's theory of learning and neuronal growth.\nStructure and function of the brain\nBrain structure: frontal lobe, temporal lobe, parietal\nlobe, occipital lobe and cerebellum.\nBasic function of these structures.\nLocalisation of function in the brain: motor,\nsomatosensory, visual, auditory and language areas.\nPenfield’s study of the interpretive cortex.\nAn introduction to neuropsychology\nCognitive neuroscience: how the structure and\nfunction of the brain relate to behaviour and cognition.\nThe use of scanning techniques to identify brain\nfunctioning: CT, PET and fMRI scans.\nTulving's 'gold' memory study.\nA basic understanding of how neurological damage,\neg stroke or injury can affect motor abilities and\nbehaviour.",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "Psychological problems",
+              "level": 2,
+              "content": "An introduction to mental health\nCharacteristics of mental health, eg positive\nengagement with society, effective coping with\nHow the incidence of significant mental\nchallenges.\nhealth problems changes over time\nCultural variations in beliefs about mental health\nproblems.\nIncreased challenges of modern living, eg isolation.\nIncreased recognition of the nature of mental health\nproblems and lessening of social stigma.\nEffects of significant mental health\nIndividual effects, eg damage to relationships,\nproblems on individuals and society\ndifficulties coping with day to day life, negative impact\non physical wellbeing.\nSocial effects, eg need for more social care, increased\ncrime rates, implications for the economy.\nCharacteristics of clinical depression\nDifferences between unipolar depression, bipolar\ndepression and sadness.\nThe use of International Classification of Diseases in\ndiagnosing unipolar depression: number and severity\nof symptoms including low mood, reduced energy\nlevels, changes in sleep patterns and appetite levels,\ndecrease in self-confidence.\nTheories of depression\nBiological explanation (influence of nature): imbalance\nof neurotransmitters, eg serotonin in the brain.\nInterventions or therapies for depression\nPsychological explanation (influence of nurture):\nnegative schemas and attributions.\nUse of antidepressant medications.\nCognitive behaviour therapy (CBT).\nHow these improve mental health, reductionist and\nholistic perspectives. Wiles’ study of the effectiveness\nof CBT.\nCharacteristics of addiction\nThe difference between addiction/dependence and\nsubstance misuse/abuse.\nThe use of International Classification of Diseases in\ndiagnosing addiction (dependence syndrome),\nincluding a strong desire to use substance(s) despite\nharmful consequences, difficulty in controlling use, a\nhigher priority given to the substance(s) than to other\nactivities or obligations.\nTheories of addiction\nBiological explanation (influence of nature): hereditary\nfactors/genetic vulnerability. Kaij’s twin study of\nInterventions or therapies for addiction\nalcohol abuse.\nPsychological explanation (influence of nurture): Peer\ninfluence.\nAversion therapy.\nSelf-management programmes, eg self-help groups,\n12 step recovery programmes.\nHow these improve mental health, reductionist and\nholistic perspectives.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "source_pdf": "GCSE/German/8668_2018_to_PRESENT/AQA_GCSE_German_8668_2018_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "German",
+  "spec_code": "8668",
+  "pdf_name": "AQA_GCSE_German_8668_2018_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Themes",
+          "level": 1,
+          "content": "The specification covers three distinct themes. These themes apply to all four question papers.\nStudents are expected to understand and provide information and opinions about these themes\nrelating to their own experiences and those of other people, including people in countries/\ncommunities where German is spoken.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Theme 1: Identity and culture",
+              "level": 2,
+              "content": "Theme 1: Identity and culture covers the following four topics with related sub-topics shown as\nbullet points:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Topic 1: Me, my family and friends",
+                  "level": 3,
+                  "content": "- Relationships with family and friends\n- Marriage/partnership",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 2: Technology in everyday life",
+                  "level": 3,
+                  "content": "- Social media\n- Mobile technology",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 3: Free-time activities",
+                  "level": 3,
+                  "content": "- Music\n- Cinema and TV\n- Food and eating out\n- Sport",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 4: Customs and festivals in German-speaking countries/communities",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Theme 2: Local, national, international and global areas of interest",
+              "level": 2,
+              "content": "Theme 2: Local, national, international and global areas of interest covers the following four topics\nwith related sub-topics shown as bullet points:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Topic 1: Home, town, neighbourhood and region",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 2: Social issues",
+                  "level": 3,
+                  "content": "- Charity/voluntary work\n- Healthy/unhealthy living",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 3: Global issues",
+                  "level": 3,
+                  "content": "- The environment\n- Poverty/homelessness",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 4: Travel and tourism",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Theme 3: Current and future study and employment",
+              "level": 2,
+              "content": "Theme 3: Current and future study and employment covers the following four topics:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Topic 1: My studies",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 2: Life at school/college",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 3: Education post-16",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 4: Jobs, career choices and ambitions",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Scope of study",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Listening: understand and respond to spoken language",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- demonstrate general and specific understanding of different types of spoken language\n- follow and understand clear standard speech using familiar language across a range of\nspecified contexts\n- identify the overall message, key points, details and opinions in a variety of short and longer\nspoken passages, involving some more complex language, recognising the relationship\nbetween past, present and future events\n- deduce meaning from a variety of short and longer spoken texts, involving some complex\nlanguage and more abstract material, including short narratives and authentic material\naddressing a wide range of relevant contemporary and cultural themes\n- recognise and respond to key information, important themes and ideas in more extended\nspoken text, including authentic sources, adapted and abridged, as appropriate, by being\nable to answer questions, extract information, evaluate and draw conclusions.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Speaking: communicate and interact in speech",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- communicate and interact effectively in speech for a variety of purposes across a range of\nspecified contexts\n- take part in a short conversation, asking and answering questions, and exchanging opinions\n- convey information and narrate events coherently and confidently, using and adapting\nlanguage for new purposes\n- speak spontaneously, responding to unexpected questions, points of view or situations,\nsustaining communication by using rephrasing or repair strategies, as appropriate\n- initiate and develop conversations and discussion, producing extended sequences of speech\n- make appropriate and accurate use of a variety of vocabulary and grammatical structures,\nincluding some more complex forms, with reference to past, present and future events\n- make creative and more complex use of the language, as appropriate, to express and justify\ntheir own thoughts and points of view\n- use accurate pronunciation and intonation such as to be understood by a native speaker.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Reading: understand and respond to written language",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- understand and respond to different types of written language\n- understand general and specific details within texts using high frequency familiar language\nacross a range of contexts\n- identify the overall message, key points, details and opinions in a variety of short and longer\nwritten passages, involving some more complex language, recognising the relationship\nbetween past, present and future events\n- deduce meaning from a variety of short and longer written texts from a range of specified\ncontexts, including authentic sources involving some complex language and unfamiliar\nmaterial, as well as short narratives and authentic material addressing a wide range of\nrelevant contemporary and cultural themes\n- recognise and respond to key information, important themes and ideas in more extended\nwritten text and authentic sources, including some extracts from relevant abridged or adapted\nliterary texts\n- demonstrate understanding by being able to scan for particular information, organise and\npresent relevant details, draw inferences in context and recognise implicit meaning where\nappropriate\n- translate a short passage from German into English.",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "Writing: communicate in writing",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- communicate effectively in writing for a variety of purposes across a range of specified\ncontexts\n- write short texts, using simple sentences and familiar language accurately to convey\nmeaning and exchange information\n- produce clear and coherent text of extended length to present facts and express ideas and\nopinions appropriately for different purposes and in different settings\n- make accurate use of a variety of vocabulary and grammatical structures, including some\nmore complex forms, to describe and narrate with reference to past, present and future\nevents\n- manipulate the language, using and adapting a variety of structures and vocabulary with\nincreasing accuracy and fluency for new purposes, including using appropriate style and\nregister\n- make independent, creative and more complex use of the language, as appropriate, to note\ndown key points, express and justify individual thoughts and points of view, in order to\ninterest, inform or convince\n- translate sentences and short texts from English into German to convey key messages\naccurately and to apply grammatical knowledge of language and structures in context.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Grammar",
+          "level": 1,
+          "content": "The grammar requirements for GCSE are set out in two tiers: Foundation Tier and Higher Tier.\nGCSE students will be expected to have acquired knowledge and understanding of German\ngrammar during their course. In the exam they will be required to apply their knowledge and\nunderstanding, appropriate to the relevant tier of entry, drawing from the following lists. The\nexamples in brackets are indicative, not exclusive. For structures marked (R), only receptive\nknowledge is required.\nStudents will be expected to develop and use their knowledge and understanding of this grammar\nprogressively throughout their course.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Foundation Tier",
+              "level": 2,
+              "content": "The case system",
+              "children": [
+                {
+                  "code": "3.3.1.1",
+                  "title": "Nouns",
+                  "level": 3,
+                  "content": "gender\nsingular and plural forms, including genitive singular and dative plural\nweak nouns: nominative and accusative singular (Herr, Junge, Mensch, Name) (R)\nadjectives used as nouns (ein Deutscher)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.2",
+                  "title": "Articles",
+                  "level": 3,
+                  "content": "definite and indefinite\nkein",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.3",
+                  "title": "Adjectives",
+                  "level": 3,
+                  "content": "adjectival endings: predicative and attributive usage, singular and plural, used after definite and\nindefinite articles, demonstrative and possessive adjectives\nadjectival endings after etwas, nichts, viel, wenig, alles (R)\ncomparative and superlative, including common irregular forms (besser, höher, näher)\ndemonstrative (dieser, jeder)\npossessive\ninterrogative (welcher)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.4",
+                  "title": "Adverbs",
+                  "level": 3,
+                  "content": "comparative and superlative, including common irregular forms (besser, lieber, mehr)\ninterrogative (wann, warum, wo, wie, wie viel)\nadverbs of time and place (manchmal, oft, hier, dort)\ncommon adverbial phrases (ab und zu, dann und wann, letzte Woche, nächstes Wochenende, so\nbald wie möglich)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.5",
+                  "title": "Quantifiers/intensifiers",
+                  "level": 3,
+                  "content": "sehr, zu, viel, ganz, ziemlich, ein wenig, ein bisschen",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.6",
+                  "title": "Pronouns",
+                  "level": 3,
+                  "content": "personal, including man\nreflexive: accusative\nreflexive: dative (R)\nrelative: nominative\nrelative: other cases (R) and use of was (R)\nindefinite: jemand, niemand\ninterrogative: wer, was, was für\ninterrogative: wen, wem (R)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.7",
+                  "title": "Verbs",
+                  "level": 3,
+                  "content": "regular and irregular verbs\nreflexive\nmodes of address: du, Sie\nmodes of address: ihr (R)\nimpersonal (most common only eg es gibt, es geht, es tut weh)\nseparable/inseparable\nmodal: present and imperfect tenses, imperfect subjunctive of mögen\ninfinitive constructions (um…zu…; verbs with zu…) (R)\nnegative forms\ninterrogative forms\nTenses:\n- present\n- perfect: excluding modals\n- imperfect/simple past: haben, sein and modals\n- imperfect/simple past: other common verbs (R)\n- future\n- pluperfect (R)\n- imperative forms.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.8",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "fixed case and dual case with accusative and/or dative\nwith genitive (R)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.9",
+                  "title": "Clause structures",
+                  "level": 3,
+                  "content": "main clause word order\nsubordinate clauses, including relative clauses",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.10",
+                  "title": "Conjunctions",
+                  "level": 3,
+                  "content": "coordinating (most common eg aber, oder, und)\nsubordinating (most common eg als, obwohl, weil, wenn)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.11",
+                  "title": "Number, quantity, dates and time",
+                  "level": 3,
+                  "content": "including use of seit with present tense",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.2",
+              "title": "Higher Tier",
+              "level": 2,
+              "content": "Students entering for Higher Tier assessments will be required to apply all grammar and structures\nlisted for Foundation Tier, in addition to the new grammar and structures listed for Higher Tier.",
+              "children": [
+                {
+                  "code": "3.3.2.1",
+                  "title": "Nouns",
+                  "level": 3,
+                  "content": "weak nouns",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.2",
+                  "title": "Adjectives",
+                  "level": 3,
+                  "content": "adjectival endings after etwas, nichts, viel, wenig, alles",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.3",
+                  "title": "Pronouns",
+                  "level": 3,
+                  "content": "reflexive: dative\nrelative: all cases, and use of was\ninterrogative: wen, wem",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.4",
+                  "title": "Verbs",
+                  "level": 3,
+                  "content": "mode of address: ihr\nimpersonal\ninfinitive constructions (ohne…zu…; um…zu…); verbs with zu… eg beginnen, hoffen, versuchen\nmodal: imperfect subjunctive of können, sollen\nTenses:\n- imperfect/simple past of common verbs\n- future\n- conditional: würde with infinitive\n- pluperfect\n- imperfect subjunctive in conditional clauses: haben and sein.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.5",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "with genitive (most common eg außerhalb, statt, trotz, während, wegen)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.6",
+                  "title": "Conjunctions",
+                  "level": 3,
+                  "content": "coordinating and subordinating",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.7",
+                  "title": "Time",
+                  "level": 3,
+                  "content": "use of seit with imperfect tense",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Communication strategies",
+          "level": 1,
+          "content": "Whilst it is useful for students to concentrate on a core of key language for any given topic, it is\nimpossible to predict all the linguistic elements they might meet when reading and listening to\nauthentic German, or which they themselves might need to use. For this reason, the student will\nneed to develop communication strategies as part of the teaching and learning process, which will\ngreatly increase their ability to cope successfully with unknown words.\nThere are two main types of strategy: those that relate to understanding (reading and listening) and\nthose that relate to production (speaking and writing).",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Strategies for understanding",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.4.1.1",
+                  "title": "Ignoring words which are not needed",
+                  "level": 3,
+                  "content": "Many tasks contain words which are not essential for an understanding of the main points of the\ntext. What is important in the text is often presented more than once, in different ways: the student\nmay not understand a point in one form of words and understand it fully in another.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.2",
+                  "title": "Using the visual and verbal context",
+                  "level": 3,
+                  "content": "The skilled reader can find many clues about the purpose and content of a text from a study of the\nlayout, the title, the length, the typeface and any related pictures.\nWhen reading and listening, students can learn to infer the meaning of new words from the verbal\ncontext.\nIn the following examples a student could be expected to make a deduction about the word in bold\ntype from the verbal context.\nNeue Sportarten wie Rafting und Splanch werden immer populärer (a sport).\nDie Eiche war der größte Baum im Garten (a type of tree).\nDer Dom ist viel größer als andere Kirchen in Ulm (a kind of church).",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.3",
+                  "title": "Making use of grammatical markers and categories",
+                  "level": 3,
+                  "content": "Students will be helped to master all these strategies if, when reading and listening, they learn to\nuse such clues as the plural forms of nouns and verbs, the way verbs change to form tenses, word\norder and other such features to help them recognise to which category (verb, noun, adjective etc)\nan unknown word belongs. This can be a considerable help in making intelligent guesses about the\nmeaning of the word.\nIn the sentence Schlafzimmer im ersten Stock haben eine Dusche, the plural form of the verb\nunderlines that 'bedrooms' is a plural word.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.4",
+                  "title": "Making use of the social and cultural context",
+                  "level": 3,
+                  "content": "Another aid to the drawing of correct inferences is for students to bear in mind that there are\nregularities in the real world which make it possible to anticipate what people may say or write\nabout it. The ability to predict occurrences in the real world makes it possible to anticipate words,\nand their meaning, in a given context. This is one reason why it is important for a German course\nto develop awareness and understanding of countries and communities where German is spoken.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.5",
+                  "title": "Using common patterns within German",
+                  "level": 3,
+                  "content": "Knowledge of the following patterns of word formation in German can help to understand a text.\n- un- prefix (eg unmöglich, unglücklich)\n- in suffix (eg Freundin, Engländerin)\n- ung suffix (eg Wanderung, Wohnung)\n- er suffix (eg Arbeiter, Physiker)\n- chen suffix (eg Häuschen, Kätzchen)\n- heit suffix (eg Krankheit, Faulheit)\n- keit suffix (eg Freundlichkeit, Ehrlichkeit)\n- schaft suffix (eg Freundschaft, Weltmeisterschaft)\n- ab- prefix (eg abfahren, abholen)\n- auf- prefix (eg aufstehen, aufgeben)\n- aus- prefix (eg ausgehen, Ausfahrt)\n- ein- prefix (eg einsteigen, Eintritt)\n- durch- prefix (eg durchfahren, durchschneiden)\n- mit- prefix (eg mitgehen, mitnehmen)\n- an- prefix (eg ankommen, anziehen)\n- um- prefix (eg umsteigen, umziehen)\n- zu- prefix (eg zuhören, Zuschauer)\n- verbs with embedded adjectives (eg verbessern, beruhigen)\n- infinitives used as gerunds (eg das Schwimmen, das Wandem)\n- using the component parts of compound nouns (eg Esszimmer, Haustür, Schülerzeitung,\nStraßenbahnhaltestelle).",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.6",
+                  "title": "Using cognates and near-cognates",
+                  "level": 3,
+                  "content": "A few 'false friends' (eg also, Gymnasium) make it necessary to use this strategy with care and in\ncollaboration with the strategy of using the visual and verbal context above. However, for each\n'false friend' there are very many 'good friends' of which anglophone learners of German can make\ngood use. These fall into two main categories: cognates and near-cognates.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Cognates",
+                      "level": 4,
+                      "content": "There are many words which have exactly the same form, and essentially the same meaning, in\nGerman and in English (eg Museum, Hand, Name). When such words occur in a context and\nstudents can be expected to understand them in English and German.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Near-cognates",
+                      "level": 4,
+                      "content": "Students will also be expected to understand words which meet the above criteria, but which differ\nslightly in their written form in German (eg Adresse, Knie).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.4.1.7",
+                  "title": "Using common patterns between German and English",
+                  "level": 3,
+                  "content": "There are many words in German which, although neither cognates nor near-cognates, can easily\nbe understood with the application of a few, simple rules. When words which can be understood\nusing the rules below occur in context, students will be expected to understand them.\nPattern\nWords where ch in German is replaced by 'k' in\nEnglish\nExamples\nKoch, machen\nPattern\nWords where t in German is replaced by 'd' in\nEnglish\nWords where d in German is replaced by 'th' in\nEnglish\nWords where pf in German is replaced by 'p' in\nEnglish\nWords where b in German is replaced by 'f/v' in\nEnglish\nWords where ss in German is replaced by 't' in\nEnglish\nWords where cht in German is replaced by 'ght'\nin English\nWords where z in German is replaced by 't' in\nEnglish\nWords where g in German is replaced by 'y' in\nEnglish\nWords where v in German is replaced by 'f' in\nEnglish\nStrategies such as those above will be more easily applied in reading than in listening, as reading\noffers more opportunities to slow down, to look at unknown items at leisure and study the context.\nWords which look the same in two languages may sound quite different (eg Station, Religion).\nSome grammatical markers are more difficult to hear than to see. The comprehension of some\nplural nouns could depend on the recognition of a different article or the pronunciation of a\npreceding adjective (eg das neue Zimmer – die neuen Zimmer).\nIn order to hear accurately, students should have the specific differences of the spoken language\nbrought to their attention.\nHowever, some of the general strategies for understanding listed above can, with practice, be used\nsuccessfully in listening, namely:\n- ignoring words which are not needed for a successful completion of the task set\n- using the (visual and) verbal context\n- making use of the social and cultural context\n- using common patterns within German.\nIn addition, the following strategies are included for listening and understanding, (in place of\nreading the above strategies regarding cognates and common patterns between German and\nEnglish).\nExamples\ntrinken, Tropfen\ndas, danken\nPfund, Pfeffer\nDieb, sieben\nWasser, hasse\nNacht, Flucht\nZunge, zehn\ngestern, gelb\nVater, Volk",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.8",
+                  "title": "Near-cognates",
+                  "level": 3,
+                  "content": "Although there may be few German words which sound exactly like their English equivalents, there\nare many near-cognates which are relatively easily recognised. Many English words have been\nabsorbed into German, and are easily recognised (eg Party, Manager, Job, Bar, Ketchup). Other\nwords are sufficiently similar in sound to be regarded as near-cognates (eg Finger, Supermarkt,\nStudent).\nSome words which in reading cause no problem can be very difficult to recognise in speech (eg\nReligion, Ingenieur, Instrument).\nHowever, provided that certain relationships between sound patterns in German and English are\nrecognised, then German words with a clearly 'different' pronunciation to English can be\nunderstood. Examples of patterns where a communicative strategy can be applied include the\nfollowing:\n- the characteristic pronunciation of -tion in words such as Station, Nation\n- the primary stress pattern of words such as Atom, Energie, Präsident, Elektrizität\n- voiced consonants at the end of words in English are often devoiced in German (eg Bart,\nBett, Pfund, Gold)\n- the consonant 'k' in English is often a soft c in German (eg Milch, Flasche)\n- the primary stress pattern of words such as Garage, Sandale.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.4.2",
+              "title": "Strategies for production",
+              "level": 2,
+              "content": "Research and experience show that people who communicate effectively in a foreign language\ntend to make good use of systematic efficient verbal and non-verbal strategies to get meaning\nacross, in spite of their imperfect command of the language.\nIndividual students may fail to learn – or forget – language items required by some tests, or they\nmay wish to attempt to go beyond the demands of the specification in completing the task set. In\nthese circumstances, the following strategies can prove useful. They fall into two main categories:\nnon-verbal and verbal.",
+              "children": [
+                {
+                  "code": "3.4.2.1",
+                  "title": "Non-verbal strategies",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Pointing and demonstration",
+                      "level": 4,
+                      "content": "This may be accompanied by some appropriate language (eg So groß; Was ist das?; Es tut weh…\nhier).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Expression and gesture",
+                      "level": 4,
+                      "content": "This may be accompanied, where appropriate, with sounds (eg \"Ah!\" which, with appropriate\nintonation, facial expression and gestures, can convey such attitudes and functions as pain,\nsurprise, anger, fear, pleasure and admiration).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Mime",
+                      "level": 4,
+                      "content": "This can also be accompanied by appropriate sounds and language and can sometimes help\ncommunication to be maintained when it might otherwise break down (eg Kann ich Ihnen helfen?\nwith a suitable mime if one has forgotten words such as abtrocknen). This strategy has obvious\nlimitations in a speaking test which is recorded and assessed on the basis of the recording.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Drawing",
+                      "level": 4,
+                      "content": "This can be an efficient strategy with some tasks (especially written) and can convey both attitude\nand information (eg a diagram showing how to get from one point, such as a station, to another, for\ninstance a home).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.4.2.2",
+                  "title": "Verbal strategies",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Using a word which refers to a similar item",
+                      "level": 4,
+                      "content": "Using a word which refers to a similar item to the one the speaker/writer wishes to refer to, but for\nwhich he/she has forgotten the word (eg die große Kirche for Dom, Mantel for Jacke, See or\nWasser for Strand). This is not always effective and its use would be assessed according to its\neffectiveness in a particular context.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Description of physical properties",
+                      "level": 4,
+                      "content": "This can be used to refer to something when the name has been forgotten (eg Wo der Bus kommt,\nfor Haltestelle, ein Hotel für junge Leute for Jugendherberge, ein kleines braunes Tier for\nMeerschweinchen). The use of this strategy in an exam would be assessed according to its\ncommunicative effectiveness.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Requests for help",
+                      "level": 4,
+                      "content": "These can include requests for rewording (eg \"¿Wie sagt man 'chair' auf Deutsch…?\" \"Wie heißt\ndas auf Englisch?\") and questions which make no reference to English (eg \"Wie heißt das\nGebäude da?...Wie schreibt man das?\"). It is clearly preferable to use such requests for help than\nfor communication to collapse and their use will be assessed according to the context. When\nrequests for help with specific problems occur, the teacher should maintain the role of a\nsympathetic native speaker and help accordingly. The teacher should avoid taking over from the\nstudent and carrying out the tasks set.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Simplification",
+                      "level": 4,
+                      "content": "This is when a student avoids the use of a form of which he/she is unsure (eg \"Ich freue mich auf\ndeinen Besuch…Ich bin um 5 Uhr angekommen\") by using a form he/she finds simpler (eg \"Es ist\ngut, dass du kommst…Ich war um 5 Uhr hier\"). When such simple forms are used correctly and\nappropriately they will be rewarded accordingly. Correct and appropriate use of more complex\nforms will also be rewarded.\nA systematic use of simplified forms may reduce error, facilitate communication and increase\nfluency but, if overused, this strategy may result in students failing to make full use of their\ncapabilities.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Paraphrase",
+                      "level": 4,
+                      "content": "This is where the student uses words and messages in acceptable German, avoiding the use of\nwords which he/she has forgotten (eg \"Wo die Lehrer sitzen\" for \"Lehrerzimmer\"…\"Er hat keine\nFrau\" for \"Er ist nicht verheiratet\"…\"Ich möchte ein Stück von dem Kuchen da\" for \"Ein Stück\nObsttorte, bitte\"). When used well, this strategy communicates the message effectively to a\nsympathetic native speaker and such use in an exam would be assessed accordingly.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Reference to specific features",
+                      "level": 4,
+                      "content": "Reference to specific features (eg \"Der Mann mit den langen Haaren. Das Haus neben der\nKirche\") is often quite effective and its use would be assessed accordingly in an exam.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Word coinage",
+                      "level": 4,
+                      "content": "Another strategy sometimes used by language learners is word coinage, the creation of words\nbased either on English or German words. Although this strategy can be useful in some cases (eg\nby the use of -ieren: realisieren, protestieren etc) it usually produces words which do not exist in\nGerman. The use of this strategy is rarely effective in promoting communication and students\nwould be well advised to use it only if all other strategies fail.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Topic avoidance",
+                      "level": 4,
+                      "content": "Another commonly used strategy is topic avoidance, when the student ignores or abandons a topic\nbecause of inability to deal with it. Use of this strategy in the exam will not allow the student to be\ngiven full credit. Use of it in a learning situation will reduce opportunities for the development or\nexpansion of the students repertoire. It is a strategy which should be discouraged. A basic\ncondition for communication strategies to have a potential learning effect is that they are governed\nby achievement, rather than avoidance behaviour.\nEvidence suggests that the availability of a range of strategies such as those outlined above, and\nflexibility in their use, represent an important advantage in overall communicative effectiveness. It\nalso appears that the most effective strategies demand some linguistic proficiency and that the\nmore proficient speakers are also better at using communication strategies effectively.\nThe development of such strategies cannot be seen as encouragement not to develop linguistic\nknowledge. Strategic competence is not a substitute for vocabulary learning, but a useful\nsupplement. All language users make use of communication strategies, even in their first\nlanguage, and really successful strategies usually pass unnoticed. It is an important part of the\nteaching and learning process.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Vocabulary",
+          "level": 1,
+          "content": "The minimum core vocabulary lists are primarily intended as a guide for teachers to assist in the\nplanning of schemes of work.\nThe assessment tasks at Foundation Tier will require students to understand and respond to\ncommon or familiar words and/or forms of words that are not on the vocabulary list.\nThe assessment tasks at Higher Tier will require students to understand and respond to words\nand/or forms of words that are not on the vocabulary list and which are less common or familiar\nthan those used in relation to Foundation Tier assessments.\nVocabulary listed under a particular theme should be considered transferable, as appropriate, to\nthe other themes.\nStudents will be expected to be familiar with feminine forms of nouns/adjectives where these are\nnot given.",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "Rubrics and instructions",
+              "level": 2,
+              "content": "The following is a guide to the sort of rubrics and instructions which will be used in Section B of the\nListening and Reading exams. The list is indicative, not exclusive.\nGerman\nAchtung! Du kannst die Buchstaben mehr als\nein Mal benutzen.\nBeantworte die beiden Teile der Frage.\nBeantworte die Fragen auf Deutsch.\nBeantworte diese Fragen.\nErgänze ... auf Deutsch.\nErgänze den folgenden Text mit jeweils einem\nWort von der Liste unten.\nEnglish\nN.B. You can use the same letter more than\nonce.\nAnswer both parts of the question.\nAnswer the questions in German.\nAnswer these questions.\nComplete... in German.\nComplete the following gap-text with one word\nfor each gap from the list below.\nGerman\nErgänze die Lücken.\nErgänze die Tabelle auf Deutsch.\nErwähne einen postiven Aspekt/einen Vorteil/\neinen negativen Aspekt/einen Nachteil.\nEs ist welche Person? Schreibe den Namen ins\nKästchen.\nFüll die Tabelle auf Deutsch aus.\nFür eine negative Meinung, schreib N, für eine\npositive Meinung, schreib P, für eine positive\nund negative Meinung, schreib P + N.\nGib (zwei) Details.\nHör das folgende Gespräch/die folgende\nDiskussion/das folgende Interview/den\nfolgenden Bericht.\nLies ...\nSchreib den richtigen Buchstaben ins Kästchen. Write the correct letter in the box.\nSchreib R, wenn die Aussage richtig ist, F,\nwenn die Aussage falsch ist, NT, wenn die\nAussage nicht im Text ist.\nVollständige Sätze sind nicht nötig.\nWähle die richtige Aktivität und schreib den\nBuchstaben ins Kästchen.\nWelche (sechs) Aussagen sind richtig?\nWelche Antwort ist richtig?\nThe following is a guide to the sort of rubrics and instructions which will be used in the Writing\nexam. The list is indicative, not exclusive.\nGerman\nBeschreib...\nDu musst ungefähr 40 Wörter auf Deutsch\nschreiben.\nDu musst ungefähr 90 Wörter auf Deutsch\nschreiben. Scheib etwas über alle Punkte der\nAufgabe.\nDu musst ungefähr 150 Wörter auf Deutsch\nschreiben. Schreib etwas über beide Punkte\nder Aufgabe.\nSchreib…\nSchreib etwas über…\nEnglish\nFill in the gaps/blanks.\nComplete the table in German.\nMention one positive aspect/one advantage/one\nnegative aspect/one disadvantage.\nWhich person is it? Write the name in the box.\nComplete the table in German.\nFor a negative opinion, write N, for a positive\nopinion, write P, for a positive and negative\nopinion, write P + N.\nGive (two) details.\nListen to the following conversation/discussion/\ninterview/report.\nRead...\nWrite (R), if the statement is correct, (F), if the\nstatement is false and (NT), if the statement is\nnot mentioned.\nIt is not necessary to write in full sentences.\nChoose the correct activity and write the correct\nletter in the box.\nWhich (six) statements are correct?\nWhich answer is correct?\nEnglish\nDescribe...\nYou must write approximately 40 words in\nGerman.\nYou must write approximately 90 words in\nGerman. Write something about each bullet\npoint.\nYou must write approximately 150 words in\nGerman. Write something about both bullet\npoints.\nWrite…\nWrite something about…\nGerman\nSchreib vier Sätze auf Deutsch über das Foto.\nVergleich...\nEnglish\nWrite four sentences in German about the\nphoto.\nCompare...",
+              "children": []
+            },
+            {
+              "code": "3.5.2",
+              "title": "General vocabulary",
+              "level": 2,
+              "content": "Students will be expected to use and understand the general vocabulary listed below. This\nvocabulary is not restricted to specific settings and can occur in any of the themes listed in the\nspecification.",
+              "children": [
+                {
+                  "code": "3.5.2.1",
+                  "title": "Comparisons",
+                  "level": 3,
+                  "content": "German\nähnlich\nanders\nGegenteil das\ngleich\nhoch; höher; höchst\nim Großen und Ganzen\nso … wie\nso viel(e) … wie\nUnterschied der\nunterschiedlich\nvergleichen\nVergleich der\nverschieden\nviel; mehr; am meisten\nwenigstens\nEnglish\nsimilar\ndifferent(ly)\nopposite\nsame, equal\nhigh; higher; highest\nby and large\nas … as\nas much/many … as\ndifference\ndifferent\nto compare\ncomparison\ndifferent\nmuch; more; most\nat least",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.2",
+                  "title": "Conjunctions",
+                  "level": 3,
+                  "content": "German\nals\nals ob\nbevor\nbis\nda\ndamit\ndenn\nEnglish\nwhen\nas if\nbefore\nuntil, to\nas, because\nso that, in order that\nas, since\nGerman\nentweder … oder ...\nnachdem\nnicht nur ... sondern auch\nob\nobwohl\nseitdem\nsodass (so…dass)\nsowohl … als auch ...\num ... zu\nwährend\nweder … noch\nEnglish\neither ... or ...\nafter, afterwards\nnot only … but also\nwhether\nalthough\nsince\nso ... that\nboth … and…\n(in order) to\nwhile\nneither ... nor",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.3",
+                  "title": "Connectives",
+                  "level": 3,
+                  "content": "German\nabgesehen davon\nangenommen dass\naußer\naußerdem\ndanach\ndas heißt (d.h.)\ndennoch\ndeshalb\ndeswegen\ndoch\ndrittens\neigentlich\nerstens\njedoch\nleider\nnatürlich\nohne Zweifel\nschließlich\nsonst\nsowieso\nEnglish\napart from this\nassuming that\nbesides, apart from, except\nbesides, furthermore\nafterwards\nthat is (ie)\nnevertheless\ntherefore, because of that\ntherefore, because of that\nafter all, on the contrary, yes\nthirdly\nactually, really\nfirstly\nhowever\nunfortunately\nof course, naturally\nwithout a doubt\neventually, in the end, finally\notherwise, or else\nanyway, anyhow, in any case\nGerman\ntrotzdem\nvorausgesetzt dass\nzuerst\nzufällig\nzweitens\nEnglish\nnevertheless\nprovided that\n(at) first\nby chance\nsecondly",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.4",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "German\nab\nan\nauf\naus\nbei\ndurch\nentlang\ngegen\ngegenüber\nhinter\nnach\nneben\nohne\nüber\num\nunter\nvon\nvor\nvorbei\nwährend\nwegen\nzu\nzwischen\nEnglish\nfrom\nat, to, on, close by\non, upon, onto, on top of\nfrom, out of\nnear, at\nthrough\nalong\nagainst, at about, around\nopposite\nbehind\nafter, to, according to\nnext to\nwithout\nover, above\naround, at\nunder, below\nfrom, by, of\nin front of, before, ago\nover, past, by\nduring\nbecause of\nto, at, for\nbetween",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.5",
+                  "title": "Negatives",
+                  "level": 3,
+                  "content": "German\ngar nicht\nnicht einmal\nnicht mehr\nnichts\nnie\nniemals\nniemand\nnirgend…\nnoch nicht\nüberhaupt nicht\nEnglish\nnot at all\nnot even\nno longer\nnothing\nnever\nnever\nnobody\nno...\nnot yet, still not\nnot at all",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.6",
+                  "title": "Alphabet",
+                  "level": 3,
+                  "content": "Students are expected to know the letters of the alphabet, including the ß and umlauts.\nGerman\nBuchstabe der\nbuchstabieren\nEnglish\nletter\nto spell",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.7",
+                  "title": "Numbers",
+                  "level": 3,
+                  "content": "Students are expected to know the cardinal numbers 0–1,000 and the word for 1,000,000 (Million,\ndie).\nThey are also expected to know the ordinal numbers first–tenth eg 1st = erste; 2nd = zweite; 3rd =\ndritte etc.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.8",
+                  "title": "Other expressions",
+                  "level": 3,
+                  "content": "German\nDutzend das\nNummer die\nPaar das\nZahl die\nEnglish\ndozen\nnumber\npair\nnumber, figure, digit",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.9",
+                  "title": "Money",
+                  "level": 3,
+                  "content": "German\nBargeld das\nein 1/2/5 – Euro-Stück\nein 10/20/50 – Euro-Schein\nEnglish\ncash\na 1/2/5 Euro coin\na 10/20/50 Euro note\nGerman\nGeldschein der\nGeldstück das\nKleingeld das\nMünze die\nTaschengeld das\nwechseln\nEnglish\nnote\ncoin\nsmall change\ncoin\npocket money\nto change",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.10",
+                  "title": "Question words",
+                  "level": 3,
+                  "content": "German\nWann?\nWarum?\nWas für...?\nWas?\nWelcher/Welche/Welches?\nWer?\nWie lang(e)?\nWie viel(e)?\nWie?\nWieso?\nWo?\nWoher?\nWohin?\nWomit?\nEnglish\nWhen?\nWhy?\nWhat sort/type of...?\nWhat?\nWhich?\nWho?\nHow long?\nHow much/many?\nHow?\nWhy? How come …?\nWhere?\nWhere from?\nWhere to?\nWhat with?",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.11",
+                  "title": "Greetings and exclamations",
+                  "level": 3,
+                  "content": "German\nAlles Gute!\nBis bald!\nEntschuldigung!\nFrohe Weihnachten!\nGern geschehen!\nHerzlich willkommen!\nHerzlichen Glückwunsch!\nProst!\nEnglish\nAll the best\nSee you later\nExcuse me/Sorry\nMerry Christmas\nDon’t mention it\nWelcome\nCongratulations\nCheers\nGerman\nSchöne Ferien!\nViel Glück!\nEnglish\nHave a good/nice holiday\nGood luck",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.12",
+                  "title": "Opinions",
+                  "level": 3,
+                  "content": "German\nAhnung die\namüsant\nangenehm\nAngst haben\nängstlich\nausgezeichnet\nbequem\nbestimmt\nbillig\nblöd\nBlödsinn der\nböse\ndafür (sein)\ndagegen (sein)\ndas ist mir egal\ndenken\ndeprimiert\ndie Nase voll haben\ndoof\neindrucksvoll\neinfach\nentsetzlich\nes/das stimmt (nicht)\nes gefällt mir\nes kommt darauf an, ob …\nes satt haben\nfroh\nfurchtbar\ngefallen\nEnglish\nidea, suspicion\namusing, funny\npleasant, agreeable\nto be afraid/scared\nanxious, apprehensive\nexcellent\ncomfortable\ndefinite(ly)/certain(ly)\ncheap\nstupid\nnonsense, rubbish\nnaughty, evil, angry\n(to be) in favour of something\n(to be) against/opposed to something\nit doesn’t matter, it’s all the same to me\nto think\ndepressed\nto be fed up with something\nstupid\nimpressive\nsimple, simply, easy\nterrible, awful, appalling\nthat’s (not) right/correct\nI like it (it pleases me)\nit depends on …, whether …\nto be fed up with something\nhappy, glad, pleased\nterrible, dreadful, awful\nto like, to please\nGerman\ngemütlich\ngenießen\nglauben\nhassen\nherrlich\nhervorragend\ninteressieren (sich für)\nkeine Ahnung haben\nklasse\nkompliziert\nlangweilen (sich)\nleicht\nlieb\nlieben\nlustig\nmeinen\nMeinung die\nmies\nmöglich\nmühelos\nmühsam\nnützlich\nnutzlos\nprima\nsauer sein\nschade\nschrecklich\nschwierig\nsensibel\nsicher\nsogar\nSpitze!\nteuer\ntypisch\nEnglish\ncosy, comfortable\nto enjoy\nto believe\nto hate\nmarvellous, magnificent, glorious\nexcellent, outstanding\nto be interested in\nto have no idea/no clue\nbrilliant, great\ncomplicated\nto be bored\neasy\nkind, lovely, dear\nto love\nfunny\nto think\nopinion\nrotten, lousy\npossible\neffortless\narduous, laborious, with difficulty\nuseful\nuseless\ngreat, fantastic\nto be cross, annoyed\nit’s a shame/pity\nterrible, horrible\ndifficult\nsensitive\nsure, safe\neven\ngreat\nexpensive, dear\ntypical(ly)\nGerman\nüberrascht\nunglaublich\nunmöglich\nunsicher\nvielleicht\nvöllig\nvorziehen\nwahrscheinlich\nwichtig\nwirklich\nwunderbar\nwunderschön\nwünschen (sich)\nzufrieden\nzustimmen\nEnglish\nsurprised\nunbelievable\nimpossible\nunsure\nperhaps\ncompletely\nto prefer\nprobably\nimportant\nreal(ly)\nwonderful\ngorgeous, very beautiful\nto wish\ncontent, happy\nto agree",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.13",
+                  "title": "Expressions of time",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Seasons",
+                      "level": 4,
+                      "content": "German\nJahreszeit die\nEnglish\nseason",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Months of the year",
+                      "level": 4,
+                      "content": "German\nJahr das\nMonat der\nEnglish\nyear\nmonth",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "The clock",
+                      "level": 4,
+                      "content": "German\ngenau\nhalb\nMittag der\nMitternacht die\nnachgehen\npünktlich\nspät\nEnglish\nexactly\nhalf\nmidday\nmidnight\nto be slow\npunctual, on time\nlate\nGerman\nStunde die\nUhr die\nUm wie viel Uhr?\nViertel das\nvorgehen\nWie spät ist es?\nWie viel Uhr ist es?\nZeit die\nEnglish\nhour (length)\nclock, watch, o’clock\nat what time, when?\nquarter\nto be fast\nWhat time is it?\nWhat time is it?\ntime",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Other expressions of time",
+                      "level": 4,
+                      "content": "German\nab und zu\nAbend der\nabends\nAnfang der\nAugenblick der\naus sein\nbald\ndamals\nDatum das\ndauern\nehemalig\neinmal\nendlich\nerst\nfast\nfrüh\nGegenwart die\ngerade\ngestern\ngewöhnlich\ngleich\nheute\nheutzutage\nEnglish\nnow and again\nevening\nin the evenings\nbeginning, start\nmoment, instant\nto be over, finished\nsoon\nthen, in those days\ndate\nto last\nformer\nonce\nfinally\n(at) first, only\nalmost, nearly\nearly\npresent (time, tense)\njust\nyesterday\nusually, normally\nimmediately, in a minute\ntoday\nnowadays, these days\nGerman\nim Voraus\nimmer\nimmer wieder\ninzwischen\nJahrhundert das\njetzt\nkürzlich\nlangsam\nletzter/letzte/letztes\nMal das\n~mal\nmanchmal\nmontags\nmorgen\nMorgen der\nmorgen früh\nmorgens\nnachher\nNachmittag der\nnächster/nächste/nächstes\nNacht die\nnachts\nneulich\nnoch einmal\nnormalerweise\nnun\nplötzlich\nregelmäßig\nschnell\nschon\nseit\nselten\nsofort\ntäglich\nEnglish\nin advance\nalways\nagain and again\nin the meantime\ncentury\nnow\nrecently, lately\nslow(ly)\nlast\ntime\n~ times\nsometimes\non Mondays\ntomorrow\nmorning\ntomorrow morning\nin the mornings, every morning\nafterwards\nafternoon\nnext\nnight\nat night\nrecently, the other day\nonce again, once more\nnormally, usually\nnow\nsuddenly\nregular\nquick(ly)\nalready\nsince, for (length of time)\nseldom, rarely\nimmediately, straight away\ndaily\nGerman\nübermorgen\nVergangenheit die\n(bis) vor kurzem\nvorgestern\nvorher\nVormittag der\nwieder\nZeitpunkt der\nzu Ende sein\nZukunft die\nEnglish\nthe day after tomorrow\npast (time, tense)\n(until) recently\nthe day before yesterday\nbefore(hand)\nmorning\nagain\npoint in time\nto come to an end, to finish\nfuture (time, tense)",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.2.14",
+                  "title": "Location and distance",
+                  "level": 3,
+                  "content": "German\naußen\naußerhalb\nbleiben\nda\ndraußen\ndrinnen\ndrüben\nEcke die\nentfernt\ngeradeaus\nher~\nhin und her\nhin und zurück\nhin~\nin der Nähe von\nirgendwo\nliegen\nMeile die\nmitten in\nnah\nnirgendwo\nEnglish\noutside\noutside of\nto stay\nhere, there\noutside, outdoors\ninside, indoors\nover there\ncorner\ndistant, (far) away\nstraight ahead\nfrom ~ (towards the speaker)\nto and fro\nthere and back, return (ticket)\naway ~ (from the speaker)\nnearby, close to\nsomewhere\nto lie, to be situated (in)\nmile\nin the middle of\nnear\nnowhere\nGerman\noben\nOrt der\nSeite die\nüberall\nunten\nvorwärts\nweg\nweit\nzurück\nEnglish\nabove, up\nplace\nside\neverywhere\nat the bottom, below, down\nforwards\naway\nwide, far\nback",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.15",
+                  "title": "Weights and measures",
+                  "level": 3,
+                  "content": "German\nalle (-r, -s)\nalle sein\nalles\nanderer/andere/anderes\nbeide\nbreit\ndick\nDing das\nDose die\ndünn\nein bisschen\nein paar\neine Menge\neinige\neinzeln\netwa\nFlasche die\nganz\ngenug\ngewaltig\nGewicht das\nGröße die\nEnglish\nall, all the\nto be all gone, to have run out (of)\neverything\nother, different\nboth\nwide, broad\nthick, fat\nthing\ncan, tin\nthin\na little\na few, a couple\na lot of, lots\nsome, a few\nsingle\nabout, roughly\nbottle\nwhole, complete, quite\nenough\nenormously\nweight\nsize\nGerman\nirgend…\nKarton der\nKasten der\nkaum\nleer\nleicht\nMaß das\nmehrere\nmessen\nmindestens\nmittelgroß\nnoch\nPäckchen das\nPackung die\nPaket das\nPfund das\npro\nSchachtel die\nScheibe die\nschwer\nStück das\nTüte die\nungefähr\nvoll\nwenig\nwiegen\nEnglish\nsome…\ncardboard box\nbox, case, crate\nhardly\nempty\nlight\nmeasure\nseveral\nto measure\nat least\nmedium-sized\nstill\nsmall parcel\npacket, pack\nparcel\npound\nper\nbox, packet\nslice\nheavy\npiece\nbag\nabout\nfull\nlittle, not much\nto weigh",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.16",
+                  "title": "Shape",
+                  "level": 3,
+                  "content": "German\nKreis der\nrund\nviereckig\nEnglish\ncircle\nround\nsquare",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.17",
+                  "title": "Weather",
+                  "level": 3,
+                  "content": "German\nbedeckt\nBlitz der\nDonner der\nes blitzt\nes donnert\nes hagelt\nfeucht\nfrieren\nfrisch\nGewitter das\nGrad der\nHagel der\nheftig\nheiter\nHimmel der\nKlima das\nkühl\nMond der\nnass\nNebel der\nnebelig\nNiederschlag der\nRegen der\nregnen\nSchatten der\nschattig\nSchauer der\nscheinen\nschneien\nSturm der\nstürmisch\ntrocken\nWetterbericht der\nEnglish\novercast, cloudy\nlightning\nthunder\nit’s lightning\nit’s thundering\nit’s hailing\ndamp\nto freeze\nfresh\nthunderstorm\ndegree\nhail\nheavy, severe\nbright, fine, clear, fair\nsky\nclimate\ncool\nmoon\nwet\nfog\nfoggy\nprecipitation\nrain\nto rain\nshadow\nshady\nshower\nshine\nto snow\nstorm\nstormy\ndry\nweather report\nGerman\nWettervorhersage die\nWolke die\nwolkig\nEnglish\nweather forecast\ncloud\ncloudy",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.18",
+                  "title": "Access",
+                  "level": 3,
+                  "content": "German\nauf sein\naufmachen\nAusfahrt die\nAusgang der\nbesetzt\nEinfahrt die\nEingang der\nEintritt der\nfrei\ngeschlossen\noffen\nöffnen\nschließen\nverboten\nzu sein\nzumachen\nEnglish\nto be open\nto open\nexit (motorway)\nexit (building)\noccupied, engaged\nentry, entrance\nentrance (building)\nadmission\nfree\nclosed\nopen\nto open\nto close\nforbidden\nto be closed\nto close",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.19",
+                  "title": "Correctness",
+                  "level": 3,
+                  "content": "German\nfalsch\nFehler der\nRecht haben\nrichtig\nUnrecht haben\nverbessern\nVerbesserung die\nEnglish\nfalse, wrong, incorrect\nmistake, error\nto be right\nright, correct\nto be wrong\nto correct, to improve\ncorrection, improvement",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.20",
+                  "title": "Materials",
+                  "level": 3,
+                  "content": "German\nBaumwolle die\nbestehen aus\nEisen das\nHolz das\nLeder das\nPappe die\nSeide die\nStoff der\nWolle die\nEnglish\ncotton\nto consist of, to be made of/from\niron\nwood\nleather\ncardboard\nsilk\nmaterial\nwool",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.21",
+                  "title": "Common abbreviations",
+                  "level": 3,
+                  "content": "German\n£ = Pfund das\nAG = Arbeitsgruppe, Arbeitsgemeinschaft\nd.h. = das heißt\nDB = Deutsche Bahn\nDr = Doktor der\ngem. = gemischt\nICE = Inter-City-Express der\ninkl. = inklusive\nLKW = Lastkraftwagen der\nPLZ = Postleitzahl die\nusw. = und so weiter\nz.B. = zum Beispiel\nEnglish\n£ = pound sterling\nwork group (extra-curricular, school)\nie = that is\nGerman Railways\ndoctor\nmixed\nfast long-distance train\nincluded\nHGV, lorry\npostcode\netc = and so on\neg = for example",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.5.3",
+              "title": "Theme-based vocabulary (Foundation Tier)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.3.1",
+                  "title": "Identity and culture",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Me, my family and friends",
+                      "level": 4,
+                      "content": "German\nallein\nAlter das\naltmodisch\nEnglish\nalone\nage\nold-fashioned\nGerman\närgern (sich)\nauf die Nerven gehen\nauskommen (mit)\naussehen\nAusweis der\nBart der\nberühmt\nBesuch der\nbesuchen\nbevorzugen\nbitten\nBrieffreund der\nBrille die\negoistisch\nehrlich\nEinzelkind das\nEnkelkind das\nentschuldigen (sich)\nerlauben\nernst\nErwachsene der/die\nFamilienmitglied das\nfrech\nFreundschaft die\nfühlen (sich)\nfüttern\ngeboren (am)\nGeburt die\nGeburtsdatum das\nGeburtsort der\ngeduldig\nGefühl das\ngemein\ngern haben\nEnglish\nto be annoyed\nto get on one’s nerves\nto get on (with)\nto look like\nidentity card\nbeard\nfamous\nvisit\nto visit\nto favour, to prefer\nto ask, to beg\npen-friend\nspectacles, glasses\nselfish\nhonest\nonly child\ngrandchild\nto apologise\nto allow\nserious\nadult, grown-up\nmember of the family\ncheeky\nfriendship\nto feel\nto feed\nborn (on)\nbirth\ndate of birth\nplace of birth\npatient\nfeeling\nmean\nto like\nGerman\ngeschieden\nGeschlecht das\ngetrennt\nglatt\nglücklich\nGrund der\ngut/schlecht gelaunt\ngute/schlechte Laune haben\nhässlich\nheiraten\nhilfsbereit\nHochzeit die\nhöflich\nhübsch\nhumorlos\nhumorvoll\nich kann ... gut leiden\nich kann ... nicht leiden\nJugendliche der/die\nJunge der\nkennen\nkennen lernen\nkomisch\nkümmern (sich um)\nKuss der\nküssen\nleben\nlebhaft\nledig\nLeute (pl)\nlockig\nMensch der\nnennen\nnerven\nEnglish\ndivorced\nsex, gender\nseparated\nstraight, smooth\nhappy\nreason\ngood/bad tempered\nto be in a good/bad mood\nugly\nto marry\nhelpful\nwedding\npolite\npretty\nhumourless, no sense of humour\nhumorous, witty\nI like ... (very much)\nI can’t stand .../I don’t like ...\nyouth\nboy\nto know (a person)\nto get to know\nfunny, comical, strange, odd\nto look after\nkiss\nto kiss\nto live\nlively\nsingle\npeople\ncurly\nhuman being\nto name, to call\nto get on someone’s nerves\nGerman\nOhr das\nordentlich\nPersönlichkeit die\nReisepass der\nruhig\nschämen (sich)\nscheiden (sich lassen)\nSchnurrbart der\nschüchtern\nselbst\nselbstständig\nsorgen (für)\nSpitzname der\nStief~\nstill\nStreit der\nstreiten (sich)\nstreng\nTätowierung die\nTraum der\ntraurig\ntrennen (sich)\nTyp der\nunternehmungslustig\nunterstützen\nvergeben\nVerhältnis das\nverheiratet\nverloben (sich)\nverlobt\nverstehen (sich mit)\nVorname der\nvorstellen (sich)\nweinen\nEnglish\near\ntidy, neat\npersonality\npassport\nquiet, calm\nto be/feel ashamed\nto get divorced\nmoustache\nshy\nself\nindependent\nto care (for), to look after\nnick name\nstep ~\nquiet\nargument\nto quarrel, to argue\nstrict\ntattoo\ndream\nsad\nto separate\ntype, person, bloke\nadventurous, like doing lots of things\nto support\nto forgive\nrelationship\nmarried\nto get engaged\nengaged (to someone)\nto get on with\nfirst name\nto introduce oneself\nto cry\nGerman\nwitzig\nWohnort der\nZahn der\nzivile Partnerschaft die\nzusammen\nZwillinge (pl)\nEnglish\nfunny\nplace of living\ntooth\ncivil partnership\ntogether\ntwins",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Technology in everyday life",
+                      "level": 4,
+                      "content": "German\n(aus) drucken\nAnrufbeantworter der\nanrufen\nbenutzen/benützen\nbeschreiben (sich)\nBindestrich der\nDaten (pl)\nDrucker der\neingeben\nempfangen\nentwickeln\nEntwicklung die\nfunktionieren\nGefahr die\ngehören (zu)\nherunterladen\nhochladen\nKlingelton der\nlehrreich\nlöschen\nMedien (pl)\nMissbrauch der\nmissbrauchen\nNachrichten (pl)\nNetz das\nEnglish\nto print (out)\n(telephone) answering machine\nto call, to ring (phone)\nto use\nto describe (oneself)\ndash, hyphen\ndata\nprinter\nto enter (data into computer/phone)\nto receive\nto develop\nto work, to function\ndanger\nto belong (to)\ndownload\nupload\nringtone\ninformative, instructive, educational\nto delete\nmedia\nabuse\nto abuse\nmessages\nnet\nGerman\nNetzwerk das\npeinlich\nPostfach das\nPunkt der\nRechner der\nRisiko das\nschicken\nSchrägstrich der\nSchutz der\nsimsen\nsoziale Medien (pl)\nspeichern\nStartseite die\nteilen\nUnterstrich der\nWLAN\nEnglish\nnetwork\nembarrassing\nmail box (email)\ndot\ncalculator (phone)\nrisk\nto send\nforward slash\nprotection\nto send an SMS/text message\nsocial media\nto save (data on computer)\nhomepage (internet)\nto share\nunderscore\nWiFi/wifi",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Free-time activities",
+                      "level": 4,
+                      "content": "German\nAbenteuerfilm der\namüsieren (sich)\nAnanas die\nanfangen\nangeln\nApfelsine die\nAprikose die\nBadeanzug der\nBadehose die\nbedienen\nBedienung, bitte!\nbeschweren (sich)\nbestellen\nbezahlen\nBildschirm der\nEnglish\nadventure film\nto have fun, to enjoy oneself\npineapple\nto start, begin\nto fish\norange\napricot\nswim suit\nswimming trunks\nto serve\nService, please!\nto complain\nto order\nto pay\nscreen (TV, computer)\nGerman\nBirne die\nBlockflöte die\nBlumenkohl der\nBohne die\nBraten der\nBratwurst die\ndrücken\nDurst der\ndurstig\nEi das\nEintrittsgeld das\nEintrittskarte die\nEisdiele die\nEislaufen das\nempfehlen\nErbse die\nErdbeere die\nEssig der\nfechten\nFederball der\nfolgen\nFreibad das\nFrikadelle die\nFruchtsaft der\nGasthaus das\nGurke die\nHaferflocken (pl)\nHallenbad das\nhart\nHauptgericht das\nHerr Ober!\nHimbeere die\nholen\nImbiss der\nEnglish\npear\nrecorder\ncauliflower\nbean\nroast meat, joint\nfried sausage\npress\nthirst\nthirsty\negg\nadmission fee\n(admission) ticket\nice cream parlour\nice-skating\nto recommend\npea\nstrawberry\nvinegar\nto fence\nbadminton\nto follow\noutdoor swimming pool\nrissole, meat ball\nfruit juice\ninn, pub\ncucumber\n(porridge) oats\nindoor swimming pool\nhard\nmain course\nWaiter!\nraspberry\nto fetch, to get\nsnack\nGerman\nImbissbude die\nImbissstand der\nInteresse haben an\nJugendklub der\nKakao der\nKännchen das\nKartoffel die\nKäse der\nkegeln\nKeks der\nKirsche die\nklettern\nKorbball der\nköstlich\nKotelett das\nKrimi der\nlachen\nlaufen\nlecker\nLeinwand die\nLiebesfilm der\nLied das\nLust haben etwas zu tun\nMitglied das\nNachrichten (pl)\nNachspeise die\nNachtisch der\nNudeln (pl)\nNuss die\nObst das\nÖl das\nPfeffer der\nPfirsich der\nPflaume die\nEnglish\nsnack bar, takeaway\nsnack bar, takeaway\nto be interested in\nyouth club\ncocoa\npot (tea, coffee)\npotato\ncheese\nbowling (nine pin)\nbiscuits\ncherry\nto climb\nnetball\ndelicious\npork chop\ncrime (film/book), thriller\nto laugh\nto run\ntasty\n(big) screen (in cinema)\nfilm with a love story\nsong\nto feel like doing something\nmember\nnews\ndessert\ndessert\nnoodles, pasta\nnut\nfruit\noil\npepper\npeach\nplum\nGerman\nPilz der\nPraline die\nprobieren\nPute die\nRechnung die\nrennen\nriechen\nringen\nrodeln\nroh\nRollschuh laufen\nrudern\nSaft der\nSahne die\nsammeln\nsatt sein\nSchach das\nscharf\nSchaschlik das\nschießen\nschmecken\nSchnellimbiss der\nSegelboot das\nsegeln\nSeifenoper die\nSelbstbedienung die\nSendung die\nSenf der\nSerie die\nSitz(platz) der\nsitzen\nspannend\nSpeisekarte die\nSpeisesaal der\nEnglish\nmushroom\nchocolate (in a box of chocolates)\nto try, to taste\nturkey\nbill\nto run\nto smell\nto wrestle\nto go sledging\nraw\nto go roller skating\nto row\njuice\ncream\nto collect\nto be full up, have had enough (to eat)\nchess\nspicy, hot\nkebab\nto shoot\nto taste\nsnack bar\nsailing boat\nto sail\nsoap opera\nself-service\nprogramme\nmustard\nseries\nseat\nto sit\nexciting, thrilling\nmenu\ndining hall, dining room\nGerman\nSpielzeug das\nSpinat der\nSportart die\nspringen\nStadion das\nStehcafé das\nStimme die\nstricken\nSuppe die\nsüß\nTagesgericht das\nTagesmenü das\ntauchen\nThunfisch der\nTor das\nTorte die\nTrainingsanzug der\nTrainingsschuh der\ntreffen (sich mit)\nTrinkgeld das\nturnen\nunterhalten (sich)\nUnterhaltung die\nVegetarier der\nverlieren\nVolksmusik die\nvorschlagen\nVorspeise die\nVorstellung die\nwandern\nweich\n(Wiener) Schnitzel das\nWeintraube die\nEnglish\ntoy(s)\nspinach\ntype of sport\nto jump\nstadium\nsmall area with tables in a bakery or\nsupermarket (but no seating)\nvoice\nto knit\nsoup\nsweet\ndish of the day\nmenu of the day\nto dive\ntuna\ngoal\ngateau\ntrack suit\nsport shoe, trainers\nto meet (someone)\ntip (for waiter/waitress)\nto do gymnastics\nto have a chat\nentertainment\nvegetarian\nto lose\nfolk music\nto suggest\nstarter (on menu)\nshowing, performance\nto hike, to walk\nsoft\nveal/pork cutlet (boneless)\ngrape\nGerman\nWerbung die\nwerfen\nWettbewerb der\nWurst die\nzahlen\nZeichentrickfilm der\nZeitschrift die\nZeitung die\nZeug das\nziehen\nZitrone die\nZucker der\nZuschauer der\nZwiebel die\nEnglish\nadvert(isement)\nto throw\ncompetition\nsausage\nto pay\ncartoon\nmagazine\nnewspaper\nstuff, things, gear\npull\nlemon\nsugar\nspectator, member of the audience\nonion",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Customs and festivals in German-speaking countries/communities",
+                      "level": 4,
+                      "content": "German\nAdventskranz der\nanzünden\nAschermittwoch der\nbekommen\ndanken\neinladen\nEinladung die\nFeier die\nfeiern\nFeiertag der\nFest das\nFeuerwerk das\nfreuen (sich auf)\nfreuen (sich über)\nGast der\nGastgeber der\nGeschenk das\nEnglish\nadvent wreath\nto light\nAsh Wednesday\nto get, to receive\nto thank\nto invite\ninvitation\ncelebration\nto celebrate\npublic holiday\nfestival, celebration\nfireworks\nto look forward to\nto be pleased about something\nguest\nhost\npresent\nGerman\nHeiliger Abend (24 Dez)\nHeilige Drei Könige (6 Jan)\nKarfreitag der\nKarneval der\nKerze die\nkirchlich\nLebkuchen der\nMaifeiertag der\nMuttertag der\nNeujahrstag der (1 Jan)\nOsterei das\nOsterhase der\nOstern\nPfingsten\nSankt Nikolaus (Tag) (6 Dez)\nschmücken\nSilvester\nTag der Deutschen Einheit (3 Okt)\nUmzug der\nValentinstag der (14 Feb)\nverkleiden (sich)\nverstecken\nWeihnachten\nWeihnachtsbaum der\nWeihnachtslieder (pl)\n1. (erste) Weihnachtstag der\n2. (zweite) Weihnachtstag der\nEnglish\nChristmas Eve\nEpiphany\nGood Friday\ncarnival\ncandle\nreligious\ntype of gingerbread\nMay Day\nMother’s Day\nNew Year’s Day\nEaster egg\nEaster bunny\nEaster\nWhitsuntide\nSt Nicholas' Day\nto decorate\nNew Year’s Eve\nDay of German Unity\nstreet procession\nSt Valentine’s Day\nto dress up, to disguise oneself, to put on fancy\ndress\nto hide\nChristmas\nChristmas tree\nChristmas carols\nChristmas Day\nBoxing Day",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.3.2",
+                  "title": "Local, national, international and global areas of interest",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Home, town, neighbourhood and region",
+                      "level": 4,
+                      "content": "German\nAmpel die\nanbieten\nEnglish\ntraffic light\nto offer\nGerman\nAngebot das\nanmachen\nanprobieren\nApotheke die\nApparat der\naufräumen\nausgeben\nausmachen\nAusverkauf der\nausverkauft\nBäckerei die\nBackofen der\nbaden\nBadewanne die\nBauernhaus das\nBauernhof der\nBaum der\nBenzin das\nBerg der\nBild das\nBlume die\nbraten\nBrücke die\nBücherei die\nBuchhandlung die\nBürgersteig der\nDach das\nDachboden der\nDecke die\nDenkmal das\nDiele die\nDom der\nDoppelhaus das\nDrogerie die\nEnglish\noffer\nto turn/switch on\nto try on (clothes)\npharmacy\napparatus, appliance, gadget\nto tidy (up)\nto spend (money)\nto turn/switch off\nsale\nsold out\nbakery\noven\nto have a bath\nbathtub\nfarm house\nfarm\ntree\npetrol\nmountain\npicture\nflower\nto fry\nbridge\nlibrary\nbook shop\npavement\nroof\nattic, loft\nceiling; blanket\nmonument\nhall\ncathedral\nsemi-detached house\nchemist’s\nGerman\nEcke die\neigen\nEinfamilienhaus das\neinkaufen\nEinkaufskorb der\nEinkaufstasche die\nEinkaufswagen der\neinpacken\nEinwohner der\nElektrogeschäft das\nErdgeschoss das\nEtage die\nEtagenbett das\nFabrik die\nFahrkarte die\nFeld das\nflach\nFleischerei die\nFlur der\nFluss der\nFriseur (salon) der\nFußboden der\nFußgängerzone die\nGabel die\nGasherd der\nGebäude das\nGegend die\ngünstig\nHafen der\nHaltestelle die\nHauptbahnhof der\nHauptstadt die\nHaushalt der\nHecke die\nEnglish\ncorner\nown\ndetached house\nto shop\nshopping basket\nshopping bag\nshopping trolley\nto wrap (up)\ninhabitant\nshop for electrical goods\nground floor\nfloor, storey\nbunk bed\nfactory\nticket (eg for bus)\nfield\nflat\nbutcher’s\nhall, coridor\nriver\nhairdresser’s\nfloor\npedestrian precinct\nfork\ngas cooker\nbuilding\nregion, area\nreasonable, good value for money\nharbour, port\nstop (bus, tram etc)\nmain railway station\ncapital city\nhousehold\nhedge\nGerman\nHeizung die\nHelm der\nHerd der\nHochhaus das\nHügel der\nInsel die\nJuweliergeschäft das\nkaputt\nKasse die\nKaufhaus das\nKirchturm der\nKleidergeschäft das\nklingeln\nklopfen\nkochen\nKochfeld das\nKommode die\nKonditorei die\nKopfkissen das\nkostenlos\nKreuzung die\nKühlschrank der\nKunde der\nKunstgalerie die\nLaden der\nLand das\nLandschaft die\nLebensmittelgeschäft das\nleeren\nlegen\nLicht das\nliefern\nLöffel der\nmähen\nEnglish\nheating\nhelmet\ncooker, stove\nhigh rise block of flats\nhill\nisland\njeweller’s\nbroken\ntill, cash point\ndepartment store\nchurch tower, spire\nclothes shop\nto ring (bell)\nto knock (door)\nto cook\nhob\nchest of drawers\nconfectioner’s\npillow\nfree of charge\ncrossroads\nfridge\ncustomer\nart gallery\nshop\nland, countryside\nlandscape\ngrocer’s\nto empty\nto lay, to put, to place (down)\nlight\nto deliver\nspoon\nto mow\nGerman\nMahlzeit die\nMarke die\nMarktplatz der\nMauer die\nMesser das\nMetzgerei die\nMiete die\nmieten\nMikrowelle die\nMöbel (pl)\nMofa das\nMotorrad das\nnach Hause\nnach oben\nnach unten\nNachbar der\nNachteil der\nNachttisch der\nNotausgang der\nObst- und Gemüseladen der\nOrdnung die\nParkplatz der\nPflanze die\nPlakat das\nPlatz der\nPreis der\nputzen\nQuittung die\nRasen der\nRegal das\nReihenhaus das\nReinigung die\nRolltreppe die\nSache die\nEnglish\nmeal, meal time\nbrand, make\nmarket place\nwall (outside)\nknife\nbutcher’s\nrent\nto rent, to hire\nmicrowave oven\nfurniture\n(motorised) bicycle\nmotor bike\n(going) home\nupstairs\ndownstairs\nneighbour\ndisadvantage\nbedside cabinet\nemergency exit\ngreen grocer’s\norder\nparking place\nplant\nposter, billboard\nplace; square\nprice\nto clean\nreceipt\nlawn\nshelf\nterraced house\ndry cleaner's\nescalator\nthing; stuff\nGerman\nsauber machen\nS-Bahn die\nSchaufenster das\nSchlange stehen\nSchlüssel der\nSchrank der\nSchreibwarengeschäft das\nSchublade die\nSonderangebot das\nSonst noch etwas?\nSpiegel der\nSpielplatz der\nStadtrand der\nstecken\nstellen\nStraßenbahn die\ntanken\nTankstelle die\nTasse die\nTeelöffel der\nTeller der\nTeppich der\nTiefkühlschrank der\nTischdecke die\nTopf der\nTreppe die\nTurm der\nU-Bahn die\numgeben von\nUmgebung die\numziehen\nVorhang der\nVorort der\nVorteil der\nEnglish\nto clean\nsuburban (fast) railway\nshop window\nto queue\nkey\ncupboard\nstationery shop\ndrawer\nspecial offer\nAnything else?\nmirror\nplay ground\noutskirts of a town\nto put (something into)\nto put, to place (upright)\ntram\nto fill up with petrol/diesel\npetrol station\ncup\nteaspoon\nplate\ncarpet\nfreezer\ntable cloth\npan\nstairs\ntower\nunderground train, tube\nsurrounded by\nsurrounding area\nto move (house)\ncurtain\nsuburb\nadvantage\nGerman\nWald der\nWand die\nWarenhaus das\nWaschbecken das\nWiese die\nWintergarten der\nWohnblock der\nZebrastreifen der\nEnglish\nwood, forest\nwall (inside)\ndepartment store\nwash basin\nmeadow\nconservatory\nblock of flats\nzebra crossing",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Social issues",
+                      "level": 4,
+                      "content": "German\nabhängig sein von\nabnehmen\nAder die\nAltenheim das\nanonym\natmen\naufgeben\naufhören\nAusländer der\nausländisch\nbetrunken\nBewegung die\nbewusstlos\nBewusstsein das\nBio~\nBlut das\nbrechen\nDroge die\nDrogenhändler der\nDrogensüchtige der/die\nEinwanderer der\nentspannen (sich)\nErnährung die\nEnglish\nto be dependent on\nto lose weight\nvein\nold people's home\nanonymous\nbreath\nto give up\nto stop\nforeigner\nforeign\ndrunk, intoxicated\nmovement; exercise\nunconscious\nconsciousness\nbiological ~, organic\nblood\nto be sick; to break\ndrug\ndrug dealer\ndrug addict\nimmigrant\nto relax\nfood, nourishment, nutrition\nGerman\nErste Hilfe\nes geht mir gut/schlecht\nFett das\nfettig\nfettleibig\nFeuerwehr die\nfreiwillig\nFreiwillige der/die\ngebrochen\ngesund\nGesundheit die\nGewicht das\ngewinnen\nGleichheit die\nhalten\nHautfarbe die\nHeim das\nhelfen\nHerz das\nHilfe die\nhilflos\nin Form sein\nkrank\nKrankenhaus das\nKrankenwagen der\nKrankheit die\nKrebs der\nLeber die\nMagen der\nMedikament das\nmenschlich\nPreis der\nRasse die\nRassismus der\nEnglish\nFirst Aid\nI am fine, well/not well\nfat\nfatty\nobese\nfire brigade\nvoluntarily\nvolunteer\nbroken\nhealthy\nhealth\nweight\nto win\nequality\nto hold, to keep\ncolour of the skin\nhome, hostel\nto help\nheart\nhelp\nhelpless\nto be in form/in (good) shape\nill\nhospital\nambulance\nillness\ncancer\nliver\nstomach\nmedicine\nhuman, humane\nprize\nrace\nracism\nGerman\nrassistisch\nRat der\nrauchen\nRote Kreuz das\nRuhe die\nschädlich\nSchmerz der\n…schmerzen haben\nSorge die\nsorgen für\nspenden\nSpritze die\nspritzen\nsterben\nSucht die\nsüchtig\nTierheim das\ntot\nübel (mir ist)\nUnfall der\nVene die\nVerkehrsunfall der\nverletzen (sich)\nVerletzung die\nweh tun\nWohltätigkeit die\nWohltätigkeitskonzert das\nWohltätigkeitsveranstaltung die\nzunehmen\nEnglish\nracist\nadvice\nto smoke\nRed Cross\npeace, quiet, tranquillity\ndamaging, harmful\npain, ache\nto have …ache\nworry\nto care for, to look after\nto donate\nsyringe, injection\nto inject\nto die\naddiction\naddicted, addictive\nanimal shelter\ndead\nI feel ill, sick\naccident\nvein\ntraffic accident\nto be/get injured\ninjury\nto hurt\ncharity\ncharity concert\ncharity event\nto put on weight",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Global issues",
+                      "level": 4,
+                      "content": "German\nAbfall der\nAbfalleimer der\nEnglish\nrubbish, waste\nrubbish bin, litter bin\nGerman\nAbgase (pl)\nAchtung die\nalternative Energiequelle die\nAltpapier das\nanbauen\narbeitslos\narm\nArmut die\naussterben\nbedrohen\nBenzin das\nBettler der\nBevölkerung die\nbiologisch\nBiomüll der\nbleifrei\nbrauchen\nBrennstoff der\nchemisch\nDieb der\nDiskriminierung die\neinsam\nentsorgen\nerfrieren\nFahrradweg der\nFCKWs\nfliehen\nFlüchtling der\nGebrauch der\ngefährlich\nGesellschaft die\nGewalt die\ngewalttätig\nheizen\nEnglish\nexhaust fumes\nrespect, esteem\nalternative source of energy\nwaste paper\nto grow\nunemployed\npoor\npoverty\nto die out\nto threaten\npetrol\nbeggar\npopulation\nbiological, organic\norganic waste\nlead free\nto need\nfuel\nchemical(ly)\nthief\ndiscrimination\nlonely\nto dispose of (waste, refuse, sewage)\nto freeze to death\nbicycle track/lane\nCFCs\nto flee\nrefugee\nusage\ndangerous\nsociety\nviolence\nviolent\nto heat\nGerman\nHeizung die\nim Freien\nKaugummi der\nkeinen festen Wohnsitz haben\nKohle die\nKraftwerk das\nKrieg der\nKunststoff der\nLärm der\nlaut\nLeben das\nLuft die\nLuftverschmutzung die\nMüll der\nMülltonne die\nNot die\nobdachlos\nöffentlich\nOpfer das\nOzonloch das\nOzonschicht die\nPfand das\nreich\nreinigen\nsauber\nSauerstoff der\nsaure Regen der\nschaden\nSchaden der\nschädlich\nSchale die\nschmutzig\nschützen\nschwach\nEnglish\nheating\noutside\nchewing gum\nto have no fixed abode\ncoal\npower station\nwar\nman-made/synthetic material\nnoise\nnoisy\nlife\nair\nair pollution\nrefuse, waste, rubbish\ndustbin\nneed\nhomeless\npublic(ly)\nvictim\nhole in the ozone layer\nozone layer\ndeposit\nrich\nto clean\nclean\noxygen\nacid rain\nto damage, to harm\ndamage\nharmful\nskin (fruit), peel (potato), shell (egg)\ndirty\nto protect\nweak\nGerman\nSolarzelle die\nSonnenenergie die\nSozialhilfe die\nSozialwohnung die\nsparen\nSpraydose die\nstark\nstehlen\nSuppenküche die\nTreibhauseffekt der\nüberbevölkert\nultraviolette Strahlen (pl)\nUmfrage die\nUmwelt die\numweltfeindlich\numweltfreundlich\nunterstützen\nUnterstützung die\nVerbrauch der\nVerbrechen das\nVerbrecher der\nVerkehr der\nVerkehrsmittel das\nVerpackung die\nverschmutzen\nVerschmutzung die\nverschwinden\nvertreiben\nWasserkraft die\nWasserverschmutzung die\nwegwerfen\nweltweit\nzerstören\nZuhause das\nEnglish\nsolar cell\nsolar energy\nincome support\ncouncil flat\nto save, to conserve\naerosol\nstrong\nto steal\nsoup kitchen\ngreenhouse effect\nover-populated\nultra-violet rays\nsurvey, opinion poll\nenvironment\nenvironmentally hostile\nenvironmentally friendly\nto support\nsupport, help\nconsumption\ncrime\ncriminal\ntraffic\nmeans of transport\npackaging\nto pollute\npollution\nto disappear\nto drive out, to expel\nhydroelectric power\nwater pollution\nto throw away\nworldwide\nto destroy\nhome, house",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Travel and tourism",
+                      "level": 4,
+                      "content": "German\nabfahren\nabholen\nankommen\nAsien\nAusflug der\nausfüllen\nAusland das\nAussicht die\naussteigen\nBahnsteig der\nBelgien\nbeliebt\nbesichtigen\nbleiben\nBlick der\nBoot das\nBriefkasten der\nBriefmarke die\nBurg die\nCampingplatz der\nDonau die\nDoppelzimmer das\neinsteigen\nEinzelzimmer das\nentwerten\nErinnerung die\nerleben\nErmäßigung die\nFähre die\nFahrkarte die\nFahrkartenautomat der\nFahrkartenschalter der\nFahrpreis der\nEnglish\nto leave, to depart\nto collect, to pick up\nto arrive\nAsia\ntrip, excursion\nto fill in\nforeign country, abroad\nview\nto alight, get off (bus)\nplatform\nBelgium\npopular\nto sightsee, to visit, to have a look\nto stay\nview, glance\nboat\nletter box\npostage stamp\n(fortified) castle\ncampsite\nDanube\ndouble room\nto get in/on\nsingle room\nto stamp/validate a ticket\nmemory\nto experience\nreduction\nferry\nticket\nticket machine\nticket office\nfare\nGerman\nFahrradvermietung die\nFahrt die\nFlug der\nFlughafen der\nFlugzeug das\nFormular das\nFotoapparat der\nFührung die\nGepäck das\nGleis das\nGriechenland\nHalbpension die\nherumfahren\nJugendherberge die\nKoffer der\nKöln\nKüste die\nLinie die\nMeer das\nMittelmeer das\nMosel die\nMünchen\nNotausgang der\nÖffnungszeiten (pl)\nörtlich\nOstsee die\nPanne die\nPassagier der\nPension die\nPolen\nReise die\nReisebüro das\nReisebus der\nreisen\nEnglish\nbicycle hire\njourney\nflight\nairport\nplane\nform\ncamera\nguided tour\nluggage\ntrack, platform\nGreece\nhalf board\nto travel around\nyouth hostel\nsuitcase\nCologne\ncoast\nline, number (tram, bus)\nsea\nMediterranean\nMoselle\nMunich\nemergency exit\nopening times\nlocal\nBaltic Sea\nbreakdown, puncture, flat tyre\npassenger\n(small) hotel\nPoland\njourney, trip, voyage\ntravel agency\ncoach\nto travel\nGerman\nReisende der/die\nReisescheck der\nReisetasche die\nReiseziel das\nRhein der\nRichtung die\nRundfahrt die\nRussland\nSchließfach das\nSchloss das\nSee der\nSee die\nseekrank\nsehenswert\nSehenswürdigkeit die\nSicherheitsgurt der\nsonnen (sich)\nSonnenbrand der\nSonnencreme die\nSpeisewagen der\nStadtbummel der\nStadtrundfahrt die\nStau der\nStrand der\nStraßenkarte die\nsuchen\nÜberfahrt die\nübernachten\nÜbernachtung die\nÜbernachtung mit Frühstück\nüberqueren\numsteigen\nunterwegs\nUrlaub der\nEnglish\ntraveller\ntraveller’s cheque\ntravel bag\ndestination\nRhine\ndirection\nround trip, tour\nRussia\nlocker\ncastle, palace\nlake\nsea\nsea sick\nworth seeing\ntourist attraction, sight\nsafety belt, seat belt\nto sunbathe\nsunburn\nsuntan lotion\ndining car, restaurant car (train)\nstroll through town; window shopping\nsightseeing tour of a town/city\ntraffic jam\nbeach\nroad map\nto look for, search\ncrossing (sea)\nto stay overnight\novernight stay\nB&B\nto cross (road, sea)\nto change (means of transport)\non the way\nholiday\nGerman\nverbringen\nverpassen\nVerspätung die\nVollpension die\nwarten (auf)\nWartesaal der\nweg\nWeg der\nwegfahren\nweggehen\nweiterfahren\nwieder\nWien\nWohnwagen der\nZelt das\nzelten\nZweibettzimmer das\nEnglish\nto spend (time)\nto miss\ndelay\nfull board\nto wait (for)\nwaiting room (eg station)\naway\nway, path\nto leave, to travel away\nto leave, to go away\nto travel on\nagain\nVienna\ncaravan\ntent\nto camp\ntwin bed room",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.3.3",
+                  "title": "Current and future study and employment",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "My studies",
+                      "level": 4,
+                      "content": "German\nDirektor der\nFach das\nFremdsprache die\ngerecht\nklug\nlehren\nSchulfach das\nSchulleiter der\nStunde die\nungerecht\nWerken\nEnglish\nheadteacher, principal\nsubject\nforeign language\nfair, just\nclever, intelligent\nto teach\nschool subject\nheadteacher, principal\nlesson\nunfair\nDT",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Life at school/college",
+                      "level": 4,
+                      "content": "German\n1 = sehr gut\n2 = gut\n3 = befriedigend\n4 = ausreichend\n5 = mangelhaft\n6 = ungenügend\nAbschlusszeugnis das\nAnspitzer der\nAntwort die\nantworten\nanziehen (sich)\nAnzug der\naufpassen\naufstehen\naufwachen\nAula die\nAustausch der\nAuswahl die\nausziehen (sich)\nbestehen\nblau machen\nBluse die\ndauern\nErfolg der\nerfolgreich\nerklären\nerzählen\nfaul\nfehlen\nFerien (pl)\nfleißig\nFrage die\nfragen\nEnglish\nvery good\ngood\nsatisfactory, fair\nsufficient, pass (just)\npoor, unsatisfactory, fail\nextremely poor, inadequate\nschool leaving certificate\npencil sharpener\nanswer\nto answer\nto get dressed\nsuit\nto pay attention\nto get up\nto wake up\n(assembly) hall\nexchange\nchoice\nto get undressed\nto pass (exam/test)\nto skip work, to play truant\nblouse\nto last\nsuccess\nsuccessful\nto explain\nto tell, to narrate\nlazy\nto be missing, absent\nholidays\nhard working, industrious\nquestion\nto ask\nGerman\nGanztagsschule die\nGesamtschule die\ngründen\nGrundschule die\nGymnasium das\nHalle die\nHauptschule die\nHausmeister der\nHemd das\nHose die\nInternat das\nKlassenarbeit die\nKlassenfahrt die\nKleid das\nkorrigieren\nKrawatte die\nKreide die\nLabor das\nLehrerzimmer das\nLineal das\nmalen\nMittagspause die\nmündlich\nnachsitzen\nNote die\nNotendruck der\nPause die\nplaudern\nPrüfung die\nrasieren (sich)\nRaum der\nRealschule die\nrechnen\nRegel die\nEnglish\nschool that lasts all day\ncomprehensive school\nto found\nprimary school\ngrammar school\nhall\nsecondary school\ncaretaker\nshirt\ntrousers\nboarding school\ntest\nschool trip\ndress\nto correct\ntie\nchalk\nlaboratory\nstaff room\nruler\nto paint\nlunch break\norally\nto have a detention\ngrade, mark\npressure to achieve good marks/grades\nbreak\nto chat, to talk\nexam\nto shave\nroom\nsecondary school\nto calculate, to do sums\nrule\nGerman\nRock der\nschaffen\nSchal der\nschminken (sich)\nschriftlich\nSchüler der\nSchulhof der\nschwatzen/schwätzen\nSeite die\nSekretariat das\nsetzen (sich)\nsitzen bleiben\nSprachlabor das\nStundenplan der\nTafel die\nTurnhalle die\nüben\nÜbung die\nUmkleideraum der\numziehen (sich)\nUnterricht der\nunterrichten\nverlassen\nVersammlung die\nverstehen\nversuchen\nwählen\nwaschen (sich)\nwiederholen\nwissen\nWörterbuch das\nZahnbürste die\nZahnpasta die\nzeichnen\nEnglish\nskirt\nto manage, to cope; to create\nscarf\nto put on make-up\nwritten\nstudent\nschool yard, playground\nto chatter\npage\noffice (school), reception\nto sit down\nto repeat a school year\nlanguage lab\ntimetable\nblack/white board\nsports hall\nto practise\nexercise\nchanging room\nto get changed, change clothes\nlessons; teaching\nto teach\nto leave\nassembly\nto understand\nto try\nto choose\nto have a wash\nto repeat\nto know\ndictionary\ntoothbrush\ntoothpaste\nto draw\nGerman\nZeugnis das\nzuhören\nEnglish\nschool report\nto listen",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Education post-16",
+                      "level": 4,
+                      "content": "German\n(Azubi) = Auszubildende der\nAbitur das\nAbiturient der\narbeiten\nArbeitspraktikum das\nAusbildung die\nAusbildungsplatz der\nBerufsberater der\nBerufsschule die\nbewerben (sich um)\nBewerbung die\nBrief der\nChef der\nentscheiden (sich)\nErfahrung die\nfertig\nFührerschein der\nGelegenheit die\nKollege der\nKurs der\nLebenslauf der\nLehre die\nLohn der\nMindestlohn der\nNebenjob der\nOberstufe die\nRat der\nSemester das\nStudienplatz der\nEnglish\napprentice, trainee\nA-level equivalent\nperson doing the Abitur\nto work\nwork experience\n(job) training, education\nvacancy/place for a trainee\ncareers adviser\nvocational training school\nto apply for\napplication\nletter\nboss\nto decide\nexperience\nready, done\ndriving licence\nopportunity\ncolleague\ncourse\ncurriculum vitae (CV)\napprenticeship\nwage\nminimum wage\npart-time job\nequivalent to sixth-form\nadvice\nterm\nuniversity place\nGerman\nStudium das\ntheoretisch\nverdienen\nEnglish\nstudies\ntheoretical\nto earn",
+                      "children": [
+                        {
+                          "code": "",
+                          "title": "Jobs, career choices and ambitions",
+                          "level": 5,
+                          "content": "German\nAngestellte der/die\nApotheker der\nArbeitszeit die\nBäcker der\nBauarbeiter der\nbauen\nBauer der\nBeamte der/die\nBeruf der\nberufstätig (sein)\nbeschäftigt (sein)\nbeschließen\nbesitzen\nBesitzer der\nBezahlung die\nBriefträger der\nBüro das\nerfüllen\nFeuerwehrmann der\nFleischer der\nFriseur der\nganztags\nGärtner der\nGehalt das\nHalbtagsarbeit die\nHausfrau die\nim Freien\nKarriere die\nEnglish\nemployee\npharmacist\nwork hours\nbaker\nbuilding/construction worker\nto build\nfarmer\ncivil servant\njob, occupation\n(to be) in work\n(to be) busy, employed\nto decide\nto own\nowner\npayment\npostman\noffice\nto fulfil\nfire fighter\nbutcher\nhairdresser\nall day\ngardener\nsalary\npart time employment\nhouse wife\noutside, in the open air\ncareer\nGerman\nKassierer der\nKlempner der\nKoch der\nKrankenschwester die\nLKW-Fahrer der\nMaler der\nMetzger der\nPfarrer der\nPolizei die\nPolizist der\nPostbote der\nRentner der\nSchauspieler der\nSchichtarbeit die\nsuchen\nTeilzeitjob der\nTermin der\nTischler der\nVerkäufer der\nVollzeitarbeit die\nVorstellungsgespräch das\nWerkstatt die\nWunsch der\nEnglish\ncashier, bank clerk\nplumber\nchef, cook\nnurse\nlorry driver\npainter, decorator\nbutcher\nparish priest, vicar\npolice\npoliceman\npostman\npensioner\nactor\nshift work\nto look for, to search\npart time job\ndate, appointment\ncarpenter\nshop assistant\nfull time work\njob interview\ngarage\nwish",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "3.5.4",
+              "title": "Theme-based vocabulary (Higher Tier)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.4.1",
+                  "title": "Identity and culture",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Me, my family and friends",
+                      "level": 4,
+                      "content": "German\nAlleinerziehende der/die\nalleinstehend\nAngeber der\naufpassen (auf)\nausgeglichen\nEnglish\nsingle parent\nsingle\nshow off, poser\nto look after\nbalanced\nGerman\nBekannte der/die\nBeziehung die\nBraut die\nBräutigam der\nEhe die\neifersüchtig\neinen (guten) Sinn für Humor haben\neingebildet\nEnkel der\nEnkelin die\ngleichgeschlechtliche Ehe/Partnerschaft die\ngroßzügig\nJunggeselle der\nlebhaft\nleiden\nminderjährig\nmiteinander\nNeffe der\nNichte die\nSchulter die\nSchwager der\nSchwägerin die\nSchwieger~\nselbstbewusst\nTrauung die\ntreu\nVerlobte der/die\nverrückt\nVerwandte der/die\nVerwandtschaft die\nverzeihen\nvolljährig\nVorwahl(nummer) die\nzurechtkommen mit\nEnglish\nacquaintance, friend\nrelationship\nbride\ngroom\nmarriage\njealous\nto have a (good) sense of humour\nconceited\ngrandson\ngranddaughter\nsame-sex marriage/partnership\ngenerous\nbachelor\nlively\nto suffer\n(to be a) minor, under legal age\nwith one another, together\nnephew\nniece\nshoulder\nbrother-in-law\nsister-in-law\n~ in-law\nself-confident, self-assured\nwedding (ceremony)\nfaithful, loyal\nfiancé(e)\ncrazy\nrelative\nrelations (pl); relatives (pl)\nto forgive\n(to be) of age\nlong distance code (telephone)\nto cope with\nGerman\nzuverlässig\nzweifeln\nEnglish\nreliable\nto doubt",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Technology in everyday life",
+                      "level": 4,
+                      "content": "German\nAnwendungen (pl)\nBetriebssystem das\nEinstellungen (pl)\nleistungsstark\nSicherheit die\nEnglish\napplications\noperating system\nsettings\npowerful (battery, processor)\nsafety",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Free-time activities",
+                      "level": 4,
+                      "content": "German\naufnehmen\naufregend\nBergsteigen das\nDirigent der\nEnte die\nErgebnis das\nermüdend\nFlachbildschirm der\nFlimmerkiste die\nForelle die\nGans die\nGeige die\ngeräuchert\nHalbfettmilch die\nhausgemacht\nHonig der\nKalbfleisch das\nKnoblauch der\nLachs der\nLamm(fleisch) das\nLeichtathletik die\nMagermilch die\nEnglish\nto record\nexciting\nmountain climbing\nconductor\nduck\nresult\ntiring\nflat screen TV\nTV, box, telly\ntrout\ngoose\nviolin\nsmoked\nsemi-skimmed milk\nhome made\nhoney\nveal\ngarlic\nsalmon\nlamb\nathletics\nskimmed milk\nGerman\nMehl das\nQuerflöte die\nRennen das\nRindfleisch das\nRührei das\nSchlagzeug das\nSchlittschuh laufen\nschmackhaft\nSchweinefleisch das\nSpiegelei das\nSprudel(wasser) der (das)\nTruthahn der\nÜberraschung die\nUntertitel der\nVerein der\nVergnügen das\nVollmilch die\nwürzig\nEnglish\nflour\nflute\nrace\nbeef\nscrambled egg(s)\npercussion, drums\nice skating\ntasty\npork\nfried egg\nfizzy mineral water\nturkey\nsurprise\nsubtitle\nclub\nfun, enjoyment\nfull fat milk\nspicy",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Customs and festivals in German-speaking countries/communities",
+                      "level": 4,
+                      "content": "German\nAprilscherz der\nGastfreundschaft die\nTag der Arbeit (1 Mai)\nEnglish\nApril fool’s trick\nhospitality\nMay Day",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.4.2",
+                  "title": "Local, national, international and global areas of interest",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Home, town, neighbourhood and region",
+                      "level": 4,
+                      "content": "German\nAbstellraum der\nausschalten\nBesteck das\nBrunnen der\nEinbahnstraße die\neinschalten\nEnglish\nstoreroom\nto switch off\ncutlery\nwell\none way street\nto switch on\nGerman\nEssecke die\nFahrschein der\nGerät das\ngeräumig\nGeschirr das\ngratis\nGrünanlage die\nMehrfamilienhaus das\nMöbelstück das\n~möglichkeiten\nöffentliche Verkehrsmittel (pl)\npleite (sein)\npreiswert\nRabatt der\nSackgasse die\nSparkasse die\nStadtteil der\nStadtviertel das\nStockwerk das\nStrom der\nTiefkühltruhe die\nTreppenhaus das\numsonst\nUmzug der\nWolkenkratzer der\nEnglish\neating area (eg in the kitchen)\nticket (public transport)\nappliance\nroomy, spacious\ncrockery\nfree of charge\ngreen area, park\nhouse for several families (three to six storeys)\npiece of furniture\n~ possibilities\npublic transport\nto be skint\ngood value for money, cheap\ndiscount\ncul-de-sac\n(savings) bank\npart of the town\ndistrict, part of the town\nfloor, storey\nelectricity\nchest freezer\nstaircase\nfree of charge; in vain\nmove, moving (house)\nsky-scraper",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Social issues",
+                      "level": 4,
+                      "content": "German\nabstinent\nAtem der\nAtembeschwerden (pl)\nBedürftige der/die\nbegehen\nbenachteiligen\nEnglish\nteetotal\nbreath\nbreathing difficulties\nsomebody in need\nto commit, to perpetrate\nto disadvantage\nGerman\nbewegen (sich)\nDrogenberatungsstelle die\nehrenamtlich\nein Mittel gegen …\neinatmen\nEingliederung die\neinnehmen\nEntziehungskur die\nerbrechen (sich)\nfettarm\nGehirn das\nlebendig\nmagersüchtig\nMindesthaltbarkeitsdatum das\nNahrung die\nRassenvorurteile (pl)\nRassist der\nRaucherhusten der\nRauschgift das\nschaden\nStraftat die\nSüßigkeiten (pl)\nÜberdosis die\nübergewichtig\nvermeiden\nEnglish\nto move; to get/take some exercise\nadvice centre for drug addicts\nhonorary, voluntarily\nsomething, a medicine for …\nto breathe in\nintegration\nto take (in)\nrehab for drug addiction/alcoholism\nto be sick\nlow in fat\nbrain\nalive\nanorexic\nbest before date\nfood, nourishment\nracial prejudice\nracist\nsmoker’s cough\ndrug, narcotic\nto damage, to harm\ncriminal offence, act\nsweets\noverdose\noverweight\nto avoid",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Global issues",
+                      "level": 4,
+                      "content": "German\nAbholzung die\nAuspuffgase (pl)\nbedürftig\nDüngemittel das\nEinwegflasche die\nGleichheit die\nEnglish\ndeforestation\nexhaust fumes\nneedy\nfertiliser\nnon-recyclable bottle\nequality\nGerman\nHauptverkehrszeit die\nmenschlich\nMüllentsorgung die\nNot die\nObdachlosenheim das\nRote Kreuz das\nüberschreiten\nverpesten\nverschwenden\nverwenden\nwiederverwerten\nWiederverwertung die\nEnglish\nrush hour\nhuman, humane\nwaste disposal\nneed\nhostel for homeless people\nRed Cross\nto exceed\nto pollute\nto waste\nto use\nto recycle\nrecycling",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Travel and tourism",
+                      "level": 4,
+                      "content": "German\nAndenken das\nansehen (sich etwas)\nÄrmelkanal der\nAufenthalt der\nAuskunft die\nAutovermietung die\nbeeilen (sich)\nbegleiten\nbestätigen\nBodensee der\nDampfer der\nEmpfang der\nentdecken\nerinnern (sich)\nFahrradverleih der\nGenf\nGepäckaufbewahrung die\nKlimaanlage die\nEnglish\nsouvenir, memento\nto have a look at something\n(English) Channel\nstay\ninformation\ncar rental (firm)\nto hurry\nto accompany\nto confirm\nLake Constance\nsteam boat\nwelcoming, reception (hotel)\nto discover\nto remember\nbicycle hire\nGeneva\nplace where one can leave luggage for\npayment (station, airport)\nair conditioning\nGerman\nProspekt der\nStrandkorb der\nVerbindung die\nVerkehrsamt das\nwegen Betriebsferien (pl) geschlossen\nZoll der\nZuschlag der\nEnglish\nbrochure, leaflet\nwicker beach chair\nconnection\ntourist information office\n(firm/shop/attraction) closed because of holiday\ncustoms\nextra charge, surcharge",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.4.3",
+                  "title": "Current and future study and employment",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "My studies",
+                      "level": 4,
+                      "content": "German\nFremdsprachenassistent der\nEnglish\nlanguage assistant",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Life at school/college",
+                      "level": 4,
+                      "content": "German\nabschreiben\nabwesend\nanwesend\nAussprache die\nbeantworten\ndurchfallen\neine Frage stellen\nErgebnis das\nGang der\nLeistung die\nLeistungsdruck der\nPatrone die\nSchere die\nschwänzen\nStrafarbeit die\nversetzt werden\nEnglish\nto copy\nabsent\npresent\npronunciation\nto answer\nto fail (exam/test)\nto ask a question\nresult, outcome\ncorridor\nachievement\npressure to achieve\ncartridge\nscissors\nto play truant\npunishment, lines\nto be moved up to the next year group",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Education post-16",
+                      "level": 4,
+                      "content": "German\neinstellen\nEnglish\nto employ\nGerman\nFachschule die\nHauswirtschaftslehre die\nPflichtfach das\nSozialkunde die\nWahlfach das\nWirtschaftslehre die\nEnglish\ntechnical college\nhome economics\ncompulsory subject\nsocial studies, politics\noptional subject\nbusiness studies, economics",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Jobs, career choices and ambitions",
+                      "level": 4,
+                      "content": "German\nArbeitgeber der\nBesprechung die\nBetrieb der\nkündigen\nvereinbaren\nEnglish\nemployer\nmeeting, discussion\nbusiness, concern, works\nto hand in one's notice; to sack someone\nto agree, to arrange",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

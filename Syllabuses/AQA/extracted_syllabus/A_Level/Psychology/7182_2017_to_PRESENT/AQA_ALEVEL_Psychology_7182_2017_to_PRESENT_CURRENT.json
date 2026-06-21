@@ -1,0 +1,270 @@
+{
+  "source_pdf": "A_Level/Psychology/7182_2017_to_PRESENT/AQA_ALEVEL_Psychology_7182_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "A_Level",
+  "subject": "Psychology",
+  "spec_code": "7182",
+  "pdf_name": "AQA_ALEVEL_Psychology_7182_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 2,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content – AS",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Introductory topics in Psychology",
+          "level": 1,
+          "content": "Students will be expected to:\n- demonstrate knowledge and understanding of psychological concepts, theories, research\nstudies, research methods and ethical issues in relation to the specified Paper 1 content\n- apply psychological knowledge and understanding of the specified Paper 1 content in a\nrange of contexts\n- analyse, interpret and evaluate psychological concepts, theories, research studies and\nresearch methods in relation to the specified Paper 1 content\n- evaluate therapies and treatments including in terms of their appropriateness and\neffectiveness.\nKnowledge and understanding of research methods, practical research skills and mathematical\nskills (see Annex: Mathematical requirements and exemplifications (page 33)) will be assessed in\nPaper 1. These skills should be developed through study of the specification content and through\nethical practical research activities, involving:\n- designing research\n- conducting research\n- analysing and interpreting data.\nIn carrying out practical research activities, students will manage associated risks and use\ninformation and communication technology (ICT).",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Social influence",
+              "level": 2,
+              "content": "- Types of conformity: internalisation, identification and compliance. Explanations for\nconformity: informational social influence and normative social influence, and variables\naffecting conformity including group size, unanimity and task difficulty as investigated by\nAsch.\n- Conformity to social roles as investigated by Zimbardo.\n- Explanations for obedience: agentic state and legitimacy of authority, and situational\nvariables affecting obedience including proximity and location, as investigated by Milgram,\nand uniform. Dispositional explanation for obedience: the Authoritarian Personality.\n- Explanations of resistance to social influence, including social support and locus of control.\n- Minority influence including reference to consistency, commitment and flexibility.\n- The role of social influence processes in social change.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Memory",
+              "level": 2,
+              "content": "- The multi-store model of memory: sensory register, short-term memory and long-term\nmemory. Features of each store: coding, capacity and duration.\n- Types of long-term memory: episodic, semantic, procedural.\n- The working memory model: central executive, phonological loop, visuo-spatial sketchpad\nand episodic buffer. Features of the model: coding and capacity.\n- Explanations for forgetting: proactive and retroactive interference and retrieval failure due to\nabsence of cues.\n- Factors affecting the accuracy of eyewitness testimony: misleading information, including\nleading questions and post-event discussion; anxiety.\n- Improving the accuracy of eyewitness testimony, including the use of the cognitive interview.",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Attachment",
+              "level": 2,
+              "content": "- Caregiver-infant interactions in humans: reciprocity and interactional synchrony. Stages of\nattachment identified by Schaffer. Multiple attachments and the role of the father.\n- Animal studies of attachment: Lorenz and Harlow.\n- Explanations of attachment: learning theory and Bowlby’s monotropic theory. The concepts\nof a critical period and an internal working model.\n- Ainsworth’s ‘Strange Situation’. Types of attachment: secure, insecure-avoidant and\ninsecure-resistant. Cultural variations in attachment, including van Ijzendoorn.\n- Bowlby’s theory of maternal deprivation. Romanian orphan studies: effects of\ninstitutionalisation.\n- The influence of early attachment on childhood and adult relationships, including the role of\nan internal working model.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Psychology in context",
+          "level": 1,
+          "content": "Students will be expected to:\n- demonstrate knowledge and understanding of psychological concepts, theories, research\nstudies, research methods and ethical issues in relation to the specified Paper 2 content\n- apply psychological knowledge and understanding of the specified Paper 2 content in a\nrange of contexts\n- analyse, interpret and evaluate psychological concepts, theories, research studies and\nresearch methods in relation to the specified Paper 2 content\n- evaluate therapies and treatments including in terms of their appropriateness and\neffectiveness.\nKnowledge and understanding of research methods, practical research skills and mathematical\nskills (see Annex: Mathematical requirements and exemplification (page 33)) will be assessed in\nPaper 2. These skills should be developed through study of the specification content and through\nethical practical research activities, involving:\n- designing research\n- conducting research\n- analysing and interpreting data.\nIn carrying out practical research activities, students will manage associated risks and use\ninformation and communication technology (ICT).",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Approaches in Psychology",
+              "level": 2,
+              "content": "Origins of Psychology: Wundt, introspection and the emergence of Psychology as a science.\nThe basic assumptions of the following approaches:\n- Learning approaches: i) the behaviourist approach, including classical conditioning and\nPavlov’s research, operant conditioning, types of reinforcement and Skinner’s research; ii)\nsocial learning theory including imitation, identification, modelling, vicarious reinforcement,\nthe role of mediational processes and Bandura’s research.\n- The cognitive approach: the study of internal mental processes, the role of schema, the use\nof theoretical and computer models to explain and make inferences about mental processes.\nThe emergence of cognitive neuroscience.\n- The biological approach: the influence of genes, biological structures and neurochemistry on\nbehaviour. Genotype and phenotype, genetic basis of behaviour, evolution and behaviour.",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "Biopsychology",
+                  "level": 3,
+                  "content": "- The divisions of the nervous system: central and peripheral (somatic and autonomic).\n- The structure and function of sensory, relay and motor neurons. The process of synaptic\ntransmission, including reference to neurotransmitters, excitation and inhibition.\n- The function of the endocrine system: glands and hormones.\n- The fight or flight response including the role of adrenaline.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "Psychopathology",
+              "level": 2,
+              "content": "- Definitions of abnormality, including deviation from social norms, failure to function\nadequately, statistical infrequency and deviation from ideal mental health.\n- The behavioural, emotional and cognitive characteristics of phobias, depression and\nobsessive-compulsive disorder (OCD).\n- The behavioural approach to explaining and treating phobias: the two-process model,\nincluding classical and operant conditioning; systematic desensitisation, including relaxation\nand use of hierarchy; flooding.\n- The cognitive approach to explaining and treating depression: Beck’s negative triad and\nEllis’s ABC model; cognitive behaviour therapy (CBT), including challenging irrational\nthoughts.\n- The biological approach to explaining and treating OCD: genetic and neural explanations;\ndrug therapy.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Research methods",
+              "level": 2,
+              "content": "Students should demonstrate knowledge and understanding of the following research methods,\nscientific processes and techniques of data handling and analysis, be familiar with their use and be\naware of their strengths and limitations:\n- Experimental method. Types of experiment, laboratory and field experiments; natural and\nquasi-experiments.\n- Observational techniques. Types of observation: naturalistic and controlled observation;\ncovert and overt observation; participant and non-participant observation.\n- Self-report techniques. Questionnaires; interviews, structured and unstructured.\n- Correlations. Analysis of the relationship between co-variables. The difference between\ncorrelations and experiments.",
+              "children": [
+                {
+                  "code": "3.2.3.1",
+                  "title": "Scientific processes",
+                  "level": 3,
+                  "content": "- Aims: stating aims, the difference between aims and hypotheses.\n- Hypotheses: directional and non-directional.\n- Sampling: the difference between population and sample; sampling techniques including:\nrandom, systematic, stratified, opportunity and volunteer; implications of sampling\ntechniques, including bias and generalisation.\n- Pilot studies and the aims of piloting.\n- Experimental designs: repeated measures, independent groups, matched pairs.\n- Observational design: behavioural categories; event sampling; time sampling.\n- Questionnaire construction, including use of open and closed questions; design of interviews.\n- Variables: manipulation and control of variables, including independent, dependent,\nextraneous, confounding; operationalisation of variables.\n- Control: random allocation and counterbalancing, randomisation and standardisation.\n- Demand characteristics and investigator effects.\n- Ethics, including the role of the British Psychological Society’s code of ethics; ethical issues\nin the design and conduct of psychological studies; dealing with ethical issues in research.\n- The role of peer review in the scientific process.\n- The implications of psychological research for the economy.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.2",
+                  "title": "Data handling and analysis",
+                  "level": 3,
+                  "content": "- Quantitative and qualitative data; the distinction between qualitative and quantitative data\ncollection techniques.\n- Primary and secondary data, including meta-analysis.\n- Descriptive statistics: measures of central tendency – mean, median, mode; calculation of\nmean, median and mode; measures of dispersion; range and standard deviation; calculation\nof range; calculation of percentages; positive, negative and zero correlations.\n- Presentation and display of quantitative data: graphs, tables, scattergrams, bar charts.\n- Distributions: normal and skewed distributions; characteristics of normal and skewed\ndistributions.\n- Introduction to statistical testing; the sign test. When to use the sign test; calculation of the\nsign test.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_code": "4",
+      "section_title": "Subject content – A-level",
+      "topics": [
+        {
+          "code": "4.1",
+          "title": "Introductory topics in Psychology",
+          "level": 1,
+          "content": "Students will be expected to:\n- demonstrate knowledge and understanding of psychological concepts, theories, research\nstudies, research methods and ethical issues in relation to the specified Paper 1 content\n- apply psychological knowledge and understanding of the specified Paper 1 content in a\nrange of contexts\n- analyse, interpret and evaluate psychological concepts, theories, research studies and\nresearch methods in relation to the specified Paper 1 content\n- evaluate therapies and treatments including in terms of their appropriateness and\neffectiveness.\nKnowledge and understanding of research methods, practical research skills and mathematical\nskills (see Annex: Mathematical requirements and exemplifications (page 35)) will be assessed in\nPaper 1. These skills should be developed through study of the specification content and through\nethical practical research activities, involving:\n- designing research\n- conducting research\n- analysing and interpreting data.\nIn carrying out practical research activities, students will manage associated risks and use\ninformation and communication technology (ICT).",
+          "children": [
+            {
+              "code": "4.1.1",
+              "title": "Social influence",
+              "level": 2,
+              "content": "- Types of conformity: internalisation, identification and compliance. Explanations for\nconformity: informational social influence and normative social influence, and variables\naffecting conformity including group size, unanimity and task difficulty as investigated by\nAsch.\n- Conformity to social roles as investigated by Zimbardo.\n- Explanations for obedience: agentic state and legitimacy of authority, and situational\nvariables affecting obedience including proximity and location, as investigated by Milgram,\nand uniform. Dispositional explanation for obedience: the Authoritarian Personality.\n- Explanations of resistance to social influence, including social support and locus of control.\n- Minority influence including reference to consistency, commitment and flexibility.\n- The role of social influence processes in social change.",
+              "children": []
+            },
+            {
+              "code": "4.1.2",
+              "title": "Memory",
+              "level": 2,
+              "content": "- The multi-store model of memory: sensory register, short-term memory and long-term\nmemory. Features of each store: coding, capacity and duration.\n- Types of long-term memory: episodic, semantic, procedural.\n- The working memory model: central executive, phonological loop, visuo-spatial sketchpad\nand episodic buffer. Features of the model: coding and capacity.\n- Explanations for forgetting: proactive and retroactive interference and retrieval failure due to\nabsence of cues.\n- Factors affecting the accuracy of eyewitness testimony: misleading information, including\nleading questions and post-event discussion; anxiety.\n- Improving the accuracy of eyewitness testimony, including the use of the cognitive interview.",
+              "children": []
+            },
+            {
+              "code": "4.1.3",
+              "title": "Attachment",
+              "level": 2,
+              "content": "- Caregiver-infant interactions in humans: reciprocity and interactional synchrony. Stages of\nattachment identified by Schaffer. Multiple attachments and the role of the father.\n- Animal studies of attachment: Lorenz and Harlow.\n- Explanations of attachment: learning theory and Bowlby’s monotropic theory. The concepts\nof a critical period and an internal working model.\n- Ainsworth’s ‘Strange Situation’. Types of attachment: secure, insecure-avoidant and\ninsecure-resistant. Cultural variations in attachment, including van Ijzendoorn.\n- Bowlby’s theory of maternal deprivation. Romanian orphan studies: effects of\ninstitutionalisation.\n- The influence of early attachment on childhood and adult relationships, including the role of\nan internal working model.",
+              "children": []
+            },
+            {
+              "code": "4.1.4",
+              "title": "Psychopathology",
+              "level": 2,
+              "content": "- Definitions of abnormality, including deviation from social norms, failure to function\nadequately, statistical infrequency and deviation from ideal mental health.\n- The behavioural, emotional and cognitive characteristics of phobias, depression and\nobsessive-compulsive disorder (OCD).\n- The behavioural approach to explaining and treating phobias: the two-process model,\nincluding classical and operant conditioning; systematic desensitisation, including relaxation\nand use of hierarchy; flooding.\n- The cognitive approach to explaining and treating depression: Beck’s negative triad and\nEllis’s ABC model; cognitive behaviour therapy (CBT), including challenging irrational\nthoughts.\n- The biological approach to explaining and treating OCD: genetic and neural explanations;\ndrug therapy.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.2",
+          "title": "Psychology in context",
+          "level": 1,
+          "content": "Students will be expected to:\n- demonstrate knowledge and understanding of psychological concepts, theories, research\nstudies, research methods and ethical issues in relation to the specified Paper 2 content\n- apply psychological knowledge and understanding of the specified Paper 2 content in a\nrange of contexts\n- analyse, interpret and evaluate psychological concepts, theories, research studies and\nresearch methods in relation to the specified Paper 2 content\n- evaluate therapies and treatments including in terms of their appropriateness and\neffectiveness.\nKnowledge and understanding of research methods, practical research skills and mathematical\nskills (see Annex: Mathematical requirements and exemplification (page 33)) will be assessed in\nPaper 2. These skills should be developed through study of the specification content and through\nethical practical research activities, involving:\n- designing research\n- conducting research\n- analysing and interpreting data.\nIn carrying out practical research activities, students will manage associated risks and use\ninformation and communication technology (ICT).",
+          "children": [
+            {
+              "code": "4.2.1",
+              "title": "Approaches in Psychology",
+              "level": 2,
+              "content": "Origins of Psychology: Wundt, introspection and the emergence of Psychology as a science.\nThe basic assumptions of the following approaches:\n- Learning approaches: i) the behaviourist approach, including classical conditioning and\nPavlov’s research, operant conditioning, types of reinforcement and Skinner’s research; ii)\nsocial learning theory including imitation, identification, modelling, vicarious reinforcement,\nthe role of mediational processes and Bandura’s research.\n- The cognitive approach: the study of internal mental processes, the role of schema, the use\nof theoretical and computer models to explain and make inferences about mental processes.\nThe emergence of cognitive neuroscience.\n- The biological approach: the influence of genes, biological structures and neurochemistry on\nbehaviour. Genotype and phenotype, genetic basis of behaviour, evolution and behaviour.\n- The psychodynamic approach: the role of the unconscious, the structure of personality, that\nis Id, Ego and Superego, defence mechanisms including repression, denial and\ndisplacement, psychosexual stages.\n- Humanistic Psychology: free will, self-actualisation and Maslow’s hierarchy of needs, focus\non the self, congruence, the role of conditions of worth. The influence on counselling\nPsychology.\n- Comparison of approaches.",
+              "children": []
+            },
+            {
+              "code": "4.2.2",
+              "title": "Biopsychology",
+              "level": 2,
+              "content": "- The divisions of the nervous system: central and peripheral (somatic and autonomic).\n- The structure and function of sensory, relay and motor neurons. The process of synaptic\ntransmission, including reference to neurotransmitters, excitation and inhibition.\n- The function of the endocrine system: glands and hormones.\n- The fight or flight response including the role of adrenaline.\n- Localisation of function in the brain and hemispheric lateralisation: motor, somatosensory,\nvisual, auditory and language centres; Broca’s and Wernicke’s areas, split brain research.\nPlasticity and functional recovery of the brain after trauma.\n- Ways of studying the brain: scanning techniques, including functional magnetic resonance\nimaging (fMRI); electroencephalogram (EEGs) and event-related potentials (ERPs); post-\nmortem examinations.\n- Biological rhythms: circadian, infradian and ultradian and the difference between these\nrhythms. The effect of endogenous pacemakers and exogenous zeitgebers on the sleep/\nwake cycle.",
+              "children": []
+            },
+            {
+              "code": "4.2.3",
+              "title": "Research methods",
+              "level": 2,
+              "content": "Students should demonstrate knowledge and understanding of the following research methods,\nscientific processes and techniques of data handling and analysis, be familiar with their use and be\naware of their strengths and limitations.\n- Experimental method. Types of experiment, laboratory and field experiments; natural and\nquasi-experiments.\n- Observational techniques. Types of observation: naturalistic and controlled observation;\ncovert and overt observation; participant and non-participant observation.\n- Self-report techniques. Questionnaires; interviews, structured and unstructured.\n- Correlations. Analysis of the relationship between co-variables. The difference between\ncorrelations and experiments.\n- Content analysis.\n- Case studies.",
+              "children": [
+                {
+                  "code": "4.2.3.1",
+                  "title": "Scientific processes",
+                  "level": 3,
+                  "content": "- Aims: stating aims, the difference between aims and hypotheses.\n- Hypotheses: directional and non-directional.\n- Sampling: the difference between population and sample; sampling techniques including:\nrandom, systematic, stratified, opportunity and volunteer; implications of sampling\ntechniques, including bias and generalisation.\n- Pilot studies and the aims of piloting.\n- Experimental designs: repeated measures, independent groups, matched pairs.\n- Observational design: behavioural categories; event sampling; time sampling.\n- Questionnaire construction, including use of open and closed questions; design of interviews.\n- Variables: manipulation and control of variables, including independent, dependent,\nextraneous, confounding; operationalisation of variables.\n- Control: random allocation and counterbalancing, randomisation and standardisation.\n- Demand characteristics and investigator effects.\n- Ethics, including the role of the British Psychological Society’s code of ethics; ethical issues\nin the design and conduct of psychological studies; dealing with ethical issues in research.\n- The role of peer review in the scientific process.\n- The implications of psychological research for the economy.\n- Reliability across all methods of investigation. Ways of assessing reliability: test-retest and\ninter-observer; improving reliability.\n- Types of validity across all methods of investigation: face validity, concurrent validity,\necological validity and temporal validity. Assessment of validity. Improving validity.\n- Features of science: objectivity and the empirical method; replicability and falsifiability; theory\nconstruction and hypothesis testing; paradigms and paradigm shifts.\n- Reporting psychological investigations. Sections of a scientific report: abstract, introduction,\nmethod, results, discussion and referencing.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.3.2",
+                  "title": "Data handling and analysis",
+                  "level": 3,
+                  "content": "- Quantitative and qualitative data; the distinction between qualitative and quantitative data\ncollection techniques.\n- Primary and secondary data, including meta-analysis.\n- Descriptive statistics: measures of central tendency – mean, median, mode; calculation of\nmean, median and mode; measures of dispersion; range and standard deviation; calculation\nof range; calculation of percentages; positive, negative and zero correlations.\n- Presentation and display of quantitative data: graphs, tables, scattergrams, bar charts,\nhistograms.\n- Distributions: normal and skewed distributions; characteristics of normal and skewed\ndistributions.\n- Analysis and interpretation of correlation, including correlation coefficients.\n- Levels of measurement: nominal, ordinal and interval.\n- Content analysis and coding. Thematic analysis.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.3.3",
+                  "title": "Inferential testing",
+                  "level": 3,
+                  "content": "Students should demonstrate knowledge and understanding of inferential testing and be familiar\nwith the use of inferential tests.\n- Introduction to statistical testing; the sign test. When to use the sign test; calculation of the\nsign test.\n- Probability and significance: use of statistical tables and critical values in interpretation of\nsignificance; Type I and Type II errors.\n- Factors affecting the choice of statistical test, including level of measurement and\nexperimental design. When to use the following tests: Spearman’s rho, Pearson’s r,\nWilcoxon, Mann-Whitney, related t-test, unrelated t-test and Chi-Squared test.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.3",
+          "title": "Issues and options in Psychology",
+          "level": 1,
+          "content": "Students will be expected to:\n- demonstrate knowledge and understanding of psychological concepts, theories, research\nstudies, research methods and ethical issues in relation to the specified Paper 3 content\n- apply psychological knowledge and understanding of the specified Paper 3 content in a\nrange of contexts\n- analyse, interpret and evaluate psychological concepts, theories, research studies and\nresearch methods in relation to the specified Paper 3 content\n- evaluate therapies and treatments including in terms of their appropriateness and\neffectiveness.\nKnowledge and understanding of research methods, practical research skills and mathematical\nskills (see Annex: Mathematical requirements and exemplification (page 33)) will be assessed in\nPaper 3. These skills should be developed through study of the specification content and through\nethical practical research activities, involving:\n- designing research\n- conducting research\n- analysing and interpreting data.\nIn answering questions on Issues and Debates in Psychology students will be expected to illustrate\ntheir answers with knowledge and understanding of topics studied elsewhere in the specification as\nappropriate.\nIn carrying out practical research activities, students will manage associated risks and use\ninformation and communication technology (ICT).",
+          "children": [
+            {
+              "code": "4.3.1",
+              "title": "Issues and debates in Psychology",
+              "level": 2,
+              "content": "- Gender and culture in Psychology – universality and bias. Gender bias including\nandrocentrism and alpha and beta bias; cultural bias, including ethnocentrism and cultural\nrelativism.\n- Free will and determinism: hard determinism and soft determinism; biological, environmental\nand psychic determinism. The scientific emphasis on causal explanations.\n- The nature-nurture debate: the relative importance of heredity and environment in\ndetermining behaviour; the interactionist approach.\n- Holism and reductionism: levels of explanation in Psychology. Biological reductionism and\nenvironmental (stimulus-response) reductionism.\n- Idiographic and nomothetic approaches to psychological investigation.\n- Ethical implications of research studies and theory, including reference to social sensitivity.",
+              "children": []
+            },
+            {
+              "code": "4.3.2",
+              "title": "Relationships",
+              "level": 2,
+              "content": "- The evolutionary explanations for partner preferences, including the relationship between\nsexual selection and human reproductive behaviour.\n- Factors affecting attraction in romantic relationships: self-disclosure; physical attractiveness,\nincluding the matching hypothesis; filter theory, including social demography, similarity in\nattitudes and complementarity.\n- Theories of romantic relationships: social exchange theory, equity theory and Rusbult’s\ninvestment model of commitment, satisfaction, comparison with alternatives and investment.\nDuck’s phase model of relationship breakdown: intra-psychic, dyadic, social and grave\ndressing phases.\n- Virtual relationships in social media: self-disclosure in virtual relationships; effects of absence\nof gating on the nature of virtual relationships.\n- Parasocial relationships: levels of parasocial relationships, the absorption addiction model\nand the attachment theory explanation.",
+              "children": []
+            },
+            {
+              "code": "4.3.3",
+              "title": "Gender",
+              "level": 2,
+              "content": "- Sex and gender. Sex-role stereotypes. Androgyny and measuring androgyny including the\nBem Sex Role Inventory.\n- The role of chromosomes and hormones (testosterone, oestrogen and oxytocin) in sex and\ngender. Atypical sex chromosome patterns: Klinefelter’s syndrome and Turner’s syndrome.\n- Cognitive explanations of gender development, Kohlberg’s theory, gender identity, gender\nstability and gender constancy; gender schema theory.\n- Psychodynamic explanation of gender development, Freud’s psychoanalytic theory, Oedipus\ncomplex; Electra complex; identification and internalisation.\n- Social learning theory as applied to gender development. The influence of culture and media\non gender roles.\n- Atypical gender development: gender dysphoria; biological and social explanations for\ngender dysphoria.",
+              "children": []
+            },
+            {
+              "code": "4.3.4",
+              "title": "Cognition and development",
+              "level": 2,
+              "content": "- Piaget’s theory of cognitive development: schemas, assimilation, accommodation,\nequilibration, stages of intellectual development. Characteristics of these stages, including\nobject permanence, conservation, egocentrism and class inclusion.\n- Vygotsky’s theory of cognitive development, including the zone of proximal development and\nscaffolding.\n- Baillargeon’s explanation of early infant abilities, including knowledge of the physical world;\nviolation of expectation research.\n- The development of social cognition: Selman’s levels of perspective-taking; theory of mind,\nincluding theory of mind as an explanation for autism; the Sally-Anne study. The role of the\nmirror neuron system in social cognition.",
+              "children": []
+            },
+            {
+              "code": "4.3.5",
+              "title": "Schizophrenia",
+              "level": 2,
+              "content": "- Classification of schizophrenia. Positive symptoms of schizophrenia, including hallucinations\nand delusions. Negative symptoms of schizophrenia, including speech poverty and avolition.\nReliability and validity in diagnosis and classification of schizophrenia, including reference to\nco-morbidity, culture and gender bias and symptom overlap.\n- Biological explanations for schizophrenia: genetics and neural correlates, including the\ndopamine hypothesis.\n- Psychological explanations for schizophrenia: family dysfunction and cognitive explanations,\nincluding dysfunctional thought processing.\n- Drug therapy: typical and atypical antipsychotics.\n- Cognitive behaviour therapy and family therapy as used in the treatment of schizophrenia.\nToken economies as used in the management of schizophrenia.\n- The importance of an interactionist approach in explaining and treating schizophrenia; the\ndiathesis-stress model.",
+              "children": []
+            },
+            {
+              "code": "4.3.6",
+              "title": "Eating behaviour",
+              "level": 2,
+              "content": "- Explanations for food preferences: the evolutionary explanation, including reference to\nneophobia and taste aversion; the role of learning in food preference, including social and\ncultural influences.\n- Neural and hormonal mechanisms involved in the control of eating behaviour, including the\nrole of the hypothalamus, ghrelin and leptin.\n- Biological explanations for anorexia nervosa, including genetic and neural explanations.\n- Psychological explanations for anorexia nervosa: family systems theory, including\nenmeshment, autonomy and control; social learning theory, including modelling,\nreinforcement and media; cognitive theory, including distortions and irrational beliefs.\n- Biological explanations for obesity, including genetic and neural explanations.\n- Psychological explanations for obesity, including restraint theory, disinhibition and the\nboundary model. Explanations for the success and failure of dieting.",
+              "children": []
+            },
+            {
+              "code": "4.3.7",
+              "title": "Stress",
+              "level": 2,
+              "content": "- The physiology of stress, including general adaptation syndrome, the hypothalamic pituitary-\nadrenal system, the sympathomedullary pathway and the role of cortisol.\n- The role of stress in illness, including reference to immunosuppression and cardiovascular\ndisorders.\n- Sources of stress: life changes and daily hassles. Workplace stress, including the effects of\nworkload and control.\n- Measuring stress: self-report scales (Social Readjustment Ratings Scale and Hassles and\nUplifts Scale) and physiological measures, including skin conductance response.\n- Individual differences in stress: personality types A, B and C and associated behaviours;\nhardiness, including commitment, challenge and control.\n- Managing and coping with stress: drug therapy (benzodiazepines, beta blockers), stress\ninoculation therapy and biofeedback. Gender differences in coping with stress. The role of\nsocial support in coping with stress; types of social support, including instrumental, emotional\nand esteem support.",
+              "children": []
+            },
+            {
+              "code": "4.3.8",
+              "title": "Aggression",
+              "level": 2,
+              "content": "- Neural and hormonal mechanisms in aggression, including the roles of the limbic system,\nserotonin and testosterone. Genetic factors in aggression, including the MAOA gene.\n- The ethological explanation of aggression, including reference to innate releasing\nmechanisms and fixed action patterns. Evolutionary explanations of human aggression.\n- Social psychological explanations of human aggression, including the frustration-aggression\nhypothesis, social learning theory as applied to human aggression, and de-individuation.\n- Institutional aggression in the context of prisons: dispositional and situational explanations.\n- Media influences on aggression, including the effects of computer games. The role of\ndesensitisation, disinhibition and cognitive priming.",
+              "children": []
+            },
+            {
+              "code": "4.3.9",
+              "title": "Forensic Psychology",
+              "level": 2,
+              "content": "- Offender profiling: the top-down approach, including organised and disorganised types of\noffender; the bottom-up approach, including investigative Psychology; geographical profiling.\n- Biological explanations of offending behaviour: an historical approach (atavistic form);\ngenetics and neural explanations.\n- Psychological explanations of offending behaviour: Eysenck’s theory of the criminal\npersonality; cognitive explanations; level of moral reasoning and cognitive distortions,\nincluding hostile attribution bias and minimalisation; differential association theory;\npsychodynamic explanations.\n- Dealing with offending behaviour: the aims of custodial sentencing and the psychological\neffects of custodial sentencing. Recidivism. Behaviour modification in custody. Anger\nmanagement and restorative justice programmes.",
+              "children": []
+            },
+            {
+              "code": "4.3.10",
+              "title": "Addiction",
+              "level": 2,
+              "content": "- Describing addiction: physical and psychological dependence, tolerance and withdrawal\nsyndrome.\n- Risk factors in the development of addiction, including genetic vulnerability, stress,\npersonality, family influences and peers.\n- Explanations for nicotine addiction: brain neurochemistry, including the role of dopamine, and\nlearning theory as applied to smoking behaviour, including reference to cue reactivity.\n- Explanations for gambling addiction: learning theory as applied to gambling, including\nreference to partial and variable reinforcement; cognitive theory as applied to gambling,\nincluding reference to cognitive bias.\n- Reducing addiction: drug therapy; behavioural interventions, including aversion therapy and\ncovert sensitisation; cognitive behaviour therapy.\n- The application of the following theories of behaviour change to addictive behaviour; the\ntheory of planned behaviour and Prochaska’s six-stage model of behaviour change.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

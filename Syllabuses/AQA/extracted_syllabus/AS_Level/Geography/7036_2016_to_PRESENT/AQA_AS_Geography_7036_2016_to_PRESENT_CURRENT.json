@@ -1,0 +1,443 @@
+{
+  "source_pdf": "AS_Level/Geography/7036_2016_to_PRESENT/AQA_AS_Geography_7036_2016_to_PRESENT_CURRENT.pdf",
+  "qualification": "AS_Level",
+  "subject": "Geography",
+  "spec_code": "7036",
+  "pdf_name": "AQA_AS_Geography_7036_2016_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Physical geography",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Water and carbon cycles",
+              "level": 2,
+              "content": "This section of our specification focuses on the major stores of water and carbon at or near the\nEarth’s surface and the dynamic cyclical relationships associated with them. These are major\nelements in the natural environment and understanding them is fundamental to many aspects of\nphysical geography.\nThis section specifies a systems approach to the study of water and carbon cycles. The content\ninvites students to contemplate the magnitude and significance of the cycles at a variety of scales,\ntheir relevance to wider geography and their central importance for human populations. The\nsection offers the opportunity to exercise and develop geographical skills, including observation,\nmeasurement and geospatial mapping skills, together with data manipulation and statistical skills,\nincluding those associated with and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.1.1.1",
+                  "title": "Water and carbon cycles as natural systems",
+                  "level": 3,
+                  "content": "Systems in physical geography: systems concepts and their application to the water and carbon\ncycles inputs – outputs, energy, stores/components, flows/transfers, positive/negative feedback,\ndynamic equilibrium.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.2",
+                  "title": "The water cycle",
+                  "level": 3,
+                  "content": "Global distribution and size of major stores of water – lithosphere, hydrosphere, cryosphere and\natmosphere.\nProcesses driving change in the magnitude of these stores over time and in space, including flows\nand transfers: evaporation, condensation, cloud formation, causes of precipitation and cryospheric\nprocesses, at hill slope, drainage basin and global scales with reference to varying timescales\ninvolved.\nDrainage basins as open systems – inputs and outputs, to include precipitation, evapo-\ntranspiration and runoff; stores and flows, to include: interception, surface, soil water, groundwater\nand channel storage; stemflow, infiltration overland flow and channel flow. Concept of water\nbalance.\nRunoff variation and the flood hydrograph.\nChanges in the water cycle over time to include natural variation including storm events, seasonal\nchanges and human impact including farming practices, land use change and water abstraction.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.3",
+                  "title": "The carbon cycle",
+                  "level": 3,
+                  "content": "Global distribution, and size of major stores of carbon – lithosphere, hydrosphere, cryosphere\nbiosphere, atmosphere.\nFactors driving change in the magnitude of these stores, over time and in space, including flows\nand transfers at plant, sere and continental scales. Photosynthesis, respiration, decomposition,\ncombustion, carbon sequestration in oceans and sediments, weathering.\nChanges in the carbon cycle over time, to include natural variation (including wild fires, volcanic\nactivity) and human impact (including hydrocarbon fuel extraction and burning, farming practices,\ndeforestation, land use changes).\nThe carbon budget and the impact of the carbon cycle upon land, ocean and atmosphere,\nincluding global climate.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.4",
+                  "title": "Water, carbon, climate and life on Earth",
+                  "level": 3,
+                  "content": "The key role of the carbon and water stores and cycles in supporting life on Earth with particular\nreference to climate. The relationship between the water cycle and carbon cycle in the\natmosphere. The role of feedbacks within and between cycles and their link to climate change and\nimplications for life of Earth.\nHuman interventions in the carbon cycle designed to influence carbon transfers and mitigate the\nimpacts of climate change.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.5",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme\nwater and carbon cycles. Students must specifically understand simple mass balance, unit\nconversions and the analysis and presentation of field data.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.6",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study of a tropical rainforest setting to illustrate and analyse key themes in water and carbon\ncycles and their relationship to environmental change and human activity.\nCase study of a river catchment(s) at a local scale to illustrate and analyse the key themes above,\nengage with field data and consider the impact of precipitation upon drainage basin stores and\ntransfers and implications for sustainable water supply and/or flooding.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Coastal systems and landscapes",
+              "level": 2,
+              "content": "This section of our specification focuses on coastal zones, which are dynamic environments in\nwhich landscapes develop by the interaction of winds, waves, currents and terrestrial and marine\nsediments. The operation and outcomes of fundamental geomorphological processes and their\nassociation with distinctive landscapes are readily observable. In common with water and carbon\ncycles, a systems approach to study is specified.\nStudent engagement with subject content fosters an informed appreciation of the beauty and\ndiversity of coasts and their importance as human habitats. The section offers the opportunity to\nexercise and develop observation skills, measurement and geospatial mapping skills, together with\ndata manipulation and statistical skills, including those associated with and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.1.2.1",
+                  "title": "Coasts as natural systems",
+                  "level": 3,
+                  "content": "Systems in physical geography: systems concepts and their application to the development of\ncoastal landscapes – inputs, outputs, energy, stores/components, flows/transfers, positive/negative\nfeedback, dynamic equilibrium. The concepts of landform and landscape and how related\nlandforms combine to form characteristic landscapes.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.2",
+                  "title": "Systems and processes",
+                  "level": 3,
+                  "content": "Sources of energy in coastal environments: winds, waves (constructive and destructive), currents\nand tides. Low energy and high energy coasts.\nSediment sources, cells and budgets.\nGeomorphological processes: weathering, mass movement, erosion, transportation and\ndeposition.\nDistinctively coastal processes: marine: erosion – hydraulic action, wave quarrying, corrasion/\nabrasion, cavitation, solution, attrition; transportation: traction, suspension (longshore/littoral drift)\nand deposition; sub-aerial weathering, mass movement and runoff.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.3",
+                  "title": "Coastal landscape development",
+                  "level": 3,
+                  "content": "This content must include study of a variety of landscapes from beyond the UK but may also\ninclude UK examples.\nOrigin and development of landforms and landscapes of coastal erosion: cliffs and wave cut\nplatforms, cliff profile features including caves, arches and stacks; factors and processes in their\ndevelopment.\nOrigin and development of landforms and landscapes of coastal deposition. Beaches, simple and\ncompound spits, tombolos, offshore bars, barrier beaches and islands and sand dunes; factors and\nprocesses in their development.\nEstuarine mudflat/saltmarsh environments and associated landscapes; factors and processes in\ntheir development.\nEustatic, isostatic and tectonic sea level change: major changes in sea level in the last 10,000\nyears.\nCoastlines of emergence and submergence. Origin and development of associated landforms:\nraised beaches, marine platforms; rias, fjords, Dalmatian coasts.\nRecent and predicted climatic change and potential impact on coasts.\nThe relationship between process, time, landforms and landscapes in coastal settings.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.4",
+                  "title": "Coastal management",
+                  "level": 3,
+                  "content": "Human intervention in coastal landscapes. Traditional approaches to coastal flood and erosion\nrisk: hard and soft engineering. Sustainable approaches to coastal flood risk and coastal erosion\nmanagement: shoreline management/integrated coastal zone management.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.5",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme\nlandscape systems. These should include observation skills, measurement and geospatial\nmapping skills, and data manipulation and statistical skills applied to field measurement.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.6",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study(ies) of coastal environment(s) at a local scale to illustrate and analyse fundamental\ncoastal processes, their landscape outcomes as set out above and engage with field data and\nchallenges represented in their sustainable management.\nCase study of a contrasting coastal landscape beyond the United Kingdom (UK) to illustrate and\nanalyse how it present risks and opportunities for human occupation and development, and\nevaluate human responses of resilience, mitigation and adaptation.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Glacial systems and landscapes",
+              "level": 2,
+              "content": "This section of our specification focuses on glaciated landscapes. These are dynamic\nenvironments in which landscapes continue to develop through contemporary processes but which\nmainly reflect former climatic conditions associated with the Pleistocene era. The operation and\noutcomes of fundamental geomorphological processes and their association with distinctive\nlandscapes are readily observable. In common with water and carbon cycles, a systems approach\nto study is specified.\nStudent engagement with subject content fosters an informed appreciation of the beauty and\ndiversity of glaciated regions and the challenges they present for human habitation. The section\noffers the opportunity to exercise and develop observation skills, measurement and geospatial\nmapping skills, together with data manipulation and statistical skills, including those associated\nwith and arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.1.3.1",
+                  "title": "Glaciers as natural systems",
+                  "level": 3,
+                  "content": "Systems in physical geography: systems concepts and their application to the development of\nglaciated landscapes – inputs, outputs, energy, stores/components, flows/transfers, positive/\nnegative feedback, dynamic equilibrium. The concepts of landform and landscape and how related\nlandforms combine to form characteristic landscapes.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.2",
+                  "title": "The nature and distribution of cold environments",
+                  "level": 3,
+                  "content": "The global distribution of cold environments.\nPhysical characteristics of cold environments. Climate, soils and vegetation (and their interaction).\nThe global distribution of past and present cold environments (polar, alpine, glacial and periglacial)\nand of areas affected by the Pleistocene glaciations.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.3",
+                  "title": "Systems and processes",
+                  "level": 3,
+                  "content": "Glacial systems including glacial budgets.\nAblation and accumulation – historical patterns of ice advance and retreat.\nWarm and cold based glaciers: characteristics and development.\nGeomorphological processes – weathering: frost action, nivation; ice movement: internal\ndeformation, rotational, compressional, extensional and basal sliding; erosion: plucking, abrasion;\ntransportation and deposition.\nFluvioglacial processes: meltwater erosion, transportation and deposition.\nPeriglacial features and processes: permafrost, active layer, mass movement.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.4",
+                  "title": "Glaciated landscape development",
+                  "level": 3,
+                  "content": "This content must include study of a variety of landscapes from beyond the UK and may also\ninclude UK examples.\nOrigin and development of glaciated landscapes.\nErosional and depositional landforms: corries, arêtes, glacial troughs, hanging valleys, truncated\nspurs, roches moutonnées. Characteristic glaciated landscapes.\nOrigin and development of landforms and landscapes of glacial deposition: drumlins, erratics,\nmoraines, till plains. Characteristic glaciated landscapes.\nFluvioglacial landforms of erosion and deposition: meltwater channels, kames, eskers, outwash\nplains. Characteristic fluvioglacial landscapes.\nPeriglacial landforms: patterned ground, ice wedges, pingos, blockfields, solifluction lobes,\nterracettes, thermokarst. Characteristic periglacial landscapes.\nThe relationship between process, time, landforms and landscapes in glaciated settings:\ncharacteristic glaciated and periglacial landscapes.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.5",
+                  "title": "Human impacts on cold environments",
+                  "level": 3,
+                  "content": "Concept of environmental fragility. Human impacts on fragile cold environments over time and at a\nvariety of scales. Recent and prospective impact of climate change. Management of cold\nenvironments at present and in alternative possible futures.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.6",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with a range of quantitative and relevant qualitative skills, within the theme\nlandscape systems. These should include observation skills, measurement and geospatial\nmapping skills and data manipulation and statistical skills applied to field measurement.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.7",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study(ies) of glaciated environment(s) at a local scale to illustrate and analyse fundamental\nglacial processes, their landscape outcomes as set out above and engage with field data.\nCase study of a contrasting glaciated landscape beyond the UK to illustrate and analyse how it\npresents challenges and opportunities for human occupation and development and evaluate\nhuman responses of resilience, mitigation and adaptation.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Human geography",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Changing places",
+              "level": 2,
+              "content": "This section of our specification focuses on people's engagement with places, their experience of\nthem and the qualities they ascribe to them, all of which are of fundamental importance in their\nlives. Students acknowledge this importance and engage with how places are known and\nexperienced, how their character is appreciated, the factors and processes which impact upon\nplaces and how they change and develop over time. Through developing this knowledge, students\nwill gain understanding of the way in which their own lives and those of others are affected by\ncontinuity and change in the nature of places which are of fundamental importance in their lives.\nStudy of the content must be embedded in two contrasting places, one to be local. The local place\nmay be a locality, neighbourhood or small community either urban or rural. A contrasting place is\nlikely to be distant – it could be in the same country or a different country but it must show\nsignificant contrast in terms of economic development and/or population density and/or cultural\nbackground and/or systems of political and economic organisation.\nThe place studies complement the requirement to embed the study of content in two contrasting\nplaces. Study of this section offers particular opportunities to exercise and develop qualitative (and\nquantitative) investigative techniques and practice-related observation, measurement and various\nmapping skills, together with data manipulation and statistical skills including those associated with\nand arising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "The nature and importance of places",
+                  "level": 3,
+                  "content": "The concept of place and the importance of place in human life and experience.\nInsider and outsider perspectives on place.\nCategories of place:\n- near places and far places\n- experienced places and media places.\nFactors contributing to the character of places:\n- Endogenous: location, topography, physical geography, land use, built environment and\ninfrastructure, demographic and economic characteristics.\n- Exogenous: relationships with other places.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Changing places – relationships, connections, meaning and representation",
+                  "level": 3,
+                  "content": "In relation to the local place within which students live or study and then at least one further\ncontrasting place and encompassing local, regional, national, international and global scales:\n- the ways in which the following factors: relationships and connections, meaning and\nrepresentation, affect continuity and change in the nature of places and our understanding of\nplace\nand\n- the ways in which students’ own lives and those of others are affected by continuity and\nchange in the nature of places and our understanding of place.",
+                  "children": [
+                    {
+                      "code": "3.2.1.2.1",
+                      "title": "Relationships and connections",
+                      "level": 4,
+                      "content": "The impact of relationships and connections on people and place with a particular focus on:\neither\nchanging demographic and cultural characteristics\nor\neconomic change and social inequalities.\n- How the demographic, socio-economic and cultural characteristics of places are shaped by\nshifting flows of people, resources, money and investment, and ideas at all scales from local\nto global.\n- The characteristics and impacts of external forces operating at different scales from local to\nglobal, including either government policies or the decisions of multinational corporations or\nthe impacts of international or global institutions.\n- How past and present connections, within and beyond localities, shape places and embed\nthem in the regional, national, international and global scales.",
+                      "children": []
+                    },
+                    {
+                      "code": "3.2.1.2.2",
+                      "title": "Meaning and representation",
+                      "level": 4,
+                      "content": "The importance of the meanings and representations attached to places by people with a particular\nfocus on people's lived experience of place in the past and at present.\n- How humans perceive, engage with and form attachments to places and how they present\nand represent the world to others, including the way in which everyday place meanings are\nbound up with different identities, perspectives and experiences.\n- How external agencies, including government, corporate bodies and community or local\ngroups make attempts to influence or create specific place-meanings and thereby shape the\nactions and behaviours of individuals, groups, businesses and institutions.\n- How places may be represented in a variety of different forms such as advertising copy,\ntourist agency material, local art exhibitions in diverse media (eg film, photography, art, story,\nsong etc) that often give contrasting images to that presented formally or statistically such as\ncartography and census data.\n- How both past and present processes of development can be seen to influence the social\nand economic characteristics of places and so be implicit in present meanings.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.1.3",
+                  "title": "Quantitative and qualitative skills",
+                  "level": 3,
+                  "content": "Students must engage with quantitative and qualitative approaches across the theme as a whole.\nQuantitative data, including the use of geospatial data, must be used to investigate and present\nplace characteristics, particular weight must be given to qualitative approaches involved in\nrepresenting place, and to analysing critically the impacts of different media on place meanings\nand perceptions. The use of different types of data should allow the development of critical\nperspectives on the data categories and approaches.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.4",
+                  "title": "Place studies",
+                  "level": 3,
+                  "content": "Local place study exploring the developing character of a place local to the home or study centre.\nContrasting place study exploring the developing character of a contrasting and distant place.\nPlace studies must apply the knowledge acquired through engagement with prescribed\nspecification content and thereby further enhance understanding of the way students' own lives\nand those of others are affected by continuity and change in the nature of places. Sources must\ninclude qualitative and quantitative data to represent places in the past and present.\nBoth place studies must focus equally on:\n- people's lived experience of place in the past and present\nand either\n- changing demographic and cultural characteristics\nor\n- economic change and social inequalities.\nSuitable data sources could include:\n- statistics, such as census data\n- maps\n- geo-located data\n- geospatial data, including geographic information systems (GIS) applications\n- photographs\n- text, from varied media\n- audio-visual media\n- artistic representations\n- oral sources, such as interviews, reminiscences, songs, etc.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "People and the environment",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Hazards",
+              "level": 2,
+              "content": "This optional section of our specification focuses on the lithosphere and the atmosphere, which\nintermittently but regularly present natural hazards to human populations, often in dramatic and\nsometimes catastrophic fashion. By exploring the origin and nature of these hazards and the\nvarious ways in which people respond to them, students are able to engage with many dimensions\nof the relationships between people and the environments they occupy. Study of this section offers\nthe opportunity to exercise and develop observation skills, measurement and geospatial mapping\nskills, together with data manipulation and statistical skills, including those associated with and\narising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.3.1.1",
+                  "title": "The concept of hazard in a geographical context",
+                  "level": 3,
+                  "content": "Nature, forms and potential impacts of natural hazards (geophysical, atmospheric and\nhydrological). Hazard perception and its economic and cultural determinants. Characteristic human\nresponses – fatalism, prediction, adjustment/adaptation, mitigation, management, risk sharing –\nand their relationship to hazard incidence, intensity, magnitude, distribution and level of\ndevelopment. The Park model of human response to hazards. The Hazard Management Cycle.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.2",
+                  "title": "Plate tectonics",
+                  "level": 3,
+                  "content": "Earth structure and internal energy sources. Plate tectonic theory of crustal evolution: tectonic\nplates; plate movement; gravitational sliding; ridge push, slab pull; convection currents and sea-\nfloor spreading.\nDestructive, constructive and conservative plate margins. Characteristic processes: seismicity and\nvulcanicity. Associated landforms: young fold mountains, rift valleys, ocean ridges, deep sea\ntrenches and island arcs, volcanoes.\nMagma plumes and their relationship to plate movement.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.3",
+                  "title": "Volcanic hazards",
+                  "level": 3,
+                  "content": "The nature of vulcanicity and its relation to plate tectonics: forms of volcanic hazard: nuées\nardentes, lava flows, mudflows, pyroclastic and ash fallout, gases/acid rain, tephra. Spatial\ndistribution, randomness, magnitude, frequency, regularity and predictability of hazard events.\nImpacts: primary/secondary, environmental, social, economic, political. Short and long-term\nresponses: risk management designed to reduce the impacts of the hazard through preparedness,\nmitigation, prevention and adaptation.\nImpacts and human responses as evidenced by a recent volcanic event.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.4",
+                  "title": "Seismic hazards",
+                  "level": 3,
+                  "content": "The nature of seismicity and its relation to plate tectonics: forms of seismic hazard: earthquakes,\nshockwaves, tsunamis, liquefaction, landslides. Spatial distribution, randomness, magnitude,\nfrequency, regularity, predictability of hazard events.\nImpacts: primary/secondary; environmental, social, economic, political. Short and long-term\nresponses; risk management designed to reduce the impacts of the hazard through preparedness,\nmitigation, prevention and adaptation.\nImpacts and human responses as evidenced by a recent seismic event.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.5",
+                  "title": "Storm hazards",
+                  "level": 3,
+                  "content": "The nature of tropical storms and their underlying causes. Forms of storm hazard: high winds,\nstorm surges, coastal flooding, river flooding and landslides. Spatial distribution, magnitude,\nfrequency, regularity, predictability of hazard events.\nImpacts: primary/secondary, environmental, social, economic, political. Short and long-term\nresponses: risk management designed to reduce the impacts of the hazard through preparedness,\nmitigation, prevention and adaptation.\nImpacts and human responses as evidenced by two recent tropical storms in contrasting areas of\nthe world.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.6",
+                  "title": "Fires in nature",
+                  "level": 3,
+                  "content": "Nature of wildfires. Conditions favouring intense wild fires: vegetation type, fuel characteristics,\nclimate and recent weather and fire behaviour. Causes of fires: natural and human agency.\nImpacts: primary/secondary, environmental, social, economic, political. Short and long-term\nresponses; risk management designed to reduce the impacts of the hazard through preparedness,\nmitigation, prevention and adaptation.\nImpact and human responses as evidenced by a recent wild fire event.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.7",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case study of a multi-hazardous environment beyond the UK to illustrate and analyse the nature\nof the hazards and the social, economic and environmental risks presented, and how human\nqualities and responses such as resilience, adaptation, mitigation and management contribute to\nits continuing human occupation.\nCase study at a local scale of a specified place in a hazardous setting to illustrate the physical\nnature of the hazard and analyse how the economic, social and political character of its community\nreflects the presence and impacts of the hazard and the community’s response to the risk.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.2",
+              "title": "Contemporary urban environments",
+              "level": 2,
+              "content": "This optional section of our specification focuses on urban growth and change which are seemingly\nubiquitous processes and present significant environmental and social challenges for human\npopulations. The section examines these processes and challenges and the issues associated with\nthem, in particular the potential for environmental sustainability and social cohesion. Engaging with\nthese themes in a range of urban settings from contrasting areas of the world affords the\nopportunity for students to appreciate human diversity and develop awareness and insight into\nprofound questions of opportunity, equity and sustainability. Study of this section offers the\nopportunity to exercise and develop observation skills, measurement and geospatial mapping\nskills, together with data manipulation and statistical skills, including those associated with and\narising from fieldwork.",
+              "children": [
+                {
+                  "code": "3.3.2.1",
+                  "title": "Urbanisation",
+                  "level": 3,
+                  "content": "Urbanisation and its importance in human affairs. Global patterns of urbanisation since 1945.\nUrbanisation, suburbanisation, counter-urbanisation, urban resurgence. The emergence of\nmegacities and world cities and their role in global and regional economies.\nEconomic, social, technological, political and demographic processes associated with urbanisation\nand urban growth.\nUrban change: deindustrialisation, decentralisation, rise of service economy.\nUrban policy and regeneration in Britain since 1979.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.2",
+                  "title": "Urban forms",
+                  "level": 3,
+                  "content": "Contemporary characteristics of mega/world cities. Urban characteristics in contrasting settings.\nPhysical and human factors in urban forms. Spatial patterns of land use, economic inequality,\nsocial segregation and cultural diversity in contrasting urban areas, and the factors that influence\nthem.\nNew urban landscapes; town centre mixed developments, cultural and heritage quarters, fortress\ndevelopments, gentrified areas, edge cities. The concept of the post-modern western city.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.3",
+                  "title": "Social and economic issues associated with urbanisation",
+                  "level": 3,
+                  "content": "Issues associated with economic inequality, social segregation and cultural diversity in contrasting\nurban areas.\nStrategies to manage these issues.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.4",
+                  "title": "Urban climate",
+                  "level": 3,
+                  "content": "The impact of urban forms and processes on local climate and weather.\nUrban temperatures: the urban heat island effect. Precipitation: frequency and intensity. Fogs and\nthunderstorms in urban environments. Wind: the effects of urban structures and layout on wind\nspeed, direction and frequency. Air quality: particulate and photo-chemical pollution.\nPollution reduction policies.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.5",
+                  "title": "Urban drainage",
+                  "level": 3,
+                  "content": "Urban precipitation, surfaces and catchment characteristics; impacts on drainage basin storage\nareas; urban water cycle: water movement through urban catchments as measured by\nhydrographs.\nIssues associated with catchment management in urban areas. The development of sustainable\nurban drainage systems (SUDS).\nRiver restoration and conservation in damaged urban catchments with reference to a specific\nproject. Reasons for and aims of the project; attitudes and contributions of parties involved; project\nactivities and evaluation of project outcomes.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.6",
+                  "title": "Urban waste and its disposal",
+                  "level": 3,
+                  "content": "Urban physical waste generation: sources of waste: industrial and commercial activity, personal\nconsumption. Relation of waste components and waste streams to economic characteristics,\nlifestyles and attitudes. The environmental impacts of alternative approaches to waste disposal:\nunregulated, recycling, recovery, incineration, burial, submergence and trade.\nComparison of incineration and landfill approaches to waste disposal in relation to a specified\nurban area.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.7",
+                  "title": "Other contemporary urban environmental issues",
+                  "level": 3,
+                  "content": "Environmental problems in contrasting urban areas: atmospheric pollution, water pollution and\ndereliction.\nStrategies to manage these environmental problems.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.8",
+                  "title": "Sustainable urban development",
+                  "level": 3,
+                  "content": "Impact of urban areas on local and global environments. Ecological footprint of major urban areas.\nDimensions of sustainability: natural, physical, social and economic. Nature and features of\nsustainable cities. Concept of liveability.\nContemporary opportunities and challenges in developing more sustainable cities.\nStrategies for developing more sustainable cities.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.9",
+                  "title": "Case studies",
+                  "level": 3,
+                  "content": "Case studies of two contrasting urban areas to illustrate and analyse key themes set out above, to\ninclude:\n- patterns of economic and social well-being\n- the nature and impact of physical environmental conditions.\nwith particular reference to the implications for environmental sustainability, the character of the\nstudy areas and the experience and attitudes of their populations.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Geography fieldwork investigation",
+          "level": 1,
+          "content": "All students are required to undertake fieldwork in relation to processes in both physical and\nhuman geography. Students must undertake a minimum of two days of fieldwork during their AS\ncourse. Fieldwork can be completed in a number of ways: locally or further afield, on full days or on\npart days. Schools and colleges will be required to confirm that all AS geography students have\nbeen given an opportunity to fulfil this requirement.\nSchools and colleges are required to provide a fieldwork statement which confirms each student\nhas undertaken two days of geographical fieldwork in relation to processes in both physical and\nhuman geography. Schools and colleges must provide the fieldwork statement by 15 May in the\nyear of entry. Any failure to provide this statement in a timely manner will be treated as malpractice\nor maladministration (under Ofqual's General Condition A8 (Malpractice and maladministration)).\nStudents will not be asked to hand in a completed enquiry although, for the exam, they do need to\nbe familiar with all the stages of fieldwork-based enquiry. Students must be taught and may be\nasked questions on any of the following.\n- Preparation for fieldwork, including background reading, drawing up aims and objectives for\nthe enquiry, planning research in the field and from secondary sources, using data sampling\ntechniques and carrying out health and safety procedures.\n- Collection of primary data in the field and using secondary data sources.\n- Processing and presenting data using relevant graphical and cartographical techniques.\n- Analysing data, including using statistical techniques where relevant.\n- Drawing conclusions related back to the original aims and objectives and linking these\nconclusions to both the place studied and the general ideas forming the basis of the enquiry.\n- Reviewing the success, or otherwise, of all stages of the enquiry.\n- Considering how the enquiry could be further developed.\nQuestions in the exam could be asked so as to test the students’ general understanding of the\nfieldwork enquiry process or they could ask for specific details of each student’s own individual\nfieldwork enquiry.\nIt is accepted that some schools or colleges will need to carry out data collection in groups.\nHowever, examiners will expect candidates to show that they have been personally involved in all\nthe stages of the enquiry and have had opportunities to use their own initiative, at all stages, to\ndevelop their enquiries.",
+          "children": []
+        },
+        {
+          "code": "3.5",
+          "title": "Geographical skills checklist",
+          "level": 1,
+          "content": "Competence in geographical skills should be developed during study of the course content, in an\nintegrated way and not as a separate theme or topic. While the relative balance of quantitative and\nqualitative methods and skills will differ between each of the core elements and the options,\nstudents must be introduced to an appropriate balance of quantitative and qualitative across the\nspecification as a whole.\nAs applicable to their chosen specification content AS students should:\n- understand the nature and use of different types of geographical information, including\nqualitative and quantitative data, primary and secondary data, images, factual text and\ndiscursive/creative material, digital data, numerical and spatial data and other forms of data,\nincluding crowd-sourced and big data\n- collect, analyse and interpret such information, and demonstrate the ability to understand and\napply suitable analytical approaches for the different information types\n- undertake informed and critical questioning of data sources, analytical methodologies, data\nreporting and presentation, including the ability to identify sources of error in data and to\nidentify the misuse of data\n- communicate and evaluate findings, draw well-evidenced conclusions informed by wider\ntheory, and construct extended written arguments about geographical matters.\nStudents at AS are required to demonstrate, as appropriate, the skills and approaches detailed\nbelow.\nThe level of accuracy, sophistication and detail are all expected to be greater at AS than at GCSE,\nand similarly between AS and A-level.",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "Qualitative skills and quantitative skills",
+              "level": 2,
+              "content": "Students should develop the following with respect to qualitative data:\n- use and understanding of a mixture of methodological approaches, including interviews\n- interpretation and evaluation of a range of source material including textual and visual\nsources\n- understanding of the opportunities and limitations of qualitative techniques such as coding\nand sampling, and appreciation of how they actively create particular geographical\nrepresentations\n- understanding of the ethical and socio-political implications of collecting, studying and\nrepresenting geographical data about human communities.\nStudents should develop the following with respect to quantitative data:\n- understanding of what makes data geographical and the geospatial technologies (eg GIS)\nthat are used to collect, analyse and present geographical data\n- an ability to collect and to use digital and geo-located data, and understanding of a range of\napproaches to use and analyse such data\n- understanding of the purposes and difference between the following and be able to use them\nin appropriate contexts:\n- descriptive statistics of central tendency and dispersion\n- descriptive measures of difference and association, inferential statistics and the\nfoundations of relational statistics\n- measurement, measurement errors, and sampling\n- understanding of the ethical and socio-political implications of collecting, studying and\nrepresenting geographical data about human communities.",
+              "children": []
+            },
+            {
+              "code": "3.5.2",
+              "title": "Specific skills",
+              "level": 2,
+              "content": "The following sections identify specific qualitative and quantitative skills to be developed.",
+              "children": [
+                {
+                  "code": "3.5.2.1",
+                  "title": "Core skills",
+                  "level": 3,
+                  "content": "- Use and annotation of illustrative and visual material: base maps, sketch maps, OS maps (at\na variety of scales), diagrams, graphs, field sketches, photographs, geospatial, geo-located\nand digital imagery.\n- Use of overlays, both physical and electronic.\n- Literacy – use of factual text and discursive/creative material and coding techniques when\nanalysing text.\n- Numeracy – use of number, measure and measurement.\n- Questionnaire and interview techniques.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.2",
+                  "title": "Cartographic skills",
+                  "level": 3,
+                  "content": "- Atlas maps.\n- Weather maps – including synoptic charts (if applicable).\n- Maps with located proportional symbols.\n- Maps showing movement – flow lines, desire lines and trip lines.\n- Maps showing spatial patterns – choropleth, isoline and dot maps.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.3",
+                  "title": "Graphical skills",
+                  "level": 3,
+                  "content": "- Line graphs – simple, comparative, compound and divergent.\n- Bar graphs – simple, comparative, compound and divergent.\n- Scatter graphs, and the use of best fit line.\n- Pie charts and proportional divided circles.\n- Triangular graphs.\n- Graphs with logarithmic scales.\n- Dispersion diagrams.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.4",
+                  "title": "Statistical skills",
+                  "level": 3,
+                  "content": "- Measures of central tendency – mean, mode, median.\n- Measures of dispersion – range, inter-quartile range and standard deviation.\n- Inferential and relational statistical techniques to include Spearman’s rank correlation and\napplication of significance tests.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.5",
+                  "title": "ICT skills",
+                  "level": 3,
+                  "content": "- Use of remotely sensed data (as described above in Core skills).\n- Use of electronic databases.\n- Use of ICT to generate evidence of many of the skills provided above such as producing\nmaps, graphs and statistical calculations.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

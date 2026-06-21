@@ -1,0 +1,91 @@
+{
+  "source_pdf": "GCSE/English_Literature/8702_2017_to_PRESENT/AQA_GCSE_English_Literature_8702_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "English Literature",
+  "spec_code": "8702",
+  "pdf_name": "AQA_GCSE_English_Literature_8702_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Shakespeare and the 19th-century novel",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Shakespeare",
+              "level": 2,
+              "content": "Students will study one play from the list of six set texts. Students should study the whole text.\nChoose one of:\n- Macbeth\n- Romeo and Juliet\n- The Tempest\n- The Merchant of Venice\n- Much Ado About Nothing\n- Julius Caesar.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "The 19th-century novel",
+              "level": 2,
+              "content": "Students will study one novel from the list of seven set texts. Students should study the whole text.\nChoose one of:\nAuthor\nRobert Louis Stevenson\nCharles Dickens\nCharles Dickens\nCharlotte Brontë\nMary Shelley\nJane Austen\nSir Arthur Conan Doyle\nTitle\nThe Strange Case of Dr Jekyll and Mr Hyde\nA Christmas Carol\nGreat Expectations (1867)\nJane Eyre\nFrankenstein (1831)\nPride and Prejudice\nThe Sign of Four",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Modern texts and poetry",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Modern texts",
+              "level": 2,
+              "content": "Students will study one from a choice of 12 set texts, which include post-1914 prose fiction and\ndrama. Students should study the whole text.\nChoose one of:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Drama",
+                  "level": 3,
+                  "content": "Author\nJB Priestley\nWilly Russell\nAlan Bennett\nDennis Kelly\nSimon Stephens\nShelagh Delaney\nChinonyerem Odimba\nWinsome Pinnock\nTitle\nAn Inspector Calls\nBlood Brothers (musical version)\nThe History Boys (Last exam 2024)\nDNA\nThe Curious Incident of the Dog in the Night-\nTime (play script) (Last exam 2024)\nA Taste of Honey\nPrincess & The Hustler (First teaching 2023,\nfirst exam 2025)\nLeave Taking (First teaching 2023, first exam\n2025)",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Prose",
+                  "level": 3,
+                  "content": "Author\nWilliam Golding\nAQA Anthology\nGeorge Orwell\nKazuo Ishiguro\nMeera Syal\nStephen Kelman\nKit de Waal\nTitle\nLord of the Flies\nTelling Tales\nAnimal Farm\nNever Let Me Go (Last exam 2024)\nAnita and Me\nPigeon English\nMy Name is Leon (First teaching 2023, first\nexam 2025)",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "Poetry",
+              "level": 2,
+              "content": "Students will study one cluster of poems taken from the AQA poetry anthology, Poems Past and\nPresent. There is a choice of three clusters, each containing 15 poems. The poems in each cluster\nare thematically linked and were written between 1789 and the present day.\nThe titles of the three clusters are:\n- Love and Relationships\n- Power and Conflict\n- Worlds and Lives (First teaching 2023, first exam 2025)\nStudents should study all 15 poems in their chosen cluster and be prepared to write about any of\nthem in the examination.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Unseen poetry",
+              "level": 2,
+              "content": "In preparing for the unseen poetry section of the examination students should experience a wide\nrange of poetry in order to develop their ability to closely analyse unseen poems. They should be\nable to analyse and compare key features such as their content, theme, structure and use of\nlanguage.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Skills",
+          "level": 1,
+          "content": "In studying the set texts students should have the opportunity to develop the following skills.\nReading comprehension and reading critically\n- literal and inferential comprehension: understanding a word, phrase or sentence in context;\nexploring aspects of plot, characterisation, events and settings; distinguishing between what\nis stated explicitly and what is implied; explaining motivation, sequence of events, and the\nrelationship between actions or events\n- critical reading: identifying the theme and distinguishing between themes; supporting a point\nof view by referring to evidence in the text; recognising the possibility of and evaluating\ndifferent responses to a text; using understanding of writers’ social, historical and cultural\ncontexts to inform evaluation; making an informed personal response that derives from\nanalysis and evaluation of the text\n- evaluation of a writer’s choice of vocabulary, grammatical and structural features: analysing\nand evaluating how language, structure, form and presentation contribute to quality and\nimpact; using linguistic and literary terminology for such evaluation\n- comparing texts:comparing and contrasting texts studied, referring where relevant to theme,\ncharacterisation, context (where known), style and literary quality; comparing two texts\ncritically with respect to the above\nWriting\n- producing clear and coherent text: writing effectively about literature for a range of purposes\nsuch as: to describe, explain, summarise, argue, analyse and evaluate; discussing and\nmaintaining a point of view; selecting and emphasising key points; using relevant quotation\nand using detailed textual references\n- accurate Standard English: accurate spelling, punctuation and grammar.",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

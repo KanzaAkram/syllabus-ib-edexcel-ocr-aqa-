@@ -1,0 +1,941 @@
+{
+  "source_pdf": "GCSE/Spanish/8698_2017_to_PRESENT/AQA_GCSE_Spanish_8698_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Spanish",
+  "spec_code": "8698",
+  "pdf_name": "AQA_GCSE_Spanish_8698_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Themes",
+          "level": 1,
+          "content": "The specification covers three distinct themes. These themes apply to all four question papers.\nStudents are expected to understand and provide information and opinions about these themes\nrelating to their own experiences and those of other people, including people in countries/\ncommunities where Spanish is spoken.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Theme 1: Identity and culture",
+              "level": 2,
+              "content": "Theme 1: Identity and culture covers the following four topics with related sub-topics shown as\nbullet points:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Topic 1: Me, my family and friends",
+                  "level": 3,
+                  "content": "- Relationships with family and friends\n- Marriage/partnership",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 2: Technology in everyday life",
+                  "level": 3,
+                  "content": "- Social media\n- Mobile technology",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 3: Free-time activities",
+                  "level": 3,
+                  "content": "- Music\n- Cinema and TV\n- Food and eating out\n- Sport",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 4: Customs and festivals in Spanish-speaking countries/communities",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Theme 2: Local, national, international and global areas of interest",
+              "level": 2,
+              "content": "Theme 2: Local, national, international and global areas of interest covers the following four topics\nwith related sub-topics shown as bullet points:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Topic 1: Home, town, neighbourhood and region",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 2: Social issues",
+                  "level": 3,
+                  "content": "- Charity/voluntary work\n- Healthy/unhealthy living",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 3: Global issues",
+                  "level": 3,
+                  "content": "- The environment\n- Poverty/homelessness",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 4: Travel and tourism",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Theme 3: Current and future study and employment",
+              "level": 2,
+              "content": "Theme 3: Current and future study and employment covers the following four topics:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Topic 1: My studies",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 2: Life at school/college",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 3: Education post-16",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 4: Jobs, career choices and ambitions",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Scope of study",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Listening: understand and respond to spoken language",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- demonstrate general and specific understanding of different types of spoken language\n- follow and understand clear standard speech using familiar language across a range of\nspecified contexts\n- identify the overall message, key points, details and opinions in a variety of short and longer\nspoken passages, involving some more complex language, recognising the relationship\nbetween past, present and future events\n- deduce meaning from a variety of short and longer spoken texts, involving some complex\nlanguage and more abstract material, including short narratives and authentic material\naddressing a wide range of contemporary and cultural themes\n- recognise and respond to key information, important themes and ideas in more extended\nspoken text, including authentic sources, adapted and abridged, as appropriate, by being\nable to answer questions, extract information, evaluate and draw conclusions.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Speaking: communicate and interact in speech",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- communicate and interact effectively in speech for a variety of purposes across a range of\nspecified contexts\n- take part in a short conversation, asking and answering questions, and exchanging opinions\n- convey information and narrate events coherently and confidently, using and adapting\nlanguage for new purposes\n- speak spontaneously, responding to unexpected questions, points of view or situations,\nsustaining communication by using rephrasing or repair strategies, as appropriate\n- initiate and develop conversations and discussion, producing extended sequences of speech\n- make appropriate and accurate use of a variety of vocabulary and grammatical structures,\nincluding some more complex forms, with reference to past, present and future events\n- make creative and more complex use of the language, as appropriate, to express and justify\ntheir own thoughts and points of view\n- use accurate pronunciation and intonation to be understood by a native speaker.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Reading: understand and respond to written language",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- understand and respond to different types of written language\n- understand general and specific details within texts using high frequency familiar language\nacross a range of contexts\n- identify the overall message, key points, details and opinions in a variety of short and longer\nwritten passages, involving some more complex language, recognising the relationship\nbetween past, present and future events\n- deduce meaning from a variety of short and longer written texts from a range of specified\ncontexts, including authentic sources involving some complex language and unfamiliar\nmaterial, as well as short narratives and authentic material addressing a wide range of\nrelevant contemporary and cultural themes\n- recognise and respond to key information, important themes and ideas in more extended\nwritten text and authentic sources, including some extracts from relevant abridged or adapted\nliterary texts\n- demonstrate understanding by being able to scan for particular information, organise and\npresent relevant details, draw inferences in context and recognise implicit meaning where\nappropriate\n- translate a short passage from Spanish into English.",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "Writing: communicate in writing",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- communicate effectively in writing for a variety of purposes across a range of specified\ncontexts\n- write short texts, using simple sentences and familiar language accurately to convey\nmeaning and exchange information\n- produce clear and coherent text of extended length to present facts and express ideas and\nopinions appropriately for different purposes and in different settings\n- make accurate use of a variety of vocabulary and grammatical structures, including some\nmore complex forms, to describe and narrate with reference to past, present and future\nevents\n- manipulate the language, using and adapting a variety of structures and vocabulary with\nincreasing accuracy and fluency for new purposes, including using appropriate style and\nregister\n- make independent, creative and more complex use of the language, as appropriate, to note\ndown key points, express and justify individual thoughts and points of view, in order to\ninterest, inform or convince\n- translate sentences and short texts from English into Spanish to convey key messages\naccurately and to apply grammatical knowledge of language and structures in context.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Grammar",
+          "level": 1,
+          "content": "The grammar requirements for GCSE are set out in two tiers: Foundation Tier and Higher Tier.\nGCSE students will be expected to have acquired knowledge and understanding of Spanish\ngrammar during their course. In the exam they will be required to apply their knowledge and\nunderstanding, appropriate to the relevant tier of entry, drawing from the following lists. The\nexamples in brackets are indicative, not exclusive. For structures marked (R), only receptive\nknowledge is required.\nStudents will be expected to develop and use their knowledge and understanding of this grammar\nprogressively throughout their course.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Foundation Tier",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.3.1.1",
+                  "title": "Nouns",
+                  "level": 3,
+                  "content": "gender\nsingular and plural forms",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.2",
+                  "title": "Articles",
+                  "level": 3,
+                  "content": "definite and indefinite\nlo plus adjective (R)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.3",
+                  "title": "Adjectives",
+                  "level": 3,
+                  "content": "agreement\nposition\ncomparative and superlative: regular and mayor, menor, mejor, peor\ndemonstrative (este, ese, aquel)\nindefinite (cada, otro, todo, mismo, alguno)\npossessive, short form (mi)\npossessive, long form (mío) (R)\ninterrogative (cuánto, qué)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.4",
+                  "title": "Adverbs",
+                  "level": 3,
+                  "content": "formation\ncomparative and superlative: regular\ninterrogative (cómo, cuándo, dónde)\nadverbs of time and place (aquí, allí, ahora, ya)\ncommon adverbial phrases",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.5",
+                  "title": "Quantifiers/intensifiers",
+                  "level": 3,
+                  "content": "(muy, bastante, demasiado, poco, mucho)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.6",
+                  "title": "Pronouns",
+                  "level": 3,
+                  "content": "subject\nobject (R)\nposition and order of object pronouns (R)\nreflexive\nrelative: que\nrelative: quien, lo que (R)\ndisjunctive (conmigo, para mí)\ndemonstrative (éste, ése, aquél, esto, eso, aquello)\nindefinite (algo, alguien)\ninterrogative (cuál, qué, quién)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.7",
+                  "title": "Verbs",
+                  "level": 3,
+                  "content": "regular and irregular verbs, including reflexive verbs\nall persons of the verb, singular and plural\nmodes of address: tú and usted\nradical-changing verbs\nnegative forms\ninterrogative forms\nreflexive constructions (se puede, se necesita, se habla)\nuses of ser and estar\nTenses:\n- present indicative\n- present continuous\n- preterite\n- imperfect: in weather expressions with estar, hacer\n- imperfect (R)\n- immediate future\n- future (R)\n- perfect: most common verbs only\n- conditional: gustar only in set phrases\n- pluperfect (R)\n- gerund (R)\n- imperative: common forms including negative\n- subjunctive, present (R) in certain exclamatory phrases (¡Viva! ¡Dígame!)\n- subjunctive, imperfect: quisiera\n- impersonal verbs: most common only.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.8",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "common, including personal a\npor and para",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.9",
+                  "title": "Conjunctions",
+                  "level": 3,
+                  "content": "common, including y, pero, o, porque, como, cuando",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.10",
+                  "title": "Number, quantity, dates",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.11",
+                  "title": "Time",
+                  "level": 3,
+                  "content": "Use of desde hace with present tense (R)",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.2",
+              "title": "Higher Tier",
+              "level": 2,
+              "content": "Students entering for Higher Tier assessments will be required to apply all grammar and structures\nlisted for Foundation Tier, in addition to the new grammar and structures listed for Higher Tier.",
+              "children": [
+                {
+                  "code": "3.3.2.1",
+                  "title": "Articles",
+                  "level": 3,
+                  "content": "lo plus adjective",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.2",
+                  "title": "Adjectives",
+                  "level": 3,
+                  "content": "comparative and superlative\npossessive, short and long forms (mi, mío)\nrelative (cuyo)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.3",
+                  "title": "Adverbs",
+                  "level": 3,
+                  "content": "comparative and superlative",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.4",
+                  "title": "Pronouns",
+                  "level": 3,
+                  "content": "object\nposition and order of object pronouns\nrelative: all other uses including quien, lo que, el que, cual\npossessive (el mío, la mía)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.5",
+                  "title": "Verbs",
+                  "level": 3,
+                  "content": "Tenses:\n- future\n- imperfect\n- imperfect continuous\n- perfect\n- pluperfect\n- conditional\n- passive voice (R)\n- gerund\n- present subjunctive: imperative, affirmation and negation, future after conjunctions of time\n(cuando), after verbs of wishing, command, request, emotion, to express purpose (para que)\n- imperfect subjunctive (R).",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.6",
+                  "title": "Time",
+                  "level": 3,
+                  "content": "- use of desde hace with present tense\n- use of desde hace with imperfect tense (R).",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Communication strategies",
+          "level": 1,
+          "content": "Whilst it is useful for students to concentrate on a core of key language for any given topic, it is\nimpossible to predict all the linguistic elements they might meet when reading and listening to\nauthentic Spanish, or which they themselves might need to use. For this reason, the student will\nneed to develop communication strategies as part of the teaching and learning process, which will\ngreatly increase their ability to cope successfully with unknown words.\nThere are two main types of strategy: those that relate to understanding (reading and listening) and\nthose that relate to production (speaking and writing).",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Strategies for understanding",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.4.1.1",
+                  "title": "Ignoring words which are not needed",
+                  "level": 3,
+                  "content": "Many tasks contain words which are not essential for an understanding of the main points of the\ntext. What is important in the text is often presented more than once, in different ways: the student\nmay not understand a point in one form of words and understand it fully in another.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.2",
+                  "title": "Using the visual and verbal context",
+                  "level": 3,
+                  "content": "The skilled reader can find many clues about the purpose and content of a text from a study of the\nlayout, the title, the length, the typeface and any related pictures.\nWhen reading and listening, students can learn to infer the meaning of new words from the verbal\ncontext. For example, someone who did not know the word camioneta might be able, after some\nappropriate practice, to deduce from the following context that it is some sort of vehicle: La\ncamioneta salió de la carretera y chocó con un árbol.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.3",
+                  "title": "Making use of grammatical markers and categories",
+                  "level": 3,
+                  "content": "Students will be helped to master all these strategies if, when reading and listening, they learn to\nuse such clues as the plural forms of nouns and verbs, the way verbs change to form tenses, word\norder and other such features to help them recognise to which category (verb, noun, adjective etc)\nan unknown word belongs. This can be a considerable help in making intelligent guesses about the\nmeaning of the word.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.4",
+                  "title": "Making use of the social and cultural context",
+                  "level": 3,
+                  "content": "Another aid to the drawing of correct inferences is for students to bear in mind that there are\nregularities in the real world which make it possible to anticipate what people may say or write\nabout it. The ability to predict occurrences in the real world makes it possible to anticipate words,\nand their meaning, in a given context. This is one reason why it is important for a Spanish course\nto develop awareness and understanding of countries and communities where Spanish is spoken.\nFor example, the student who knows that the Día de Reyes is the 6 January will be able to deduce\nfrom día 5 de enero, víspera de Reyes that víspera means 'the eve of' or 'the day before'.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.5",
+                  "title": "Using common patterns within Spanish",
+                  "level": 3,
+                  "content": "Knowledge of the following patterns of word formation in Spanish can help to understand a text.\n- ito/-ita and -illo/-illa endings used to form diminutives (eg casa – casita, perro – perrito, mesa\n– mesilla)\n- ón/ona suffix used to form augmentatives (eg cuchara – cucharón, mujer – mujerona)\n- mente suffix used to form adverbs (eg rápido – rápidamente, total – totalmente)\n- re- prefix (eg leer – releer, crear – recrear)\n- ero/-era endings and ería ending (eg reloj – relojero, fruta – frutero – frutería)\n- des- and in- im- prefixes (eg hacer – deshacer, conocido – desconocido, correcto –\nincorrecto, posible – imposible)\n- able ending applied to verbs (eg imaginar – imaginable, admirar – admirable)\n- ión and -ción endings applied to verbs (eg producir – producción, animar – animación)\n- oso/-osa ending applied to nouns (eg montaña – montañoso, ruido – ruidoso, lluvia –\nlluvioso)\n- dor/-dora ending applied to verbs to form nouns and adjectives (eg hablar – hablador,\ntrabajar – trabajador)\n- eza, -dad and -ura endings applied to adjectives (eg limpio – limpieza, pobre – pobreza,\nsucio – suciedad, honesto – honestidad, hermoso – hermosura, loco – locura)\n- Compound words (eg abrelatas, abrebotellas)\n- ante and -iente endings applied to verbs (eg protestar – protestante, corresponder –\ncorrespondiente).",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.6",
+                  "title": "Using cognates and near-cognates",
+                  "level": 3,
+                  "content": "A few 'false friends' (eg largo, sensible, actual) make it necessary to use this strategy with care and\nin collaboration with the strategy of using the visual and verbal context above. However, for each\n'false friend' there are very many 'good friends' of which anglophone learners of Spanish can make\ngood use. These fall into two main categories: cognates and near-cognates.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Cognates",
+                      "level": 4,
+                      "content": "There are very many words which have exactly the same form, and essentially the same meaning,\nin Spanish and in English (eg animal, horrible, central, principal). When such words occur in\ncontext, students can be expected to understand them in English and Spanish.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Near-cognates",
+                      "level": 4,
+                      "content": "Students will also be expected to understand words which meet the above criteria but which differ\nslightly in their written form in Spanish, usually by the addition of one or more accents and/or the\nomission of a letter (eg confusión, explosión, oficial).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.4.1.7",
+                  "title": "Using common patterns between Spanish and English",
+                  "level": 3,
+                  "content": "There are thousands of words in Spanish which, although not having exactly the same form as the\nEnglish word, can easily be understood with the application of a few, simple rules. When words\nwhich can be understood using the rules below occur in context, students will be expected to\nunderstand them.\nPattern\nThe Spanish word adds an -o (and sometimes\nan accent) or changes a final '-e' in English to an\n-o\nThe Spanish word adds an -a (and sometimes\nan accent)\nWords ending in '-ist' in English often end in -ista\nin Spanish\nSpanish changes a final '-e' to an -a\nExamples\naspecto, automático, económico, activo,\ndecisivo\nlista, idiota\npianista, comunista,\nmedicina\nPattern\nThe Spanish word adds an -e\nWords which end in -ía or -ia in Spanish and '-y'\nin English\nWords which end in -or in Spanish and '-our' in\nEnglish\nVerbs which add -ar, -er or -ir in the infinitive in\nSpanish or change a final '-e' in English to one of\nthese endings\nVerbs which end with -ar in the infinitive in\nSpanish and with '-ate' in English\nWords which, in addition to the points above,\nhave minor spelling changes between English\nand Spanish to accord with the Spanish phonetic\nsystem of spelling\nWords in which t in Spanish corresponds to 'th'\nin English\nSpanish adverbs ending in -mente which end\nwith '-ly' in English\nWords which end in -oso/-osa in Spanish and '-\nous' in English\nWords where '-tion' in English is replaced by -\nción in Spanish\nWords ending in -ante or -iente in Spanish\ncorresponding to English '-ant' and '-ent'\nWords where '-nce' in English becomes -ncia in\nSpanish\nAdjectives where '-ical' in English becomes\nico/ica in Spanish\nWords where 'oun' in English is replaced by -un\nin Spanish\nWords where des- in Spanish is replaced by\n'dis-' in English\nWords which end in -dad or -tad in Spanish and\n'-ty' in English\nAdjectives ending in -ense which compare with\nEnglish equivalents ending in '-an' or indicating a\nplace of origin\nWords where an intervocalic -d- in Spanish is\nreplaced by '-t-' in English\nThe English word adds an extra letter or letters\nExamples\naire, arte\nbiología, economía, tragedia\nhonor, vigor, labor\nadmirar, confirmar, reservar, servir\ndecorar, cultivar, activar\nfilosofía, psicología, gráfico, fotografía,\ncuestión\nteatro, catedral, auténtico, autor\ncompletamente, especialmente, generalmente\nfabuloso, religioso, furioso\nacción, inspección, integración\nprotestante, correspondiente, deficiente\nevidencia, vigilancia, inteligencia, ocurrencia\nfísico, óptico, fanático\nanunciar, pronunciar\ndesconectar, desconcertar, desembarcar\ncapacidad, sociedad, solemnidad,\nhospitalidad, libertad\ncanadiense, londinense\nsenador, ecuador, operador, maduro\ncine, clima, militar, avance\nPattern\nThe Spanish word adds an epenthetic e- before\nwords beginning with 's' + consonant\nWords where a single vowel in English is\nreplaced by a diphthong in Spanish\nStrategies such as those outlined above will generally be more easily applied in reading than in\nlistening, as reading offers more opportunities to slow down, look at unknown items at some leisure\nand study the context. However, the general strategies for understanding listed above can be used\nsuccessfully in listening to Spanish.\nIn order to hear accurately, students should have the relationship between the spoken and written\nlanguage brought to their attention. Words which look the same in Spanish and English may\nsound different and conversely, words with similar sounds may be written very differently in the\ntwo languages. For example, the Spanish word circuito looks very similar to its English counterpart\nbut is pronounced quite differently while rosbif sounds very like the English phrase from which it is\nderived but looks very different when written down.\nExamples\nesnob, especial, estéreo\nsentimiento, compartimiento, puerto",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.4.2",
+              "title": "Strategies for production",
+              "level": 2,
+              "content": "Research and experience show that people who communicate effectively in a foreign language\ntend to make good use of systematic efficient verbal and non-verbal strategies to get meaning\nacross, in spite of their imperfect command of the language.\nIndividual students may fail to learn – or forget – language items required by some tests, or they\nmay wish to attempt to go beyond the demands of the specification in completing the task set. In\nthese circumstances, the following strategies can prove useful. They fall into two main categories:\nnon-verbal and verbal.",
+              "children": [
+                {
+                  "code": "3.4.2.1",
+                  "title": "Non-verbal strategies",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Pointing and demonstration",
+                      "level": 4,
+                      "content": "This may be accompanied by some appropriate language (eg \"Así...\"\"¿Qué es?\" \"Me duele aquí\").",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Expression and gesture",
+                      "level": 4,
+                      "content": "This may be accompanied, where appropriate, with sounds (eg \"¡Ay!\" which, with appropriate\nintonation, facial expression and gestures, can convey such attitudes and functions as pain,\nsurprise, anger, fear, pleasure and admiration).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Mime",
+                      "level": 4,
+                      "content": "This can be accompanied by appropriate sounds and language and can sometimes help\ncommunication to be maintained when it might otherwise break down (eg \"¿Le puedo ayudar?\"\nwith a suitable mime if one has forgotten the words for the relevant action). This strategy has\nobvious limitations in a speaking test which is recorded and assessed on the basis of the\nrecording.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Drawing",
+                      "level": 4,
+                      "content": "This can be an efficient strategy with some tasks (especially written) and can convey both attitude\nand information (eg a diagram showing how to get from one point, such as a station, to another, for\ninstance a home).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.4.2.2",
+                  "title": "Verbal strategies",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Using a word which refers to a similar item",
+                      "level": 4,
+                      "content": "Using a word which refers to a similar item to the one the speaker/writer wishes to refer to, but for\nwhich he/she has forgotten the word (eg cuarto for dormitorio, flor for rosa, taza for vaso). This is\nnot always effective and its use would be assessed according to its effectiveness in a particular\ncontext.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Description of physical properties",
+                      "level": 4,
+                      "content": "This can be used to refer to something when the name has been forgotten (eg \"Es de cuero... La\nfruta amarilla... Esa cosa que está en la mesa...\"). The physical properties refer to colour, size,\nmaterial, position and shape. The use of this strategy in an exam would be assessed according to\nits communicative effectiveness.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Requests for help",
+                      "level": 4,
+                      "content": "These may include requests for rewording (eg \"¿Cómo se dice ......... en español?\" \"¿Qué quiere\ndecir eso en inglés?\") and questions; which make no reference to English (eg \"¿Cómo se llama\nesto en español?\" \"¿Cómo se escribe?\") as well as requests which may improve the student's\nchances of understanding (eg \"¿Quiere repetir?\" \"Quiere hablar más despacio?\"). It is clearly\npreferable to use such requests for help than for communication to collapse and their use will be\nassessed according to the context. When requests for help with specific problems occur, the\nteacher should maintain the role of a sympathetic native speaker and help accordingly. The\nteacher should avoid taking over from the student and carrying out the tasks set.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Simplification",
+                      "level": 4,
+                      "content": "This is when a student avoids the use of a form of which he/she is unsure (eg \"Es necesario que\nme vaya\") by using a form he/she finds simpler (eg \"Tengo que irme\"). When such simple forms\nare used correctly and appropriately they will be rewarded accordingly. Correct and appropriate\nuse of more complex forms will also be rewarded.\nA systematic use of simplified forms may reduce error, facilitate communication and increase\nfluency but, if overused, this strategy may result in learners failing to make full use of their\ncapabilities.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Paraphrase",
+                      "level": 4,
+                      "content": "This is where the student uses words and messages in acceptable Spanish, avoiding the use of\nwords which he/she has forgotten (eg \"No está casada\" for \"Es soltera\", \"es el padre de mi madre\"\nfor \"es mi abuelo\"). When used well, this strategy communicates the message effectively to a\nsympathetic native speaker and such use in an exam would be assessed accordingly.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Reference to specific features",
+                      "level": 4,
+                      "content": "Reference to specific features (eg \"El animal con las orejas largas...\" \"El hombre que lleva el\nuniforme marrón...\") is often quite effective and its use would be assessed accordingly in an exam.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Reference to the function of an object",
+                      "level": 4,
+                      "content": "Reference to the function of an object and the actions that can be performed with it (eg \"La cosa\nque se utiliza para abrir una botella...\" \"Sirve para secar las manos\") is a commonly used strategy\nwhich is usually effective in communicative terms.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Word coinage",
+                      "level": 4,
+                      "content": "Another strategy sometimes used by language learners is word coinage, the creation of words\nbased either on English or Spanish words. This strategy usually produces words which do not exist\nin Spanish or which, if they do exist, have a different meaning from the one intended. The use of\nthis strategy is rarely effective in promoting communication and students would be well advised to\nuse it only if all other strategies fail.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Topic avoidance",
+                      "level": 4,
+                      "content": "Another commonly used strategy is topic avoidance, when the student avoids or abandons a topic\nbecause of inability to deal with it. Use of this strategy in the exam will not allow the student to be\ngiven full credit. Use of it in a learning situation will reduce opportunities for the development or\nexpansion of the student's repertoire. It is a strategy which should be discouraged. A basic\ncondition for communication strategies to have a potential learning effect is that they are governed\nby achievement, rather than avoidance behaviour.\nEvidence suggests that the availability of a range of strategies such as those outlined above, and\nflexibility in their use, represent an important advantage in overall communicative effectiveness. It\nalso appears that the most effective strategies demand some linguistic proficiency and that the\nmore proficient speakers are also better at using communication strategies effectively.\nThe development of such strategies cannot be seen as encouragement not to develop linguistic\nknowledge. Strategic competence is not a substitute for vocabulary learning, but a useful\nsupplement. All language users make use of communication strategies, even in their first\nlanguage, and really successful strategies usually pass unnoticed. They are an important part of\nthe teaching and learning process.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Vocabulary",
+          "level": 1,
+          "content": "The minimum core vocabulary lists are primarily intended as a guide for teachers to assist in the\nplanning of schemes of work.\nThe assessment tasks at Foundation Tier will require students to understand and respond to\ncommon or familiar words and/or forms of words that are not on the vocabulary list.\nThe assessment tasks at Higher Tier will require students to understand and respond to common\nor familiar words and/or forms of words that are not on the vocabulary list and which are less\ncommon or familiar than those used in relation to Foundation Tier assessments.\nVocabulary listed under a particular theme should be considered transferable, as appropriate, to\nthe other themes.\nStudents will be expected to be familiar with feminine forms of nouns/adjectives where these are\nnot given.",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "Rubrics and instructions",
+              "level": 2,
+              "content": "The following is a guide to the sort of rubrics and instructions which will be used in Section B of the\nListening and Reading exams. The list is indicative, not exclusive.\nSpanish\nCompleta/Rellena la tabla/el texto/el espacio\nblanco en español.\nCompleta la frase/las frases…\nEnglish\nComplete/Fill in the table/the text/the blank\nspace in Spanish.\nComplete the phrase(s)/sentence(s)...\nSpanish\nContesta a las preguntas en español.\nDa (dos) detalles...\nEmpareja…\nEscribe la(s) letra(s) correcta(s) en cada casilla. Write the correct letter(s) in each box.\nEscribe la letra correcta/el número correcto en\nla casilla.\nEscribe todos los detalles.\nEscoge...\nEscucha la descripción/la opinión/la\nentrevista/las noticias…\nIndica…\nIndica las…frases verdaderas.\nLee el texto / el artículo / la lista de actividades /\nla lista de instrucciones / la información.\nLee lo que dicen…\nMenciona una ventaja/desventaja…\nNo es necesario escribir con frases completas.\nEscribe:\nP si la opinión es positiva\nN si la opinión es negativa\nP+N si la opinión es positiva y negativa\nPuedes escribir la misma letra más de una vez.\n¿Quién…?\nResponde a las dos partes de la pregunta.\nSelecciona/Escoge el párrafo…\nThe following is a guide to the sort of rubrics and instructions which will be used in the Writing\nexam. The list is indicative, not exclusive.\nSpanish\nEscribe aproximadamente 40 palabras en\nespañol.\nEscribe aproximadamente 90 palabras en\nespañol. Responde a todos los aspectos de la\npregunta.\nEscribe aproximadamente 150 palabras en\nespañol. Responde a los dos aspectos de la\npregunta.\nEnglish\nAnswer the questions in Spanish.\nGive (two) details...\nMatch…\nWrite the correct letter/number in the box.\nWrite all the details/Give full details.\nChoose…\nListen to the description/the opinion/the\ninterview/the news…\nIndicate…\nIndicate the …true phrases/sentences.\nRead the text/the article/the list of activities/the\nlist of instructions/the information.\nRead what they say…\nMention one advantage/disadvantage…\nIt is not necessary to write in full sentences.\nWrite :\nP if the opinion is positive\nN if the opinion is negative\nP+N if the opinion is positive and negative\nYou can use the same letter more than once.\nWho…?\nAnswer both parts of the question.\nSelect/Choose the paragraph…\nEnglish\nWrite approximately 40 words in Spanish.\nWrite approximately 90 words in Spanish. Write\nsomething about each bullet point.\nWrite approximately 150 words in Spanish.\nWrite something about both bullet points.\nSpanish\nEscribe cuatro frases en español que\ndescriban la foto.\nEscríbele sobre…\nEscríbele una carta/un email.\nMenciona…\nEnglish\nWrite four sentences in Spanish about the\nphoto.\nWrite to him/her about…\nWrite a letter/email to him/her.\nMention...",
+              "children": []
+            },
+            {
+              "code": "3.5.2",
+              "title": "General vocabulary",
+              "level": 2,
+              "content": "Students will be expected to use and understand the general vocabulary listed below. This\nvocabulary is not restricted to specific settings and can occur in any of the themes listed in the\nspecification.",
+              "children": [
+                {
+                  "code": "3.5.2.1",
+                  "title": "Comparisons",
+                  "level": 3,
+                  "content": "Spanish\nbastante\ncomparar\ndemasiado\nigual que\nmás (que)\nmayor\nmayoría, la\nmejor\nmenor\nmenos (que)\nmismo\nmuy\nparecido a\npeor\npoco (eg poco ruidoso)\ntan … como\ntanto … como\nStudents will also be expected to know comparatives and superlatives of the above adjectives and\nadverbs.\nEnglish\nsufficient, enough, quite\nto compare\ntoo, too much\nsame as\nmore (than)\nmain, major, larger, bigger, greater\nmost, majority\nbetter, best\nsmaller, less, least\nless (than)\nsame\nvery\nlike, similar to\nworse, worst\nnot very\nas … as\nas much … as",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.2",
+                  "title": "Conjunctions",
+                  "level": 3,
+                  "content": "Spanish\na pesar de\nEnglish\nin spite of, despite\nSpanish\nasí que\naun (si)\naunque\ncomo\ncuando\nincluso\nmientras (que)\no/u\npero\npor eso\npor lo tanto\nporque\npues\nsi\nsin embargo\ntal vez\ntambién\nya (que)\nEnglish\nso, therefore\neven (if)\nalthough, (even) though\nas, since\nwhen\neven\nwhile, meanwhile\nor\nbut\nfor that reason, therefore\ntherefore\nbecause\nthen, since\nif\nhowever\nmaybe, perhaps\nalso\nas, since",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.3",
+                  "title": "Connectives",
+                  "level": 3,
+                  "content": "Spanish\nademás\naparte de\nclaro que\ndado que\nes decir\npor un lado/por otro lado\npor una parte/por otra parte\nsin duda\nEnglish\nmoreover, besides\napart from\nof course\ngiven that\nin other words, that is to say\non the one hand/on the other hand\non the one hand/on the other hand\nobviously, certainly",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.4",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "Spanish\na\nde\nEnglish\nto, at\nfrom, of\nSpanish\nen\nhacia\nhasta\npara\npor\nsegún\nsin\nEnglish\nin\ntowards\nuntil\nfor\nthrough, by, in, for, per\naccording to\nwithout",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.5",
+                  "title": "Negatives",
+                  "level": 3,
+                  "content": "Spanish\njamás\nni…ni\nnada\nnadie\nninguno\nnunca\nsino\ntampoco\nya no\nEnglish\nnever\nneither … nor\nnothing\nnobody\nnone, no-one\nnever\nbut, except\nneither/not ... either ...\nnot any more",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.6",
+                  "title": "Important verbs",
+                  "level": 3,
+                  "content": "Spanish\nacabar de + infinitive\ncomenzar\ncontinuar\ndar\ndarse cuenta (de)\ndeber\ndecidir\ndejar de\nechar\nempezar\nestar\nhace(n) falta\nEnglish\nto have just (done something)\nto begin\nto continue\nto give\nto realise\nmust, have to\nto decide\nto stop (doing something)\nto throw\nto begin\nto be\nto need, to be necessary\nSpanish\nhacer\nhacerse\nhay\nhay que\nir\nir a + infinitive\nirse\nnecesitar\nocurrir\npasar\npoder\nponer\nponerse a\nquerer\nquisiera\nsaber\nseguir\nser\nsoler\ntener\ntener lugar\ntener que\nvolver a\nvolverse\nEnglish\nto do, to make\nto become\nthere is, there are\none must, one has to\nto go\n(to be) going to (do something)\nto go away, to leave\nto need\nto happen\nto happen, to go through, to spend (time)\nto be able, can\nto put\nto start doing something\nto want; to love\nI’d like\nto know (a fact, how to do something)\nto continue, to follow\nto be\nto regularly do something\nto have, to own\nto take place\nto have to do something\nto do (something) again\nto become",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.7",
+                  "title": "The alphabet",
+                  "level": 3,
+                  "content": "Students should be familiar with the Spanish alphabet and should be able to spell words and\nnames.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.8",
+                  "title": "Numbers",
+                  "level": 3,
+                  "content": "All cardinal numbers 0–1,000 and the word for 1,000,000 (un millón)\nOrdinal numbers first-tenth (primero-décimo)",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Other number expressions",
+                      "level": 4,
+                      "content": "Spanish\ndocena, una\nEnglish\ndozen\nSpanish\nnúmero, el\npar, un\nunos (diez)\nEnglish\nnumber\npair, couple\nabout (10)",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.2.9",
+                  "title": "Asking questions",
+                  "level": 3,
+                  "content": "Spanish\n¿(a)dónde?\n¿cómo?\n¿cuál(es)?\n¿cuándo?\n¿cuánto?\n¿cuántos …?\n¿de dónde?\n¿de quién?\n¿por dónde?\n¿por qué?\n¿qué?\n¿quién?\nEnglish\nwhere?\nhow?\nwhich?\nwhen?\nhow much?\nhow many?\nwhere from?\nwhose?\nthrough where?\nwhy?\nwhat?\nwho?",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Common questions",
+                      "level": 4,
+                      "content": "Spanish\n¿a qué hora?\n¿cuánto cuesta(n)?\n¿cuánto es?\n¿cuánto vale(n)?\n¿cuántos años tiene(s)?\n¿de qué color?\n¿para/por cuánto tiempo?\n¿qué día?\n¿qué fecha?\n¿qué hora es?\nEnglish\nat what time?\nhow much does it/do they cost?\nhow much is it?\nhow much does it/do they cost?\nhow old are you?\nwhat colour?\nfor how long?\nwhat day?\nwhat date?\nwhat time is it?",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.2.10",
+                  "title": "Greetings and exclamations",
+                  "level": 3,
+                  "content": "Spanish\n¡Basta ya!\nEnglish\nThat’s enough!\nSpanish\n¡Bienvenido!\n¡Buen viaje!\n¡Buena suerte!\n¡Claro!\n¡Cuidado!\n¡Enhorabuena!\n¡Felices vacaciones!\n¡Felicidades!\n¡Felicitaciones!\n¡Ojo!\n¡Qué (+ adjective)!\n¡Qué (+ noun)!\n¡Que lo pase(s) bien!\n¡Qué va!\n¡Socorro!\n¿Cómo está(s)?\n¿De veras?\n¿Qué hay?\n¿Qué pasa?\n¿Qué tal?\ncon permiso\nde nada\nencantado\nhasta el (lunes)\nhasta luego\nhasta mañana\nhasta pronto\nlo siento\nmucho gusto\nperdón\nperdone\npor favor\nsaludar\nsaludos\nEnglish\nWelcome!\nHave a good trip!\nGood luck!\nOf course!\nCareful! Watch out!\nCongratulations!\nHave a good holiday!\nBest wishes! Congratulations!\nCongratulations!\nWatch out! Careful!\nHow …!\nWhat a …!\nHave a good time!\nCome on! Rubbish! Nonsense!\nHelp!\nHow are you?\nReally?\nWhat’s happening? What’s the matter?\nWhat’s happening? What’s the matter?\nHow are you? How’s …?\nexcuse me\nyou’re welcome/don’t mention it\npleased to meet you\ntill/see you (Monday)\nsee you later\nsee you tomorrow\nsee you soon\nI'm sorry\npleased to meet you\nsorry\nsorry\nplease\nto greet, to say hello\nregards, greetings\nSpanish\nvale\nEnglish\nok",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.11",
+                  "title": "Opinions",
+                  "level": 3,
+                  "content": "Spanish\naburrido\nafortunado\nagradable\nantiguo\napropiado\nbarato\nbonito\nbueno\ncalidad, la\ncaro\ndecepcionado\ndecepcionante\ndesagradable\ndesventaja, la\ndistinto\ndivertido\nduro\nemocionante\nencantador\nentretenido\nespléndido\nestupendo\nfácil\nfatal\nfenomenal\nfeo\ngenial\nguay\nhermoso\nhorroroso\nEnglish\nboring, bored\nlucky\npleasant\nold\ncorrect, appropriate\ncheap\npretty\ngood\nquality\nexpensive\ndisappointed\ndisappointing\nunpleasant\ndisadvantage\ndifferent\namusing, entertaining\nhard\nexciting, thrilling, moving\ncharming\nentertaining, amusing\nfantastic, great, terrific\nfantastic, marvellous\neasy\nawful, fatal\ngreat, fantastic\nugly\nbrilliant, great\ncool\nbeautiful\nhorrible\nSpanish\nimpresionante\nincreíble\ninseguro\ninútil\nmalo\nmaravilloso\nnuevo\nprecioso\nprofundo\nraro\nseguro\nsencillo\nsorprendido\ntonto\ntranquilo\núnico\nútil\nventaja, la\nviejo\naburrirse\nadorar\nalegrar\nalegrarse (de)\napreciar\naprovechar\naprovecharse (de)\ncreer\ndar igual\ndecepcionar\ndecir\ndesear\ndisfrutar\ndivertirse\ndudar\nEnglish\nimpressive, striking\nincredible\nunsafe, uncertain\nuseless\nbad\nmarvellous\nnew\nprecious, beautiful\ndeep, profound\nstrange, rare\nsafe, certain\nsimple, plain, straightforward\nsurprised\nsilly\npeaceful, quiet\nunique, only, single\nuseful\nadvantage\nold\nto get bored\nto adore, to love\nto cheer up\nto be happy about\nto appreciate\nto make the most\nto take advantage (of)\nto believe\nto be all the same, to make no difference\nto disappoint\nto say\nto wish\nto enjoy\nto have a good time\nto doubt\nSpanish\nencantar\nesperar\nestar de acuerdo\nestar a favor\nestar en contra\nestar harto de\nfastidiar\ninteresar(se)\nodiar\nopinar\nparecer\npasarlo bien/mal\npensar\nponerse de acuerdo\npreferir\nquedar en\nquerer decir\nrazón, una\nreconocer\nsentir(se)\ntener razón\nvaler la pena\nEnglish\nto delight\nto hope\nto agree\nto be in favour of\nto be against\nto be fed up of\nto annoy, to bother\nto interest, to be interested in\nto hate\nto think, to give an opinion\nto seem\nto have a good/bad time\nto think\nto agree\nto prefer\nto agree\nto mean\nreason\nto recognise\nto feel\nto be right\nto be worth the trouble",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.12",
+                  "title": "Expressions of time",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "The seasons",
+                      "level": 4,
+                      "content": "Spanish\nestación, la\ninvierno, el\notoño, el\nprimavera, la\nverano, el\nEnglish\nseason\nwinter\nautumn\nspring\nsummer",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Other time expressions",
+                      "level": 4,
+                      "content": "Spanish\na diario\na eso de ...\na fines de …\na mediados de …\na menudo\na partir de\na veces\nahora\nal mismo tiempo\nalgunas veces\nanoche\naño, el\nantes (de)\nayer\nbreve\ncada (...) días/horas\ncasi\nde momento\nde nuevo\nde repente\nde vez en cuando\ndentro de (..) días/horas\ndesde\ndesde hace\ndespacio\ndespués (de)\ndía, el\ndurante\ndurar\nen seguida/enseguida\nentonces\nesta noche\nfecha, la\nEnglish\ndaily, everyday\nat about ...\nat/to the end of …\naround the middle of …\noften\nfrom\nsometimes\nnow, nowadays\nat the same time\nsometimes\nlast night\nyear\nbefore\nyesterday\nbrief, short\nevery (…) days/hours\nnearly\nat the moment, right now\nagain\nsuddenly\nnow and then, from time to time\nwithin (..) days/hours\nsince\nsince\nslowly\nafter, afterwards\nday\nduring\nto last\nstraightaway\nthen\ntonight\ndate\nSpanish\nfin de semana, el\nhace (+ time)\nhoy\nlento\nlos lunes etc\nluego\nmañana\nmañana, la\nmes, el\nmientras tanto\nmucho tiempo\nnoche, la\notra vez\npasado, el\npasado (adj)\npasado mañana\npocas veces\npor año etc\npor fin\npor lo general\nporvenir, el\nprincipio, al\npronto\npróximo\nque viene (el mes etc)\nquince días\nrato, el\nsemana, la\nsiempre\nsiglo, el\nsiguiente\nsobre\nsolo (sólo)\ntardar\nEnglish\nweekend\nit’s been …\ntoday\nslow\nMondays etc\nthen, afterwards\ntomorrow\nmorning\nmonth\nmeanwhile\na long time\nnight\nagain\npast\npast\nday after tomorrow\nseldom, a few times\nper year etc\nat last\ngenerally\nfuture\nbeginning (at the)\nsoon\nnext\nnext (month etc)\nfortnight\nwhile, short time\nweek\nalways\ncentury\nnext, following\non, around\nonly\nto take time\nSpanish\ntarde\ntarde, la\ntemporada, la\ntemprano\ntener prisa\ntiempo, el\ntodas (las semanas)\ntodavía\ntodos (los días/meses)\núltimo\nvez, una\nveces, dos/tres etc\nEnglish\nlate\nafternoon, evening\nperiod, spell, season\nearly\nto be in a hurry\ntime\nevery (week)\nstill, yet\nevery (day/month)\nlast\nonce\ntwice, three times",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.2.13",
+                  "title": "Location and distance",
+                  "level": 3,
+                  "content": "Spanish\na un paso (de)\nabajo (de)\nafuera (de)\nahí\naislado\nal final (de)\nallá\nallí\nalrededor (de)\naquí\narriba (de)\natrás\ncerca (de)\ncercano\ncontra\ndebajo (de)\ndelante (de)\ndentro (de)\nderecha, a la _\nEnglish\na few steps away\nunder, below\noutside\nthere\nisolated\nat the end of\nover there\nover there\naround\nhere\nabove, on top (of)\nbehind\nnear\nnearby\nagainst\nunder\nin front of\ninside\non the right, to the right\nSpanish\nderecho, (todo _ )\ndetrás (de)\nen/por todas partes\nen las afueras\nencima (de)\nenfrente (de)\nentre\neste, el\nfondo, en el/al\nfuera (de)\nizquierda, a la _\nlado, al _ (de)\nlejano\nlejos (de)\nlugar, el\nmedio (de), en (el) _\nnorte, el\noeste, el\nsitio, el\nsur, el\ntodo recto\nestar situado\nencontrarse\nEnglish\nstraight ahead\nbehind\neverywhere\nin the outskirts\nabove, on top, overhead\nopposite\nbetween\neast\nat the back, at the bottom\noutside\non the left, to the left\nnext to\nfar away, distant, remote\nfar (from)\nplace\nin the middle of\nnorth\nwest\nplace\nsouth\nstraight ahead\nto be situated\nto be situated",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.14",
+                  "title": "Colours",
+                  "level": 3,
+                  "content": "Spanish\nclaro\ncolor, el\nmorado\noscuro\npálido\nrosa/rosado\nvivo\nEnglish\nlight\ncolour\npurple, violet\ndark\npale\npink\nvivid, bright",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.15",
+                  "title": "Weights and measures",
+                  "level": 3,
+                  "content": "Spanish\nalcanzar\nalto\naltura, la\nancho\nancho, el\nbajo\nbolsa, la\nbote, el\ncaja, la\ncantidad, la\ncartón, el\ncuarto, un\ndelgado\nestrecho\ngordo\ngrueso\nlata, la\nlleno\nmediano\nmedida, la\nmedio\nmitad, la\npedazo, el\npeso, el\npoco, un\nración, la\ntalla, la\ntamaño, el\ntrozo, el\nvacío\nbastar\nmedir\npesar\nEnglish\nto reach\ntall, high\nheight\nwide\nwidth\nlow, short\nbag\njar\nbox\nquantity\ncarton\nquarter\nslim, thin\nnarrow\nfat\nthick\ntin\nfull\nmedium\nmeasure\nhalf\nhalf\npiece\nweight\nlittle\nportion\nsize (clothes)\nsize\npiece\nempty\nto be enough\nto measure\nto weigh",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.16",
+                  "title": "Shape",
+                  "level": 3,
+                  "content": "Spanish\ncuadrado\nforma, la\nredondo\nEnglish\nsquare\nshape\nround",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.17",
+                  "title": "Weather",
+                  "level": 3,
+                  "content": "Spanish\nbuen/mal tiempo\ncaliente\ncaluroso\nchubasco, el\ncielo, el\nclima, el\ndespejado\nestable\nfresco\ngrado, el\nhielo, el\nhúmedo\nlluvia, la\nniebla, la\nnieve, la\nnube, la\nnublado/nuboso\npronóstico, el\nrelámpago, el\nseco\nsombra, la\ntemplado\ntiempo, el\ntormenta, la\ntormentoso\ntrueno, el\nviento, el\nEnglish\ngood/bad weather\nhot\nhot, warm\nshower\nsky\nclimate\nclear (skies)\nstable, steady, unchanged\nfresh\ndegree\nice\nhumid\nrain\nfog\nsnow\ncloud\ncloudy\nforecast\nlightning\ndry\nshade, shadow\nmild, temperate\nweather\nstorm\nstormy\nthunder\nwind\nSpanish\nhacer (frío, calor etc)\nhelar\nllover\nmojar(se)\nnevar\ntener (calor, frío)\nEnglish\nto be (cold, hot etc)\nto freeze\nto rain\nto get wet\nto snow\nto feel (hot, cold..)",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.18",
+                  "title": "Access",
+                  "level": 3,
+                  "content": "Spanish\nabierto\nabrir\ncerrado\ncerrar\ngratis\ngratuito\nlibre\nocupado\npermitir\nprohibido\nprohibir\nEnglish\nopen\nto open\nclosed\nto close\nfree (of charge)\nfree (of charge)\nfree; unoccupied\nengaged; occupied\nto allow\nforbidden\nto forbid, to ban",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.19",
+                  "title": "Correctness",
+                  "level": 3,
+                  "content": "Spanish\ncierto\nequivocado\nfalta, la\nmal\nmentira, la\nmentiroso\nrazón, la\nverdad, la\nverdadero\ncorregir\nestar equivocado\nEnglish\ncertain, sure, true\nwrong\nerror\nbadly\nlie, untruth\nliar\nreason\ntruth\ntrue\nto correct\nto make a mistake, to be wrong\nSpanish\nmentir\ntener razón\nEnglish\nto tell a lie\nto be right",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.20",
+                  "title": "Materials",
+                  "level": 3,
+                  "content": "Spanish\nalgodón, el\ncerámica, la\ncristal, el\ncuero, el\nlana, la\nmadera, la\noro, el\npapel, el\npiel, la\nplata, la\nseda, la\ntela, la\nvidrio, el\nEnglish\ncotton\npottery\nglass, crystal\nleather\nwool\nwood\ngold\npaper\nleather, skin\nsilver\nsilk\nfabric, material\nglass",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.21",
+                  "title": "Common abbreviations",
+                  "level": 3,
+                  "content": "Spanish\nSr (señor)\nSra (señora)\nSrta (señorita)\nSta (santa)\nc/ (calle)\n1°/primero (2°, 3° etc)\n1ª/primera (2ª, 3ª etc)\nDr (doctor)\nDra (doctora)\nAVE, el\nRenfe/RENFE\nIVA\nAvda (avenida)\nEnglish\nMr\nMrs\nMiss\nSt\nstreet\n1st (2nd, 3rd etc)\n1st (2nd, 3rd etc)\nDr\nDr\nhigh-speed train\nSpanish railways\nVAT\navenue\nSpanish\nEEUU (Estados Unidos)\nEnglish\nUSA",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.5.3",
+              "title": "Theme-based vocabulary (Foundation Tier)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.3.1",
+                  "title": "Identity and culture",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Me, my family and friends",
+                      "level": 4,
+                      "content": "Spanish\nabuelo, el\nadolescente\nadolescente, el\nalegre\namable\namistoso\namor, el\nanciano\nanciano, el\nanimado\nantipático\napellido, el\naspecto, el\nbarba, la\nbebé, el\nbesar\nbeso, el\nbigote, el\ncalvo\ncara, la\ncariño, el\ncariñoso\ncasado\ncasamiento, el\ncasarse\ncastaño\ncompañero, el\nEnglish\ngrandfather\nadolescent\nteenager\nhappy\nkind\nfriendly\nlove\n(very) old\nold person\nlively\nunpleasant\nlast name\nappearance, looks\nbeard\nbaby\nto kiss\nkiss\nmoustache\nbald\nface\naffection\naffectionate, tender\nmarried\nwedding\nto get married\nchestnut, brown\nfriend, mate\nSpanish\ncomprender\ncomprensión, la\ncomprensivo\nconocer\nconsejo, el\ncorto\ncuidar\ncumplir años\ndar las gracias\ndar un paseo/una vuelta\ndébil\ndeportivo\ndiscutir\ndisputa, la\nechar de menos\nedad, la\negoísta\nenamorado\nenamorarse\nencontrar(se)\nfastidiar\nfelicidad, la\nfeliz\nfiesta, la\nformal\nfuerte\ngafas, las\ngente, la\ngracioso\nguapo\nhablador\nhermanastro, el\nhijo (único), el\nhijos, los\nEnglish\nto understand\nunderstanding\nunderstanding\nto know, be familiar with, get to know\nadvice\nshort\nto look after\nto have a birthday\nto thank\nto go for a stroll/ride\nweak\nsporty\nto discuss\nargument\nto miss someone\nage\nselfish\nin love\nto fall in love\nto meet with someone\nto annoy, to bother\nhappiness\nhappy\nparty\npolite\nstrong\nglasses\npeople\nfunny\ngood-looking\ntalkative\nstepbrother\n(single) child\nchildren\nSpanish\nhombre, el\nhonrado\ninvitado, el\njoven\njoven, el\njubilado\njubilado, el\njubilarse\njuntos\njuventud, la\nlargo\nliso\nllamarse\nllevarse bien/mal con\nloco\nmadrastra, la\nmaduro\nmaleducado\nmarido, el\nmatrimonio, el\nmiembro, el\nmolestar\nmoreno\nmujer, la\nnacer\nnacido\nnacimiento, el\nnieto, el\nniño, el\nnombre, el\nnovio, el\nocio, el\nojo, el\noreja, la\nEnglish\nman\nhonest\nguest\nyoung\nyoung person\nretired\nOAP, pensioner\nto retire\ntogether\nyouth, young people\nlong\nstraight (hair)\nto be called\nto get on (well/badly) with someone\nmad\nstepmother\nmature\nrude\nhusband\nmarriage, married couple\nmember\nto bother\ndark (-haired, -skinned)\nwife; woman\nto be born\nborn\nbirth\ngrandchild\nchild\nname\nboyfriend\nfree time, leisure\neye\near\nSpanish\npadrastro, el\nparientes, los\npasear\npaseo, el\npecas, las\npelea, la\npelear(se)\npelirrojo\npelo, el\nperdonar\nperezoso\nprimo, el\nrecuerdo, el\nreírse\nreunión, la\nrico\nrizado\nromper\nroto\nrubio\nsala de fiestas, la\nsalida, la\nsalir\nsentido del humor, el\nsentimiento, el\nserio\nsimpático\nsolo\nsoltero\nsonreírse\ntener ganas\ntener…años\ntiempo libre, el\ntío, el\nEnglish\nstepfather\nrelatives\nto go for a walk\nouting, stroll, walk\nfreckles\nfight\nto fight\nred-haired\nhair\nto forgive\nlazy, idle\ncousin\nmemory\nto laugh\nget-together\nwealthy\ncurly\nto break\nbroken\nblonde\ndance hall, nightclub\nouting\nto go out\nsense of humour\nfeeling\nserious, responsible\nkind, nice, pleasant\nalone\nsingle (not married)\nto smile\nto feel like\nto be…years old\nfree time\nuncle\nSpanish\ntravieso\ntriste\nvaliente\nvecino, el\nEnglish\nnaughty, mischievous\nsad\nbrave, bold\nneighbour",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Technology in everyday life",
+                      "level": 4,
+                      "content": "Spanish\nacceder\narchivo, el\narroba\nborrar\nbuzón, el\ncargar\ncolgar\ncorreo basura, el\ncorreo electrónico, el\ncrear\ndescargar\ndisco duro, el\nenviar\nfuncionar\ngrabar\nguardar\nhablar\nmandar\nmensaje (de texto), el\nmuro, el\nnavegar\nordenador, el\npantalla, la\nperiódico (digital), el\nportátil, el (ordenador)\npublicar\npunto\nEnglish\nto access\nfile\n@\nto erase, delete\nmail box\nload\nto put (photos on social media, etc.)\nspam\nemail\nto create\nto download\nhard drive\nto send\nto work, to function\nto record, to burn (a disk)\nto save\nto speak, talk\nto send\ntext (message)\nwall\nto surf\ncomputer\nscreen\n(digital) newspaper\nlaptop\nto publish\ndot, full stop\nSpanish\npuntocom\nratón, el\nrecibir\nred, la\nred social, la\nrevista (digital), la\nriesgo, el\nsala de chat, la\nteclado, el\nvideojuego, el\nEnglish\n.com\nmouse\nto receive\nnetwork, internet\nsocial network\n(digital) magazine, (e-magazine)\nrisk\nchat room\nkeyboard\nvideo game",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Free-time activities",
+                      "level": 4,
+                      "content": "Spanish\nartista, el\na la plancha\naceite, el\nactriz, la\naficionado, el\nagua mineral (con/sin gas) (f), el\najo, el\nal aire libre\nalimento, el\nalmorzar\nalmuerzo, el\nalpinismo, el\nandar\nanuncio (publicitario), el\napto\narroz, el\natún, el\nazúcar, el (la)\nbailar\nbaile, el\nbaloncesto, el\nEnglish\nartist\ngrilled\noil\nactress\nfond of/keen on/enthusiast\n(fizzy/still) mineral water\ngarlic\noutdoors\nfoodstuff\nto have lunch\nlunch\nmountain climbing\nto walk\nadvert\nsuitable\nrice\ntuna\nsugar\nto dance\ndancing\nbasketball\nSpanish\nbarra (de pan), la\nbatería, la\nbeber\nbebida, la\nbicicleta/bici, la\nbillar, el\nbistec, el\nbocadillo, el\ncalamares, los\ncampeón, el\ncampeonato, el\ncanción, la\ncantante, el\ncantar\ncaramelo, el\ncarne, la\ncarta, la\ncebolla, la\ncena, la\ncenar\ncerveza, la\nciencia ficción, la\ncocina, la\ncocinar\ncol, la\ncomer\ncomida (basura/rápida), la\ncomida, la\nconcurso, el\ncopa, la\ncopa, la\ncorrer\ncuchara, la\ncuchillo, el\nEnglish\n(bread) loaf\ndrums\nto drink\ndrink\nbicycle, bike\nbilliards\nsteak\nsandwich\nsquid\nwinner, champion\nchampionship\nsong\nsinger\nto sing\nboiled sweet\nmeat\nmenu\nonion\ndinner\nto have the evening meal\nbeer\nscience fiction\ncuisine, cooking\nto cook\ncabbage\nto eat\njunk/fast food\nmeal, lunch\ncontest, competition\nwine glass\ncup, trophy\nto run\nspoon\nknife\nSpanish\ncuenta, la\nchampiñones, los\nchorizo, el\nchuleta, la\nchurros, los\nde cerdo\nde cordero\nde ternera\nde vaca\ndeporte, el\ndeportista\ndeportista, el/la\ndesayunar\ndesayuno, el\ndibujos animados, los\ndiversión, la\ndivertir(se)\ndocumental, el\ndulce\nelegir\nen directo\nentrada, la\nequipo, el\nequitación, la\nescoger\nespectáculo, el\nestadio, el\nestrella, la\nfilete, el\nflan, el\nfresa, la\nfrito\ngalleta, la\ngambas, las\nEnglish\nbill\nmushrooms\nsausage\nchop\nfritters\npork\nlamb\nveal\nbeef\nsport\nsporty\nsports person\nto have breakfast\nbreakfast\ncartoons\npastime, hobby, entertainment\nto have a good time\ndocumentary\nsweet\nto choose\nlive\nticket\nteam; equipment\nhorse riding\nto choose\nshow\nstadium\nstar\nsteak\ncrème caramel\nstrawberry\nfried\nbiscuit\nprawns\nSpanish\nganar\ngazpacho, el\ngol, el\ngrasa, la\nguisantes, los\nheladería, la\nhelado, el\nhielo, el\nhistoria, la\nhuevo, el\nincluido\njamón (de york), el\njamón serrano, el\njudías verdes, las\njuego, el\nJuegos Olímpicos, los\njugador, el\njugar\nleche, la\nlechuga, la\nlegumbres, las\nletra, la\nmantequilla, la\nmanzana, la\nmarcar (un gol)\nmariscos, los\nmerienda, la\nmermelada, la\nmonopatín, el\nmontar (a caballo, en bici)\nnada más\nnadar\nnaranja, la\nnata, la\nEnglish\nto win\ncold soup\ngoal\nfat\npeas\nice cream parlour\nice cream\nice\nstory\negg\nincluded\nboiled ham\ncured ham\nstring beans\ngame, fun, amusement\nOlympic Games\nplayer\nto play\nmilk\nlettuce\nvegetables, pulses\nwords (of song)\nbutter\napple\nto score (a goal)\nseafood\nsnack/picnic\njam\nskateboard\nto ride (horse/bike)\nnothing else\nto swim\norange\ncream\nSpanish\nnatación, la\nnoticias, las\npapel, el\npartido, el\npastel, el\npatata, la\npatinaje, el\npatinar\npedir\npelícula, la\npelota, la\npera, la\nperder\nperrito caliente, el\npesca, la\npescado, el\npescar\npicante\npimienta, la\npimiento, el\npiña, la\npista de hielo, la\npista, la\nplátano, el\nplato (combinado), el\npolicíaco\npollo, el\npostre, el\nprobar\nqueso, el\nrico\nsal, la\nsalado\nsalchicha, la\nEnglish\nswimming\nnews\nrole\nmatch\ncake, pie\npotato\nskating\nto skate\nto order, ask for\nfilm\nball\npear\nto lose\nhot dog\nfishing\nfish\nto fish\nspicy\npepper\ngreen pepper\npineapple\nice rink\ntrack, court, run, slope, rink\nbanana\n(set) dish\npolice (adj)\nchicken\ndessert\nto taste, to try\ncheese\ntasty\nsalt\nsalty\nsausage\nSpanish\nsalchichón, el\nsalsa, la\nser aficionado a\nservicios, los\nsopa, la\ntapas, las\ntaquilla, la\nté, el\ntelenovela, la\ntenedor, el\ntener hambre\ntener sed\ntocar\ntomar\ntorneo, el\ntortilla, la\ntostada, la\ntraer\nuvas, las\nvaso, el\nvela, la\nverduras, las\nvino (blanco/rosado/tinto), el\nzanahoria, la\nzumo (de fruta), el\nEnglish\nsalami\nsauce\nto be very keen on/fond of (activity)\ntoilets\nsoup\nnibbles, bar snacks\nbox office\ntea\nsoap opera\nfork\nto be hungry\nto be thirsty\nto play (an instrument), to touch\nto have, to take\ntournament\nomelette\ntoast\nto bring\ngrapes\nglass\nsail, sailing\nvegetables\n(white/rosé/red) wine\ncarrot\n(fruit) juice",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Customs and festivals in Spanish-speaking countries/communities",
+                      "level": 4,
+                      "content": "Spanish\nAño Nuevo, el\ncastañuelas, las\ncorrida, la\ncostumbre, la\nDía de los Muertos, el\nDía de Reyes, el\nEnglish\nNew Year\ncastanets\nbullfight\ncustom, way\nAll Souls’ Day\nEpiphany, 6 January\nSpanish\ndía festivo, el\nferia, la\nfiesta, la\njuguete, el\nNavidad\nNochebuena\nNochevieja\nPapá Noel\nPascua, la\nReyes Magos, los\nsanto, el\nSemana Santa, la\nTomatina, la\ntener suerte\ntorero, el\ntoro, el\nEnglish\npublic holiday\nfair\nfestival\ntoy\nChristmas\nChristmas Eve\n31 December\nFather Christmas\nEaster\nthe Three Kings\nsaint’s day\nEaster week\ntomato throwing festival\nto be lucky\nbullfighter\nbull",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.3.2",
+                  "title": "Local, national, international and global areas of interest",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Home, town, neighbourhood and region",
+                      "level": 4,
+                      "content": "Spanish\na mitad de precio\nabrigo, el\nafueras, las\nahorrar\nalfombra, la\nalquilado\nalquilar\nalquiler, el\nanuncio, el\naparcamiento, el\nárbol, el\narmario, el\narreglar\nascensor, el\nEnglish\nhalf price\ncoat\noutskirts\nto save\ncarpet\nrented\nto rent, to hire\nrent\nadvert, announcement\nparking\ntree\nwardrobe, cupboard\nto tidy; to fix\nlift, elevator\nSpanish\naseo, el\nayuntamiento, el\nbajar\nbañador, el\nbaño, el\nbarrio, el\nbiblioteca, la\nbillete, el\nblusa, la\nbolera, la\nbolso, el\nbosque, el\nbotas, las\ncaja, la\ncalcetines, los\ncalefacción, la\ncalle, la\ncama, la\ncambio, el\ncamisa, la\ncamiseta, la\ncampo, el\ncancha (de tenis etc), la\ncarnicería, la\ncasa (adosada), la\ncéntimo, el\ncentro comercial, el\ncentro, el\ncésped, el\nchalet/chalé, el\nchandal, el\ncine, el\ncinturón, el\nciudad, la\nEnglish\nbathroom, WC\ntown hall\nto go down\nswimming costume\nbathroom; bath\nneighbourhood\nlibrary\nbanknote\nblouse\nbowling alley\nhandbag\nforest, woods\nboots\ntill\nsocks\nheating\nstreet\nbed\nchange, exchange\nshirt\nT-shirt\ncountryside, grounds\ncourt\nbutcher’s\nhouse (semi-detached)\ncent\nshopping centre\ncentre, down town\nlawn\nbungalow, house\ntracksuit\ncinema\nbelt\ncity\nSpanish\nclub (de jóvenes etc), el\ncocina, la\ncollar, el\ncomedor, el\ncomisaría, la\ncómodo\ncompartir\ncomprar\ncompras, las\nconstruir\ncontar\ncorbata, la\nCorreos\ncortar\ncortina, la\ncosa, la\ncostar\ncuarto de baño, el\ndar a\ndeber\ndescuento, el\ndevolver\ndinero, el\ndirección, la\ndormitorio, el\nducha, la\nedificio, el\nentrada, la\nentrar\nescalera, la\nespacio, el\nestanco, el\nestante, el\nestantería, la\nEnglish\n(youth) club\ncooker; kitchen\nnecklace\ndining room\npolice station\ncomfortable, convenient, handy\nto share\nto buy\nshopping\nto build\nto count, to tell/recount\ntie\nPost Office\nto cut, to mow\ncurtain\nthing\nto be difficult/hard\nbathroom\nto look onto\nto owe\ndiscount\nto return\nmoney\naddress\nbedroom\nshower\nbuilding\nentrance\nto go in, to enter\nstairs\nspace\ntobacconist’s\nshelf\nshelves\nSpanish\nestar de moda\nfábrica, la\nfalda, la\nflor, la\nfregadero, el\ngastar\ngorra, la\ngrandes almacenes, los\ngranja, la\nguantes, los\nhabitación, la\nhabitante, el\nhacer cola\nhacer la(s) compra(s)\niglesia, la\njoyería, la\njuguetería, la\nlado, el\nlago, el\nlavabo, el\nlavadora, la\nlavaplatos, el\nlavar\nlibra (esterlina), la\nlibrería, la\nlibrería, la\nlimpio\nllave, la\nllevar (puesto)\nluz, la\nmaquillaje, el\nmáquina, la\nmercado, el\nmesa, la\nEnglish\nto be in fashion\nfactory\nskirt\nflower\nkitchen sink\nto spend money, to use (energy)\ncap\ndepartment store\nfarm\ngloves\nroom\ninhabitant\nto queue\nto do the shopping\nchurch\njeweller’s\ntoy shop\nside\nlake\nwashbasin\nwashing machine\ndishwasher\nto wash\npound (sterling)\nbookcase\nbookshop\nclean\nkey\nto wear\nlight\nmake-up\nmachine\nmarket\ntable\nSpanish\nmezquita, la\nmicroondas, el\nmoda, la\nmonedero, el\nmostrar\nmuebles, los\nmuseo, el\nnevera, la\npaga, la\npagar\npanadería, la\npantalón corto, el\npapelera, la\npapelería, la\nparaguas, el\npared, la\nparque infantil, el\npasillo, el\npastelería, la\npeluquería, la\npendientes, los\npescadería, la\npintado\npiso, el\nplanta baja, la\nplanta, la\nplanta, la\nplaza de toros, la\nplaza, la\npoblación, la\npolideportivo, el\nponerse\nprecio, el\npropio\nEnglish\nmosque\nmicrowave oven\nfashion\npurse\nto show\nfurniture\nmuseum\nfridge\npocket money\nto pay\nbakery\nshorts\nwastepaper basket\nstationery shop\numbrella\nwall\nplayground\ncorridor\npastry shop\nhairdresser’s\nearrings\nfish monger’s\npainted\nfloor; flat\nground floor\nfloor\nplant\nbull ring\nsquare\npopulation\nsports centre\nto put on (clothes)\nprice\nown\nSpanish\npueblo, el\npuente, el\npuerta, la\npuerto, el\nrebajar\nrebajas, las\nrecibo, el\nregalar\nregalo, el\nreloj, el\nrepartir\nrío, el\nropa (de marca), la\nruido, el\nruidoso\nsalón, el\nsentarse\nsierra, la\nsilla, la\nsillón, el\nsubir\nsuelo, el\nsugerir\ntalla, la\ntarjeta de crédito, la\nteatro, el\nterraza, la\ntienda de comestibles, la\ntienda de ropa, la\ntienda, la\nvaqueros, los\nvendedor, el\nvender\nventa, la\nEnglish\nvillage; people, nation\nbridge\ndoor\nport, harbour\nto reduce (price; weight)\nsales\nreceipt\nto give a present\npresent, gift\nwatch\nto deliver\nriver\n(designer) clothes\nnoise\nnoisy\nlounge\nto sit down\nmountain range\nchair\narmchair\nto go up\nfloor\nto suggest\nsize (clothes)\ncredit card\ntheatre\nterrace\ngrocery store\nclothes shop\nshop\njeans\nsales assistant\nto sell\nsale\nSpanish\nventana, la\nvestido, el\nvestirse\nzapatería, la\nzapatillas de deporte, las\nzapatos, los\nzona peatonal, la\nEnglish\nwindow\ndress\nto get dressed, to dress\nshoe shop\ntrainers\nshoes\npedestrian zone/area",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Social issues",
+                      "level": 4,
+                      "content": "Spanish\nacostarse\nactivo\nborracho\ncaer(se)\ncansado\ncansar(se)\ncigarrillo, el\ncontribuir\ncorazón, el\ncuerpo, el\ndespertarse\ndoler\ndolor, el\ndormir(se)\ndroga (blanda/dura), la\ndrogarse\nejercicio (físico), el\nemborracharse\nencontrarse bien/mal\nenfermedad, la\nenfermo\nentrenamiento, el\nentrenar(se)\nequilibrado\nEnglish\nto go to bed\nactive\ndrunk\nto fall down\ntired, tiring\nto get tired\ncigarette\nto contribute\nheart\nbody\nto wake up\nto hurt\npain, ache\nto sleep; to fall asleep\n(soft/hard) drug\nto take drugs\n(physical) exercise\nto get drunk\nto feel well/ill\nillness\nill\ntraining\nto train\nbalanced\nSpanish\nestar bien / mal\nestar en forma\nestrés, el\nestresante\nevitar\nformar parte\nfumador (pasivo), el\nfumar\nhumo, el\nlevantarse\nmalsano\nmantenerse en forma\nmejorar(se)\nmorir\nmuerto\nnecesidad, la\nobra benéfica, la\noler\nolor, el\norganización benéfica, la\norganizar\nparticipación, la\npoco sano\nposibilidad, la\npropósito, el\npulmones, los\nresidencia (para ancianos), la\nrespirar\nsalud, la\nsaludable\nsano\nsida, el\ntener dolor (de) ...\ntener sueño\nEnglish\nto be well/ill\nto be fit\nstress\nstressing, stressful\nto avoid\nto be part of\n(passive) smoker\nto smoke\nsmoke\nto get up\nunhealthy\nto keep fit/in shape\nto get better\nto die\ndead\nneed\ncharity\nto smell\nsmell\ncharitable organisation\nto organise\nparticipation, taking part\nnot healthy\npossibility\naim, purpose, objective\nlungs\nold people’s home\nto breathe\nhealth\nhealthy\nhealthy, wholesome\nAIDS\nto have a pain (in) …\nto feel sleepy\nSpanish\ntentación, la\ntienda con fines benéficos, la\ntienda solidaria, la\nvida, la\nvivo\nvoluntario\nvoluntario, el\nEnglish\ntemptation\ncharity shop\ncharity shop\nlife\nalive\nvoluntary\nvolunteer",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Global issues",
+                      "level": 4,
+                      "content": "Spanish\naumentar\nbasura, la\nbelleza, la\nbeneficiar\ncambio climático, el\ncampaña, la\ncartón, el\ncombustible, el\ncontenedor, el\nculpa, la\ncultivar\ncultivo, el\ndañar\ndaño, el\nderechos, los\ndesaparecer\ndesarrollo, el\nducharse\nencender\nencuesta, la\nescaso\nextranjero, el\nfalta, la\nfaltar\nEnglish\nto increase\nrubbish, garbage\nbeauty\nto benefit\nclimate change\ncampaign\ncardboard\nfuel\ncontainer\nfault, blame, guilt\nto till, to grow, to cultivate\ncrop\nto harm, to damage\nharm, damage\nrights\nto disappear\nto have a shower\nto turn on (lights, TV etc)\npoll, survey\nscarce, meagre\nforeigner\nlack\nto be missing\nSpanish\nfuego, el\ngobierno, el\ngrave\ninjusto\ninquietante\ninquietar(se)\njusto\nladrón, el\nley, la\nlibertad, la\nluchar\nmalgastar\nmatar\nmedio ambiente, el\nmedioambiental\nmundial\nmundo, el\nnaturaleza, la\nnecesitados, los\npájaro, el\npeligro, el\npeligroso\npetróleo, el\npila, la\npobre\npobreza, la\npreocupación, la\npreocupado\npreocupante\nproductos químicos, los\nproteger\nquímico (adj)\nrecargable\nreciclaje, el\nEnglish\nfire\ngovernment\nserious\nunjust, unfair\nworrying, disturbing\nto worry, to upset oneself\njust, fair\nthief\nlaw\nliberty, freedom\nto fight, to struggle\nto waste, to misuse, to squander\nto kill\nenvironment\nenvironmental\nglobal, world-wide\nworld\nnature\nneedy people\nbird\ndanger\ndangerous\noil\nbattery\npoor\npoverty\nworry, anxiety\nworried, anxious\nworrying\nchemicals\nto protect\nchemical\nrechargeable\nrecycling\nSpanish\nreciclar\nrecoger\nrecurso, el\nrenovable\nreutilizar\nrobar\nrobo, el\nsalvar\nsolucionar\nsucio\nTierra, la\ntirar\nutilizar\nventaja, la\nviolencia, la\nEnglish\nto recycle\nto collect, to gather, to pick up\nresource\nrenewable\nto reuse\nto steal\ntheft, burglary\nto save\nto solve, to resolve\ndirty\nEarth\nto throw (away)\nto use\nadvantage\nviolence",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Travel and tourism",
+                      "level": 4,
+                      "content": "Spanish\n(no) fumador\na mano derecha/izquierda\na pie\naeropuerto, el\nagencia (de viajes), la\naire acondicionado, el\nalbergue juvenil, el\nalemán\nAlemania\nalojamiento, el\nalojarse\nambiente, el\nandén, el\naparcar\nasiento, el\nautocar, el\nEnglish\n(non) smoking\non the right-/left-hand side\non foot, walking\nairport\ntravel agent’s\nair-conditioning\nyouth hostel\nGerman\nGermany\naccommodation\nto lodge, to stay\natmosphere\nplatform\nto park\nseat\ncoach\nSpanish\nautopista, la\navión, el\nbañarse\nbarco, el\nbillete (de ida/de ida y vuelta), el\nbritánico\nbuscar\ncama de matrimonio, la\ncambiar\ncaminar\ncamino, el\ncamping, el\nCanarias, las Islas\ncarnet de conducir, el\ncarnet de identidad, el\ncarnet, el\ncarretera, la\ncoche, el\ncoger\nconducir\nconductor, el\nconsigna, la\ncrema solar, la\ncrucero, el\ncruzar\ncheque (de viaje), el\ndeportes acuáticos, los\ndescansar\ndescanso, el\ndirección, la\ndisponible\ndoblar\nequipaje, el\nescocés\nEnglish\nmotorway\nairplane, aeroplane\nto bathe, to swim\nboat\n(single/return) ticket\nBritish\nto look for\ndouble bed\nto change\nto walk\npath, route\ncamp site; camping\nCanary Islands\ndriving licence\nidentity card\npass; card\nhighway\ncar\nto take, to catch\nto drive, to lead\ndriver\nleft luggage office\nsuncream\ncruise\nto cross\ntravellers’ cheque\nwater sports\nto rest\nrest, pause\nmanagement\navailable\nto turn\nluggage\nScot, Scottish\nSpanish\nEscocia\nEspaña\nespañol\nesperar\nesquí, el\nesquiar\nestación (de autobuses/trenes), la\nestación de servicio, la\nEstados Unidos, los\nestar de vacaciones\nEuropa\neuropeo\nexcursión, la\nextranjero (en el _, al _)\nferrocarril, el\nficha, la\nfolleto, el\nfrancés\nFrancia\nGales\ngalés\ngasolina (sin plomo), la\nGran Bretaña\nGrecia\ngriego\nguía, el\nguía, la\nhabitación (doble/individual), la\ninformar(se)\nInglaterra\ninglés\ninstalaciones, las\nIrlanda\nirlandés\nEnglish\nScotland\nSpain\nSpanish\nto wait\nskiing\nto ski\n(bus/coach/train) station\nservice station\nUnited States\nto be on holiday\nEurope\nEuropean\ntrip, excursion\nabroad\nrailways\nregistration form\nleaflet, pamphlet\nFrench\nFrance\nWales\nWelsh\n(unleaded) petrol\nGreat Britain\nGreece\nGreek\nguide\nguidebook\n(single/double) room\nto find out\nEngland\nEnglish\nfacilities\nIreland\nIrish\nSpanish\nisla, la\nlatinoamericano\nlibre\nLondres\nllegada, la\nllegar\nllevar\nmaleta, la\nmáquina (de fotos), la\nmar, el\nmedia pensión\nMediterráneo, el\nmetro, el\nmontaña, la\nnorteamericano\npaís, el\npapel higiénico, el\nparada, la\nparador, el\nparar\nparque de atracciones, el\nparque temático, el\npasajero, el\npasar\npaso subterráneo, el\npensión completa\npensión, la\nperder\nperderse\npermiso de conducir, el\nplaya, la\npostal, la\nquedarse\nrecepción, la\nEnglish\nisland\nLatin-American\navailable\nLondon\narrival\nto arrive\nto take\nsuitcase\ncamera\nsea\nhalf board\nMediterranean Sea\nunderground\nmountain\nNorth American\ncountry\ntoilet paper\nstop\nstate owned hotel (in Spain)\nto stop\nfairground, funfair\ntheme park\npassenger\nto spend time; to go through; to pass\nunderpass, subway\nfull board\nboarding house\nto lose; to miss\nto get lost\ndriving licence\nbeach\npostcard\nto stay\nreception\nSpanish\nrecordar\nrecuerdo, el\nregresar\nregreso, el\nrelajarse\nreserva, la\nreservar\nretraso, el\nsacar (fotos)\nsaco de dormir, el\nsala de espera, la\nsalida, la\nseñal, la\nsitio, el\nsitio, el\nsudamericano\ntaquilla, la\ntardar\ntarjeta, la\ntienda, la\ntomar el sol\ntorcer\ntranvía, el\nvacaciones, las\nvenir\nver\nvía, la\nviajar\nviaje, el\nviajero, el\nvista, la\nvolver\nvuelo, el\nEnglish\nto remember\nsouvenir\nto go back\nreturn\nto relax\nreservation\nto book, to reserve\ndelay\nto take photos\nsleeping bag\nwaiting room\nexit\nsign, signal\nspace, room\nplace, site\nSouth American\nticket office\nto take time\ncard, postcard\ntent\nto sunbathe\nto turn\ntram\nholidays\nto come\nto see\ntrack, lane\nto travel\ntrip, journey\ntraveller\nview\nto return\nflight",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.3.3",
+                  "title": "Current and future study and employment",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "My studies",
+                      "level": 4,
+                      "content": "Spanish\nalemán, el\narte dramático, el\nasignatura, la\nciencias económicas, las\nciencias, las\ncocina, la\ncomercio, el\ndibujo, el\ndirector, el\nenseñar\nespañol, el\nfrancés, el\ngimnasia, la\nidioma, el\ninformática, la\ninglés, el\nlengua, la\nnota, la\nquímica, la\nsacar buenas/malas notas\ntaller, el\ntarea, la\ntrabajador\ntrabajos manuales, los\nEnglish\nGerman\ndrama\nschool subject\neconomics\nscience\nfood technology\nbusiness studies\ndrawing/art\nhead teacher, principal\nto teach\nSpanish\nFrench\ngymnastics\nlanguage\nIT\nEnglish\nlanguage, tongue\nmark\nchemistry\nto get good/bad marks\nworkshop\ntask/homework\nhard working\nhandicrafts",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Life at school/college",
+                      "level": 4,
+                      "content": "Spanish\nacoso (escolar), el\nagenda, la\nalumno, el\naprender\naprobar\nEnglish\n(school) bullying\ndiary\npupil, student\nto learn\nto approve, to pass (an exam)\nSpanish\napuntes, los\naula (f), el\nausente\nayuda, la\nayudar\nbachillerato, el\nbiología, la\nbolígrafo, el\ncallar(se)\ncampo de deportes, el\ncolegio, el\ncomportamiento, el\ncomportarse\nconducta, la\ncontestar\ncharlar\nchicle, el\ndeberes, los\ndesobediente\ndibujar\ndiseñar\neducativo\nentender\nescribir\nescuela, la\nestuche, el\nevaluación, la\nexamen, el\néxito, el\nexplicación, la\nexplicar\nfalta, la\nfaltar\nfracasar\nEnglish\nschoolroom\nabsent\nhelp\nto help\nschool leaving exam/baccalaureate\nbiology\npen\nto shut up\nsports field\nschool\nbehaviour\nto behave\nbehaviour, conduct\nto answer\nto chat\nchewing gum\nhomework\ndisobedient\nto draw\nto design\neducational\nto understand\nto write\nschool\npencil case\nassessment\nexamination\nsuccess\nexplanation\nto explain\nmistake; absence\nto be absent\nto fail\nSpanish\nfracaso, el\ngimnasio, el\ninstituto, el\nintercambio, el\nlápices de colores, los\nlección, la\nleer\nletra, la\nlevantar la mano\nlibro, el\nmasculino\nmirar\nmochila, la\nmolestar\nnivel, el\nobligatorio\noír\nolvidar\npágina, la\npalabra, la\npasar (la) lista\npermiso, el\npizarra interactiva, la\npregunta, la\npreguntar\nprivado\nprometer\nprueba, la\nrecreo, el\nregla, la\nrepartir\nrepasar\nrespuesta, la\nresumen, el\nEnglish\nfailure\ngymnasium\nsecondary school, institute\nexchange\ncolour pencils\nlesson\nto read\nletter of the alphabet\nto put your hand up\nbook\nmasculine\nto look\nrucksack, school bag\nto annoy, to bother\nlevel\ncompulsory\nto listen, to hear\nto forget\npage\nword\nto call the register\npermission\nsmart board\nquestion\nto ask a question\nprivate\nto promise, to show promise\ntest, proof\nbreak, recess, playtime, recreation\nrule; ruler\nto hand out\nto revise\nanswer\nsummary\nSpanish\nreunión, la\nrutina, la\nsala de profesores, la\nsalón de actos, el\nsobresaliente\nsuspender\ntema, el\ntener miedo\nterminar\ntrabajo, el\ntrimestre, el\nvestuarios, los\nEnglish\nmeeting\nroutine\nstaffroom\nhall, assembly room\noutstanding\nto fail (exam/subject)\ntopic, theme\nto be afraid\nto finish\nwork\n(school) term, three month period\nchanging rooms",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Education post-16",
+                      "level": 4,
+                      "content": "Spanish\na tiempo completo\na tiempo parcial\naprendiz, el\naprendizaje, el\ncalificado\ncarrera, la\ncomienzo, el\nconocimientos, los\nconseguir\ndejar\nesperar\nexperiencia laboral, la\ntomar un año libre/sabático\nútil\nEnglish\nfull time\npart time\napprentice\napprenticeship, training, learning\ncompetent, skilled, qualified\ncareer; profession\nbeginning, start\nknowledge\nto get, to achieve\nto leave\nto hope; to expect\nwork experience\nto take a gap year\nuseful",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Jobs, career choices and ambitions",
+                      "level": 4,
+                      "content": "Spanish\nama de casa, el (f)\nbombero, el\ncajero, el\nEnglish\nhousewife\nfirefighter\nbank-teller, cashier\nSpanish\ncamarero, el\ncarnicero, el\ncarta, la\ncita, la\ncocinero, el\ncomerciante, el\ncomercio, el\ncontrato, el\ncorreo, el\ndependiente, el\nejecutivo, el\nelectricista, el\nempleado, el\nempleo, el\nempresa, la\nencontrar\nenfermero, el\nentrevista, la\nescritor, el\nestar en paro\nganar\nhombre de negocios, el\nhoras de trabajo flexibles, las\ningeniero, el\njardinero, el\njefe, el\nlaboral\nlínea, la\nllamada, la\nllamar por teléfono\nllegar a ser\nmilitar, el\nobjetivo, el\nobrero, el\nEnglish\nwaiter\nbutcher\nletter\nappointment\ncook\nmerchant, retailer, shop owner\ncommerce, trade\ncontract\npost\nshop assistant\nexecutive, officer\nelectrician\nemployee, worker\njob, employment\ncompany\nto find\nnurse\ninterview\nwriter\nto be unemployed\nto earn\nbusinessman\nflexitime\nengineer (civil/mechanical)\ngardener\nboss\nworking\nline\ncall\nto telephone\nto become\nserviceman, soldier\naim, objective\nworkman\nSpanish\nobtener\npanadero, el\nparado\nparo, el\npeluquero, el\nperiodismo, el\nperiodista, el\npintor, el\npolicía, el\npronto\nsello, el\nsobre, el\nsoldado, el\nteletrabajo, el\ntítulo, el\ntrabajador, el\ntrabajar\ntraductor, el\ntriunfar\nveterinario, el\nEnglish\nto get, to obtain\nbaker\nunemployed\nunemployment\nhairdresser\njournalism\njournalist\npainter, artist\npolice officer\nready\nstamp\nenvelope\nsoldier\nwork from home\nuniversity degree\nworker\nto work\ntranslator\nto triumph, to succeed\nveterinary surgeon",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "3.5.4",
+              "title": "Theme-based vocabulary (Higher Tier)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.4.1",
+                  "title": "Identity and culture",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Me, my family and friends",
+                      "level": 4,
+                      "content": "Spanish\nacoger\naconsejar\nacordar\nagradecer\naguantar\nanillo, el\napodo, el\natrevido\nEnglish\nto receive, to welcome\nto advise\nto agree on\nto thank\nto bear, to put up with\nring\nnickname\ncheeky, insolent, bold, daring\nSpanish\navaro\nbarrera generacional, la\nboda, la\ncallado\nceloso\ncobarde\ncomprometerse\ncompromiso, el\nconfianza, la\nconfiar\ncortés\ncuidadoso\ndemás, los\ndespedir(se)\ndisculpar(se)\neducado\nesposo, el\nestado civil, el\ngemelo, el\ngénero, el\nglotón\nhogar, el\nhuérfano, el\nllorar\nmaltratar\nmaltrato, el\nmuchacho, el\nocuparse de\norgulloso\nparecerse a\npareja, la\nrelacionarse con\nseguro de sí mismo\nsensible\nEnglish\nmean, miserly\ngeneration gap\nwedding\nquiet, reserved\njealous\ncoward\nto get engaged\nengagement\ntrust\nto trust\npolite\ncareful\nother people\nto say goodbye\nto apologise\npolite\nhusband, spouse\nmarital status\ntwin\ngender\ngreedy\nhome\norphan\nto cry\nto mistreat, abuse\nmistreatment, abuse\nlad\nto look after\nproud\nto look like\ncouple; partner\nto make contact with, to get on with (people)\nself-assured\nsensitive\nSpanish\nsobrino, el\ntorpe\ntratarse (de, con)\nvago\nviudo, el\nEnglish\nnephew\nclumsy\nto treat each other, to have dealings with\nidle, lazy\nwidower",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Technology in everyday life",
+                      "level": 4,
+                      "content": "Spanish\nadjuntar\nbuscador, el\ncontraseña, la\ndesactivar\nguión, el\nguión bajo, el\nherramienta, la\ninalámbrico\ninternauta, el\nmarcador, el\nnavegador, el\nportada, la\nreproductor, el\nservidor de seguridad, el\nusuario, el\nEnglish\nto attach\nsearch engine\npassword\nto block (screen)\nhyphen\nunderscore\ntool\nwireless\nInternet user\nbookmark\nbrowser\nhomepage\nwidget\nfirewall\nuser",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Free-time activities",
+                      "level": 4,
+                      "content": "Spanish\nactuación, la\nalimentación, la\napetecer\nasado\nbacalao, el\nbanda sonora, la\ncarrera, la\ndeportes de riesgo, los\nfunción, la\nEnglish\nperformance, role\nfood, nourishment\nto fancy, to feel like\nroast(ed)\ncod\nsoundtrack\nrace\nadventure sports\nshow, performance\nSpanish\ngrabación, la\nhacer cola\nhervido\nmelocotón, el\nmerendar\nmerluza, la\nnuez, la\npiragüismo, el\npremio, el\npropina, la\nsabroso\nselección, la\nsocio, el\ntrama, la\nEnglish\nrecording\nto queue\nboiled\npeach\nto have a snack/picnic\nhake\nnut, walnut\ncanoeing\nprize\ntip\ntasty\nteam, side\nmember\nplot",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Customs and festivals in Spanish-speaking countries/communities",
+                      "level": 4,
+                      "content": "Spanish\nbandera, la\nDía de los Inocentes\ndisfraz, el\ndisfrazarse de\nfecha patria, la\ngaucho, el\nmariachi, el\nmuñeca, la\npaso, el\nvillancico, el\nEnglish\nflag\n28 December (equivalent of April Fools' Day)\nfancy dress\nto dress up as\nnational day to commemorate historic event\ncowboy\nMexican musician\ndoll\nstatue paraded at Easter\nChristmas carol",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.4.2",
+                  "title": "Local, national, international and global areas of interest",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Home, town, neighbourhood and region",
+                      "level": 4,
+                      "content": "Spanish\naldea, la\nbufanda, la\nbutaca, la\nEnglish\nvillage\nscarf\narmchair\nSpanish\ncamisón, el\ncazadora, la\ncomunidad, la\nconcurrido\nde lujo\ndomicilio, el\nelectrodomésticos, los\nen efectivo\nenseñar\nespejo, el\nesquina, la\nhorno, el\nmanta, la\nmedias, las\nmoqueta, la\nmudarse (de casa)\nnegocio, el\npaisaje, el\npanty, el\npersianas, las\nprobarse\nrebeca, la\nreembolso, el\nreparto a domicilio, el\nsemáforo, el\nsótano, el\nsudadera, la\nsurtido, el\ntamaño, el\nvestíbulo, el\nvivienda, la\nEnglish\nnightgown\n(leather) jacket\ncommunity\nbusy, crowded\nluxury\naddress, home\n(electrical) appliances\ncash\nto show\nmirror\ncorner\noven\nblanket\nstockings\nfitted carpet\nto move house\nbusiness\nlandscape, scenery\ntights\nshutters, venetian blinds\nto try on\ncardigan\nrefund\nhome delivery\ntraffic lights\nbasement, cellar\nsweatshirt\nrange, supply, stock\nsize\nentrance hall, lobby, foyer\ndwelling, housing, accommodation",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Social issues",
+                      "level": 4,
+                      "content": "Spanish\nadvertir\nasco, el\nasqueroso\nataque cardíaco, el\naviso, el\nbotellón, el\ncerebro, el\ndedicar(se)\ndolor de oídos, el\nesfuerzo, el\nhacer daño\nhígado, el\nONG, la\nporro, el\nprimeros auxilios, los\npropósito, el\nprovocar\nrespiratorio\nseropositivo\nsobrepeso, el\nsíndrome de abstinencia, el\ntabaquismo, el\nEnglish\nto warn\ndisgust\ndisgusting\nheart attack\nwarning, notice\ndrinking party in the street\nbrain\nto do, to go in for, to devote oneself\nearache\neffort\nto injure, to harm\nliver\nNGO (non-governmental organisation)\njoint\nfirst aid\naim, purpose, objective\nto cause, to provoke\nrespiratory\nHIV positive\noverweight, obesity\nwithdrawal symptoms\naddiction to tobacco",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Global issues",
+                      "level": 4,
+                      "content": "Spanish\nagotar\nagujero, el\namenazar\napagar\narruinar\natasco, el\naumento, el\nbeneficio, el\nEnglish\nto exhaust, use up\nhole\nto threaten\nto turn off (lights, etc)\nto ruin, to destroy\ntraffic jam\nincrease\nbenefit\nSpanish\ncalentamiento global, el\ncapa de ozono, la\ncombatir\ncometer\nconsumo, el\ndesechos, los\ndesigualdad, la\ndesperdicio, el\nechar la culpa\nefecto invernadero, el\nensuciar\nenvase, el\nescasez, la\nestropear\ngamberro, el\ngases de escape, los\nhuracán, el\nigualdad, la\nincendio, el\ninundación, la\nlluvia ácida, la\nmarea negra, la\nmulta, la\nnocivo\npetrolero, el\nprejuicio, el\nresiduos, los\nselva, la\nsequía, la\n“sin techo”, los\ntestigo, el\nvertedero, el\nEnglish\nglobal warming\nozone layer\nto fight, to combat\nto commit\nconsumption\nrubbish, waste\ninequality\nwaste, rubbish, squandering\nto blame\ngreenhouse effect\nto make dirty, to soil, to make a mess\nwrapping, packaging; container\nshortage, want, lack\nto ruin, to spoil\nhooligan, lout, troublemaker\nexhaust fumes\nhurricane\nequality\nfire\nflood\nacid rain\noil spill\nfine\nharmful\noil tanker\nprejudice\nrefuse, waste, rubbish\njungle, tropical forest\ndrought\nhomeless people\nwitness\nrubbish dump, tip",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Travel and tourism",
+                      "level": 4,
+                      "content": "Spanish\nabanico, el\naduana, la\navería, la\naveriado\nbonobús, el\nbroncearse\ncamión, el\ncasco, el\ncastellano\ncinturón de seguridad, el\ncruce, el\ndecepcionar\ndetener(se)\nDNI\nhacer transbordo\ninsolación, la\nmotor, el\nqueja, la\nquejarse\nrueda, la\nsombrilla, la\nEnglish\nfan\ncustoms\nbreakdown, fault\nbroken down\nbus pass\nto get a tan\nlorry\nhelmet\nCastillian, Spanish spoken in Spain\nseat belt\ncrossroads, intersection\nto disappoint\nto stop\nID card\nto change, to transfer\nsunstroke\nengine\ncomplaint\nto complain\nwheel\nsunshade, parasol",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.4.3",
+                  "title": "Current and future study and employment",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "My studies",
+                      "level": 4,
+                      "content": "Spanish\natento\noptar\noptativo\nriguroso\nsencillo\nEnglish\nattentive\nto choose, to opt for\noptional\nsevere, harsh\nsimple, easy",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Life at school/college",
+                      "level": 4,
+                      "content": "Spanish\napoyar\napoyo, el\ncarpeta, la\ncastigar\ncastigo, el\ndespacho, el\nenseñanza, la\nentregar\nesforzarse\ngolpear\nintimidación, la\nlectura, la\npedir prestado\ntijeras, las\ntraducir\nEnglish\nto support, to back, to help\nhelp, support, backing\nfolder, file\nto punish\npunishment\noffice\nteaching; education\nto hand in\nto make an effort\nto hit\nbullying\nreading\nto borrow\nscissors\nto translate",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Education post-16",
+                      "level": 4,
+                      "content": "Spanish\nacademia, la\nderecho, el\nformación (profesional), la\nlograr\nperspectiva, la\nEnglish\nacademy, school post-16 (for certain careers)\nlaw (at university)\nvocational training\nto achieve\nprospects, outlook, future developments",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Jobs, career choices and ambitions",
+                      "level": 4,
+                      "content": "Spanish\nabogado, el\nalbañil, el\nazafata, la\nbombero, el\ncamionero, el\ncarpintero, el\ncartero, el\ncontable, el\nEnglish\nlawyer, solicitor\nbrick-layer, building worker\nflight attendant\nfirefighter\nlorry driver\njoiner, carpenter\npostman\naccountant\nSpanish\nejército, el\nencargado, el\nencargarse (de)\nestar en huelga\nexpectativa, la\ngerente, el\ngranjero, el\nprobar\nrellenar\nsolicitar\nsolicitud, la\nsueldo, el\nEnglish\narmy\nperson in charge\nto be in charge of\nto be on strike\nhope, prospect\nmanager\nfarmer\nto have a go; to try\nto fill in\nto apply\n(job) application\nwages, salary",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

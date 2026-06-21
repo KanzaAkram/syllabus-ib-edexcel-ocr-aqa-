@@ -1,0 +1,950 @@
+{
+  "source_pdf": "GCSE/Physics/8463_2017_to_PRESENT/AQA_GCSE_Physics_8463_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Physics",
+  "spec_code": "8463",
+  "pdf_name": "AQA_GCSE_Physics_8463_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "4",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "4.1",
+          "title": "Energy",
+          "level": 1,
+          "content": "The concept of energy emerged in the 19th century. The idea was used to explain the work output\nof steam engines and then generalised to understand other heat engines. It also became a key tool\nfor understanding chemical reactions and biological systems.\nLimits to the use of fossil fuels and global warming are critical problems for this century. Physicists\nand engineers are working hard to identify ways to reduce our energy usage.",
+          "children": [
+            {
+              "code": "4.1.1",
+              "title": "Energy changes in a system, and the ways energy is stored before and after such changes",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.1.1",
+                  "title": "Energy stores and systems",
+                  "level": 3,
+                  "content": "A system is an object or group of objects.\nThere are changes in the way energy is stored when a system\nchanges.\nStudents should be able to describe all the changes involved in the\nway energy is stored when a system changes, for common\nsituations. For example:\n- an object projected upwards\n- a moving object hitting an obstacle\n- an object accelerated by a constant force\n- a vehicle slowing down\n- bringing water to a boil in an electric kettle.\nThroughout this section on Energy students should be able to\ncalculate the changes in energy involved when a system is changed\nby:\n- heating\n- work done by forces\n- work done when a current flows\n- use calculations to show on a common scale how the overall\nenergy in a system is redistributed when the system is\nchanged.\nKey opportunities for\nskills development\nThe link between work done\n(energy transfer) and\ncurrent flow in a circuit is\ncovered in Energy transfers\n(page 29).\nWS 4.5\nWS 1.2, 4.3, 4.5, 4.6\nMS 1a, c, 3b, c",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.2",
+                  "title": "Changes in energy",
+                  "level": 3,
+                  "content": "Students should be able to calculate the amount of energy\nassociated with a moving object, a stretched spring and an object\nraised above ground level.\nKey opportunities for\nskills development\nWS 1.2, 4.3, 4.4, 4.6\nMS 1a, c, 3b, c\nThe kinetic energy of a moving object can be calculated using the\nequation:\nkinetic energy = 0.5 × mass × speed 2\n2 m v2\nEk = 1\nkinetic energy, Ek, in joules, J\nmass, m, in kilograms, kg\nspeed, v, in metres per second, m/s\nThe amount of elastic potential energy stored in a stretched spring\ncan be calculated using the equation:\nelastic potential energy = 0.5 × spring constant × extension 2\n2 k e2\nEe = 1\n(assuming the limit of proportionality has not been exceeded)\nelastic potential energy, Ee, in joules, J\nspring constant, k, in newtons per metre, N/m\nextension, e, in metres, m\nThe amount of gravitational potential energy gained by an object\nraised above ground level can be calculated using the equation:\ng . p . e . = mass × gravitational f ield strength × height\nEp = m g h\ngravitational potential energy, Ep, in joules, J\nmass, m, in kilograms, kg\ngravitational field strength, g, in newtons per kilogram, N/kg (In any\ncalculation the value of the gravitational field strength (g) will be\ngiven).\nheight, h, in metres, m\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\nrecall and apply this\nequation.\nMS 3b, c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.\nMS 3b, c\nStudents should be able to\nrecall and apply this\nequation.\nAT 1\nInvestigate the transfer of\nenergy from a gravitational\npotential energy store to a\nkinetic energy store.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.3",
+                  "title": "Energy changes in systems",
+                  "level": 3,
+                  "content": "The amount of energy stored in or released from a system as its\ntemperature changes can be calculated using the equation:\nKey opportunities for\nskills development\nchange in thermal energy = mass × speci f ic heat capacity\n× temperature change\n∆E = m c ∆θ\nchange in thermal energy, ∆E, in joules, J\nmass, m, in kilograms, kg\nspecific heat capacity, c, in joules per kilogram per degree Celsius,\nJ/kg °C\ntemperature change, ∆θ, in degrees Celsius, °C\nThe specific heat capacity of a substance is the amount of energy\nrequired to raise the temperature of one kilogram of the substance\nby one degree Celsius.\nRequired practical activity 1: investigation to determine the specific heat capacity of one or more\nmaterials. The investigation will involve linking the decrease of one energy store (or work done) to\nthe increase in temperature and subsequent increase in thermal energy stored.\nAT skills covered by this practical activity: AT 1 and 5.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 89).\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.\nThis equation and specific\nheat capacity are also\nincluded in Temperature\nchanges in a system and\nspecific heat capacity (page\n34).",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.4",
+                  "title": "Power",
+                  "level": 3,
+                  "content": "Power is defined as the rate at which energy is transferred or the\nrate at which work is done.\npower = energy trans f erred\nP = E\npower = work done\nP = W\npower, P, in watts, W\nenergy transferred, E, in joules, J\ntime, t, in seconds, s\nwork done, W, in joules, J\nAn energy transfer of 1 joule per second is equal to a power of 1\nwatt.\nStudents should be able to give examples that illustrate the\ndefinition of power eg comparing two electric motors that both lift\nthe same weight through the same height but one does it faster\nthan the other.\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\nrecall and apply both\nequations.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.2",
+              "title": "Conservation and dissipation of energy",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.2.1",
+                  "title": "Energy transfers in a system",
+                  "level": 3,
+                  "content": "Energy can be transferred usefully, stored or dissipated, but cannot\nbe created or destroyed.\nStudents should be able to describe with examples where there are\nenergy transfers in a closed system, that there is no net change to\nthe total energy.\nStudents should be able to describe, with examples, how in all\nsystem changes energy is dissipated, so that it is stored in less\nuseful ways. This energy is often described as being ‘wasted’.\nKey opportunities for\nskills development\nStudents should be able to explain ways of reducing unwanted\nenergy transfers, for example through lubrication and the use of\nthermal insulation.\nThe higher the thermal conductivity of a material the higher the rate\nof energy transfer by conduction across the material.\nStudents should be able to describe how the rate of cooling of a\nbuilding is affected by the thickness and thermal conductivity of its\nwalls.\nStudents do not need to know the definition of thermal conductivity.\nRequired practical activity 2 (physics only): investigate the effectiveness of different materials\nas thermal insulators and the factors that may affect the thermal insulation properties of a material.\nAT skills covered by this practical activity: AT 1 and 5.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 90).\nKey opportunities for\nskills development\nWS 1.4\nAT 1, 5\nInvestigate thermal\nconductivity using rods of\ndifferent materials.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.2",
+                  "title": "Efficiency",
+                  "level": 3,
+                  "content": "The energy efficiency for any energy transfer can be calculated\nusing the equation:\ne f f iciency = use f ul output energy trans f er\nEfficiency may also be calculated using the equation:\ne f f iciency = use f ul power output\n(HT only) Students should be able to describe ways to increase the\nefficiency of an intended energy transfer.\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\nrecall and apply both\nequations.\nMS 1a, c, 3b, c\nStudents may be required\nto calculate or use efficiency\nvalues as a decimal or as a\npercentage.\n(HT only) WS 1.4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.3",
+              "title": "National and global energy resources",
+              "level": 2,
+              "content": "The main energy resources available for use on Earth include: fossil\nfuels (coal, oil and gas), nuclear fuel, bio-fuel, wind, hydro-\nelectricity, geothermal, the tides, the Sun and water waves.\nA renewable energy resource is one that is being (or can be)\nreplenished as it is used.\nThe uses of energy resources include: transport, electricity\ngeneration and heating.\nStudents should be able to:\n- describe the main energy sources available\n- distinguish between energy resources that are renewable and\nenergy resources that are non-renewable\n- compare ways that different energy resources are used, the\nuses to include transport, electricity generation and heating\n- understand why some energy resources are more reliable\nthan others\n- describe the environmental impact arising from the use of\ndifferent energy resources\n- explain patterns and trends in the use of energy resources.\nDescriptions of how energy resources are used to generate\nelectricity are not required.\nStudents should be able to:\n- consider the environmental issues that may arise from the use\nof different energy resources\n- show that science has the ability to identify environmental\nissues arising from the use of energy resources but not\nalways the power to deal with the issues because of political,\nsocial, ethical or economic considerations.\nKey opportunities for\nskills development\nWS 4.4\nWS 1.3, 1.4\nWS 3.5\nWS 1.3, 1.4, 4.4\nMS 1c, 2c, 4a",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.2",
+          "title": "Electricity",
+          "level": 1,
+          "content": "Electric charge is a fundamental property of matter everywhere. Understanding the difference in\nthe microstructure of conductors, semiconductors and insulators makes it possible to design\ncomponents and build electric circuits. Many circuits are powered with mains electricity, but\nportable electrical devices must use batteries of some kind.\nElectrical power fills the modern world with artificial light and sound, information and entertainment,\nremote sensing and control. The fundamentals of electromagnetism were worked out by scientists\nof the 19th century. However, power stations, like all machines, have a limited lifetime. If we all\ncontinue to demand more electricity this means building new power stations in every generation –\nbut what mix of power stations can promise a sustainable future?",
+          "children": [
+            {
+              "code": "4.2.1",
+              "title": "Current, potential difference and resistance",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.1.1",
+                  "title": "Standard circuit diagram symbols",
+                  "level": 3,
+                  "content": "Circuit diagrams use standard symbols.\nStudents should be able to draw and interpret circuit diagrams.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.2",
+                  "title": "Electrical charge and current",
+                  "level": 3,
+                  "content": "For electrical charge to flow through a closed circuit the circuit must\ninclude a source of potential difference.\nKey opportunities for\nskills development\nElectric current is a flow of electrical charge. The size of the electric\ncurrent is the rate of flow of electrical charge. Charge flow, current\nand time are linked by the equation:\ncharge f low = current × time\nQ = I t\ncharge flow, Q, in coulombs, C\ncurrent, I, in amperes, A (amp is acceptable for ampere)\ntime, t, in seconds, s\nA current has the same value at any point in a single closed loop.\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\nrecall and apply this\nequation.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.3",
+                  "title": "Current, resistance and potential difference",
+                  "level": 3,
+                  "content": "The current (I) through a component depends on both the\nresistance (R) of the component and the potential difference (V)\nacross the component. The greater the resistance of the component\nthe smaller the current for a given potential difference (pd) across\nthe component.\nQuestions will be set using the term potential difference. Students\nwill gain credit for the correct use of either potential difference or\nvoltage.\nCurrent, potential difference or resistance can be calculated using\nthe equation:\npotential di f f erence = current × resistance\nV = I R\npotential difference, V, in volts, V\ncurrent, I, in amperes, A (amp is acceptable for ampere)\nresistance, R, in ohms, Ω\nRequired practical activity 3: Use circuit diagrams to set up and check appropriate circuits to\ninvestigate the factors affecting the resistance of electrical circuits. This should include:\n- the length of a wire at constant temperature\n- combinations of resistors in series and parallel.\nAT skills covered by this practical activity: AT 1, 6 and 7.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 91).\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\nrecall and apply this\nequation.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.4",
+                  "title": "Resistors",
+                  "level": 3,
+                  "content": "Students should be able to explain that, for some resistors, the\nvalue of R remains constant but that in others it can change as the\ncurrent changes.\nThe current through an ohmic conductor (at a constant\ntemperature) is directly proportional to the potential difference\nacross the resistor. This means that the resistance remains\nconstant as the current changes.\nThe resistance of components such as lamps, diodes, thermistors\nand LDRs is not constant; it changes with the current through the\ncomponent.\nThe resistance of a filament lamp increases as the temperature of\nthe filament increases.\nThe current through a diode flows in one direction only. The diode\nhas a very high resistance in the reverse direction.\nKey opportunities for\nskills development\nThe resistance of a thermistor decreases as the temperature\nincreases.\nThe applications of thermistors in circuits eg a thermostat is\nrequired.\nThe resistance of an LDR decreases as light intensity increases.\nThe application of LDRs in circuits eg switching lights on when it\ngets dark is required.\nStudents should be able to:\n- explain the design and use of a circuit to measure the\nresistance of a component by measuring the current through,\nand potential difference across, the component\n- draw an appropriate circuit diagram using correct circuit\nsymbols.\nStudents should be able to use graphs to explore whether circuit\nelements are linear or non-linear and relate the curves produced to\ntheir function and properties.\nRequired practical activity 4: use circuit diagrams to construct appropriate circuits to investigate\nthe I–V characteristics of a variety of circuit elements, including a filament lamp, a diode and a\nresistor at constant temperature.\nAT skills covered by this practical activity: AT 6 and 7.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 93).\nKey opportunities for\nskills development\nWS 1.2, 1.4\nAT 6\nInvestigate the relationship\nbetween the resistance of a\nthermistor and temperature.\nInvestigate the relationship\nbetween the resistance of\nan LDR and light intensity.\nWS 1.2, 1.4\nMS 4c, d, e",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.2",
+              "title": "Series and parallel circuits",
+              "level": 2,
+              "content": "There are two ways of joining electrical components, in series and\nin parallel. Some circuits include both series and parallel parts.\nFor components connected in series:\n- there is the same current through each component\n- the total potential difference of the power supply is shared\nbetween the components\n- the total resistance of two components is the sum of the\nresistance of each component.\nKey opportunities for\nskills development\nRtotal = R1 + R2\nresistance, R, in ohms, Ω\nFor components connected in parallel:\n- the potential difference across each component is the same\n- the total current through the whole circuit is the sum of the\ncurrents through the separate components\n- the total resistance of two resistors is less than the resistance\nof the smallest individual resistor.\nStudents should be able to:\n- use circuit diagrams to construct and check series and\nparallel circuits that include a variety of common circuit\ncomponents\n- describe the difference between series and parallel circuits\n- explain qualitatively why adding resistors in series increases\nthe total resistance whilst adding resistors in parallel\ndecreases the total resistance\n- explain the design and use of dc series circuits for\nmeasurement and testing purposes\n- calculate the currents, potential differences and resistances in\ndc series circuits\n- solve problems for circuits which include resistors in series\nusing the concept of equivalent resistance.\nStudents are not required to calculate the total resistance of two\nresistors joined in parallel.\nKey opportunities for\nskills development\nMS 1c, 3b, 3c, 3d\nAT 7\nWS 1.4\nMS 1c, 3b, c, d",
+              "children": []
+            },
+            {
+              "code": "4.2.3",
+              "title": "Domestic uses and safety",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.3.1",
+                  "title": "Direct and alternating potential difference",
+                  "level": 3,
+                  "content": "Mains electricity is an ac supply. In the United Kingdom the\ndomestic electricity supply has a frequency of 50 Hz and is about\n230 V.\nStudents should be able to explain the difference between direct\nand alternating potential difference.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.2.3.2",
+                  "title": "Mains electricity",
+                  "level": 3,
+                  "content": "Most electrical appliances are connected to the mains using three-\ncore cable.\nThe insulation covering each wire is colour coded for easy\nidentification:\nlive wire – brown\nneutral wire – blue\nearth wire – green and yellow stripes.\nThe live wire carries the alternating potential difference from the\nsupply. The neutral wire completes the circuit. The earth wire is a\nsafety wire to stop the appliance becoming live.\nThe potential difference between the live wire and earth (0 V) is\nabout 230 V. The neutral wire is at, or close to, earth potential (0 V).\nThe earth wire is at 0 V, it only carries a current if there is a fault.\nStudents should be able to explain:\n- that a live wire may be dangerous even when a switch in the\nmains circuit is open\n- the dangers of providing any connection between the live wire\nand earth.\nKey opportunities for\nskills development\nWS 1.5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.4",
+              "title": "Energy transfers",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.4.1",
+                  "title": "Power",
+                  "level": 3,
+                  "content": "Students should be able to explain how the power transfer in any\ncircuit device is related to the potential difference across it and the\ncurrent through it, and to the energy changes over time:\npower = potential di f f erence × current\nP = V I\ncurrent 2 × resistance\npower =\nP = I2 R\npower, P, in watts, W\npotential difference, V, in volts, V\ncurrent, I, in amperes, A (amp is acceptable for ampere)\nresistance, R, in ohms, Ω\nKey opportunities for\nskills development\nMS 3b, c\nWS 4.5\nStudents should be able to\nrecall and apply both\nequations.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.4.2",
+                  "title": "Energy transfers in everyday appliances",
+                  "level": 3,
+                  "content": "Everyday electrical appliances are designed to bring about energy\ntransfers.\nThe amount of energy an appliance transfers depends on how long\nthe appliance is switched on for and the power of the appliance.\nStudents should be able to describe how different domestic\nappliances transfer energy from batteries or ac mains to the kinetic\nenergy of electric motors or the energy of heating devices.\nWork is done when charge flows in a circuit.\nThe amount of energy transferred by electrical work can be\ncalculated using the equation:\nenergy trans f erred = power × time\nE = P t\nenergy trans f erred = charge f low × potential di f f erence\nE = Q V\nenergy transferred, E, in joules, J\npower, P, in watts, W\ntime, t, in seconds, s\ncharge flow, Q, in coulombs, C\npotential difference, V, in volts, V\nStudents should be able to explain how the power of a circuit device\nis related to:\n- the potential difference across it and the current through it\n- the energy transferred over a given time.\nStudents should be able to describe, with examples, the\nrelationship between the power ratings for domestic electrical\nappliances and the changes in stored energy when they are in use.\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\nrecall and apply both\nequations.\nWS 1.4\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.2.4.3",
+                  "title": "The National Grid",
+                  "level": 3,
+                  "content": "The National Grid is a system of cables and transformers linking\npower stations to consumers.\nKey opportunities for\nskills development\nElectrical power is transferred from power stations to consumers\nusing the National Grid.\nStep-up transformers are used to increase the potential difference\nfrom the power station to the transmission cables then step-down\ntransformers are used to decrease, to a much lower value, the\npotential difference for domestic use.\nStudents should be able to explain why the National Grid system is\nan efficient way to transfer energy.\nKey opportunities for\nskills development\nThe construction and\noperation of transformers is\ncovered Transformers (HT\nonly) (page 72).\nWS 1.4",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.5",
+              "title": "Static electricity (physics only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.5.1",
+                  "title": "Static charge",
+                  "level": 3,
+                  "content": "When certain insulating materials are rubbed against each other\nthey become electrically charged. Negatively charged electrons are\nrubbed off one material and on to the other. The material that gains\nelectrons becomes negatively charged. The material that loses\nelectrons is left with an equal positive charge.\nWhen two electrically charged objects are brought close together\nthey exert a force on each other. Two objects that carry the same\ntype of charge repel. Two objects that carry different types of\ncharge attract. Attraction and repulsion between two charged\nobjects are examples of non-contact force.\nStudents should be able to:\n- describe the production of static electricity, and sparking, by\nrubbing surfaces\n- describe evidence that charged objects exert forces of\nattraction or repulsion on one another when not in contact\n- explain how the transfer of electrons between objects can\nexplain the phenomena of static electricity.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.2.5.2",
+                  "title": "Electric fields",
+                  "level": 3,
+                  "content": "A charged object creates an electric field around itself. The electric\nfield is strongest close to the charged object. The further away from\nthe charged object, the weaker the field.\nA second charged object placed in the field experiences a force.\nThe force gets stronger as the distance between the objects\ndecreases.\nStudents should be able to:\n- draw the electric field pattern for an isolated charged sphere\n- explain the concept of an electric field\n- explain how the concept of an electric field helps to explain\nthe non-contact force between charged objects as well as\nother electrostatic phenomena such as sparking.\nKey opportunities for\nskills development\nWS 1.2, 1.5",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.3",
+          "title": "Particle model of matter",
+          "level": 1,
+          "content": "The particle model is widely used to predict the behaviour of solids, liquids and gases and this has\nmany applications in everyday life. It helps us to explain a wide range of observations and\nengineers use these principles when designing vessels to withstand high pressures and\ntemperatures, such as submarines and spacecraft. It also explains why it is difficult to make a good\ncup of tea high up a mountain!",
+          "children": [
+            {
+              "code": "4.3.1",
+              "title": "Changes of state and the particle model",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.1.1",
+                  "title": "Density of materials",
+                  "level": 3,
+                  "content": "The density of a material is defined by the equation:\ndensity = mass\nρ = m\ndensity, ρ, in kilograms per metre cubed, kg/m3\nmass, m, in kilograms, kg\nvolume, V, in metres cubed, m3\nThe particle model can be used to explain\n- the different states of matter\n- differences in density.\nKey opportunities for\nskills development\nMS 1a, b, c, 3b, c\nStudents should be able to\nrecall and apply this\nequation to changes where\nmass is conserved.\nStudents should be able to recognise/draw simple diagrams to\nmodel the difference between solids, liquids and gases.\nStudents should be able to explain the differences in density\nbetween the different states of matter in terms of the arrangement\nof atoms or molecules.\nRequired practical activity 5: use appropriate apparatus to make and record the measurements\nneeded to determine the densities of regular and irregular solid objects and liquids. Volume should\nbe determined from the dimensions of regularly shaped objects, and by a displacement technique\nfor irregularly shaped objects. Dimensions to be measured using appropriate apparatus such as a\nruler, micrometer or Vernier callipers.\nAT skills covered by this practical activity: AT 1.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 94).\nKey opportunities for\nskills development\nWS 1.2\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.3.1.2",
+                  "title": "Changes of state",
+                  "level": 3,
+                  "content": "Students should be able to describe how, when substances change\nstate (melt, freeze, boil, evaporate, condense or sublimate), mass is\nconserved.\nChanges of state are physical changes which differ from chemical\nchanges because the material recovers its original properties if the\nchange is reversed.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.2",
+              "title": "Internal energy and energy transfers",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.2.1",
+                  "title": "Internal energy",
+                  "level": 3,
+                  "content": "Energy is stored inside a system by the particles (atoms and\nmolecules) that make up the system. This is called internal energy.\nInternal energy is the total kinetic energy and potential energy of all\nthe particles (atoms and molecules) that make up a system.\nHeating changes the energy stored within the system by increasing\nthe energy of the particles that make up the system. This either\nraises the temperature of the system or produces a change of state.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.3.2.2",
+                  "title": "Temperature changes in a system and specific heat capacity",
+                  "level": 3,
+                  "content": "If the temperature of the system increases, the increase in\ntemperature depends on the mass of the substance heated, the\ntype of material and the energy input to the system.\nThe following equation applies:\nchange in thermal energy = mass × speci f ic heat capacity\n× temperature change\n∆E = m c ∆θ\nchange in thermal energy, ∆E, in joules, J\nmass, m, in kilograms, kg\nspecific heat capacity, c, in joules per kilogram per degree Celsius,\nJ/kg °C\ntemperature change, ∆θ, in degrees Celsius, °C.\nThe specific heat capacity of a substance is the amount of energy\nrequired to raise the temperature of one kilogram of the substance\nby one degree Celsius.\nKey opportunities for\nskills development\nMS 1a, 3b, c, d\nStudents should be able to\napply this equation, which is\ngiven on the Physics\nequation sheet, to calculate\nthe energy change involved\nwhen the temperature of a\nmaterial changes.\nThis equation and specific\nheat capacity are also\nincluded in Energy changes\nin systems (page 19).",
+                  "children": []
+                },
+                {
+                  "code": "4.3.2.3",
+                  "title": "Changes of state and specific latent heat",
+                  "level": 3,
+                  "content": "If a change of state happens:\nThe energy needed for a substance to change state is called latent\nheat. When a change of state occurs, the energy supplied changes\nthe energy stored (internal energy) but not the temperature.\nThe specific latent heat of a substance is the amount of energy\nrequired to change the state of one kilogram of the substance with\nno change in temperature.\nKey opportunities for\nskills development\nenergy f or a change o f state = mass × speci f ic latent heat\nE = m L\nenergy, E, in joules, J\nmass, m, in kilograms, kg\nspecific latent heat, L, in joules per kilogram, J/kg\nSpecific latent heat of fusion – change of state from solid to liquid\nSpecific latent heat of vaporisation – change of state from liquid to\nvapour\nStudents should be able to interpret heating and cooling graphs that\ninclude changes of state.\nStudents should be able to distinguish between specific heat\ncapacity and specific latent heat.\nKey opportunities for\nskills development\nMS 1a, 3b, c, d\nStudents should be able to\napply this equation, which is\ngiven on the Physics\nequation sheet, to calculate\nthe energy change involved\nin a change of state.\nMS 4a\nAT 5\nPerform an experiment to\nmeasure the latent heat of\nfusion of water.\nWS 3.5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.3.3",
+              "title": "Particle model and pressure",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.3.3.1",
+                  "title": "Particle motion in gases",
+                  "level": 3,
+                  "content": "The molecules of a gas are in constant random motion. The\ntemperature of the gas is related to the average kinetic energy of\nthe molecules.\nChanging the temperature of a gas, held at constant volume,\nchanges the pressure exerted by the gas.\nStudents should be able to:\n- explain how the motion of the molecules in a gas is related to\nboth its temperature and its pressure\n- explain qualitatively the relation between the temperature of a\ngas and its pressure at constant volume.\nKey opportunities for\nskills development\nWS 1.2\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.3.3.2",
+                  "title": "Pressure in gases (physics only)",
+                  "level": 3,
+                  "content": "A gas can be compressed or expanded by pressure changes. The\npressure produces a net force at right angles to the wall of the gas\ncontainer (or any surface).\nStudents should be able to use the particle model to explain how\nincreasing the volume in which a gas is contained, at constant\ntemperature, can lead to a decrease in pressure.\nFor a fixed mass of gas held at a constant temperature:\npressure × volume = constant\np V = constant\npressure, p, in pascals, Pa\nvolume, V, in metres cubed, m3\nStudents should be able to calculate the change in the pressure of\na gas or the volume of a gas (a fixed mass held at constant\ntemperature) when either the pressure or volume is increased or\ndecreased.\nKey opportunities for\nskills development\nWS 1.2\nMS 3b, c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.",
+                  "children": []
+                },
+                {
+                  "code": "4.3.3.3",
+                  "title": "Increasing the pressure of a gas (physics only) (HT only)",
+                  "level": 3,
+                  "content": "Work is the transfer of energy by a force.\nDoing work on a gas increases the internal energy of the gas and\ncan cause an increase in the temperature of the gas.\nStudents should be able to explain how, in a given situation eg a\nbicycle pump, doing work on an enclosed gas leads to an increase\nin the temperature of the gas.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.4",
+          "title": "Atomic structure",
+          "level": 1,
+          "content": "Ionising radiation is hazardous but can be very useful. Although radioactivity was discovered over\na century ago, it took many nuclear physicists several decades to understand the structure of\natoms, nuclear forces and stability. Early researchers suffered from their exposure to ionising\nradiation. Rules for radiological protection were first introduced in the 1930s and subsequently\nimproved. Today radioactive materials are widely used in medicine, industry, agriculture and\nelectrical power generation.",
+          "children": [
+            {
+              "code": "4.4.1",
+              "title": "Atoms and isotopes",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.1.1",
+                  "title": "The structure of an atom",
+                  "level": 3,
+                  "content": "Atoms are very small, having a radius of about 1 × 10-10 metres.\nThe basic structure of an atom is a positively charged nucleus\ncomposed of both protons and neutrons surrounded by negatively\ncharged electrons.\nThe radius of a nucleus is less than 1/10 000 of the radius of an\natom. Most of the mass of an atom is concentrated in the nucleus.\nThe electrons are arranged at different distances from the nucleus\n(different energy levels). The electron arrangements may change\nwith the absorption of electromagnetic radiation (move further from\nthe nucleus; a higher energy level) or by the emission of\nelectromagnetic radiation (move closer to the nucleus; a lower\nenergy level).\nKey opportunities for\nskills development\nMS 1b\nWS 4.4\nStudents should be able to\nrecognise expressions\ngiven in standard form.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.2",
+                  "title": "Mass number, atomic number and isotopes",
+                  "level": 3,
+                  "content": "In an atom the number of electrons is equal to the number of\nprotons in the nucleus. Atoms have no overall electrical charge.\nAll atoms of a particular element have the same number of protons.\nThe number of protons in an atom of an element is called its atomic\nnumber.\nThe total number of protons and neutrons in an atom is called its\nmass number.\nAtoms can be represented as shown in this example:\nAtoms of the same element can have different numbers of\nneutrons; these atoms are called isotopes of that element.\nAtoms turn into positive ions if they lose one or more outer\nelectron(s).\nStudents should be able to relate differences between isotopes to\ndifferences in conventional representations of their identities,\ncharges and masses.\nKey opportunities for\nskills development\nWS 4.1",
+                  "children": []
+                },
+                {
+                  "code": "4.4.1.3",
+                  "title": "The development of the model of the atom (common content with chemistry)",
+                  "level": 3,
+                  "content": "New experimental evidence may lead to a scientific model being\nchanged or replaced.\nBefore the discovery of the electron, atoms were thought to be tiny\nspheres that could not be divided.\nThe discovery of the electron led to the plum pudding model of the\natom. The plum pudding model suggested that the atom is a ball of\npositive charge with negative electrons embedded in it.\nThe results from the alpha particle scattering experiment led to the\nconclusion that the mass of an atom was concentrated at the centre\n(nucleus) and that the nucleus was charged. This nuclear model\nreplaced the plum pudding model.\nNiels Bohr adapted the nuclear model by suggesting that electrons\norbit the nucleus at specific distances. The theoretical calculations\nof Bohr agreed with experimental observations.\nLater experiments led to the idea that the positive charge of any\nnucleus could be subdivided into a whole number of smaller\nparticles, each particle having the same amount of positive charge.\nThe name proton was given to these particles.\nThe experimental work of James Chadwick provided the evidence\nto show the existence of neutrons within the nucleus. This was\nabout 20 years after the nucleus became an accepted scientific\nidea.\nStudents should be able to describe:\n- why the new evidence from the scattering experiment led to a\nchange in the atomic model\n- the difference between the plum pudding model of the atom\nand the nuclear model of the atom.\nDetails of experimental work supporting the Bohr model are not\nrequired.\nDetails of Chadwick’s experimental work are not required.\nKey opportunities for\nskills development\nWS 1.1, 1.6\nThis historical context\nprovides an opportunity for\nstudents to show an\nunderstanding of why and\ndescribe how scientific\nmethods and theories\ndevelop over time.\nWS 1.2\nWS 1.1\nWS 1.2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.2",
+              "title": "Atoms and nuclear radiation",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.2.1",
+                  "title": "Radioactive decay and nuclear radiation",
+                  "level": 3,
+                  "content": "Some atomic nuclei are unstable. The nucleus gives out radiation\nas it changes to become more stable. This is a random process\ncalled radioactive decay.\nActivity is the rate at which a source of unstable nuclei decays.\nActivity is measured in becquerel (Bq)\nCount-rate is the number of decays recorded each second by a\ndetector (eg Geiger-Muller tube).\nThe nuclear radiation emitted may be:\n- an alpha particle (α) – this consists of two neutrons and two\nprotons, it is the same as a helium nucleus\n- a beta particle (β) – a high speed electron ejected from the\nnucleus as a neutron turns into a proton\n- a gamma ray (γ) – electromagnetic radiation from the nucleus\n- a neutron (n).\nRequired knowledge of the properties of alpha particles, beta\nparticles and gamma rays is limited to their penetration through\nmaterials, their range in air and ionising power.\nStudents should be able to apply their knowledge to the uses of\nradiation and evaluate the best sources of radiation to use in a\ngiven situation.\nKey opportunities for\nskills development\nWS 1.4, 1.5",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.2",
+                  "title": "Nuclear equations",
+                  "level": 3,
+                  "content": "Nuclear equations are used to represent radioactive decay.\nIn a nuclear equation an alpha particle may be represented by the\nsymbol:\nand a beta particle by the symbol:\nThe emission of the different types of nuclear radiation may cause a\nchange in the mass and /or the charge of the nucleus. For example:\nSo alpha decay causes both the mass and charge of the nucleus to\ndecrease.\nSo beta decay does not cause the mass of the nucleus to change\nbut does cause the charge of the nucleus to increase.\nStudents are not required to recall these two examples.\nStudents should be able to use the names and symbols of common\nnuclei and particles to write balanced equations that show single\nalpha (α) and beta (β) decay. This is limited to balancing the atomic\nnumbers and mass numbers. The identification of daughter\nelements from such decays is not required.\nThe emission of a gamma ray does not cause the mass or the\ncharge of the nucleus to change.\nKey opportunities for\nskills development\nWS 1.2, 4.1\nMS 1b, c, 3c",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.3",
+                  "title": "Half-lives and the random nature of radioactive decay",
+                  "level": 3,
+                  "content": "Radioactive decay is random.\nThe half-life of a radioactive isotope is the time it takes for the\nnumber of nuclei of the isotope in a sample to halve, or the time it\ntakes for the count rate (or activity) from a sample containing the\nisotope to fall to half its initial level.\nKey opportunities for\nskills development\nStudents should be able to explain the concept of half-life and how\nit is related to the random nature of radioactive decay.\nStudents should be able to determine the half-life of a radioactive\nisotope from given information.\n(HT only) Students should be able to calculate the net decline,\nexpressed as a ratio, in a radioactive emission after a given number\nof half-lives.\nKey opportunities for\nskills development\nWS 1.2\nMS 4a\n(HT only) MS 1c, 3d",
+                  "children": []
+                },
+                {
+                  "code": "4.4.2.4",
+                  "title": "Radioactive contamination",
+                  "level": 3,
+                  "content": "Radioactive contamination is the unwanted presence of materials\ncontaining radioactive atoms on other materials. The hazard from\ncontamination is due to the decay of the contaminating atoms. The\ntype of radiation emitted affects the level of hazard.\nIrradiation is the process of exposing an object to nuclear radiation.\nThe irradiated object does not become radioactive.\nStudents should be able to compare the hazards associated with\ncontamination and irradiation.\nSuitable precautions must be taken to protect against any hazard\nthat the radioactive source used in the process of irradiation may\npresent.\nStudents should understand that it is important for the findings of\nstudies into the effects of radiation on humans to be published and\nshared with other scientists so that the findings can be checked by\npeer review.\nKey opportunities for\nskills development\nWS 1.5\nWS 1.5\nWS 1.5\nWS 1.6",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.3",
+              "title": "Hazards and uses of radioactive emissions and of background radiation (physics only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.3.1",
+                  "title": "Background radiation",
+                  "level": 3,
+                  "content": "Background radiation is around us all of the time. It comes from:\n- natural sources such as rocks and cosmic rays from space\n- man-made sources such as the fallout from nuclear weapons\ntesting and nuclear accidents.\nThe level of background radiation and radiation dose may be\naffected by occupation and/or location.\nRadiation dose is measured in sieverts (Sv)\n1000 millisieverts (mSv) = 1 sievert (Sv)\nStudents will not need to recall the unit of radiation dose.\nKey opportunities for\nskills development\nWS 4.4",
+                  "children": []
+                },
+                {
+                  "code": "4.4.3.2",
+                  "title": "Different half-lives of radioactive isotopes",
+                  "level": 3,
+                  "content": "Radioactive isotopes have a very wide range of half-life values.\nStudents should be able to explain why the hazards associated with\nradioactive material differ according to the half-life involved.\nKey opportunities for\nskills development\nMS 1b\nStudents should be able to\nuse data presented in\nstandard form.",
+                  "children": []
+                },
+                {
+                  "code": "4.4.3.3",
+                  "title": "Uses of nuclear radiation",
+                  "level": 3,
+                  "content": "Nuclear radiations are used in medicine for the:\n- exploration of internal organs\n- control or destruction of unwanted tissue.\nStudents should be able to:\n- describe and evaluate the uses of nuclear radiations for\nexploration of internal organs, and for control or destruction of\nunwanted tissue\n- evaluate the perceived risks of using nuclear radiations in\nrelation to given data and consequences.\nKey opportunities for\nskills development\nWS 1.4\nWS 1.5",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.4.4",
+              "title": "Nuclear fission and fusion (physics only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.4.4.1",
+                  "title": "Nuclear fission",
+                  "level": 3,
+                  "content": "Nuclear fission is the splitting of a large and unstable nucleus (eg\nuranium or plutonium).\nSpontaneous fission is rare. Usually, for fission to occur the\nunstable nucleus must first absorb a neutron.\nThe nucleus undergoing fission splits into two smaller nuclei,\nroughly equal in size, and emits two or three neutrons plus gamma\nrays. Energy is released by the fission reaction.\nAll of the fission products have kinetic energy.\nThe neutrons may go on to start a chain reaction.\nThe chain reaction is controlled in a nuclear reactor to control the\nenergy released. The explosion caused by a nuclear weapon is\ncaused by an uncontrolled chain reaction.\nStudents should be able to draw/interpret diagrams representing\nnuclear fission and how a chain reaction may occur.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.4.4.2",
+                  "title": "Nuclear fusion",
+                  "level": 3,
+                  "content": "Nuclear fusion is the joining of two light nuclei to form a heavier\nnucleus. In this process some of the mass may be converted into\nthe energy of radiation.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.5",
+          "title": "Forces",
+          "level": 1,
+          "content": "Engineers analyse forces when designing a great variety of machines and instruments, from road\nbridges and fairground rides to atomic force microscopes. Anything mechanical can be analysed in\nthis way. Recent developments in artificial limbs use the analysis of forces to make movement\npossible.",
+          "children": [
+            {
+              "code": "4.5.1",
+              "title": "Forces and their interactions",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.1.1",
+                  "title": "Scalar and vector quantities",
+                  "level": 3,
+                  "content": "Scalar quantities have magnitude only.\nVector quantities have magnitude and an associated direction.\nA vector quantity may be represented by an arrow. The length of\nthe arrow represents the magnitude, and the direction of the arrow\nthe direction of the vector quantity.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.2",
+                  "title": "Contact and non-contact forces",
+                  "level": 3,
+                  "content": "A force is a push or pull that acts on an object due to the interaction\nwith another object. All forces between objects are either:\n- contact forces – the objects are physically touching\n- non-contact forces – the objects are physically separated.\nExamples of contact forces include friction, air resistance, tension\nand normal contact force.\nExamples of non-contact forces are gravitational force, electrostatic\nforce and magnetic force.\nForce is a vector quantity.\nStudents should be able to describe the interaction between pairs\nof objects which produce a force on each object. The forces to be\nrepresented as vectors.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.3",
+                  "title": "Gravity",
+                  "level": 3,
+                  "content": "Weight is the force acting on an object due to gravity. The force of\ngravity close to the Earth is due to the gravitational field around the\nEarth.\nThe weight of an object depends on the gravitational field strength\nat the point where the object is.\nKey opportunities for\nskills development\nThe weight of an object can be calculated using the equation:\nweight = mass × gravitational field strength\nW = m g\nweight, W, in newtons, N\nmass, m, in kilograms, kg\ngravitational field strength, g, in newtons per kilogram, N/kg (In any\ncalculation the value of the gravitational field strength (g) will be\ngiven.)\nThe weight of an object may be considered to act at a single point\nreferred to as the object’s ‘centre of mass’.\nThe weight of an object and the mass of an object are directly\nproportional.\nWeight is measured using a calibrated spring-balance (a\nnewtonmeter).\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\nrecall and apply this\nequation.\nMS 3a\nStudents should recognise\nand be able to use the\nsymbol for proportionality, ∝",
+                  "children": []
+                },
+                {
+                  "code": "4.5.1.4",
+                  "title": "Resultant forces",
+                  "level": 3,
+                  "content": "A number of forces acting on an object may be replaced by a single\nforce that has the same effect as all the original forces acting\ntogether. This single force is called the resultant force.\nStudents should be able to calculate the resultant of two forces that\nact in a straight line.\n(HT only) Students should be able to:\n- describe examples of the forces acting on an isolated object\nor system\n- use free body diagrams to describe qualitatively examples\nwhere several forces lead to a resultant force on an object,\nincluding balanced forces when the resultant force is zero.\n(HT only) A single force can be resolved into two components\nacting at right angles to each other. The two component forces\ntogether have the same effect as the single force.\n(HT only) Students should be able to use vector diagrams to\nillustrate resolution of forces, equilibrium situations and determine\nthe resultant of two forces, to include both magnitude and direction\n(scale drawings only).\nKey opportunities for\nskills development\nWS 1.2\nMS 4a, 5a, b",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.2",
+              "title": "Work done and energy transfer",
+              "level": 2,
+              "content": "When a force causes an object to move through a distance work is\ndone on the object. So a force does work on an object when the\nforce causes a displacement of the object.\nThe work done by a force on an object can be calculated using the\nequation:\nwork done = force × distance\nmoved along the line of action of the force\nW = F s\nwork done, W, in joules, J\nforce, F, in newtons, N\ndistance, s, in metres\nOne joule of work is done when a force of one newton causes a\ndisplacement of one metre.\n1 joule = 1 newton-metre\nStudents should be able to describe the energy transfer involved\nwhen work is done.\nStudents should be able to convert between newton-metres and\njoules.\nWork done against the frictional forces acting on an object causes a\nrise in the temperature of the object.\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\nrecall and apply this\nequation.\nWS 4.5\nMS 1c\nWS 4.5",
+              "children": []
+            },
+            {
+              "code": "4.5.3",
+              "title": "Forces and elasticity",
+              "level": 2,
+              "content": "Students should be able to:\n- give examples of the forces involved in stretching, bending or\ncompressing an object\n- explain why, to change the shape of an object (by stretching,\nbending or compressing), more than one force has to be\napplied – this is limited to stationary objects only\n- describe the difference between elastic deformation and\ninelastic deformation caused by stretching forces.\nThe extension of an elastic object, such as a spring, is directly\nproportional to the force applied, provided that the limit of\nproportionality is not exceeded.\nKey opportunities for\nskills development\nf orce = spring constant × extension\nF = k e\nforce, F, in newtons, N\nspring constant, k, in newtons per metre, N/m\nextension, e, in metres, m\nThis relationship also applies to the compression of an elastic\nobject, where ‘e’ would be the compression of the object.\nA force that stretches (or compresses) a spring does work and\nelastic potential energy is stored in the spring. Provided the spring\nis not inelastically deformed, the work done on the spring and the\nelastic potential energy stored are equal.\nStudents should be able to:\n- describe the difference between a linear and non-linear\nrelationship between force and extension\n- calculate a spring constant in linear cases\n- interpret data from an investigation of the relationship\nbetween force and extension\n- calculate work done in stretching (or compressing) a spring\n(up to the limit of proportionality) using the equation:\nelastic potential energy = 0.5 × spring constant × extension 2\n2 k e2\nEe = 1\nStudents should be able to calculate relevant values of stored\nenergy and energy transfers.\nRequired practical activity 6: investigate the relationship between force and extension for a\nspring.\nAT skills covered by this practical activity: AT 1 and 2.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 95).\nKey opportunities for\nskills development\nMS 3b, c, 4a\nStudents should be able to\nrecall and apply this\nequation.\nMS 3b, c, 4a\nWS 3.5\nMS 3c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.\nThis equation is also given\nin Changes in energy (page\n18).\nMS 3c",
+              "children": []
+            },
+            {
+              "code": "4.5.4",
+              "title": "Moments, levers and gears (physics only)",
+              "level": 2,
+              "content": "A force or a system of forces may cause an object to rotate.\nStudents should be able to describe examples in which forces\ncause rotation.\nThe turning effect of a force is called the moment of the force. The\nsize of the moment is defined by the equation:\nmoment o f a f orce = f orce × distance\nM = F d\nmoment of a force, M, in newton-metres, Nm\nforce, F, in newtons, N\ndistance, d, is the perpendicular distance from the pivot to the line\nof action of the force, in metres, m.\nIf an object is balanced, the total clockwise moment about a pivot\nequals the total anticlockwise moment about that pivot.\nStudents should be able to calculate the size of a force, or its\ndistance from a pivot, acting on an object that is balanced.\nA simple lever and a simple gear system can both be used to\ntransmit the rotational effects of forces.\nStudents should be able to explain how levers and gears transmit\nthe rotational effects of forces.\nKey opportunities for\nskills development\nMS 3c\nStudents should be able to\nrecall and apply this\nequation.",
+              "children": []
+            },
+            {
+              "code": "4.5.5",
+              "title": "Pressure and pressure differences in fluids (physics only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.5.1",
+                  "title": "Pressure in a fluid",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "4.5.5.1.1",
+                      "title": "Pressure in a fluid 1",
+                      "level": 4,
+                      "content": "A fluid can be either a liquid or a gas.\nThe pressure in fluids causes a force normal (at right angles) to any\nsurface.\nThe pressure at the surface of a fluid can be calculated using the\nequation:\nKey opportunities for\nskills development\npressure = force normal to a surface\np = F\npressure, p, in pascals, Pa\nforce, F, in newtons, N\narea, A, in metres squared, m2\nKey opportunities for\nskills development\nMS 3b, c\nWS 4.3, 4.4, 4.5, 4.6\nStudents should be able to\nrecall and apply this\nequation.",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.5.1.2",
+                      "title": "Pressure in a fluid 2 (HT only)",
+                      "level": 4,
+                      "content": "The pressure due to a column of liquid can be calculated using the\nequation:\npressure = height of the column × density of the liquid\n× gravitational field strength\n[ p = h ρ g ]\npressure, p, in pascals, Pa\nheight of the column, h, in metres, m\ndensity, ρ, in kilograms per metre cubed, kg/m3\ngravitational field strength, g, in newtons per kilogram, N/kg (In any\ncalculation the value of the gravitational field strength (g) will be\ngiven.)\nStudents should be able to explain why, in a liquid, pressure at a\npoint increases with the height of the column of liquid above that\npoint and with the density of the liquid.\nStudents should be able to calculate the differences in pressure at\ndifferent depths in a liquid.\nA partially (or totally) submerged object experiences a greater\npressure on the bottom surface than on the top surface. This\ncreates a resultant force upwards. This force is called the upthrust.\nStudents should be able to describe the factors which influence\nfloating and sinking.\nKey opportunities for\nskills development\nMS 3b, 3c\nWS 4.3, 4.4, 4.5, 4.6\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.\nMS 1c, 3c",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "4.5.5.2",
+                  "title": "Atmospheric pressure",
+                  "level": 3,
+                  "content": "The atmosphere is a thin layer (relative to the size of the Earth) of\nair round the Earth. The atmosphere gets less dense with\nincreasing altitude.\nAir molecules colliding with a surface create atmospheric pressure.\nThe number of air molecules (and so the weight of air) above a\nsurface decreases as the height of the surface above ground level\nincreases. So as height increases there is always less air above a\nsurface than there is at a lower height. So atmospheric pressure\ndecreases with an increase in height.\nStudents should be able to:\n- describe a simple model of the Earth’s atmosphere and of\natmospheric pressure\n- explain why atmospheric pressure varies with height above a\nsurface.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.5.6",
+              "title": "Forces and motion",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.6.1",
+                  "title": "Describing motion along a line",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "4.5.6.1.1",
+                      "title": "Distance and displacement",
+                      "level": 4,
+                      "content": "Distance is how far an object moves. Distance does not involve\ndirection. Distance is a scalar quantity.\nDisplacement includes both the distance an object moves,\nmeasured in a straight line from the start point to the finish point\nand the direction of that straight line. Displacement is a vector\nquantity.\nStudents should be able to express a displacement in terms of both\nthe magnitude and direction.\nKey opportunities for\nskills development\nMS 1, 3c\nThroughout this section\n(Forces and motion),\nstudents should be able to\nuse ratios and proportional\nreasoning to convert units\nand to compute rates.",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.6.1.2",
+                      "title": "Speed",
+                      "level": 4,
+                      "content": "Speed does not involve direction. Speed is a scalar quantity.\nThe speed of a moving object is rarely constant. When people walk,\nrun or travel in a car their speed is constantly changing.\nThe speed at which a person can walk, run or cycle depends on\nmany factors including: age, terrain, fitness and distance travelled.\nTypical values may be taken as:\nwalking ̴ 1.5 m/s\nrunning ̴ 3 m/s\ncycling ̴ 6 m/s.\nStudents should be able to recall typical values of speed for a\nperson walking, running and cycling as well as the typical values of\nspeed for different types of transportation systems.\nIt is not only moving objects that have varying speed. The speed of\nsound and the speed of the wind also vary.\nA typical value for the speed of sound in air is 330 m/s.\nStudents should be able to make measurements of distance and\ntime and then calculate speeds of objects.\nFor an object moving at constant speed the distance travelled in a\nspecific time can be calculated using the equation:\ndistance travelled = speed × time\ns = v t\ndistance, s, in metres, m\nspeed, v, in metres per second, m/s\ntime, t, in seconds, s\nStudents should be able to calculate average speed for non-uniform\nmotion.\nKey opportunities for\nskills development\nMS 1a, c, 2f\nMS 3b, 3c\nStudents should be able to\nrecall and apply this\nequation.\nMS 3b, 3c",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.6.1.3",
+                      "title": "Velocity",
+                      "level": 4,
+                      "content": "The velocity of an object is its speed in a given direction. Velocity is\na vector quantity.\nStudents should be able to explain the vector–scalar distinction as it\napplies to displacement, distance, velocity and speed.\n(HT only) Students should be able to explain qualitatively, with\nexamples, that motion in a circle involves constant speed but\nchanging velocity.\nKey opportunities for\nskills development",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.6.1.4",
+                      "title": "The distance–time relationship",
+                      "level": 4,
+                      "content": "If an object moves along a straight line, the distance travelled can\nbe represented by a distance–time graph.\nThe speed of an object can be calculated from the gradient of its\ndistance–time graph.\n(HT only) If an object is accelerating, its speed at any particular time\ncan be determined by drawing a tangent and measuring the\ngradient of the distance–time graph at that time.\nStudents should be able to draw distance–time graphs from\nmeasurements and extract and interpret lines and slopes of\ndistance–time graphs, translating information between graphical\nand numerical form.\nStudents should be able to determine speed from a distance–time\ngraph.\nKey opportunities for\nskills development\nMS 4a, b, c, d, f",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.6.1.5",
+                      "title": "Acceleration",
+                      "level": 4,
+                      "content": "The average acceleration of an object can be calculated using the\nequation:\nKey opportunities for\nskills development\nacceleration = change in velocity\na = ∆v\nacceleration, a, in metres per second squared, m/s2\nchange in velocity, ∆v, in metres per second, m/s\ntime, t, in seconds, s\nAn object that slows down is decelerating.\nStudents should be able to estimate the magnitude of everyday\naccelerations.\nThe acceleration of an object can be calculated from the gradient of\na velocity–time graph.\n(HT only) The distance travelled by an object (or displacement of an\nobject) can be calculated from the area under a velocity–time\ngraph.\nStudents should be able to:\n- draw velocity–time graphs from measurements and interpret\nlines and slopes to determine acceleration\n- (HT only) interpret enclosed areas in velocity–time graphs to\ndetermine distance travelled (or displacement)\n- (HT only) measure, when appropriate, the area under a\nvelocity–time graph by counting squares.\nThe following equation applies to uniform acceleration:\nf inal velocity 2 −initial velocity 2 = 2 × acceleration × distance\nv2 − u2 = 2 a s\nfinal velocity, v, in metres per second, m/s\ninitial velocity, u, in metres per second, m/s\nacceleration, a, in metres per second squared, m/s2\ndistance, s, in metres, m\nNear the Earth’s surface any object falling freely under gravity has\nan acceleration of about 9.8 m/s2.\nAn object falling through a fluid initially accelerates due to the force\nof gravity. Eventually the resultant force will be zero and the object\nwill move at its terminal velocity.\n(Physics only) Students should be able to:\nKey opportunities for\nskills development\nMS 1d, 3b, 3c\nStudents should be able to\nrecall and apply this\nequation.\nMS 4a, b, c, d, f\nWS 3.3\nWS 3.3\nMS 3b, 3c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.\n- draw and interpret velocity–time graphs for objects that reach\nterminal velocity\n- interpret the changing motion in terms of the forces acting.\nKey opportunities for\nskills development\nWS 3.3, 3.5\nAT 1, 2\nInvestigation to measure\nthe effect of air resistance\non a falling object eg a\nmodel parachute.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "4.5.6.2",
+                  "title": "Forces, accelerations and Newton's Laws of motion",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "4.5.6.2.1",
+                      "title": "Newton's First Law",
+                      "level": 4,
+                      "content": "Newton’s First Law:\nIf the resultant force acting on an object is zero and:\n- the object is stationary, the object remains stationary\n- the object is moving, the object continues to move at the\nsame speed and in the same direction. So the object\ncontinues to move at the same velocity.\nSo, when a vehicle travels at a steady speed the resistive forces\nbalance the driving force.\nSo, the velocity (speed and/or direction) of an object will only\nchange if a resultant force is acting on the object.\nStudents should be able to apply Newton’s First Law to explain the\nmotion of objects moving with a uniform velocity and objects where\nthe speed and/or direction changes.\n(HT only) The tendency of objects to continue in their state of rest\nor of uniform motion is called inertia.\nKey opportunities for\nskills development",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.6.2.2",
+                      "title": "Newton's Second Law",
+                      "level": 4,
+                      "content": "Newton’s Second Law:\nThe acceleration of an object is proportional to the resultant force\nacting on the object, and inversely proportional to the mass of the\nobject.\nAs an equation:\nKey opportunities for\nskills development\nMS 3a\nStudents should recognise\nand be able to use the\nsymbol for proportionality, ∝\nresultant f orce = mass × acceleration\nF = m a\nforce, F, in newtons, N\nmass, m, in kilograms, kg\nacceleration, a, in metres per second squared, m/s2\n(HT only) Students should be able to explain that:\n- inertial mass is a measure of how difficult it is to change the\nvelocity of an object\n- inertial mass is defined as the ratio of force over acceleration.\nStudents should be able to estimate the speed, accelerations and\nforces involved in large accelerations for everyday road transport.\nStudents should recognise and be able to use the symbol that\nindicates an approximate value or approximate answer, ̴\nRequired practical activity 7: investigate the effect of varying the force on the acceleration of an\nobject of constant mass, and the effect of varying the mass of an object on the acceleration\nproduced by a constant force.\nAT skills covered by this practical activity: AT 1, 2 and 3.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 96).\nKey opportunities for\nskills development\nMS 3b, c\nWS 4.2\nStudents should be able to\nrecall and apply this\nequation.\nMS 3a\nMS 1d",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.6.2.3",
+                      "title": "Newton's Third Law",
+                      "level": 4,
+                      "content": "Newton’s Third Law:\nWhenever two objects interact, the forces they exert on each other\nare equal and opposite.\nStudents should be able to apply Newton’s Third Law to examples\nof equilibrium situations.\nKey opportunities for\nskills development\nWS 1.2",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "4.5.6.3",
+                  "title": "Forces and braking",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "4.5.6.3.1",
+                      "title": "Stopping distance",
+                      "level": 4,
+                      "content": "The stopping distance of a vehicle is the sum of the distance the\nvehicle travels during the driver’s reaction time (thinking distance)\nand the distance it travels under the braking force (braking\ndistance). For a given braking force the greater the speed of the\nvehicle, the greater the stopping distance.\n(Physics only) Students should be able to estimate how the\ndistance for a vehicle to make an emergency stop varies over a\nrange of speeds typical for that vehicle.\n(Physics only) Students will be required to interpret graphs relating\nspeed to stopping distance for a range of vehicles.\nKey opportunities for\nskills development\nWS 3.3",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.6.3.2",
+                      "title": "Reaction time",
+                      "level": 4,
+                      "content": "Reaction times vary from person to person. Typical values range\nfrom 0.2 s to 0.9 s.\nA driver’s reaction time can be affected by tiredness, drugs and\nalcohol. Distractions may also affect a driver’s ability to react.\nStudents should be able to:\n- explain methods used to measure human reaction times and\nrecall typical results\n- interpret and evaluate measurements from simple methods to\nmeasure the different reaction times of students\n- evaluate the effect of various factors on thinking distance\nbased on given data.\nKey opportunities for\nskills development\nWS 3.5, 3.7\nWS 1.5, 2.2\nMS 1a, c\nAT 1\nMeasure the effect of\ndistractions on reaction\ntime.",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.6.3.3",
+                      "title": "Factors affecting braking distance 1",
+                      "level": 4,
+                      "content": "The braking distance of a vehicle can be affected by adverse road\nand weather conditions and poor condition of the vehicle.\nAdverse road conditions include wet or icy conditions. Poor\ncondition of the vehicle is limited to the vehicle's brakes or tyres.\nStudents should be able to:\n- explain the factors which affect the distance required for road\ntransport vehicles to come to rest in emergencies, and the\nimplications for safety\n- estimate how the distance required for road vehicles to stop in\nan emergency varies over a range of typical speeds.\nKey opportunities for\nskills development\nMS 1c, 1d, 2c, 2d, 2f, 2h,\n3b, 3c",
+                      "children": []
+                    },
+                    {
+                      "code": "4.5.6.3.4",
+                      "title": "Factors affecting braking distance 2",
+                      "level": 4,
+                      "content": "When a force is applied to the brakes of a vehicle, work done by the\nfriction force between the brakes and the wheel reduces the kinetic\nenergy of the vehicle and the temperature of the brakes increases.\nThe greater the speed of a vehicle the greater the braking force\nneeded to stop the vehicle in a certain distance.\nThe greater the braking force the greater the deceleration of the\nvehicle. Large decelerations may lead to brakes overheating and/or\nloss of control.\nStudents should be able to:\n- explain the dangers caused by large decelerations\n- (HT only) estimate the forces involved in the deceleration of\nroad vehicles in typical situations on a public road.\nKey opportunities for\nskills development\nWS 1.5\n(HT only) MS 1d",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "4.5.7",
+              "title": "Momentum (HT only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.5.7.1",
+                  "title": "Momentum is a property of moving objects",
+                  "level": 3,
+                  "content": "Momentum is defined by the equation:\nmomentum = mass × velocity\np = m v\nmomentum, p, in kilograms metre per second, kg m/s\nmass, m, in kilograms, kg\nvelocity, v, in metres per second, m/s\nKey opportunities for\nskills development\nWS 1.2\nMS 3b, c\nStudents should be able to\nrecall and apply this\nequation.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.7.2",
+                  "title": "Conservation of momentum",
+                  "level": 3,
+                  "content": "In a closed system, the total momentum before an event is equal to\nthe total momentum after the event.\nThis is called conservation of momentum.\nStudents should be able to use the concept of momentum as a\nmodel to:\n- describe and explain examples of momentum in an event,\nsuch as a collision\n- (physics only) complete calculations involving an event, such\nas the collision of two objects.\nKey opportunities for\nskills development\nAT 1, 2, 3\nInvestigate collisions\nbetween laboratory trollies\nusing light gates, data\nloggers or ticker timers to\nmeasure and record data.",
+                  "children": []
+                },
+                {
+                  "code": "4.5.7.3",
+                  "title": "Changes in momentum (physics only)",
+                  "level": 3,
+                  "content": "When a force acts on an object that is moving, or able to move, a\nchange in momentum occurs.\nThe equations F = m × a and a = v −u\ncombine to give the equation F = m ∆v\nwhere m∆v = change in momentum\nie force equals the rate of change of momentum.\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nEquation sheet.\nStudents should be able to explain safety features such as: air\nbags, seat belts, gymnasium crash mats, cycle helmets and\ncushioned surfaces for playgrounds with reference to the concept of\nrate of change of momentum.\nStudents should be able to apply equations relating force, mass,\nvelocity and acceleration to explain how the changes involved are\ninter-related.\nKey opportunities for\nskills development\nWS 1.2, 4\nMS 3b, 3c, 3d",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.6",
+          "title": "Waves",
+          "level": 1,
+          "content": "Wave behaviour is common in both natural and man-made systems. Waves carry energy from one\nplace to another and can also carry information. Designing comfortable and safe structures such\nas bridges, houses and music performance halls requires an understanding of mechanical waves.\nModern technologies such as imaging and communication systems show how we can make the\nmost of electromagnetic waves.",
+          "children": [
+            {
+              "code": "4.6.1",
+              "title": "Waves in air, fluids and solids",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.1.1",
+                  "title": "Transverse and longitudinal waves",
+                  "level": 3,
+                  "content": "Waves may be either transverse or longitudinal.\nThe ripples on a water surface are an example of a transverse\nwave.\nLongitudinal waves show areas of compression and rarefaction.\nSound waves travelling through air are longitudinal.\nStudents should be able to describe the difference between\nlongitudinal and transverse waves.\nStudents should be able to describe evidence that, for both ripples\non a water surface and sound waves in air, it is the wave and not\nthe water or air itself that travels.\nKey opportunities for\nskills development\nWS 1.2\nWS 1.2, 2.2",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.2",
+                  "title": "Properties of waves",
+                  "level": 3,
+                  "content": "Students should be able to describe wave motion in terms of their\namplitude, wavelength, frequency and period.\nThe amplitude of a wave is the maximum displacement of a point\non a wave away from its undisturbed position.\nThe wavelength of a wave is the distance from a point on one wave\nto the equivalent point on the adjacent wave.\nThe frequency of a wave is the number of waves passing a point\neach second.\nperiod =\nT = 1\nperiod, T, in seconds, s\nfrequency, f, in hertz, Hz\nThe wave speed is the speed at which the energy is transferred (or\nthe wave moves) through the medium.\nAll waves obey the wave equation:\nwave speed = f requency × wavelength\nv = f λ\nwave speed, v, in metres per second, m/s\nfrequency, f, in hertz, Hz\nwavelength, λ, in metres, m\nStudents should be able to:\n- identify amplitude and wavelength from given diagrams\n- describe a method to measure the speed of sound waves in\nair\n- describe a method to measure the speed of ripples on a water\nsurface.\n(Physics only) Students should be able to show how changes in\nvelocity, frequency and wavelength, in transmission of sound waves\nfrom one medium to another, are inter-related.\nKey opportunities for\nskills development\nMS 1c, 3b, c\nMS 1c, 3b, c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.\nMS 1c, 3b, 3c\nStudents should be able to\nrecall and apply this\nequation.\nAT1\nWS 2.3, 2.4, 2.6, 2.7, 3.1,\n3.5\nAT1, AT4\nWS 2.3, 2.4, 2.6, 2.7, 3.1,\n3.5\n(Physics only) MS 1c, 3b,\n3c\nRequired practical activity 8: make observations to identify the suitability of apparatus to\nmeasure the frequency, wavelength and speed of waves in a ripple tank and waves in a solid and\ntake appropriate measurements.\nAT skills covered by this practical activity: AT 4.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 97).",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.3",
+                  "title": "Reflection of waves (physics only)",
+                  "level": 3,
+                  "content": "Waves can be reflected at the boundary between two different\nmaterials.\nWaves can be absorbed or transmitted at the boundary between\ntwo different materials.\nStudents should be able to construct ray diagrams to illustrate the\nreflection of a wave at a surface.\nStudents should be able to describe the effects of reflection,\ntransmission and absorption of waves at material interfaces.\nRequired practical activity 9 (physics only): investigate the reflection of light by different types\nof surface and the refraction of light by different substances.\nAT skills covered by this practical activity: AT 4 and 8.\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 98).\nKey opportunities for\nskills development\nMS 5a, 5c\nWS 1.2",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.4",
+                  "title": "Sound waves (physics only) (HT only)",
+                  "level": 3,
+                  "content": "Sound waves can travel through solids causing vibrations in the\nsolid.\nWithin the ear, sound waves cause the ear drum and other parts to\nvibrate which causes the sensation of sound. The conversion of\nsound waves to vibrations of solids works over a limited frequency\nrange. This restricts the limits of human hearing.\nStudents should be able to:\n- describe, with examples, processes which convert wave\ndisturbances between sound waves and vibrations in solids.\nExamples may include the effect of sound waves on the ear\ndrum\n- explain why such processes only work over a limited\nfrequency range and the relevance of this to human hearing.\nStudents should know that the range of normal human hearing is\nfrom 20 Hz to 20 kHz.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.6.1.5",
+                  "title": "Waves for detection and exploration (physics only) (HT only)",
+                  "level": 3,
+                  "content": "Students should be able to explain in qualitative terms, how the\ndifferences in velocity, absorption and reflection between different\ntypes of wave in solids and liquids can be used both for detection\nand exploration of structures which are hidden from direct\nobservation.\nUltrasound waves have a frequency higher than the upper limit of\nhearing for humans. Ultrasound waves are partially reflected when\nthey meet a boundary between two different media. The time taken\nfor the reflections to reach a detector can be used to determine how\nfar away such a boundary is. This allows ultrasound waves to be\nused for both medical and industrial imaging.\nSeismic waves are produced by earthquakes. P-waves are\nlongitudinal, seismic waves. P-waves travel at different speeds\nthrough solids and liquids. S-waves are transverse, seismic waves.\nS-waves cannot travel through a liquid. P-waves and S-waves\nprovide evidence for the structure and size of the Earth’s core.\nEcho sounding, using high frequency sound waves is used to\ndetect objects in deep water and measure water depth.\nStudents should be aware that the study of seismic waves provided\nnew evidence that led to discoveries about parts of the Earth which\nare not directly observable.\nKey opportunities for\nskills development\nWS 1.4\nWS 1.1",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.2",
+              "title": "Electromagnetic waves",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.2.1",
+                  "title": "Types of electromagnetic waves",
+                  "level": 3,
+                  "content": "Electromagnetic waves are transverse waves that transfer energy\nfrom the source of the waves to an absorber.\nElectromagnetic waves form a continuous spectrum and all types of\nelectromagnetic wave travel at the same velocity through a vacuum\n(space) or air.\nThe waves that form the electromagnetic spectrum are grouped in\nterms of their wavelength and their frequency. Going from long to\nshort wavelength (or from low to high frequency) the groups are:\nradio, microwave, infrared, visible light (red to violet), ultraviolet, X-\nrays and gamma rays.\nOur eyes only detect visible light and so detect a limited range of\nelectromagnetic waves.\nStudents should be able to give examples that illustrate the transfer\nof energy by electromagnetic waves.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.2",
+                  "title": "Properties of electromagnetic waves 1",
+                  "level": 3,
+                  "content": "(HT only) Different substances may absorb, transmit, refract or\nreflect electromagnetic waves in ways that vary with wavelength.\n(HT only) Some effects, for example refraction, are due to the\ndifference in velocity of the waves in different substances.\nStudents should be able to construct ray diagrams to illustrate the\nrefraction of a wave at the boundary between two different media.\n(HT only) Students should be able to use wave front diagrams to\nexplain refraction in terms of the change of speed that happens\nwhen a wave travels from one medium to a different medium.\nRequired practical activity 10: investigate how the amount of infrared radiation absorbed or\nradiated by a surface depends on the nature of that surface.\nAT skills covered by this practical activity: AT 1 and 4.\nKey opportunities for\nskills development\nWS 1.2\nThis practical activity also provides opportunities to develop WS and MS. Details of all skills are\ngiven in Key opportunities for skills development (page 98).",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.3",
+                  "title": "Properties of electromagnetic waves 2",
+                  "level": 3,
+                  "content": "(HT only) Radio waves can be produced by oscillations in electrical\ncircuits.\n(HT only) When radio waves are absorbed they may create an\nalternating current with the same frequency as the radio wave itself,\nso radio waves can themselves induce oscillations in an electrical\ncircuit.\nChanges in atoms and the nuclei of atoms can result in\nelectromagnetic waves being generated or absorbed over a wide\nfrequency range. Gamma rays originate from changes in the\nnucleus of an atom.\nUltraviolet waves, X-rays and gamma rays can have hazardous\neffects on human body tissue. The effects depend on the type of\nradiation and the size of the dose. Radiation dose (in sieverts) is a\nmeasure of the risk of harm resulting from an exposure of the body\nto the radiation.\n1000 millisieverts (mSv) = 1 sievert (Sv)\nStudents will not be required to recall the unit of radiation dose.\nStudents should be able to draw conclusions from given data about\nthe risks and consequences of exposure to radiation.\nUltraviolet waves can cause skin to age prematurely and increase\nthe risk of skin cancer. X-rays and gamma rays are ionising\nradiation that can cause the mutation of genes and cancer.\nKey opportunities for\nskills development\nWS 1.5\nWS 1.5",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.4",
+                  "title": "Uses and applications of electromagnetic waves",
+                  "level": 3,
+                  "content": "Electromagnetic waves have many practical applications. For\nexample:\n- radio waves – television and radio\n- microwaves – satellite communications, cooking food\n- infrared – electrical heaters, cooking food, infrared cameras\n- visible light – fibre optic communications\n- ultraviolet – energy efficient lamps, sun tanning\n- X-rays and gamma rays – medical imaging and treatments.\nKey opportunities for\nskills development\n(HT only) Students should be able to give brief explanations why\neach type of electromagnetic wave is suitable for the practical\napplication.\nKey opportunities for\nskills development\n(HT only) WS 1.4",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.5",
+                  "title": "Lenses (physics only)",
+                  "level": 3,
+                  "content": "A lens forms an image by refracting light. In a convex lens, parallel\nrays of light are brought to a focus at the principal focus. The\ndistance from the lens to the principal focus is called the focal\nlength. Ray diagrams are used to show the formation of images by\nconvex and concave lenses.\nThe image produced by a convex lens can be either real or virtual.\nThe image produced by a concave lens is always virtual.\nStudents should be able to construct ray diagrams to illustrate the\nsimilarities and differences between convex and concave lenses.\nThe magnification produced by a lens can be calculated using the\nequation:\nmagni f ication = image height\nMagnification is a ratio and so has no units.\nImage height and object height should both be measured in either\nmm or cm.\nIn ray diagrams a convex lens will be represented by:\nA concave lens will be represented by:\nKey opportunities for\nskills development\nMS 5a, 5c\nWS 1.2\nMS 3b, c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.\nAT 4, 8\nInvestigate the\nmagnification produced by a\nrange of convex lenses.",
+                  "children": []
+                },
+                {
+                  "code": "4.6.2.6",
+                  "title": "Visible light (physics only)",
+                  "level": 3,
+                  "content": "Each colour within the visible light spectrum has its own narrow\nband of wavelength and frequency.\nReflection from a smooth surface in a single direction is called\nspecular reflection. Reflection from a rough surface causes\nscattering: this is called diffuse reflection.\nColour filters work by absorbing certain wavelengths (and colour)\nand transmitting other wavelengths (and colour).\nThe colour of an opaque object is determined by which wavelengths\nof light are more strongly reflected. Wavelengths that are not\nreflected are absorbed. If all wavelengths are reflected equally the\nobject appears white. If all wavelengths are absorbed the objects\nappears black.\nObjects that transmit light are either transparent or translucent.\nStudents should be able to explain:\n- how the colour of an object is related to the differential\nabsorption, transmission and reflection of different\nwavelengths of light by the object\n- the effect of viewing objects through filters or the effect on\nlight of passing through filters\n- why an opaque object has a particular colour.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.6.3",
+              "title": "Black body radiation (physics only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.6.3.1",
+                  "title": "Emission and absorption of infrared radiation",
+                  "level": 3,
+                  "content": "All bodies (objects), no matter what temperature, emit and absorb\ninfrared radiation. The hotter the body, the more infrared radiation it\nradiates in a given time.\nA perfect black body is an object that absorbs all of the radiation\nincident on it. A black body does not reflect or transmit any\nradiation. Since a good absorber is also a good emitter, a perfect\nblack body would be the best possible emitter.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.6.3.2",
+                  "title": "Perfect black bodies and radiation",
+                  "level": 3,
+                  "content": "Students should be able to explain:\n- that all bodies (objects) emit radiation\n- that the intensity and wavelength distribution of any emission\ndepends on the temperature of the body.\n(HT only) A body at constant temperature is absorbing radiation at\nthe same rate as it is emitting radiation. The temperature of a body\nincreases when the body absorbs radiation faster than it emits\nradiation.\n(HT only) The temperature of the Earth depends on many factors\nincluding: the rates of absorption and emission of radiation,\nreflection of radiation into space.\n(HT only) Students should be able to explain how the temperature\nof a body is related to the balance between incoming radiation\nabsorbed and radiation emitted, using everyday examples to\nillustrate this balance, and the example of the factors which\ndetermine the temperature of the Earth.\n(HT only) Students should be able to use information, or draw/\ninterpret diagrams to show how radiation affects the temperature of\nthe Earth’s surface and atmosphere.\nKey opportunities for\nskills development\nWS 1.2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.7",
+          "title": "Magnetism and electromagnetism",
+          "level": 1,
+          "content": "Electromagnetic effects are used in a wide variety of devices. Engineers make use of the fact that\na magnet moving in a coil can produce electric current and also that when current flows around a\nmagnet it can produce movement. It means that systems that involve control or communications\ncan take full advantage of this.",
+          "children": [
+            {
+              "code": "4.7.1",
+              "title": "Permanent and induced magnetism, magnetic forces and fields",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.1.1",
+                  "title": "Poles of a magnet",
+                  "level": 3,
+                  "content": "The poles of a magnet are the places where the magnetic forces\nare strongest. When two magnets are brought close together they\nexert a force on each other. Two like poles repel each other. Two\nunlike poles attract each other. Attraction and repulsion between\ntwo magnetic poles are examples of non-contact force.\nA permanent magnet produces its own magnetic field. An induced\nmagnet is a material that becomes a magnet when it is placed in a\nmagnetic field. Induced magnetism always causes a force of\nattraction. When removed from the magnetic field an induced\nmagnet loses most/all of its magnetism quickly.\nStudents should be able to describe:\n- the attraction and repulsion between unlike and like poles for\npermanent magnets\n- the difference between permanent and induced magnets.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.7.1.2",
+                  "title": "Magnetic fields",
+                  "level": 3,
+                  "content": "The region around a magnet where a force acts on another magnet\nor on a magnetic material (iron, steel, cobalt and nickel) is called\nthe magnetic field.\nThe force between a magnet and a magnetic material is always one\nof attraction.\nThe strength of the magnetic field depends on the distance from the\nmagnet. The field is strongest at the poles of the magnet.\nThe direction of the magnetic field at any point is given by the\ndirection of the force that would act on another north pole placed at\nthat point. The direction of a magnetic field line is from the north\n(seeking) pole of a magnet to the south(seeking) pole of the\nmagnet.\nA magnetic compass contains a small bar magnet. The Earth has a\nmagnetic field. The compass needle points in the direction of the\nEarth’s magnetic field.\nStudents should be able to:\n- describe how to plot the magnetic field pattern of a magnet\nusing a compass\n- draw the magnetic field pattern of a bar magnet showing how\nstrength and direction change from one point to another\n- explain how the behaviour of a magnetic compass is related\nto evidence that the core of the Earth must be magnetic.\nKey opportunities for\nskills development\nWS 2.2",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.2",
+              "title": "The motor effect",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.2.1",
+                  "title": "Electromagnetism",
+                  "level": 3,
+                  "content": "When a current flows through a conducting wire a magnetic field is\nproduced around the wire. The strength of the magnetic field\ndepends on the current through the wire and the distance from the\nwire.\nShaping a wire to form a solenoid increases the strength of the\nmagnetic field created by a current through the wire. The magnetic\nfield inside a solenoid is strong and uniform.\nThe magnetic field around a solenoid has a similar shape to that of\na bar magnet. Adding an iron core increases the strength of the\nmagnetic field of a solenoid. An electromagnet is a solenoid with an\niron core.\nStudents should be able to:\n- describe how the magnetic effect of a current can be\ndemonstrated\n- draw the magnetic field pattern for a straight wire carrying a\ncurrent and for a solenoid (showing the direction of the field)\n- explain how a solenoid arrangement can increase the\nmagnetic effect of the current.\n(Physics only) Students should be able to interpret diagrams of\nelectromagnetic devices in order to explain how they work.\nKey opportunities for\nskills development\nWS 2.2\n(Physics only) WS 1.4",
+                  "children": []
+                },
+                {
+                  "code": "4.7.2.2",
+                  "title": "Fleming's left-hand rule (HT only)",
+                  "level": 3,
+                  "content": "When a conductor carrying a current is placed in a magnetic field\nthe magnet producing the field and the conductor exert a force on\neach other. This is called the motor effect.\nStudents should be able to show that Fleming's left-hand rule\nrepresents the relative orientation of the force, the current in the\nconductor and the magnetic field.\nStudents should be able to recall the factors that affect the size of\nthe force on the conductor.\nKey opportunities for\nskills development\nFor a conductor at right angles to a magnetic field and carrying a\ncurrent:\nf orce = magnetic f lux density × current × length\nF = B I l\nforce, F, in newtons, N\nmagnetic flux density, B, in tesla, T\ncurrent, I, in amperes, A (amp is acceptable for ampere)\nlength, l, in metres, m\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\napply this equation which is\ngiven on the physics\nequation sheet.",
+                  "children": []
+                },
+                {
+                  "code": "4.7.2.3",
+                  "title": "Electric motors (HT only)",
+                  "level": 3,
+                  "content": "A coil of wire carrying a current in a magnetic field tends to rotate.\nThis is the basis of an electric motor.\nStudents should be able to explain how the force on a conductor in\na magnetic field causes the rotation of the coil in an electric motor.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.7.2.4",
+                  "title": "Loudspeakers (physics only) (HT only)",
+                  "level": 3,
+                  "content": "Loudspeakers and headphones use the motor effect to convert\nvariations in current in electrical circuits to the pressure variations in\nsound waves.\nStudents should be able to explain how a moving-coil loudspeaker\nand headphones work.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.7.3",
+              "title": "Induced potential, transformers and the National Grid (physics only) (HT only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.7.3.1",
+                  "title": "Induced potential (HT only)",
+                  "level": 3,
+                  "content": "If an electrical conductor moves relative to a magnetic field or if\nthere is a change in the magnetic field around a conductor, a\npotential difference is induced across the ends of the conductor. If\nthe conductor is part of a complete circuit, a current is induced in\nthe conductor. This is called the generator effect.\nAn induced current generates a magnetic field that opposes the\noriginal change, either the movement of the conductor or the\nchange in magnetic field.\nStudents should be able to recall the factors that affect the size of\nthe induced potential difference/induced current.\nStudents should be able to recall the factors that affect the direction\nof the induced potential difference/induced current.\nStudents should be able to apply the principles of the generator\neffect in a given context.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.2",
+                  "title": "Uses of the generator effect (HT only)",
+                  "level": 3,
+                  "content": "The generator effect is used in an alternator to generate ac and in a\ndynamo to generate dc.\nStudents should be able to:\n- explain how the generator effect is used in an alternator to\ngenerate ac and in a dynamo to generate dc\n- draw/interpret graphs of potential difference generated in the\ncoil against time.\nKey opportunities for\nskills development\nWS 1.4",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.3",
+                  "title": "Microphones (HT only)",
+                  "level": 3,
+                  "content": "Microphones use the generator effect to convert the pressure\nvariations in sound waves into variations in current in electrical\ncircuits.\nStudents should be able to explain how a moving-coil microphone\nworks.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.7.3.4",
+                  "title": "Transformers (HT only)",
+                  "level": 3,
+                  "content": "A basic transformer consists of a primary coil and a secondary coil\nwound on an iron core.\nIron is used as it is easily magnetised.\nKnowledge of laminations and eddy currents in the core is not\nrequired.\nThe ratio of the potential differences across the primary and\nsecondary coils of a transformer Vp and Vs depends on the ratio of\nthe number of turns on each coil, np and ns.\nvs = np\npotential difference, Vp and Vs in volts, V\nIn a step-up transformer Vs > Vp\nIn a step-down transformer Vs < Vp\nIf transformers were 100% efficient, the electrical power output\nwould equal the electrical power input.\nVs × Is = V p × I p\nWhere Vs × Is is the power output (secondary coil) and Vp × Ip is the\npower input (primary coil).\npower input and output, in watts, W\nStudents should be able to:\n- explain how the effect of an alternating current in one coil in\ninducing a current in another is used in transformers\n- explain how the ratio of the potential differences across the\ntwo coils depends on the ratio of the number of turns on each\n- calculate the current drawn from the input supply to provide a\nparticular power output\n- apply the equation linking the p.d.s and number of turns in the\ntwo coils of a transformer to the currents and the power\ntransfer involved, and relate these to the advantages of power\ntransmission at high potential differences.\nKey opportunities for\nskills development\nMS 3b, c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.\nMS 3b, c\nStudents should be able to\napply this equation which is\ngiven on the Physics\nequation sheet.\nMS 1c, 3b, c",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.8",
+          "title": "Space physics (physics only)",
+          "level": 1,
+          "content": "Questions about where we are, and where we came from, have been asked for thousands of\nyears. In the past century, astronomers and astrophysicists have made remarkable progress in\nunderstanding the scale and structure of the universe, its evolution and ours. New questions have\nemerged recently. ‘Dark matter’, which bends light and holds galaxies together but does not emit\nelectromagnetic radiation, is everywhere – what is it? And what is causing the universe to expand\never faster?",
+          "children": [
+            {
+              "code": "4.8.1",
+              "title": "Solar system; stability of orbital motions; satellites (physics only)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.8.1.1",
+                  "title": "Our solar system",
+                  "level": 3,
+                  "content": "Within our solar system there is one star, the Sun, plus the eight\nplanets and the dwarf planets that orbit around the Sun. Natural\nsatellites, the moons that orbit planets, are also part of the solar\nsystem.\nOur solar system is a small part of the Milky Way galaxy.\nThe Sun was formed from a cloud of dust and gas (nebula) pulled\ntogether by gravitational attraction.\nStudents should be able to explain:\n- how, at the start of a star's life cycle, the dust and gas drawn\ntogether by gravity causes fusion reactions\n- that fusion reactions lead to an equilibrium between the\ngravitational collapse of a star and the expansion of a star due\nto fusion energy.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.8.1.2",
+                  "title": "The life cycle of a star",
+                  "level": 3,
+                  "content": "A star goes through a life cycle. The life cycle is determined by the\nsize of the star.\nStudents should be able to describe the life cycle of a star:\n- the size of the Sun\n- much more massive than the Sun.\nFusion processes in stars produce all of the naturally occurring\nelements. Elements heavier than iron are produced in a supernova.\nThe explosion of a massive star (supernova) distributes the\nelements throughout the universe.\nStudents should be able to explain how fusion processes lead to\nthe formation of new elements.\nKey opportunities for\nskills development",
+                  "children": []
+                },
+                {
+                  "code": "4.8.1.3",
+                  "title": "Orbital motion, natural and artificial satellites",
+                  "level": 3,
+                  "content": "Gravity provides the force that allows planets and satellites (both\nnatural and artificial) to maintain their circular orbits.\nStudents should be able to describe the similarities and distinctions\nbetween the planets, their moons, and artificial satellites.\n(HT only) Students should be able to explain qualitatively how:\n- (HT only) for circular orbits, the force of gravity can lead to\nchanging velocity but unchanged speed\n- (HT only) for a stable orbit, the radius must change if the\nspeed changes.\nKey opportunities for\nskills development",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.8.2",
+              "title": "Red-shift (physics only)",
+              "level": 2,
+              "content": "There is an observed increase in the wavelength of light from most\ndistant galaxies. The further away the galaxies, the faster they are\nmoving and the bigger the observed increase in wavelength. This\neffect is called red-shift.\nThe observed red-shift provides evidence that space itself (the\nuniverse) is expanding and supports the Big Bang theory.\nThe Big Bang theory suggests that the universe began from a very\nsmall region that was extremely hot and dense.\nSince 1998 onwards, observations of supernovae suggest that\ndistant galaxies are receding ever faster.\nStudents should be able to explain:\n- qualitatively the red-shift of light from galaxies that are\nreceding\n- that the change of each galaxy’s speed with distance is\nevidence of an expanding universe\n- how red-shift provides evidence for the Big Bang model\n- how scientists are able to use observations to arrive at\ntheories such as the Big Bang theory\n- that there is still much about the universe that is not\nunderstood, for example dark mass and dark energy.\nKey opportunities for\nskills development\nWS 1.2\nWS 1.1, 1.3",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4.9",
+          "title": "Key ideas",
+          "level": 1,
+          "content": "The complex and diverse phenomena of the natural and man-made world can be described in\nterms of a small number of key ideas in physics.\nThese key ideas are of universal application, and we have embedded them throughout the subject\ncontent. They underpin many aspects of the science assessment and will therefore be assessed\nacross all papers.\nKey ideas in physics include:\n- the use of models, as in the particle model of matter or the wave models of light and of sound\n- the concept of cause and effect in explaining such links as those between force and\nacceleration, or between changes in atomic nuclei and radioactive emissions\n- the phenomena of ‘action at a distance’ and the related concept of the field as the key to\nanalysing electrical, magnetic and gravitational effects\n- that differences, for example between pressures or temperatures or electrical potentials, are\nthe drivers of change\n- that proportionality, for example between weight and mass of an object or between force and\nextension in a spring, is an important aspect of many models in science\n- that physical laws and models are expressed in mathematical form.",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

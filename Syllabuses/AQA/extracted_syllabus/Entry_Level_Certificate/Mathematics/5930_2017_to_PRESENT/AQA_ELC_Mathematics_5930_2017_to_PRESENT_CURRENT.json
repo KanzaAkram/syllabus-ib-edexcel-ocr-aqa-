@@ -1,0 +1,370 @@
+{
+  "source_pdf": "Entry_Level_Certificate/Mathematics/5930_2017_to_PRESENT/AQA_ELC_Mathematics_5930_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "Entry_Level_Certificate",
+  "subject": "Mathematics",
+  "spec_code": "5930",
+  "pdf_name": "AQA_ELC_Mathematics_5930_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Component 1: properties of number",
+          "level": 1,
+          "content": "This content aims to develop the student’s understanding and use of number.\nStudents will learn about place value within whole numbers and will undertake calculations using\nmental arithmetic and using a calculator. Students will understand the terms odd and even, and\nrounding will be introduced.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Procedures for making and recording assessments",
+              "level": 2,
+              "content": "Class work assessed by the teacher in response to the outcomes set out below, or assessed by an\nexternally set assignment.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Outcomes to be accredited",
+              "level": 2,
+              "content": "In successfully completing this component, students will have demonstrated the ability to:",
+              "children": [
+                {
+                  "code": "3.1.2.1",
+                  "title": "Entry 1",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n1.1 Count reliably up to 20 items\n1.2 Read, write, order and compare\nSay which of two numbers is smaller or\nnumbers up to 20, including zero\nlarger\nSay which of three or more numbers is\nthe smallest or the largest\nPut three or more numbers in order,\nstarting with the smallest\n1.3 Complete a number line up to 20\nFill in the blanks on a number line\ncounting up or down\nGCSE\nreference\nN1",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.2",
+                  "title": "Entry 2",
+                  "level": 3,
+                  "content": "Notes/examples\nOutcomes\n2.1 Read, write, order and compare\nNumbers could be in context. Key words\nnumbers up to 100\nare smaller, larger, less, more, fewer,\nsmallest, largest, least, most, fewest\n2.2 Recognise place value in two digit\nnumbers\n2.3 Count from 0 in steps of two, three\nFill in blanks in the list of multiples of 2\nand five\nup to 24 (36 for 3 and 60 for 5)\nThe list could be counting up or down\n2.4 Round numbers less than 100 to\nthe nearest 10\n2.5 Understand and identify odd and\nWrite down an even number between 7\neven numbers\nand 13\nGCSE\nreference\nN1\nN2\nN4\nN15",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.3",
+                  "title": "Entry 3",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n3.1 Read and write numbers up to\n1,000\n3.2 Order and compare numbers up to\n1,000\n3.3 Recognise place value in three\nIn 482, which is the units digit?\ndigit numbers\n3.4 Round numbers less than 1,000 to\nthe nearest 10\n3.5 Round numbers less than 1,000 to\nthe nearest 100\n3.6 Find 10 or 100 more or less than a\ngiven number\n3.7 Recognise and use multiples of 2,\nKey word: multiple\n3, 4, 5, 8, 10, 50 and 100\nGCSE\nreference\nN1\nN2\nN15\nN15\nN4",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Component 2: the four operations (calculator not allowed)",
+          "level": 1,
+          "content": "This content aims to develop the student’s understanding and use of the four operations.\nStudents will undertake calculations using mental arithmetic involving addition, subtraction,\nmultiplication and division.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Procedures for making and recording assessments",
+              "level": 2,
+              "content": "Class work assessed by the teacher in response to the outcomes set out below, or assessed by an\nexternally-set assignment.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Outcomes to be accredited",
+              "level": 2,
+              "content": "In successfully completing this component, students will have demonstrated the ability to:",
+              "children": [
+                {
+                  "code": "3.2.2.1",
+                  "title": "Entry 1",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n1.1 Add two whole numbers with a total\nZero can be one of the numbers\nup to 20\nKey words are add, sum, total,\naltogether\nUse the = sign to represent equality\n1.2 Subtract one number up to 20 from\nZero can be the number subtracted\nanother\nKey words are take, take away,\nsubtract, difference, how much more,\nhow much less\n1.3 Understand and use the + and –\nWork out 5 + 11\nsigns to solve simple number problems\n6 = 10 - ?\nUnderstand that subtraction is the\ninverse of addition\nGCSE\nreference\nN2\nN2\nN2, N3",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.2",
+                  "title": "Entry 2",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n2.1 Add whole numbers with a total up\nto 100\n2.2 Subtract one number up to 100 from\nanother\n2.3 Multiply using single digit whole\nKey words are multiply, multiplication,\nnumbers\ntimes … lots of\nUnderstand that multiplication is the\nsame as repeated addition\n2.4 Use and interpret +, -, × and = in\nDan had some sweets. He ate 13 and\nreal-life situations for solving problems\nhad 8 left. How many sweets did he\nstart with?\n2.5 Recall and use multiplication facts\nfor the 2, 5 and 10 multiplication tables\nGCSE\nreference\nN2\nN2\nN2\nN2",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.3",
+                  "title": "Entry 3",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n3.1 Add and subtract using three digit\nnumbers\n3.2 Multiply a two digit whole number by\na single digit whole number\n3.3 Divide a two digit whole number by\nKey words are divide, division, divided\na single digit whole number\nby, share equally, equal groups of’\nUnderstand that division is the same\nas repeated subtraction\nUnderstand that division is the inverse\nof multiplication\nInterpret the remainder in a practical\nsituation\n3.4 Use and interpret +, –, x ,÷ and = in\nCould be multi-step\nreal-life situations for solving problems\nKim bought three packs of 12 eggs.\nShe used 4 eggs on Monday and 5\neggs on Tuesday. How many eggs did\nshe have left?\n3.5 Use inverse operations to find\nWork out the missing number\nmissing numbers\n35 + ? = 124\n3.6 Estimate the answer to a calculation\n3.7 Recall and use multiplication facts\nfor the 3, 4 and 8 multiplication tables\nGCSE\nreference\nN2\nN2\nN2,N3\nN2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Component 3: ratio",
+          "level": 1,
+          "content": "This content aims to develop the student’s understanding of equality and basic fractions.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Procedures for making and recording assessments",
+              "level": 2,
+              "content": "Class work assessed by the teacher in response to the outcomes in the table, or assessed by an\nexternally set assignment.",
+              "children": []
+            },
+            {
+              "code": "3.3.2",
+              "title": "Outcomes to be accredited",
+              "level": 2,
+              "content": "In successfully completing this component, students will have demonstrated the ability to:",
+              "children": [
+                {
+                  "code": "3.3.2.1",
+                  "title": "Entry 1",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n1.1 Understand equality\nUse and understand the = sign\n2 + 5 = 5 + ?\n1.2 Identify or show one half of a\nShade half of a shape\nquantity up to 20\nGiven a picture of children,\nWhat fraction of the children are boys?\n1.3 Work out half of an even number up\nto 20\nGCSE\nreference\nN1\nN12, R6\nN12, R6",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.2",
+                  "title": "Entry 2",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n2.1 Identify or show one third or one\nShade one third or one quarter of a\nquarter of a quantity up to 24\nshape\nGiven a picture of children,\nWhat fraction of the children are boys?\n2.2 Work out one third or one quarter of\nWithout remainder\na number up to 24\n2.3 Count in fractions of one half or one\nGive the next number in the pattern:\nthird or one quarter\n4, 2 1\n2, 2 1\n2.4 Work out amounts two, three or\nKey words are double, twice (as ..),\nfour times the size of a given amount\nthree times (as..), four times (as..)’\nOne loaf of bread has 22 slices. How\nmany slices are there in 4 loaves ?\n2.5 Recognise the equivalence of 1\nand 2\nGCSE\nreference\nN12, R6\nN12, R6\n2 …\nR6",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.3",
+                  "title": "Entry 3",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n3.1 Identify or show unit fractions up to\nShade a given unit fraction of a\none tenth of a quantity up to 100\nspecified grid\nGiven a picture of children,\nWhat fraction of the children are boys?\n3.2 Work out unit fractions to one tenth\nWithout remainder\nof a number up to 100\n3.3 Identify or show any number of\nShade a fraction of a shape\nthirds, quarters, fifths or tenths of a\nGiven a picture of children,\nquantity\nWhat fraction of the children are boys?\n3.4 Work out any number of thirds,\nWithout remainder\nquarters, fifths or tenths of an amount\n3.5 Recognise and identify equivalent\n2 =\nfractions\n3.6 Add and subtract fractions with the\nsame denominator within one whole\n3.7 Work out amounts 5, 8 or 10 times\nthe size of a given amount\nGCSE\nreference\nN12, R6\nN12, R6\nN12\nN12\nN3\nN8\nR2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Component 4: money",
+          "level": 1,
+          "content": "This content aims to develop the student’s understanding and use of money.\nStudents will learn through practical activities about the value of coins in everyday use in the UK.\nThey will convert units of money and use a calculator to do simple calculations of money using\ndecimals.",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Procedures for making and recording assessments",
+              "level": 2,
+              "content": "Class work assessed by the teacher in response to the outcomes in the table, or assessed by an\nexternally set assignment.",
+              "children": []
+            },
+            {
+              "code": "3.4.2",
+              "title": "Outcomes to be accredited",
+              "level": 2,
+              "content": "In successfully completing this component, students will have demonstrated the ability to:",
+              "children": [
+                {
+                  "code": "3.4.2.1",
+                  "title": "Entry 1",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n1.1 Recognise coins and notes up to £20 1p, 2p, 5p, 10p, 20p, 50p, £1, £2, £5,\n£10, £20\nHow much is this coin worth?\n1.2 Exchange money up to 20p for an\nShow two different ways of making 9p\nequivalent amount in other\ndenominations\n1.3 Add up to 20 coins\nUp to 20p in 1p, 2p, 5p, 10p, 20p\ncoins, up to £20 in £1 and £2 coins\nJack has these coins,\nHow much does he have?\nGCSE\nreference\nN13, G14\nN13, G14\nN2, N13, G14",
+                  "children": []
+                },
+                {
+                  "code": "3.4.2.2",
+                  "title": "Entry 2",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n2.1 Appreciate the purchasing power of\nIf I had a £2 coin, would I have enough\namounts of money (coins)\nto buy a can of pop?\nIf I had a £2 coin, would I have enough\nto buy a computer?\n2.2 Convert from pence to pounds and\nHow many pence is £4.30?\nvice versa\nWrite 715 pence in pounds\n2.3 Make amounts of money up to £2\nHow can you make £1.65 using only\nfrom given coins\n50p, 20p and 5p coins?\n2.4 Make amounts of money in\nHow can you make £55 using only £20\nmultiples of £5 from £5, £10 and £20\nand £5 notes?\n2.5 Calculate with amounts of money in\nHayley buys three chocolate bars for\npence up to £1 and whole pounds up to\n30p each. How much change should\n£100 and give change\nshe get from a £1 coin?\nGCSE\nreference\nN13, G14\nN13, R1, G14\nN2, N13, G14\nN2, N13, G14\nN2, N13, G14",
+                  "children": []
+                },
+                {
+                  "code": "3.4.2.3",
+                  "title": "Entry 3",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n3.1 Appreciate the purchasing power of\nIf I had a £10 note, would I have\namounts of money (notes)\nenough to buy a bottle of shampoo?\nIf I had a £10 note, would I have\nenough to buy a motorbike?\n3.2 Exchange notes for an equivalent\nShow how can you make £5 using only\nvalue in coins\nsilver coins\n3.3 Use decimal notation for money\nUnderstand that £3.20 should not be\nwritten as £3.2 or £3.20p\n3.4 Interpret a calculator display\nUnderstand that 3.2 (in pounds) on a\ncalculator means £3.20\n3.5 Solve real life problems involving\nLucy is saving £4.50 each week to buy\nwhat to buy and how to pay\na mobile phone for £90. How many\nweeks will she have to save?\n3.6 Add amounts of money and give\nAdam buys three computer games for\nchange\n£29.99 each and two for £14.99 each.\nHow much does he spend altogether?\n3.7 Carry out investigations involving\nmoney\nGCSE\nreference\nN13, G14\nN13, R1, G14\nN13, G14\nN13, G14\nN2, N13, R7,\nG14",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Component 5: the calendar and time",
+          "level": 1,
+          "content": "This content aims to develop the student’s understanding and use of 12 and 24-hour time and of\ncalendars and timetables in everyday use.\nStudents will learn how to read digital and analogue clocks, including using roman numerals and\nlearn how to convert between 12 and 24-hour times. They will also learn about days, weeks and\nmonths of the year.",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "Procedures for making and recording assessments",
+              "level": 2,
+              "content": "Class work assessed by the teacher in response to the outcomes in the table, or assessed by an\nexternally set assignment.",
+              "children": []
+            },
+            {
+              "code": "3.5.2",
+              "title": "Outcomes to be accredited",
+              "level": 2,
+              "content": "In successfully completing this component, students will have demonstrated the ability to:",
+              "children": [
+                {
+                  "code": "3.5.2.1",
+                  "title": "Entry 1",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n1.1 Know the days of the week and\nKey words are today, yesterday,\ntheir order\ntomorrow, now, before, after, next\nWhat is the day before Tuesday?\n1.2 Read the time to the hour or half\nhour on an analogue clock and draw\nthe hands on a clock to show these\ntimes\n1.3 Order familiar events\nPut in order:\neat dinner, go to school, wake up, leave\nschool, have breakfast\nGCSE\nreference",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.2",
+                  "title": "Entry 2",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n2.1 Know the seasons and months and\nWhat is the season after summer?\ntheir order\n2.2 Know that 1 week = 7 days; 1 day\n= 24 hours; 1 hour = 60 minutes; 1\nminute = 60 seconds\n2.3 Read the time displayed on an\nStudents should be able to convert\nanalogue or 12 hour digital clock in\n‘quarter past eight’ to 8.15 and draw the\nhours, half hours and quarter hours\nhands on a clock to show this time\nand draw the hands on a clock or the\ndigital display to represent these times\n2.4 Read the time to the nearest five\nminutes on an analogue clock, draw\nthe hands on a clock to show the time,\nand read any time on a digital clock\n2.5 Find the difference between two\nHow many minutes are there from 2.45\ntimes given in hours, half hours and\nto 3.15?\nquarter hours.\nGCSE\nreference\nN13, G14",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.3",
+                  "title": "Entry 3",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n3.1 Solve problems involving time\nMohammed got on the bus at 10\no’clock. His journey lasted 45\nminutes. What time did he get off the\nbus?\n3.2 Know that there are 365 days in a\nyear, 366 days in a leap year, 12 months\nin a year and 52 full weeks in a year\n3.3 Use a calendar and write the date\nGiven a calendar,\ncorrectly (day/month/year)\nWhat is the date of the first Friday in\nJanuary?\nHow many days are there in\nOctober?\n3.4 Tell and write the time from an\nanalogue clock, including using Roman\nnumerals from I to XII\n3.5 Understand and use the 12-hour and\nKey words are noon, morning,\n24-hour clock systems and convert from\nafternoon, evening and midnight\none system to the other\nWrite 2pm in the 24 hour clock\nsystem\n3.6 Convert between hours, minutes and\nChange 250 minutes into hours and\nseconds\nminutes\n3.7 Add up to three lengths of time given\nShown part of a TV guide,\nin minutes and hours\nHow long do ‘Emmerdale,\nCoronation Street and Britain’s Got\nTalent last altogether?\nGCSE\nreference\nN13, R1, G14\nN2, N13, G14",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.6",
+          "title": "Component 6: measures",
+          "level": 1,
+          "content": "This content aims to develop the student’s understanding and use of measures.\nStudents will learn through practical activities about methods used to measure length, weight and\ncapacity using standard and non-standard units. They will begin to convert units of length, weight\nand capacity and learn how to read scales of measurement. They will also learn to compare\ntemperature including temperature with negative values.",
+          "children": [
+            {
+              "code": "3.6.1",
+              "title": "Procedures for making and recording assessments",
+              "level": 2,
+              "content": "Class work assessed by the teacher in response to the outcomes in the table, or assessed by an\nexternally set assignment.",
+              "children": []
+            },
+            {
+              "code": "3.6.2",
+              "title": "Outcomes to be accredited",
+              "level": 2,
+              "content": "In successfully completing this component, students will have demonstrated the ability to:",
+              "children": [
+                {
+                  "code": "3.6.2.1",
+                  "title": "Entry 1",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n1.1 Compare lengths, heights, weights\nKey words are long, longer, short,\nand capacities\nshorter, tall, taller, heavy, heavier, light,\nlighter, more, less, most, least\n1.2 Give the length of a line drawn on\nUp to 20 cm\na centimetre grid\n1.3 Describe capacity in fractions\nKey words are empty, half full, full\nTick the jug that is more than half full\nGCSE\nreference\nN13, G14,\nG15\nR6",
+                  "children": []
+                },
+                {
+                  "code": "3.6.2.2",
+                  "title": "Entry 2",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n2.1 Choose appropriate standard units\nmm, cm, m, km, g, kg, ml, cl, l\nof length, capacity and weight\nWhich unit would be the best to\nmeasure the length of a football pitch?\n2.2 Compare and order lengths,\ncapacities and weights in the same\nunits\n2.3 Select a possible length, capacity\nor weight for a given item\n2.4 Measure or draw a length using a\nIn whole mm or whole and half cm\nruler\n2.5 Estimate the weight, capacity or\nGiven two items, tick the heavier item\nlength of given items\nEstimate the weight of a bag of crisps\nGCSE\nreference\nN13, G14\nN1, N13, G14\nN13, G14\nN13, G14, G15",
+                  "children": []
+                },
+                {
+                  "code": "3.6.2.3",
+                  "title": "Entry 3",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n3.1 Add lengths, capacities and weights\nand compare the total to another total or\na requirement\n3.2 Convert standard units of length,\nHow many kg is 2500 g?\ncapacity and weight\nChange 410 cm into cm and mm\n3.3 Compare and order lengths,\nWhich is longest, 4.2 m, 395 cm or\ncapacities and weights in different\n4050 mm?\nstandard units\n3.4 Measure the perimeter of a simple\nshape\n3.5 Choose an appropriate measuring\ninstrument\n3.6 Read values from an appropriate\nRead off a number line\nscale\n3.7 Read and compare temperature\nincluding temperature with negative\nvalues\nGCSE\nreference\nN1, N2, N13,\nG14\nN13, R1, G14\nN1, N13, R1,\nG14\nN13, G14,\nG15\nN13, G14\nN1, N13, G14",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.7",
+          "title": "Component 7: geometry",
+          "level": 1,
+          "content": "This content aims to develop the student’s understanding of shapes, coordinates and directions.\nThe student will learn about 2D and 3D shapes and their properties and they will develop an\nunderstanding of the size of angles, including right angles. They will also investigate reflective\nsymmetry, nets of solids and use of coordinates.",
+          "children": [
+            {
+              "code": "3.7.1",
+              "title": "Procedures for making and recording assessments",
+              "level": 2,
+              "content": "Class work assessed by the teacher in response to the outcomes in the table, or assessed by an\nexternally set assignment.",
+              "children": []
+            },
+            {
+              "code": "3.7.2",
+              "title": "Outcomes to be accredited",
+              "level": 2,
+              "content": "In successfully completing this component, students will have demonstrated the ability to:",
+              "children": [
+                {
+                  "code": "3.7.2.1",
+                  "title": "Entry 1",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n1.1 Recognise and name squares,\nDrawings may not be accurate, but\nrectangles, triangles, circles, and cubes\nintention must be clear\n1.2 Compare and order a group of\nKey words are smaller, smallest,\nshapes or pictures or similar shapes of\nbigger, biggest, larger, largest, thinner,\ndifferent size and recognise congruent\nthinnest, narrower, narrowest, wider,\nshapes\nwidest, longer, longest, shorter,\nshortest\nTick the two shapes that are the same\n1.3 Use and understand positional\nKey words are left, right, between,\nvocabulary\ninside, outside, (in the) middle, below,\nunder, above, on top (of)\nDraw a cross inside the circle\nGCSE\nreference\nG4, G12\nG7",
+                  "children": []
+                },
+                {
+                  "code": "3.7.2.2",
+                  "title": "Entry 2",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n2.1 Recognise and name shapes\nA right angle will be identified by a\nincluding pentagons, hexagons and\nsmall \noctagons and identify a right-angled\ntriangle from a set of triangles\n2.2 Recognise and name cuboids,\npyramids and spheres\n2.3 Describe the properties of 2D\nNumber of edges and vertices\nshapes, including straight and curved\nedges\n2.4 Describe the properties of solids\nNumber of edges, vertices and faces\n2.5 Understand angle as a measure of\nQuarter, half, three quarter and whole\nturn\nturn, clockwise and anti-clockwise\nGCSE\nreference\nG1, G4\nG12\nG1\nG12",
+                  "children": []
+                },
+                {
+                  "code": "3.7.2.3",
+                  "title": "Entry 3",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n3.1 Recognise and name prisms,\ncylinders and cones\n3.2 Draw lines of symmetry on shapes\nIncluding real life items such as road\nor pictures\nsigns\n3.3 Recognise and draw nets of cubes\nand cuboids\n3.4 Identify whether an angle is less or\nmore than a right angle\n3.5 Identify horizontal, vertical and\nparallel lines\n3.6 Denote the position of a point on a\ngrid by its coordinates or identify a\npoint or item given its coordinates\n3.7 Use North (N), East (E), South (S)\nand West (W) to give directions or\nposition from a map\nGCSE\nreference\nG12\nG1\nG13\nG1",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.8",
+          "title": "Component 8: statistics",
+          "level": 1,
+          "content": "This content aims to develop the student's understanding and interpretation of simple statistical\ndiagrams.\nStudents will learn how to conduct simple surveys and then analyse and communicate their results.\nThey will also learn to sort information according to set criteria.",
+          "children": [
+            {
+              "code": "3.8.1",
+              "title": "Procedures for making and recording assessments",
+              "level": 2,
+              "content": "Class work assessed by the teacher in response to the outcomes in the table, or assessed by an\nexternally set assignment.",
+              "children": []
+            },
+            {
+              "code": "3.8.2",
+              "title": "Outcomes to be accredited",
+              "level": 2,
+              "content": "In successfully completing this component, students will have demonstrated the ability to:",
+              "children": [
+                {
+                  "code": "3.8.2.1",
+                  "title": "Entry 1",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n1.1 Sort and classify objects using a\nShaded/unshaded, round/not round etc\nsingle criterion\n1.2 Interpret and draw conclusions\nHow many blue cars were there?\nfrom a list or group of objects\nWhich colour was most popular?\n1.3 Construct and interpret simple line\nIncluding block graphs\ngraphs\nGCSE\nreference\nS2",
+                  "children": []
+                },
+                {
+                  "code": "3.8.2.2",
+                  "title": "Entry 2",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n2.1 Sort and classify objects using\nmore than one criterion\n2.2 Collect information by survey\nAsk 10 classmates what their favourite\nfood is\nIn external assessment the student will\nselect the correct question to ask in a\nsurvey from a given list\n2.3 Record results in lists, tally charts\nand tables\n2.4 Construct and interpret pictograms\nwhere one picture represents one item\n2.5 Interpret simple tables, diagrams,\nGiven a daily temperature graph for\nlists and graphs\nJuly, find the highest temperature that\nmonth\nGCSE\nreference\nS2\nS2\nS2",
+                  "children": []
+                },
+                {
+                  "code": "3.8.2.3",
+                  "title": "Entry 3",
+                  "level": 3,
+                  "content": "Outcomes\nNotes/examples\n3.1 Construct and interpret bar charts\nwith the vertical axis scaled in ones or\ntwos\n3.2 Construct and interpret pictograms\nwhere one picture represents more\nthan one item\n3.3 Extract numerical information from\nIncluding timetables, holiday brochures,\nlists, tables, diagrams and charts\nsports results etc\n3.4 Complete a frequency table given\nthe original list of results\n3.5 Complete a tally chart and the\nresulting frequency table\n3.6 Compare two or more diagrams\nGiven bar charts for attendances at two\nyouth clubs for a week,\nWhich youth club had more people on\nMonday?\n3.7 Solve one-step and two-step\nGiven daily temperature graphs for July\nproblems based on statistical\nand August, find how much higher the\ninformation\nhighest temperature was in July than in\nAugust\nGCSE\nreference\nS2\nS2\nS2\nS2\nS2\nS2\nS2",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,353 @@
+{
+  "source_pdf": "GCSE/Spanish/8692_2017_to_PRESENT/AQA_GCSE_Spanish_8692_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Spanish",
+  "spec_code": "8692",
+  "pdf_name": "AQA_GCSE_Spanish_8692_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Themes",
+          "level": 1,
+          "content": "The specification covers three distinct themes. These themes apply to all four question papers.\nPassages in the Listening and Reading assessments will be set in the context of the target\nlanguage countries and communities. In the Speaking and Writing assessments, students will be\nable to respond according to their own interests and experiences.\nThe texts and tasks set for the assessments will be based on the prescribed vocabulary list in\nAppendix 2 and the prescribed grammar in Section 3.2.\nIt is not intended that the themes and topics will be specifically referenced in all assessment tasks.\nStudents will be expected to use the prescribed vocabulary and grammar across a range of\ncontexts and assessment tasks.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Theme 1: People and lifestyle",
+              "level": 2,
+              "content": "Theme 1 covers the following three topics:\n- Topic 1: Identity and relationships with others\n- Topic 2: Healthy living and lifestyle\n- Topic 3: Education and work",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Theme 2: Popular culture",
+              "level": 2,
+              "content": "Theme 2 covers the following three topics:\n- Topic 1: Free-time activities\n- Topic 2: Customs, festivals and celebrations\n- Topic 3: Celebrity culture",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Theme 3: Communication and the world around us",
+              "level": 2,
+              "content": "Theme 3 covers the following three topics:\n- Topic 1: Travel and tourism, including places of interest\n- Topic 2: Media and technology\n- Topic 3: The environment and where people live",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Grammar",
+          "level": 1,
+          "content": "GCSE students will be expected to develop and use their knowledge of grammar throughout their\ncourse.\nThe grammar requirements for GCSE are set out in two tiers: Foundation and Higher. Students are\nrequired to use their knowledge of grammar from the specified lists, appropriate to the relevant tier\nof entry. Students entering Higher tier assessments will be required to apply all grammar listed for\nFoundation tier in addition to the grammar listed for Higher tier.\nStudents will be expected to use the prescribed grammar across a range of contexts and\nassessment tasks.\nThe lists describe grammatical features of the most widely used standard varieties.\nThe lists are written from the point of view of English-speaking students of the language, and so\ninclude some reference to certain cross-linguistically complex relations with English.\nStudents are required to demonstrate both receptive and productive knowledge of the grammar\nfrom the list (although the derivational morphology laid out in the grammar annex can only be\nincluded for Paper 3 Reading).\n‘Grammar’ is defined as including the morphology (inflectional and derivational) and syntax (rules\nof word order, relations between words and obligatory use of specific features). The vocabulary\nlists contain the lexicon that is needed to apply the grammar.\nSome grammatical features can be perceived as ‘grammar’ or ‘lexicon’ – these items are listed in\nthe vocabulary list, as stipulated in the DfE Subject Content. The vocabulary list also specifies\nhighly irregular forms within a grammatical subsystem (ie, subparts of paradigms where only some\nforms are irregular), as laid out in the Grammar requirements. This is because forms, such as\nirregular stems, are likely to be learnt and retrieved as individual items rather than as part of a\nbroader grammatical system. Listing them in the vocabulary list, therefore, reflects the pedagogical\nattention required for these highly irregular forms.\nItems given in brackets in the grammar list which are prefaced with 'eg' are illustrative, ie serve\nonly to clarify the description of the grammar features, and such items are not included in the\nvocabulary list. In contrast, items that are not prefaced by 'eg' are comprehensive, providing all the\nexamples of the grammar that are included in the DfE Subject Content, and all such items are\ncontained in the vocabulary list.\nNote that the English equivalents of some of the grammar are provided. This is relevant when\ntesting students’ ability to work from English to Spanish (eg, in translation tasks).",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Foundation tier",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "Noun phrases",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Formation of feminine nouns",
+                      "level": 4,
+                      "content": "Irregular feminine nouns and nouns where the different genders have different English equivalents\n(eg, hijo, son and hija, daughter) are listed as individual items in the vocabulary list.\n- Nouns ending in -o change to -a (eg, vecino/vecina)\n- Nouns ending in -or add -a (eg, profesor/profesora)\n- No change for nouns ending in -ante/-ente and -ista (eg, estudiante, artista)\nFeminised forms of nouns with biological gender relating to jobs are in flux and will be shown\nappropriate tolerance, reflecting standard and widespread usage (eg, el jefe, la jefe/jefa).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Formation of plural nouns",
+                      "level": 4,
+                      "content": "Highly frequent irregulars are listed in the vocabulary list.\n- Nouns ending in a vowel add -s\n- Nouns ending in a consonant add -es\n- Nouns ending in -z change -z to -c and add -es\n- Nouns ending in -(i)ón add -es and drop the written accent",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Infinitive used as a noun",
+                      "level": 4,
+                      "content": "Ie, equivalent of the -ing (gerund) in English.\nNominalisation of masculine adjectives for languages (eg, francés ➜ (el) francés) and inflected\nforms of regular and the highly frequent patterns of nationality adjectives listed in this annex, (eg,\n(la) inglesa, (los) españoles).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Articles",
+                      "level": 4,
+                      "content": "Agreement of articles with noun for gender and number (el, la, los, las and un, una, unos, unas).\nFunctions of definite and indefinite articles, including where their use or omission differs from\nEnglish (eg, La educación es importante).\nContraction of definite article el after prepositions de and a (ie, del, al) are listed in the vocabulary\nlist.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Other determiners",
+                      "level": 4,
+                      "content": "Agreement with nouns for gender and number of the following determiners (only the base form will\nbe listed in the vocabulary list, unless otherwise stated. All English equivalents will be listed).\nDemonstrative adjectives (este, esta, ese, esa), as well as irregular plural forms (estos, esos) and\nregular plurals (estas, esas).\nIndefinite adjectives (cada (invariant), mismo, otro, todo, alguno*, ninguno*, as well as irregular\nforms algún and ningún).\n*Note, these are listed as determiners, rather than as postnominal adjectives, meaning that these\nspecific forms will not be tested. They are listed only as the base for the other forms with gender\nand number agreement.\nPossessive adjectives (mi, tu, su, nuestro, vuestro) as equivalent of English me, you, his/her/\nitstheir/your-formal singular and plural, our, your-informal plural.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Pronouns",
+                      "level": 4,
+                      "content": "Subject pronouns (yo, tú, él, ella, nosotros, nosotras, vosotros, vosotras, ellos, ellas, usted and\nustedes) and invariable pronouns (algo and alguien) are listed in the vocabulary list. Their\ngrammar (agreement, position) is laid out here.\nDefault omission of subject pronouns and contexts where overt use appropriate (ie, change of\nsubject and emphasis).\nWord order of direct object pronouns (me, te, lo, la, los, las) in one- and two-verb constructions\n(eg, lo miro, lo puedo mirar, puedo mirarlo, ¡Míralo!), in which only a single pronoun is used.\nWord order of indirect object pronouns (me, te, le, les) in one- and two-verb constructions (eg, te\ndoy, te quiero dar, quiero darte, ¡Dame!), in which only a single pronoun is used.\nWord order of singular reflexive pronouns (me, te, se) in one- and two-verb constructions (eg, se\nlava, se debe lavar, debe lavarse, ¡Lávate!).\nInterrogative pronouns (cuál, cuánto, quién) and their inflected forms for gender and number.\nUse of the relative pronoun que in subject relative clauses.\nNeuter demonstrative pronouns (esto, eso).\nUse of the pronouns alguno and ninguno, including their inflected forms for gender.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Verb phrases",
+                  "level": 3,
+                  "content": "Verbs that do not fit into the grammar detailed here can still be listed in the vocabulary list to be\nlearnt in the infinitive form only.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Negation",
+                      "level": 4,
+                      "content": "Word order of verbal negation, with no, (no) nada, (no) nunca, (no) nadie, (no) ninguno.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Interrogatives",
+                      "level": 4,
+                      "content": "Interrogatives expressed through:\n- intonation, including when using a wh-word (qué, quién, cuándo, por qué, cómo, cuál,\ncuánto, dónde)\n- wh-word (ie, question words including ‘how’) followed by subject verb word order, including\nwhere the overt subject is only sometimes required (eg, ¿Dónde está (Daniel)? and ¿Qué\nhace (la chica)?)",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Inflectional morphology",
+                      "level": 4,
+                      "content": "Specific irregular inflected forms (eg, doy, digo), as a minimum those specified below, are listed in\nthe vocabulary list.\nSome verb forms change the spelling in their stems, usually to preserve pronunciation (eg,\npresent: g → j; preterite: c → qu, g → gu, addition of y to 3rd persons, and z → c). Such spelling\nchanges will not be credit-bearing.\nRegular (-ar, -er, -ir) in 1st, 2nd, 3rd persons in singular and plural for:\n- Present indicative with both simple (I walk) and ongoing (I am walking) functions.\n- Including five clusters of high frequency verbs that pattern following one of these ‘anchor’\nverbs: encontrar (o → ue), pensar (e → ie), pedir (e → i), conocer (c → zc), poner (add -g\nto 1st person singular). The infinitives within these clusters are listed in the vocabulary list.\n- In the pedir cluster, omission of ‘u’ in the first person of verbs like seguir will not be credit-\nbearing.\n- Irregular forms of estar, hacer, ir, ser, tener are listed in full in the vocabulary list (including\nuse of tener + noun where the English equivalent is ‘BE + adjective’ eg, + frío, + calor, +\naño(s), + hambre, + sed, + miedo).\n- Present continuous (estar + present participle), as equivalent of the English ‘BE + -ing’,\nincluding spelling changes for verbs whose stems end in a vowel (eg, leer, construir) and for\nverbs in the pedir cluster.\n- Preterite tense (as equivalent of the English simple past (I walked), ie, referring to past\nevents occurring at specified, known times).\n- Irregular preterite forms of ir, ser, dar are listed in full in the vocabulary list.\n- Irregular preterite stems (tuve, pude, hice, vine, estuve, puse, quise, dije, traje) and\nirregular form hizo are listed in the vocabulary list. Preterite forms of verbs with prefixes on\nstems which are listed in the vocabulary list, eg, mantuve, will not be listed in the\nvocabulary list, because tuve is already listed).\nStem-changes (o → u, e → i) to 3rd person singular and plural in -IR verbs in the preterite\n- will not be credit-bearing.\n- Small changes to preterite stems or inflections (eg, vi, vio (no accent), empecé (z → c),\ndijeron (no ‘i' in inflection) will not be credit-bearing.\n- Present perfect tense (haber + past participle, -AR stem + ado, -ER/IR stem + ido), as\nequivalent of the English present perfect (I have walked, he has gone).\n- Irregular past participles are listed in the vocabulary list. Past participles of verbs with\nprefixes on stems which are listed on the vocabulary list, eg, descrito, will not be listed in\nthe vocabulary list, if escrito is already listed.\n- Periphrastic future (ir a + infinitive), as equivalent of the English ‘BE + going to + verb’ and\n‘will + verb’.\nRegular (-ar, -er, -ir) for 1st, 2nd and 3rd persons in singular only for:\n- Imperfect for habitual (only for equivalent of English ‘used to + verb’) and ongoing (BE + ing)\nfunctions.\n- Three irregular verbs: ser (era, eras), ir (iba, ibas) and ver (veía, veías) are listed in the\nvocabulary list.\n- Other English equivalent functions are listed in the vocabulary list as follows: tenía, tenías\n(to mean ‘had’), había (to mean ‘there was/were’), estaba, estabas (to mean ‘was/were +\nstate/location’) / era, eras (to mean ‘was/were + trait’).\n- Imperfect continuous (estar + present participle) for ongoing (BE + ing) functions.\n- Inflectional future\n- Plus five irregular verbs: tener (tendr-), hacer (har-), poder (podr-), poner (pondr-) of which\nthe 1st person singular stems are listed in the vocabulary list, and habrá (‘there will be’).\n- Conditional\n- Plus five irregular verbs: tener (tendr-), hacer (har-), poder (podr-), poner (pondr-) of which\nthe 1st person singular stems are listed in the vocabulary list, and habría (‘there would\nbe’).\nImperative (affirmative, 2nd singular only) and irregular tú commands (sé, ve, ten, ven, haz,\n- di, pon and sal) are listed in the vocabulary list.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Syntax of interesar-type verbs",
+                      "level": 4,
+                      "content": "Ie, which tend to occur in Object Verb Subject word order, as listed on the vocabulary list.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Modals, for 1st, 2nd and 3rd persons in singular and plural",
+                      "level": 4,
+                      "content": "Use of modals (deber, poder, querer, tener que, saber) + infinitive, including two multi-word\ncomplex fixed phrases (quisiera + infinitive and me/te/le gustaría + infinitive).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Reflexive use of verbs",
+                      "level": 4,
+                      "content": "Singular only, for 1st, 2nd, 3rd persons.\nReflexive verb forms (eg, lavarse) with the same meaning as a listed base verb (eg, lavar) are not\nlisted. Reflexive verb forms with different meanings from a listed base verb (eg, poner, ponerse)\nare listed on the same line. When reflexive verb forms with different meanings from a listed base\nverb are not listed, they will not be tested.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Impersonal verbs",
+                      "level": 4,
+                      "content": "Use of impersonal verb hay.\nUse of hay que.\nImpersonal use of se for generalised ‘you/one’ function with se puede/se necesita.\nHace + noun (weather, with the relevant words eg, sol, listed in the vocabulary list).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Adjectival phrases",
+                      "level": 4,
+                      "content": "Agreement for gender and number with nouns following regular patterns (of adjectives listed in the\nvocabulary list):\n- Gender and number: -o, -a, -os, -as\n- Number only:\n- e, -es\n- z, -ces\n- ista, -istas\n- Highly frequent patterns of adjectives for nationality: - ending in consonant (eg, francés, -esa,\n-es (no accent), -esas (no accent), español, -a, -es, -as).\nPosition of adjectives in relation to the nouns they refer to: mostly after nouns, a defined set of\nprenominal adjectives (algún, ningún, primer, segundo, tercer, buen, mal, gran) and a set that\nchanges meaning depending on whether prenominal or postnominal (eg, único), as listed in the\nvocabulary list.\nDifferent uses of ser and estar with adjectives as listed in the vocabulary list (including where\nmeanings differ when used with ser and estar, eg, listo/a).\nUse of regular comparative structure menos…que with irregular forms (mejor and peor) listed in\nthe vocabulary list.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Adverbial phrases",
+                      "level": 4,
+                      "content": "Adverbs and adverbial phrases are listed in the vocabulary list. Position of adverbs of time,\nmanner, place.\nUse of regular comparative structures (más…que/de, menos…que/de, tan…como), with irregular\nforms (mejor and peor) listed in the vocabulary list.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Prepositions",
+                      "level": 4,
+                      "content": "Prepositions are listed in the vocabulary list.\nUse of the personal a\nDe to indicate possession (eg, la casa de Hugo)\nPara, sin + infinitive\nPrepositions as needed in certain verb phrases before an infinitive or noun. These verb +\npreposition combinations are listed in the vocabulary list alongside the verb entry (eg, dejar ‘to\nleave’, dejar de + infinitive ‘to stop + verb’, ir ‘to go’, ir de + noun ‘to go (for/on) + noun, to go + -\ning’). Where the preposition changes or adds to the meaning of the verb, English translations are\nlisted (eg, llegar ‘to arrive’, llegar a ‘to manage to’).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Derivational morphology (Reading only)",
+                      "level": 4,
+                      "content": "Derivational morphology listed here indicates that even if only the base form (eg, libro) is listed in\nthe vocabulary list, a derived form that follows one of the patterns listed here (eg, librito) may be\nincluded in reading texts. Or, if only the specific affixed form is listed, the base form may be\nincluded in reading texts. Note, if derived forms are included in listening material or required for\nproduction, they will be listed separately in the vocabulary list.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Uniformly applicable derivational morphology that changes meaning",
+                      "level": 4,
+                      "content": "",
+                      "children": [
+                        {
+                          "code": "",
+                          "title": "Suffixes",
+                          "level": 5,
+                          "content": "Adding -ito, -ita to nouns, or to nouns with -o / -a removed, only where the English meaning is ‘little’\n(eg, librito) or implies endearment (eg, hermanito).\nAdding -ísimo, -ísima to adjectives, or to adjectives with -o / -a removed, only where the English\nmeaning is ‘very’ (eg, facilísimo).",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "code": "",
+                      "title": "Other high frequency patterns",
+                      "level": 4,
+                      "content": "",
+                      "children": [
+                        {
+                          "code": "",
+                          "title": "Morphology that changes the part of speech",
+                          "level": 5,
+                          "content": "",
+                          "children": [
+                            {
+                              "code": "",
+                              "title": "Suffixes",
+                              "level": 6,
+                              "content": "Adverbs created by adding -mente to singular invariable adjectives (eg, alegre-) or the singular\nfeminine form of adjectives ending in -o / -a (eg, absoluta-), only where the English equivalent is ‘-\nly’ (eg, normalmente).\nNouns created by adding -idad to singular adjectives ending in a consonant (eg, real) or with the\nfinal vowel removed (eg, segur-), only where the English equivalent is ‘-(i)ty’ (eg, seguridad).\nAdjectives created by adding -able to a verb stem, only where the English equivalent is ‘-able’ (eg,\nevitable).",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "Higher tier",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.2.2.1",
+                  "title": "Noun phrases",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Determiners",
+                      "level": 4,
+                      "content": "Demonstrative adjective aquel, with agreement for gender and number, to mean ‘that’ and ‘those’,\nwith tolerance for using ese etc as alternatives for aquel etc in production.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Pronouns",
+                      "level": 4,
+                      "content": "Word order of the following direct and indirect object pronouns (nos, os) in one- and two-verb\nconstructions (such as os veo, os puedo ver, puedo veros) and plural reflexive pronouns (nos, os,\nse).\nRelative pronouns lo que (invariable) and el que, el cual (and their inflected forms for gender and\nnumber) in subject relative clauses.\nRelative clauses using wh- pronouns (cuando, donde, que).\nPossessive pronouns, agreement for gender and number, for singular and plural possessors (el\nmío, el tuyo, el suyo, el nuestro, el vuestro).\nNeuter demonstrative pronoun (aquello).\nUse of pronouns after prepositions (mí, ti, él, ella, usted, nosotros, vosotros, ellos, with agreement\nfor gender and number), irregular forms (conmigo, contigo), and emphatic use of pronouns after\n‘a’.\nReflexive use of plural forms of pronouns (including with reciprocal function) (eg, nos vemos, os\nentendéis, se besan).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.2.2.2",
+                  "title": "Verb phrases",
+                  "level": 3,
+                  "content": "Highly irregular specific verb forms are listed in the vocabulary list.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Negation",
+                      "level": 4,
+                      "content": "Word order of verbal negation with ya no, (no) tampoco, (no)…ni…, including the use of (no) ni…\nni… for emphasis.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Inflectional morphology",
+                      "level": 4,
+                      "content": "Plural forms in 1st, 2nd, 3rd persons for:\n- Inflectional future\n- Plus irregular verbs (in singular and plural): saber (sabr-), querer (querr-), venir (vendr-),\ndecir (dir-), salir (saldr-) of which the 1st person singular stems are listed in the vocabulary\nlist.\n- Conditional\n- Plus irregular verbs (in singular and plural): saber (sabr-), querer (querr-), venir (vendr-),\ndecir (dir-), salir (saldr-) of which the 1st person singular stems are listed in the vocabulary\nlist.\n- Imperfect, for habitual (equivalent only of English ‘used to + verb’) and ongoing (‘BE + ing’)\nfunctions. This includes the plural forms of the three very high frequency irregular verbs (ir,\nser, ver).\nSome verb forms change the spelling in their stems to preserve pronunciation (eg, present: g → j,\npreterite: c → qu, z → c, g → gu and addition of y to 3rd persons). Such spelling changes will be\ncredit-bearing.\nPreterite stem changes (o → u, e → i) in 3rd person singular and plural for -IR verbs, where the\nverbs are part of an anchor group in the present tense, will be credit-bearing.\nStem changes in the present participle form of some –ir verbs ie, o → u (eg, muriendo), e → i (eg,\nadvirtiendo) will not be credit-bearing. (The pedir cluster will be credit-bearing as at Foundation).\nImperative for affirmative commands in 2nd person singular and plural only.\nSubjunctive mood in the present, for singular persons only, with five high frequency verbs: hacer,\nser, ir, venir, tener (inflected forms as listed in the vocabulary list), with the following functions and\ncontexts of use:\n- future after conjunction of time cuando\n- after verbs of wishing, command, request, and emotion\n- after conjunction que\n- to express purpose after para que.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Multi-verb expressions",
+                      "level": 4,
+                      "content": "- Acabar de + infinitive (as equivalent of ‘HAVE just done + verb’).\nPassive voice: ser + past participle + por, se + 3rd person singular or plural.\n- Use of seguir + present participle and llevar + time period + present participle for ongoing\nactions in the present.\n- Present tense with desde hace (as equivalent of ‘have been + ing for x time’).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Impersonal verbs",
+                      "level": 4,
+                      "content": "Listen in the vocabulary list: (parece, basta, falta, hace falta, vale la pena).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Adjectival phrases",
+                      "level": 4,
+                      "content": "Adjectives with neuter article lo used as nouns (eg, lo bueno).\nPossessive adjectives as post-verbal complement for singular and plural possessors (eg, mío/a/\nos/as, tuyo, suyo, nuestro, vuestro).\nUse of regular superlative adjectives (and irregulars (el mejor, el peor) as listed in the vocabulary\nlist).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Adverbial phrases",
+                      "level": 4,
+                      "content": "Use of regular superlative adverb structures (and irregulars as listed in the vocabulary list).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Prepositions",
+                      "level": 4,
+                      "content": "Antes de, después de + infinitive\nSyntax of prepositions in questions (eg, ¿Con quién hablas?)",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "3.2.3",
+              "title": "Spanish sound symbol correspondences",
+              "level": 2,
+              "content": "This list specifies key differences in sound spelling correspondences between Spanish and English\nwhich students will need to learn at GCSE to be able to read out loud and transcribe with sufficient\naccuracy at this level.\nIt is not an exhaustive list of all the sound-spelling correspondences in the Spanish language.\nWhere a letter or combination of letters is pronounced (or a sound spelt) in approximately the same\nway in Spanish as in English, it is not listed.\n- [a]\n- [o]\n- [e]\n- [i]\n- [u]\n- [ll]\n- [ch]\n- [ca]\n- [co]\n- [cu]\n- [cu] + vowel\n- [ce]\n- [ci]\n- [z]\n- [que]\n- [qui]\n- [ga]\n- [go]\n- [gu]\n- [ge]\n- [gi]\n- [gue]\n- [gui]\n- [j]\n- [ñ]\n- [v]\n- [-r-] [-r]\n- [rr] [r-] [-r-]*\n- silent h\n* word initial [r-] and [-r-] following consonants n, l or s is the same sound-symbol correspondence\n(SSC) as [rr].",
+              "children": [
+                {
+                  "code": "3.2.3.1",
+                  "title": "Key stress positions and associated spelling rules (Higher tier only)",
+                  "level": 3,
+                  "content": "This list specifies key spelling rules determined by the position of stress, which students will need\nto learn at GCSE.\nWhen reading words aloud in Spanish:\n- stress any vowel that has a written accent\n- stress the final syllable in a word, except:\n- stress the penultimate syllable for any word ending in a vowel, ‘n’, or ‘s’ (unless there is a\nwritten accent).\nWhen transcribing Spanish, only write an accent on the stressed vowel for:\n- words with stress on a final syllable ending in a vowel, ‘n’, or ‘s’\n- words with stress on penultimate (second to last) syllable for a word ending in a consonant\n(other than ‘n’ or ‘s’).\nAll words with stress on the antepenultimate (third to last) syllable.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Vocabulary",
+          "level": 1,
+          "content": "Students should learn the GCSE Spanish vocabulary list (Appendix 2) and will be expected to use\nthis vocabulary across a range of contexts and assessment tasks.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Composition of vocabulary content",
+              "level": 2,
+              "content": "1. Students are expected to know 1,200 lexical items for Foundation tier, and a further 500 lexical\nitems for Higher tier. Students are also required to know words which can be regularly inflected\nand (for Paper 3 Reading only) regularly derived from listed lexical items using the grammar\nspecified in section 3.3.\n2. Because no vocabulary is specified for KS2 or KS3, the vocabulary list is comprehensive and\nmakes no assumptions about vocabulary previously taught.\n3. The vocabulary lists include, as part of the 1,200 or 1,700 items, the words listed in the DfE\nsubject content Annex E. These are the words which are referenced in the grammar in section\n3. They include irregular forms of high frequency verbs and other parts of speech.\n4. In addition to the 1,200 and 1,700 items, the vocabulary lists contain:\na. 30 short phrases that are multi-word phrases in Spanish\nb. 20 items to refer to relevant geographical or cultural places/events, including the names of\ncountries to be known receptively and productively.\n5. For Reading only:\na. Higher and overlapping tier texts in Paper 3 may include a small number of words outside the\nvocabulary list. English meanings of such words will be supplied adjacent to the text for\nreference. No more than 2% of words (rounded to the nearest whole word) in any given text\nmay be glossed in this way.\nb. For both Foundation and Higher tiers, all proper nouns (such as cities or countries) that are\nnot on the vocabulary list and are not deemed to be easily understood, can be glossed or\nexplained in an adjacent note.\nc. Up to 2% of words (rounded to the nearest whole word) of any given text can be comprised\nof cognates which are not included in the vocabulary list. Cognates are words in which the\nsubstantial majority of letters are the same in English and the assessed language; they have\nthe same meaning in both languages and any difference in spelling should not impede\nunderstanding for students entered for GCSE Spanish.\n6. Words with multiple meanings but with the same part of speech (eg, the Spanish noun historia\nthat can be translated by the different English words ‘story’ and ‘history’) will be listed as one\nentry in the vocabulary list. All English equivalents that could be tested (eg, in questions that\nrequire working from English to Spanish) are provided.\n7. The vocabulary which students will be expected to know, for both comprehension and\nproduction, will be compiled with close and explicit reference for each item on the list to\nfrequency of occurrence in the language. This information about frequency has been taken from\nDavies, M., & Davies, K. (2018). A frequency dictionary of Spanish: Core vocabulary for\nlearners (2nd ed.). London: Routledge.\n8. At least 85% of the 1,200 and 1,700 words selected has been drawn from the 2,000 most\nfrequent words occurring in the most widely used standard forms of the language. In some\ncases, more than one spelling is in common use, including where recent spelling reforms have\ntaken place. In such cases, tolerance is shown for both versions of the spelling, eg sólo/solo.\nThe vast majority of lexical items listed as vocabulary are single word vocabulary items. Where a\ncompound word or multi-word phrase translates a single English word, it is counted either as a\nseparate lexical item in the main vocabulary list, or as one of the 30 multi-word phrases. However,\nwhere a compound word or phrase can easily be understood from its components, and where the\ncomponents are already included in the list, the compound word will not be included. Easily\nunderstood from its components means that the literal translation of the component parts\nunambiguously gives the meaning in English. An example of an easily understood compound word\nor phrase in Spanish is bajo control. An example of a compound word/phrase in Spanish that is not\neasily understood is no pasa nada.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

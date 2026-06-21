@@ -1,0 +1,30 @@
+{
+  "_comment": "AQA A-level spec PDF URLs verified by HEAD request (HTTP 200, application/pdf) during probing. base = https://filestore.aqa.org.uk/resources/{slug}/specifications/{file}",
+  "entries": [
+    {"subject": "Mathematics",           "slug": "mathematics",           "spec_code": "7357",      "year": "2017", "file": "AQA-7357-SP-2017.PDF"},
+    {"subject": "Further_Mathematics",   "slug": "mathematics",           "spec_code": "7367",      "year": "2017", "file": "AQA-7367-SP-2017.PDF"},
+    {"subject": "Geography",             "slug": "geography",             "spec_code": "7037",      "year": "2016", "file": "AQA-7037-SP-2016.PDF"},
+    {"subject": "Religious_Studies",     "slug": "rs",                    "spec_code": "7062",      "year": "2016", "file": "AQA-7062-SP-2016.PDF"},
+    {"subject": "Spanish",               "slug": "spanish",               "spec_code": "7692",      "year": "2016", "file": "AQA-7692-SP-2016.PDF"},
+    {"subject": "French",                "slug": "french",                "spec_code": "7652",      "year": "2016", "file": "AQA-7652-SP-2016.PDF"},
+    {"subject": "Politics",              "slug": "politics",              "spec_code": "7152",      "year": "2017", "file": "AQA-7152-SP-2017.PDF"},
+    {"subject": "Physical_Education",    "slug": "pe",                    "spec_code": "7582",      "year": "2016", "file": "AQA-7582-SP-2016.PDF"},
+    {"subject": "Music",                 "slug": "music",                 "spec_code": "7272",      "year": "2016", "file": "AQA-7272-SP-2016.PDF"},
+    {"subject": "Drama",                 "slug": "drama",                 "spec_code": "7262",      "year": "2016", "file": "AQA-7262-SP-2016.PDF"},
+    {"subject": "Design_and_Technology", "slug": "design-and-technology", "spec_code": "7552",      "year": "2017", "file": "AQA-7552-SP-2017.PDF"},
+    {"subject": "Media_Studies",         "slug": "media-studies",         "spec_code": "7572",      "year": "2017", "file": "AQA-7572-SP-2017.PDF"},
+    {"subject": "Psychology",            "slug": "psychology",            "spec_code": "7182",      "year": "2015", "file": "AQA-7181-7182-SP-2015.PDF"},
+    {"subject": "Biology",               "slug": "biology",               "spec_code": "7402",      "year": "2015", "file": "AQA-7401-7402-SP-2015.PDF"},
+    {"subject": "Chemistry",             "slug": "chemistry",             "spec_code": "7405",      "year": "2015", "file": "AQA-7404-7405-SP-2015.PDF"},
+    {"subject": "Physics",               "slug": "physics",               "spec_code": "7408",      "year": "2015", "file": "AQA-7407-7408-SP-2015.PDF"},
+    {"subject": "History",               "slug": "history",               "spec_code": "7042",      "year": "2015", "file": "AQA-7041-7042-SP-2015.PDF"},
+    {"subject": "English_Literature",    "slug": "english",               "spec_code": "7712",      "year": "2015", "file": "AQA-7711-7712-SP-2015.PDF"},
+    {"subject": "English_Language",      "slug": "english",               "spec_code": "7702",      "year": "2015", "file": "AQA-7701-7702-SP-2015.PDF"},
+    {"subject": "Sociology",             "slug": "sociology",             "spec_code": "7192",      "year": "2015", "file": "AQA-7191-7192-SP-2015.PDF"},
+    {"subject": "Business_Studies",      "slug": "business",              "spec_code": "7132",      "year": "2015", "file": "AQA-7131-7132-SP-2015.PDF"},
+    {"subject": "Business_Studies",      "slug": "business",              "spec_code": "7132",      "year": "2023", "file": "AQA-7131-7132-SP-2023.PDF"},
+    {"subject": "Economics",             "slug": "economics",             "spec_code": "7136",      "year": "2015", "file": "AQA-7135-7136-SP-2015.PDF"},
+    {"subject": "Computer_Science",      "slug": "computing",             "spec_code": "7517",      "year": "2015", "file": "AQA-7516-7517-SP-2015.PDF"},
+    {"subject": "English_Literature_B",  "slug": "english",               "spec_code": "7717",      "year": "2015", "file": "AQA-7716-7717-SP-2015.PDF"}
+  ]
+}

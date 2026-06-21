@@ -1,0 +1,921 @@
+{
+  "source_pdf": "GCSE/French/8658_2017_to_PRESENT/AQA_GCSE_French_8658_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "French",
+  "spec_code": "8658",
+  "pdf_name": "AQA_GCSE_French_8658_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Themes",
+          "level": 1,
+          "content": "The specification covers three distinct themes. These themes apply to all four question papers.\nStudents are expected to understand and provide information and opinions about these themes\nrelating to their own experiences and those of other people, including people in countries/\ncommunities where French is spoken.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Theme 1: Identity and culture",
+              "level": 2,
+              "content": "Theme 1: Identity and culture covers the following four topics with related sub-topics shown as\nbullet points:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Topic 1: Me, my family and friends",
+                  "level": 3,
+                  "content": "- Relationships with family and friends\n- Marriage/partnership",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 2: Technology in everyday life",
+                  "level": 3,
+                  "content": "- Social media\n- Mobile technology",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 3: Free-time activities",
+                  "level": 3,
+                  "content": "- Music\n- Cinema and TV\n- Food and eating out\n- Sport",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 4: Customs and festivals in French-speaking countries/communities",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Theme 2: Local, national, international and global areas of interest",
+              "level": 2,
+              "content": "Theme 2: Local, national, international and global areas of interest covers the following four topics\nwith related sub-topics shown as bullet points:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Topic 1: Home, town, neighbourhood and region",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 2: Social issues",
+                  "level": 3,
+                  "content": "- Charity/voluntary work\n- Healthy/unhealthy living",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 3: Global issues",
+                  "level": 3,
+                  "content": "- The environment\n- Poverty/homelessness",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 4: Travel and tourism",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Theme 3: Current and future study and employment",
+              "level": 2,
+              "content": "Theme 3: Current and future study and employment covers the following four topics:",
+              "children": [
+                {
+                  "code": "",
+                  "title": "Topic 1: My studies",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 2: Life at school/college",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 3: Education post-16",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "",
+                  "title": "Topic 4: Jobs, career choices and ambitions",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Scope of study",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Listening: understand and respond to spoken language",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- demonstrate general and specific understanding of different types of spoken language\n- follow and understand clear standard speech using familiar language across a range of\nspecified contexts\n- identify the overall message, key points, details and opinions in a variety of short and longer\nspoken passages, involving some more complex language, recognising the relationship\nbetween past, present and future events\n- deduce meaning from a variety of short and longer spoken texts, involving some complex\nlanguage and more abstract material, including short narratives and authentic material\naddressing a wide range of contemporary and cultural themes\n- recognise and respond to key information, important themes and ideas in more extended\nspoken text, including authentic sources, adapted and abridged, as appropriate, by being\nable to answer questions, extract information, evaluate and draw conclusions.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Speaking: communicate and interact in speech",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- communicate and interact effectively in speech for a variety of purposes across a range of\nspecified contexts\n- take part in a short conversation, asking and answering questions, and exchanging opinions\n- convey information and narrate events coherently and confidently, using and adapting\nlanguage for new purposes\n- speak spontaneously, responding to unexpected questions, points of view or situations,\nsustaining communication by using rephrasing or repair strategies, as appropriate\n- initiate and develop conversations and discussion, producing extended sequences of speech\n- make appropriate and accurate use of a variety of vocabulary and grammatical structures,\nincluding some more complex forms, with reference to past, present and future events\n- make creative and more complex use of the language, as appropriate, to express and justify\ntheir own thoughts and points of view\n- use accurate pronunciation and intonation to be understood by a native speaker.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Reading: understand and respond to written language",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- understand and respond to different types of written language\n- understand general and specific details within texts using high frequency familiar language\nacross a range of contexts\n- identify the overall message, key points, details and opinions in a variety of short and longer\nwritten passages, involving some more complex language and recognising the relationship\nbetween past, present and future events\n- deduce meaning from a variety of short and longer written texts from a range of specified\ncontexts, including authentic sources involving some complex language and unfamiliar\nmaterial, as well as short narratives and authentic material addressing relevant contemporary\nand cultural themes\n- recognise and respond to key information, important themes and ideas in more extended\nwritten text and authentic sources, including some extracts from relevant abridged or adapted\nliterary texts\n- demonstrate understanding by being able to scan for particular information, organise and\npresent relevant details, draw inferences in context and recognise implicit meaning where\nappropriate\n- translate a short passage from French into English.",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "Writing: communicate in writing",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- communicate effectively in writing for a variety of purposes across a range of specified\ncontexts\n- write short texts, using simple sentences and familiar language accurately to convey\nmeaning and exchange information\n- produce clear and coherent text of extended length to present facts and express ideas and\nopinions appropriately for different purposes and in different settings\n- make accurate use of a variety of vocabulary and grammatical structures, including some\nmore complex forms, to describe and narrate with reference to past, present and future\nevents\n- manipulate the language, using and adapting a variety of structures and vocabulary with\nincreasing accuracy and fluency for new purposes, including using appropriate style and\nregister\n- make independent, creative and more complex use of the language, as appropriate, to note\ndown key points, express and justify individual thoughts and points of view, in order to\ninterest, inform or convince\n- translate sentences and short texts from English into French to convey key messages\naccurately and to apply grammatical knowledge of language and structures in context.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Grammar",
+          "level": 1,
+          "content": "The grammar requirements for GCSE are set out in two tiers: Foundation Tier and Higher Tier.\nGCSE students will be expected to have acquired knowledge and understanding of French\ngrammar during their course. In the exam they will be required to apply their knowledge and\nunderstanding, appropriate to the relevant tier of entry, drawing from the following lists. The\nexamples in brackets are indicative, not exclusive. For structures marked (R), only receptive\nknowledge is required.\nStudents will be expected to develop and use their knowledge and understanding of this grammar\nprogressively throughout their course.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Foundation Tier",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.3.1.1",
+                  "title": "Nouns",
+                  "level": 3,
+                  "content": "gender\nsingular and plural forms",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.2",
+                  "title": "Articles",
+                  "level": 3,
+                  "content": "definite, indefinite and partitive, including use of de after negatives",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.3",
+                  "title": "Adjectives",
+                  "level": 3,
+                  "content": "agreement\nposition\ncomparative and superlative: regular and meilleur\ndemonstrative (ce, cet, cette, ces)\nindefinite (chaque, quelque)\npossessive\ninterrogative (quel, quelle)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.4",
+                  "title": "Adverbs",
+                  "level": 3,
+                  "content": "comparative and superlative\nregular\ninterrogative (comment, quand)\nadverbs of time and place (aujourd’hui, demain, ici, là-bas)\ncommon adverbial phrases",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.5",
+                  "title": "Quantifiers/intensifiers",
+                  "level": 3,
+                  "content": "très, assez, beaucoup, peu, trop",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.6",
+                  "title": "Pronouns",
+                  "level": 3,
+                  "content": "personal: all subjects, including on\nreflexive\nrelative: qui\nrelative: que (R)\nobject: direct (R) and indirect (R)\nposition and order of object pronouns (R)\ndisjunctive/emphatic\ndemonstrative (ça, cela)\nindefinite (quelqu’un)\ninterrogative (qui, que)\nuse of y, en (R)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.7",
+                  "title": "Verbs",
+                  "level": 3,
+                  "content": "regular and irregular verbs, including reflexive verbs\nall persons of the verb, singular and plural\nnegative forms\ninterrogative forms\nmodes of address: tu, vous\nimpersonal verbs (il faut)\nverbs followed by an infinitive, with or without a preposition\nTenses:\n- present\n- perfect\n- imperfect: avoir, être and faire\n- other common verbs in the imperfect tense (R)\n- immediate future\n- future (R)\n- conditional: vouloir and aimer\n- pluperfect (R)\n- passive voice: present tense (R)\n- imperative\n- present participle.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.8",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "common prepositions eg à, au, à l', à la, aux; de, du, de l', de la, des; après; avant; avec; chez;\ncontre; dans; depuis; derrière; devant; entre; pendant; pour; sans; sur; sous; vers\ncommon compound prepositions eg à côté de; près de; en face de, à cause de; au lieu de",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.9",
+                  "title": "Conjunctions",
+                  "level": 3,
+                  "content": "common coordinating conjunctions eg car; donc; ensuite; et; mais; ou, ou bien, puis\ncommon subordinating conjunctions eg comme; lorsque; parce que; puisque; quand; que; si",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.10",
+                  "title": "Number, quantity, dates and time",
+                  "level": 3,
+                  "content": "including use of depuis with present tense",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.2",
+              "title": "Higher Tier",
+              "level": 2,
+              "content": "Students entering for Higher Tier assessments will be required to apply all grammar and structures\nlisted for Foundation Tier, in addition to the new grammar and structures listed for Higher Tier.",
+              "children": [
+                {
+                  "code": "3.3.2.1",
+                  "title": "Adjectives",
+                  "level": 3,
+                  "content": "comparative and superlative, including meilleur, pire",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.2",
+                  "title": "Adverbs",
+                  "level": 3,
+                  "content": "comparative and superlative, including mieux, le mieux",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.3",
+                  "title": "Pronouns",
+                  "level": 3,
+                  "content": "use of y, en\nrelative: que\nrelative: dont (R)\nobject: direct and indirect\nposition and order of object pronouns\ndemonstrative (celui) (R)\npossessive (le mien) (R)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.4",
+                  "title": "Verbs",
+                  "level": 3,
+                  "content": "Tenses:\n- future\n- imperfect\n- conditional\n- pluperfect\n- passive voice: future, imperfect and perfect tenses (R)\n- perfect infinitive\n- present participle, including use after en\n- subjunctive mood: present, in commonly used expressions (R).",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.5",
+                  "title": "Time",
+                  "level": 3,
+                  "content": "including use of depuis with imperfect tense.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Communication strategies",
+          "level": 1,
+          "content": "Whilst it is useful for students to concentrate on a core of key language for any given topic, it is\nimpossible to predict all the linguistic elements they might meet when reading and listening to\nauthentic French, or which they themselves might need to use.\nFor this reason, the student will need to develop communication strategies as part of the teaching\nand learning process, which will greatly increase their ability to cope successfully with unknown\nwords.\nThere are two main types of strategy: those that relate to understanding (reading and listening) and\nthose that relate to production (speaking and writing).",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Strategies for understanding",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.4.1.1",
+                  "title": "Ignoring words which are not needed",
+                  "level": 3,
+                  "content": "Many tasks contain words which are not essential for an understanding of the main points of the\ntext. What is important in the text is often presented more than once, in different ways: the student\nmay not understand a point in one form of words and understand it fully in another.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.2",
+                  "title": "Using the visual and verbal context",
+                  "level": 3,
+                  "content": "The skilled reader can find many clues about the purpose and content of a text from a study of the\nlayout, the title, the length, the typeface and any related pictures.\nWhen reading and listening, students can learn to infer the meaning of new words from the verbal\ncontext. For example, someone who did not know the word chêne might be able, after some\nappropriate practice, to deduce from the following context that it is some sort of tree: Il s'est assis\nsous un chêne: dans ses branches, un oiseau chantait.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.3",
+                  "title": "Making use of grammatical markers and categories",
+                  "level": 3,
+                  "content": "Students will be helped to master all these strategies if, when reading and listening, they learn to\nuse such clues as the plural forms of nouns and verbs, the way verbs change to form tenses, word\norder and other such features to help them recognise to which category (verb, noun, adjective etc)\nan unknown word belongs. This can be a considerable help in making intelligent guesses about the\nmeaning of the word.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.4",
+                  "title": "Making use of the social and cultural context",
+                  "level": 3,
+                  "content": "Another aid to the drawing of correct inferences is for the students to bear in mind that there are\nregularities in the real world which make it possible to anticipate what people may say or write\nabout it. The ability to predict occurrences in the real world makes it possible to anticipate words,\nand their meaning, in a given context. This is one reason why it is important for a French course to\ndevelop awareness and understanding of countries and communities where French is spoken.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.5",
+                  "title": "Using common patterns with French",
+                  "level": 3,
+                  "content": "Knowledge of the following patterns of word formation in French can help to understand a text.\n- re prefix (eg commencer – recommencer; faire – refaire)\n- the eur ending applied to verbs (eg employer – employeur) and applied to adjectives (eg\ngrand, grandeur, etc)\n- ette ending (eg maison – maisonette; tarte – tartelette; camion – camionette)\n- able ending (eg laver – lavable; manger – mangeable)\n- aine ending (eg quinze – quinzaine; cent – centaine; douze – douzaine)\n- té ending (eg bon – bonté; beau – beauté)\n- ier ending (eg épicerie – épicier; police – policier; ferme – fermier)\n- in prefix (eg actif – inactif; connu – inconnu; cassable – incassable)\n- ion and ation endings (eg réparer – réparation; inventer – invention).",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.6",
+                  "title": "Using cognates and near-cognates",
+                  "level": 3,
+                  "content": "A few 'false friends' (eg expérimenté, sensible, large) make it necessary to use this strategy with\ncare and in collaboration with the strategy of using the visual and verbal context above. However,\nfor each 'false friend' there are very many 'good friends' of which anglophone learners of French\ncan make good use. These fall into two main categories: cognates and near-cognates.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Cognates",
+                      "level": 4,
+                      "content": "There are many words which have the same form and essentially the same meaning in French and\nin English (eg innocent, justice, muscle, rectangle). When such words occur in context, students\ncan be expected to understand them in English and French.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Near-cognates",
+                      "level": 4,
+                      "content": "Students will be expected to understand words which meet the criteria above but which differ\nslightly in their written form in French, usually by the addition of one or more accents and/or the\nrepetition of a letter (eg création, hygiène, mâle, littérature).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.4.1.7",
+                  "title": "Using common patterns between French and English",
+                  "level": 3,
+                  "content": "There are thousands of words in French which, although not having exactly the same form as the\nEnglish word, can easily be understood with the application of a few, simple rules. When words\nwhich can be understood using the rules below occur in context, students will be expected to\nunderstand them.\nRule\nThe French word adds an 'e'\nThe English word adds an 'e'\nWords which end with 'e' or 'é' in French and with\n'y' in English\nWords which end with 'i' or 'ie' in French and with\n'y' in English\nWords which end with aire in French and with 'ar'\nor 'ary' in English\nWords which end with el in French and with al in\nEnglish\nFrench adverbs ending with ment which end with\n'ly' in English\nVerbs which add 'r' or 'er' in the infinitive in French\nVerbs which end with er in French and with 'ate' in\nEnglish\nWords where 'o' or 'u' in English is replaced by ou\nin French\nWords where a 'd' is added in English\nExamples\nbranche, liquide, signe, vaste\nfutur, masculin, paradis, pur\nbeauté, liberté, mystère, armée\néconomie, parti, tragédie\ngrammaire, militaire, populaire\nindividuel, officiel\ncomplètement, généralement, spécialement\nadmirer, confirmer, inspecter\nassassiner, cultiver, décorer\napprouver, gouvernement, mouvement,\nbouddhiste\naventure, avance, juge\nRule\nPresent participles ending in ant in French and\n'ing' in English\nWords which end with e or eux in French and with\n'ous' in English\nWords which end with que in French and with 'c',\n'ck', 'ch', 'k', or 'cal' in English\nWords which end with f in French and with 've' in\nEnglish\nWords which end with eur in French and with 'our',\n'or', or 'er' in English\nWords which end with e or re in French and with\n'er' in English\nWords which end with e in French and 'a' in\nEnglish\nWords where 'u' in English is replaced by o in\nFrench\nWords where 'oun' in English is replaced by on in\nFrench\nWords which have a circumflex accent in French\nand an 's' in English\nWords where dé in French is replaced by 'dis' in\nEnglish\nWords where é or es in French is replaced by 's'\nin English\nStrategies such as those outlined above will generally be more easily applied in reading than in\nlistening, as reading offers more opportunities to slow down, look at unknown items at leisure and\nstudy the context. Words which look the same in two languages may sound quite different.\nAlso, in French, there are many sound features which are not word-based (eg elision; whether or\nnot 'e' is sounded; stress; intonation) and so make the application of some of the strategies for\nunderstanding unknown words more difficult. In particular, it must be remembered that grammatical\nmarkers in the spoken language are often quite different from those in the written one. The most\nobvious are the plural forms:\n- nouns and adjectives frequently have no plural forms: plurality is shown by a change in the\npronunciation of the article or some other related word:\nExamples\ndégoûtant, commençant, nageant\nStudents will be expected to understand such\npresent participles where the infinitive of the\nverb is a listed word\nénorme, précieux, religieux\nautomatique, attaque, physique, risque\nactif, adjectif, possessif\nboxeur, empereur, vigueur\nministre, ordre, interprète\ndrame, propagande\nfonction, prononciation\nannoncer, prononcer\nforêt, honnête, intérêt, tempête\ndécourager, dégoûter\nespace, éponge\nle grand pont – les grands ponts;\n- Verbs either have no plural form at all:\nil donne/ils donnent: il chantait/ils chantaient\n- or add a consonant:\nil vend/ils vendent: il finit/ils finissent.\nTo hear accurately, students should have the specific differences of the spoken language brought\nto their attention. However some of the general strategies for understanding listed above can be\nused successfully in listening. For example:\n- ignoring words which are not needed for a successful completion of the task set\n- using the (visual and) verbal context\n- making use of the social and cultural context\n- using common patterns within French.\nIn addition, the following strategies are included for listening and understanding (in place of reading\nthe above strategies regarding cognates and common patterns between French and English).",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.8",
+                  "title": "Near-cognates",
+                  "level": 3,
+                  "content": "Strictly speaking there are no French words which sound exactly like their English equivalents.\nThere are a few near-cognates which are relatively easily recognised. They are often words\nimported from other languages eg whisky, ski.\nSome words which in reading cause no problem can be unrecognisable in speech. For example,\nspécialisation has seven distinct syllables in French and five in English, it has five specific\npronunciation differences in French and a complete change of stress pattern.\nHowever, provided that certain relationships between sound patterns in French and English are\nrecognised, then French words with a clearly 'different' pronunciation in English can be understood.\nExamples of patterns where a communicative strategy can be applied include the following:\n- the sound [i] will always involve a French i, which in English may be a diphthong eg pipe,\nmine\n- the sound [a] will always involve a French a which in English may be a diphthong eg nation\n- the termination [œr] is always eur which may be English -or or -er eg acteur\n- the termination [siɔ] is always -tion or -sion and therefore English [Ÿen], eg nation, passion\n- the termination [if] in French is -if and in English is often \"-ive\" eg actif\n- the termination [ik] in French is -ique and ic and in English is often \"-ic\" or \"-ical\" eg physique\n- the initial [Ÿ] is usually the English ch eg chapelle, charme.\n- the termination [mα˜] which can be added to many of the adjectives in the lists to form the\nadverb eg complètement\n- the termination [α˜] which can be added to the stem of listed verbs to give the present\nparticiple eg mangeant, gémissant.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.4.2",
+              "title": "Strategies for production",
+              "level": 2,
+              "content": "Research and experience show that people who communicate effectively in a foreign language\ntend to make good use of systematic efficient verbal and non-verbal strategies to get meaning\nacross, in spite of their imperfect command of the language.\nIndividual students may fail to learn – or forget – language items required by some tests, or they\nmay wish to attempt to go beyond the demands of the specification in completing the task set. In\nthese circumstances, the following strategies can prove useful. They fall into two main categories:\nnon-verbal and verbal.",
+              "children": [
+                {
+                  "code": "3.4.2.1",
+                  "title": "Non-verbal strategies",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Pointing and demonstration",
+                      "level": 4,
+                      "content": "This may be accompanied by some appropriate language (eg \"Comme ça…\" \"Qu'est-ce que\nc'est ?\" \"Ça fait mal ici\").",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Expression and gesture",
+                      "level": 4,
+                      "content": "This may be accompanied, where appropriate, with sounds (eg \"Oh !\" which, with appropriate\nintonation, facial expression and gestures, can convey such attitudes and functions as pain,\nsurprise, anger, fear, pleasure and admiration).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Mime",
+                      "level": 4,
+                      "content": "This can be accompanied by appropriate sounds and language and can sometimes help\ncommunication to be maintained when it might otherwise break down (eg \"Je peux vous aider ?\"\nwith a suitable mime if one has forgotten the words such as \"balayer\" and \"essuyer\"). This strategy\nhas obvious limitations in a speaking test which is recorded and assessed on the basis of the\nrecording.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Drawing",
+                      "level": 4,
+                      "content": "This can be an efficient strategy with some tasks (especially written) and can convey both attitude\nand information (eg a diagram showing how to get from one point, such as a station, to another, for\ninstance a home).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.4.2.2",
+                  "title": "Verbal strategies",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Using a word which refers to a similar item",
+                      "level": 4,
+                      "content": "Using a word which refers to a similar item to the one the speaker/writer wishes to refer to, but for\nwhich he/she has forgotten the word (eg montre for horloge, tasse for verre, fleur for rose or prêter\nfor louer). This is not always effective and its use would be assessed according to its effectiveness\nin a particular context.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Description of physical properties",
+                      "level": 4,
+                      "content": "This can be used to refer to something when the name has been forgotten (eg \"c'est rond... le fruit\njaune... l'objet qu'on voit sur la table...\"). The physical properties refer to colour, size, material,\nposition and shape. The use of this strategy in an exam would be assessed according to its\ncommunicative effectiveness.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Requests for help",
+                      "level": 4,
+                      "content": "These can include requests for rewording (eg \"Comment dit-on 'chair' en français…?\" \"Qu'est-ce\nque cela veut dire en anglais ?\") and questions; which make no reference to English (eg\n\"Comment s'appelle cette machine-là ?\"…\"Ça s'écrit comment ?\"). It is clearly preferable to use\nsuch requests for help than for communication to collapse and their use will be assessed according\nto the context. When requests for help with specific problems occur, the teacher should maintain\nthe role of a sympathetic native speaker and help accordingly. The teacher should avoid taking\nover from the student and carrying out the tasks set.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Simplification",
+                      "level": 4,
+                      "content": "This is when a student avoids the use of a form of which he/she is unsure (eg \"il faut que je m'en\naille\"…\"je viendrai s'il fait beau\") by using a form he/she finds simpler (eg \"je dois partir\"…\"je viens\ns'il fait beau\"). When such simple forms are used correctly and appropriately they will be rewarded\naccordingly. Correct and appropriate use of more complex forms will also be rewarded.\nA systematic use of simplified forms may reduce error, facilitate communication and increase\nfluency but, if overused, this strategy may result in students failing to make full use of their\ncapabilities.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Paraphrase",
+                      "level": 4,
+                      "content": "This is where the student uses words and messages in acceptable French, avoiding the use of\nwords which he/she has forgotten (eg \"Elle n'est pas mariée\" for \"Elle est célibataire\", \"C'est\ncomme un…\" \"C'est le contraire de…\" \"C'est une sorte de…\" \"Je voudrais une tranche de cette\nviande-là\"). When used well, this strategy communicates the message effectively to a sympathetic\nnative speaker and such use in an exam would be assessed accordingly.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Reference to specific features",
+                      "level": 4,
+                      "content": "Reference to specific features (eg \"L'animal aux longues oreilles…\" \"La jeune fille qui porte des\nlunettes…\") is often quite effective and its use would be assessed accordingly in an exam.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Reference to the function of an object",
+                      "level": 4,
+                      "content": "Reference to the function of an object and the actions that can be performed with it (eg \"L'objet\nqu'on utilise pour ouvrir une bouteille\") is a commonly used strategy which is usually effective in\ncommunicative terms.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Word coinage",
+                      "level": 4,
+                      "content": "Another strategy sometimes used by language learners is word coinage, the creation of words\nbased either on English or French words. This strategy usually produces words which do not exist\nin French or, if they do exist, have a different meaning from the one intended. The use of this\nstrategy is rarely effective in promoting communication and students would be well advised to use\nit only if all other strategies fail.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Topic avoidance",
+                      "level": 4,
+                      "content": "Another commonly used strategy is topic avoidance, when the student avoids or abandons a topic\nbecause of inability to deal with it. Use of this strategy in the exam will not allow the student to be\ngiven full credit. Use of it in a learning situation will reduce opportunities for the development or\nexpansion of the student's repertoire. It is a strategy which should be discouraged. A basic\ncondition for communication strategies to have a potential learning effect is that they are governed\nby achievement, rather than avoidance behaviour.\nEvidence suggests that the availability of a range of strategies such as those outlined above, and\nflexibility in their use, represent an important advantage in overall communicative effectiveness. It\nalso appears that the most effective strategies demand some linguistic proficiency and that the\nmore proficient speakers are also better at using communication strategies effectively.\nThe development of such strategies cannot be seen as encouragement not to develop linguistic\nknowledge. Strategic competence is not a substitute for vocabulary learning, but a useful\nsupplement. All language users make use of communication strategies, even in their first\nlanguage, and really successful strategies usually pass unnoticed. It is an important part of the\nteaching and learning process.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Vocabulary",
+          "level": 1,
+          "content": "The minimum core vocabulary lists are primarily intended as a guide for teachers to assist in the\nplanning of schemes of work.\nThe assessment tasks at Foundation Tier will require students to understand and respond to\ncommon or familiar words and/or forms of words that are not on the vocabulary list.\nThe assessment tasks at Higher Tier will require students to understand and respond to words\nand/or forms of words that are not on the vocabulary list and which are less common or familiar\nthan those used in relation to Foundation Tier assessments.\nVocabulary listed under a particular theme should be considered transferable, as appropriate, to\nthe other themes.\nStudents will be expected to be familiar with feminine forms of nouns/adjectives where these are\nnot given.\nThe vocabulary lists reflect the spelling rules in force before the changes approved by the\nAcadémie française were introduced. Examiners will accept both versions of the spellings affected\nby this reform, ie old and new.",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "Rubrics and instructions",
+              "level": 2,
+              "content": "The following is a guide to the sort of rubrics and instructions which will be used in Section B of the\nListening and Reading exams. The list is indicative, not exclusive.\nFrench\nAttention ! Vous pouvez utiliser la même lettre\nplus d'une fois.\nC’est quelle personne ? Ecrivez le nom de la\nbonne personne.\nC’est qui ? Ecrivez le nom de la bonne\npersonne.\nChoisissez (deux) phrases qui sont vraies.\nChoisissez la réponse correcte/la bonne\nréponse.\nComplétez … en français.\nComplétez la grille.\nComplétez le texte suivant avec les mots de la\nliste ci-dessous.\nComplétez les phrases avec les mots de la\nliste.\nDécidez si c’est Vrai (V), Faux (F) ou Pas\nMentionné (PM). Ecrivez V, F ou PM.\nDonnez (deux) détails.\nEcoutez ce passage/cette conversation/cette\ninterview/ce reportage…\nEnglish\nNB You can use the same letter more than\nonce.\nWhich person is it? Write the name of the\ncorrect person.\nWho is it? Write the name of the correct person.\nChoose (two) correct sentences.\nChoose the correct answer.\nComplete… in French.\nComplete the grid.\nComplete the following text with words from the\nlist below.\nComplete the sentences with words from the\nlist.\nDecide if it is True (V), False (F) or Not\nMentioned (PM). Write V, F or PM.\nGive (two) details.\nListen to this passage/this conversation/this\ninterview/this report…\nFrench\nEcrivez la bonne lettre dans chaque case.\nEcrivez la bonne lettre dans la case.\nEcrivez les bonnes lettres dans les cases.\nIdentifiez la bonne personne.\nIl n’est pas nécessaire d’écrire en phrases\ncomplètes.\nLisez …\nMentionnez un aspect positif/négatif/avantage/\ninconvénient.\nPour une opinion négative, écrivez N\nPour une opinion positive, écrivez P\nPour une opinion positive et négative, écrivez P\n+N\nQuelle est la réponse correcte ?\nQui … ?\nRemplissez les blancs.\nRépondez à ces questions.\nRépondez (aux questions) en français.\nThe following is a guide to the sort of rubrics and instructions which will be used in the Writing\nexam. The list is indicative, not exclusive.\nFrench\nDécrivez …\nEcrivez …\nEcrivez environ 40 mots en français.\nEcrivez environ 90 mots en français.\nRépondez à chaque aspect de la question.\nEcrivez environ 150 mots en français.\nRépondez aux deux aspects de la question.\nEcrivez quatre phrases en français sur la\nphoto.\nMentionnez …\nEnglish\nWrite the correct letter in each box.\nWrite the correct letter in the box.\nWrite the correct letters in the boxes.\nIdentify the correct person.\nIt is not necessary to write in full sentences.\nRead…\nMention one positive aspect/negative aspect/\nadvantage/disadvantage\nFor a negative opinion, write N\nFor a positive opinion, write P\nFor a positive and negative opinion, write P+N\nWhich is the correct answer?\nWho…?\nFill in the blanks.\nAnswer these questions.\nAnswer (the questions) in French.\nEnglish\nDescribe...\nWrite...\nWrite approximately 40 words in French.\nWrite approximately 90 words in French. Write\nsomething about each bullet point.\nWrite approximately 150 words in French. Write\nsomething about both bullet points.\nWrite four sentences in French about the\nphoto.\nMention...",
+              "children": []
+            },
+            {
+              "code": "3.5.2",
+              "title": "General vocabulary",
+              "level": 2,
+              "content": "Students will be expected to use and understand the general vocabulary listed below. This\nvocabulary is not restricted to specific settings and can occur in any of the themes listed in the\nspecification.",
+              "children": [
+                {
+                  "code": "3.5.2.1",
+                  "title": "Comparisons",
+                  "level": 3,
+                  "content": "French\nEnglish\nplus/moins\nmore/less\nplus que/moins que\nmore than/less than\nbon/meilleur/le meilleur\ngood/better/best\nmauvais/pire/le pire\nbad/worse/worst\nbien/mieux/le mieux\nwell/better/best\nmal/plus mal/le plus mal\nbadly/worse/worst\nbeaucoup/plus/le plus\nlots/more/the most\npeu/moins/le moins\nfew, little/less/the least",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.2",
+                  "title": "Conjunctions and connectives",
+                  "level": 3,
+                  "content": "French\nEnglish\nà cause de\nbecause of\nà part\napart from\nainsi\nso, therefore\nalors\nso, therefore, then\naussi\nalso\ncar\nbecause\ncependant\nhowever\nc’est-à-dire\nthat is to say, i.e.\ncomme\nas, like\nd’un côté/de l’autre côté\non the one hand/on the other hand\ndonc\nso, therefore\nensuite\nnext\névidemment\nobviously\nFrench\nEnglish\nmais\nbut\nmême si\neven if\nou\nor\npar contre\non the other hand\npar exemple\nfor example\npendant que\nwhile\npourtant\nhowever\npuis\nthen\npuisque\nseeing that, since\nquand\nwhen\nsans doute\nundoubtedly, without doubt, probably\nsi\nif\ny compris\nincluding",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.3",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "French\nEnglish\nà\nto, at\nà côté de\nnext to\nà travers\nacross, through\nau bord de\nat the side/edge of\nau bout de\nat the end of (ie length, rather than time)\nau-dessous de\nbeneath, below\nau-dessus de\nabove,over\nau fond de\nat the back of, at the bottom of\nau lieu de\ninstead of\nFrench\nEnglish\nau milieu de\nin the middle of\nautour de\naround\ncontre\nagainst\nde\nof, from\ndepuis\nsince, for\nderrière\nbehind\ndevant\nin front of\nen\nin, within (time)\nen dehors de\noutside (of)\nen face de\nopposite\nentre\nbetween\njusqu’à\nup to, until\nmalgré\ndespite, in spite of\nparmi\namongst\npour\nfor, in order to\nprès de\nnear\nsans\nwithout\nselon\naccording to\nsous\nunder\nsur\non\nvers\ntowards",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.4",
+                  "title": "Negatives",
+                  "level": 3,
+                  "content": "French\nEnglish\nne...jamais\nnever\nFrench\nEnglish\nne…pas\nnot\nne...personne\nnobody, no-one\nne...plus\nno more, no longer\nne…que\nonly, nothing but\nne…rien\nnothing\nni…ni\nneither….nor\npas encore\nnot yet",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.5",
+                  "title": "Alphabet and accents",
+                  "level": 3,
+                  "content": "Students are expected to know the letters of the alphabet and appropriate accents.",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.6",
+                  "title": "Numbers",
+                  "level": 3,
+                  "content": "Students are expected to know the cardinal numbers 0–1,000 and the word for 1,000,000 (million\nle).\nThey are also expected to know the ordinal numbers first-tenth (premier/première–dixième).",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Other number expressions",
+                      "level": 4,
+                      "content": "French\nEnglish\ndizaine une\nabout 10\ndouzaine une\ndozen\nnombre de\nnumber of",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.2.7",
+                  "title": "Asking questions",
+                  "level": 3,
+                  "content": "French\nEnglish\ncombien ?\nhow much, how many?\ncomment ?\nhow?\nest-ce que ?\nexpression put before a verb to make sentence into\na question\noù ?\nwhere?\npourquoi ?\nwhy?\nFrench\nEnglish\nquand ?\nwhen?\nque ?\nwhat?\nquel/quelle ?\nwhich?\nqu’est-ce que ?\nwhat?\nqu’est-ce qui ?\nwhat?\nqu’est-ce que c’est ?\nwhat is it?\nqui ?\nwho?\nquoi ?\nwhat?",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Common questions",
+                      "level": 4,
+                      "content": "French\nEnglish\nà quelle heure ?\nat what time?\nça s’écrit comment ?\nhow is that written?\nc’est combien ?\nhow much is it?\nc’est quelle date ?\nwhat is the date?\nc’est quel jour ?\nwhat day is it?\nde quelle couleur ?\nwhat colour?\nd’où ?\nfrom where?\npour combien de temps ?\nfor how long?\nque veut dire... ?\nwhat does... mean?\nquelle heure est-il ?\nwhat time is it?",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.2.8",
+                  "title": "Greetings and exclamations",
+                  "level": 3,
+                  "content": "French\nEnglish\nà bientôt\nsee you soon\nà demain\nsee you tomorrow\nFrench\nEnglish\nà tout à l’heure\nsee you soon/later\nallô\nhello (on phone)\namitiés\nbest wishes\nau secours\nhelp\nbien sûr\nof course, certainly\nbienvenue\nwelcome\nbon anniversaire\nhappy birthday\nbon appétit\nenjoy your meal\nbon voyage\nhave a good trip\nbonne année\nhappy new year\nbonne chance\ngood luck\nbonne idée\ngood idea\nbonne nuit\ngood night\nbonnes vacances\nhave a good holiday\nbonsoir\ngood evening\nd’accord\nok\nde rien\ndon't mention it\ndésolé (e)\nsorry\nexcusez-moi\nexcuse me\nfélicitations\ncongratulations\njoyeux Noël\nMerry Christmas\nmeilleurs voeux\nbest wishes\npardon\nexcuse me\nquel dommage\nwhat a pity\nFrench\nEnglish\nsalut\nhi\nsanté\ncheers\ns’il te/vous plaît\nplease",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.9",
+                  "title": "Opinions",
+                  "level": 3,
+                  "content": "French\nEnglish\nà mon avis\nin my opinion\nabsolument\nabsolutely\naffreux\nawful\nagréable\npleasant\namusant\nfunny\nbarbant\nboring\nbien entendu\nof course\nbien sûr\nof course\nça dépend\nthat depends\nça m’énerve\nit gets on my nerves\nça me fait rire\nit makes me laugh\nça me plaît\nI like it\nça m’est égal\nit’s all the same to me\nça ne me dit rien\nit means nothing to me/I don't fancy that/I don't feel\nlike it\nça suffit\nthat’s enough\ncasse-pieds\nannoying\ncertainement\ncertainly\ncher\ndear, expensive\nchouette\ngreat\nFrench\nEnglish\ncomme ci comme ça\nso-so\ncompliqué\ncomplicated\nhappy\ncroire\nto believe\ndésagréable\nunpleasant\ndésirer\nto want\ndétester\nto hate\ndire\nto say\ndrôle\nfunny\nembêtant\nannoying\nen général\nin general\nenchanté\ndelighted\nennuyeux\nboring\nespérer\nto hope\nétonné\nastonished, amazed\nfacile\neasy\nfaible\nweak\nformidable\ngreat\nfranchement\nfrankly\ngénéralement\ngenerally\ngénial\ngreat\ngrave\nserious\nhabile\nclever\nintéressant\ninteresting\nFrench\nEnglish\n(s’)intéresser à\nto be interested in\ninutile\nuseless\nincroyable\nincredible\ninquiet/inquiète\nworried\nmarrant\nfunny\nmarre (en avoir)\n(to be) fed up\nmauvais\nbad\nmerveilleux/merveilleuse\nmarvellous\nmignon/mignonne\ncute\nmoche\nugly\n(moi) non plus\nnor me neither, nor do I\nnouveau\nnew\nnul\nrubbish\nparfait\nperfect\npassionnant\nexciting\npeine la\nthe bother\npenser\nto think\npeut-être\nperhaps\npratique\npractical\npréférer\nto prefer\npromettre\nto promise\nridicule\nridiculous\nrigolo\nfunny\nsage\nwell behaved\nFrench\nEnglish\nsembler\nto seem\nsensass\nsensational\nsupporter\nto put up with\nutile\nuseful\nvouloir\nto wish, want\nvraiment\nreally, truly",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.10",
+                  "title": "Expressions of time",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Seasons",
+                      "level": 4,
+                      "content": "French\nEnglish\nprintemps le\nspring\nété l' (m)\nsummer\nautomne l' (m)\nautumn\nhiver l' (m)\nwinter",
+                      "children": [
+                        {
+                          "code": "",
+                          "title": "Time expressions",
+                          "level": 5,
+                          "content": "French\nEnglish\nà la fois\nat the same time\nà l’avenir\nin the future\nà l’heure\non time\nà temps partiel\npart-time\nan l' (m)\nyear\nannée l' (f)\nyear\naprès\nafter\naprès-demain\nthe day after tomorrow\naprès-midi\nafternoon\nFrench\nEnglish\naujourd’hui\ntoday\nauparavant\nformerly, in the past\navant\nbefore\navant-hier\nthe day before yesterday\nbientôt\nsoon\nd’abord\nat first, firstly\nd’habitude\nusually\nde bonne heure\nearly\ndébut le\nstart\ndemain\ntomorrow\ndernier/dernière\nlast\nde temps en temps\nfrom time to time\ndéjà\nalready\nde nouveau\nagain\nen attendant\nwhilst waiting (for), meanwhile\nen avance\nin advance\nen ce moment\nat the moment\nen retard\nlate\nen train de (faire...)\n(to be) doing\nen même temps\nat the same time\nencore une fois\nonce more, again\nenfin\nat last, finally\nenviron\nabout, approximately\nfin la\nend\nFrench\nEnglish\nhier\nyesterday\nil y a\nago\njour le\nday\njournée la\nday\nlendemain le\nthe next day\nlongtemps\nfor a long time\nmaintenant\nnow\nmatin le\nmorning\nmois le\nmonth\nnormalement\nnormally\nnuit la\nnight\nparfois\nsometimes\npassé le\npast\npendant\nduring\nplus tard\nlater\npresque\nalmost, nearly\nprochain\nnext\nquelquefois\nsometimes\nrarement\nrarely\nrécemment\nrecently\nsemaine la\nweek\nseulement\nonly\nsiècle le\ncentury\nsoir le\nevening\nFrench\nEnglish\nsoudain\nsuddenly\nsouvent\noften\nsuivant\nfollowing\nsur le point de (être)\n(to be) about to\ntard\nlate\ntôt\nearly\ntoujours\nalways, still\ntous les jours\nevery day\ntout à coup\nsuddenly, all of a sudden\ntout de suite\nimmediately\nvite\nquickly",
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.2.11",
+                  "title": "Location and distance",
+                  "level": 3,
+                  "content": "French\nEnglish\nà droite\non/to the right\nà gauche\non/to the left\nbanlieue la\nsuburb\ncentre-ville le\ntown centre\ncampagne la\ncountryside\nchez\nat the house of\nde chaque côté\nfrom each side\nde l’autre côté\nfrom the other side\nen bas\ndown(stairs)\nen haut\nup(stairs)\nest l' (m)\neast\nFrench\nEnglish\nici\nhere\nlà\nthere\nlà-bas\nover there\nloin de\nfar from\nnord le\nnorth\nnulle part\nnowhere\nouest l' (m)\nwest\npar\nby\npartout\neverywhere\nquelque part\nsomewhere\nsitué (e)\nsituated\nsud le\nsouth\ntout droit\nstraight ahead\ntout près\nvery near\ntoutes directions\nall directions\nville la\ntown",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.12",
+                  "title": "Colours",
+                  "level": 3,
+                  "content": "French\nEnglish\nchâtain\nlight brown\nclair\nlight\nfoncé\ndark\nmarron\nbrown\nnoisette\nhazel\npourpre\npurple\nFrench\nEnglish\nrose\npink\nroux\nginger",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.13",
+                  "title": "Weights and measures",
+                  "level": 3,
+                  "content": "French\nEnglish\nassez\nenough, quite\nbas\nlow\nboîte la\nbox, tin, can\nbouteille la\nbottle\ncourt\nshort\ndemi le\nhalf\nencore de\nmore\nétroit\nnarrow\ngros\nfat\nhaut\nhigh\nlarge\nwide\nmaigre\nskinny, thin\nmince\nslim, thin\nmoitié la\nhalf\nmorceau le\npiece\nmoyen/moyenne\nmedium, average\nnombre le\nnumber\npaquet le\npacket\npas mal de\nlots of\npeser\nto weigh\nFrench\nEnglish\nplein de\nfull of, lots of\npointure la\nsize (for shoes)\nsuffisamment\nsufficiently\ntaille la\nsize (for clothes)\ntranche la\nslice\ntrop\ntoo (much)",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.14",
+                  "title": "Shape",
+                  "level": 3,
+                  "content": "French\nEnglish\ncarré\nsquare\nrond\nround",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.15",
+                  "title": "Weather",
+                  "level": 3,
+                  "content": "French\nEnglish\naverse l' (f)\nshower\nbriller\nto shine\nbrouillard le\nfog\nbrume la\nmist\nchaleur la\nheat\nciel le\nsky\nclimat le\nclimate\ncouvert\novercast\ndoux\nmild\néclair l' (m)\nlightning\néclaircie l' (f)\nbright spell\nensoleillé\nsunny\nFrench\nEnglish\nfaire beau\nto be fine (weather)\nfaire mauvais\nto be bad (weather)\ngeler\nto freeze\nglace la\nice\nhumide\nhumid, wet\nmétéo la\nweather forecast\nmouillé\nwet\nneiger\nto snow\nnuage le\ncloud\nnuageux\ncloudy\nombre l' (m)\nshade, shadow\norage l' (m)\nstorm\norageux\nstormy\npleuvoir\nto rain\npluie la\nrain\nsec/sèche\ndry\ntempête la\nstorm\ntemps le\nweather\ntonnerre le\nthunder\ntremper\nto soak\nvent le\nwind",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.16",
+                  "title": "Access",
+                  "level": 3,
+                  "content": "French\nEnglish\ncomplet/complète\nfull\nFrench\nEnglish\nentrée l' (f)\nentry, entrance\nlibre\nfree, vacant, unoccupied\nfermer\nto close\ninterdit\nforbidden, not allowed\noccupé\ntaken, occupied, engaged\nouvert\nopen\nouvrir\nto open\nsortie la\nexit",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.17",
+                  "title": "Correctness",
+                  "level": 3,
+                  "content": "French\nEnglish\navoir raison\nto be right\navoir tort\nto be wrong\ncorriger\nto correct\nerreur l' (f)\nerror, mistake\nfaute la\nfault, mistake\nfaux/fausse\nfalse\nil (me) faut\nyou (I) must\njuste\ncorrect\nobligatoire\ncompulsory\nparfait\nperfect\nsûr\ncertain, sure\nse tromper\nto make a mistake\nvrai\ntrue",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.18",
+                  "title": "Materials",
+                  "level": 3,
+                  "content": "French\nEnglish\nargent l' (m)\nsilver\nbéton le\nconcrete\nbois le\nwood\ncuir le\nleather\nfer le\niron\nlaine la\nwool\nor l' (m)\ngold\nsoie la\nsilk\nverre le\nglass",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.19",
+                  "title": "Common abbreviations",
+                  "level": 3,
+                  "content": "French\nEnglish\nCDI centre de documentation et\nresource centre\nd’information le\nCES collège d’enseignement secondaire le\nsecondary school\nEPS éducation physique et sportive l’ (f)\nPE (physical education)\nHLM habitation à loyer modéré l’ (f)\ncouncil/social housing accommodation\nSAMU service d’aide médicale d’urgence le\nemergency medical services\nSDF sans domicile fixe le\nhomeless person\nSNCF société nationale des chemins de fer\nNational Rail Service\nfrançais la\nTGV train à grande vitesse le\nhigh-speed train\nTVA taxe sur la valeur ajoutée la\nVAT (Value Added Tax)\nVTT vélo tout terrain le\nmountain bike",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.5.3",
+              "title": "Theme-based vocabulary (Foundation Tier)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.3.1",
+                  "title": "Identity and culture",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Me, my family and friends",
+                      "level": 4,
+                      "content": "French\nEnglish\naimable\nkind\naîné\nelder\namour l’ (m)\nlove\ns’appeler\nto be called\navoir...ans\nto be...years old\nbarbe la\nbeard\nbavard\nchatty/talkative\nbeau/belle/bel\nbeautiful\nbeau-père le\nstep-father\nbelle-mère la\nstep-mother\nbête\nstupid, silly\nbouclé\ncurly\ncélibataire\nsingle\ncheveux les (m)\nhair\ncopain le/copine la\nfriend, mate\ncourt\nshort\ndemi-frère le\nhalf-brother\ndemi-sœur la\nhalf-sister\nse disputer\nto argue\ndire\nto say, tell\négoïste\nselfish\nensemble\ntogether\nFrench\nEnglish\ns’entendre (avec)\nto get on (with)\nfâché\nangry\nse faire des amis\nto make friends\nfemme la\nwife/woman\nfille la\ndaughter/girl\nfils le\nson\nfrisé\ncurly\ngénéreux/généreuse\ngenerous\ngentil/gentille\nkind, nice\ngrand-mère la\ngrandmother\ngrand-père le\ngrandfather\ngrands-parents les (m)\ngrandparents\ngros/grosse\nfat\nheureux/heureuse\nhappy\ninjuste\nunfair\njeune\nyoung\njoli\npretty\nlaid\nugly\nlong/longue\nlong\nlunettes les (f)\nglasses\nmari le\nhusband\nse marier\nto get married, marry\nméchant\nnaughty\nmi-long\nmedium length\nFrench\nEnglish\nmort\ndead\nnaissance la\nbirth\nné(e) le...\nborn on the...\nnom le\nname\nparesseux/paresseuse\nlazy\npartager\nto share\npartenaire le/la\npartner\npénible\nannoying\npetit ami le\nboyfriend\npetite amie la\ngirlfriend\npetite-fille la\ngrand-daughter\npetit-fils le\ngrandson\nprénom le\nfirst name\nraide\nstraight\nrapports les (m)\nrelationships\nsens de l’humour le\nsense of humour\nséparé\nseparated\nsortir\nto go out\nsportif/sportive\nsporty\nsympa\nkind, nice\nde taille moyenne\nmedium height\ntante la\naunt\ntimide\nshy\ntranquille\nquiet, calm\nFrench\nEnglish\ntravailleur/travailleuse\nhard-working\ntriste\nsad\nunique\nonly\nvieux/vieil/vieille\nold\nyeux les (m)\neyes",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Technology in everyday life",
+                      "level": 4,
+                      "content": "French\nEnglish\nacheter\nto buy\navantage l’ (m)\nadvantage\nchercher\nto look for\nclavier le\nkeyboard\ncliquer\nto click\ndangereux\ndangerous\ndésavantage le\ndisadvantage\nécran l’ (m)\nscreen\nenvoyer\nto send\nfaire des achats\nto shop\nforum le\nchat room\nimprimante l’ (f)\nprinter\ninconvénient l’ (m)\ndisadvantage, drawback\njeu le\ngame\nlecteur DVD le\nDVD player\nlecteur MP3 le\nMP3 player\nen ligne\nonline\nFrench\nEnglish\nmettre\nto put\nmettre en ligne\nto upload\nmot de passe le\npassword\nordinateur l’ (m)\ncomputer\nordinateur portable l’ (m)\nlaptop\nordinateur tablette l’ (m)\ntablet\npasser du temps\nto spend time\nportable le\nmobile (phone)\nrecevoir\nto receive\nréseau social le\nsocial network\nrester en contact\nto stay in contact\nsite internet/web le\nwebsite\nsouris la\nmouse\nsurfer sur Internet\nto surf the internet\ntaper\nto type\ntchater\nto talk online\ntélécharger\nto download\ntexto le\ntext\ntouche la\nkey",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Free-time activities",
+                      "level": 4,
+                      "content": "French\nEnglish\nactualités les (f)\nnews\nagneau l’ (m)\nlamb\nargent l’ (m)\nmoney\nFrench\nEnglish\nassiette l’ (f)\nplate/dish\nbasket le\nbasketball\nbeurre le\nbutter\nbière la\nbeer\nbillet le\nticket\nbœuf le\nbeef\nboire\nto drink\nboisson la\ndrink\ncanard le\nduck\nla carte\nmenu\ncentre sportif le\nsports centre\ncerise la\ncherry\nchampignon le\nmushroom\nchanter\nto sing\nchanteur le/chanteuse la\nsinger\nchanson la\nsong\ncheval le\nhorse\nchoisir\nto choose\nchou le\ncabbage\nchou-fleur le\ncauliflower\ncitron le\nlemon\nclub des jeunes le\nyouth club\ncommander\nto order\ncommencer\nto start\nFrench\nEnglish\nconfiture la\njam\ncourir\nto run\ncoûter\nto cost\ncrêpe la\npancake\ncrudités les (f)\nraw chopped vegetables\ndébuter\nto begin\ndessin animé le\ncartoon\ndinde la\nturkey\neau (minérale) l’ (f)\n(mineral) water\néquitation l’ (f)\nhorse riding\nescalade l’ (f)\nrock climbing\nescargot l’ (m)\nsnail\nessayer\nto try\nfana de (le)\na fan of\nfeuilleton le\nsoap opera\nfilm de guerre le\nwar film\nfilm policier le\ndetective film\nfraise la\nstrawberry\nframboise la\nraspberry\nfruits de mer les (m)\nseafood\nglace la\nice cream\ngoûter\nto taste\nharicots verts les (m)\ngreen beans\nhors d’œuvre le (m)\nstarter\nFrench\nEnglish\ns’intéresser à\nto be interested in\njambon le\nham\njeu télévisé le\ngame show\nlait le\nmilk\nlégumes les (m)\nvegetables\nnatation la\nswimming\nnourriture la\nfood\nœuf l’ (m)\negg\noignon l’ (m)\nonion\npasse-temps le\nhobby\npâtes les (f)\npasta\npatinage à glace le\nice skating\npatinoire la\nice rink\npayer\nto pay (for)\npêche la\nfishing/peach\npetits pois les (m)\npeas\nplanche à voile la\nwind-surfing\nplat principal le\nmain meal/dish\npoire la\npear\npoisson le\nfish\npoivre le\npepper\npomme la\napple\npomme de terre la\npotato\npotage le\nsoup\nFrench\nEnglish\npoulet le\nchicken\npiscine la\nswimming pool\npourboire le\ntip\nprendre\nto take\npromenade la\nwalk\npublicité la\nadverts\nraisins les (m)\ngrapes\nrencontrer\nto meet\nrepas le\nmeal\nriz le\nrice\nsaucisse la\nsausage\nsaumon le\nsalmon\nsel le\nsalt\nsérie la\nseries\nserveur le/serveuse la\nwaiter, waitress\nskate le\nskateboarding\nski (nautique) le\n(water) skiing\nsports d’hiver les (m)\nwinter sports\nstade le\nstadium\nsteak haché le\nburger\nsucre le\nsugar\ntasse la\ncup\ntélé réalité la\nreality television\ntemps libre le\nfree time\nFrench\nEnglish\nthé le\ntea\nthon le\ntuna\ntruite la\ntrout\nvedette la\nfilm star\nviande la\nmeat\nvoile la\nsailing\nvoir\nto see\nvolley le\nvolleyball\nvouloir\nto wish, want\nyaourt le\nyoghurt",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Customs and festivals in French-speaking countries/communities",
+                      "level": 4,
+                      "content": "French\nEnglish\ncadeau le\npresent\néglise l’ (f)\nchurch\nfête la\nfestival, celebration, party\nfête des mères la\nMother's Day\nfête des rois la\nTwelfth Night/Epiphany\nfête du travail la\nMay Day\nfêter\nto celebrate\nfeux d’artifice les (m)\nfireworks\nJour de l’An le\nNew Year’s Day\njuif/juive\nJewish\nmosquée la\nMosque\nmusulman\nMuslim\nFrench\nEnglish\nPâques\nEaster\npoisson d’avril\nApril Fools' Day, April Fool!\nreligieux/religieuse\nreligious\nSaint-Sylvestre la\nNew Year’s Eve\nSaint Valentin la\nSt. Valentine’s Day\nToussaint la\nAll Saints' Day\nveille de Noël la\nChristmas Eve",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.3.2",
+                  "title": "Local, national, international and global areas of interest",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Home, town, neighbourhood and region",
+                      "level": 4,
+                      "content": "French\nEnglish\naider\nto help\nanimé\nlively\narbre l’ (m)\ntree\narmoire l’ (f)\nwardrobe\nbâtiment le\nbuilding\nbesoin le (avoir....de)\nneed (to need)\nbibliothèque la\nlibrary\nboucherie la\nbutcher’s shop\nbaskets les (f)\ntrainers\nboulangerie la\nbakery\nbijou le\njewel, jewellery\nbijouterie la\njeweller’s shop\nblouson le\ncoat/jacket\nbon marché\ncheap\nFrench\nEnglish\nbruit le\nnoise\nbureau le\noffice, study\nbruyant\nnoisy\ncaisse la\ntill\ncalme\nquiet\ncampagne la\ncountryside\ncarte bancaire la\nbank card\ncave la\ncellar\nceinture la\nbelt\ncélèbre\nfamous\ncentre commercial le\nshopping centre\nchamp le\nfield\nchapeau le\nhat\ncharcuterie la\ndelicatessen\nchaussette la\nsock\nchaussure la\nshoe\nchemise la\nshirt\nchoix le\nchoice\nchose la\nthing\ncirculation la\ntraffic\ncommerces les (m)\nshops\ncolline la\nhill\ncommissariat le\npolice station\ncravate la\ntie\nFrench\nEnglish\ncuisine la\nkitchen/cooking\ndéménager\nto move house\ndémodé\nold-fashioned\ndépenser\nto spend (money)\ndevoir\nto have to\néconomiser\nto save\nescalier l’ (m)\nstaircase\nessayer\nto try on\nétage l’ (m)\nfloor, storey\nfenêtre la\nwindow\nferme la\nfarm\nfleur la\nflower\ngare la\nrailway station\ngare routière la\nbus station\ngens les (m)\npeople\ngilet le\nwaistcoat\ngrand magasin le\ndepartment store\ngratuit\nfree (of charge)\nhabitant l’ (m)\ninhabitant\nhôtel de ville l’ (m)\ntown hall\nimmeuble l’ (m)\nblock of flats\njardinage le\ngardening\njupe la\nskirt\nlaver\nto wash\nFrench\nEnglish\nlibrairie la\nbookshop\nlivrer\nto deliver\nmaison la (individuelle/jumelée/mitoyenne)\nhouse (detached/semi-detached/terraced)\nmairie la\ntown hall\nmanteau le\novercoat\nmarché le\nmarket\nmeubles les (m)\nfurniture\nmode la\nfashion\n(à la) montagne la\n(in the) mountain(s)\nmur le\nwall\nmusée le\nmuseum\nnettoyer\nto clean\npantalon le\ntrousers\nparc le\npark\nparfum le\nperfume\npâtisserie la\ncake shop\npauvre\npoor\nperdre\nto lose\npièce la\nroom\nplace la\nsquare\nportefeuille le\nwallet\nporte-monnaie le\npurse\nposer\nto put down\nposte la\npost office\nFrench\nEnglish\npouvoir\nto be able\nprix le\nprice\npropre\nclean, tidy\npull le\njumper\nquartier le\nquarter, area\nquitter\nto leave\nranger\nto tidy\nréduire\nto reduce\nréduit\nreduced\nrez-de-chaussée le\nground floor\nrisque le\nrisk\nrobe la\ndress\nsale\ndirty\nsalle à manger la\ndining room\nsalle de bains la\nbathroom\nsalon le\nliving room, lounge\nsécurité la\nsafety\nsoldes les (m)\nsale\nsous-sol le\nbasement\nstation-service la\nservice station\ntabac le\nnewsagent’s\ntransport en commun le\npublic transport\ntravailler\nto work\nse trouver\nto be situated\nFrench\nEnglish\nusine l’ (f)\nfactory\nvendeur le/vendeuse la\nshop assistant\nvendre\nto sell\nveste la\njacket\nvêtements les (m)\nclothes\nvie la\nlife\nville la\ntown\nvitrine la\nshop window\nvivre\nto live\nvoisin le\nneighbour\nzone piétonne la\npedestrian zone",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Social issues",
+                      "level": 4,
+                      "content": "French\nEnglish\nalcool l’ (m)\nalcohol\nalimentation l’ (f)\nfood\naller bien\nto be well\naller mieux\nto be better\n(s’) arrêter\nto stop\nassociation caritative l’ (f)\ncharity\nbonbon le\nsweet\nbonheur le\nhappiness\nchocolat le\nchocolate\ncombattre\nto combat\ndéjeuner le\nlunch\nFrench\nEnglish\nse détendre\nto relax\ndevenir\nto become\ndîner le\nevening meal\ndormir\nto sleep\ndrogue la\ndrug\nse droguer\nto take drugs\neau potable l’ (f)\ndrinking water\négalité l’ (f)\nequality\nen bonne forme\nfit\nen bonne santé\nin good health\néquilibré\nbalanced\nespace vert l’ (m)\ngreen area\néviter\nto avoid\nfaible\nweak\nfaire un régime\nto be on a diet\nfatigué\ntired\nforme la\nfitness\nfort\nstrong\nfumer\nto smoke\ngarder\nto look after\ngras\nfatty\nhabitude l’ (f)\nhabit\nmalade\nill, sick\nmaladie la\nillness\nFrench\nEnglish\nmalsain\nunhealthy\nmatières grasses les (f)\nfats\nmédecin le\ndoctor\nmédicament le\nmedicine\nobésité l’ (f)\nobesity\nodeur l’ (f)\nsmell\npetit déjeuner le\nbreakfast\npressé\nin a hurry, rushed/squeezed\nse relaxer\nto relax\nrepas le\nmeal\nrester\nto stay\nréussir\nto succeed\nsain\nhealthy\nsanté la\nhealth\n(se) sentir\nto feel\nsommeil le\nsleep\nsucré\nsugary\nsuivre\nto follow\ntabac le\ntobacco\ntravail bénévole le\nvoluntary work\ntuer\nto kill\nvide\nempty\nvomir\nto be sick",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Global issues",
+                      "level": 4,
+                      "content": "French\nEnglish\nallumer\nto switch on\nbain le\nbath\nboîte la (en carton)\n(cardboard) box\ncentre de recyclage le\nrecycling centre\nchômage le\nunemployment\nchauffage central le\ncentral heating\ncultiver\nto grow\nen danger\nin danger\ndéchets les (m)\nrubbish\ndétruire\nto destroy\ndisparaître\nto disappear\ndouche la\nshower\nenvironnement l’ (m)\nenvironment\néteindre\nto switch off\nfaire du recyclage\nto recycle\ngaspiller\nto waste\ninondation l’ (f)\nflood\njeter\nto throw (away)\nordures les (f)\nrubbish\npauvreté la\npoverty\npétrole le\noil\npiste cyclable la\ncycle lane\npollué\npolluted\npoubelle la\ndustbin\nFrench\nEnglish\nprotéger\nto protect\nréchauffement de la Terre le\nglobal warming\nrobinet le\ntap\nsac en plastique le\nplastic bag\nsans-abri le\nhomeless person\nsauver\nto save\nutiliser\nto use",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Travel and tourism",
+                      "level": 4,
+                      "content": "French\nEnglish\naccueil l’ (m)\nwelcome\naéroport l’ (m)\nairport\nAfrique l’ (f)/africain\nAfrica/African\nagence de voyages l’ (f)\ntravel agency\nAlgérie l’ (f)/algérien\nAlgeria/Algerian\nAllemagne l’ (f)/allemand\nGermany/German\nAlpes les (f)\nAlps\nAngleterre l’ (f)/anglais\nEngland/English\narrivée l’ (f)\narrival\nascenseur l’ (m)\nlift\ns’asseoir\nto sit down\nattendre\nto wait (for)\nauberge de jeunesse l’ (f)\nyouth hostel\nauto l’ (f)\ncar\nautobus l’ (m)\nbus\nFrench\nEnglish\nautoroute l’ (f)\nmotorway\naventure l’ (f)\nadventure\navion l’ (m)\nplane\nbagages les (m)\nluggage\n(se) baigner\nto bathe, swim\nbateau le\nboat\nBelgique la/belge\nBelgium/Belgian\nbord de la mer le\nseaside\nbronzer\nto sunbathe\ncar le\ncoach\ncarte la\nmap\ncarte postale la\npostcard\ncasser\nto break\nchambre de famille la\nfamily room\nchercher\nto look for\nChine la/chinois\nChina/Chinese\nclé la\nkey\ncolonie de vacances la\nholiday/summer camp\nconduire\nto drive\nse coucher\nto go to bed\ncrème solaire la\nsun cream\ndépart le\ndeparture\ndescendre\nto stay\ndortoir le\ndormitory\nFrench\nEnglish\nDouvres\nDover\ndurer\nto last\néchange l’ (m)\nexchange\nEcosse l’ (f)/écossais\nScotland/Scottish\nen plein air\nin the open air\nEspagne l’ (f)/espagnol\nSpain/Spanish\nessence l’ (f)\npetrol\nEtats-Unis les (m)\nUSA\nà l’étranger\nabroad\nétranger l’ (m)\nstranger/foreigner\nexpliquer\nto explain\nfaire la connaissance\nto get to know\nfaire du camping\nto go camping\n(se) garer\nto park\nGrande-Bretagne la/britannique\nGreat Britain/British\n(s’) habituer à\nto get used to\nhoraire l’ (m)\ntimetable\nîle l’ (f)\nisland\nlac le\nlake\nlaisser\nto leave\nlaver\nto wash\n(se) laver\nto get washed\nlentement\nslowly\nlever\nto lift\nFrench\nEnglish\n(se) lever\nto get up\nlit le\nbed\nlocation de voitures la\ncar rental\nlogement le\naccommodation\nloger\nto stay, lodge\nloisir le\nfree time (activity)\nLondres\nLondon\nlouer\nto hire, rent\nlunettes de soleil les (f)\nsun glasses\nmaillot de bain le\nswimming costume\nManche la\nEnglish Channel\nmarcher\nto walk\nMaroc le/marocain\nMorocco/Moroccan\nMéditerranée la\nMediterranean\nmonde le\nworld\nmontagne la\nmountain\nmonter\nto go up/ascend\nmoto la\nmotor bike\nnager\nto swim\nparc d’attractions le\ntheme park\npartir\nto leave\nPays de Galles le/gallois\nWales/Welsh\npièce d’identité la\nmeans of identification\nplage la\nbeach\nFrench\nEnglish\nplan de ville le\ntown plan\nse présenter\nto introduce oneself\nprêt\nready\nprojet le\nplan\nse promener\nto go for a walk\npropriétaire le/la\nowner\nrandonnée la\nwalk, hike\nremercier\nto thank\nrendez-vous le\nmeeting\nrenseignements les (m)\ninformation\nréserver\nto book, reserve\nrester\nto stay\nretour le\nreturn\nretourner\nto return\n(se) réveiller\nto wake up\nrevenir\nto come back\nrivière la\nriver\nroute la\nroad, way\nsalle de séjour la\nlounge\nsable le\nsand\nsac de couchage le\nsleeping bag\nséjour le\nstay, visit\nspectacle le\nshow\nSuisse la/suisse\nSwitzerland/Swiss\nFrench\nEnglish\ntourisme le\ntourism\ntourner\nto turn\nTunisie la/tunisien\nTunisia/Tunisian\nvacances les (f)\nholidays\nvalise la\nsuitcase\nvisite la (guidée)\n(guided) visit\nvoiture la\ncar\nvol le\nflight\nvoler\nto fly\nvoyager\nto travel\nvue de mer la\nsea view",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.3.3",
+                  "title": "Current and future study and employment",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "My studies",
+                      "level": 4,
+                      "content": "French\nEnglish\nchimie la\nchemistry\ndessin le\nart\nEPS l’ (f)\nPE (physical education)\nfrançais le\nFrench\ninformatique (l’) (f)\nIT (information technology)\ninstituteur l’ (m)\nprimary school teacher (male)\ninstitutrice l’ (f)\nprimary school teacher (female)\nlangue la\nlanguage\nmatière la\nsubject\nphysique la\nphysics\nFrench\nEnglish\nprofesseur le\nteacher\nreligion la\nreligious studies",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Life at school/college",
+                      "level": 4,
+                      "content": "French\nEnglish\napprendre\nto learn\ncalculette la\ncalculator\ncollège le\nsecondary school\ncomprendre\nto understand\ncours le\nlesson\ndemander\nto ask\ndevoirs les (m)\nhomework\ndifficulté la\ndifficulty\ndiplôme le\nqualification\ndirecteur le\nheadmaster\ndirectrice la\nheadmistress\ndiscuter\nto discuss\ndistribuer\nto give out\ndroit le\nright\nécole l’ (f) (primaire/secondaire)\n(primary/secondary) school\nélève l’ (m/f)\npupil\nemploi du temps l’ (m)\ntimetable\nen seconde\nin year 11\nétudes les (f)\nstudy\nétudiant l’ (m)\nstudent\nFrench\nEnglish\nexamen l’ (m)\nexamination\nfaire attention\nto pay attention\nleçon la\nlesson\nlecture la\nreading\nlire\nto read\nmaquillage le\nmake up\nnote la\nmark\noublier\nto forget\npasser un examen\nto sit an exam\npause la\nbreak, pause\npenser\nto think\npermettre\nto allow, permit\nporter\nto wear, carry\npression la\npressure\nrécré(ation) la\nbreak\nrègle la\nrule\nrèglement le\nschool rules\nrentrée la\nreturn to school\nrépéter\nto repeat\nréponse la\nreply\nrésultat le\nresult\nréussir un examen\nto pass an exam\nsalle de classe la\nclassroom\nsavoir\nto know\nFrench\nEnglish\nscolaire\nschool (adj)\ntableau le\nboard\nterrain de sport le\nsports ground\ntrimestre le\nterm\ntrouver\nto find",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Education post-16",
+                      "level": 4,
+                      "content": "French\nEnglish\nannée sabbatique l' (f)\ngap year\napprenti(e) l' (m/f)\napprentice\navoir envie de\nto want to\navoir l’intention (de)\nto intend (to)\nbac(calauréat) le\nA-level(s)\nen première\nin year 12\nen terminale\nin year 13\nétudier\nto study\nlaisser tomber\nto drop\nliberté la\nfreedom\nlycée le\nsixth form college, grammar school",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Jobs, career choices and ambitions",
+                      "level": 4,
+                      "content": "French\nEnglish\nagent de police l’ (m)\npoliceman\navenir l’ (m)\nfuture\nboucher le\nbutcher\nboulanger le\nbaker\nFrench\nEnglish\nboulot le\njob\ncandidat le\ncandidate\ncoiffeur le\nhairdresser\ncompter (sur)\nto count (on)\nemployé(e) l'\nemployee\nemployeur l'\nemployer\nespérer\nto hope\nfacteur le\npostman\nfermier le\nfarmer\ngagner\nto earn, win\nidée l’ (f)\nidea\ninfirmier l’ (m)\nnurse\ninformaticien l’\nIT worker\ningénieur l’ (m)\nengineer\njournal le\nnewspaper\nlivre la (sterling)\npound (sterling)\nmaçon le\nbuilder\nmécanicien le\nmechanic\nmettre de l’argent de côté\nto save money\npatron le; patronne la\nboss\npetit job le\npart-time job\nplombier le\nplumber\npolicier le\npoliceman\nrêve le\ndream\nFrench\nEnglish\nrêver\nto dream\nrecevoir\nto receive\nvarié\nvaried\nvétérinaire le\nvet",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "3.5.4",
+              "title": "Theme-based vocabulary (Higher Tier)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.4.1",
+                  "title": "Identity and culture",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Me, my family and friends",
+                      "level": 4,
+                      "content": "French\nEnglish\nbague la\nring\nbouton le\nspot, pimple\ncompréhensif/compréhensive\nunderstanding\nconfiance la\ntrust\nconnaître\nto know (a person)\nde mauvaise humeur\nbad tempered\népouser\nto marry\nesprit l’ (m)\nmind\nétonnant\namazing\nétrange\nstrange\nfiançailles les (f)\nengagement\nfier/fière\nproud\nfou/folle\nmad, crazy\ngâter\nto spoil\ngêner\nto annoy\njaloux/jalouse\njealous\nFrench\nEnglish\njumeau le/jumelle la\ntwin\njeunesse la\nyouth\nmarre (en avoir)\n(to be) fed up\nmépriser\nto despise\nse mettre en colère\nto get angry\nmourir\nto die\nnaître\nto be born\nneveu le\nnephew\nles noces (f)\nwedding\nondulé\nwavy\nse rendre compte\nto realise\n(se) séparer\nto separate\nvif/vive\nlively",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Technology in everyday life",
+                      "level": 4,
+                      "content": "French\nEnglish\nbloggeur le\nblogger\ncaméscope le\ncamcorder\ncompte le\naccount\nconsole de jeux la\ngames console\ncourrier électronique le\nemail\nécran tactile l’ (m)\ntouch screen\neffacer\nto delete\nenregistrer\nto record\nfichier le\nfile\nFrench\nEnglish\ngenre le\ntype, kind\nimprimer\nto print\ninternaute l’ (m)\ninternet user\nlogiciel le\nsoftware\nmoniteur le\nmonitor\nnumérique\ndigital\npage d’accueil la\nwelcome page\npile la\nbattery\nremplir\nto fill (in)\nsauvegarder\nto save\ntraitement de texte le\nword processing",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Free-time activities",
+                      "level": 4,
+                      "content": "French\nEnglish\ns’abonner\nto subscribe\nado l’ (m/f)\nadolescent\nail l’ (m)\ngarlic\namer/amère\nsour\nananas l’ (m)\npineapple\nbien cuit\nwell cooked\nchorale la\nchoir\ncourse la\nrace\néchecs les (m)\nchess\neffets spéciaux (m) les\nspecial effects\népicé\nspicy\nFrench\nEnglish\nespèce l’ (f)\ntype, kind\nféliciter\nto congratulate\nlieu le (avoir lieu)\nplace (to take place)\nmarquer un but/un essai\nto score a goal/try\nnoix la\nnut\npamplemousse la\ngrapefruit\npiquant\nspicy\nprune la\nplum\nséance la\nperformance\ntournée la\ntour\ntournoi le\ntournament\nveau le\nveal",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Customs and festivals in French-speaking countries/communities",
+                      "level": 4,
+                      "content": "French\nEnglish\ndéfilé le\nprocession\njour férié le\npublic holiday\nmesse la\nmass\nPentecôte la\nWhitsuntide\nréunion la\nmeeting",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.4.2",
+                  "title": "Local, national, international and global areas of interest",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Home, town, neighbourhood and region",
+                      "level": 4,
+                      "content": "French\nEnglish\nbricolage le\nDIY (do it yourself)\ndistractions les (f)\nthings to do\nFrench\nEnglish\nécharpe l’ (f)\nscarf\nembouteillage l’ (m)\ntraffic jam\nendroit l’ (m)\nplace\nfermeture la\nclosure\nfoulard le\nscarf\nfour le\noven\nfoyer le\nhome\ngarder\nto look after\ngrande surface la\nsuperstore\nlèche-vitrine le (faire du)\nwindow shopping (to go window shopping)\nloyer le\nrent\nlumière la\nlight\nmarque la\nmake, label, brand\npelouse la\nlawn\npull à capuche le\nhoodie\nrayon le\ndepartment\nrembourser\nto reimburse\nsurchargé\novercrowded\ntâche la\ntask",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Social issues",
+                      "level": 4,
+                      "content": "French\nEnglish\naccro\naddicted\nagir (il s’agit de)\nto act (it’s a question of)\nalcoolique\nalcoholic\nFrench\nEnglish\navertir\nto warn\navoir sommeil\nto be sleepy\ncacher\nto hide\ncancer (des poumons) le\n(lung) cancer\ncoupable\nguilty\ncasse-croûte le\nsnack\nconseil le\nadvice\nconsommation la\nconsumption, usage\ncrise cardiaque la\nheart attack\ndégoûtant\ndisgusting\ndéprimé\ndepressed\ndésintoxiquer\nto detox\ndette la\ndebt\ndouleur la\npain\ns’enivrer\nto get drunk\nenquête l’ (f)\nenquiry\nentraînement l’ (m)\ntraining\népuiser\nto exhaust\ns’entraîner\nto train\nessoufflé\nbreathless\nfoie le\nliver\nhors d’haleine\nout of breath\nivre\ndrunk\nmannequin le\nmodel\nFrench\nEnglish\nmener\nto lead\nmusculation la\nweight training\nnourriture bio la\norganic food\npeau la\nskin\nquotidien(ne)\ndaily\npersonnes défavorisées les (f)\ndisadvantaged people\nrenoncer\nto give up\nrespirer\nto breathe\nsalé\nsalty\nsida le\nAIDS\nsoigner\nto care for\nsoin le\ncare\nsurveiller\nto watch\ntabagisme le\naddiction to smoking\ntatouage le\ntattooing\ntenter\nto attempt\ntousser\nto cough\ntoxicomane le/la\ndrug addict\nvaloir mieux\nto be better, preferable\nvoix la\nvoice",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Global issues",
+                      "level": 4,
+                      "content": "French\nEnglish\nagresser\nto attack\naméliorer\nto improve\nFrench\nEnglish\nattaque l’ (f)\nattack\naugmenter\nto increase\nbande la\ngang\ncampagne la\ncampaign\ncharbon le\ncoal\ncouche d’ozone la\nozone layer\ncroire\nto believe\ndéboisement le\ndeforestation\neffet de serre l’ (m)\ngreenhouse effect\neffrayant\nfrightening\négal\nequal\nemballage l’ (m)\npackaging\nempêcher\nto prevent\nendommager\nto damage\nénergie renouvelable l’ (f)\nrenewable energy\nennui l’ (m)\nproblem, worry\nentouré\nsurrounded\nétat l’ (m)\nstate\ngaz carbonique le\ncarbon dioxide\ngaz d’échappement le\nexhaust fumes\nguerre la\nwar\nharceler\nto bully, harass\nharcèlement le\nbullying, harassment\nimmigré l’ (m)\nimmigrant\nFrench\nEnglish\nincendie l’ (m)\nfire\ninonder\nto flood\ns’inquiéter\nto worry\nlourd\nheavy, serious\nlutter\nto struggle\nmanifestation la\ndemonstration\nmarée la\ntide\nmentir\nto lie\nmondial\nworldwide\nniveau le\nlevel\npaix la\npeace\npaysage le\ncountryside/landscape\n(se) plaindre\nto complain\nproduire\nto provide\nproduits bio les (m)\ngreen products\nramasser\nto pick up\nreconnaissant\ngrateful\nréfugié le\nrefugee\nsupporter\nto tolerate, put up with\nsupprimer\nto suppress/eliminate\nsouci le\nworry, concern\ntémoin le\nwitness\ntrou le\nhole\nvague la\nwave\nFrench\nEnglish\nvoler\nto steal\nvoyou le\nyob, hooligan",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Travel and tourism",
+                      "level": 4,
+                      "content": "French\nEnglish\naire de jeux l’ (f)\nplay area\natterrir\nto land\navis l’ (m)\nopinion\nchambre d’hôte la\nbed and breakfast\nchemin le\nway, path\nchemin de fer le\nrailway\nclimatisation la\nair conditioning\nconcours le\ncompetition\nse débrouiller\nto get by, to cope\ndécoller\nto take off\ndéranger\nto disturb\ndonner sur\nto overlook\ndresser\nto put up (tent)\nemplacement l’ (m)\npitch (tent)\névénement l’ (m)\nevent\nfaire la grasse matinée\nto lie in, sleep in\nfoire la\nfair\nfrontière la\nborder, frontier\nhéberger\nto lodge, accommodate\nherbe l’ (f)\ngrass\nFrench\nEnglish\ninconnu\nunknown\njardin zoologique le\nzoo\njumelé\ntwinned\nlavabo le\nwash basin\nlits superposés les (m)\nbunk beds\nmanquer\nto miss\nse mettre en route\nto set off\nmoquette la\ncarpet\nparaître\nto seem\npermis de conduire le\ndriving licence\nla perte\nloss\nplaire\nto please\nplongée sous-marine la\nunderwater diving\nralentir\nto slow down\nremarquer\nto notice\nsommet le\nsummit\nstation balnéaire la\nseaside resort\ntour la\ntower, tour\ntraduire\nto translate\ntrajet le\njourney\ntraversée la\ncrossing",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.4.3",
+                  "title": "Current and future study and employment",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "My studies",
+                      "level": 4,
+                      "content": "French\nEnglish\ncouture la\nsewing\nlangues vivantes les (f)\nmodern languages\ninstruction civique l’ (f)\ncitizenship\nproviseur le\nhead teacher",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Life at school/college",
+                      "level": 4,
+                      "content": "French\nEnglish\nbien équipé\nwell equipped\nbulletin scolaire le\nschool report\ncar de ramassage le\nschool bus\ncouloir le\ncorridor\ndoué\ngifted\néchouer\nto fail\nenseigner\nto teach\nincivilités les (f)\nrudeness\ninjure l' (f)\ninsult\nmal équipé\nbadly equipped\nmaternelle la\nnursery school\nredoubler\nto repeat the year\nretenue la\ndetention",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Education post-16",
+                      "level": 4,
+                      "content": "French\nEnglish\nconseiller d’orientation le\ncareers adviser\nFrench\nEnglish\népreuve l’ (f)\ntest\nétablissement l’ (m)\nestablishment\nfaculté la\nuniversity, faculty\nformer\nto train\nlicence la\ndegree",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Jobs, career choices and ambitions",
+                      "level": 4,
+                      "content": "French\nEnglish\nà peine\nscarcely\nassis\nsitting\navocat l’ (m)\nlawyer\ncomptable le\naccountant\ncroisière la\ncruise\ndébouché le\nprospect/job prospect/opportunity\ndebout\nstanding\ndessinateur de mode le\nfashion designer\ndisponible\navailable\nélargir\nto widen\nentreprise l’ (f)\nfirm, enterprise\nentretien l’ (m)\ninterview\nenrichissant\nenriching, rewarding\nespoir l’ (m)\nhope\ninterprète l’ (m)\ninterpreter\noutil l’ (m)\ntool\nvenir de\nto have just",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

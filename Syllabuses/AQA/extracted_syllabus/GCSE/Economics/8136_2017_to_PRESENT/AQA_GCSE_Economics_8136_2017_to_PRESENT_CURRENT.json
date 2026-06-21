@@ -1,0 +1,395 @@
+{
+  "source_pdf": "GCSE/Economics/8136_2017_to_PRESENT/AQA_GCSE_Economics_8136_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Economics",
+  "spec_code": "8136",
+  "pdf_name": "AQA_GCSE_Economics_8136_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "How markets work",
+          "level": 1,
+          "content": "Students will look at economic foundations such as the nature and purpose of economic activity,\nthe factors of production and the importance of making choices. Students will also look at how\nresources are allocated using a market mechanism.\nThe central aspect will be an investigation of how prices are determined. This introduces students\nto concepts such as supply and demand, intermarket relationships and price elasticity.\nStudents investigate the significance of costs, revenue and profit for producers, leading to an\nunderstanding of the concepts of production, productivity and economies of scale. Students will\nthen explore the importance of competition in relation to resource allocation, leading to an\ninvestigation of the factors that lead to market failure, with an emphasis on the significance of\nexternalities.\nStudents should be encouraged to explore the moral, ethical and sustainability issues that\nunderpin economic decision-making and economic activity.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Economic foundations",
+              "level": 2,
+              "content": "Students look at the nature and purpose of economic activity based on the production of goods\nand services and the satisfaction of needs and wants. Students explore the factors of production,\nleading to an understanding of how and why choices are made. Students will come to an\nunderstanding that there is always a cost attached to any economic choice.",
+              "children": [
+                {
+                  "code": "3.1.1.1",
+                  "title": "Economic activity",
+                  "level": 3,
+                  "content": "- Needs and wants\n- The central purpose of economic activity\n- The key economic decisions\n- The main economic groups\nStudents should be able to understand:\n- the difference between a need and a\nwant, and how these can change over\ntime\n- the central purpose of economic activity is\nthe production of goods and services to\nsatisfy needs and wants\n- the key economic decisions are: what to\nproduce, how to produce, and who is to\nbenefit from the goods and services\nproduced\n- consumers, producers and government\nare the main economic groups\n- the interactions between the main\neconomic groups.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.2",
+                  "title": "The factors of production",
+                  "level": 3,
+                  "content": "The factors of production\nStudents should be able to:\n- understand the nature of an economic\nresource\n- identify and understand examples of the\nfour factors of production (land, labour,\ncapital and enterprise) and the reward\naccrued to each.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.3",
+                  "title": "Making choices",
+                  "level": 3,
+                  "content": "- The basic economic problem\n- Costs and benefits of economic choices,\nincluding opportunity costs\nStudents should be able to understand:\n- how and why choices are made, and how\ncosts and benefits can be weighed up to\nmake a choice\n- the concept of opportunity cost in the\ncontext of economic activity.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Resource allocation",
+              "level": 2,
+              "content": "Students look at the role of markets in allocating scarce resources. This leads into an exploration\nof the different economic sectors and concludes with a look at benefits and costs of specialisation,\nthe division of labour and how this naturally leads to exchange.",
+              "children": [
+                {
+                  "code": "3.1.2.1",
+                  "title": "Markets and allocation of resources",
+                  "level": 3,
+                  "content": "- Markets\n- Allocation of resources\n- Factor and product markets\nStudents should be able to understand:\n- a market is an opportunity for buyers and\nsellers to interact in order to establish\nprice\n- the role of markets in allocating scarce\nresources\n- the difference between factor and product\nmarkets.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.2",
+                  "title": "Economic sectors",
+                  "level": 3,
+                  "content": "- Primary, secondary and tertiary sectors\n- Goods and services\nStudents should be able to understand:\n- the meaning of primary, secondary and\ntertiary sectors and their relative sizes in\nthe UK\n- the difference between a good and a\nservice.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.3",
+                  "title": "Specialisation, division of labour, and exchange",
+                  "level": 3,
+                  "content": "- The benefits of specialisation and division\nof labour and exchange\n- The costs of specialisation and division of\nlabour and exchange\nStudents should be able to understand:\n- the meaning of specialisation and the\ndivision of labour\n- how and why individuals and producers\nspecialise\n- the costs and benefits associated with the\ndivision of labour, both to the worker and\nthe firm.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "How prices are determined",
+              "level": 2,
+              "content": "Students explore how prices are determined in a market using supply and demand. They look at\nintermarket relationships to understand the impact that changes in supply and demand in one\nmarket can have on other markets. The section concludes with an investigation of price elasticities,\nincluding how they are calculated and interpreted.",
+              "children": [
+                {
+                  "code": "3.1.3.1",
+                  "title": "Demand for goods and services",
+                  "level": 3,
+                  "content": "- The factors which determine the demand\nfor a good or service\n- Causes of changes in demand\n- The demand curve\nStudents should be able to understand:\n- what is meant by the demand for a good\nor service\n- the factors which influence demand\n- how to construct an individual demand\ncurve from consumer data\n- the difference between shifts of, and\nmovements along, the demand curve.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.2",
+                  "title": "Supply for goods and services",
+                  "level": 3,
+                  "content": "- The factors which determine the supply of\na good or service\n- Causes of changes in supply\n- The supply curve\nStudents should be able to understand:\n- what is meant by the supply of a good or\nservice\n- the factors which influence supply\n- how to construct an individual firm's\nsupply curve from production data\n- the difference between shifts of, and\nmovements along, the supply curve.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.3",
+                  "title": "Equilibrium price",
+                  "level": 3,
+                  "content": "- How equilibrium price is determined by\nsupply and demand\n- How markets supply and demand\ndiagrams can illustrate a producer's\nrevenue\nStudents should be able to understand:\n- how the interaction between supply and\ndemand determines equilibrium price\nusing a supply and demand diagram\n- why excess demand and excess supply\ncan lead to changes in price\n- how to use supply and demand diagrams\nto understand the impact of changes in\nequilibrium market prices\n- how demand and supply curves can be\napplied to a variety of real-world markets\n- how to demonstrate revenue on a\ndemand and supply diagram.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.4",
+                  "title": "Intermarket relationships",
+                  "level": 3,
+                  "content": "- Complements and substitutes\n- How changes in a particular market are\nlikely to affect other markets\nStudents should be able to understand:\n- the meaning of complementary and\nsubstitute goods\n- the impact of changes in demand, supply\nand price in one market on other related\nmarkets.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.5",
+                  "title": "Price elasticity of demand",
+                  "level": 3,
+                  "content": "- Price elasticity of demand\n- Factors affecting price elasticity of\ndemand\n- Measuring price elasticity of demand\nStudents should be able to understand:\n- that changes in price don't always cause\nequivalent changes in demand\n- the factors that affect price elasticity of\ndemand\n- the difference between price elastic\ndemand and price inelastic demand\n- that price elasticity of demand is\nmeasured as the percentage change in\nquantity demanded, divided by the\npercentage change in price and be able to\nperform calculations from given data\n- the implications of price elasticity of\ndemand for producers and consumers.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.6",
+                  "title": "Price elasticity of supply",
+                  "level": 3,
+                  "content": "- Price elasticity of supply\n- Factors affecting price elasticity of supply\n- Measuring price elasticity of supply\nStudents should be able to understand:\n- that changes in price don’t always cause\nequivalent changes in supply\n- the factors that affect price elasticity of\nsupply\n- the difference between price elastic\nsupply and price inelastic supply\n- that price elasticity of supply is measured\nas the percentage change in quantity\nsupplied, divided by the percentage\nchange in price and be able to perform\ncalculations from given data\n- the implications of price elasticity of\nsupply for producers and consumers.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.4",
+              "title": "Production, costs, revenue and profit",
+              "level": 2,
+              "content": "Students explore the significance of cost, revenue and profit for producers, leading to an\nunderstanding of the significance of productivity on increasing profits. Students explore the concept\nof economies of scale and the benefits these can bring.",
+              "children": [
+                {
+                  "code": "3.1.4.1",
+                  "title": "The importance of cost, revenue and profit for producers",
+                  "level": 3,
+                  "content": "- Business objectives\n- Types of costs\n- Types of revenue\n- Profit\n- The importance of cost, revenue and\nprofit for producers\n- Moral and ethical considerations\nStudents should be able to understand:\n- business objectives, including profit, sales\ngrowth and increasing market share\n- how to identify and calculate Total and\nAverage, Fixed and Variable costs\n- how to identify and calculate Total and\nAverage Revenues\n- that total revenue – total costs = profit,\nand that a firm may aim to increase its\nprofits by reducing average costs and/or\nincreasing revenues\n- that higher prices imply higher profits and\nthat this will provide the incentive for\nproducers to expand production\n- that the motivations of producers may\nconflict with ethical and moral interests.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.2",
+                  "title": "Production and productivity",
+                  "level": 3,
+                  "content": "- The meaning and importance of\nproductivity\n- The factors that influence productivity\nStudents should be able to understand:\n- the difference between production and\nproductivity\n- the benefits of increased productivity.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.3",
+                  "title": "Economies of scale",
+                  "level": 3,
+                  "content": "- The meaning of economies of scale\n- Types of economies of scale\n- Diseconomies of scale\nStudents should be able to understand:\n- economies of scale as the effect on\naverage costs of a rise in production\n- the implications and effects of economies\nof scale on business behaviour\n- the costs and benefits of growth for a\nbusiness\n- the different types of economy of scale,\nincluding managerial, purchasing,\nfinancial, technical and risk-bearing\n- what is meant by diseconomies of scale.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.5",
+              "title": "Competitive and concentrated markets",
+              "level": 2,
+              "content": "Students come to an understanding that there are different types of market structures and explore\ncompetitive and non-competitive markets. Finally, students will look at the operation of the labour\nmarket and factors that determine wages.",
+              "children": [
+                {
+                  "code": "3.1.5.1",
+                  "title": "The importance of market structures on producers and consumers",
+                  "level": 3,
+                  "content": "Identifying market structures\nStudents should be able to understand:\n- that there is a range of market structures\n- factors such as the number of producers,\nthe degree of product differentiation and\nease of entry as being used to distinguish\nbetween different market structures.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.2",
+                  "title": "Competitive markets",
+                  "level": 3,
+                  "content": "- The main characteristics of a competitive\nmarket\n- The impact of competitive markets on\nprice and choice\n- The economic impact of competition on\nproducers and consumers\nStudents should be able to understand:\n- what is meant by a competitive market\n- how producers operate in a competitive\nmarket\n- the economic impact of competition on\nconsumers, producers and workers\n- why profits are likely to be lower in a\ncompetitive market than one that is\ndominated by a small number of\nproducers.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.3",
+                  "title": "Non-competitive markets",
+                  "level": 3,
+                  "content": "- The main characteristics of a non-\ncompetitive market\n- The impact of non-competitive markets on\nprice and choice\n- Monopoly and oligopoly\nStudents should be able to understand:\n- what is meant by a non-competitive\nmarket\n- how producers operate in a non-\ncompetitive market\n- the meaning of monopoly\n- the meaning of oligopoly\n- the causes and consequences of\nmonopolistic and oligopolistic power.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.4",
+                  "title": "The labour market",
+                  "level": 3,
+                  "content": "- The role and operation of the labour\nmarket\n- Determination of wages through supply\nand demand\n- Gross and net pay\nStudents should be able to understand:\n- wage determination using simple demand\nand supply analysis\n- wage differentials within and between\noccupations\n- the difference between gross and net pay\n- how to calculate income including gross\nand net pay.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.6",
+              "title": "Market failure",
+              "level": 2,
+              "content": "Students explore the meaning of market failure and gain an understanding that the market\nmechanism does not always allocate resources efficiently. Students will explore the costs\nassociated with misallocation of resources, and how government intervention can counter this.",
+              "children": [
+                {
+                  "code": "3.1.6.1",
+                  "title": "Misallocation of resources",
+                  "level": 3,
+                  "content": "- The meaning of market failure as\nmisallocation of resources\n- Implications of misallocation of resources\n- Government intervention\nStudents should be able to understand:\n- market failure as the inability of the\nmarket system to allocate resources\nefficiently\n- the costs associated with misallocation of\nresources\n- methods of government intervention to\ncounter misallocation of resources.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.6.2",
+                  "title": "Externalities",
+                  "level": 3,
+                  "content": "- Defining externalities\n- The difference between positive and\nnegative externalities\nStudents should be able to understand:\n- externalities as the difference between\nsocial costs/benefits and private costs/\nbenefits\n- the difference between positive and\nnegative externalities and identify them\n- that production and consumption can lead\nto negative externalities.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "How the economy works",
+          "level": 1,
+          "content": "Students are introduced to the wider economy from the perspective of the main economic groups:\nconsumers, producers and government. Students explore the significance of interest rates\nincluding their impact on saving, borrowing and spending.\nThe core of this unit will focus on government objectives and their role in managing the economy. A\nrange of policies will be explored in relation to the objectives, highlighting the fact that pursuing one\nobjective can have a detrimental effect on other objectives.\nStudents also examine why countries trade, and the significance of the global economy, including\nfree-trade agreements. Finally, students will explore the role of money and the significance of the\nfinancial markets in modern economies.\nStudents should be encouraged to explore the moral, ethical and sustainability issues that\nunderpin all aspects of managing an economy.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Introduction to the national economy",
+              "level": 2,
+              "content": "Students explore how government spending and taxation can influence the level of economic\nactivity. Interest rates will be introduced briefly in order to illustrate the effect on saving, borrowing\nand spending.",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "Interest rates, saving, borrowing, spending and investment",
+                  "level": 3,
+                  "content": "- Interest rates\n- How interest rates affect consumers'\ndecisions to save, borrow or spend\n- How interest rates affect producers'\ndecisions to save, borrow or invest\nStudents should be able to understand:\n- what is meant by an interest rate\n- the factors that influence the different\nrates of interest\n- how changes in interest rates affect\nconsumers' decisions to save, borrow or\nspend\n- how changes in interest rates affect\nproducers' decisions to save, borrow or\ninvest\n- how to calculate interest on savings.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Government income and expenditure",
+                  "level": 3,
+                  "content": "- UK government revenue and spending\n- Indirect and direct taxation\n- Progressive taxation\nStudents should be able to understand:\n- the main sources of UK government\nrevenue\n- the main areas of UK government\nspending\n- the difference between direct and indirect\ntaxation\n- that some taxes can be progressive and\nothers regressive.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "Government objectives",
+              "level": 2,
+              "content": "Students study the principal economic objectives of stable prices, economic growth, full\nemployment and the Balance of Payments. For each of the government objectives, students look\nat how they are measured, the factors that cause them and their implications, both positive and\nnegative, for an economy. Students will learn that policies designed to achieve one of the\nobjectives can often impact positively or negatively on achieving the other objectives.",
+              "children": [
+                {
+                  "code": "3.2.2.1",
+                  "title": "Economic objectives of the government",
+                  "level": 3,
+                  "content": "- The main economic objectives of the\ngovernment\n- Conflicts arising from the pursuit of\ngovernment objectives\n- Other government objectives\n- Moral, ethical and sustainability\nconsiderations\nStudents should be able to understand:\n- the principal objectives of government\npolicies (maintaining full employment,\nensuring price stability, achieving\neconomic growth and having a balance of\npayments)\n- that policies used to achieve one objective\ncan have a negative impact on achieving\nother objectives\n- that there are other government\nobjectives such as reducing inequality and\nmanaging environmental change\n- how the pursuit of a government objective\ncan negatively affect groups of people\nand conflict with other objectives.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.2",
+                  "title": "Economic growth",
+                  "level": 3,
+                  "content": "- The significance of economic growth to\neconomies\n- Causes, costs and benefits of economic\ngrowth\n- Government policies to achieve economic\ngrowth\nStudents should be able to understand:\n- what is meant by economic growth and its\nsignificance to economies\n- the difference between GDP and real\nGDP and GDP per capita and be able to\nperform simple calculations involving\nthese measurements.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.3",
+                  "title": "Employment and unemployment",
+                  "level": 3,
+                  "content": "- Employment and unemployment and how\nthey are measured\n- Types, causes and consequences of\nunemployment\n- Government policies to reduce\nunemployment\nStudents should be able to understand:\n- the main types of unemployment, such as\nstructural, seasonal, frictional and cyclical,\nand be able to explain the factors that\ncause these\n- the consequences of unemployment for\ndifferent groups within the economy.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.4",
+                  "title": "Inflation and price stability",
+                  "level": 3,
+                  "content": "- What is inflation?\n- Measures of inflation\n- Causes of inflation\n- Consequences of inflation\n- Government policies to manage inflation\nStudents should be able to understand:\n- what is meant by inflation and the rate of\ninflation\n- how the rate of inflation can be measured\nusing the Consumer Price Index (CPI)\n- how to perform simple calculations using\nCPI figures\n- the causes of inflation, including cost-\npush and demand-pull inflation\n- the consequences of inflation to different\ngroups within the economy.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.5",
+                  "title": "Balance of payments",
+                  "level": 3,
+                  "content": "- Balance of trade and balance of payments\n- Balance of payments surpluses and\ndeficits on the current account\n- Government policies to influence the\nbalance of payments\nStudents should be able to understand:\n- how to perform simple calculations using\ncurrent account balance of payments\nfigures\n- the meaning and significance of a balance\nof payments deficit and surplus on the\ncurrent account\n- the reasons for a balance of payments\ndeficit or surplus on the current account.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.6",
+                  "title": "Distribution of income",
+                  "level": 3,
+                  "content": "- Income and wealth inequality\n- Causes of income and wealth inequality\n- Consequences of income and wealth\ninequality\n- Government policies to redistribute\nincome and wealth and their\nconsequences\nStudents should be able to understand:\n- the distribution of income in the UK\n- how inequality in the distribution of\nincome can occur\n- how redistribution of income and wealth\ncan be achieved through taxation and\ngovernment spending.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.3",
+              "title": "How the government manages the economy",
+              "level": 2,
+              "content": "Students examine the tools available to government to manage the economy. Government\neconomic policies will be looked at, with a focus on monetary, fiscal and supply-side policies. Each\npolicy will be examined in turn to show how they can be used to influence economic performance.\nGovernment policies to affect the distribution of income and the correction of negative externalities\nare also addressed.",
+              "children": [
+                {
+                  "code": "3.2.3.1",
+                  "title": "Fiscal policy",
+                  "level": 3,
+                  "content": "- Fiscal policy\n- The government budget\nStudents should be able to understand:\n- how fiscal policy can affect levels of\nincome and expenditure within the\neconomy\n- how fiscal policy can be used to achieve\ngovernment objectives\n- the meaning of a balanced budget and\nexplain the consequences of operating a\nbudget surplus and deficit.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.2",
+                  "title": "Monetary policy",
+                  "level": 3,
+                  "content": "Monetary policy\nStudents should be able to understand:\n- what is meant by monetary policy\n- how monetary policies can be used to\nachieve the government objective of\ncontrolling inflation\n- how monetary policies can be used to\nachieve other government economic\nobjectives.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.3",
+                  "title": "Supply-side policies",
+                  "level": 3,
+                  "content": "Supply-side policies\nStudents should be able to understand:\n- the advantages and disadvantages of\nsupply-side policies\n- supply-side policies such as: investment\nin education and training, lower direct\ntaxes, lower taxes on business profits,\ntrade union reform and privatisation/de-\nregulation\n- how supply-side policies can be used to\nhelp achieve government objectives.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.4",
+                  "title": "Policies to correct positive and negative externalities",
+                  "level": 3,
+                  "content": "Externalities\nStudents should be able to understand\ngovernment policies designed to influence\npositive and negative externalities.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.4",
+              "title": "International trade and the global economy",
+              "level": 2,
+              "content": "Students look at why countries trade and the importance of international trade to the UK. The\nmeasurement of UK trade through the balance of trade is examined, as are the causes of current\naccount surpluses and deficits within the overall balance of payments. Students consider how\nexchange rates are determined as well as the impact that changes in exchange rates have on\nproducers and consumers. Students also explore the advantages of free-trade agreements, their\nimpact and the significance of the European Union. The benefits and drawbacks of globalisation\nwill be looked at, including the moral and ethical aspects associated with the increase in global\ntrade, and the role of the multinational corporations.",
+              "children": [
+                {
+                  "code": "3.2.4.1",
+                  "title": "Why countries trade and the importance of international trade to the UK",
+                  "level": 3,
+                  "content": "- Benefits of trade to countries\n- UK's exports and imports\nStudents should be able to understand:\n- the importance of trade to economies\n- the main types of exports from, and\nimports to, the UK economy\n- the advantages of trade and the\nconsequences of global interdependence\nto the UK economy.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.2",
+                  "title": "Exchange rates",
+                  "level": 3,
+                  "content": "- How exchange rates are determined\n- The effects of changes in the exchange\nrate on consumers and producers\nStudents should be able to understand how\nexchange rates are determined through the\ninteraction of demand and supply.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.3",
+                  "title": "Free-trade agreements including the European Union",
+                  "level": 3,
+                  "content": "- Free-trade\n- Free-trade agreements such as the EU\nStudents should be able to understand:\n- the arguments for and against free-trade\n- the significance and benefits of free-trade\nagreements, such as the EU.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.4",
+                  "title": "Globalisation: benefits and drawbacks",
+                  "level": 3,
+                  "content": "- Main features of globalisation\n- Benefits and drawbacks of globalisation to\nproducers, workers and consumers in\ndeveloped countries\n- Benefits and drawbacks of globalistion to\nproducers, workers and consumers in less\ndeveloped countries\n- Moral, ethical and sustainability\nconsiderations\nStudents should be able to understand:\n- the factors that have contributed to the\ngrowth of globalisation, including new\ntechnology and the operations of\nmultinational companies\n- the benefits and drawbacks of\nglobalisation to producers, workers and\nconsumers in the UK\n- that there are moral, ethical and\nsustainability considerations when UK\nproducers trade with other countries.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.5",
+              "title": "The role of money and financial markets",
+              "level": 2,
+              "content": "Students look at the role of money, its functions and the role and importance of the financial\nmarkets. The importance to consumers, producers and government with respect to saving,\nborrowing and spending will be examined.",
+              "children": [
+                {
+                  "code": "3.2.5.1",
+                  "title": "The role of money",
+                  "level": 3,
+                  "content": "- Functions of money\n- Definition of money\nStudents should be able to understand:\n- the use of money as a means of deferred\npayment, store of value, a unit of account\nand a medium of exchange\n- that money can be defined as more than\nthe amount of banknotes and coins in\ncirculation.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.5.2",
+                  "title": "The role and importance of the financial sector for the economy",
+                  "level": 3,
+                  "content": "- The financial sector\n- The role of the Bank of England\n- The role of other institutions in the\nfinancial sector\nStudents should be able to understand:\n- the main agents in the financial sector\nsuch as the Bank of England, commercial\nbanks and building societies\n- the role of the Bank of England in\ninfluencing interest rates and ensuring\nstability of the financial system\n- the role of high street banks in helping to\nfund investment and providing a service\nfor savers and borrowers.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

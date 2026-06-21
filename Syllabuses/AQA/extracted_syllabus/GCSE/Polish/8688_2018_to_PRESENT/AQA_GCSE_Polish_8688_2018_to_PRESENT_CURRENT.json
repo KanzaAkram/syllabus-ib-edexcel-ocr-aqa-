@@ -1,0 +1,934 @@
+{
+  "source_pdf": "GCSE/Polish/8688_2018_to_PRESENT/AQA_GCSE_Polish_8688_2018_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Polish",
+  "spec_code": "8688",
+  "pdf_name": "AQA_GCSE_Polish_8688_2018_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Themes",
+          "level": 1,
+          "content": "The specification covers three distinct themes. These themes apply to all four question papers.\nStudents are expected to understand and provide information and opinions about these themes\nrelating to their own experiences and those of other people, including people in countries/\ncommunities where Polish is spoken.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Theme 1: Identity and culture",
+              "level": 2,
+              "content": "Theme 1: Identity and culture covers the following four topics with related sub-topics shown as\nbullet points.",
+              "children": [
+                {
+                  "code": "3.1.1.1",
+                  "title": "Topic 1: Me, my family and friends",
+                  "level": 3,
+                  "content": "- Relationships with family and friends.\n- Marriage/partnership.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.2",
+                  "title": "Topic 2: Technology in everyday life",
+                  "level": 3,
+                  "content": "- Social media.\n- Mobile technology.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.3",
+                  "title": "Topic 3: Free-time activities",
+                  "level": 3,
+                  "content": "- Music.\n- Cinema and TV.\n- Food and eating out.\n- Sport.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.4",
+                  "title": "Topic 4: Customs and festivals in Poland",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Theme 2: Local, national, international and global areas of interest",
+              "level": 2,
+              "content": "Theme 2: Local, national, international and global areas of interest covers the following four topics\nwith related sub-topics shown as bullet points.",
+              "children": [
+                {
+                  "code": "3.1.2.1",
+                  "title": "Topic 1: Home, town, neighbourhood and region",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.2",
+                  "title": "Topic 2: Social issues",
+                  "level": 3,
+                  "content": "- Charity/voluntary work.\n- Healthy/unhealthy living.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.3",
+                  "title": "Topic 3: Global issues",
+                  "level": 3,
+                  "content": "- The environment.\n- Poverty/homelessness.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.4",
+                  "title": "Topic 4: Travel and tourism",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Theme 3: Current and future study and employment",
+              "level": 2,
+              "content": "Theme 3: Current and future study and employment covers the following four topics.",
+              "children": [
+                {
+                  "code": "3.1.3.1",
+                  "title": "Topic 1: My studies",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.2",
+                  "title": "Topic 2: Life at school/college",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.3",
+                  "title": "Topic 3: Education post-16",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.4",
+                  "title": "Topic 4: Jobs, career choices and ambitions",
+                  "level": 3,
+                  "content": "",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Scope of study",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Listening: understand and respond to spoken language",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- demonstrate general and specific understanding of different types of spoken language\n- follow and understand clear standard speech using familiar language across a range of\nspecified contexts\n- identify the overall message, key points, details and opinions in a variety of short and longer\nspoken passages, involving some more complex language, recognising the relationship\nbetween past, present and future events\n- deduce meaning from a variety of short and longer spoken texts involving some complex\nlanguage and more abstract material, including short narratives and authentic material\naddressing a wide range of contemporary and cultural themes\n- recognise and respond to key information, important themes and ideas in more extended\nspoken text, including authentic sources, adapted and abridged as appropriate, by being able\nto answer questions, extract information, evaluate and draw conclusions.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Speaking: communicate and interact in speech",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- communicate and interact effectively in speech for a variety of purposes across a range of\nspecified contexts\n- take part in a short conversation, asking and answering questions, and exchanging opinions\n- convey information and narrate events coherently and confidently, using and adapting\nlanguage for new purposes\n- speak spontaneously, responding to unexpected questions, points of view or situations,\nsustaining communication by using rephrasing or repair strategies, as appropriate\n- initiate and develop conversations and discussion, producing extended sequences of speech\n- make appropriate and accurate use of a variety of vocabulary and grammatical structures,\nincluding some more complex forms, with reference to past, present and future events\n- make creative and more complex use of the language, as appropriate, to express and justify\ntheir own thoughts and points of view\n- use accurate pronunciation and intonation to be understood by a native speaker.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Reading: understand and respond to written language",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- understand and respond to different types of written language\n- understand general and specific details within texts using high frequency familiar language\nacross a range of contexts\n- identify the overall message, key points, details and opinions in a variety of short and longer\nwritten passages, involving some more complex language and recognising the relationship\nbetween past, present and future events\n- deduce meaning from a variety of short and longer written texts from a range of specified\ncontexts, including authentic sources involving some complex language and unfamiliar\nmaterial, as well as short narratives and authentic material addressing relevant contemporary\nand cultural themes\n- recognise and respond to key information, important themes and ideas in more extended\nwritten text and authentic sources, including some extracts from relevant abridged or adapted\nliterary texts\n- demonstrate understanding by being able to scan for particular information, organise and\npresent relevant details, draw inferences in context and recognise implicit meaning where\nappropriate\n- translate a short passage from Polish into English.",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "Writing: communicate in writing",
+              "level": 2,
+              "content": "Students are expected to be able to:\n- communicate effectively in writing for a variety of purposes across a range of specified\ncontexts\n- write short texts, using simple sentences and familiar language accurately to convey\nmeaning and exchange information\n- produce clear and coherent text of extended length to present facts and express ideas and\nopinions appropriately for different purposes and in different settings\n- make accurate use of a variety of vocabulary and grammatical structures, including some\nmore complex forms, to describe and narrate with reference to past, present and future\nevents\n- manipulate the language, using and adapting a variety of structures and vocabulary with\nincreasing accuracy and fluency for new purposes, including using appropriate style and\nregister\n- make independent, creative and more complex use of the language as appropriate, to note\ndown key points, express and justify individual thoughts and points of view in order to\ninterest, inform or convince\n- translate sentences and short texts from English into Polish to convey key messages\naccurately and to apply grammatical knowledge of language and structures in context.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Grammar",
+          "level": 1,
+          "content": "The grammar requirements for GCSE Polish are set out in two tiers: Foundation Tier and Higher\nTier.\nGCSE students will be expected to have acquired knowledge and understanding of Polish\ngrammar during their course. In the exam they will be required to apply their knowledge and\nunderstanding, appropriate to the relevant tier of entry, drawing from the following lists. The\nexamples in brackets are indicative, not exclusive. For structures marked (R), only receptive\nknowledge is required.\nStudents will be expected to develop and use their knowledge and understanding of this grammar\nprogressively throughout their course.",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Foundation Tier",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.3.1.1",
+                  "title": "Nouns",
+                  "level": 3,
+                  "content": "Candidates should know the masculine, feminine and neuter nouns as well as singular and plural.\nThe following are just a few examples.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Nominative",
+                      "level": 4,
+                      "content": "Mianownik: Kto? Co?\nmasculine: gość/goście, urzędnik/urzędnicy, sklep/sklepy\nmasculine nouns ending in -a (eg poeta, mężczyzna, tata) which are declined in the singular like\nfeminine nouns, and in the plural like animate forms.\nfeminine: lekcja/lekcje, matka/matki, żona/żony\nneuter: mieszkanie/mieszkania, jajko/jajka, święto/święta\nnouns ending in -um: muzeum/muzea\nUse of the nominative case:\n- to express the subject of a sentence e.g. to jest stół, chleb leży na talerzu, ładna pogoda\n- clauses in which the present tense of the verb “to be” is understood: e.g. mój brat to inżynier,\nto wygodne krzesło, Fibak to sławny tenisista.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Genitive",
+                      "level": 4,
+                      "content": "Dopełniacz: Kogo? Czego?\nmasculine: gościa/gości, urzędnika/urzędników, sklepu/sklepów\nfeminine: lekcji/lekcji, matki/matek, żony/żon\nneuter: mieszkania/mieszkań, jajka/jajek, dziecka/dzieci\nUse of the genitive case:\n- to express possession or lack of:\n- mam gościa w domu, nie mam wrogów, nie zrobiłem lekcji, przyjaciel Janka, okno pokoju\n- expressions of quantity:\n- butelka mleka, filiżanka herbaty, kilo mięsa\n- after numbers:\n- dwóch braci, trzech kuzynów\n- time: pięciu godzin, siedmiu minut, ośmiu dni\n- money: sześciu złotych, ośmiu funtów, trzech groszy\n- expressions of quantity requiring the genitive plural:\n- dużo chłopców, nie/dużo jajek, mało dziewczynek, ile pokoi, tyle mieszkań, wiele ludzi\n- with prepositions:\n- od: daleko od szkoły\n- do: do domu, do sklepu\n- dla: dla gościa, dla przyjaciół\n- bez: bez przerwy\n- naprzeciw/ko: naprzeciw kiosku\n- obok/koło: obok Ewy, koło domu\n- blisko: blisko kościoła\n- niedaleko: niedaleko parku\n- u: podoba mi się u was\n- wokół: wokół ogrodu\n- z/ze: z przodu, z tyłu, ze szkoły, ze Stanów",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Dative",
+                      "level": 4,
+                      "content": "Celownik: Komu? Czemu?\nmasculine: gościowi/gościom, urzędnikowi/urzędnikom, sklepowi/sklepom\nfeminine: lekcji/lekcjom, ulicy/ulicom, matce/matkom\nneuter: mieszkaniu/mieszkaniom, jajku/jajkom, dziecku/dzieciom\nUse of the dative case:\n- as the indirect object:\n- zrobiłam studentowi herbatę\n- pomogłam ojcu\n- dałam kwiaty matce\n- with impersonal expressions:\n- zimno mi, chce mi się pić, mnie się zdaje",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Accusative",
+                      "level": 4,
+                      "content": "Biernik: Kogo? Co?\nmasculine: gościa/gości, urzędnika/urzędników, sklep/sklepy\nfeminine: lekcję/lekcje, matkę/matki, żonę/żony\nneuter: mieszkanie/mieszkania, jajko/jajka, święto/święta\nUses of the accusative case:\n- to express the direct object:\n- on czyta książkę, spotkałem studentów, widzę dziewczynki\n- with prepositions:\n- verbs of motion na: idę na spacer, za: wracam za chwilę\n- with days of the week w/we: Kasia przyjedzie w niedzielę; egzamin jest we wtorek\n- playing a game w: grać w piłkę; bawimy się w chowanego\n- indicating time and place przez: przez cały tydzień padał śnieg; przepłynął przez rzekę;\nidę przez miasto; po: idź po chleb; pójdę po wodę; biegnę po gazetę\n- indicating concern, request o: proszę o świeży chleb; pytam o zdrowie; Paweł pyta o\ndrogę, martwię się o niego",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Ablative/Instrumental",
+                      "level": 4,
+                      "content": "Narzędnik: Z kim? Z czym?\nmasculine:\n- z gościem/ z gośćmi,\n- z urzędnikiem/ z urzędnikami,\n- ze studentem/ ze studentami\nfeminine:\n- z lekcją/z lekcjami, z piłką/z piłkami\n- z żoną/ z żonami\nneuter:\n- z mieszkaniem/ z mieszkaniami,\n- z jajkiem/ z jajkami,\n- z dzieckiem/ z dziećmi\nUses of the instrumental case:\n- expressions of time:\n- wiosną, latem, jesienią, zimą, wieczorem, nocą, dniem\n- to express means by which an action is performed:\n- jadę autobusem, on pisze ołówkiem, mówię cichym głosem, idę ulicą\n- to express nationality – profession with być/stać się\n- on jest/będzie/był doktorem\n- jestem/będę/byłam pielęgniarką\n- ona zostanie nauczycielką\n- jestem/Polakiem/Anglikiem/Francuską\n- with prepositions:\n- między: między domami\n- nad: nad głową\n- pod: pod stołem\n- przed: przed kolacją\n- z/ze: z bratem, z siostrą, kawa ze śmietanką\n- za: za miastem",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Locative",
+                      "level": 4,
+                      "content": "Miejscownik: O kim? O czym? W czym? Gdzie?\nmasculine: gościu/gościach, urzędniku/urzędnikach, sklepie/sklepach\nfeminine: lekcji/lekcjach, ulicy/ulicach, matce/matkach\nneuter: jajku/jajkach, mieszkaniu/mieszkaniach, święcie/świętach\nUses of the locative case:\n- to indicate time and place with prepositions:\n- na: na przystanku, na dworcu, na lekcjach, na koncercie\n- po: po obiedzie, po południu\n- przy: przy boku, przy domu, przy sklepie\n- o: rozmawiali o meczu\n- w: w sklepie, w styczniu, w roku 1996",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Vocative",
+                      "level": 4,
+                      "content": "Wołacz!\nUsed when addressing a person\n- Janku! Haniu! Mamusiu!",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.3.1.2",
+                  "title": "Adjectives",
+                  "level": 3,
+                  "content": "All cases of adjectives as required for use with nouns, including gender.\nSimple comparisons of adjectives:\n- using sz\n- masculine: zdrowy: zdrowszy\n- feminine: ciekawa: ciekawsza\n- neuter: tanie: tańsze\n- using ejsz\n- masculine: zimny: zimniejszy\n- feminine: mocna: mocniejsza\n- neuter: wygodne: wygodniejsze\nSuperlative degree of adjective by adding naj- to comparative\n- zdrowszy: najzdrowszy\n- ciekawszy: najciekawszy\n- zimniejszy: najzimniejszy\n- mocniejszy:najmocniejszy\nInterrogative adjective:\n- Który? Która? Które?\nPossessive adjective:\n- Czyj? Czyja? Czyje?",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.3",
+                  "title": "Adverbs",
+                  "level": 3,
+                  "content": "Jak? Kiedy? Gdzie?\nplace: blisko, daleko, tu, tam\ntime: dawno, dzisiaj, wczoraj, jutro, rano, nigdy, kiedyś, wieczorem\nmanner: dobrze, źle, wesoło\nnumber: bardzo, mało, dużo, wiele",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.4",
+                  "title": "Numerals",
+                  "level": 3,
+                  "content": "All cardinal numbers, ordinal numbers 1 – 20.\ncollective numerals: dwoje, troje\nfractions: pół, ćwierć, trzy czwarte",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.5",
+                  "title": "Verbs",
+                  "level": 3,
+                  "content": "Only the infinitive form of a verb is given in the vocabulary list.\nCandidates should be able to use the following forms:\n- the three persons, singular and plural czytam, czytasz, czyta, czytamy, czytacie, czytają\n- three tenses: present, past and future czytam, czytałem/łam, będę czytał/czytała, będę\nczytać\n- three modes:\n- indicative (czytam)\n- conditional (czytałbym/abym)\n- imperative (czytaj! czytajcie!)\n- three voices:\n- active (Mama myje syna.)\n- reflexive (Syn się myje.)\n- passive (Syn jest myty.)\n- perfective and imperfective\n- formation of perfective\n- prefix + imperfective = perfective\n- na- pisać napisać\n- po- znać poznać\n- u- myć umyć\n- s- pytać spytać\n- za- prosić zaprosić\n- prze- czytać przeczytać\n- wy- pić wypić\n- z- jeść zjeść\n- o- golić ogolić\n- conditional\nby using suffixes: -bym, -byś, -byśmy, -byście, -by\n- mogłabym to zrobić\n- chciałabym wiedzieć\n- gdyby była pogoda\n- jeśliby on przyszedł\n- poszlibyśmy do parku\n- poszłybyśmy na zabawę\n- przeczytalibyście gazetę\n- zrozumieliby co mówię",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.6",
+                  "title": "Pronouns",
+                  "level": 3,
+                  "content": "- Personal: Kto? Co?\n- ja, ty, on, ona, my, wy, oni, one, ktoś, coś, nikt\n- Possessive: Czyj?\n- mój, twój, jego, jej, nasz, wasz, ich, swój\n- Demonstrative: Który?\n- ten, ta, to, tamten, ci, te, tamci, tamte\n- Numeral: Ile?\n- kilka, dużo, wiele, mało\n- Reflexive:\n- się, sobie, siebie, z sobą",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.7",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "As used with genitive, accusative, instrumental and locative cases.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.1.8",
+                  "title": "Conjunctions",
+                  "level": 3,
+                  "content": "a, albo, ale, by, i, jeżeli, gdy, aby, ani, czyli, ponieważ, kiedy, lub, że, żeby, chociaż, gdyby",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.3.2",
+              "title": "Higher Tier",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.3.2.1",
+                  "title": "Adjectives",
+                  "level": 3,
+                  "content": "Irregular form of comparison\n- dobry-lepszy-najlepszy\n- zły-gorszy-najgorszy\nCompound comparison of adjectives by adding bardziej/mniej\n- bardziej kolorowy\n- mniej chory\n- najbardziej zmęczona\n- najmniej doświadczona",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.2",
+                  "title": "Adverbs",
+                  "level": 3,
+                  "content": "Jak? Kiedy? Gdzie?\ngdzieś, nigdzie, skąd, stamtąd,\nwkrótce, wtedy,\njakoś, po polsku,\ndosyć, stokrotnie\nFormation of adverbs from adjectives:\nmały - mało, ładny - ładnie, głęboki - głęboko\nDegrees of comparison are the same as for adjectives.",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.3",
+                  "title": "Verbs",
+                  "level": 3,
+                  "content": "Participles\n- Adjectival\n- Present participle - inflective (eg piszący uczeń, śpiewający chór, grający zespół)\n- Adverbial\n- Present participle - non-inflective (eg idąc śpiewał, szyjąc rozmawiały, pracując milczeli)\n- Impersonal form in the past tense (eg czytano, widziano, słyszano)",
+                  "children": []
+                },
+                {
+                  "code": "3.3.2.4",
+                  "title": "Pronouns",
+                  "level": 3,
+                  "content": "Declension of pronouns\nGenitive (Dopełniacz): Kogo? Czego? (nie ma)\n- mnie, ciebie/cię, jego/go/niego, jej/niej, jego/go/niego, nas, was, ich/nich, ich/nich\n- Pożyczyłam bluzkę od Ali, bo jej ubrania są najładniejsze.\n- Ta sprawa nie dotyczy Ciebie.\n- Spodziewaliśmy się Was wczoraj, a nie dzisiaj.\n- Dative (Celownik): Komu? Czemu? (się przyglądam)\n- mnie/mi, tobie/ci, jemu/mu/niemu, jej/niej, jemu/mu/niemu, nam, wam, im/nim, im/nim\n- Mnie się podoba ten obraz, ale im nie.\n- Podaj mu tę książkę.\nAccusative (Biernik): Kogo? Co?\n- mnie, ciebie/cię, jego/go/niego, ją/nią, je/nie, nas, was, ich/nich, je/nie\n- Okno jest otwarte, zamknij je.\n- Zaproś ich na kolację, będą się cieszyć.\nAblative/Instrumental (Narzędnik): Z kim? Z czym?\n- mną, tobą, nim, nią, nim, nami, wami, nimi, nimi\n- Jutro pójdę z Tobą do kina.\n- Możemy w piątek zagrać z nimi w siatkówkę.\nLocative (Miejscownik): O kim? O czym?\n- mnie, tobie, nim, niej, nim, nas, was, nich, nich\n- Nie mów o nim takich rzeczy!\n- Wczoraj mówiono o Was podczas lekcji.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Communication strategies",
+          "level": 1,
+          "content": "Whilst it is useful for students to concentrate on a core of key language for any given topic, it is\nimpossible to predict all the linguistic elements they might meet when reading and listening to\nauthentic Polish, or which they themselves might need to use.\nFor this reason, the student will need to develop communication strategies as part of the teaching\nand learning process, which will greatly increase their ability to cope successfully with unknown\nwords.\nThere are two main types of strategy: those that relate to understanding (reading and listening) and\nthose that relate to production (speaking and writing).",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Strategies for understanding",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.4.1.1",
+                  "title": "Ignoring words which are not needed",
+                  "level": 3,
+                  "content": "Many texts contain words which are not essential for an understanding of the main points of the\ntext. Furthermore, what is important in the text is often presented more than once, in different\nways: the student may not understand a point in one form of words and understand it fully in\nanother. Students can be trained to read and listen in positive ways, seeking out in the text only the\ninformation they need to answer questions and to complete communication tasks and ignoring the\nrest.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.2",
+                  "title": "Using the visual and verbal context",
+                  "level": 3,
+                  "content": "The skilled reader can find many clues about the purpose and content of a text from a study of the\nlayout, the title, the length, the type-face and any related pictures. This is why texts are presented\nin the exam in their original format as much as possible. When reading and listening, students can\nlearn to infer the meaning of new words from the verbal context. So, for example, someone who\ndid not know the word brzoza could, after some appropriate practice, be expected to understand\nfrom the following context that it is some sort of tree: Usiadł pod brzozą, a na jej czubku siedział\nptaszek i śpiewał.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.3",
+                  "title": "Making use of grammatical markers and categories",
+                  "level": 3,
+                  "content": "Students will be helped to master all these strategies if, when reading and listening, they learn to\nuse such clues as the plural forms of nouns or verbs, the ways verbs change to form tenses, word\norder and other such features which will help them to recognise to which category (verb, noun,\nadjective, etc) an unknown word belongs. This can be a considerable help in making intelligent\nguesses about the meaning of the word.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.4",
+                  "title": "Making use of the social and cultural context",
+                  "level": 3,
+                  "content": "Another aid to correct inferencing is for the students to bear in mind that there are regularities in\nthe real world which will make it possible to anticipate what people must say or write about it. The\nability to predict occurrences in the real world makes it possible sometimes to predict the words,\nand the meaning of words, that represent these occurrences. This is one reason why it is important\nfor a Polish course to offer insights and awareness into the culture and civilisation of Poland and\nPolish speaking communities like, for example, the very well organised Polish communities in\nEngland or America.",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.5",
+                  "title": "Using common patterns within Polish",
+                  "level": 3,
+                  "content": "Certain masculine nouns have no feminine counterparts and are used in the masculine form both\nfor men and women.\n- doktor, profesor, inżynier, reżyser, świadek\n- Profesor Malinowska wyjechała do Anglii.\n- Czy świadek widziała pana K?\n- Gdzie jest pani doktor?\n- Formation of adjectives from nouns.\nThis is done by adding the following suffixes to the stem:\n- ski\n- Polska - polski\n- Francuz - francuski\n- Warszawa - warszawski\n- cki\n- student - studencki\n- Grecja - grecki\n- owy\n- metal - metalowy\n- dom - domowy\n- poczta - pocztowy\n- ny\n- szkoła - szkolny\n- nuda - nudny\n- trud - trudny\n- iczny\n- tragedia - tragiczny\n- chemik - chemiczny\n- geografia - geograficzny\n- yczny:\n- turysta - turystyczny\n- historia - historyczny\n- Formation of opposites of adjectives and adverbs by the addition of nie-\n- dobry - niedobry\n- spokojny - niespokojny\n- drogo - niedrogo\n- długo - niedługo\n- (a) Verbal nouns with the suffix -anie are formed from infinitives ending in -ać\n- ać\n- oglądać - oglądanie\n- kupować - kupowanie\n- na/pisać - na/pisanie\n- za/planować - za/planowanie\n(b) Verbal nouns with the suffix -enie are formed from infinitives ending in -eć/ec, -ić/yć\n- eć/ec\n- zrozumieć - zrozumienie\n- piec - pieczenie\n- ić/yć\n- chodzić - chodzenie\n- z/robić - z/robienie\n- za/prosić - za/proszenie\n- służyć - służenie\n(c) Verbal nouns with the suffix -cie are formed from infinitives ending in -uć, -ić/yć\n- uć\n- zatruć - zatrucie\n- zepsuć - zepsucie\n- ić\n- pić - picie\n- yć\n- myć - mycie\n(d) Verbal nouns with the suffix -ęcie are formed from infinitives ending in -ąć\n- ąć\n- zamknąć - zamknięcie\n- przyjąć/przyjęcie\n- rozpocząć - rozpoczęcie\n(e) Certain verbal nouns have lost their verbal meaning and have become nouns. They are neuter\nin gender and have plural forms\n- mieszkać – mieszkanie/a\n- zająć – zajęcie/a\n- ćwiczyć – ćwiczenie/a\nSuffixes added to known words to form further nouns\n- robota – robotnik\n- trud – trudność\n- śpiew – śpiewak\nSuffixes added to nouns to form verbs\n- odpoczynek – odpoczywać\n- przegląd – przeglądać\n- pismo – pisać\n- interes – interesować\n- telefon – telefonować\n- Diminutives\nApart from diminutives of proper names like, for example, Ewa-Ewunia, Jan-Janek, Barbara-Basia,\nJerzy-Jurek, the majority of common nouns may also be used in their diminutive form. It indicates\neither a small size or is used in intimate conversations. The most common suffixes forming\ndiminutives from basic nouns are the following:\n- masculine -ek (eg dom - domek, pies - piesek, kubek - kubeczek)\n- masculine -ik/yk (eg samochód - samochodzik, but - bucik, stół - stolik, strumień - strumyk)\n- feminine -ka (eg herbata - herbatka, książka - książeczka, bajka - bajeczka)\n- neuter -ko (eg krzesło - krzesełko, mleko - mleczko, oko - oczko)\nNote that some diminutives have a meaning different from their basic forms or have two meanings:\n- woda - wódka\n- sałata - sałatka\n- biuro - biurko\n- kanapa - kanapka\n- zegar - zegarek\nMany adjectives may also be used in diminutive form. The suffix -utki/a/e is the most common with\nadjectival diminutives.\n- mały - malutki\n- słodka - słodziutka\n- zgrabne - zgrabniutkie\n- Adjectival compounds denoting colours.\n(a) In questions asking for colour, the genitive case is used instead of the nominative.\n- Jakiego koloru jest twoja nowa sukienka?\nIn answers to such questions two forms may be used, i.e. nominative or genitive\n- Moja nowa sukienka jest zielona.\n- Moja nowa sukienka jest zielonego koloru.\n(b) In adjectival compounds denoting two colours, two adjectives indicating colour are used.\nThe first one has the ending -o, the last one ends in -y, -a, -e depending on the gender of the noun\nbeing modified. The adjectives are joined by a hyphen.\n- biało-czerwona flaga\n- szaro-niebieskie niebo\n- żółto-czarny but\n- The reflexive pronoun się with verbs.\n(a) Certain verbs are always reflexive, i.e. they are always accompanied by się\n- napić się\n- cieszyć się\n- bać się\n(b) Some verbs never take się in personal forms.\n- czytać\n- iść\n- pić\n- pisać\n(c) The majority of verbs may appear with or without się, in which case the presence or absence of\nsię changes the meaning of the preceding verb.\n- uczyć - uczyć się\n- ubierać - ubierać się\n- przedstawić - przedstawić się\n(d) In a succession of two or more reflexive verbs, the reflexive pronoun się is usually not repeated.\n- Tomek denerwuje się i boi.\n- Janek goli się i myje.\n- Loan words which have a Polish ending or spelling.\n- dżinsy, dżem, manadżer, telewizor, spiker, kemping.\n- Impersonal phrases and sentences.\n(a) Words like wolno, warto, można, trzeba, należy are followed by an infinitive.\n- Czy wolno gotować?\n- Nie wolno wprowadzać psów.\n- Można dodać…\n- Gdzie można umyć ręce?\n- Trzeba zacząć od…\n- Nie należy przesadzać.\n- Warto dodać, że…\n- Czy warto się tak męczyć?\n(b) Passive participle with the adjectival ending -o, (mówiono, słyszano) can also be used in\nimpersonal phrases and sentences.\n- Podano kolację\n- Co mówiono o Kościuszce?\n- Dlaczego nie zbudowano tu lepszej drogi?\n- Wiele już o tym pisano.\n(c) Some impersonal phrases are often expressed by third person singular or plural.\n- Dużo mówi się o…\n- Ludzie mówią…\n- Często słyszy się…\n- Forms of addressing people in Polish.\nYoung people, friends and relatives address each other in the 2nd person singular. Otherwise pan/\npanowie, pani/panie, państwo are used. Pani refers to both married and unmarried women.\nAfter the singular forms (pan, pani) a verb in the 3rd person singular is used. After the plural forms\n(panowie, panie, państwo) a verb in the 3rd person plural is used.\n- Czy jesteś zadowolony?\n- Czy pan jest zadowolony?\n- Czy pani jest zadowolona?\n- Czy panowie są zadowoleni?\n- Czy panie są zadowolone?\n- Czy państwo są zadowoleni?\nIn less formal relations after the forms panowie, panie, państwo, a verb in the 2nd person plural is\nused more and more frequently.\n- Czy panowie jesteście zadowoleni?\n- Czy panie jesteście zadowolone?\n- Czy państwo jesteście zadowoleni?\nWhen addressing a person one should not use the addressee’s last name. It is considered bad\nstyle. Quite often, however, the word pan, pani is followed by the addressee’s title or rank. Using a\ntitle or rank alone is considered impolite.\n- Czy pan profesor jest zadowolony?\n- Czy pan dyrektor jest zadowolony?\n- Czy pani doktor jest zadowolona?\nIn more familiar relations the word pan, pani may be used followed by the addressee’s first name.\nBoth pan, pani and the name are used in the vocative.\n- Panie Jurku, czy jest pan zadowolony?\n- Pani Basiu, czy jest pani zadowolona?\nWhen addressing a person or attracting somebody’s attention the word pan, pani is preceded by\nproszȩ or przepraszam. Note that after proszȩ the genitive form is used, while after przepraszam\nthe accusative is used.\n- Proszę pana, gdzie jest dworzec?\n- Proszę pani, gdzie jest postój taksówek?\n- Przepraszam pana, jak dojechać do hotelu?\n- Przepraszam panią, która godzina?\nGreetings like dzień dobry may be followed by pan, pani which is considered very polite. They are\nfollowed by nouns in the dative.\n- Dobry wieczór panu.\n- Dobranoc paniom.\n- Dzień dobry państwu.\n- Formation of feminine nouns\n- Feminine nouns denoting persons or animals are formed by adding the suffix -ka, -ica, -\nanka, -yni to the masculine noun stem.\n- ka:\n- kot - kotka\n- nauczyciel - nauczycielka\n- ekspedient - ekspedientka\n- ica:\n- uczeń - uczennica\n- robotnik - robotnica\n- siostrzeniec - siostrzenica\n- yni\n- gospodarz - gospodyni\n- dozorca -dozorczyni\n- wychowawca - wychowawczyni\n- anka\n- kolega - koleżanka\n- Krakowiak - Krakowianka",
+                  "children": []
+                },
+                {
+                  "code": "3.4.1.6",
+                  "title": "Using cognates and near-cognates",
+                  "level": 3,
+                  "content": "There are some words, (eg cylinder, nowela, karawan, argument, ekspedient), whose meanings in\nPolish and English are totally different and therefore make it necessary to use this strategy with\ncare. However, for every misleading word there are many others of which English speaking\nlearners of Polish can, with practice, make good use. These fall into two main categories.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Cognates",
+                      "level": 4,
+                      "content": "There are very many words which have the same form, and essentially the same meaning, in\nPolish and in English (eg anegdota, astronauta, badminton, dieta, defekt, generał). When such\nwords occur in a context and learners can be expected to understand them in English, they will be\nexpected also to understand them in Polish.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Near-cognates",
+                      "level": 4,
+                      "content": "Learners will be expected to understand words which meet the criteria above, but which differ\nslightly in their written form in Polish usually by the addition of one or more Polish characters\nand/or the repetition, change or withdrawal of letter or letters (eg ambicja, telefon, paszport, adres,\nakcent, apetyt, autor, bandaż).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.4.1.7",
+                  "title": "Using common patterns between Polish and English",
+                  "level": 3,
+                  "content": "There are some words in Polish, which, although neither cognates or near-cognates, can be easily\nunderstood with the application of a few simple rules. When words which can be understood using\nthe rules below occur in context, students will be expected to understand them:\nEnglish words ending in ‘-tion’ are sometimes translated into Polish by changing the ending to ‘-\nacja’ (e.g. station - stacja, ambition - ambicja, situation - sytuacja)\nEnglish words ending in ‘-sion’ are sometimes translated into Polish by changing the ending to ‘-\nzja’ (eg television - telewizja, vision - wizja)\nThere are many words in present-day colloquial and technical Polish which have been taken from\nEnglish, but given Polish spelling and a Polish ending (eg leasing, dealerzy, manadżer, komputer).\nIt is expected that strategies such as those outlined above will generally be more easily applied in\nreading than in listening, as reading offers more opportunities to slow down, to look at unknown\nitems at some leisure and to study the context. For the same reasons, use of dictionary is often a\nmore feasible proposition when reading than when listening. However, the general strategies for\nunderstanding listed above can, with practice, be used successfully in listening to Polish. In order\nto hear accurately, candidates should have the relationship between the spoken and written\nlanguage brought to their attention. Words which look the same in Polish and English may sound\ndifferent and conversely, words with similar sounds may be written very differently in the two\nlanguages.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.4.2",
+              "title": "Strategies for production",
+              "level": 2,
+              "content": "Research and experience show that people who communicate effectively in a foreign language\ntend to make good use of systematic and efficient verbal and non-verbal strategies in order to get\nmeaning across, in spite of their imperfect command of the language.\nIndividual students may fail to learn, or forget language items required by some test items, or they\nmay wish to attempt to go beyond the demands of the specification in completing the task set.\nIn these circumstances, the following strategies can prove useful. They fall into two main\ncategories: non-verbal and verbal. The non-verbal strategies described below are clearly of limited\nvalue in the speaking tests of this examination; they may, however, prove useful to the learner.",
+              "children": [
+                {
+                  "code": "3.4.2.1",
+                  "title": "Non-verbal strategies",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Pointing and demonstration",
+                      "level": 4,
+                      "content": "Accompanied by some appropriate language (eg jak to, podobne do tego, jak to się nazywa?)",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Expression and gesture",
+                      "level": 4,
+                      "content": "Accompanied where appropriate with sounds (eg ‘Oh!’ which, with appropriate intonation, facial\nexpression and gestures can convey such attitudes and functions as pain, surprise, anger, fear,\npleasure and admiration).",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Mime",
+                      "level": 4,
+                      "content": "This again can be accompanied by appropriate sounds and language, and can sometimes help\ncommunication to be maintained when it might otherwise break down. This strategy has obvious\nlimitations in an oral test which is recorded and assessed on the basis of the recording.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Drawing",
+                      "level": 4,
+                      "content": "Can be an efficient strategy with some tasks (especially written) and can convey both attitude and\ninformation (eg J or L a diagram showing how to get from one point (eg a station) to another (eg a\nhome).",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.4.2.2",
+                  "title": "Verbal strategies",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Using a word which refers to a similar item",
+                      "level": 4,
+                      "content": "Using a similar word to the one the speaker/writer wishes to refer to, but for which he/she has\nforgotten the word (eg filiżanka for szklanka, kwiat for róża, or ojciec i matka for rodzice). This\nstrategy is not always effective and its use would be assessed according to its effectiveness in a\nparticular context.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Description of physical properties",
+                      "level": 4,
+                      "content": "Using description to refer to something of which the name has been forgotten (eg jest okrqgłe; to,\nna czym się siedzi przy stole; mała owca; owoc, który Ewa dała Adamowi). The physical properties\nrefer, for example, to colour, size, material, position and shape. Again, the use of this strategy in an\nexam would be assessed according to its communicative effectiveness.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Requests for help",
+                      "level": 4,
+                      "content": "Can include requests for translation (eg Jak się mówi po polsku … ?) and questions which make\nno reference to English (eg Jak się ta maszyna nazywa? Jak to się pisze?) Use of this strategy in\nthe exam will not allow students to be given full credit. However, it is clearly preferable to use such\nrequests for help than for communication to break down and its use will be assessed according to\nthe context. When requests for help with specific problems occur, the teacher should maintain the\nrole of a sympathetic native speaker and help accordingly. The teacher should, of course, avoid\ntaking over from the student and carrying out the tasks set.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Simplification",
+                      "level": 4,
+                      "content": "When a learner avoids the use of a form of which he/she is unsure (eg chcę zrobić instead of\nchciałabym zrobić or może wpadniecie do nas instead of może wpadlibyście do nas). When such\nsimple forms are used correctly and appropriately they wil be awarded high marks. Correct and\nappropriate use of more complex forms will also be rewarded. A systematic use of simplified forms\nmay reduce error, facilitate communication and increase fluency, but if overused, this strategy may\nresult in students failing to make full use of their capabilities.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Paraphrase",
+                      "level": 4,
+                      "content": "Where a student uses words and messages in acceptable Polish, avoiding the use of words which\nhe/she has forgotten (eg ona nie ma męża or jest panną; podobne do…, wygląda tak jak…, ma\nprzeciwne znaczenie co…). When used well, this strategy communicates the message effectively\nto a sympathetic native speaker and such use in an exam would be assessed accordingly.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Reference to specific features",
+                      "level": 4,
+                      "content": "A learner may use this strategy to describe something of which he/she has forgotten the name (eg\nzwierzę z długimi uszami; kwiat, który ma kolce). This strategy is often quite effective, and effective\nuse would be assessed accordingly in an exam.",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Reference to the function of an object",
+                      "level": 4,
+                      "content": "Similarly a student may refer to the actions that can be performed with an object whose name\nhe/she does not know (eg coś, co się używa do otwierania butelek). This is a commonly used\nstrategy which is usually effective in communicative terms.\nAnother strategy sometimes used by language learners is word coinage, the creation of words\nbased either on English or Polish words. This strategy usually produces words which do not exist\nin Polish or which, if they do exist, have a different meaning from the one intended. The use of this\nstrategy is rarely effective in promoting communication and students would be well advised to use\nit only if all other strategies fail.\nAnother commonly used strategy is topic avoidance, when the student ignores or abandons a topic\nbecause of inability to deal with it. Use of this strategy in the exam will not allow the student to be\ngiven full credit. Use of it in a learning situation will reduce opportunities for the development or\nexpansion of the student’s repertoire. It is, therefore, a strategy which should be discouraged, as a\nbasic condition for communication strategies to have a potential learning effect is that they are\ngoverned by achievement, rather than avoidance behaviour. Approaches which lay more stress on\ncorrectness than on communication will tend to encourage the use of avoidance strategies.\nAppropriate use of the dictionary will help students to tackle particular difficulties and help eliminate\nthe need to resort to avoidance.\nEvidence suggests that the availability of a range of strategies such as those outlined above, and\nflexibility in their use, represent an important advantage in overall communicative effectiveness. It\nalso appears that the most effective strategies demand some linguistic proficiency and that the\nmore proficient speakers are also better at using communication strategies effectively. The\ndevelopment or such strategies cannot, therefore, be seen as encouragement not to develop\nlinguistic knowledge as much as possible. Strategic competence is not a substitute for vocabulary\nlearning, for example, but a useful supplement. Indeed, all language users make use of\ncommunication strategies, even in their first language, and really successful strategies usually\npass unnoticed.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Vocabulary",
+          "level": 1,
+          "content": "The minimum core vocabulary lists are primarily intended as a guide for teachers to assist in the\nplanning of schemes of work.\nThe assessment tasks at Foundation Tier will require students to understand and respond to\ncommon or familiar words and/or forms of words that are not on the vocabulary list.\nThe assessment tasks at Higher Tier will require students to understand and respond to words\nand/or forms of words that are not on the vocabulary list and which are less common or familiar\nthan those used in relation to Foundation Tier assessments.\nVocabulary listed under a particular theme should be considered transferable, as appropriate, to\nthe other themes.\nStudents will be expected to be familiar with feminine forms of nouns/adjectives where these are\nnot given.",
+          "children": [
+            {
+              "code": "3.5.1",
+              "title": "Rubrics and instructions",
+              "level": 2,
+              "content": "The following is a guide to the sort of rubrics and instructions which will be used in Section B of the\nListening and Reading exams. The list is indicative, not exclusive.\nPolish\nEnglish\nNB Możesz użyć tę samą literę\nNB You can use the same letter more than once.\nwięcej niż jeden raz.\nKtóra to jest osoba? Napisz imię\nWhich person is it? Write the name of the correct person.\nwłaściwej osoby.\nKto to jest? Napisz imię tej osoby.\nWho is it? Write the name of the correct person.\nWybierz poprawne zdanie. Wybierz\nChoose the correct sentence. Choose (two) correct\n(dwa) poprawne zdania.\nsentences.\nWybierz poprawną odpowiedź.\nChoose the correct answer.\nDokończ/ uzupełnij … po polsku.\nComplete…in Polish.\nUzupełnij tabelkę.\nComplete the grid.\nUzupełnij tekst słowami wybranymi z\nComplete the following text with words from the list below.\nlisty poniżej.\nZdecyduj, czy to jest: prawda (P),\nDecide if it is True (P), False (N) or Not Mentioned (?).\nfałsz (F), czy nie jest wspomniane w\nWrite P, N or ?.\ntekście (?). Napisz P, F, ?.\nPodaj dwa szczegóły/ detale.\nGive (two) details.\nPosłuchaj tego urywka…/\nListen to this passage … /this extract … Listen to this\nfragmentu…/ wyjątku...\nconversation/this interview/this report …\nPosłuchaj rozmowy/ wywiadu/\nraportu…\nWpisz poprawną literę w każdą\nWrite the correct letter in each box.\nkratkę.\nWpisz porawną literę w kratkę.\nWrite the correct letter in the box.\nWpisz porawne litery w kratki.\nWrite the correct letters in the boxes.\nRozpoznaj/ zidentyfikuj właściwą\nIdentify the correct person.\nosobę.\nNie musisz pisać pełnymi zdaniami.\nIt is not necessary to write in full sentences.\nPrzeczytaj….\nRead…\nWymień jedną stronę pozytywną i\nMention one positive and one negative aspect. Mention\njedną negatywną.\none advantage and one disadvantage.\nWymień jedną zaletę i jedną wadę.\nPolish\nEnglish\nDla opinii pozytywnej napisz P\nFor a positive opinion, write P\nDla opinii negatywnej napisz N\nFor a negative opinion, write N\nDla opinii pozytywnej i negatywnej\nFor a positive and negative opinion, write P+N\nnapisz P+N\nKtóra odpowiedź jest poprawna?\nWhich is the correct answer?\nWypełnij luki.\nFill in the blanks.\nOdpowiedz na te pytania.\nAnswer these questions.\nOdpowiedz (na te pytania) po polsku. Answer (the questions) in Polish.\nThe following is a guide to the sort of rubrics and instructions which will be used in the Writing\nexam. The list is indicative, not exclusive.\nPolish\nEnglish\nOpisz…\nDescribe…\nNapisz…\nWrite…\nNapisz około 40 słów po polsku.\nWrite approximately 40 words in Polish.\nNapisz około 90 słów po polsku. Napisz coś na\nWrite approximately 90 words in Polish. Write\ntemat każdego podpunktu.\nsomething about each bullet point.\nNapisz około 150 słów po polsku. Napisz coś\nWrite approximately 150 words in Polish. Write\nna temat obydwu podpunktów.\nsomething about both bullet points.\nCo widzisz na fotografii? Napisz cztery zdania\nWrite four sentences in Polish about the photo.\npo polsku.\nWspomnij…/ Wymień…\nMention...",
+              "children": []
+            },
+            {
+              "code": "3.5.2",
+              "title": "General vocabulary",
+              "level": 2,
+              "content": "Students will be expected to use and understand the general vocabulary listed below. This\nvocabulary is not restricted to specific settings and can occur in any of the themes listed in the\nspecification.",
+              "children": [
+                {
+                  "code": "3.5.2.1",
+                  "title": "Comparisons",
+                  "level": 3,
+                  "content": "Polish\npodobny\nEnglish\nsimilar\nPolish\nprzeciwny\nróżny (różnie)\ntaki sam\ndobry, lepszy, najlepszy\ninny\nmniej\nporównać\nprzynajmniej\nróżnica\nróżny\ntaki jak\nw zasadzie; w sumie\nwiele; więcej; najwięcej\nwysoki; wyższy; najwyższy\nzły; gorszy, najgorszy\nEnglish\nopposite\ndifferent(ly)\nthe same, equal\ngood, better, the best\ndifferent\nless\nto compare\nat least\ndifference\ndifferent\nas … as\nin principle\nmuch, more, the most\nhigh, higher, the highest\nbad, worse, the worst",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.2",
+                  "title": "Conjunctions and connectives",
+                  "level": 3,
+                  "content": "Polish\naby\nalbo…albo\nani…ani\naż do\nbez wątpienia\nczy\ndlatego, z tego powodu\nEnglish\nso that, in order that\neither ... or ...\nneither ... nor\nuntil, up to\nwithout a doubt\nwhether\ntherefore, because of that\nPolish\njakby; jak gdyby\njakkolwiek\njednak\njeżeli\nkiedy\nnajpierw\nnaprawdę\nnie tylko ….ale również\nniemniej jednak\nniestety\noczywiście\nod\nod kiedy\noprócz, z wyjątkiem\npo pierwsze, po drugie, po trzecie\npodczas, gdy\npomimo to\npomimo że\nponieważ\npotem\nprzecież\nprzypadkiem\nteż\nto jest\nEnglish\nas if, as though\nanyhow\nnevertheless\nif, provided that\nwhen\nat first\nactually, really\nnot only … but also\nif, nevertheless\nunfortunately\nof course, obviously\nfrom\nsince\nbesides, apart from, except\nfirstly, secondly, thirdly\nwhile\ndespite, nevertheless, even so\nalthough\nbecause\nafterwards\nafter all\nby chance\nalso\nthat is (ie)\nPolish\nw każdym razie\nw końcu\nw przeciwnym razie\nzanim\nże\nżeby\nEnglish\nanyway, in any case\neventually, in the end, finally\notherwise, or else\nbefore\nthat\n(in order) to",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.3",
+                  "title": "Prepositions",
+                  "level": 3,
+                  "content": "Polish\ndo\nna\nod\nprzy\nbez\ndla\ndookoła, około\nkoło\nnaprzeciw\nobok\npo, zgodnie z\npod\npodczas\npomiędzy\nponad\nprzed\nEnglish\nto\non\nfrom\nnear, by\nwithout\nfor\naround, at about\nnear\nopposite\nnext to, beside\nafter, according to\nunder, below\nduring\nbetween\nover, above\nin front of, before, ago\nPolish\nprzez\nz\nz powodu\nza\nEnglish\nthrough\nfrom, with\nbecause of\nbehind",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.4",
+                  "title": "Negatives",
+                  "level": 3,
+                  "content": "Polish\nwcale\nani\njuż nie\nnic\nnigdy\nnikt\nnie\njeszcze nie\nzupełnie nie\nEnglish\nnot at all\nnot even\nno longer\nnothing\nnever\nnobody\nnot\nnot yet\nnot at all",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.5",
+                  "title": "Alphabet",
+                  "level": 3,
+                  "content": "Students are expected to know the letters of the alphabet.\nPolish\nlitera\nprzeliterować\nEnglish\nletter\nto spell",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.6",
+                  "title": "Numbers",
+                  "level": 3,
+                  "content": "Students are expected to know the cardinal numbers 0 - 1,000 and the word for 1,000,000 =\nMilion.\nThey are also expected to know the ordinal numbers first - tenth eg 1st = pierwszy; 2nd = drugi;\n3rd = trzeci etc.",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Other number expressions",
+                      "level": 4,
+                      "content": "Polish\ncyfra\nliczba, numer\npara\ntuzin\nEnglish\nfigure, digit\nnumber\npair\ndozen",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.2.7",
+                  "title": "Money",
+                  "level": 3,
+                  "content": "Polish\nbanknot\ndrobne\ngotówka\nkieszonkowe\nmoneta\nrozmienić\nzłotówka, jeden złoty, dwa złote, pięć złotych\nEnglish\nnote\nsmall change\ncash\npocket money\ncoin\nto change\none zloty, two zloty, five zloty",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.8",
+                  "title": "Asking questions",
+                  "level": 3,
+                  "content": "Polish\nCo to jest?\nCo widzisz na fotografii?\nCo?\nCzy?\nDlaczego?\nDokąd?\nGdzie?\nIle?\nEnglish\nWhat is this?\nWhat do you see on the photograph?\nWhat?\nWord put at the start of a sentence to make it\ninto a question\nWhy?\nWhere to?\nWhere?\nHow much/many?\nPolish\nJak długo?\nJak?\nJaki?\nKiedy?\nKto?\nKtóry?\nSkąd?\nZ czym?\nEnglish\nHow long?\nHow?\nWhat sort of …?\nWhen?\nWho?\nWhich? Which one?\nWhere from?\nWhat with?",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.9",
+                  "title": "Greetings and exclamations",
+                  "level": 3,
+                  "content": "Polish\nBardzo mi miło\nDo widzenia\nDo zobaczenia\nDzień dobry\nDziękuję\nGratulacje!\nNa zdrowie!\nNie ma za co\nPowodzenia!\nPrzepraszam\nRatunku! Na pomoc!\nSmacznego!\nUdanych wakacji!\nWesołych Świąt!\nEnglish\nIt’s a pleasure\nGoodbye\nSee you later\nGood morning\nThank you\nCongratulations!\nCheers!\nYou're welcome, don’t mention it\nGood luck!\nExcuse me/sorry\nHelp!\nBon appétit! enjoy your meal!\nHave a good/nice holiday!\nMerry Christmas!\nPolish\nWitamy!\nWszystkiego najlepszego!\nEnglish\nWelcome!\nAll the best!",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.10",
+                  "title": "Opinions",
+                  "level": 3,
+                  "content": "Polish\nbać się\nbezmyślny\nbezpieczny\nbezsensowny\nbezużyteczny\nbyć przeciwko czemuś\nbyć za czymś\ncałkowicie\ncieszyć się\ncudowny/ wspaniały\ndrogi\ngłupi\nimponujący\ninteresować się czymś\nkochać\nkochany\nlubić\nlubię to\nłatwy\nmieć czegoś dość\nEnglish\nto be afraid\nthoughtless\nsafe\nsenseless\nuseless\nto be against something\nto be in favour of something\ncompletely\nto be glad/ happy\nmarvellous\nexpensive, dear\nstupid\nimpressive\nto be interested in something\nto love\ndear\nto like, to enjoy\nI like it\neasy\nto be fed up with something\nPolish\nmiły\nmoże\nmożliwy\nmyśleć\nnaprawdę\nnawet\nnie mieć pojęcia\nniegrzeczny\nniemożliwy\nnienawidzić\nniepewny\nniespokojny\nniewiarygodny\nnudzić się\nokropny\npewny, na pewno\npomysł\npopsuty, zepsuty\npożyteczny\nprawdopodobnie\nprawdziwy\nprosty\nprzygnębiony\nstraszny\nEnglish\npleasant\nperhaps\npossible\nto think\nreally\neven\nto have no idea/no clue\nnaughty\nimpossible\nto hate\nunsure\nanxious, apprehensive\nunbelievable\nto be bored\nterrible\ndefinite, definitely, certainly\nidea\nbroken, damaged\nuseful\nprobably\nreal\nsimple\ndepressed\ndreadful\nPolish\nszkoda, (że …)\ntani\nto jest niepoprawne\nto zależy od …\ntrudny\nważny\nwierzyć\nwoleć\nwrażliwy\nwspaniały\nwszystko jedno\nwygodny\nzabawny\nzadowolony\nzaskoczony\nzgadzać się\nzły, zagniewany\nznakomity, wybitny\nżyczyć\nEnglish\nit’s a shame/pity (that …)\ncheap\nthat’s not right/correct\nit depends on …, whether …\ndifficult\nimportant\nto believe\nto prefer\nsensitive\nwonderful, excellent, brilliant\nit doesn’t matter, it’s all the same\ncomfortable\namusing, funny\nhappy, glad, pleased, satisfied\nsurprised\nto agree\ncross, angry, annoyed\nexcellent, outstanding\nto wish",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.11",
+                  "title": "Expressions of time",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Seasons",
+                      "level": 4,
+                      "content": "Polish\njesień\nlato\nEnglish\nautumn\nsummer\nPolish\npora roku\nwiosna\nzima\nEnglish\nseason\nspring\nwinter",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Months of the year, days of the week",
+                      "level": 4,
+                      "content": "Polish\nczerwiec\nczwartek\ndzień\ngrudzień\nkwiecień\nlipiec\nlistopad\nluty\nmaj\nmarzec\nmiesiąc\nniedziela\npaździernik\npiątek\nponiedziałek\nrok\nsierpień\nsobota\nstyczeń\nEnglish\nJune\nThursday\nday\nDecember\nApril\nJuly\nNovember\nFebruary\nMay\nMarch\nmonth\nSunday\nOctober\nFriday\nMonday\nyear\nAugust\nSaturday\nJanuary\nPolish\nśroda\ntydzień\nwrzesień\nwtorek\nEnglish\nWednesday\nweek\nSeptember\nTuesday",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "The Clock",
+                      "level": 4,
+                      "content": "Polish\nczas\ndokładnie\ngodzina\nKtóra jest godzina?\nkwadrans\nna czas\no której godzinie?\npołudnie\npół\npółnoc\npóźno\nspóźnia się, śpieszy się (zegar, zegarek)\nEnglish\ntime\nexactly\nhour (length)\nWhat time is it?\na quarter\non time\nat what time?\nmidday\nhalf\nmidnight\nlate\nit is slow, it is fast (clock, watch)",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Other expressions of time",
+                      "level": 4,
+                      "content": "Polish\nchwila\ncodziennie\nczasami\nczasy\nEnglish\nmoment\nevery day\nnow and again, sometimes\ntimes\nPolish\nczęsto\ndata\ndo niedawna\ndzisiaj/ dziś\njutro\njuż\nna początku\nnagle\nnastępny\nnatychmiast, zaraz\nniedługo\nnoc\nnormalnie\nobecny, teraźniejszy\nod czasu do czasu\nod\nostatni\nostatnio\npoczątek\npojutrze\npopołudnie\npoprzedni\npotem, następnie\npowoli\nEnglish\noften\ndate\nuntil recently\ntoday\ntomorrow\nalready\nat first\nsuddenly\nnext\nimmediately, straight away\nsoon\nnight\nusually\npresent (time, tense)\nfrom time to time\nfrom, since\nlast\nrecently, lately\nbeginning, start\nthe day after tomorrow\nafternoon\nformer\nafterwards\nslowly\nPolish\nprawie\nprzedtem\nprzedwczoraj\nprzeszłość, przeszły\nprzez\nprzyszłość, przyszły\nrano\nraz\nrzadko\nskończyć\nszybko\nteraz\ntrwać\nw międzyczasie\nwcześnie\nwczoraj\nwieczór\nwiek/ stulecie\nwielokrotnie\nwreszcie\nwtedy\nz wyprzedzeniem\nzakończyć\nzawsze\nEnglish\nalmost, nearly\nbeforehand\nthe day before yesterday\npast (time, tense)\nfor (length of time)\nfuture (time, tense)\n(in the) morning\nonce\nseldom, rarely\nto finish\nquickly\nnow\nto last\nin the meantime\nearly\nyesterday\nevening\ncentury\nagain and again, many times\nfinally\nthen\nin advance\nto finish\nalways\nPolish\nznowu\nzwykle\nEnglish\nagain\nusually",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.2.12",
+                  "title": "Location and distance",
+                  "level": 3,
+                  "content": "Polish\nblisko\nbyć położony, znajdować się\ndaleko\ndo przodu\ndo tyłu\ngdzieś\nmiasto\nmiejsce\nmila\nna dnie, poniżej\nna dworze\nna zewnątrz\nniedaleko, blisko\nnigdzie\nod...do\nodległy\npomiędzy\nponad\nprosto\nróg\nEnglish\nnear\nto lie, to be situated, to find oneself\nfar\nforwards\nbackwards\nsomewhere\ntown/city\nplace\nmile\nat the bottom, below\noutside, outdoors\noutside\nnearby, close to\nnowhere\nfrom … to\ndistant\namong, between\nabove\nstraight ahead\ncorner\nPolish\nstrona\ntam\ntam i z powrotem, powrotny (bilet)\ntu\nwewnątrz\nwracać\nwszędzie\nzostać\nEnglish\nside\n(over) there\nthere and back, return (ticket)\nhere\ninside, indoors\nto go back\neverywhere\nto stay",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.13",
+                  "title": "Weights and measures",
+                  "level": 3,
+                  "content": "Polish\nbutelka\ncały\ncienki\nciężki\ndość/ wystarczająco\ndużo, wiele\nfunt\ngruby\ninny\nkawałek\nkilka\nlekki\nmiara\nmierzyć\nEnglish\nbottle\nwhole\nthin\nheavy\nenough\na lot of, lots\npound\nthick, fat\nother, different\npiece\na few, several\nlight\nmeasure\nto measure\nPolish\nmniej więcej\noba\nogromnie\nokoło\nopakowanie\npaczka\npełny\nplaster\npojedynczy\nprzynajmniej\npudełko, pudło\npusty\npuszka\nrozmiar\nrzecz\nszeroki\nśredniego rozmiaru\ntorba\ntrochę\ntrochę, niewiele\nwaga\nważyć\nwszystko\nEnglish\nabout, roughly, more or less\nboth\nenormously\nabout\nwrapping\nparcel\nfull\nslice\nsingle\nat least\nbox\nempty\ncan, tin\nsize\nthing\nwide\nmedium-sized\nbag\na little, a bit, some\nlittle, not much\nweight\nto weigh\neverything, all",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.14",
+                  "title": "Shape",
+                  "level": 3,
+                  "content": "Polish\nkoło\nkwadrat\nokrągły\nprostokąt\ntrójkąt\nEnglish\ncircle\nsquare\nround\nrectangle\ntriangle",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.15",
+                  "title": "Weather",
+                  "level": 3,
+                  "content": "Polish\nbłyska się\nbłyskawica\nburza\nburza z piorunami\nchłodno\nchmura\ncień\nciężki, ostry\ndeszcz\ngrad\ngrzmi\ngrzmot\nksiężyc\nładna pogoda\nmgła\nmokro\nEnglish\nit’s lightning\n(flash of) lightning\nstorm\nthunderstorm\ncool\ncloud\nshadow\nheavy, severe\nrain\nhail\nit’s thundering\nthunder\nmoon\nfine weather\nfog\nwet\nPolish\nniebo\npada grad\npochmurnie\npogoda\nprognoza pogody\nprzelotny deszcz\nstopień\nsucho\nśnieg\nświecić\nświeży\nwilgotny\nzamarzać\nzimno\nEnglish\nsky\nit’s hailing\novercast, cloudy\nweather\nweather forecast\nshower\ndegree\ndry\nsnow\nto shine\nfresh\ndamp\nto freeze\ncold",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.16",
+                  "title": "Access",
+                  "level": 3,
+                  "content": "Polish\ndarmowy\notwarty\notworzyć\nwejście\nwstęp\nwyjście\nzajęty\nzakazany\nEnglish\nfree\nopen\nto open\nentry, entrance\nadmission\nexit (building)\noccupied, engaged\nforbidden\nPolish\nzamknąć\nzamknięty\nzjazd\nEnglish\nto close\nclosed\nexit (motorway)",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.17",
+                  "title": "Correctness",
+                  "level": 3,
+                  "content": "Polish\ndobre, złe zachowanie\nfałszywe, błędne\nkorekta, poprawa\nmieć rację\nmylić się\nobowiązkowy\npomyłka , błąd\npoprawny, prawidłowy\nskorygować, poprawić\nEnglish\ngood, bad behaviour\nfalse, wrong\ncorrection, improvement\nto be right\nto be wrong\ncompulsory\nmistake, error\nright, correct\nto correct, to improve",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.18",
+                  "title": "Materials",
+                  "level": 3,
+                  "content": "Polish\nbawełna\ndrewno\njedwab\ntektura\npapier\nskóra\nsrebro\nszkło\nEnglish\ncotton\nwood\nsilk\ncardboard\npaper\nleather\nsilver\nglass\nPolish\nwełna\nzłoto\nzrobiony z\nżelazo\nEnglish\nwool\ngold\nmade of\niron",
+                  "children": []
+                },
+                {
+                  "code": "3.5.2.19",
+                  "title": "Common abbreviations",
+                  "level": 3,
+                  "content": "Polish\ndr\nfunt brytyjski\nitd.\nm.in.\nnp.\nPKP\nprof.\ntel.\ntj.\nul.\nwg\nWP\nzł.\nEnglish\ndoctor\n£ = pound sterling\netc = and so on\namong other things\neg = for example\nPolish Railways\nprofessor\ntelephone\nie = that is\nstreet\naccording to\nPolish Armed Forces\nPolish Zloty",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.5.3",
+              "title": "Theme based vocabulary (Foundation Tier)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.3.1",
+                  "title": "Identity and culture",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Me, my family and friends",
+                      "level": 4,
+                      "content": "Polish\n(bardzo) lubię …\nEnglish\nI like ... (very much)\nPolish\nbezczelny\nbliźnięta\nbroda\nbrzydki\nbyć w dobrym/ złym nastroju\nbyć zawstydzony/ wstydzić się\nbyć zdenerwowanym\ncałować\nchłopak\ncichy\ncierpliwy\nczłonek rodziny\nczuć\ndata urodzenia\ndenerwować kogoś\ndorosły\ndowód osobisty\ndziecko\ndziewczyna\ndziwny\ngłowa\nimię\nistota ludzka\njedynak\nEnglish\ncheeky\ntwins\nbeard\nugly\nto be in a good/bad mood\nto be/feel ashamed\nto be annoyed\nto kiss\nboy\nquiet\npatient\nmember of the family\nto feel\ndate of birth\nto get on someone’s nerves, to annoy\nsomeone\nadult, grown-up\nidentity card\nchild\ngirl\nstrange, odd\nhead\nfirst name\nhuman being\nonly child\nPolish\nkarmić\nkłócić się, spierać się\nkobieta\nkręcony\nkrok\nładny\nlubić\nludzie\nmarzenie\nmąż\nmężczyzna\nmiejsce urodzenia\nmiejsce zamieszkania\nmłodość\nnarodziny, poród\nnazwać (coś/ kogoś)\nnie mogę znieść.../ nie lubię…\nnieśmiały\nniezależny\nnogi\noczy\noddzielić\nodwiedzać\nokulary\nEnglish\nto feed\nto quarrel, to argue\nwoman\ncurly\nstep\nnice, pretty\nto like\npeople\ndream\nhusband\nman\nplace of birth\nplace where you live\nyouth\nbirth\nto name, to call (something/someone)\nI can’t stand .../I don’t like ...\nshy\nindependent\nlegs\neyes\nto separate\nto visit\nspectacles, glasses\nPolish\nopiekować się\nosobowość\noznaczać\npalce\npiękny\npłakać\npłeć\nplecy\npojedynczy\npomocny\npoślubić\npoważny\npowód\npozbawiony poczucia humoru\npoznać\npozwolić\nprosić, błagać\nprzedstawić się\nprzepraszać\nprzezwisko\nprzyjaźń\nrazem\nręce\nrozwiedziony\nEnglish\nto care for, to look after\npersonality\nto mean\nfingers\nbeautiful\nto cry\nsex, gender\nback\nsingle\nhelpful\nto marry\nserious\nreason\nwithout a sense of humour\nto get to know\nto allow\nto ask, to beg\nto introduce oneself\nto apologise\nnickname\nfriendship\ntogether\nhands\ndivorced\nPolish\nrygorystyczny\nsam\nsamolubny\nschludny, zadbany\nspokojny\nślub\nsłynny\nśmieszny, komiczny\nsmutny\nsprzeczka\nstaromodny\nstopa/y\nszczery\nszczęśliwy\nszyja\ntatuaż\ntwarz\ntyp, osoba\nucho\nuczucie\nuprzejmy\nurodzić się (w dniu)\nusta\nuszy\nEnglish\nstrict\nalone\nselfish\ntidy, neat\ncalm\nwedding\nfamous\nfunny, comical\nsad\nargument\nold-fashioned\nfoot/feet\nhonest\nhappy\nneck\ntattoo\nface\ntype, person\near\nfeeling\npolite\nborn (on)\nlips\nears\nPolish\nw separacji\nwąs(y)\nwiek\nwnuczka\nwoleć\nwspierać\nwybaczyć\nwygladać jak\nwziąć rozwód/ rozwieść się\nząb\nzabawny\nzabawny, dowcipny\nzaręczyć się\nznać (osobę)\nżona\nżonaty/ mężatka\nzwiązek\nzwiązek partnerski\nżyć\nżywy\nEnglish\nseparated\nmoustache\nage\ngrandchild\nto favour, to prefer\nto support\nto forgive\nto look like\nto get divorced\ntooth\nfunny\nhumorous, witty\nto get engaged\nto know (a person)\nwife\nmarried man/woman\nrelationship\ncivil partnership\nto live\nlively",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Technology and everyday life",
+                      "level": 4,
+                      "content": "Polish\nautomatyczna sekretarka\ndane\nEnglish\nanswer phone\ndata\nPolish\ndrukarka\ndrukować\ndzielić się\ndzwonek\ndzwonić (telefon )\nkropka\nkupić\nmedia społeczne\nnadużywać\nnależeć do\nniebezpieczeństwo\nochrona\nopisać siebie\notrzymać\nściągnąć, pobrać\npouczające, edukacyjne\npracować\nzaładować, wgrać\nrozwijać\nryzyko\nsieć\nskrzynka pocztowa (email )\nstrona główna (internet )\nukośnik\nEnglish\nprinter\nto print\nto share\nringtone, bell\nto call, to ring (phone)\ndot\nto buy\nsocial media\nto abuse\nto belong to\ndanger\nprotection\nto describe (oneself)\nto receive\nto download\ninformative, educational\nto work\nto upload\nto develop\nrisk\nnetwork\nmail box (email)\nhomepage (internet)\nforward slash\nPolish\nusunąć\nużywać\nwiadomość\nwprowadzić (dane do komputera/telefonu)\nwstydzić się, zawstydzający\nwysyłać\nwysyłać wiadomości SMS\nzapisać dane na komputerze\nEnglish\nto delete\nto use\nmessage\nto enter (data into computer/phone)\nto be ashamed, embarrassing\nto send\nto send an SMS/text message\nto save data on computer",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Free time activities",
+                      "level": 4,
+                      "content": "Polish\nananas\nbasen kryty\nbasen odkryty\nbawić się, przyjemnie spędzać czas\nbiały\nbiegać\nbrzoskwinia\nbuty\ncebula\ncel\nchodzić, iść\nciągnąć\ncielęcina / kotlet wieprzowy\nciężko pracować\nEnglish\npineapple\nindoor swimming pool\noutdoor swimming pool\nto have fun, to enjoy oneself\nwhite\nto run\npeach\nshoes\nonion\ngoal\nto walk, to go\npull\nveal/pork cutlet\nto work hard\nPolish\ncukier\ncytryna\nczajnik\nczarny\nczasopismo\nczereśnia\nczerwony\nczłonek\ndania na wynos\ndanie dnia\ndanie główne\ndres\ndyktafon\nekran (TV, komputer)\nfasola\nfilm miłosny\nfilm przygodowy\nfilm rysunkowy\ngazeta\ngłos\ngroch\ngruszka\ngrzyb\nherbatniki\nEnglish\nsugar\nlemon\nkettle\nblack\nmagazine\ncherry\nred\nmember\ntakeaway\ndish of the day\nmain course\ntrack suit\nrecorder, dictaphone\nscreen (TV, computer)\nbean\nromantic film\nadventure film\ncartoon\nnewspaper\nvoice\npea\npear\nmushroom\nbiscuits\nPolish\nindyk\niść za\njabłko\njadalnia\njadłospis\njajko\njedzenie, żywność\nkalafior\nkąpielówki\nkelner\nkiełbasa\nklub młodzieżowy\nkonkurencja\nkostium kąpielowy\nkotlet schabowy\nkręgle\nlody\nłowić ryby\nłódka\nłyżwiarstwo\nmakaron\nmalina\nmarchewka\nmiękki\nEnglish\nturkey\nto follow\napple\ndining hall, dining room\nmenu\negg\nfood\ncauliflower\nswimming trunks\nwaiter\nsausage\nyouth club\ncompetition\nswim suit\npork chop\nskittles, ten pin bowling\nice cream\nto go fishing\nsailing boat\nice-skating\nnoodles, pasta\nraspberry\ncarrot\nsoft\nPolish\nmorela\nmuzyka ludowa\nnapiwek\nnarzekać\nniebieski\nnurkować\nobuwie\nocet\nogłoszenie\nogórek\nolej\nopłata wstępu, bilet wstępu\norzech\nostry, gorący\nowoc\nowsianka\npić\npieczone mięso\npieprz\npietruszka\npiosenka\npłacić\npłot\npogadać\nEnglish\napricot\nfolk music\ntip\nto complain\nblue\nto dive\nfootwear\nvinegar\nadvertisement\ncucumber\noil\nadmission fee, entry ticket\nnut\nspicy, hot\nfruit\nporridge oats\nto drink\nroast meat\npepper\nparsley, parsnip\nsong\nto pay\nfence\nto have a chat\nPolish\npokaz, przedstawienie\npolecać\npomarańcza\npor\nporywające\npragnienie\nprasa\npróbować, smakować\nprzegrać, stracić\nprzekąska\nprzynieść\nprzystawka\npyszne\nrachunek\nrobić na drutach\nrodzaj sportu\nrozrywka\nróżowy\nrzeczy\nrzucić\nsamoobsługa\nsanki\nseler\nser\nEnglish\nshow, performance\nto recommend\norange\nleek\nthrilling\nthirst\npress\nto try, to taste\nto lose\nsnack\nto fetch, to get\nstarter\ndelicious\nbill\nto knit\ntype of sport\nentertainment, pastime\npink\nthings, items\nto throw\nself-service\nsledge/sleigh\ncelery\ncheese\nPolish\nsiatkówka\nsiedzenie\nskakać\nsłodki\nsmaczny\nsmażona kiełbaska\nsok\nspotkać (kogoś)\nstrzelać\nsurowy\nszachy\nszary\nszpinak\nśliwka\nśmiać się\ntenisówki\ntort/ ciasto\ntrenować\ntruskawka\ntuńczyk\nusiąść\nwalczyć\nwąchać\nwędrówka\nEnglish\nvolley ball\nseat\nto jump\nsweet\ntasty\nfried sausage\njuice\nto meet (someone)\nto shoot\nraw\nchess\ngrey\nspinach\nplum\nto laugh\nplimsolls\ngateau\nto train\nstrawberry\ntuna\nto sit down\nto wrestle\nto smell\na walk, hike\nPolish\nwiadomości\nwidz\nwinogrona\nwiosłować\nwspinać się\nzabawka\nzacząć\nzamówić\nzbierać\nzielony\nziemniak\nzupa\nżeglować\nżółty\nEnglish\nnews\nspectator\ngrapes\nto row\nto climb\ntoy\nto start, begin\nto order\nto collect\ngreen\npotato\nsoup\nto sail\nyellow",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Customs and festivals in Poland",
+                      "level": 4,
+                      "content": "Polish\nBoże Narodzenie\nbyć zadowolonym z czegoś\nchoinka\ndostać, otrzymać\nŚwięto Konstytucji 3 Maja\nDzień Matki\nŚwięto Niepodległości\nDzień Świętego Mikołaja, święty Mikołaj\nEnglish\nChristmas Day\nto be pleased about something\nChristmas tree\nto get, to receive\nConstitution Day, 3rd May\nMother's Day\nIndependence Day\nSt. Nicholas' Day, Father Christmas\nPolish\ngość\ngospodarz\nkolędy\nNowy Rok\nobecny\noczekiwać\npisanka\npodziękować\nprocesja uliczna\nŚroda Popielcowa\nświeca\nświęcić pokarmy\nświęto\nświęto państwowe\nświętować\nSylwester\nukryć, schować\nuroczystość\nWalentynki\nWielkanoc\nWielki Piątek\nwieniec adwentowy\nWigilia\nzajączek wielkanocny\nEnglish\nguest\nhost\nChristmas carols\nNew Year’s Day\npresent, attending\nto look forward to\ndecorated Easter egg\nto thank\nstreet procession\nAsh Wednesday\ncandle\nto bless the food\nfeast day, holiday\npublic holiday\nto celebrate\nNew Year’s Eve\nto hide\ncelebration\nSt Valentine’s Day\nEaster\nGood Friday\nAdvent wreath\nChristmas Eve\nEaster bunny\nPolish\nzapalić\nzaprosić\nEnglish\nto light\nto invite",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.3.2",
+                  "title": "Local, national, international and global areas of interest",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Home, town, neighbourhood and region",
+                      "level": 4,
+                      "content": "Polish\napteka\nbankomat\nbenzyna\nbiblioteka\nbilet\nblok mieszkaniowy\nbudynek\ncena\nchodnik\nCoś jeszcze?\nczekać w kolejce\nczynsz\nczyścić\ndach\ndarmo\ndeptak\ndo wynajęcia\ndół\ndom bliźniak\nEnglish\npharmacy, chemist's\ncash point\npetrol\nlibrary\nticket\nblock of flats\nbuilding\nprice\npavement\nAnything else?\nto queue\nrent\nto clean\nroof\nfree of charge\npedestrian precinct\nto rent, to hire\ndownstairs\nsemi-detached house\nPolish\ndom handlowy\ndom szeregowy\ndom wolnostojący\ndostarczyć\ndrzewo\ndworzec kolejowy\ndywan\ndzwonić\nfabryka\nfiliżanka\ngaleria sztuki\ngarnek\ngóra\ngospodarstwo\ngospodarstwo domowe\ngotować\niść do domu\njubiler\nkask\nkąt, róg (ulicy)\nklient\nklucz\nkoc\nkomoda\nEnglish\ndepartment store\nterraced house\ndetached house\nto deliver\ntree\nrailway station\ncarpet\nto ring\nfactory\ncup\nart gallery\npot/saucepan\nmountain\nfarm\nhousehold\nto cook\nto go home\njeweller’s\nhelmet\ncorner (of street)\ncustomer\nkey\nblanket\nchest of drawers\nPolish\nkorytarz\nkorzyść, zaleta, przewaga\nkoszyk na zakupy\nkrajobraz\nksięgarnia\nkubek\nkuchenka, piec\nkwiat\nlas\nlekki\nlodówka\nlustro\nłąka\nłóżko piętrowe\nłyżeczka\nłyżka\nmarka\nmeble\nmetro\nmiasto\nmiejsce\nmieszkanie\nmieszkaniec\nmost\nEnglish\ncorridor\nadvantage\nshopping basket\nlandscape\nbook shop\nmug\ncooker, stove\nflower\nwood, forest\nlight\nfridge\nmirror\nmeadow\nbunk bed\nteaspoon\nspoon\nbrand, make\nfurniture\nunderground train, tube\ntown\nplace\nflat, apartment\ninhabitant\nbridge\nPolish\nmotocykl\nna piętrze\nna wsi\nniekorzyść\nnóż\nobraz\nobrus\noferta specjalna\nogrzewanie\nopróżnić\notoczony przez\nowinąć\npalnik\npapierniczy\nparagon\nparter\npatelnia\npiekarnia\npiekarnik\npiętro\nplac zabaw\nplakat\npociąg\npoddasze, strych\nEnglish\nmotor bike\nupstairs\ncountryside\ndisadvantage\nknife\npicture\ntablecloth\nspecial offer\nheating\nto empty\nsurrounded by\nto wrap up\nhob\nstationery (shop)\nreceipt\nground floor\npan\nbakery\noven\nfloor, storey\nplayground\nposter\ntrain\nattic, loft\nPolish\npodłoga\npoduszka\npole\npółka\npołożyć\npomnik\nposiłek\npożyczyć\npralnia chemiczna\nprysznic\nprzedmieście\nprzedpokój\nprzejście dla pieszych\nprzeprowadzić się\nprzyjemność\nprzymierzyć\nprzyrząd, urządzenie\nprzystanek\npukać (do drzwi )\nrobić zakupy\nroślina\nrower\nrynek\nrzecz\nEnglish\nfloor\npillow\nfield\nshelf\nto put\nmonument\nmeal\nto borrow\ndry cleaner's\nshower\nsuburb\nhall\nzebra crossing, pedestrian crossing\nto move house\npleasure\nto try on\napparatus, appliance\nstop\nto knock (at the door)\nto shop\nplant\nbicycle\nmarket place\nthing\nPolish\nrzeka\nrzeźnik, sklep mięsny\nsalon fryzjerski\nsąsiad\nschody\nschody ruchome\nściana\nsklep\nsklep odzieżowy\nsklep spożywczy\nskrzyżowanie\nsmażyć\nsprzątać\nsprzedaż, wyprzedaż\nstacja benzynowa\nstolica\nsufit\nsygnalizacja świetlna, światła\nszafka\nszuflada\ntalerz\ntorba na zakupy\ntramwaj\ntrawnik\nEnglish\nriver\nbutcher's\nhairdresser’s\nneighbour\nstairs\nescalator\nwall\nshop\nclothes shop\ngrocer’s shop\ncrossroads\nto fry\nto tidy up\nsale, (clearance) sale\npetrol station\ncapital city\nceiling\ntraffic lights\ncupboard\ndrawer\nplate\nshopping bag\ntram\nlawn\nPolish\numywalka\nwanna\nwarzywa\nwidelec\nwieś\nwieża\nwłączyć\nwłasny\nwózek na zakupy\nwydawać pieniądze\nwykąpać się\nwyłączyć\nwyprzedane\nwyspa\nwystawa sklepowa\nwzgórze\nzamówienie\nzamrażarka\nzaoferować\nzasłona\nzatankować\nziemia\nzłamany\nżywopłot\nEnglish\nwash-basin\nbathtub\nvegetable\nfork\nvillage\ntower\nto turn on/switch on\nown\nshopping trolley\nto spend money\nto have a bath\nto turn/switch off\nsold out\nisland\nshop window\nhill\norder\nfreezer\nto offer\ncurtain\nto fill up with petrol/diesel\nland\nbroken\nhedge",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Social issues",
+                      "level": 4,
+                      "content": "Polish\nbezradny\nból\nbrzuch\nbyć chorym/ chorować\nbyć rannym\nbyć w dobrej formie\nbyć zależnym od\nchoroba\nchory\ncudzoziemiec\nCzuję się chory, niedobrze mi\ndbać, opiekować się,\ndobrowolnie\ndom rodzinny\ndom starców\ngruby\nhumanitarny\nkaretka pogotowia\nkolor skóry\nkrew\nlekarstwo\nludzki\nmartwić się\nnagroda\nEnglish\nhelpless\npain, ache\nstomach\nto be sick\nto be injured\nto be in good form\nto be dependent on\nillness\nill\nforeigner\nI feel ill, I feel sick\nto care for, to look after\nvoluntarily\nfamily home\nold people's home\nfat\nhumane\nambulance\ncolour of the skin\nblood\nmedicine\nhuman\nto worry\nprize\nPolish\nnałóg\nnarkotyk\nnieprzytomny\nnieżywy\nnowotwór, rak\nobcy\noddech\nodżywianie\notyły\npalić\npierwsza pomoc\npijany, odurzony\npoddać się\npomóc\nprzytyć\nrada\nskaleczyć/ zranić\nrasa\nrasistowski\nrówność\nruch, ćwiczenie\nschronisko\nschronisko dla zwierząt\nschudnąć\nEnglish\naddiction\ndrug\nunconscious\ndead\ncancer\nforeign\nbreath\nnourishment, nutrition\nobese\nto smoke\nFirst Aid\ndrunk, intoxicated\nto give up\nto help\nto put on weight\nadvice\nto injure\nrace\nracist\nequality\nmovement, exercise\nhostel\nanimal shelter\nto lose weight\nPolish\nserce\nspokój, cisza\nstraż pożarna\nszkodliwy\nszpital\nświadomy\ntłusty\ntrzymać, utrzymać\numrzeć\nuzależniony\nuzależniony od narkotyków\nwada\nwaga\nwątroba\nwolontariusz\nwygrać\nwypadek\ncnota, zaleta\nzatrzymać\nzdrowie\nzdrowy\nzłamać\nżycie, żyć\nżyła\nEnglish\nheart\npeace, quiet\nfire brigade\ndamaging, harmful\nhospital\nconscious\nfatty\nto hold, to keep\nto die\naddicted\ndrug addict\nfault, disadvantage\nweight\nliver\nvolunteer\nto win\naccident\nvirtue, advanatage\nto stop\nhealth\nhealthy\nto break\nlife, to live\nvein",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Global issues",
+                      "level": 4,
+                      "content": "Polish\nalternatywne źródło energii\nankieta\nbez ołowiu\nbezdomny\nbezrobotny\nbieda\nbogaty\nbrudny\nchronić\nczyścić\ndom\nefekt cieplarniany\nelektrownia\nenergia słoneczna\ngłośny\ngrozić\nguma do żucia\ngwałtowny\nhałas\nkosz na śmieci\nkraść\nkwaśny deszcz\nmakulatura\nna dworze\nEnglish\nalternative source of energy\nsurvey\nlead free\nhomeless\nunemployed\npoverty, hardship\nrich\ndirty\nto protect\nto clean\nhouse\ngreenhouse effect\npower station\nsolar energy\nnoisy\nto threaten\nchewing gum\nviolent\nnoise\nrubbish bin, litter bin\nto steal\nacid rain\nwaste paper\noutside\nPolish\nniebezpieczny\nniszczyć\nodpady organiczne\nofiara\nogólnoświatowy\nogrzewanie\nopakowanie\noszczędzać\npaliwo\npoczucie własnej wartości\npojemnik na śmieci\npotrzebować\npowietrze\nprzeludniony\nprzemoc\nprzestępca\nprzestępstwo\nprzyjazny dla środowiska\npubliczny\nrosnąć\nruch drogowy\nsamotny\nsilny\nskażenie, zanieczyszczenie\nEnglish\ndangerous\nto destroy\norganic waste\nvictim\nworldwide\nheating\npackaging\nto save\nfuel\nself esteem\ndustbin\nto need\nair\nover-populated\nviolence\ncriminal\ncrime\nenvironmentally friendly\npublic\nto grow\ntraffic\nlonely\nstrong\npollution\nPolish\nskorupka\nsłaby\nsondaż\nspołeczeństwo\nszacunek\nszkodliwy\nsztuczne tworzywo\nścieżka rowerowa\nśmieci, odpady\nśrodki transportu\nśrodowisko\ntlen\nubogi\nubóstwo\nuchodźca\nuciekać/ uciec\nuszkodzić, zaszkodzić\nwarstwa ozonowa\nwęgiel\nwojna\nwrogi\nwspierać\nwymierać\nwypędzić, wydalić\nEnglish\neggshell\nweak\nopinion poll\nsociety\nrespect\nharmful\nsynthetic material\ncycle lane\nrubbish, waste\nmeans of transport\nenvironment\noxygen\npoor\npoverty\nrefugee\nto flee\nto damage, to harm\nozone layer\ncoal\nwar\nhostile\nto support\nto die out\nto drive out, to expel\nPolish\nwyrzucić\nzagrzać\nzamarznąć\nzanieczyszczać\nzanieczyszczenie powietrza/ wody\nzłodziej\nzniknąć\nżebrak\nżycie\nEnglish\nto throw away\nto heat, to warm up\nto freeze\nto pollute\nair/water pollution\nthief\nto disappear\nbeggar\nlife",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Travel and tourism",
+                      "level": 4,
+                      "content": "Polish\nAfryka\nafrykański\nAmeryka\namerykański\naparat fotograficzny\nangielski\nAnglia\natrakcja turystyczna\nAustria\naustriacki\nauto, samochód\nawaria\nAzja\nEnglish\nAfrica\nAfrican\nAmerica\nAmerican\ncamera\nEnglish\nEngland\ntourist attraction\nAustria\nAustrian\ncar\nbreakdown\nAsia\nPolish\nbagaż\nBelgia\nbelgijski\nbilet\nbiletomat/ automat biletowy\nbiuro podróży\ncel\ncierpiący na morską chorobę\nczekać na\ndoświadczyć\ndroga, ścieżka\nDunajec\nDzwon Zygmunta\nEuropa\neuropejski\nFrancja\nfrancuski\nGdańsk\nGdynia\ngodziny otwarcia\nHiszpania\nhiszpański\nHolandia\nholenderski\nEnglish\nluggage\nBelgium\nBelgian\nticket\nticket machine\ntravel agency\ndestination\nseasick\nto wait for\nto experience\nroad, path\nDunajec\nZygmunt Bell\nEurope\nEuropean\nFrance\nFrench\nGdańsk\nGdynia\nopening times\nSpain\nSpanish\nNetherlands\nDutch\nPolish\nIrlandia\nirlandzki\njeszcze raz\njezioro\nKanał Angielski\nKanał la Manche\nkasa biletowa\nkemping, obozowisko\nkierunek\nkorek uliczny\nKraków\nLondyn\nlot\nlotnisko\nłódź\nmapa drogowa\nmorze\nMorze Bałtyckie\nnamiot\nNiemcy\nniemiecki\nnocleg\nnocleg ze śniadaniem\nobozować\nEnglish\nIreland\nIrish\nagain\nlake\nEnglish Channel\nEnglish Channel\nticket office\ncampsite\ndirection\ntraffic jam\nCracow\nLondon\nflight\nairport\nboat\nroad map\nsea\nBaltic Sea\ntent\nGermany\nGerman\novernight stay\nB&B\nto camp\nPolish\nodebrać\nodejść\nOdra\nodwiedzić\nopalać się\noparzenie słoneczne\nopłata za przejazd\nopona\nopóźnienie\npamięć\npas bezpieczeństwa\npasażer\npełne wyżywienie\nperon\nPieniny\nplaża\npłyn/ krem do opalania\npoczekalnia\npodróż\npodróż w obie strony\npodróżny\npodróżować\npokój dwuosobowy\npokój podwójny\nEnglish\nto collect, to pick up\nto leave, to go away\nRiver Odra\nto visit\nto sunbathe\nsunburn\nfare\ntyre\ndelay\nmemory\nseat belt\npassenger\nfull board\nplatform\nPieniny\nbeach\nsuntan lotion\nwaiting room\njourney, trip\nround trip\ntraveller\nto travel\ndouble room\ntwin bedroom\nPolish\npokój jednoosobowy\nPolska\nPoznań\nprom\nprzegapić, spóźnić się, tęsknić\nprzenocować\nprzewodnik\nprzybyć\nprzyczepa kempingowa\nRosja\nrosyjski\nsamolot\nschronisko młodzieżowe\nskrzynka na listy\nspędzać czas\nsprawdzić\nStare Miasto\nSukiennice\nszafka\nSzkocja\nszkocki\nszukać\nSzwajcaria\nszwajcarski\nEnglish\nsingle room\nPoland\nPoznań\nferry\nto miss\nto stay overnight\nguide\nto arrive\ncaravan\nRussia\nRussian\naeroplane\nyouth hostel\nletter box\nto spend time\nto check\nOld Town\nCloth Hall\nlocker\nScotland\nScottish\nto look for, to search\nSwitzerland\nSwiss\nPolish\nSzwecja\nszwedzki\nTatry\nToruń\ntory\ntrener\nw drodze\nwakacje\nWalia\nwalijski\nwalizka\nwarte zobaczenia\nWawel\nwejść\nwidok\nWielka Brytania\nWisła\nWłochy\nwłoski\nWrocław\nwybrzeże\nwycieczka\nwyjechać\nwyjście ewakuacyjne\nEnglish\nSweden\nSwedish\nTatry\nToruń\ntrack\ncoach\non the way\nholiday\nWales\nWelsh\nsuitcase\nworth seeing\nWawel\nto get in\nview\nGreat Britain\nriver Vistula\nItaly\nItalian\nWrocław\ncoast\ntour, excursion\nto depart, to leave\nemergency exit\nPolish\nwypełnić\nwypożyczalnia rowerów\nza granicą\nZakopane\nzamek\nZamek Królewski\nzmienić\nznaczek pocztowy\nznany\nzostać\nzwiedzać\nzwiedzanie miasta\nEnglish\nto fill in\nbicycle hire\nabroad\nZakopane\ncastle\nRoyal Castle\nto change\npostage stamp\npopular, well-known\nto stay\nto sightsee\nsightseeing tour of a town/city",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.3.3",
+                  "title": "Current and future study and employment",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "My studies",
+                      "level": 4,
+                      "content": "Polish\ndyrektor szkoły\njęzyk obcy\nlekcja\nniesprawiedliwy\nprzedmiot szkolny\nsprawiedliwy\nsprytny\ntemat, przedmiot\nuczyć (kogoś)\nEnglish\nheadteacher, principal\nforeign language\nlesson\nunfair\nschool subject\nfair, just\nclever, smart, cunning\nsubject\nto teach (someone)\nPolish\nuczyć się\nEnglish\nto learn",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Life at school/college",
+                      "level": 4,
+                      "content": "Polish\napel\naula\nbardzo dobry\nbiuro\ntablica\nbluzka\nćwiczenie\nćwiczyć\ndobry\ndozorca\nferie, wakacje\ngarnitur\ngimnazjum\ngolić\nhala sportowa/ sala gimnastyczna\niść na wagary, wagarować\nkoszula\nkrawat\nkreda\nlaboratorium językowe\nleniwy\nEnglish\nassembly\nassembly hall\nvery good\noffice\nblack/whiteboard\nblouse\nexercise\nto practise\ngood\ncaretaker\nholidays\nsuit\nsecondary school\nto shave\nsports hall\nto play truant\nshirt\ntie\nchalk\nlanguage lab\nlazy\nPolish\nlinijka\nmalować\nmówić, opowiadać\nmundurek\nnieobecny\nniewystarczający\nobliczyć\nobudzić się\nocena\nodpowiadać\npasta do zębów\npisemny\nplan lekcji\nplecak\npłaszcz\npokój\npokój nauczycielski\npoprawić\nporadzić sobie\npowtarzać\npracowity\npresja, aby osiągnąć dobre oceny\npróbować\nprzebierać się\nEnglish\nruler\nto paint\nto tell, to narrate\nschool uniform\nabsent\ninsufficient\nto calculate\nto wake up\ngrade, mark\nto answer\ntoothpaste\nwritten\ntimetable\nrucksack\ncoat\nroom\nstaffroom\nto correct\nto manage, to cope\nto repeat\nhard working\npressure to achieve good marks/grades\nto try\nto get changed\nPolish\nprzebieralnia\nprzerwa\npytanie\nreguła\nrozbierać się\nrozmawiać\nrozumieć\nrysować\nsłownik\nsłuchać\nspodnie\nspódnica\nstrona\nsukienka/ suknia\nszalik\nszczoteczka do zębów\nszkolna wycieczka\nszkolne podwórze\nszkoła podstawowa\nszkoła średnia\nszkoła z internatem\nświadectwo szkolne\nświadectwo ukończenia szkoły\ntemperówka\nEnglish\nchanging room\nbreak\nquestion\nrule\nto get undressed\nto chat, to talk\nto understand\nto draw\ndictionary\nto listen\ntrousers\nskirt\npage\ndress\nscarf\ntoothbrush\nschool trip\nplayground\nprimary school\nhigh school\nboarding school\nschool report\nschool leaving certificate\npencil sharpener\nPolish\ntrwać\ntworzyć\nubierać się\nuczeń\nudany\numyć się\nusiąść\nustnie\nwiedzieć\nwstać\nwybierać\nwybór\nwyjaśnić\nwymiana\nwystarczający\nzadanie domowe\nzadowalający\nzapytać\nzdać (egzamin/ test )\nzostać za karę po lekcjach\nzostawiać\nzwracać uwagę\nEnglish\nto last\nto create\nto get dressed\nstudent\nsuccessful\nto have a wash\nto sit down\norally\nto know (a fact)\nto get up\nto choose\nchoice\nto explain\nexchange\nsufficient\nhomework\nsatisfactory\nto ask\nto pass (exam/test)\nto have a detention\nto leave\nto pay attention",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Education post-16",
+                      "level": 4,
+                      "content": "Polish\ndecydować\ndoświadczenie\ndoświadczenie zawodowe\ngotowe, wykonane\nkolega\nkurs\nlist\nmatura\nmiejsce na uniwersytecie\nokazja\npłaca\npłaca minimalna\npraca na pół etatu\npracować\npraktyka\npraktykant\nprawo jazdy\nrada\nsemestr\nszef\nszkolenia zawodowe\nszkoła zawodowa\nubiegać się o\nzarabiać\nEnglish\nto decide\nexperience, experiment\nwork experience\nready, done\nfriend\ncourse\nletter\nA-level equivalent\nuniversity place\nopportunity\nwage\nminimum wage\npart-time job\nto work\napprenticeship\ntrainee\ndriving licence\nadvice\nterm\nboss\njob training\nvocational school\nto apply for\nto earn\nPolish\nżyciorys (CV)\nEnglish\ncurriculum vitae (CV)",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Jobs, career choices and ambitions",
+                      "level": 4,
+                      "content": "Polish\nbiuro\nbudować\nbudowlaniec/ pracownik budowlany\ncały dzień\nchcieć, życzyć\ncieśla\ndecydować\nemeryt\nfarmaceuta\nfryzjer\ngospodyni domowa\nhydraulik\nkariera\nkasjer, urzędnik bankowy\nkierowca ciężarówki\nkucharz\nlekarz\nlistonosz\nmalarz, dekorator\nna zewnątrz, na otwartym powietrzu\nnauczyciel\nEnglish\noffice\nto build\nbuilder\nall day\nto want, to wish\ncarpenter\nto decide\npensioner\npharmacist, chemist\nhairdresser\nhousewife\nplumber\ncareer\ncashier, bank clerk\nlorry driver\nchef, cook\ndoctor\npostman\npainter, decorator\noutside, in the open air\nteacher\nPolish\nnaukowiec\nogrodnik\npiekarz\npielęgniarka\npodanie\npodwyżka\npolicjant\nposiadać\npraca na pełny etat\npraca na pół etatu\npraca na zmiany\npraca, zawód\npracownik\nproboszcz, ksiądz\nprogramista\nprojektant\nrandka\nrolnik\nrozmowa kwalifikacyjna\nrzeźnik\nspełniać\nspotkanie\nsprzedawca\nstrażak\nEnglish\nscientist\ngardener\nbaker\nnurse\napplication\npay rise\npoliceman\nto own\nfull time work\npart time job\nshift work\njob, occupation\nemployee\nparish priest\nprogrammer\ndesigner\ndate\nfarmer\njob interview\nbutcher\nto fulfil\nappointment\nshop assistant\nfirefighter, fireman\nPolish\nszukać\nurzędnik państwowy\nweterynarz\nwłaściciel\nwynagrodzenie\nzapłata\nzatrudniony\nEnglish\nto look for, to search for\ncivil servant\nvet\nowner\nsalary\npayment\nemployed",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "code": "3.5.4",
+              "title": "Theme based vocabulary (Higher Tier)",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.5.4.1",
+                  "title": "Identity and culture",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Me, my family and friends",
+                      "level": 4,
+                      "content": "Polish\nbratanek\ncierpieć\ndenerwować\nhojny\nkawaler\nkrewny\nmałżeństwo\nmieć dobre poczucie humoru\nnarzeczony, narzeczona\nniezawodny\nobcy, nieznajomy\nobrączka\nopiekować się\nEnglish\nnephew\nto suffer\nto annoy\ngenerous\nbachelor\nrelative\nmarriage\nto have a good sense of humour\nfiancé(e)\nreliable\nforeign, unknown\nwedding ring\nto look after\nPolish\npan młody\npanna młoda\npewny siebie\npojedynczy\npopisywać się\nramię\nsamotny rodzic\nsiostrzenica\nślub\nsprostać czemuś\nszalony\nszwagier/ szwagierka\nteść/ teściowa\nwątpić\nwierny\nwnuczka\nwnuk\nwrócić\nwspólnie\nwybaczyć\nzarozumiały\nzazdrosny\nznajomy, przyjaciel\nzrozumienie\nEnglish\nbridegroom\nbride\nself-confident\nsingle\nto show off\nshoulder\nsingle parent\nniece\nwedding\nto cope with something\ncrazy\nbrother-in-law/sister-in-law\nfather-in-law/mother-in law\nto doubt\nfaithful\ngranddaughter\ngrandson\nto return\ntogether, jointly\nto forgive\nconceited\njealous\nacquaintance, friend\nunderstanding\nPolish\nzrównoważony\nzwiązek\nżywy\nEnglish\nbalanced\nrelationship\nlively",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Technology and everyday life",
+                      "level": 4,
+                      "content": "Polish\naplikacje\nbezpieczeństwo\ninternauta\nkonsola do gier\nkonto\nmonitor\nnagrywać\noprogramowanie\npotężny (akumulator , procesor)?\nstrona główna\nsystem operacyjny\nusunąć\nustawienia\nEnglish\napplications\nsafety\ninternet user\ngame console\naccount\nscreen\nto record\nsoftware\npowerful (battery, processor)\nhome page\noperating system\nto delete\nsettings",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Free time activities",
+                      "level": 4,
+                      "content": "Polish\nbębny\nchude mleko\ncielęcina\nczosnek\nEnglish\ndrums\nskimmed milk\nveal\ngarlic\nPolish\nnastolatek\ndomowej roboty\ndyrygent\nekscytujący\nflet\ngazowana woda mineralna\ngęś\njagnięcina\njajecznica\nkaczka\nlekkoatletyka\nłosoś\nłyżwiarstwo\nmąka\nmęczący\nmięso wieprzowe\nmięso wołowe\nmiód\nmleko półtłuste\nnagrać\nniespodzianka\npełne mleko\nperkusja\npikantny\nEnglish\nadolescent, teenager\nhome made\nconductor (of orchestra/choir)\nexciting\nflute\nfizzy mineral water\ngoose\nlamb (meat)\nscrambled eggs\nduck\nathletics\nsalmon\nice skating\nflour\ntiring\npork\nbeef\nhoney\nsemi-skimmed milk\nto record\nsurprise\nfull fat milk\npercussion\nspicy\nPolish\npodtytuł\npstrąg\npyszne\nskrzypce\nsmażone jajko\nszachy\ntelewizor\nwędzony\nwspinaczka górska\nwynik\nwystęp\nwyścig\nzabawa, radość\nzawody\nEnglish\nsubtitle\ntrout\ntasty\nviolin\nfried egg\nchess\nTV\nsmoked\nmountain climbing\nresult\nperformance\nrace (sport)\nfun, enjoyment\ntournament",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Customs and festivals in Poland",
+                      "level": 4,
+                      "content": "Polish\nBoże Ciało\ngościnność\nPrima Aprilis\nŚwięto Trzech Króli\nZielone Święta/Świątki\nEnglish\nCorpus Christi\nhospitality\nApril Fool’s Day\nEpiphany\nPentecost, Whitsun",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.4.2",
+                  "title": "Local, national, international and global areas of interest",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "Home, town, neighbourhood and region",
+                      "level": 4,
+                      "content": "Polish\ndrapacz chmur\ndzielnica\nstół\nmagazyn\nmeble\nmożliwości\nna próżno\nobniżka cen\nopłacalny, tani\noszczędności\nporcelana/ talerze, garnuszki, filiżanki\nprzeprowadzić się\nprzestronny, obszerny\nschody\nstudnia\nsztućce\ntereny zielone\ntransport publiczny\nulica jednokierunkowa\nurządzenie\nwłączyć\nwyłączyć\nza darmo\nEnglish\nskyscraper\ndistrict\ntable\nstoreroom\nfurniture\npossibilities\nin vain\ndiscount\ngood value, cheap\nsavings\ncrockery\nto move house\nroomy, spacious\nstaircase\nwell\ncutlery\ngreen areas\npublic transport\none way street\nappliance\nto switch on\nto switch off\nfree of charge",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Social issues",
+                      "level": 4,
+                      "content": "Polish\nanorektyczny\nbrać narkotyki\nbyć chorym\ncukierki\nczyn przestępczy\ndobrowolnie\nktoś w potrzebie\nkłamstwo\nlek\nmózg\nnadwaga\nnarkotyk\nniekorzyść\nniepijący, abstynent\nniskotłuszczowy\noddech\nodwaga\nporadnia\nprzedawkować\nrehabilitacja\nspożyć najlepiej przed datą\ntrudności w oddychaniu\nunikać\nuprzedzenia rasowe\nEnglish\nanorexic\nto take drugs\nto be sick\nsweets\ncriminal offence\nvoluntarily\nsomebody in need\nlie, untruth\nmedicine\nbrain\noverweight\ndrug\ndisadvantage\nteetotal\nlow in fat\nbreath\ncourage\nadvice centre\nto overdose\nrehab\nbest consumed before date\nbreathing difficulties\nto avoid\nracial prejudice\nPolish\nuszkodzić, zaszkodzić\nżywy\nEnglish\nto damage, to harm\nalive",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Global issues",
+                      "level": 4,
+                      "content": "Polish\nCzerwony Krzyż\ndwutlenek węgla\nefekt cieplarniany\ngodzina szczytu\nludzki, humanitarny\nnawóz\npotrzeba\npowódź\nprzekraczać\nrecykling, segregowanie śmieci\nrówność\nschronisko dla bezdomnych\nsegregować śmieci\nspaliny\nsusza\ntracić\nutylizacja odpadów\nużywać\nwylesianie\nzanieczyszczać\nEnglish\nRed Cross\ncarbon dioxide\ngreenhouse effect\nrush hour\nhuman, humane\nfertiliser\nneed\nflood\nto exceed\nrecycling\nequality\nhostel for homeless people\nto recycle\nexhaust fumes\ndrought\nto waste\nwaste disposal\nto use\ndeforestation\nto pollute\nPolish\nzwiększyć\nEnglish\nto increase",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Travel and tourism",
+                      "level": 4,
+                      "content": "Polish\nbiuro informacji turystycznej\nbroszura, ulotka\ndodatkowa opłata, dopłata\ninformacja\nklimatyzacja\nkrzesło plażowe, leżak\nodkrywać\npamiątka\npobyt\npołączenie\npotwierdzić\npowitalny, serdeczny\nprzechowalnia bagażu\nprzytulny\nspojrzeć na coś, obejrzeć\nstatek\nśpieszyć się\ntowarzyszyć\nurząd celny\nwylesienie\nwynajem samochodów (firma)\nEnglish\ntourist information office\nbrochure, leaflet\nextra charge, surcharge\ninformation\nair conditioning\nbeach chair\nto discover\nsouvenir\nstay\nconnection\nto confirm\nwelcoming, sincere\nleft luggage office\ncosy\nto have a look at something\nboat\nto hurry\nto accompany\ncustoms\ndeforestation\ncar rental (firm)\nPolish\nwypożyczalnia rowerów\nzapamiętać\nEnglish\nbicycle hire\nto remember",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "code": "3.5.4.3",
+                  "title": "Current and future study and employment",
+                  "level": 3,
+                  "content": "",
+                  "children": [
+                    {
+                      "code": "",
+                      "title": "My studies",
+                      "level": 4,
+                      "content": "Polish\nakademik\negzamin poprawkowy\ndyplom licencjacki\ndyplom magisterski\ntłumacz\nstudia podyplomowe\nstypendium\nEnglish\nhall of residence\nresit\nBachelor's Degree\nMaster's Degree\nlanguage assistant, translator\npostgraduate studies\nscholarship",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Life at school/college",
+                      "level": 4,
+                      "content": "Polish\nkara\nkopiować\nkorytarz\nnabój\nnie zdać, oblać (egzamin/ test)\nnieobecny\nnożyczki\nobecny\nodpowiadać\nosiągnięcie\nEnglish\npunishment\nto copy\ncorridor\ncartridge\nto fail (exam/test)\nabsent\nscissors\npresent\nto answer\nachievement\nPolish\nprzenieść się do następnej grupy wiekowej\nsamodzielnie\nwagarować\nwymowa\nwynik\nzadać pytanie\nEnglish\nto be moved up to the next year group\nindependently\nto play truant\npronunciation\nresult, outcome\nto ask a question",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Education post-16",
+                      "level": 4,
+                      "content": "Polish\nbadania społeczne, polityka\nbiznes, ekonomia (przedmiot szkolny)\nfakultet\nprzedmiot obowiązkowy\nrok przerwy\ntechnikum\nodpaść\nwolność\nzamierzać\nzatrudnić\nEnglish\nsocial studies, politics\nbusiness studies, economics\noptional subject\ncompulsory subject\ngap year\ntechnical college\nto drop out\nfreedom\nto intend\nto employ",
+                      "children": []
+                    },
+                    {
+                      "code": "",
+                      "title": "Jobs, career choices and ambitions",
+                      "level": 4,
+                      "content": "Polish\nksięgowy\npracodawca\nprawnik\nspotkanie\nEnglish\naccountant\nemployer\nlawyer\nmeeting\nPolish\nszansa\nzaledwie\nzłożyć wypowiedzenie (z pracy); wyrzucić/ zwolnić\nkogoś z pracy\nzgodzić się, zorganizować\nEnglish\nopportunity\nscarcely\nto hand in one's notice, to sack someone\nto agree, to arrange",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

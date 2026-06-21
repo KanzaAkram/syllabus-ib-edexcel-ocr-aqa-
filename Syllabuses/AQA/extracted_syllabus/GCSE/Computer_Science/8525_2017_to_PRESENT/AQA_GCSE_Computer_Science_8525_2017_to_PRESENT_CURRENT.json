@@ -1,0 +1,326 @@
+{
+  "source_pdf": "GCSE/Computer_Science/8525_2017_to_PRESENT/AQA_GCSE_Computer_Science_8525_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Computer Science",
+  "spec_code": "8525",
+  "pdf_name": "AQA_GCSE_Computer_Science_8525_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Fundamentals of algorithms",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Representing algorithms",
+              "level": 2,
+              "content": "Understand and explain the term algorithm.\nUnderstand and explain the term\ndecomposition.\nUnderstand and explain the term abstraction.\nUse a systematic approach to problem solving\nand algorithm creation representing those\nalgorithms using pseudo-code, program code\nand flowcharts.\nExplain simple algorithms in terms of their\ninputs, processing and outputs.\nDetermine the purpose of simple algorithms.\nAn algorithm is a sequence of steps that can be\nfollowed to complete a task.\nBe aware that a computer program is an\nimplementation of an algorithm and that an\nalgorithm is not a computer program.\nDecomposition means breaking a problem into\na number of sub-problems, so that each sub-\nproblem accomplishes an identifiable task,\nwhich might itself be further subdivided.\nAbstraction is the process of removing\nunnecessary detail from a problem.\nAny exam question where students are given\npseudo-code will use the AQA standard\nversion.\nExam questions will indicate the form of\nresponse expected. For example, pseudo-code,\nprogram code or a flowchart.\nStudents must be able to identify where inputs,\nprocessing and outputs are taking place within\nan algorithm.\nStudents should be able to use trace tables and\nvisual inspection to determine how simple\nalgorithms work and what their purpose is.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "Efficiency of algorithms",
+              "level": 2,
+              "content": "Understand that more than one algorithm can\nbe used to solve the same problem.\nCompare the efficiency of algorithms explaining\nhow some algorithms are more efficient than\nothers in solving the same problem.\nFormal comparisons of algorithmic efficiency\nare not required.\nExam questions in this area will only refer to\ntime efficiency.",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "Searching algorithms",
+              "level": 2,
+              "content": "Understand and explain how the linear search\nalgorithm works.\nUnderstand and explain how the binary search\nalgorithm works.\nCompare and contrast linear and binary search\nalgorithms.\nStudents should know the mechanics of the\nalgorithm.\nStudents should know the mechanics of the\nalgorithm.\nStudents should know the advantages and\ndisadvantages of both algorithms.",
+              "children": []
+            },
+            {
+              "code": "3.1.4",
+              "title": "Sorting algorithms",
+              "level": 2,
+              "content": "Understand and explain how the merge sort\nalgorithm works.\nUnderstand and explain how the bubble sort\nalgorithm works.\nCompare and contrast merge sort and bubble\nsort algorithms.\nStudents should know the mechanics of the\nalgorithm.\nStudents should know the mechanics of the\nalgorithm.\nStudents should know the advantages and\ndisadvantages of both algorithms.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "Programming",
+          "level": 1,
+          "content": "Students need a theoretical understanding of all the topics in this section for the paper 1 exam\neven if the programming language(s) taught does not support all of the topics. Exams will always\npresent algorithms using the current version of the AQA pseudo-code. The document can be found\non the AQA website.\nStudents need a practical understanding of all the topics and skills in this section for the paper 1\nexam. When they are writing computer programs in an exam they will need to ensure they use\nmeaningful identifier names, use suitable data types and that all logic flow is clearly identifiable to\nexaminers.\nExam questions will explicitly state in what form the response needs to be provided. This will be,\nfor example, pseudo-code, program code or a flowchart, and students must respond as instructed.\nWhere pseudo-code is an accepted method of response, students may present their answers to\nquestions in any suitable format and do not need to use the AQA pseudo-code.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "Data types",
+              "level": 2,
+              "content": "Understand the concept of a data type.\nUnderstand and use the following appropriately:\n- integer\n- real\n- Boolean\n- character\n- string.\nDepending on the actual programming\nlanguage(s) being used, these data types may\nhave other names. For example real numbers\nmay be described as float. In exams we will use\nthe general names given opposite.",
+              "children": []
+            },
+            {
+              "code": "3.2.2",
+              "title": "Programming concepts",
+              "level": 2,
+              "content": "Use, understand and know how the following\nstatement types can be combined in programs:\n- variable declaration\n- constant declaration\n- assignment\n- iteration\n- selection\n- subroutine (procedure/function).\nThe three combining principles (sequence,\niteration/repetition and selection/choice) are\nbasic to all high-level imperative programming\nlanguages.\nStudents should be able to write programs\nusing these statement types. They should be\nable to interpret and write algorithms that\ninclude these statement types.\nStudents should know why named constants\nand variables are used.\nUse definite (count controlled) and indefinite\n(condition controlled) iteration, including\nindefinite iteration with the condition(s) at the\nstart or the end of the iterative structure.\nUse nested selection and nested iteration\nstructures.\nUse meaningful identifier names and know why\nit is important to use them.\nA theoretical understanding of condition(s) at\neither end of an iterative structure is required,\nregardless of whether they are supported by the\nlanguage(s) being used.\nAn example of definite (count controlled)\niteration would be:\nFOR i ← 1 TO 5\n… Instructions here …\nENDFOR\nAn example of indefinite (condition controlled)\niteration with the condition at the start would be:\nWHILE NotSolved\n… Instructions here …\nENDWHILE\nExamples of indefinite (condition controlled)\niteration with the condition at the end would be:\nREPEAT\n… Instructions here …\nUNTIL Solved\nDO\n… Instructions here …\nWHILE NotSolved\nAn example of nested iteration would be:\nWHILE NotSolved\n… Instructions here ...\nFOR i ← 1 TO 5\n… Instructions here …\nENDFOR\n… Instructions here …\nENDWHILE\nAn example of nested selection would be:\nIF GameWon THEN\n… Instructions here …\nIF Score > HighScore THEN\n… Instructions here …\nENDIF\n… Instructions here …\nENDIF\nIdentifier names include names for variables,\nconstants and subroutine names.",
+              "children": []
+            },
+            {
+              "code": "3.2.3",
+              "title": "Arithmetic operations in a programming language",
+              "level": 2,
+              "content": "Be familiar with and be able to use:\n- addition\n- subtraction\n- multiplication\n- real division\n- integer division, including remainders.\nInteger division, including remainders, is usually\na two stage process and uses modular\narithmetic:\neg the calculation 11/2 would generate the\nfollowing values:\nInteger division: the integer quotient of 11\ndivided by 2 (11 DIV 2) = 5\nRemainder: the remainder when 11 is divided\nby 2 (11 MOD 2) = 1",
+              "children": []
+            },
+            {
+              "code": "3.2.4",
+              "title": "Relational operations in a programming language",
+              "level": 2,
+              "content": "Be familiar with and be able to use:\n- equal to\n- not equal to\n- less than\n- greater than\n- less than or equal to\n- greater than or equal to.\nStudents should be able to use these operators\nwithin their own programs and be able to\ninterpret them when used within algorithms.\nNote that different languages may use different\nsymbols to represent these operators.",
+              "children": []
+            },
+            {
+              "code": "3.2.5",
+              "title": "Boolean operations in a programming language",
+              "level": 2,
+              "content": "Be familiar with and be able to use:\n- NOT\n- AND\n- OR.\nStudents should be able to use these operators,\nand combinations of these operators, within\nconditions for iterative and selection structures.",
+              "children": []
+            },
+            {
+              "code": "3.2.6",
+              "title": "Data structures",
+              "level": 2,
+              "content": "Understand the concept of data structures.\nIt may be helpful to set the concept of a data\nstructure in various contexts that students may\nalready be familiar with. It may also be helpful\nto suggest/demonstrate how data structures\ncould be used in a practical setting.\nUse arrays (or equivalent) in the design of\nsolutions to simple problems.\nUse records (or equivalent) in the design of\nsolutions to simple problems.\nOnly one and two-dimensional arrays are\nrequired.\nAn example of a record definition would be:\nRECORD Car\nmake : String\nmodel : String\nreg : String\nprice : Real\nnoOfDoors : Integer\nENDRECORD",
+              "children": []
+            },
+            {
+              "code": "3.2.7",
+              "title": "Input/output",
+              "level": 2,
+              "content": "Be able to obtain user input from the keyboard.\nBe able to output data and information from a\nprogram to the computer display.",
+              "children": []
+            },
+            {
+              "code": "3.2.8",
+              "title": "String handling operations in a programming language",
+              "level": 2,
+              "content": "Understand and be able to use:\n- length\n- position\n- substring\n- concatenation\n- convert character to character code\n- convert character code to character\n- string conversion operations.\nExpected string conversion operations:\n- string to integer\n- string to real\n- integer to string\n- real to string.",
+              "children": []
+            },
+            {
+              "code": "3.2.9",
+              "title": "Random number generation in a programming language",
+              "level": 2,
+              "content": "Be able to use random number generation.\nStudents will be expected to use random\nnumber generation within their computer\nprograms. An understanding of how pseudo-\nrandom numbers are generated is not required.",
+              "children": []
+            },
+            {
+              "code": "3.2.10",
+              "title": "Structured programming and subroutines (procedures and functions)",
+              "level": 2,
+              "content": "Understand the concept of subroutines.\nExplain the advantages of using subroutines in\nprograms.\nDescribe the use of parameters to pass data\nwithin programs.\nUse subroutines that return values to the calling\nroutine.\nKnow that subroutines may declare their own\nvariables, called local variables, and that local\nvariables usually:\n- only exist while the subroutine is\nexecuting\n- are only accessible within the subroutine.\nUse local variables and explain why it is good\npractice to do so.\nDescribe the structured approach to\nprogramming.\nExplain the advantages of the structured\napproach.\nStudents should know that a subroutine is a\nnamed ‘out of line’ block of code that may be\nexecuted (called) by simply writing its name in a\nprogram statement.\nStudents should be able to use subroutines that\nrequire more than one parameter.\nStudents should be able to describe how data is\npassed to a subroutine using parameters.\nStudents should be able to describe how data is\npassed out of a subroutine using return values.\nStudents should be able to describe the\nstructured approach including modularised\nprogramming, clear well-documented interfaces\n(local variables, parameters) and return values.\nTeachers should be aware that the terms\narguments and parameters are sometimes\nused but in examinable material we will use the\nterm parameter to refer to both of these.",
+              "children": []
+            },
+            {
+              "code": "3.2.11",
+              "title": "Robust and secure programming",
+              "level": 2,
+              "content": "Be able to write simple data validation routines.\nBe able to write simple authentication routines.\nUnderstand what is meant by testing in the\ncontext of algorithms and programs.\nBe able to correct errors within algorithms and\nprograms.\nUnderstand what test data is and describe the\nfollowing types of test data:\n- normal (typical)\n- boundary (extreme)\n- erroneous data.\nBe able to select and justify the choice of\nsuitable test data for a given problem.\nUnderstand that there are different types of\nerror:\n- syntax error\n- logic error.\nBe able to identify and categorise errors within\nalgorithms and programs.\nStudents should be able to use data validation\ntechniques to write simple routines that check\nthe validity of data being entered by a user.\nThe following validation checks are examples of\nsimple data validation routines:\n- checking if an entered string has a\nminimum length\n- checking if a string is empty\n- checking if data entered lies within a\ngiven range (eg between 1 and 10).\nStudents should be able to write a simple\nauthentication routine that uses a username\nand password. Students will only be required to\nuse plain text usernames and passwords (ie\nstudents will not need to encrypt the\npasswords).\nBoundary data would be for example:\nIf the allowed range is 1 to 10, then boundary\ndata is 0, 1, 10, 11, ie either side of the allowed\nboundary.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.3",
+          "title": "Fundamentals of data representation",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.3.1",
+              "title": "Number bases",
+              "level": 2,
+              "content": "Understand the following number bases:\n- decimal (base 10)\n- binary (base 2)\n- hexadecimal (base 16).\nUnderstand that computers use binary to\nrepresent all data and instructions.\nExplain why hexadecimal is often used in\ncomputer science.\nStudents should be familiar with the idea that a\nbit pattern could represent different types of\ndata including text, image, sound and integer.",
+              "children": []
+            },
+            {
+              "code": "3.3.2",
+              "title": "Converting between number bases",
+              "level": 2,
+              "content": "Understand how binary can be used to\nrepresent whole numbers.\nUnderstand how hexadecimal can be used to\nrepresent whole numbers.\nBe able to convert in both directions between:\n- binary and decimal\n- binary and hexadecimal\n- decimal and hexadecimal.\nStudents must be able to represent decimal\nvalues between 0 and 255 in binary.\nStudents must be able to represent decimal\nvalues between 0 and 255 in hexadecimal.\nThe following equivalent maximum values will\nbe used:\n- decimal: 255\n- binary: 1111 1111\n- hexadecimal: FF",
+              "children": []
+            },
+            {
+              "code": "3.3.3",
+              "title": "Units of information",
+              "level": 2,
+              "content": "Know that:\n- a bit is the fundamental unit of information\n- a byte is a group of 8 bits.\nA bit is either a 0 or a 1.\n- b represents bit\n- B represents byte\nKnow that quantities of bytes can be described\nusing prefixes.\nKnow the names, symbols and corresponding\nvalues for the decimal prefixes:\n- kilo, 1 kB is 1,000 bytes\n- mega, 1 MB is 1,000 kilobytes\n- giga, 1 GB is 1,000 Megabytes\n- tera, 1 TB is 1,000 Gigabytes.\nBe able to compare quantities of bytes using\nthe prefixes above.\nStudents might benefit from knowing that\nhistorically the terms kilobyte, megabyte, etc\nhave often been used to represent powers of 2.\nThe International System of Units (SI units) kilo,\nmega and so forth refer to values based on\npowers of 10. When referring to powers of 2 the\nterms kibi, mebi and so forth would normally be\nused but students do not need to know these.",
+              "children": []
+            },
+            {
+              "code": "3.3.4",
+              "title": "Binary arithmetic",
+              "level": 2,
+              "content": "Be able to add together up to three binary\nnumbers.\nBe able to apply a binary shift to a binary\nnumber.\nDescribe situations where binary shifts can be\nused.\nStudents will need to be able to add together up\nto three binary numbers using a maximum of 8\nbits per number.\nStudents will only be expected to add together\na maximum of three 1s in a single column.\nAnswers will be a maximum of 8 bits in length\nand will not involve carrying beyond the 8th bit.\nStudents will be expected to use a maximum of\n8 bits.\nStudents will be expected to understand and\nuse only a logical binary shift.\nStudents will not need to understand or use\nfractional representations.\nBinary shifts can be used to perform simple\nmultiplication/division by powers of 2.",
+              "children": []
+            },
+            {
+              "code": "3.3.5",
+              "title": "Character encoding",
+              "level": 2,
+              "content": "Understand what a character set is and be able\nto describe the following character encoding\nmethods:\n- 7-bit ASCII\n- Unicode.\nStudents should be able to use a given\ncharacter encoding table to:\n- convert characters to character codes\n- convert character codes to characters.\nUnderstand that character codes are commonly\ngrouped and run in sequence within encoding\ntables.\nDescribe the purpose of Unicode and the\nadvantages of Unicode over ASCII.\nKnow that Unicode uses the same codes as\nASCII up to 127.\nStudents should know that character codes are\ngrouped and that they run in sequence. For\nexample in ASCII ‘A’ is coded as 65, ‘B’ as 66,\nand so on, meaning that the codes for the other\ncapital letters can be calculated once the code\nfor ‘A’ is known. This pattern also applies to\nother groupings such as lower case letters and\ndigits.\nStudents should be able to explain the need for\ndata representation of different alphabets and\nof special symbols allowing a far greater range\nof characters.\nIt is not necessary to be familiar with UTF-8,\nUTF-16 or other different versions of Unicode.",
+              "children": []
+            },
+            {
+              "code": "3.3.6",
+              "title": "Representing images",
+              "level": 2,
+              "content": "Understand what a pixel is and be able to\ndescribe how pixels relate to an image and the\nway images are displayed.\nDescribe the following for bitmaps:\n- image size\n- colour depth.\nKnow that the size of a bitmap image is\nmeasured in pixels (width x height).\nDescribe how a bitmap represents an image\nusing pixels and colour depth.\nDescribe using examples how the number of\npixels and colour depth can affect the file size\nof a bitmap image.\nCalculate bitmap image file sizes based on the\nnumber of pixels and colour depth.\nStudents should know that the term pixel is\nshort for picture element. A pixel is a single\npoint in an image.\nThe size of an image is expressed directly as\nwidth of image in pixels by height of image in\npixels using the notation width x height.\nColour depth is the number of bits used to\nrepresent each pixel.\nStudents should be able to explain how bitmaps\nare made from pixels.\nStudents should be able to describe how higher\nnumbers of pixels and higher colour depths can\naffect file size, and should also be able to use\nexamples.\nStudents only need to use colour depth and\nnumber of pixels within their calculations.\nSize = (bits) = W x H x D\nSize = (bytes) = (W x H x D)/8\nW = image width\nH = image height\nD = colour depth in bits.\nConvert binary data into a bitmap image.\nConvert a bitmap image into binary data.\nGiven a binary pattern that represents a simple\nbitmap, students should be able to draw the\nresulting image as a series of pixels.\nGiven a simple bitmap, students should be able\nto write down a bit pattern that represents the\nimage.",
+              "children": []
+            },
+            {
+              "code": "3.3.7",
+              "title": "Representing sound",
+              "level": 2,
+              "content": "Understand that sound is analogue and that it\nmust be converted to a digital form for storage\nand processing in a computer.\nUnderstand that analogue signals are sampled\nto create the digital version of sound.\nDescribe the digital representation of sound in\nterms of:\n- sampling rate\n- sample resolution.\nCalculate sound file sizes based on the\nsampling rate and the sample resolution.\nStudents should understand that a sample is a\nmeasure of amplitude at a point in time.\nSampling rate is the number of samples taken\nin a second and is usually measured in hertz (1\nhertz = 1 sample per second).\nSample resolution is the number of bits per\nsample.\nFile size (bits) = rate x res x secs\nrate = sampling rate\nres = sample resolution\nsecs = number of seconds",
+              "children": []
+            },
+            {
+              "code": "3.3.8",
+              "title": "Data compression",
+              "level": 2,
+              "content": "Explain what data compression is.\nUnderstand why data may be compressed and\nthat there are different ways to compress data.\nExplain how data can be compressed using\nHuffman coding.\nBe able to interpret Huffman trees.\nStudents should understand that it is common\nfor data to be compressed and should be able\nto explain why it may be necessary or desirable\nto compress data.\nStudents should be familiar with the process of\nusing a tree to represent the Huffman code.\nBe able to calculate the number of bits required\nto store a piece of data compressed using\nHuffman coding.\nBe able to calculate the number of bits required\nto store a piece of uncompressed data in ASCII.\nExplain how data can be compressed using run\nlength encoding (RLE).\nRepresent data in RLE frequency/data pairs.\nStudents should be familiar with carrying out\ncalculations to determine the number of bits\nsaved by compressing a piece of data using\nHuffman coding.\nStudents should be familiar with the process of\nusing frequency/data pairs to reduce the\namount of data stored.\nStudents could be given a bitmap\nrepresentation and they would be expected to\nshow the frequency and value pairs for each\nrow,\neg 0000011100000011\nwould become 5 0 3 1 6 0 2 1.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.4",
+          "title": "Computer systems",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.4.1",
+              "title": "Hardware and software",
+              "level": 2,
+              "content": "Define the terms hardware and software and\nunderstand the relationship between them.",
+              "children": []
+            },
+            {
+              "code": "3.4.2",
+              "title": "Boolean logic",
+              "level": 2,
+              "content": "Construct truth tables for the following logic\ngates:\n- NOT\n- AND\n- OR\n- XOR.\nConstruct truth tables for simple logic circuits\nusing combinations of NOT, AND, OR and XOR\ngates.\nInterpret the results of simple truth tables.\nStudents do not need to know about or use\nNAND and NOR logic gates.\nStudents should be able to construct truth\ntables which contain up to three inputs.\nCreate, modify and interpret simple logic circuit\ndiagrams.\nStudents will only need to use NOT, AND, OR\nand XOR gates within logic circuits.\nStudents will be expected to understand and\nuse the following logic circuit symbols:\nCreate and interpret simple Boolean\nexpressions made up of NOT, AND, OR and\nXOR operations.\nCreate the Boolean expression for a simple\nlogic circuit.\nCreate a logic circuit from a simple Boolean\nexpression.\nStudents should be able to construct simple\nlogic circuit diagrams which contain up to three\ninputs.\nStudents will be expected to understand and\nuse the following Boolean expression\noperators:\n. to represent the AND gate\n+ to represent the OR gate\n⊕ to represent the XOR gate\nOverbar to represent the NOT gate\nFor example the expression (A AND B) OR\n(NOT C) would be represented as:\nA . B + C",
+              "children": []
+            },
+            {
+              "code": "3.4.3",
+              "title": "Software classification",
+              "level": 2,
+              "content": "Explain what is meant by:\n- system software\n- application software.\nGive examples of both types of software.\nStudents should understand that:\n- system software manages the computer\nsystem resources and acts as a platform\nto run application software\n- application software is software that\nperforms end-user tasks.\nUnderstand the need for, and functions of,\noperating systems (OS) and utility programs.\nUnderstand that the OS handles management\nof the:\n- processor(s)\n- memory\n- input/output (I/O) devices\n- applications\n- security.",
+              "children": []
+            },
+            {
+              "code": "3.4.4",
+              "title": "Classification of programming languages and translators",
+              "level": 2,
+              "content": "Know that there are different levels of\nprogramming language:\n- low-level language\n- high-level language.\nExplain the main differences between low-level\nand high-level languages.\nKnow that machine code and assembly\nlanguage are considered to be low-level\nlanguages and explain the differences between\nthem.\nUnderstand that all programming code written\nin high-level or assembly languages must be\ntranslated.\nUnderstand that machine code is expressed in\nbinary and is specific to a processor or family of\nprocessors.\nUnderstand the advantages and disadvantages\nof low-level language programming compared\nwith high-level language programming.\nStudents should understand that most\ncomputer programs are written in high-level\nlanguages and be able to explain why this is the\ncase.\nStudents should be able to\n- understand that processors execute\nmachine code and that each type of\nprocessor has its own specific machine\ncode instruction set\n- understand that assembly language is\noften used to develop software for\nembedded systems and for controlling\nspecific hardware components\n- understand that assembly language has a\n1:1 correspondence with machine code.\nUnderstand that there are three common types\nof program translator:\n- interpreter\n- compiler\n- assembler.\nExplain the main differences between these\nthree types of translator.\nUnderstand when it would be appropriate to use\neach type of translator.\nStudents will need to know that:\n- assemblers and compilers translate their\ninput into machine code directly\n- each line of assembly language is\nassembled into a single machine code\ninstruction\n- interpreters do not generate machine\ncode directly (they call appropriate\nmachine code subroutines within their\nown code to carry out statements).",
+              "children": []
+            },
+            {
+              "code": "3.4.5",
+              "title": "Systems architecture",
+              "level": 2,
+              "content": "Explain the role and operation of main memory\nand the following major components of a central\nprocessing unit (CPU) within the Von Neumann\narchitecture:\n- arithmetic logic unit\n- control unit\n- clock\n- register\n- bus.\nExplain the effect of the following on the\nperformance of the CPU:\n- clock speed\n- number of processor cores\n- cache size.\nUnderstand and explain the Fetch-Execute\ncycle.\nA bus is a collection of wires through which\ndata/signals are transmitted from one\ncomponent to another.\nKnowledge of specific registers is not required.\nThe CPU continually reads instructions stored\nin main memory and executes them as\nrequired:\n- fetch: the next instruction is fetched to the\nCPU from main memory\n- decode: the instruction is decoded to work\nout what it is\n- execute: the instruction is executed\n(carried out). This may include reading/\nwriting from/to main memory.\nUnderstand the different types of memory within\na computer:\n- RAM\n- ROM\n- Cache\n- Register.\nKnow what the different types of memory are\nused for and why they are required.\nUnderstand the differences between main\nmemory and secondary storage.\nUnderstand the differences between RAM and\nROM.\nUnderstand why secondary storage is required.\nBe aware of different types of secondary\nstorage (solid state, optical and magnetic).\nExplain the operation of solid state, optical and\nmagnetic storage.\nDiscuss the advantages and disadvantages of\nsolid state, optical and magnetic storage.\nExplain the term cloud storage.\nExplain the advantages and disadvantages of\ncloud storage when compared to local storage.\nUnderstand the term embedded system and\nexplain how an embedded system differs from a\nnon-embedded system.\nStudents should be able to explain the terms\nvolatile and non-volatile.\nMain memory will be considered to be any form\nof memory that is directly accessible by the\nCPU (except for cache and registers).\nSecondary storage is considered to be any non-\nvolatile storage mechanism not directly\naccessible by the CPU.\nStudents should be aware that SSDs use\nelectrical circuits to persistently store data but\nwill not need to know the precise details such\nas use of NAND gates.\nStudents should understand that cloud storage\nuses magnetic and/or solid state storage at a\nremote location.\nStudents must be able to give examples of\nembedded and non-embedded systems.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.5",
+          "title": "Fundamentals of computer networks",
+          "level": 1,
+          "content": "Define what a computer network is.\nDiscuss the advantages and disadvantages of\ncomputer networks.\nDescribe the main types of computer network\nincluding:\n- Personal Area Network (PAN)\n- Local Area Network (LAN)\n- Wide Area Network (WAN).\nUnderstand that networks can be wired or\nwireless.\nDiscuss the advantages and disadvantages of\nwireless networks as opposed to wired\nnetworks.\nDescribe the following common LAN topologies:\n- star\n- bus.\nDefine the term network protocol.\nPAN – only Bluetooth needs to be considered.\nLAN – know that these usually cover relatively\nsmall geographical areas.\nLAN – know that these are often owned and\ncontrolled/managed by a single person or\norganisation.\nWAN – know that the Internet is the biggest\nexample of a WAN.\nWAN – know that these usually cover a wide\ngeographic area.\nWAN – know that these are often under\ncollective or distributed ownership.\nStudents should know that wired networks can\nuse different types of cable such as fibre and\ncopper and when each would be appropriate.\nStudents should be able to draw topology\ndiagrams and describe the differences between\nthe two topologies. They should also be able to\nselect the most appropriate topology for a given\nscenario.\nExplain the purpose and use of common\nnetwork protocols including:\n- Ethernet\n- Wi-Fi\n- TCP (Transmission Control Protocol)\n- UDP (User Datagram Protocol)\n- IP (Internet Protocol)\n- HTTP (Hypertext Transfer Protocol)\n- HTTPS (Hypertext Transfer Protocol\nSecure)\n- FTP (File Transfer Protocol)\n- email protocols:\n- SMTP (Simple Mail Transfer Protocol)\n- IMAP (Internet Message Access\nProtocol).\nUnderstand the need for, and importance of,\nnetwork security.\nExplain the following methods of network\nsecurity:\n- authentication\n- encryption\n- firewall\n- MAC address filtering.\nStudents should know what each protocol is\nused for (eg HTTPS provides an encrypted\nversion of HTTP for more secure web\ntransactions).\nStudents should understand that Ethernet is a\nfamily of related protocols rather than a single\nprotocol. They do not need to know the\nindividual protocols that make up the Ethernet\nfamily.\nStudents should understand that Wi-Fi is a\nfamily of related protocols rather than a single\nprotocol. They do not need to know the\nindividual protocols that make up the Wi-Fi\nfamily but they should know that Wi-Fi is a\ntrademark and that the generic term for\nnetworks of this nature is WLAN.\nStudents should be able to explain, using\nexamples, what each of these security methods\nis and when each could be used.\nStudents should understand how these\nmethods can work together to provide a greater\nlevel of security.\nThe capabilities of firewalls have changed\ndramatically in recent years and will continue to\ndo so. Students should be aware that a firewall\nis a network security device that monitors\nincoming and outgoing network traffic and\ndecides whether to allow or block specific traffic\nbased on a defined set of security rules.\nStudents should understand that MAC address\nfiltering allows devices to access, or be blocked\nfrom accessing a network based on their\nphysical address embedded within the device’s\nnetwork adapter.\nDescribe the 4 layer TCP/IP model:\n- application layer\n- transport layer\n- internet layer\n- link layer.\nUnderstand that the HTTP, HTTPS, SMTP,\nIMAP and FTP protocols operate at the\napplication layer.\nUnderstand that the TCP and UDP protocols\noperate at the transport layer.\nUnderstand that the IP protocol operates at the\ninternet layer.\nStudents should be able to name the layers and\ndescribe their main function(s) in a networking\nenvironment.\nApplication layer: this is where the network\napplications, such as web browsers or email\nprograms, operate.\nTransport layer: this layer sets up the\ncommunication between the two hosts and they\nagree settings such as the size of packets.\nInternet layer: addresses and packages data for\ntransmission. Routes the packets across the\nnetwork.\nLink layer: this is where the network hardware\nsuch as the NIC (network interface card) is\nlocated. OS device drivers also sit here.\nTeachers should be aware that the link layer is\nsometimes referred to as the network access\nlayer or network interface layer. However,\nstudents will not be expected to know these\nalternative layer names.",
+          "children": []
+        },
+        {
+          "code": "3.6",
+          "title": "Cyber security",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.6.1",
+              "title": "Fundamentals of cyber security",
+              "level": 2,
+              "content": "Be able to define the term cyber security and be\nable to describe the main purposes of cyber\nsecurity.\nStudents should know that cyber security\nconsists of the processes, practices and\ntechnologies designed to protect networks,\ncomputers, programs and data from attack,\ndamage or unauthorised access.",
+              "children": []
+            },
+            {
+              "code": "3.6.2",
+              "title": "Cyber security threats",
+              "level": 2,
+              "content": "Understand and be able to explain the following\ncyber security threats:\n- social engineering techniques\n- malicious code (malware)\n- pharming\n- weak and default passwords\n- misconfigured access rights\n- removable media\n- unpatched and/or outdated software.\nExplain what penetration testing is and what it\nis used for.\nPharming is a cyber attack intended to redirect\na website's traffic to a fake website.\nPenetration testing is the process of attempting\nto gain access to resources without knowledge\nof usernames, passwords and other normal\nmeans of access.\nStudents should understand the following two\ntypes of penetration testing:\n- when the person or team testing the\nsystem has knowledge of and possibly\nbasic credentials for the target system,\nsimulating an attack from inside the\nsystem (a malicious insider)\n- when the person or team testing the\nsystem has no knowledge of any\ncredentials for the target system,\nsimulating an attack from outside the\nsystem (an external attack).",
+              "children": [
+                {
+                  "code": "3.6.2.1",
+                  "title": "Social engineering",
+                  "level": 3,
+                  "content": "Define the term social engineering.\nDescribe what social engineering is and how it\ncan be protected against.\nExplain the following forms of social\nengineering:\n- blagging (pretexting)\n- phishing\n- shouldering (or shoulder surfing).\nStudents should know that social engineering is\nthe art of manipulating people so they give up\nconfidential information.\nBlagging is the act of creating and using an\ninvented scenario to engage a targeted victim in\na manner that increases the chance the victim\nwill divulge information or perform actions that\nwould be unlikely in ordinary circumstances.\nPhishing is a technique of fraudulently obtaining\nprivate information, often using email or SMS.\nShouldering is observing a person's private\ninformation over their shoulder eg cashpoint\nmachine PIN numbers.",
+                  "children": []
+                },
+                {
+                  "code": "3.6.2.2",
+                  "title": "Malicious code (malware)",
+                  "level": 3,
+                  "content": "Define the term malware.\nDescribe what malware is and how it can be\nprotected against.\nDescribe the following forms of malware:\n- computer virus\n- trojan\n- spyware.\nMalware is an umbrella term used to refer to a\nvariety of forms of hostile or intrusive software.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.6.3",
+              "title": "Methods to detect and prevent cyber security threats",
+              "level": 2,
+              "content": "Understand and be able to explain the following\nsecurity measures:\n- biometric measures (particularly for\nmobile devices)\n- password systems\n- CAPTCHA (or similar)\n- using email confirmations to confirm a\nuser’s identity\n- automatic software updates.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.7",
+          "title": "Relational databases and structured query language (SQL)",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "3.7.1",
+              "title": "Relational databases",
+              "level": 2,
+              "content": "Explain the concept of a database.\nExplain the concept of a relational database.\nUnderstand the following database concepts:\n- table\n- record\n- field\n- data type\n- primary key\n- foreign key.\nUnderstand that the use of a relational\ndatabase facilitates the elimination of data\ninconsistency and data redundancy.\nNote that whilst the terms entity, attribute and\nentity identifier are more commonly used when\nan abstract model of a database is being\nconsidered, the terms given here will be used\nfor both implementations of and abstract\nmodels of databases.",
+              "children": []
+            },
+            {
+              "code": "3.7.2",
+              "title": "Structured query language (SQL)",
+              "level": 2,
+              "content": "Be able to use SQL to retrieve data from a\nrelational database, using the commands:\nSELECT\n- FROM\n- WHERE\n- ORDER BY…ASC | DESC\n- Be able to use SQL to insert data into a\nrelational database using the commands.\nINSERT INTO table_name (column1,\ncolumn 2 …)\nVALUES (value1, value2 …)\nBe able to use SQL to edit and delete data in a\ndatabase using the commands.\nUPDATE table_name\nSET column1 = value1, column2\n= value2 ...\nWHERE condition\nDELETE FROM table_name WHERE\ncondition\nExam questions will require that data is\nextracted from no more than two tables for any\none query.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.8",
+          "title": "Ethical, legal and environmental impacts of digital technology on wider society, including issues of privacy",
+          "level": 1,
+          "content": "Explain the current ethical, legal and\nenvironmental impacts and risks of digital\ntechnology on society. Where data privacy\nissues arise these should be considered.\nExam questions will be taken from the following\nareas:\n- cyber security\n- mobile technologies\n- wireless networking\n- cloud storage\n- hacking (unauthorised access to a\ncomputer system)\n- wearable technologies\n- computer based implants\n- autonomous vehicles.\nStudents will be expected to understand and\nexplain the general principles behind the issues\nrather than have detailed knowledge on specific\nissues.\nStudents should be aware that ordinary citizens\nnormally value their privacy and may not like it\nwhen governments or security services have\ntoo much access.\nStudents should be aware that governments\nand security services often argue that they\ncannot keep their citizens safe from terrorism\nand other attacks unless they have access to\nprivate data.",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

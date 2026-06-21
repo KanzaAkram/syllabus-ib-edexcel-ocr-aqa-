@@ -1,0 +1,181 @@
+{
+  "source_pdf": "AS_Level/Mathematics/7356_2018_to_PRESENT/AQA_AS_Mathematics_7356_2018_to_PRESENT_CURRENT.pdf",
+  "qualification": "AS_Level",
+  "subject": "Mathematics",
+  "spec_code": "7356",
+  "pdf_name": "AQA_AS_Mathematics_7356_2018_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "Overarching themes",
+          "level": 1,
+          "content": "AS specifications in mathematics must require students to demonstrate the overarching knowledge\nand skills contained in sections OT1, OT2 and OT3. These must be applied, along with associated\nmathematical thinking and understanding, across the whole of the detailed content set out in\nsections A to R.\nStudents must understand the mathematical notation in Appendix A: mathematical notation and\nmust be able to recall the mathematical formulae and identities set out in Appendix B:\nmathematical formulae and identities (page 41).",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "OT1: Mathematical argument, language and proof",
+              "level": 2,
+              "content": "Knowledge/skill\nOT1.1\nConstruct and present mathematical arguments through appropriate use of\ndiagrams; sketching graphs; logical deduction; precise statements involving\ncorrect use of symbols and connecting language, including: constant, coefficient,\nexpression, equation, function, identity, index, term, variable.\nOT1.2\nUnderstand and use mathematical language and syntax as set out in the content.\nOT1.3\nUnderstand and use language and symbols associated with set theory, as set out\nin the appendices.\nApply to solutions of inequalities.\nOT1.5\nComprehend and critique mathematical arguments, proofs and justifications of\nmethods and formulae, including those relating to applications of mathematics.",
+              "children": []
+            },
+            {
+              "code": "3.1.2",
+              "title": "OT2: Mathematical problem solving",
+              "level": 2,
+              "content": "Knowledge/skill\nOT2.1\nRecognise the underlying mathematical structure in a situation and simplify and\nabstract appropriately to enable problems to be solved.\nOT2.2\nConstruct extended arguments to solve problems presented in an unstructured\nform, including problems in context.\nOT2.3\nInterpret and communicate solutions in the context of the original problem.\nKnowledge/skill\nOT2.5\nEvaluate, including by making reasoned estimates, the accuracy or limitations of\nsolutions.\nOT2.6\nUnderstand the concept of a mathematical problem solving cycle, including\nspecifying the problem, collecting information, processing and representing\ninformation and interpreting results, which may identify the need to repeat the\ncycle.\nOT2.7\nUnderstand, interpret and extract information from diagrams and construct\nmathematical diagrams to solve problems, including in mechanics.",
+              "children": []
+            },
+            {
+              "code": "3.1.3",
+              "title": "OT3: Mathematical modelling",
+              "level": 2,
+              "content": "Knowledge/skill\nOT3.1\nTranslate a situation in context into a mathematical model, making simplifying\nassumptions.\nOT3.2\nUse a mathematical model with suitable inputs to engage with and explore\nsituations (for a given model or a model constructed or selected by the student).\nOT3.3\nInterpret the outputs of a mathematical model in the context of the original\nsituation (for a given model or a model constructed or selected by the student).\nOT3.4\nUnderstand that a mathematical model can be refined by considering its outputs\nand simplifying assumptions; evaluate whether the model is appropriate.\nOT3.5\nUnderstand and use modelling assumptions.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "A: Proof",
+          "level": 1,
+          "content": "A1\nUnderstand and use the structure of mathematical proof, proceeding from given\nassumptions through a series of logical steps to a conclusion; use methods of\nproof, including proof by deduction, proof by exhaustion.\nDisproof by counter example.",
+          "children": []
+        },
+        {
+          "code": "3.3",
+          "title": "B: Algebra and functions",
+          "level": 1,
+          "content": "B1\nUnderstand and use the laws of indices for all rational exponents.\nB2\nUse and manipulate surds, including rationalising the denominator.\nB3\nWork with quadratic functions and their graphs; the discriminant of a quadratic\nfunction, including the conditions for real and repeated roots; completing the\nsquare; solution of quadratic equations including solving quadratic equations in a\nfunction of the unknown.\nB4\nSolve simultaneous equations in two variables by elimination and by substitution,\nincluding one linear and one quadratic equation.\nB5\nSolve linear and quadratic inequalities in a single variable and interpret such\ninequalities graphically, including inequalities with brackets and fractions.\nExpress solutions through correct use of ‘and’ and ‘or’, or through set notation.\nRepresent linear and quadratic inequalities such as y > x + 1 and y > ax2 + bx + c\ngraphically.\nB6\nManipulate polynomials algebraically, including expanding brackets and collecting\nlike terms, factorisation and simple algebraic division; use of the factor theorem.\nB7\nUnderstand and use graphs of functions; sketch curves defined by simple\nequations including polynomials, y = a\nhorizontal asymptotes); interpret algebraic solution of equations graphically; use\nintersection points of graphs to solve equations.\nUnderstand and use proportional relationships and their graphs.\nB9\nUnderstand the effect of simple transformations on the graph of y = f x including\nsketching associated graphs:\ny = af x , y = f x + a , y = f x + a , y = f ax\nx and y = a\nx2 (including their vertical and",
+          "children": []
+        },
+        {
+          "code": "3.4",
+          "title": "C: Coordinate geometry in the ( x , y ) plane",
+          "level": 1,
+          "content": "C1\nUnderstand and use the equation of a straight line, including the forms\ny −y1 = m x −x1\nand ax + by + c = 0 ; gradient conditions for two straight lines\nto be parallel or perpendicular.\nBe able to use straight line models in a variety of contexts.\nC2\nUnderstand and use the coordinate geometry of the circle including using the\nequation of a circle in the form x −a 2 + y −b 2 = r2 ; completing the square to\nfind the centre and radius of a circle; use of the following properties:\n- the angle in a semicircle is a right angle\n- the perpendicular from the centre to a chord bisects the chord\n- the radius of a circle at a given point on its circumference is perpendicular to\nthe tangent to the circle at that point.",
+          "children": []
+        },
+        {
+          "code": "3.5",
+          "title": "D: Sequences and series",
+          "level": 1,
+          "content": "D1\nUnderstand and use the binomial expansion of a + bx n for positive integer n ; the\nn\nnotations n! , nCr and\n; link to binomial probabilities.\nr",
+          "children": []
+        },
+        {
+          "code": "3.6",
+          "title": "E: Trigonometry",
+          "level": 1,
+          "content": "E1\nUnderstand and use the definitions of sine, cosine and tangent for all arguments;\nthe sine and cosine rules; the area of a triangle in the form 1\nE3\nUnderstand and use the sine, cosine and tangent functions; their graphs,\nsymmetries and periodicity.\n2absinC\nE5\nUnderstand and use tan�≡sin�\nUnderstand and use sin2�+ cos2�≡1\nE7\nSolve simple trigonometric equations in a given interval, including quadratic\nequations in sin, cos and tan and equations involving multiples of the unknown\nangle.",
+          "children": []
+        },
+        {
+          "code": "3.7",
+          "title": "F: Exponentials and logarithms",
+          "level": 1,
+          "content": "F1\nKnow and use the function ax and its graph, where a is positive.\nKnow and use the function ex and its graph.\nF2\nKnow that the gradient of ekx is equal to kekx and hence understand why the\nexponential model is suitable in many applications.\nF3\nKnow and use the definition of loga x as the inverse of ax , where a is positive and\nx ≥0\nKnow and use the function ln x and its graph.\nKnow and use ln x as the inverse function of ex\nF4\nUnderstand and use the laws of logarithms:\nloga x + loga y ≡loga xy ; loga x −loga y ≡loga\n(including, for example, k = −1 and k = −1\nF5\nSolve equations of the form ax = b\ny ; kloga x ≡loga xk\n2 )\nF6\nUse logarithmic graphs to estimate parameters in relationships of the form y = axn\nand y = kbx , given data for x and y .\nF7\nUnderstand and use exponential growth and decay; use in modelling (examples\nmay include the use of e in continuous compound interest, radioactive decay, drug\nconcentration decay, exponential growth as a model for population growth);\nconsideration of limitations and refinements of exponential models.",
+          "children": []
+        },
+        {
+          "code": "3.8",
+          "title": "G: Differentiation",
+          "level": 1,
+          "content": "G1\nUnderstand and use the derivative of f x as the gradient of the tangent to the\ngraph of y = f x at a general point ( x, y ); the gradient of the tangent as a limit;\ninterpretation as a rate of change; sketching the gradient function for a given\ncurve; second derivatives; differentiation from first principles for small positive\ninteger powers of x\nUnderstand and use the second derivative as the rate of change of gradient.\nG2\nDifferentiate xn , for rational values of n, and related constant multiples, sums and\ndifferences.\nG3\nApply differentiation to find gradients, tangents and normals, maxima and minima\nand stationary points.\nIdentify where functions are increasing or decreasing.",
+          "children": []
+        },
+        {
+          "code": "3.9",
+          "title": "H: Integration",
+          "level": 1,
+          "content": "H1\nKnow and use the Fundamental Theorem of Calculus.\nH2\nIntegrate xn (excluding n = −1 ), and related sums, differences and constant\nmultiples.\nH3\nEvaluate definite integrals; use a definite integral to find the area under a curve.",
+          "children": []
+        },
+        {
+          "code": "3.10",
+          "title": "J: Vectors",
+          "level": 1,
+          "content": "J1\nUse vectors in two dimensions.\nJ2\nCalculate the magnitude and direction of a vector and convert between\ncomponent form and magnitude/direction form.\nJ3\nAdd vectors diagrammatically and perform the algebraic operations of vector\naddition and multiplication by scalars, and understand their geometrical\ninterpretations.\nJ4\nUnderstand and use position vectors; calculate the distance between two points\nrepresented by position vectors.\nJ5\nUse vectors to solve problems in pure mathematics and in context, including\nforces.",
+          "children": []
+        },
+        {
+          "code": "3.11",
+          "title": "K: Statistical sampling",
+          "level": 1,
+          "content": "For sections K to O students must demonstrate the ability to use calculator technology to compute\nsummary statistics and access probabilities from standard statistical distributions.\nK1\nUnderstand and use the terms ‘population’ and ‘sample’.\nUse samples to make informal inferences about the population.\nUnderstand and use sampling techniques, including simple random sampling and\nopportunity sampling.\nSelect or critique sampling techniques in the context of solving a statistical\nproblem, including understanding that different samples can lead to different\nconclusions about the population.",
+          "children": []
+        },
+        {
+          "code": "3.12",
+          "title": "L: Data presentation and interpretation",
+          "level": 1,
+          "content": "L1\nInterpret diagrams for single-variable data, including understanding that area in a\nhistogram represents frequency.\nConnect to probability distributions.\nL2\nInterpret scatter diagrams and regression lines for bivariate data, including\nrecognition of scatter diagrams which include distinct sections of the population\n(calculations involving regression lines are excluded).\nUnderstand informal interpretation of correlation.\nUnderstand that correlation does not imply causation.\nL3\nInterpret measures of central tendency and variation, extending to standard\ndeviation.\nBe able to calculate standard deviation, including from summary statistics.\nL4\nRecognise and interpret possible outliers in data sets and statistical diagrams.\nSelect or critique data presentation techniques in the context of a statistical\nproblem.\nBe able to clean data, including dealing with missing data, errors and outliers.",
+          "children": []
+        },
+        {
+          "code": "3.13",
+          "title": "M: Probability",
+          "level": 1,
+          "content": "M1\nUnderstand and use mutually exclusive and independent events when calculating\nprobabilities.\nLink to discrete and continuous distributions.",
+          "children": []
+        },
+        {
+          "code": "3.14",
+          "title": "N: Statistical distributions",
+          "level": 1,
+          "content": "N1\nUnderstand and use simple, discrete probability distributions (calculation of mean\nand variance of discrete random variables is excluded), including the binomial\ndistribution, as a model; calculate probabilities using the binomial distribution.",
+          "children": []
+        },
+        {
+          "code": "3.15",
+          "title": "O: Statistical hypothesis testing",
+          "level": 1,
+          "content": "O1\nUnderstand and apply the language of statistical hypothesis testing, developed\nthrough a binomial model: null hypothesis, alternative hypothesis, significance\nlevel, test statistic, 1-tail test, 2-tail test, critical value, critical region, acceptance\nregion, p -value.\nO2\nConduct a statistical hypothesis test for the proportion in the binomial distribution\nand interpret the results in context.\nUnderstand that a sample is being used to make an inference about the\npopulation and appreciate that the significance level is the probability of incorrectly\nrejecting the null hypothesis.",
+          "children": []
+        },
+        {
+          "code": "3.16",
+          "title": "P: Quantities and units in mechanics",
+          "level": 1,
+          "content": "P1\nUnderstand and use fundamental quantities and units in the SI system: length,\ntime, mass.\nUnderstand and use derived quantities and units: velocity, acceleration, force,\nweight.",
+          "children": []
+        },
+        {
+          "code": "3.17",
+          "title": "Q: Kinematics",
+          "level": 1,
+          "content": "Q1\nUnderstand and use the language of kinematics: position; displacement; distance\ntravelled; velocity; speed; acceleration.\nQ2\nUnderstand, use and interpret graphs in kinematics for motion in a straight line:\ndisplacement against time and interpretation of gradient; velocity against time and\ninterpretation of gradient and area under the graph.\nQ3\nUnderstand, use and derive the formulae for constant acceleration for motion in a\nstraight line.\nQ4\nUse calculus in kinematics for motion in a straight line:\ndt = d2r\nv = dr\ndt ,a = dv\ndt2 , r = ∫v dt , v = ∫a dt .",
+          "children": []
+        },
+        {
+          "code": "3.18",
+          "title": "R: Forces and Newton’s laws",
+          "level": 1,
+          "content": "R1\nUnderstand the concept of a force; understand and use Newton’s first law.\nR2\nUnderstand and use Newton’s second law for motion in a straight line (restricted\nto forces in two perpendicular directions or simple cases of forces given as 2D\nvectors).\nR3\nUnderstand and use weight and motion in a straight line under gravity;\ngravitational acceleration, g , and its value in SI units to varying degrees of\naccuracy.\n(The inverse square law for gravitation is not required and g may be assumed to\nbe constant, but students should be aware that g is not a universal constant but\ndepends on location).\nR4\nUnderstand and use Newton’s third law; equilibrium of forces on a particle and\nmotion in a straight line (restricted to forces in two perpendicular directions or\nsimple cases of forces given as 2D vectors); application to problems involving\nsmooth pulleys and connected particles.",
+          "children": []
+        },
+        {
+          "code": "3.19",
+          "title": "Use of data in statistics",
+          "level": 1,
+          "content": "As set out in the Department for Education’s Mathematics: AS and A-level content document,\nstudents studying AS Mathematics must:\n- become familiar with one or more specific large data set(s) in advance of the final\nassessment (these data must be real and sufficiently rich to enable the concepts and skills of\ndata presentation and interpretation in the specification to be explored)\n- use technology such as spreadsheets or specialist statistical packages to explore the data\nset(s)\n- interpret real data presented in summary or graphical form\n- use data to investigate questions arising in real contexts.\nThis requirement is common to all exam boards.",
+          "children": [
+            {
+              "code": "3.19.1",
+              "title": "Large data set",
+              "level": 2,
+              "content": "The dataset featured in statistics questions for exams in 2018 is an extract of a dataset that\nunderpins DEFRA ‘Family Food 2014 report’ (published in 2015). The dataset contains information\non purchased quantities of household food and drink by Government Office Region from 2001 until\n2014. The specific extract that students need to be familiar with for the exam is only available via\nthe AQA website.\nFor exams from 2019 there is a new dataset. This replacement dataset is also only available on\nthe AQA website.\nThe data set must be used in teaching to allow students to perform tasks that build familiarity with\nthe contexts, the main features of the data and the ways in which technology can help explore the\ndata. Students should also be able to demonstrate the ability to analyse a subset or features of the\ndata using a calculator with standard statistical functions.\n7356",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

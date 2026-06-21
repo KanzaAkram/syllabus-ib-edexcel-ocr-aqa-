@@ -1,0 +1,1122 @@
+{
+  "source_pdf": "A_Level/Economics/7136_2017_to_PRESENT/AQA_ALEVEL_Economics_7136_2017_to_PRESENT_CURRENT.pdf",
+  "qualification": "A_Level",
+  "subject": "Economics",
+  "spec_code": "7136",
+  "pdf_name": "AQA_ALEVEL_Economics_7136_2017_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "toc",
+  "n_sections": 2,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content – AS",
+      "topics": [
+        {
+          "code": "3.1",
+          "title": "The operation of markets and market failure",
+          "level": 1,
+          "content": "This section of the specification is primarily about microeconomics. Students will be required to\nacquire knowledge and understanding of a selection of microeconomic models and to apply these\nto current problems and issues. Microeconomic models such as demand and supply, the operation\nof the price mechanism and causes of market failure are central to this part of the specification.\nStudents should be provided with opportunities to use these models to explore current economic\nbehaviour. When applying and evaluating all the microeconomic models in the specification, such\nas supply and demand theory and production possibility curves, students should be critically aware\nof the assumptions upon which these models are based and their limitations when they are used to\nmake sense of real world phenomena. Students should be able to apply their knowledge and skills\nto a wide variety of situations and to different markets and examples of market failure, including\nenvironmental market failures. They should appreciate that economic decisions relating to\nindividual markets may be affected by developments in the macroeconomy.",
+          "children": [
+            {
+              "code": "3.1.1",
+              "title": "Economic methodology and the economic problem",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.1.1.1",
+                  "title": "Economic methodology",
+                  "level": 3,
+                  "content": "- Economics as a social science.\n- Similarities to and differences in methodology from natural and\nother sciences.\n- The difference between positive and normative statements.\n- How value judgements influence economic decision making\nand policy.\n- People’s views concerning the best option are influenced by\nthe positive consequences of different decisions and by moral\nand political judgements.\nStudents should\nunderstand how thinking\nas an economist may differ\nfrom other forms of\nscientific enquiry.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.2",
+                  "title": "The nature and purpose of economic activity",
+                  "level": 3,
+                  "content": "- The central purpose of economic activity is the production of\ngoods and services to satisfy needs and wants.\n- The key economic decisions are: what to produce, how to\nproduce, and who is to benefit from the goods and services\nproduced.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.3",
+                  "title": "Economic resources",
+                  "level": 3,
+                  "content": "- The economists’ classification of economic resources into land,\nlabour, capital and enterprise, which are the factors of\nproduction.\n- The environment is a scarce resource.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.4",
+                  "title": "Scarcity, choice and the allocation of resources",
+                  "level": 3,
+                  "content": "- The fundamental economic problem is scarcity and that it\nresults from limited resources and unlimited wants.\n- Scarcity means that choices have to be made about how\nscarce resources are allocated between different uses.\n- Choices have an opportunity cost.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.1.5",
+                  "title": "Production possibility diagrams",
+                  "level": 3,
+                  "content": "- Production possibility diagrams illustrate different features of\nthe fundamental economic problem, such as: resource\nallocation, opportunity cost and trade-offs, unemployment of\neconomic resources, economic growth.\n- Why all points on the boundary are productively efficient but\nnot all points on the boundary are allocatively efficient.\nStudents should be able to\nuse production possibility\ndiagrams to illustrate these\nfeatures.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.2",
+              "title": "Price determination in a competitive market",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.1.2.1",
+                  "title": "The determinants of the demand for goods and services",
+                  "level": 3,
+                  "content": "- The factors which determine the demand for a good or\nservice.\n- A demand curve shows the relationship between price and\nquantity demanded.\n- The causes of shifts in the demand curve.\nStudents should understand\nthe factors that influence the\nspending decisions of\nconsumers, including: price,\nincome, wealth, the price of\nsubstitutes and\ncomplementary goods, and\nindividual preferences. They\nshould also appreciate that\nsuch decisions are influenced\nby social and emotional\nfactors.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.2",
+                  "title": "Price, income and cross elasticities of demand",
+                  "level": 3,
+                  "content": "- Be able to calculate price, income and cross elasticities of\ndemand.\n- The relationship between income elasticity of demand and\nnormal and inferior goods.\n- The relationship between cross elasticity of demand and\nsubstitute and complementary goods.\n- The relationships between price elasticity of demand and\nfirms’ total revenue (total expenditure).\n- The factors that influence these elasticities of demand.\nStudents should be able to\ninterpret numerical values of\nthese elasticities of demand.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.3",
+                  "title": "The determinants of the supply of goods and services",
+                  "level": 3,
+                  "content": "- The factors which determine the supply of a good or service.\n- A supply curve shows the relationship between price and\nquantity supplied.\n- Understand higher prices imply higher profits and that this\nwill provide the incentive to expand production.\n- The causes of shifts in the supply curve.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.4",
+                  "title": "Price elasticity of supply",
+                  "level": 3,
+                  "content": "- Be able to calculate price elasticity of supply.\n- The factors that influence price elasticity of supply.\nStudents should be able to\ninterpret numerical values of\nprice elasticity of supply.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.5",
+                  "title": "The determination of equilibrium market prices",
+                  "level": 3,
+                  "content": "- How the interaction of demand and supply determines\nequilibrium prices in a market economy.\n- The difference between equilibrium and disequilibrium.\n- Why excess demand and excess supply lead to changes in\nprice.\nStudents should be able to\nuse demand and supply\ndiagrams to help them to\nanalyse causes of changes in\nequilibrium market prices.\nThey should be able to apply\ntheir knowledge of the basic\nmodel of demand and supply\nto a variety of real-world\nmarkets.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.2.6",
+                  "title": "The interrelationship between markets",
+                  "level": 3,
+                  "content": "- Changes in a particular market are likely to affect other\nmarkets.\n- The implications of joint demand, demand for substitute\ngoods, composite demand, derived demand and joint\nsupply.\nStudents should, for\nexample, be able to explore\nthe impact of changes in\ndemand, supply and price in\none market upon other\nrelated markets.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.3",
+              "title": "Production, costs and revenue",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.1.3.1",
+                  "title": "Production and productivity",
+                  "level": 3,
+                  "content": "- Production converts inputs, or the services of factors of\nproduction such as capital and labour, into final output.\n- The meaning of productivity, including labour productivity.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.2",
+                  "title": "Specialisation, division of labour and exchange",
+                  "level": 3,
+                  "content": "- The benefits of specialisation and division of labour.\n- Why specialisation necessitates an efficient means of\nexchanging goods and services, such as the use of money\nas a medium of exchange.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.3",
+                  "title": "Costs of production",
+                  "level": 3,
+                  "content": "- The difference between the short run and the long run.\n- The difference between fixed and variable costs.\n- The difference between average and total costs.\nStudents should be able to\ncalculate average and total\ncosts from given data.\nStudents should appreciate\nthat the short-run average\ncost curve is likely to be U-\nshaped but a formal link with\nthe law of diminishing returns\nis not expected. They should\nunderstand that the shape of\nthe long-run average cost\ncurve is determined by\neconomies and diseconomies\nof scale.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.4",
+                  "title": "Economies and diseconomies of scale",
+                  "level": 3,
+                  "content": "- The difference between internal and external economies of\nscale.\n- Reasons for diseconomies of scale.\n- The relationship between economies of scale, diseconomies\nof scale and the shape of the long-run average cost curve.\nStudents should be able to\ncategorise and give\nexamples of both internal and\nexternal economies of scale.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.3.5",
+                  "title": "Average revenue, total revenue and profit",
+                  "level": 3,
+                  "content": "- The difference between average and total revenue.\n- Why the average revenue curve is the firm’s demand curve.\n- Profit is the difference between total revenue and total costs.\nStudents should be able to\ncalculate average, total\nrevenue and profit from given\ndata.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.4",
+              "title": "Competitive and concentrated markets",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.1.4.1",
+                  "title": "Market structures",
+                  "level": 3,
+                  "content": "- There is a range of market structures.\n- Factors such as the number of firms, the degree of product\ndifferentiation and ease of entry are used to distinguish\nbetween different market structures.\nStudents are not required to\ndraw or use the traditional\n‘theory of the firm’ diagrams.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.2",
+                  "title": "The objectives of firms",
+                  "level": 3,
+                  "content": "- Profit is an important objective of most firms.\n- Firms may also have other objectives such as survival,\ngrowth and increasing their market share.\nStudents should be aware\nthat firms may have a variety\nof objectives but a detailed\nknowledge of these\nobjectives is not required.\nHowever, students should\nappreciate that the objectives\nof a firm will affect its\nbehaviour.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.3",
+                  "title": "Competitive markets",
+                  "level": 3,
+                  "content": "- The main characteristics of a perfectly competitive market.\n- In such markets the price is determined by the interaction of\ndemand and supply.\n- Why profits are likely to be lower in a competitive market\nthan in a market which is dominated by a few large firms.\nAn understanding of the\nformal model of perfect\ncompetition and the\nassociated diagrams is not\nrequired.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.4",
+                  "title": "Monopoly and monopoly power",
+                  "level": 3,
+                  "content": "- The difference between pure monopoly and monopoly\npower.\n- Monopoly power is influenced by factors such as barriers to\nentry, the number of competitors, advertising and the degree\nof product differentiation.\n- Concentration ratios and how to calculate a concentration\nratio.\n- The basic model of monopoly suggests that higher prices\nand profits and inefficiency may result in a misallocation of\nresources compared to the outcome in a competitive market.\n- The potential benefits from monopoly, for example,\neconomies of scale and possibly more invention and\ninnovation.\nStudents should appreciate\nthat there are few examples\nof pure monopoly but many\nfirms have monopoly power.\nA formal diagrammatic\nanalysis of monopoly is not\nrequired but students should\nbe able to use a demand\ncurve to illustrate that if a\nmonopolist raises the market\nprice above the competitive\nlevel, output will fall. They\nshould also be able to use a\nlong-run average cost curve\nto illustrate the benefits from\neconomies of scale that may\nresult from monopoly.\nStudents should appreciate\nthe various factors which\naffect the behaviour and\nperformance of firms in a\nvariety of real-world markets.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.4.5",
+                  "title": "The competitive market process",
+                  "level": 3,
+                  "content": "- Firms do not just compete on the basis of price but that\ncompetition will, for example, also lead firms to strive to\nimprove products, reduce costs, improve the quality of the\nservice provided.\nStudents should recognise\nthat many large firms\ncompete vigorously with each\nother but monopoly power\nmay lead to consumers being\nexploited.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.1.5",
+              "title": "The market mechanism, market failure and government intervention in markets",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.1.5.1",
+                  "title": "How markets and prices allocate resources",
+                  "level": 3,
+                  "content": "- The rationing, incentive and signalling functions of prices in\nallocating resources and coordinating the decisions of\nbuyers and sellers in a market economy.\n- The price mechanism is the way in which the basic\neconomic problem is resolved in a market economy.\nStudents should understand\nhow economic incentives\ninfluence what, how and for\nwhom goods and services\nare produced.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.2",
+                  "title": "The meaning of market failure",
+                  "level": 3,
+                  "content": "- Market failure occurs whenever a market leads to a\nmisallocation of resources.\n- What is meant by a misallocation of resources.\n- The difference between complete market failure (resulting in\na missing market) and partial market failure (where a market\nexists but contributes to resource misallocation).\n- How public goods, positive and negative externalities, merit\nand demerit goods, monopoly and other market\nimperfections, and inequalities in the distribution of income\nand wealth can lead to market failure.\nStudents should be able to\nprovide examples to inform\ntheir discussion of each of\nthese causes of market\nfailure.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.3",
+                  "title": "Public goods, private goods and quasi-public goods",
+                  "level": 3,
+                  "content": "- Pure public goods are non-rival and non-excludable and\nrecognition of the significance of these characteristics.\n- The difference between a public good and a private good.\n- Circumstances when a public good may take on some of the\ncharacteristics of a private good and become a quasi-public\ngood.\n- The significance of technological change, e.g. television\nbroadcasting is now excludable.\n- The free-rider problem.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.4",
+                  "title": "Positive and negative externalities in consumption and production",
+                  "level": 3,
+                  "content": "- Externalities exist when there is a divergence between\nprivate and social costs and benefits.\n- Why negative externalities are likely to result in over-\nproduction and that positive externalities are likely to result\nin under-production.\nStudents should be able to\nillustrate the misallocation of\nresources resulting from\nexternalities in both\nproduction and consumption,\nusing demand and supply\ndiagrams.\nStudents are not required to\nuse Marginal Social Cost/\nMarginal Social Benefit\n(MSC/MSB) diagrams.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.5",
+                  "title": "Merit and demerit goods",
+                  "level": 3,
+                  "content": "- The classification of merit and demerit goods depends upon\na value judgement.\n- Such products may be subject to positive and negative\nexternalities in consumption.\n- How under-provision of merit goods and over-provision of\ndemerit goods may also result from imperfect information.\nStudents should be able to\nillustrate the misallocation of\nresources resulting from the\nconsumption of merit and\ndemerit goods using demand\nand supply diagrams.\nStudents are not required to\nuse MSC/MSB diagrams.\nIt should be understood that\nnot all products that result in\npositive or negative\nexternalities in consumption\nare either merit or demerit\ngoods.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.6",
+                  "title": "Market imperfections",
+                  "level": 3,
+                  "content": "- Why imperfect and asymmetric information can lead to\nmarket failure.\n- Why the existence of monopoly and monopoly power can\nlead to market failure.\n- Why the immobility of factors of production can lead to\nmarket failure.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.7",
+                  "title": "An inequitable distribution of income and wealth",
+                  "level": 3,
+                  "content": "- In the absence of government intervention, the market\nmechanism is likely to result in a very unequal and\ninequitable distribution of income and wealth.\n- In a market economy, an individual’s ability to consume\ngoods and services depends upon their income and wealth\nand an inequitable distribution of income and wealth is likely\nto lead to a misallocation of resources and hence market\nfailure.\nAt AS, students are not\nexpected to have an in-depth\nknowledge of the causes of\ninequality but they should be\naware that progressive taxes\nand government spending\nare used to reduce inequality.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.8",
+                  "title": "Government intervention in markets",
+                  "level": 3,
+                  "content": "- The existence of market failure, in its various forms,\nprovides an argument for government intervention in\nmarkets.\n- Governments influence the allocation of resources in a\nvariety of ways, including through public expenditure,\ntaxation and regulations.\n- Governments have a range of objectives and these affect\nhow they intervene in a mixed economy to influence the\nallocation of resources.\n- The use of indirect taxation, subsidies, price controls, state\nprovision and regulation to correct market failure.\nStudents should be able to\napply economic models to\nassess the role of markets\nand the government in a\nvariety of situations.\nStudents should appreciate\nthe consequences of\ngovernment intervention in\nmarkets for consumers,\nproducers and other\neconomic agents.\nStudents should be able to\nevaluate the case for and\nagainst government\nintervention in particular\nmarkets and to assess the\nrelative merits of different\nmethods of intervention.",
+                  "children": []
+                },
+                {
+                  "code": "3.1.5.9",
+                  "title": "Government failure",
+                  "level": 3,
+                  "content": "- Government failure occurs when government intervention in\nthe economy leads to a misallocation of resources.\n- Inadequate information, conflicting objectives and\nadministrative costs are possible sources of government\nfailure.\n- Governments may create, rather than remove, market\ndistortions.\n- Government intervention can lead to unintended\nconsequences.\nStudents should appreciate\nthat the possibility of\ngovernment failure means\nthat, even when there is\nmarket failure, government\nintervention will not\nnecessarily improve\neconomic welfare.\nStudents should understand\nthat consumers and\nproducers may not have\naccess to the same\ninformation and that this may\ncontribute to markets\noperating inefficiently.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "3.2",
+          "title": "The national economy in a global context",
+          "level": 1,
+          "content": "This section of the specification is primarily about macroeconomics. However, students should\nunderstand that microeconomic principles underpin the behaviour of the macroeconomy.\nUnderstanding some aspects of macroeconomic behaviour requires that students have a firm\ngrasp of related microeconomic principles, for example, understanding of price elasticity of demand\nis essential when analysing the extent to which a fall in the exchange rate will lead to an increase\nin exports.\nStudents will be required to acquire knowledge and understanding of AD/AS analysis and should\nbe provided with opportunities to use this analysis to explore recent and current economic\nbehaviour. They should understand, and be able to analyse and evaluate, macroeconomic policy.\nWhen applying and evaluating all the macroeconomic models in the specification, such as the\ncircular flow of income and the multiplier process, students should be critically aware of the\nassumptions upon which these models are based and their limitations when investigating\nmacroeconomic and global issues.\nStudents should have a good knowledge of developments in the UK economy and government\npolicies over the past fifteen years.\nThey should also be aware that the performance of the United Kingdom economy is influenced by\nexternal events in the international economy.",
+          "children": [
+            {
+              "code": "3.2.1",
+              "title": "The measurement of macroeconomic performance",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.2.1.1",
+                  "title": "The objectives of government economic policy",
+                  "level": 3,
+                  "content": "- The main objectives of government macroeconomic policy:\neconomic growth, price stability, minimising unemployment\nand a stable balance of payments on current account.\n- The possibility of conflict arising, at least in the short run,\nwhen attempting to achieve these objectives.\nStudents should be aware\nthat governments may also\nhave other objectives of\nmacroeconomic policy, such\nas balancing the budget and\nachieving an equitable\ndistribution of income.\nThey should be aware that\nthe importance attached to\nthe different objectives\nchanges over time.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.2",
+                  "title": "Macroeconomic indicators",
+                  "level": 3,
+                  "content": "- Data which is commonly used to measure the performance\nof an economy, such as: real GDP, real GDP per capita,\nConsumer Prices and Retail Prices Indices (CPI/RPI),\nmeasures of unemployment, productivity and the balance of\npayments on current account.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.1.3",
+                  "title": "Uses of index numbers",
+                  "level": 3,
+                  "content": "- How index numbers are calculated and interpreted, including\nthe base year and the use of weights.\n- How index numbers are used to measure changes in the\nprice level and changes in other economic variables.\nA detailed technical\nknowledge is not expected of\nindices such as the Retail\nPrices Index (RPI) and\nConsumer Prices Index\n(CPI), but students should\nhave an awareness of their\nunderlying features, for\nexample, the concept of the\n‘average family’ and a ‘basket\nof goods and services'.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.2",
+              "title": "How the macroeconomy works: the circular flow of income, aggregate demand/aggregate supply analysis, and related concepts",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.2.2.1",
+                  "title": "The circular flow of income",
+                  "level": 3,
+                  "content": "- What national income measures.\n- The difference between nominal and real income.\n- Real national income as an indicator of economic\nperformance.\n- The circular flow of income concept, the equation income =\noutput = expenditure, and the concepts of equilibrium and\nfull employment income.\n- The difference between injections and withdrawals into the\ncircular flow of income.\n- The effect of changes in injections and withdrawals on\nnational income.\nStudents are not expected to\nhave a detailed knowledge of\nthe construction of national\nincome accounts.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.2",
+                  "title": "Aggregate demand and aggregate supply analysis",
+                  "level": 3,
+                  "content": "- Changes in the price level are represented by movements\nalong the aggregate demand (AD) and aggregate supply\n(AS) curves.\n- The various factors that shift the AD curve and the short-run\nAS curve.\n- The factors which affect long-run AS distinguish them from\nthose which affect short-run AS.\n- Underlying economic growth is represented by a rightward\nshift in the long-run AS curve.\n- How to use AD/AS diagrams to illustrate macroeconomic\nequilibrium.\n- How both demand-side and supply-side shocks affect the\nmacroeconomy.\nStudents should be able to\nuse AD and AS analysis to\nhelp them explain\nmacroeconomic problems\nand issues. For example,\nthey should be able to use\nAD and AS diagrams to\nillustrate changes in the price\nlevel, demand-deficient\n(cyclical) unemployment and\neconomic growth.\nStudents should also\nunderstand how global\neconomic events can affect\nthe domestic economy.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.3",
+                  "title": "The determinants of aggregate demand",
+                  "level": 3,
+                  "content": "- What is meant by AD.\n- The determinants of AD, ie the determinants of\nconsumption, investment, government spending, exports\nand imports.\n- The basic accelerator process.\n- The determinants of savings.\n- The difference between saving and investment.\nStudents will not be required\nto undertake calculations to\nillustrate the operation of the\naccelerator.\nStudents should understand\nhow changes in net exports\naffect AD and how global\nevents affect economic\nperformance.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.4",
+                  "title": "Aggregate demand and the level of economic activity",
+                  "level": 3,
+                  "content": "- The role of AD in influencing the level of economic activity.\n- The multiplier process and an explanation of why an initial\nchange in expenditure may lead to a larger impact on local\nor national income.\nStudents will not be required\nto calculate the value of the\nmultiplier using the marginal\npropensity to consume or the\npropensities to withdraw.\nHowever, they should be able\nto calculate the value of the\nmultiplier from an initial\nchange in injections and the\nresulting change in national\nincome.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.5",
+                  "title": "Determinants of short-run aggregate supply",
+                  "level": 3,
+                  "content": "- The price level and production costs are the main\ndeterminants of the short-run AS.\n- Changes in costs, such as: money wage rates, raw material\nprices, business taxation and productivity, will shift the short-\nrun AS curve.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.2.6",
+                  "title": "Determinants of long-run aggregate supply",
+                  "level": 3,
+                  "content": "- The fundamental determinants of long-run AS such as\ntechnology, productivity, attitudes, enterprise, factor mobility,\nand economic incentives.\n- The position of the vertical long-run AS curve represents the\nnormal capacity level of output of the economy.\nIt is assumed that the long-\nrun AS curve is vertical.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.3",
+              "title": "Economic performance",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.2.3.1",
+                  "title": "Economic growth and the economic cycle",
+                  "level": 3,
+                  "content": "- The difference between short-run and long-run growth.\n- The various demand-side and supply-side determinants of\nshort-run growth of real national income and the long-run\ntrend rate of economic growth.\n- The concept of the economic cycle and the use of a range of\neconomic indicators, such as real GDP, the rate of inflation,\nunemployment and investment, to identify the various\nphases of the economic cycle.\n- The difference between positive and negative output gaps.\n- How demand-side and supply-side shocks, including those\nthat occur in the global economy, affect domestic economic\nactivity.\nStudents should be able to\nuse a production possibility\ncurve and AD/AS diagrams to\nillustrate the distinction\nbetween short-run and long-\nrun economic growth.\nStudents should understand\nthat long-run economic\ngrowth occurs when the\nproductive capacity of the\neconomy is increasing and is\na term used to refer to the\ntrend rate of growth of real\nnational output in an\neconomy over time.\nStudents should understand\nthat a positive output gap\noccurs when real GDP is\nabove the productive\npotential of the economy, and\na negative output gap occurs\nwhen real GDP is below the\neconomy’s productive\npotential.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.2",
+                  "title": "Employment and unemployment",
+                  "level": 3,
+                  "content": "- The main UK measures of unemployment, ie the claimant\ncount and the Labour Force Survey measure.\n- The terms seasonal, frictional, structural and cyclical\nunemployment.\n- How employment and unemployment may be determined by\nboth demand-side and supply-side factors.\n- How changes in the rest of the world affect employment and\nunemployment in the UK.\nStudents should appreciate\nthat unemployment has a\nvariety of causes and hence\nthe appropriate policies to\nreduce unemployment\ndepend on the cause.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.3",
+                  "title": "Inflation and deflation",
+                  "level": 3,
+                  "content": "- The concepts of inflation and deflation.\n- Demand-pull and cost-push influences on the price level.\n- How changes in world commodity prices affect domestic\ninflation.\n- How changes in other economies can affect inflation in the\nUK.\nStudents should understand\nthat deflation exists when the\nprice level is falling whereas\ndisinflation is when the rate of\ninflation is falling.\nStudents should appreciate\nthat deflationary policies are\npolicies to reduce aggregate\ndemand and do not\nnecessarily result in deflation.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.4",
+                  "title": "The balance of payments on current account",
+                  "level": 3,
+                  "content": "- The importance of international trade for an economy such\nas the UK.\n- The current account comprises trade in goods, trade in\nservices, primary income and secondary income.\n- The meaning of a deficit and a surplus on current account.\n- The factors that influence a country’s current account\nbalance such as productivity, inflation and the exchange rate\nand economic activity in other countries.\nStudents should be aware\nthat the current account is\nonly one part of the balance\nof payments but knowledge\nof the other parts of the\naccount is not expected.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.3.5",
+                  "title": "Possible conflicts between macroeconomic policy objectives",
+                  "level": 3,
+                  "content": "- How negative and positive output gaps relate to\nunemployment and inflationary pressures.\n- How economic policies may be used to try to reconcile\npossible policy conflicts both in the short run and the long\nrun.\nStudents should be able to\nuse macroeconomic models,\nincluding the AD/AS model,\nto analyse the causes of\npossible conflicts between\npolicy objectives in the short\nrun and long run.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "3.2.4",
+              "title": "Macroeconomic policy",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "3.2.4.1",
+                  "title": "Monetary policy",
+                  "level": 3,
+                  "content": "- Monetary policy involves the central bank taking action to\ninfluence the manipulation of interest rates, the supply of\nmoney and credit, and the exchange rate.\n- The current objectives of monetary policy, set by the\ngovernment.\n- The role of the Monetary Policy Committee of the Bank of\nEngland (MPC) and how it uses changes in bank rate to try\nto achieve the objectives for monetary policy, including the\ngovernment’s target rate of inflation.\n- The factors considered by the MPC when setting bank rate.\n- How changes in the exchange rate affect aggregate demand\nand the various macroeconomic policy objectives.\nStudents do not need to\nknow how interest rates and\nthe exchange rate are\ndetermined but they do need\nto know how changes in\ninterest rates and the\nexchange rate affect\nmacroeconomic\nperformance.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.2",
+                  "title": "Fiscal policy",
+                  "level": 3,
+                  "content": "- Fiscal policy involves the manipulation of government\nspending, taxation and the budget balance.\n- Fiscal policy can have both macroeconomic and\nmicroeconomic functions.\n- How fiscal policy can be used to influence aggregate\ndemand.\n- How fiscal policy can be used to influence aggregate supply.\n- How government spending and taxation can affect the\npattern of economic activity.\n- The difference between direct and indirect taxes.\n- The difference between progressive, proportional and\nregressive taxes.\n- The relationship between the budget balance and the\nnational debt.\nStudents should be aware of\nthe main taxes in the UK and\nthe main categories of\ngovernment spending, eg\nspending on defence, health,\neducation and welfare.\nStudents should appreciate\nthat governments may\ndeliberately run budget\ndeficits and surpluses to try\nto influence aggregate\ndemand but they are not\nrequired to understand the\narguments relating to the\npros and cons of balancing\nthe budget or attempting to\nlimit the size of the national\ndebt.",
+                  "children": []
+                },
+                {
+                  "code": "3.2.4.3",
+                  "title": "Supply-side policies",
+                  "level": 3,
+                  "content": "- The difference between supply-side policies and supply-side\nimprovements in the economy.\n- How supply-side policies can help to achieve supply-side\nimprovements in the economy.\n- How supply-side policies, such as tax changes designed to\nchange personal incentives, may increase the potential\noutput of the economy and improve the underlying trend rate\nof economic growth.\n- How supply-side policies can affect unemployment, the rate\nof change of prices and UK external performance, as\nreflected in the balance of payments on current account.\n- Supply-side policies include measures such as government\nspending on education and training, cuts in income and\ncorporation tax, welfare reform, and industrial policy.\nStudents should recognise\nthat supply-side\nimprovements in the\neconomy often originate in\nthe private sector,\nindependently of government,\neg through productivity\nimprovements, innovation\nand investment.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_code": "4",
+      "section_title": "Subject content – A-level",
+      "topics": [
+        {
+          "code": "4.1",
+          "title": "Individuals, firms, markets and market failure",
+          "level": 1,
+          "content": "This section of the specification is primarily about microeconomics.\nStudents will be required to acquire knowledge and understanding of a selection of microeconomic\nmodels and to apply these to current problems and issues. Microeconomic models such as\ndemand and supply, perfect competition, monopoly, the operation of the price mechanism and the\ncauses of market failure are central to this part of the specification. Students will need to\ndemonstrate a realistic understanding of the decisions made by firms and how their behaviour can\nbe affected by the structure and characteristics of the industry in which they operate. Other key\nmodels relate to the operation of labour markets, wage determination and causes of inequalities in\nthe distribution of income and wealth.\nStudents will be expected to understand that traditional economic theory generally assumes that\neconomic agents act rationally but they should also be introduced to models that recognise that\nconsumer and firms’ behaviour is often governed by more complex influences.\nDuring their course of study, students should be provided with opportunities to use economic\nmodels to explore current economic behaviour. They should be able to apply their knowledge and\nskills to a wide variety of situations and to different markets and examples of market failure,\nincluding environmental and labour market failures. They should appreciate and be able to assess\nthe impact that developments in the European Union and in the global economy have upon\nmicroeconomic behaviour and performance.",
+          "children": [
+            {
+              "code": "4.1.1",
+              "title": "Economic methodology and the economic problem",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.1.1",
+                  "title": "Economic methodology",
+                  "level": 3,
+                  "content": "- Economics as a social science.\n- Similarities to and differences in methodology from natural and\nother sciences.\n- The difference between positive and normative statements.\n- How value judgements influence economic decision making\nand policy.\n- People’s views concerning the best option are influenced by\nthe positive consequences of different decisions and by moral\nand political judgements.\nStudents should\nunderstand how thinking\nas an economist may differ\nfrom other forms of\nscientific enquiry.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.2",
+                  "title": "The nature and purpose of economic activity",
+                  "level": 3,
+                  "content": "- The central purpose of economic activity is the production of\ngoods and services to satisfy needs and wants.\n- The key economic decisions are: what to produce, how to\nproduce and who is to benefit from the goods and services\nproduced.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.3",
+                  "title": "Economic resources",
+                  "level": 3,
+                  "content": "- The economists’ classification of economic resources into land,\nlabour, capital and enterprise, which are the factors of\nproduction.\n- The environment is a scarce resource.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.4",
+                  "title": "Scarcity, choice and the allocation of resources",
+                  "level": 3,
+                  "content": "- The fundamental economic problem is scarcity and that it\nresults from limited resources and unlimited wants.\n- Scarcity means that choices have to be made about how\nscarce resources are allocated between different uses.\n- Choices have an opportunity cost.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.1.5",
+                  "title": "Production possibility diagrams",
+                  "level": 3,
+                  "content": "- Production possibility diagrams illustrate different features of\nthe fundamental economic problem, such as: resource\nallocation, opportunity cost and trade-offs, unemployment of\neconomic resources, economic growth.\n- Why all points on the boundary are productively efficient but\nnot all points on the boundary are allocatively efficient.\nStudents should be able to\nuse production possibility\ndiagrams to illustrate these\nfeatures.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.2",
+              "title": "Individual economic decision making",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.2.1",
+                  "title": "Consumer behaviour",
+                  "level": 3,
+                  "content": "- Rational economic decision making and economic\nincentives.\n- Utility theory: total and marginal utility, and the hypothesis of\ndiminishing marginal utility.\n- Utility maximisation.\n- The importance of the margin when making choices.\nStudents should appreciate\nthat the hypothesis of\ndiminishing marginal utility\nsupports a downward sloping\ndemand curve but they are\nnot expected to understand\nthe principle of equi-marginal\nutility or to use this principle\nto explain why there is likely\nto be an inverse relationship\nbetween price and quantity\ndemanded.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.2",
+                  "title": "Imperfect information",
+                  "level": 3,
+                  "content": "- The importance of information for decision making.\n- The significance of asymmetric information.\nStudents should recognise\nthat imperfect information\nmakes it difficult for economic\nagents to make rational\ndecisions and is a potential\nsource of market failure.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.3",
+                  "title": "Aspects of behavioural economic theory",
+                  "level": 3,
+                  "content": "- Bounded rationality and bounded self-control.\n- Biases in decision making: rules of thumb, anchoring,\navailability and social norms.\n- The importance of altruism and perceptions of fairness.\nStudents should appreciate\nthat behavioural economists\nquestion the assumption of\ntraditional economic theory\nthat individuals are rational\ndecision makers who\nendeavour to maximise their\nutility. They should\nunderstand some of the\nreasons why an individual’s\neconomic decisions may be\nbiased.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.2.4",
+                  "title": "Behavioural economics and economic policy",
+                  "level": 3,
+                  "content": "- Choice architecture and framing.\n- Nudges.\n- Default choices, restricted choice and mandated choice.\nStudents should appreciate\nthat insights provided by\nbehavioural economists can\nhelp governments and other\nagencies influence economic\ndecision making.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.3",
+              "title": "Price determination in a competitive market",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.3.1",
+                  "title": "The determinants of the demand for goods and services",
+                  "level": 3,
+                  "content": "- A demand curve shows the relationship between price and\nquantity demanded.\n- The causes of shifts in the demand curve.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.3.2",
+                  "title": "Price, income and cross elasticities of demand",
+                  "level": 3,
+                  "content": "- Be able to calculate price, income and cross elasticities of\ndemand.\n- The relationship between income elasticity of demand and\nnormal and inferior goods.\n- The relationship between cross elasticity of demand and\nsubstitute and complementary goods.\n- The relationships between price elasticity of demand and\nfirms’ total revenue (total expenditure).\n- The factors that influence these elasticities of demand.\nStudents should be able to\ninterpret numerical values of\nthese elasticities of demand.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.3.3",
+                  "title": "The determinants of the supply of goods and services",
+                  "level": 3,
+                  "content": "- A supply curve shows the relationship between price and\nquantity supplied.\n- Understand that higher prices imply higher profits and that\nthis will provide the incentive to expand production.\n- The causes of shifts in the supply curve.\nStudents should also know\nthat, under perfect\ncompetition, the supply curve\nis the marginal cost curve.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.3.4",
+                  "title": "Price elasticity of supply",
+                  "level": 3,
+                  "content": "- Be able to calculate price elasticity of supply.\n- The factors that influence price elasticity of supply.\nStudents should be able to\ninterpret numerical values of\nprice elasticity of supply.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.3.5",
+                  "title": "The determination of equilibrium market prices",
+                  "level": 3,
+                  "content": "- How the interaction of demand and supply determines\nequilibrium prices in a market economy.\n- The difference between equilibrium and disequilibrium.\n- Why excess demand and excess supply lead to changes in\nprice.\nStudents should be able to\nuse demand and supply\ndiagrams to help them to\nanalyse causes of changes in\nequilibrium market prices.\nThey should be able to apply\ntheir knowledge of the basic\nmodel of demand and supply\nto a variety of real-world\nmarkets.\nThey should be aware of the\nassumptions of the model of\nsupply and demand.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.3.6",
+                  "title": "The interrelationship between markets",
+                  "level": 3,
+                  "content": "- Changes in a particular market are likely to affect other\nmarkets.\n- The implications of joint demand, competitive demand,\ncomposite demand, derived demand and joint supply.\nStudents should, for\nexample, be able to explore\nthe impact of changes in\ndemand, supply and price in\none market upon other\nrelated markets.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.4",
+              "title": "Production, costs and revenue",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.4.1",
+                  "title": "Production and productivity",
+                  "level": 3,
+                  "content": "- Production converts inputs, or the services of factors of\nproduction such as capital and labour, into final output.\n- The meaning of productivity, including labour productivity.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.4.2",
+                  "title": "Specialisation, division of labour and exchange",
+                  "level": 3,
+                  "content": "- The benefits of specialisation and division of labour.\n- Why specialisation necessitates an efficient means of\nexchanging goods and services, such as the use of money\nas a medium of exchange.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.4.3",
+                  "title": "The law of diminishing returns and returns to scale",
+                  "level": 3,
+                  "content": "- The difference between the short run and the long run.\n- The difference between marginal, average and total returns.\n- The law of diminishing returns.\n- Returns to scale.\n- The difference between increasing, constant and decreasing\nreturns to scale.\nStudents should appreciate\nthat both the law of\ndiminishing returns and\nreturns to scale explain\nrelationships between inputs\nand output.\nThey should also understand\nthat these relationships have\nimplications for costs of\nproduction.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.4.4",
+                  "title": "Costs of production",
+                  "level": 3,
+                  "content": "- The difference between fixed and variable costs.\n- The difference between marginal, average and total costs.\n- The difference between short-run and long-run costs.\n- The reasons for the shape of the marginal, average and total\ncost curves.\n- How factor prices and productivity affect firms’ costs of\nproduction and their choice of factor inputs.\nStudents should be able to\ncalculate different costs from\ngiven data. They should also\nbe able to draw and interpret\ncost curves.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.4.5",
+                  "title": "Economies and diseconomies of scale",
+                  "level": 3,
+                  "content": "- The difference between internal and external economies of\nscale.\n- Reasons for diseconomies of scale.\n- The relationship between returns to scale and economies or\ndiseconomies of scale.\n- The relationship between economies of scale, diseconomies\nof scale and the shape of the long-run average cost curve.\n- The L-shaped long-run average cost curve.\n- The concept of the minimum efficient scale of production.\nStudents should be able to\ncategorise and give\nexamples of both internal and\nexternal economies of scale.\nStudents should understand\nthe significance of the\nminimum efficient scale for\nthe structure of an industry\nand barriers to entry.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.4.6",
+                  "title": "Marginal, average and total revenue",
+                  "level": 3,
+                  "content": "- The difference between marginal, average and total\nrevenue.\n- Why the average revenue curve is the firm’s demand curve.\n- The relationship between average and marginal revenue.\n- The relationship between marginal revenue and total\nrevenue.\nStudents should be able to\ncalculate marginal, average\nand total revenue from given\ndata. They should also be\nable to draw and interpret\nrevenue curves.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.4.7",
+                  "title": "Profit",
+                  "level": 3,
+                  "content": "- Profit is the difference between total revenue and total costs.\n- The difference between normal and abnormal (supernormal)\nprofit.\n- The role of profit in a market economy.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.4.8",
+                  "title": "Technological change",
+                  "level": 3,
+                  "content": "- The difference between invention and innovation.\n- Technological change can affect methods of production,\nproductivity, efficiency and firms’ costs of production.\n- Technological change can lead to the development of new\nproducts, the development of new markets and may destroy\nexisting markets.\n- Technological change can influence the structure of markets.\nStudents should understand\nhow the process of creative\ndestruction is linked to\ntechnological change.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.5",
+              "title": "Perfect competition, imperfectly competitive markets and monopoly",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.5.1",
+                  "title": "Market structures",
+                  "level": 3,
+                  "content": "- The spectrum of competition ranging from perfect\ncompetition at one end of the spectrum to pure monopoly at\nthe other end of the spectrum.\n- Factors such as the number of firms, the degree of product\ndifferentiation and ease of entry are used to distinguish\nbetween different market structures.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.2",
+                  "title": "The objectives of firms",
+                  "level": 3,
+                  "content": "- The models that comprise the traditional theory of the firm\nare based upon the assumption that firms aim to maximise\nprofits.\n- The profit-maximising rule (MC=MR).\n- The reasons for and the consequences of a divorce of\nownership from control.\n- Firms have a variety of other possible objectives.\n- The satisficing principle.\nStudents should recognise\nthat firms have a range of\npossible objectives including\nsurvival, growth, quality,\nmaximising their sales\nrevenue and increasing their\nmarket share.\nStudents should be able to\ndiscuss how the divorce of\nownership from control may\naffect the objectives of firms,\ntheir conduct and\nperformance.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.3",
+                  "title": "Perfect competition",
+                  "level": 3,
+                  "content": "- The formal diagrammatic analysis of the perfectly\ncompetitive model in the short and long run.\n- The implications of the following for the behaviour of firms\nand the industry: large numbers of producers, identical\nproducts, freedom of entry and exit, and perfect knowledge.\n- Firms operating in perfectly competitive markets are price\ntakers.\n- The proposition that, given certain assumptions, relating for\nexample to a lack of externalities, perfect competition will\nresult in an efficient allocation of resources.\nStudents should be aware\nthat perfect competition, in\nboth product and labour\nmarkets, provides a yardstick\nfor judging the extent to\nwhich real world markets\nperform efficiently or\ninefficiently, and the extent to\nwhich a misallocation of\nresources occurs.\nStudents should also be able\nto assess critically the\nproposition that perfectly\ncompetitive markets lead to\nan efficient allocation of\nresources.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.4",
+                  "title": "Monopolistic competition",
+                  "level": 3,
+                  "content": "- The formal diagrammatic analysis of the monopolistically\ncompetitive model in the short and long run.\n- The main characteristics of monopolistically competitive\nmarkets.\n- Monopolistically competitive markets will be subject to non-\nprice competition.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.5",
+                  "title": "Oligopoly",
+                  "level": 3,
+                  "content": "- The main characteristics of oligopolistic markets.\n- Oligopolistic markets can be very different in relation to, for\nexample, the number of firms, the degree of product\ndifferentiation and ease of entry.\n- Oligopoly can be defined in terms of market structure or in\nterms of market conduct (behaviour).\n- Concentration ratios and how to calculate a concentration\nratio.\n- The difference between collusive and non-collusive\noligopoly.\n- The difference between cooperation and collusion.\n- The kinked demand curve model.\n- The reasons for non-price competition, the operation of\ncartels, price leadership, price agreements, price wars and\nbarriers to entry.\n- The factors which influence prices, output, investment,\nexpenditure on research and advertising in oligopolistic\nindustries.\n- The significance of interdependence and uncertainty in\noligopoly.\n- The advantages and disadvantages of oligopoly.\nStudents should be aware of\nthe various factors which\naffect the behaviour and\nperformance of firms in a\nvariety of real world markets.\nThe factors include different\nbarriers to entry and the\ndegree of concentration and\nproduct differentiation.\nThe kinked demand curve\nmodel should be used as an\nillustration of the\ninterdependence between\nfirms and not taught as if it is\nthe only model of oligopoly.\nStudents should recognise\nthat collusion may allow\noligopolists to act as a\nmonopolist and maximise\ntheir joint profits.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.6",
+                  "title": "Monopoly and monopoly power",
+                  "level": 3,
+                  "content": "- The formal diagrammatic analysis of the monopoly model.\n- That monopoly power is influenced by factors such as\nbarriers to entry, the number of competitors, advertising and\nthe degree of product differentiation.\n- The advantages and disadvantages of monopoly.\nStudents should appreciate\nthat firms operating in\nmonopolistically competitive\nand oligopolistic markets are\nprice makers and have\nvarying degrees of monopoly\npower.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.7",
+                  "title": "Price discrimination",
+                  "level": 3,
+                  "content": "- The conditions necessary for price discrimination.\n- The advantages and disadvantages of price discrimination.\nStudents should be aware of\nreal-world examples of price\ndiscrimination and be able to\nassess its impact on\nproducers and consumers.\nA diagrammatic analysis of\nprice discrimination is\nexpected.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.8",
+                  "title": "The dynamics of competition and competitive market processes",
+                  "level": 3,
+                  "content": "- Both the short-run and long-run benefits which are likely to\nresult from competition.\n- That firms do not just compete on the basis of price but that\ncompetition will, for example, also lead firms to strive to\nimprove products, reduce costs, improve the quality of the\nservice provided.\n- The process of creative destruction.\nStudents should understand\nthat if firms have monopoly\npower and are making large\nprofits, over time there will be\nan incentive for new firms to\nenter the market and to\ninnovate to overcome the\nexisting barriers to entry.\nStudents should understand\nthat this process of creative\ndestruction is a fundamental\nfeature of the way in which\ncompetition operates in a\nmarket economy.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.9",
+                  "title": "Contestable and non-contestable markets",
+                  "level": 3,
+                  "content": "- The significance of market contestability for the performance\nof an industry.\n- Concepts such as sunk costs and hit-and-run competition.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.10",
+                  "title": "Market structure, static efficiency, dynamic efficiency and resource allocation",
+                  "level": 3,
+                  "content": "- The difference between static efficiency and dynamic\nefficiency.\n- The conditions required for productive efficiency (minimising\naverage total costs) and allocative efficiency (price =\nmarginal cost).\n- Dynamic efficiency is influenced by, for example, research\nand development, investment in human and non-human\ncapital and technological change.\nStudents should be able to\napply efficiency concepts\nwhen comparing the\nperformance of firms in\nmarkets with different\nstructures. They should\nunderstand how conduct and\nperformance indicators can\nbe used to compare market\nstructures.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.5.11",
+                  "title": "Consumer and producer surplus",
+                  "level": 3,
+                  "content": "- Be able to apply these concepts when discussing economic\nefficiency and welfare issues, such as price discrimination\nand the dead-weight losses associated with monopoly.\nDiagrammatic analysis is\nexpected.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.6",
+              "title": "The labour market",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.6.1",
+                  "title": "The demand for labour, marginal productivity theory",
+                  "level": 3,
+                  "content": "- The demand for a factor is derived from the demand for the\nproduct.\n- The marginal productivity theory of the demand for labour.\n- The demand curve for labour shows the relationship\nbetween the wage rate and number of workers employed.\n- The causes of shifts in the demand curve for labour.\n- The determinants of the elasticity of demand for labour.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.6.2",
+                  "title": "Influences upon the supply of labour to different markets",
+                  "level": 3,
+                  "content": "- The supply of labour to a particular occupation is influenced\nby monetary and non-monetary considerations.\n- Non-monetary considerations include job satisfaction and\ndissatisfaction and working conditions.\n- The supply curve for labour shows the relationship between\nthe wage rate and number of workers willing to work in an\noccupation.\n- The causes of shifts in the market supply curve for labour.\nStudents will not be required\nto understand the\ndeterminants of an\nindividual’s supply of labour\nor the backward-bending\nsupply curve.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.6.3",
+                  "title": "The determination of relative wage rates and levels of employment in perfectly competitive labour markets",
+                  "level": 3,
+                  "content": "- The economists’ model of wage determination in a perfectly\ncompetitive labour market.\n- Role of market forces in determining relative wage rates.\nStudents should appreciate\nthat all real-world markets are\nimperfectly competitive to a\ngreater or lesser extent.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.6.4",
+                  "title": "The determination of relative wage rates and levels of employment in imperfectly competitive labour markets",
+                  "level": 3,
+                  "content": "- How various factors such as monopsony power, trade\nunions and imperfect information contribute to imperfections\nin a labour market.\n- How, in a monopsony labour market, the employer can use\nmarket power to reduce both the relative wage rate and the\nlevel of employment below those that would exist in a\nperfectly competitive labour market.\nThe use of relevant diagrams\nis expected.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.6.5",
+                  "title": "The Influence of trade unions in determining wages and levels of employment",
+                  "level": 3,
+                  "content": "- The various factors that affect the ability of trade unions to\ninfluence wages and levels of employment in different labour\nmarkets.\n- How wages and employment are likely to be affected by the\nintroduction of a trade union into a previously perfectly\ncompetitive labour market and into a monopsony labour\nmarket.\nThe use of relevant diagrams\nis expected.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.6.6",
+                  "title": "The National Minimum Wage",
+                  "level": 3,
+                  "content": "- The effects of a national minimum wage upon labour\nmarkets.\n- The advantages and disadvantages of a national minimum\nwage.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.6.7",
+                  "title": "Discrimination in the labour market",
+                  "level": 3,
+                  "content": "- The conditions necessary for wage discrimination.\n- The impact of gender, ethnicity and other forms of\ndiscrimination on wages, levels and types of employment.\nReal-world examples should\nbe used to illustrate wage\ndiscrimination.\nStudents should be able to\nassess the advantages and\ndisadvantages of wage\ndiscrimination for workers,\nemployers and the economy\nas a whole.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.7",
+              "title": "The distribution of income and wealth: poverty and inequality",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.7.1",
+                  "title": "The distribution of income and wealth",
+                  "level": 3,
+                  "content": "- The difference between income and wealth.\n- The various factors which influence the distribution of\nincome and wealth.\n- The difference between equality and equity in relation to the\ndistribution of income and wealth.\n- The Lorenz curve and Gini coefficient.\n- The likely benefits and costs of more equal and more\nunequal distributions.\nSome knowledge of the\ndistribution of household\nincome and wealth in the\nUnited Kingdom is expected.\nStudents should understand\nthat the degree of inequality\ncan be measured but that\nwhether or not a given\ndistribution of income is\nequitable (fair and just)\ninvolves a value judgement.\nStudents will be expected to\ninterpret measures of\ninequality such as the Gini\ncoefficient but they will not be\nexpected to calculate the Gini\ncoefficient.\nStudents should understand\nthat excessive inequality is\nboth a cause and\nconsequence of market\nfailure. They should also\nappreciate that value\njudgements will influence\npeople’s views of what\nconstitutes an equitable\ndistribution of income and\nwealth and that these views\nwill influence policy\nprescriptions.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.7.2",
+                  "title": "The problem of poverty",
+                  "level": 3,
+                  "content": "- The difference between relative and absolute poverty.\n- The causes and effects of poverty.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.7.3",
+                  "title": "Government policies to alleviate poverty and to influence the distribution of income and wealth",
+                  "level": 3,
+                  "content": "- The policies which are available to influence the distribution\nof income and wealth and to alleviate poverty.\n- The economic consequences of such policies.\nStudents should be able to\nevaluate the various\napproaches to redistributing\nincome and wealth and\nalleviating poverty,\nrecognising the moral and\npolitical perspectives.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.1.8",
+              "title": "The market mechanism, market failure and government intervention in markets",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.1.8.1",
+                  "title": "How markets and prices allocate resources",
+                  "level": 3,
+                  "content": "- The rationing, incentive and signalling functions of prices in\nallocating resources and coordinating the decisions of\nbuyers and sellers in a market economy.\n- The advantages and disadvantages of the price mechanism\nand of extending its use into new areas of activity.\nStudents should understand\nhow economic incentives\ninfluence what, how and for\nwhom goods and services\nare produced.\nStudents should be able to\nassess the view that the price\nmechanism is an impersonal\nmethod of allocating\nresources.\nThey should also be able to\nassess the view that\nintroducing the price\nmechanism and markets into\nsome fields of human activity\nmay be undesirable and is\nlikely to affect the nature of\nthe activity, eg introducing a\nmarket for blood changes the\nnature of the transaction and\nthe incentives involved.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.8.2",
+                  "title": "The meaning of market failure",
+                  "level": 3,
+                  "content": "- Market failure occurs whenever a market leads to a\nmisallocation of resources.\n- The difference between complete market failure (resulting in\na missing market) and partial market failure (where a market\nexists but contributes to resource misallocation).\n- How public goods, positive and negative externalities, merit\nand demerit goods, monopoly and other market\nimperfections, and inequalities in the distribution of income\nand wealth can lead to market failure.\nStudents should be able to\nprovide examples to inform\ntheir discussion of each of\nthese causes of market\nfailure.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.8.3",
+                  "title": "Public goods, private goods and quasi-public goods",
+                  "level": 3,
+                  "content": "- Pure public goods are non-rival and non-excludable and\nrecognition of the significance of these characteristics.\n- The difference between a public good and a private good.\n- Circumstances when a public good may take on some of the\ncharacteristics of a private good and become a quasi-public\ngood.\n- The significance of technological change, eg television\nbroadcasting is now excludable.\n- The free-rider problem.\n- The tragedy of the commons.\nStudents should appreciate\nthe relevance of the ‘tragedy\nof the commons’ for\nenvironmental market\nfailures.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.8.4",
+                  "title": "Positive and negative externalities in consumption and production",
+                  "level": 3,
+                  "content": "- Externalities exist when there is a divergence between\nprivate and social costs and benefits.\n- Why negative externalities are likely to result in over-\nproduction and that positive externalities are likely to result\nin under-production.\n- Why the absence of property rights leads to externalities in\nboth production and consumption and hence market failure.\nStudents should be able to\nillustrate the misallocation of\nresources resulting from\nexternalities in both\nproduction and consumption,\nusing diagrams showing\nmarginal private and social\ncost and benefit curves.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.8.5",
+                  "title": "Merit and demerit goods",
+                  "level": 3,
+                  "content": "- The classification of merit and demerit goods depends upon\na value judgement.\n- Such products may be subject to positive and negative\nexternalities in consumption.\n- How under-provision of merit goods and over-provision of\ndemerit goods may also result from imperfect information.\nStudents should be able to\nillustrate the misallocation of\nresources resulting from the\nconsumption of merit and\ndemerit goods using\ndiagrams showing marginal\nprivate and social cost and\nbenefit curves.\nIt should be understood that\nnot all products that result in\npositive or negative\nexternalities in consumption\nare either merit or demerit\ngoods.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.8.6",
+                  "title": "Market imperfections",
+                  "level": 3,
+                  "content": "- Why imperfect and asymmetric information can lead to\nmarket failure.\n- Why the existence of monopoly and monopoly power can\nlead to market failure.\n- Why the immobility of factors of production can lead to\nmarket failure.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.8.7",
+                  "title": "Competition policy",
+                  "level": 3,
+                  "content": "- The general principles of UK competition policy and some\nawareness of EU competition policy.\n- The costs and benefits of such policies.\nExamples of real-world\napplications of such policies\nshould provide contexts in\nwhich students can evaluate\nthe use of economic models\nto explore economic\nbehaviour and further\ndevelop their appreciation of\nthe behaviour of firms.\nDetailed knowledge of UK\nand EU competition law is\nnot required.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.8.8",
+                  "title": "Public ownership, privatisation, regulation and deregulation of markets",
+                  "level": 3,
+                  "content": "- The arguments for and against the public ownership of firms\nand industries.\n- The arguments for and against the privatisation of state-\nowned enterprises.\n- The arguments for and against the regulation of markets.\n- The arguments for and against the deregulation of markets.\n- The problem of regulatory capture.\nStudents should be able to\nassess the application of\nsuch policies in the United\nKingdom and be able to\nevaluate their effects on\neconomic performance.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.8.9",
+                  "title": "Government intervention in markets",
+                  "level": 3,
+                  "content": "- The existence of market failure, in its various forms,\nprovides an argument for government intervention in\nmarkets.\n- Governments influence the allocation of resources in a\nvariety of ways, including through public expenditure,\ntaxation and regulation.\n- Governments have a range of objectives and these affect\nhow they intervene in a mixed economy to influence the\nallocation of resources.\n- The use of indirect taxation, subsidies, price controls, state\nprovision and regulation, the extension of property rights and\npollution permits to correct market failure.\nStudents should be able to\napply economic models to\nassess the role of markets\nand the government in a\nvariety of situations.\nStudents should be able to\nexplain, analyse and evaluate\nthe strengths and\nweaknesses of the market\neconomy and the role of\ngovernment within it.\nStudents should be able to\nevaluate the case for and\nagainst government\nintervention in particular\nmarkets and to assess the\nrelative merits of different\nmethods of intervention.",
+                  "children": []
+                },
+                {
+                  "code": "4.1.8.10",
+                  "title": "Government failure",
+                  "level": 3,
+                  "content": "- Government failure occurs when government intervention in\nthe economy leads to a misallocation of resources.\n- Inadequate information, conflicting objectives and\nadministrative costs are possible sources of government\nfailure.\n- Governments may create, rather than remove, market\ndistortions.\n- Government intervention can lead to unintended\nconsequences.\nStudents should appreciate\nthat the possibility of\ngovernment failure means\nthat, even when there is\nmarket failure, government\nintervention will not\nnecessarily improve\neconomic welfare.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "code": "4.2",
+          "title": "The national and international economy",
+          "level": 1,
+          "content": "This section of the specification is primarily about macroeconomics. However, students should\nunderstand that microeconomic principles underpin the behaviour of the macroeconomy.\nUnderstanding some aspects of macroeconomic behaviour requires that students have a firm\ngrasp of related microeconomic principles, for example, understanding of price elasticity of demand\nis essential when analysing the impact of changes in the exchange rate on an economy.\nStudents should have a good knowledge of developments in the UK economy and government\npolicies over the past fifteen years. They should also be aware of developments in the world\neconomy, including the European Union, and how these have affected the UK. They are not\nrequired to have specific knowledge of economic developments in any individual country, other\nthan the UK, but if this is needed, relevant data will be presented to students.\nStudents should recognise that there are a number of models demonstrating how the\nmacroeconomy works and should appreciate that different economic models provide insights into\ndifferent aspects of the behaviour of the macroeconomy. When using these models students\nshould be critically aware of the assumptions upon which they are based and their limitations when\nthey are used to make sense of real world phenomena. Furthermore, they should be prepared to\npropose, analyse and evaluate possible solutions to macroeconomic problems. They will be\nrequired to assess the impact and effectiveness of current government policies to deal with these\nproblems, as well as considering alternative policies and approaches.",
+          "children": [
+            {
+              "code": "4.2.1",
+              "title": "The measurement of macroeconomic performance",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.1.1",
+                  "title": "The objectives of government economic policy",
+                  "level": 3,
+                  "content": "- The main objectives of government macroeconomic policy:\neconomic growth, price stability, minimising unemployment\nand a stable balance of payments on current account.\n- The possibility of conflict arising, at least in the short run,\nwhen attempting to achieve these objectives.\nStudents should be aware\nthat governments may also\nhave other objectives of\nmacroeconomic policy, such\nas balancing the budget and\nachieving an equitable\ndistribution of income.\nThey should be aware that\nthe importance attached to\nthe different objectives\nchanges over time.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.2",
+                  "title": "Macroeconomic indicators",
+                  "level": 3,
+                  "content": "- Data which is commonly used to measure the performance\nof an economy, such as: real GDP, real GDP per capita,\nConsumer Prices and Retail Prices Indices (CPI/RPI),\nmeasures of unemployment, productivity and the balance of\npayments on current account.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.3",
+                  "title": "Uses of index numbers",
+                  "level": 3,
+                  "content": "- How index numbers are calculated and interpreted, including\nthe base year and the use of weights.\n- How index numbers are used to measure changes in the\nprice level and changes in other economic variables.\nA detailed technical\nknowledge is not expected of\nindices such as the Retail\nPrices Index (RPI) and\nConsumer Prices Index\n(CPI), but students should\nhave an awareness of their\nunderlying features, for\nexample, the concept of the\n‘average family’ and a ‘basket\nof goods and services’.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.1.4",
+                  "title": "Uses of national income data",
+                  "level": 3,
+                  "content": "- The use and limitations of national income data to assess\nchanges in living standards over time.\n- The use and limitations of national income data to compare\ndifferences in living standards between countries.\n- The importance of using purchasing power parity (PPP)\nexchange rates when making international comparisons of\nliving standards.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.2",
+              "title": "How the macroeconomy works: the circular flow of income, aggregate demand/aggregate supply analysis and related concepts",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.2.1",
+                  "title": "The circular flow of income",
+                  "level": 3,
+                  "content": "- What national income measures.\n- The difference between nominal and real income.\n- Real national income as an indicator of economic\nperformance.\n- The circular flow of income concept, the equation income =\noutput = expenditure, and of the concepts of equilibrium and\nfull employment income.\n- The difference between injections and withdrawals into the\ncircular flow of income.\n- The effect of changes in injections and withdrawals on\nnational income.\nStudents are not expected to\nhave a detailed knowledge of\nthe construction of national\nincome accounts.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.2",
+                  "title": "Aggregate demand and aggregate supply analysis",
+                  "level": 3,
+                  "content": "- Changes in the price level are represented by movements\nalong the aggregate demand (AD) and aggregate supply\n(AS) curves.\n- The various factors that shift the AD curve and the short-run\nAS curve.\n- The factors which affect long-run AS and distinguish them\nfrom those which affect short-run AS.\n- Underlying economic growth is represented by a rightward\nshift in the long-run AS curve.\n- How to use AD/AS diagrams to illustrate macroeconomic\nequilibrium.\n- How both demand-side and supply-side shocks affect the\nmacroeconomy\nStudents should be able to\nuse AD and AS analysis to\nhelp them explain\nmacroeconomic problems\nand issues. For example,\nthey should be able to use\nAD and AS diagrams to\nillustrate changes in the price\nlevel, demand-deficient\n(cyclical) unemployment and\neconomic growth.\nStudents should also\nunderstand how global\neconomic events can affect\nthe domestic economy.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.3",
+                  "title": "The determinants of aggregate demand",
+                  "level": 3,
+                  "content": "- What is meant by AD.\n- The determinants of AD, ie the determinants of\nconsumption, investment, government spending, exports\nand imports.\n- The basic accelerator process.\n- The determinants of savings.\n- The difference between saving and investment.\nStudents will not be required\nto undertake calculations to\nillustrate the operation of the\naccelerator.\nStudents should understand\nhow changes in net exports\naffect aggregate demand and\neconomic performance.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.4",
+                  "title": "Aggregate demand and the level of economic activity",
+                  "level": 3,
+                  "content": "- The role of AD in influencing the level of economic activity.\n- The multiplier process and an explanation of why an initial\nchange in expenditure may lead to a larger impact on local\nor national income.\n- The concept of the marginal propensity to consume and use\nthe marginal propensity to consume to calculate the size of\nthe multiplier.\n- Why the size of the marginal propensity to consume\ndetermines the magnitude of the multiplier effect.\nStudents will only be required\nto calculate the multiplier\nfrom the marginal propensity\nto consume.\nCalculations from the\nmarginal propensities to\nwithdraw will not be\nexpected.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.5",
+                  "title": "Determinants of short-run aggregate supply",
+                  "level": 3,
+                  "content": "- The price level and production costs are the main\ndeterminants of the short-run AS.\n- Changes in costs, such as: money wage rates, raw material\nprices, business taxation and productivity, will shift the short-\nrun AS curve.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.2.6",
+                  "title": "Determinants of long-run aggregate supply",
+                  "level": 3,
+                  "content": "- The fundamental determinants of long-run AS such as\ntechnology, productivity, attitudes, enterprise, factor mobility,\nand economic incentives.\n- The position of the vertical long-run AS curve represents the\nnormal capacity level of output of the economy.\n- The importance of the institutional structure of the economy\nin determining aggregate supply, such as the role of the\nbanking system in providing business investment funds,\nshould also be understood.\n- The Keynesian AS curve.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.3",
+              "title": "Economic performance",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.3.1",
+                  "title": "Economic growth and the economic cycle",
+                  "level": 3,
+                  "content": "- The difference between short-run and long-run growth.\n- The various demand-side and supply-side determinants of\nshort-run growth of real national income and the long-run\ntrend rate of economic growth.\n- The costs and benefits of economic growth.\n- The impact of growth on individuals, the economy and the\nenvironment.\n- The concept of the economic cycle and the use of a range of\neconomic indicators, such as real GDP, the rate of inflation,\nunemployment and investment, to identify the various\nphases of the economic cycle.\n- The difference between positive and negative output gaps.\n- The causes of changes in the various phases of the\neconomic cycle, including both global and domestic\ndemand-side and supply-side shocks.\nStudents should be able to\nuse a production possibility\ncurve and AD/AS diagrams to\nillustrate the distinction\nbetween short-run and long-\nrun economic growth.\nStudents should understand\nthat long-run economic\ngrowth occurs when the\nproductive capacity of the\neconomy is increasing and is\na term used to refer to the\ntrend rate of growth of real\nnational output in an\neconomy over time.\nStudents should be able to\ndiscuss the sustainability of\neconomic growth.\nStudents should understand\nthat a positive output gap\noccurs when real GDP is\nabove the productive\npotential of the economy, and\na negative output gap occurs\nwhen real GDP is below the\neconomy’s productive\npotential.\nStudents should be able to\ndiscuss causes of cyclical\ninstability such as: excessive\ngrowth in credit and levels of\ndebt, asset price bubbles,\ndestabilising speculation and\nanimal spirits or herding.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.3.2",
+                  "title": "Employment and unemployment",
+                  "level": 3,
+                  "content": "- The main UK measures of unemployment, ie the claimant\ncount and the Labour Force Survey measure.\n- The concepts of voluntary and involuntary unemployment.\n- The terms seasonal, frictional, structural and cyclical\nunemployment.\n- How employment and unemployment may be determined by\nboth demand-side and supply-side factors.\n- The concept of, and the factors which determine, real wage\nunemployment.\n- The concept of, and the factors which determine, the natural\nrate of unemployment.\n- The consequences of unemployment for individuals and for\nthe performance of the economy.\nStudents should appreciate\nthat unemployment has a\nvariety of causes and hence\nthe appropriate policies to\nreduce unemployment\ndepend on the cause.\nThey should understand that\na negative output gap is\nlinked to cyclical\nunemployment and that\nsupply-side causes of\nunemployment affect the\nposition of the long-run\naggregate supply curve.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.3.3",
+                  "title": "Inflation and deflation",
+                  "level": 3,
+                  "content": "- The concepts of inflation, deflation and disinflation.\n- Demand-pull and cost-push influences on the price level.\n- Fisher’s equation of exchange MV = PQ and the Quantity\nTheory of Money in relation to the monetarist model.\n- The effects of expectations on changes in the price level\n- The consequences of inflation for both individuals and the\nperformance of the economy.\n- The consequences of deflation for both individuals and the\nperformance of the economy.\n- How changes in world commodity prices affect domestic\ninflation.\n- How changes in other economies can affect inflation in the\nUK.\nStudents should understand\nthat deflation exists when the\nprice level is falling, whereas\ndisinflation is when the rate of\ninflation is falling.\nStudents should appreciate\nthat deflationary policies are\npolicies to reduce aggregate\ndemand and do not\nnecessarily result in deflation.\nStudents can use T instead\nof Q in the Fisher equation\nbut using Q means that PQ is\nnominal national income and\novercomes the difficulties\nassociated with the inclusion\nof intermediate transactions.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.3.4",
+                  "title": "Possible conflicts between macroeconomic policy objectives",
+                  "level": 3,
+                  "content": "- How negative and positive output gaps relate to\nunemployment and inflationary pressures.\n- Both the short-run Phillips curve and the long-run, L-shaped\nPhillips curve.\n- The implications of the short-run Phillips curve and the long-\nrun, L-shaped Phillips curve for economic policy.\n- How economic policies may be used to try to reconcile\npossible policy conflicts both in the short run and the long\nrun.\nStudents should be able to\nuse macroeconomic models,\nincluding the AD/AS model,\nto analyse the causes of\npossible conflicts between\npolicy objectives in the short\nrun and long run. They\nshould be able to discuss\napproaches to reconciling\nthese conflicts and the\nmonetarist/supply-side view\nthat the major\nmacroeconomic objectives\nare compatible in the long\nrun.\nThe L-shaped Phillips curve\nis also known as the vertical\nlong-run Phillips curve.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.4",
+              "title": "Financial markets and monetary policy",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.4.1",
+                  "title": "The structure of financial markets and financial assets",
+                  "level": 3,
+                  "content": "- The characteristics and functions of money.\n- Definitions of the money supply and the distinction between\nnarrow money and broad money.\n- The difference between the money market, the capital\nmarket and the foreign exchange market.\n- The role of financial markets in the wider economy.\n- The difference between debt and equity.\n- Why there is an inverse relationship between market interest\nrates and bond prices.\nStudents should know that\nways in which firms raise\nfinance include: issuing\nshares, issuing corporate\nbonds and borrowing from a\nbank.\nStudents should know the\nterms coupon and maturity in\nrelation to government bonds\nand be able to calculate the\nyield on a government bond.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.4.2",
+                  "title": "Commercial banks and investment banks",
+                  "level": 3,
+                  "content": "- The difference between a commercial bank and an\ninvestment bank.\n- The main functions of a commercial bank.\n- The structure of a commercial bank’s balance sheet.\n- The objectives of a commercial bank, ie liquidity, profitability\nand security.\n- Potential conflicts between these objectives.\n- How banks create credit.\nStudents should be aware of\nthe differences between a\ncommercial bank and an\ninvestment bank but they do\nnot need a detailed\nknowledge of the activities\nand functions of an\ninvestment bank. They\nshould also be aware that\nmany banks are engaged in\nboth investment banking and\ncommercial banking activities\nand that this may increase\nsystemic risk.\nStudents should be aware\nthat there are other\ninstitutions that operate in\nfinancial markets but they do\nnot need to know about their\nactivities or their functions.\nStudents will not be required\nto calculate the credit\nmultiplier.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.4.3",
+                  "title": "Central banks and monetary policy",
+                  "level": 3,
+                  "content": "- The main functions of a central bank.\n- That monetary policy involves the central bank taking action\nto influence interest rates, the supply of money and credit\nand the exchange rate.\n- The current objectives of monetary policy set by the\ngovernment.\n- The role of the Monetary Policy Committee of the Bank of\nEngland (MPC) and how it uses changes in bank rate to try\nto achieve the objectives for monetary policy, including the\ngovernment’s target rate of inflation.\n- The factors considered by the MPC when setting the bank\nrate.\n- How changes in the exchange rate affect aggregate demand\nand the various macroeconomic policy objectives.\n- The monetary policy transmission mechanism, including the\nrelationship between changes in interest rates and the\nexchange rate.\n- How the Bank of England can influence the growth of the\nmoney supply.\nStudents should understand\ncurrent and recent\ninstruments of monetary\npolicy such as: quantitative\neasing, Funding for Lending\nand forward guidance.\nStudents should understand\nhow the MPC of the Bank of\nEngland uses changes in\nbank rate to try to achieve the\nobjectives for monetary\npolicy, including the\ngovernment’s target rate of\ninflation.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.4.4",
+                  "title": "The regulation of the financial system",
+                  "level": 3,
+                  "content": "- Regulation of the financial system in the UK, eg the role of\nthe Bank of England, the Prudential Regulation Authority\n(PRA), the Financial Policy Committee (FPC) and the\nFinancial Conduct Authority (FCA).\n- Why a bank might fail, including the risks involved in lending\nlong term and borrowing short term.\n- Liquidity ratios and capital ratios and how they affect the\nstability of a financial institution.\n- Moral hazard.\n- Systemic risk and the impact of problems that arise in\nfinancial markets upon the real economy.\nAn in-depth knowledge of the\nPRA, FPC and the FCA is\nnot expected but students\nshould appreciate their role in\ntrying to maintain the stability\nof the financial system.\nStudents will not be required\nto calculate liquidity or capital\nratios.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.5",
+              "title": "Fiscal policy and supply-side policies",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.5.1",
+                  "title": "Fiscal policy",
+                  "level": 3,
+                  "content": "- Fiscal policy involves the manipulation of government\nspending, taxation and the budget balance.\n- Fiscal policy can have both macroeconomic and\nmicroeconomic functions.\n- How fiscal policy can be used to influence aggregate\ndemand.\n- How fiscal policy can be used to influence aggregate supply.\n- How government spending and taxation can affect the\npattern of economic activity.\n- The types of and reasons for public expenditure.\n- Why governments levy taxes.\n- The difference between direct and indirect taxes.\n- The difference between progressive, proportional and\nregressive taxes.\n- The principles of taxation, such as that taxes should be\nequitable.\n- The role and relative merits of different UK taxes.\n- The relationship between the budget balance and the\nnational debt.\n- Cyclical and structural budget deficits and surpluses.\n- The consequences of budget deficits and surpluses for\nmacroeconomic performance.\n- The significance of the size of the national debt.\n- The role of the Office for Budget Responsibility.\nStudents should be able to\nassess the economic\nsignificance of changes in the\nlevel and distribution of both\npublic expenditure and\ntaxation.\nThey should be able to\ndiscuss the issue of the\nbudget balance and be able\nto evaluate the possible\neconomic consequences of a\ngovernment running a budget\ndeficit or budget surplus.\nThey should be able to\nassess the impact of\nmeasures used to rebalance\nthe budget.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.5.2",
+                  "title": "Supply-side policies",
+                  "level": 3,
+                  "content": "- The difference between supply-side policies and supply-side\nimprovements in the economy.\n- How supply-side policies can help to achieve supply-side\nimprovements in the economy.\n- How supply-side policies, such as tax changes designed to\nchange personal incentives, may increase the potential\noutput of the economy and improve the underlying trend rate\nof economic growth.\n- How supply-side policies can affect unemployment, the rate\nof change of prices and UK external performance, as\nreflected in the balance of payments on current account.\n- The role of supply-side policies in reducing the natural rate\nof unemployment.\n- Free market supply-side policies include measures such as:\ntax cuts, privatisation, deregulation and some labour market\nreforms.\n- Interventionist supply-side policies include measures such\nas: government spending on education and training,\nindustrial policy, subsidising spending on research and\ndevelopment.\n- Supply-side policies can have microeconomic as well as\nmacroeconomic effects.\nStudents should recognise\nthat supply-side changes in\nthe economy often originate\nin the private sector,\nindependently of government,\neg through productivity\nimprovements, innovation\nand investment.\nStudents should recognise\nthat supply-side policies can\ninvolve government\nintervention to deal with\nmarket failures such as short-\ntermism, as well as policies\nto improve economic\nincentives and the operation\nof markets.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "code": "4.2.6",
+              "title": "The international economy",
+              "level": 2,
+              "content": "",
+              "children": [
+                {
+                  "code": "4.2.6.1",
+                  "title": "Globalisation",
+                  "level": 3,
+                  "content": "- The causes of globalisation.\n- The main characteristics of globalisation.\n- The consequences of globalisation for less-developed and\nfor more-developed countries.\n- The role of multinational corporations in globalisation.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.6.2",
+                  "title": "Trade",
+                  "level": 3,
+                  "content": "- The model of comparative advantage.\n- The distinction between comparative and absolute\nadvantage.\n- The model shows that specialisation and trade can\nincrease total output.\n- Other economic benefits of trade, such as the ability to\nexploit economies of scale and increased competition.\n- The costs of international trade.\n- The reasons for changes in the pattern of trade between\nthe UK and the rest of the world.\n- The nature of protectionist policies, such as: tariffs, quotas\nand export subsidies.\n- The causes and consequences of countries adopting\nprotectionist policies.\n- The main features of a customs union.\n- The main characteristics of the Single European Market\n(SEM).\n- The role of the World Trade Organisation (WTO).\nStudents should be able to use\na simple numerical example to\nillustrate the principle of\ncomparative advantage and\nthe associated benefits of\ntrade.\nStudents should be able to use\na diagram to illustrate the\neffects of imposing a tariff on\nimports.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.6.3",
+                  "title": "The balance of payments",
+                  "level": 3,
+                  "content": "- The difference between the current, capital and financial\naccounts on the balance of payments.\n- The current account comprises trade in goods, trade in\nservices, primary income and secondary income.\n- The meaning of a deficit and a surplus on the current\naccount.\n- The factors that influence a country’s current account\nbalance such as productivity, inflation and the exchange\nrate.\n- The consequences of investment flows between countries.\n- The policies that might be used to correct a balance of\npayments deficit or surplus.\n- Expenditure-switching and expenditure-reducing policies.\n- The effect policies used to correct a deficit or surplus may\nhave upon other macroeconomic policy objectives.\n- The significance of deficits and surpluses for an individual\neconomy.\n- The implications for the global economy of a major\neconomy or economies with imbalances deciding to take\ncorrective action.\nStudents should have a\ndetailed knowledge of the\nstructure of the current\naccount of the balance of\npayments but only need a\ngeneral appreciation of the\nother sections of the balance\nof payments account.\nStudents should appreciate\nthe difference between foreign\ndirect investment (FDI) and\nportfolio investment.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.6.4",
+                  "title": "Exchange rate systems",
+                  "level": 3,
+                  "content": "- How exchange rates are determined in freely floating\nexchange rate systems.\n- How governments can intervene to influence the exchange\nrate.\n- The advantages and disadvantages of fixed and floating\nexchange rate systems.\n- Advantages and disadvantages for a country of joining a\ncurrency union, eg the eurozone.",
+                  "children": []
+                },
+                {
+                  "code": "4.2.6.5",
+                  "title": "Economic growth and development",
+                  "level": 3,
+                  "content": "- The difference between growth and development.\n- The main characteristics of less-developed economies.\n- The main indicators of development, including the Human\nDevelopment Index (HDI).\n- Factors that affect growth and development, such as:\ninvestment, education and training.\n- Barriers to growth and development, such as: corruption,\ninstitutional factors, poor infrastructure, inadequate human\ncapital, lack of property rights.\n- Policies that might be adopted to promote economic growth\nand development.\n- The role of aid and trade in promoting growth and\ndevelopment.\nStudents should appreciate\nthe links between this and\nother parts of the specification,\nsuch as: globalisation, trade,\nthe determinants of economic\ngrowth and inequality.\nStudents should be able to\ncompare market-based\nstrategies and interventionist\nstrategies for promoting\ngrowth and development.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

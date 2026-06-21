@@ -1,0 +1,465 @@
+{
+  "source_pdf": "GCSE/Further_Mathematics/8365_2018_to_PRESENT/AQA_GCSE_Further_Mathematics_8365_2018_to_PRESENT_CURRENT.pdf",
+  "qualification": "GCSE",
+  "subject": "Further Mathematics",
+  "spec_code": "8365",
+  "pdf_name": "AQA_GCSE_Further_Mathematics_8365_2018_to_PRESENT_CURRENT.pdf",
+  "extraction_method": "table+font-fallback",
+  "n_sections": 1,
+  "warnings": [],
+  "sections": [
+    {
+      "section_code": "3",
+      "section_title": "Subject content",
+      "topics": [
+        {
+          "code": "1",
+          "title": "Number",
+          "level": 1,
+          "content": "Ref",
+          "children": [
+            {
+              "code": "1.1",
+              "title": "Knowledge and use of numbers and the number system including fractions, decimals, percentages, ratio, proportion and order of operations are expected",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "1.2",
+              "title": "The product rule for counting",
+              "level": 2,
+              "content": "Work out how many 5-digit odd numbers can be formed using the digits 1 3 4 6 8 with no repetition of any digit",
+              "children": []
+            },
+            {
+              "code": "1.3",
+              "title": "Manipulation of surds, including rationalising the denominator",
+              "level": 2,
+              "content": "The use of surds in exact calculations Write 200 – 72 + 3 162 in the form of a 2 3 2 +4 Rationalise and simplify 5 2 −7 3 3 +7 Write the expression in the form a + b 3 3 −5 3 , where a and b are integers",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "2",
+          "title": "Algebra",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "2.1",
+              "title": "The basic processes of algebra",
+              "level": 2,
+              "content": "Knowledge and use of basic skills in manipulative algebra including use of the associative, commutative and distributive laws, are expected",
+              "children": []
+            },
+            {
+              "code": "2.2",
+              "title": "Definition of a function",
+              "level": 2,
+              "content": "x2 Notation f (x) will be used, e.g. f (x) = – 9",
+              "children": []
+            },
+            {
+              "code": "2.3",
+              "title": "Domain and range of a function",
+              "level": 2,
+              "content": "Domain may be expressed as, for example, x > 2, or ‘for all x, except x = 0’ and range may be expressed as f (x) > – 1",
+              "children": []
+            },
+            {
+              "code": "2.4",
+              "title": "Composite functions",
+              "level": 2,
+              "content": "The result of two or more functions, say f and g, acting in succession. fg (x) is g followed by f",
+              "children": []
+            },
+            {
+              "code": "2.5",
+              "title": "Inverse functions",
+              "level": 2,
+              "content": "The inverse function of f is written f-1 Domains will be chosen for f to make f one-one",
+              "children": []
+            },
+            {
+              "code": "2.6",
+              "title": "Expanding brackets and collecting like terms",
+              "level": 2,
+              "content": "Expand and simplify (y2 2(y3 3y2 – 2y + 3) (2y – 1) – – + 4y – 2)",
+              "children": []
+            },
+            {
+              "code": "2.7",
+              "title": "Expand (a + b)n for positive integer n",
+              "level": 2,
+              "content": "Expand and simplify (5x + 2)3 Use Pascal’s triangle to work out the coefficient of x3 in the expansion of (3 + 2x)5",
+              "children": []
+            },
+            {
+              "code": "2.8",
+              "title": "Factorising",
+              "level": 2,
+              "content": "3)2 5)2 Factorise fully (2x + – (2x – 2 2 Factorise 15x – 34xy – 16y 4 2 Factorise fully x – 25x",
+              "children": []
+            },
+            {
+              "code": "2.9",
+              "title": "Manipulation of rational expressions: Use of + – × ÷ for algebraic fractions with denominators being numeric, linear or quadratic",
+              "level": 2,
+              "content": "5 3 Simplify − x+2 2x−1 x3 +2x2 + x Simplify x2 + x 5x2 −14x−3 x−3 Simplify ÷ 4x2 − 25 4x2 +10x",
+              "children": []
+            },
+            {
+              "code": "2.10",
+              "title": "Use and manipulation of formulae and expressions",
+              "level": 2,
+              "content": "1 1 1 = + Rearrange to make v the subject f u v",
+              "children": []
+            },
+            {
+              "code": "2.11",
+              "title": "Use of the factor theorem for rational values of the variable for polynomials",
+              "level": 2,
+              "content": "x3 2x2 Factorise – – 5x + 6 Show that 2x – 3 is a factor of 2x3 – x2 – 7x + 6 x3 x2 Solve + – 10x + 8 = 0 Show that x – 7 is a factor of x5 – 7x4 – x + 7",
+              "children": []
+            },
+            {
+              "code": "2.12",
+              "title": "Completing the square",
+              "level": 2,
+              "content": "Work out the values of a, b and c such that 2x2 b)2 + 6x + 7 ≡ a(x + + c",
+              "children": []
+            },
+            {
+              "code": "2.13",
+              "title": "Drawing and sketching of functions Interpretation of graphs",
+              "level": 2,
+              "content": "Graphs could be linear, quadratic, exponential and restricted to no more than 3 domains Exponential graphs will be of the form y = abx and y = ab-x, where a and b are rational numbers Sketch the graph of y = x2 – 5x + 6 Label clearly any points of the intersection with the axes A function f is defined as f (x) = x2 0 ⩽ x < 1 = 1 1 ⩽ x < 2 = 3 – x 2 ⩽ x < 3 Draw the graph of y = f(x) on the grid below for values of x from 0 to 3 Given a sketch of y = ab-x, and two points, work out the values of a and b",
+              "children": []
+            },
+            {
+              "code": "2.14",
+              "title": "Solution of linear and quadratic equations",
+              "level": 2,
+              "content": "Solutions of quadratics to include solution by factorisation, by graph, by completing the square or by formula Problems will be set in a variety of contexts, which result in the solution of linear or quadratic equations",
+              "children": []
+            },
+            {
+              "code": "2.15",
+              "title": "Algebraic and graphical solution of simultaneous equations in two unknowns, where the equations could both be linear or one linear and one second order",
+              "level": 2,
+              "content": "Solve 4x – 3y = 0 and 6x + 15y = 13 Solve y = x + 2 and y2 = 4x + 5 Solve y = x2 and y – 5x = 6 Solve xy = 8 and x + y = 6",
+              "children": []
+            },
+            {
+              "code": "2.16",
+              "title": "Algebraic solution of linear equations in three unknowns",
+              "level": 2,
+              "content": "Solve 2x – 5y + 4z = 22 x + y + 2z = 4 x – y – 6z = –4",
+              "children": []
+            },
+            {
+              "code": "2.17",
+              "title": "Solution of linear and quadratic inequalities",
+              "level": 2,
+              "content": "Solve 5(x – 7) > 2(x + 1) Solve x2 < 9 Solve 2x2 + 5x ⩽ 3",
+              "children": []
+            },
+            {
+              "code": "2.18",
+              "title": "Index laws, including fractional and negative indices and the solution of equations",
+              "level": 2,
+              "content": "1 7 Express as a single power of x x2 ×x2 3 7 x2 ×x2 Express as a single power of x x2 1 − Solve x 2 = 3 10 Solve x − =3 x > 0 x",
+              "children": []
+            },
+            {
+              "code": "2.19",
+              "title": "Algebraic proof",
+              "level": 2,
+              "content": "2 2 Prove (n + 5) – (n + 3) is divisible by 4 for any integer value of n",
+              "children": []
+            },
+            {
+              "code": "2.20",
+              "title": "Using nth terms of sequences Limiting value of a sequence as n →∞",
+              "level": 2,
+              "content": "Work out the difference between the 16th and 6th 2n terms of the sequence with nth term n +4 2n Write down the limiting value of as n →∞ n +4",
+              "children": []
+            },
+            {
+              "code": "2.21",
+              "title": "nth terms of linear sequences",
+              "level": 2,
+              "content": "A linear sequence starts 180 176 172 … By using the nth term, work out which term has value –1000 Work out the nth term of the linear sequence r + s r + 3s r + 5s …",
+              "children": []
+            },
+            {
+              "code": "2.22",
+              "title": "nth terms of quadratic sequences",
+              "level": 2,
+              "content": "Work out the nth term of the quadratic sequence 10 16 18 16 … Which term has the value 0? The straight line",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "3",
+          "title": "Coordinate Geometry (2 dimensions only)",
+          "level": 1,
+          "content": "The straight line",
+          "children": [
+            {
+              "code": "3.1",
+              "title": "Know and use the definition of a gradient",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "3.2",
+              "title": "Know the relationship between the gradients of parallel and perpendicular lines",
+              "level": 2,
+              "content": "Show that A (0, 2), B (4, 6) and C (10, 0) form a right-angled triangle",
+              "children": []
+            },
+            {
+              "code": "3.3",
+              "title": "Use Pythagoras’ theorem to calculate the distance between two points",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "3.4",
+              "title": "Use ratio to find the coordinates of a point on a line given the coordinates of two other points.",
+              "level": 2,
+              "content": "Including midpoint",
+              "children": []
+            },
+            {
+              "code": "3.5",
+              "title": "The equation of a straight line y = mx + c and y – y = m (x – x ) 1 1 and other forms",
+              "level": 2,
+              "content": "Including interpretation of the gradient and y- intercept from the equation",
+              "children": []
+            },
+            {
+              "code": "3.6",
+              "title": "Draw a straight line from given information",
+              "level": 2,
+              "content": "The coordinate geometry of circles",
+              "children": []
+            },
+            {
+              "code": "3.7",
+              "title": "Understand that x2 + y2 = r2 is the equation of a circle with centre (0, 0) and radius r",
+              "level": 2,
+              "content": "Including writing down the equation of a circle given centre (0, 0) and radius The application of circle geometry facts where appropriate: the angle in a semi-circle is 90°; the perpendicular from the centre to a chord bisects the chord; the angle between tangent and radius is 90o; tangents from an external point are equal in length.",
+              "children": []
+            },
+            {
+              "code": "3.8",
+              "title": "2 2 2 Understand that (x – a) + (y – b) = r is the equation of a circle with centre (a, b) and radius r",
+              "level": 2,
+              "content": "Including writing down the equation of any circle given centre and radius",
+              "children": []
+            },
+            {
+              "code": "3.9",
+              "title": "The equation of a tangent at a point on a circle",
+              "level": 2,
+              "content": "Differentiation",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "4",
+          "title": "Calculus",
+          "level": 1,
+          "content": "Differentiation",
+          "children": [
+            {
+              "code": "4.1",
+              "title": "dy Know that the gradient function gives the dx gradient of the curve and measures the rate of change of y with respect to x",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "4.2",
+              "title": "Know that the gradient of a function is the gradient of the tangent at that point.",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "4.3",
+              "title": "n Differentiation of kx where n is an integer, and the sum of such functions",
+              "level": 2,
+              "content": "Including expressions which need to be simplified first dy Given y = (3x + 2) (x – 3) work out dx 5 dy Given y = work out x3 dx",
+              "children": []
+            },
+            {
+              "code": "4.4",
+              "title": "The equation of a tangent and normal at any point on a curve",
+              "level": 2,
+              "content": "",
+              "children": []
+            },
+            {
+              "code": "4.5",
+              "title": "Increasing and decreasing functions",
+              "level": 2,
+              "content": "When the gradient is positive/negative a function is described as an increasing/decreasing function",
+              "children": []
+            },
+            {
+              "code": "4.6",
+              "title": "d2y Understand and use the notation dx2",
+              "level": 2,
+              "content": "d2y Know that measures the rate of change of dx2 the gradient function",
+              "children": []
+            },
+            {
+              "code": "4.7",
+              "title": "Use of differentiation to find maxima and minima points on a curve",
+              "level": 2,
+              "content": "Determine the nature either by using increasing d2y and decreasing functions or dx2",
+              "children": []
+            },
+            {
+              "code": "4.8",
+              "title": "Using calculus to find maxima and minima in simple problems",
+              "level": 2,
+              "content": "81 V =49x+ x > 0 x Use calculus to show that V has a minimum value and work out the minimum value of V",
+              "children": []
+            },
+            {
+              "code": "4.9",
+              "title": "Sketch/ interpret a curve with known maximum and minimum points",
+              "level": 2,
+              "content": "All calculations will be restricted to 2 × 2 or 2 × 1 matrices",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "5",
+          "title": "Matrix transformations",
+          "level": 1,
+          "content": "All calculations will be restricted to 2 × 2 or 2 × 1\nmatrices",
+          "children": [
+            {
+              "code": "5.1",
+              "title": "Multiplication of matrices",
+              "level": 2,
+              "content": "Multiplying a 2 × 2 matrix by a 2 × 2 matrix or by a 2 × 1 matrix Multiplication by a scalar",
+              "children": []
+            },
+            {
+              "code": "5.2",
+              "title": "The identity matrix I",
+              "level": 2,
+              "content": "2 × 2 only",
+              "children": []
+            },
+            {
+              "code": "5.3",
+              "title": "Transformations of the unit square in the x – y plane",
+              "level": 2,
+              "content": "Transformations of the unit square in the x – Representation by a 2 × 2 matrix y plane Transformations restricted to rotations of 90o, 180o or 270o about the origin, reflections in the lines x = 0, y = 0, y = x, y = –x and enlargements centred on the origin",
+              "children": []
+            },
+            {
+              "code": "5.4",
+              "title": "Combination of transformations",
+              "level": 2,
+              "content": "Using matrix multiplications Use of i and j notation is not required",
+              "children": []
+            }
+          ]
+        },
+        {
+          "code": "6",
+          "title": "Geometry",
+          "level": 1,
+          "content": "",
+          "children": [
+            {
+              "code": "6.1",
+              "title": "Knowledge of perimeter and area of rectangles",
+              "level": 2,
+              "content": "and circles; and of the area of triangles, parallelograms and trapezia; and of the surface area and volume of prisms, cylinders, spheres, cones and pyramids Knowledge of angle properties of parallel and intersecting lines, triangles, all special types of quadrilaterals and polygons Understand and use circle theorems: Angle at the centre is twice the angle at the circumference; angles in the same segment are equal; opposite angles in cyclic quadrilateral add up to 180°; alternate segment theorem; the theorems listed in the notes of section 3.7 Geometric proof",
+              "children": []
+            },
+            {
+              "code": "6.2",
+              "title": "Understand and construct geometrical proofs",
+              "level": 2,
+              "content": "The use of theorems listed in the notes of 3.7 using formal arguments and 6.1 Trigonometry in triangles",
+              "children": []
+            },
+            {
+              "code": "6.3",
+              "title": "Sine and cosine rules in scalene triangles;",
+              "level": 2,
+              "content": "Knowledge and use of trigonometry to solve right-angled triangles is expected Knowledge and use of trigonometry to solve 1 area of a triangle = ab sinC 2 right-angled triangles is expected Pythagoras’ theorem",
+              "children": []
+            },
+            {
+              "code": "6.4",
+              "title": "Use of Pythagoras’ theorem in 2D and 3D",
+              "level": 2,
+              "content": "Recognise Pythagorean triples; 3, 4, 5; 5,12,13; 8,15,17; 7, 24, 25 and simple multiples of these",
+              "children": []
+            },
+            {
+              "code": "6.5",
+              "title": "Be able to apply trigonometry and",
+              "level": 2,
+              "content": "Including the angle between a line and a plane Pythagoras’ theorem to 2 and 3 dimensional and the angle between two planes; including problems triangles that do not have right angles Ratios of angles and their graphs",
+              "children": []
+            },
+            {
+              "code": "6.6",
+              "title": "Sketch and use graphs of y = sin x, y = cos x",
+              "level": 2,
+              "content": "and y = tan x for angles of any size",
+              "children": []
+            },
+            {
+              "code": "6.7",
+              "title": "Be able to use the definitions sin θ, cos θ and",
+              "level": 2,
+              "content": "Angles measured anticlockwise will be taken as positive tan θ, for any positive angle up to 360°(measured in degrees only)",
+              "children": []
+            },
+            {
+              "code": "6.8",
+              "title": "Knowledge and use of 30°, 60°, 90° triangles",
+              "level": 2,
+              "content": "The use of the ratios 1 : 3 : 2 and 1 : 1 : 2 and 45°, 45°, 90° triangles",
+              "children": []
+            },
+            {
+              "code": "6.9",
+              "title": "sinθ Know and use tanθ = and sin2θ + cosθ",
+              "level": 2,
+              "content": "Including expressions to be simplified, proofs of identities and equations solved ncluding expressions to be simplified, proofs of cos2 θ = 1",
+              "children": []
+            },
+            {
+              "code": "6.10",
+              "title": "Solution of simple trigonometric equations in given intervals",
+              "level": 2,
+              "content": "Solution of simple trigonometric equations in Equations will be restricted to single angles: given intervals sin x = 0.5; 2 sin x = cos x for 0o ⩽ x ⩽ 360o; 1 sin2 x = for 0o ⩽ x ⩽ 360o 4",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
