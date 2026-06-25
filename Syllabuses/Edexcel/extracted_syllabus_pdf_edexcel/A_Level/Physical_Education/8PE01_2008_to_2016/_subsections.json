@@ -1,0 +1,126 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 17,
+  "subsections": [
+    {
+      "file": "001_Section_A_Pearson_Edexcel_Level_3_GCE_in_Physical_Ed.pdf",
+      "code": "Section A",
+      "title": "Pearson Edexcel Level 3 GCE in Physical Education –",
+      "family": "Section",
+      "pages": 12
+    },
+    {
+      "file": "002_1_1_Healthy_and_Active_Lifestyles.pdf",
+      "code": "1.1",
+      "title": "Healthy and Active Lifestyles",
+      "family": "Num",
+      "pages": 4
+    },
+    {
+      "file": "003_1_2_Opportunities_and_pathways.pdf",
+      "code": "1.2",
+      "title": "Opportunities and pathways",
+      "family": "Num",
+      "pages": 5
+    },
+    {
+      "file": "004_2_1_Personal_Performance.pdf",
+      "code": "2.1",
+      "title": "Personal Performance",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_2_2_Local_Study.pdf",
+      "code": "2.2",
+      "title": "Local Study",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_2_3_National_Study.pdf",
+      "code": "2.3",
+      "title": "National Study",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_2_4_Performance_Analysis.pdf",
+      "code": "2.4",
+      "title": "Performance Analysis",
+      "family": "Num",
+      "pages": 13
+    },
+    {
+      "file": "008_3_1_Short_term_preparation.pdf",
+      "code": "3.1",
+      "title": "Short-term preparation",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "009_3_2_Long_term_Preparation.pdf",
+      "code": "3.2",
+      "title": "Long-term Preparation",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_3_3_Managing_elite_performance.pdf",
+      "code": "3.3",
+      "title": "Managing elite performance",
+      "family": "Num",
+      "pages": 4
+    },
+    {
+      "file": "011_4_1_Development_Plan.pdf",
+      "code": "4.1",
+      "title": "Development Plan",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "012_4_2_International_Study.pdf",
+      "code": "4.2",
+      "title": "International Study",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_4_3_Progressive_Participation.pdf",
+      "code": "4.3",
+      "title": "Progressive Participation",
+      "family": "Num",
+      "pages": 4
+    },
+    {
+      "file": "014_Component_1_Planning_and_Researching.pdf",
+      "code": "Component 1",
+      "title": "Planning and Researching",
+      "family": "Component",
+      "pages": 1
+    },
+    {
+      "file": "015_Component_2_Performing_and_Recording.pdf",
+      "code": "Component 2",
+      "title": "Performing and Recording",
+      "family": "Component",
+      "pages": 1
+    },
+    {
+      "file": "016_Component_3_Review_and_Evaluation.pdf",
+      "code": "Component 3",
+      "title": "Review and Evaluation",
+      "family": "Component",
+      "pages": 16
+    },
+    {
+      "file": "017_Section_E_Pearson_Edexcel_Level_3_GCE_in_Physical_Ed.pdf",
+      "code": "Section E",
+      "title": "Pearson Edexcel Level 3 GCE in Physical Education –",
+      "family": "Section",
+      "pages": 3
+    }
+  ]
+}
