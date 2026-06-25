@@ -1,311 +1,276 @@
 {
   "method": "toc",
   "sections": 5,
-  "n": 44,
+  "n": 39,
   "subsections": [
     {
-      "file": "001_2c_Content_of_Pure_Core_Mandatory_papers_Y540.pdf",
-      "code": "2c",
-      "title": "Content of Pure Core (Mandatory papers Y540 and Y541)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_4_01_Proof.pdf",
+      "file": "001_4_01_Proof.pdf",
       "code": "4.01",
       "title": "Proof",
       "kind": "decimal",
-      "pages": 1
+      "pages": 4
     },
     {
-      "file": "003_4_02_Complex_Numbers.pdf",
+      "file": "002_4_02_Complex_Numbers.pdf",
       "code": "4.02",
       "title": "Complex Numbers",
       "kind": "decimal",
-      "pages": 1
+      "pages": 6
     },
     {
-      "file": "004_4_03_Matrices.pdf",
+      "file": "003_4_03_Matrices.pdf",
       "code": "4.03",
       "title": "Matrices",
       "kind": "decimal",
-      "pages": 1
+      "pages": 6
     },
     {
-      "file": "005_4_04_Further_Vectors.pdf",
+      "file": "004_4_04_Further_Vectors.pdf",
       "code": "4.04",
       "title": "Further Vectors",
       "kind": "decimal",
-      "pages": 1
+      "pages": 3
     },
     {
-      "file": "006_4_05_Further_Algebra.pdf",
+      "file": "005_4_05_Further_Algebra.pdf",
       "code": "4.05",
       "title": "Further Algebra",
       "kind": "decimal",
-      "pages": 17
+      "pages": 2
     },
     {
-      "file": "007_4_06_Series.pdf",
+      "file": "006_4_06_Series.pdf",
       "code": "4.06",
       "title": "Series",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "008_4_07_Hyperbolic_Functions.pdf",
+      "file": "007_4_07_Hyperbolic_Functions.pdf",
       "code": "4.07",
       "title": "Hyperbolic Functions",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "009_4_08_Further_Calculus.pdf",
+      "file": "008_4_08_Further_Calculus.pdf",
       "code": "4.08",
       "title": "Further Calculus",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "010_4_09_Polar_Coordinates.pdf",
+      "file": "009_4_09_Polar_Coordinates.pdf",
       "code": "4.09",
       "title": "Polar Coordinates",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "011_4_10_Differential_Equations.pdf",
+      "file": "010_4_10_Differential_Equations.pdf",
       "code": "4.10",
       "title": "Differential Equations",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "012_2d_Content_of_Statistics_Optional_paper_Y542.pdf",
-      "code": "2d",
-      "title": "Content of Statistics (Optional paper Y542)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "013_5_01_Probability.pdf",
+      "file": "011_5_01_Probability.pdf",
       "code": "5.01",
       "title": "Probability",
       "kind": "decimal",
-      "pages": 1
+      "pages": 4
     },
     {
-      "file": "014_5_02_Discrete_Random_Variables.pdf",
+      "file": "012_5_02_Discrete_Random_Variables.pdf",
       "code": "5.02",
       "title": "Discrete Random Variables",
       "kind": "decimal",
-      "pages": 1
+      "pages": 4
     },
     {
-      "file": "015_5_03_Continuous_Random_Variables.pdf",
+      "file": "013_5_03_Continuous_Random_Variables.pdf",
       "code": "5.03",
       "title": "Continuous Random Variables",
       "kind": "decimal",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "016_5_04_Linear_Combinations_of_Random_Variables.pdf",
+      "file": "014_5_04_Linear_Combinations_of_Random_Variables.pdf",
       "code": "5.04",
       "title": "Linear Combinations of Random Variables",
       "kind": "decimal",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "017_5_05_Hypothesis_Tests_and_Confidence_Intervals.pdf",
+      "file": "015_5_05_Hypothesis_Tests_and_Confidence_Intervals.pdf",
       "code": "5.05",
       "title": "Hypothesis Tests and Confidence Intervals",
       "kind": "decimal",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "018_5_06_Chi_squared_Tests.pdf",
+      "file": "016_5_06_Chi_squared_Tests.pdf",
       "code": "5.06",
       "title": "Chi-squared Tests",
       "kind": "decimal",
-      "pages": 10
+      "pages": 2
     },
     {
-      "file": "019_5_07_Non_parametric_tests.pdf",
+      "file": "017_5_07_Non_parametric_tests.pdf",
       "code": "5.07",
       "title": "Non-parametric tests",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "020_5_08_Correlation.pdf",
+      "file": "018_5_08_Correlation.pdf",
       "code": "5.08",
       "title": "Correlation",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "021_5_09_Linear_Regression.pdf",
+      "file": "019_5_09_Linear_Regression.pdf",
       "code": "5.09",
       "title": "Linear Regression",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "022_2e_Content_of_Mechanics_Optional_paper_Y543.pdf",
-      "code": "2e",
-      "title": "Content of Mechanics (Optional paper Y543)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "023_6_01_Dimensional_Analysis.pdf",
+      "file": "020_6_01_Dimensional_Analysis.pdf",
       "code": "6.01",
       "title": "Dimensional Analysis",
       "kind": "decimal",
-      "pages": 1
+      "pages": 3
     },
     {
-      "file": "024_6_02_Work_Energy_and_Power.pdf",
+      "file": "021_6_02_Work_Energy_and_Power.pdf",
       "code": "6.02",
       "title": "Work, Energy and Power",
       "kind": "decimal",
-      "pages": 1
+      "pages": 3
     },
     {
-      "file": "025_6_03_Impulse_and_Momentum.pdf",
+      "file": "022_6_03_Impulse_and_Momentum.pdf",
       "code": "6.03",
       "title": "Impulse and Momentum",
       "kind": "decimal",
-      "pages": 1
+      "pages": 3
     },
     {
-      "file": "026_6_04_Centre_of_Mass.pdf",
+      "file": "023_6_04_Centre_of_Mass.pdf",
       "code": "6.04",
       "title": "Centre of Mass",
       "kind": "decimal",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "027_6_05_Motion_in_a_circle.pdf",
+      "file": "024_6_05_Motion_in_a_Circle.pdf",
       "code": "6.05",
-      "title": "Motion in a circle",
+      "title": "Motion in a Circle",
       "kind": "decimal",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "028_6_06_Further_Dynamics_and_Kinematics.pdf",
+      "file": "025_6_06_Further_Dynamics_and_Kinematics.pdf",
       "code": "6.06",
       "title": "Further Dynamics and Kinematics",
       "kind": "decimal",
-      "pages": 9
-    },
-    {
-      "file": "029_2f_Content_of_Discrete_Mathematics_Optional_p.pdf",
-      "code": "2f",
-      "title": "Content of Discrete Mathematics (Optional paper Y544)",
-      "kind": "overview",
       "pages": 1
     },
     {
-      "file": "030_7_01_Mathematical_Preliminaries.pdf",
+      "file": "026_7_01_Mathematical_Preliminaries.pdf",
       "code": "7.01",
       "title": "Mathematical Preliminaries",
       "kind": "decimal",
-      "pages": 1
+      "pages": 5
     },
     {
-      "file": "031_7_02_Graphs_and_Networks.pdf",
+      "file": "027_7_02_Graphs_and_Networks.pdf",
       "code": "7.02",
       "title": "Graphs and Networks",
       "kind": "decimal",
-      "pages": 1
+      "pages": 4
     },
     {
-      "file": "032_7_03_Algorithms.pdf",
+      "file": "028_7_03_Algorithms.pdf",
       "code": "7.03",
       "title": "Algorithms",
       "kind": "decimal",
-      "pages": 1
+      "pages": 5
     },
     {
-      "file": "033_7_04_Network_Algorithms.pdf",
+      "file": "029_7_04_Network_Algorithms.pdf",
       "code": "7.04",
       "title": "Network Algorithms",
       "kind": "decimal",
-      "pages": 1
+      "pages": 4
     },
     {
-      "file": "034_7_05_Decision_Making_in_Project_Management.pdf",
+      "file": "030_7_05_Decision_Making_in_Project_Management.pdf",
       "code": "7.05",
       "title": "Decision Making in Project Management",
       "kind": "decimal",
-      "pages": 16
+      "pages": 2
     },
     {
-      "file": "035_7_06_Graphical_Linear_Programming.pdf",
+      "file": "031_7_06_Graphical_Linear_Programming.pdf",
       "code": "7.06",
       "title": "Graphical Linear Programming",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "036_7_07_The_Simplex_Algorithm.pdf",
+      "file": "032_7_07_The_Simplex_Algorithm.pdf",
       "code": "7.07",
       "title": "The Simplex Algorithm",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "037_7_08_Game_Theory.pdf",
+      "file": "033_7_08_Game_Theory.pdf",
       "code": "7.08",
       "title": "Game Theory",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "038_2g_Content_of_Additional_Pure_Mathematics_Opt.pdf",
-      "code": "2g",
-      "title": "Content of Additional Pure Mathematics (Optional paper Y545)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "039_8_01_Sequences_and_Series.pdf",
+      "file": "034_8_01_Sequences_and_Series.pdf",
       "code": "8.01",
       "title": "Sequences and Series",
       "kind": "decimal",
-      "pages": 1
+      "pages": 4
     },
     {
-      "file": "040_8_02_Number_Theory.pdf",
+      "file": "035_8_02_Number_Theory.pdf",
       "code": "8.02",
       "title": "Number Theory",
       "kind": "decimal",
-      "pages": 1
+      "pages": 3
     },
     {
-      "file": "041_8_03_Groups.pdf",
+      "file": "036_8_03_Groups.pdf",
       "code": "8.03",
       "title": "Groups",
       "kind": "decimal",
-      "pages": 1
+      "pages": 4
     },
     {
-      "file": "042_8_04_Further_Vectors.pdf",
+      "file": "037_8_04_Further_Vectors.pdf",
       "code": "8.04",
       "title": "Further Vectors",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "043_8_05_Surfaces_and_Partial_Differentiation.pdf",
+      "file": "038_8_05_Surfaces_and_Partial_Differentiation.pdf",
       "code": "8.05",
       "title": "Surfaces and Partial Differentiation",
       "kind": "decimal",
-      "pages": 11
+      "pages": 3
     },
     {
-      "file": "044_8_06_Further_Calculus.pdf",
+      "file": "039_8_06_Further_Calculus.pdf",
       "code": "8.06",
       "title": "Further Calculus",
       "kind": "decimal",

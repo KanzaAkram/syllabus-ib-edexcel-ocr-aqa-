@@ -1,157 +1,136 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 22,
+  "n": 19,
   "subsections": [
     {
-      "file": "001_1_Pure_Mathematics.pdf",
-      "code": "1",
-      "title": "Pure Mathematics",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "002_1_01_Proof.pdf",
+      "file": "001_1_01_Proof.pdf",
       "code": "1.01",
       "title": "Proof",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "003_1_02_Algebra_and_Functions.pdf",
+      "file": "002_1_02_Algebra_and_Functions.pdf",
       "code": "1.02",
       "title": "Algebra and Functions",
       "kind": "decimal",
       "pages": 8
     },
     {
-      "file": "004_1_03_Coordinate_Geometry_in_the_x_y_Plane.pdf",
+      "file": "003_1_03_Coordinate_Geometry_in_the_x_y_Plane.pdf",
       "code": "1.03",
       "title": "Coordinate Geometry in the x–y Plane",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "005_1_04_Sequences_and_Series.pdf",
+      "file": "004_1_04_Sequences_and_Series.pdf",
       "code": "1.04",
       "title": "Sequences and Series",
       "kind": "decimal",
       "pages": 4
     },
     {
-      "file": "006_1_05_Trigonometry.pdf",
+      "file": "005_1_05_Trigonometry.pdf",
       "code": "1.05",
       "title": "Trigonometry",
       "kind": "decimal",
       "pages": 4
     },
     {
-      "file": "007_1_06_Exponentials_and_Logarithms.pdf",
+      "file": "006_1_06_Exponentials_and_Logarithms.pdf",
       "code": "1.06",
       "title": "Exponentials and Logarithms",
       "kind": "decimal",
       "pages": 4
     },
     {
-      "file": "008_1_07_Differentiation.pdf",
+      "file": "007_1_07_Differentiation.pdf",
       "code": "1.07",
       "title": "Differentiation",
       "kind": "decimal",
       "pages": 4
     },
     {
-      "file": "009_1_08_Integration.pdf",
+      "file": "008_1_08_Integration.pdf",
       "code": "1.08",
       "title": "Integration",
       "kind": "decimal",
       "pages": 4
     },
     {
-      "file": "010_1_09_Numerical_Methods.pdf",
+      "file": "009_1_09_Numerical_Methods.pdf",
       "code": "1.09",
       "title": "Numerical Methods",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "011_1_10_Vectors.pdf",
+      "file": "010_1_10_Vectors.pdf",
       "code": "1.10",
       "title": "Vectors",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "012_2_Statistics.pdf",
-      "code": "2",
-      "title": "Statistics",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "013_2_01_Statistical_Sampling.pdf",
+      "file": "011_2_01_Statistical_Sampling.pdf",
       "code": "2.01",
       "title": "Statistical Sampling",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "014_2_02_Data_Presentation_and_Interpretation.pdf",
+      "file": "012_2_02_Data_Presentation_and_Interpretation.pdf",
       "code": "2.02",
       "title": "Data Presentation and Interpretation",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "015_2_03_Probability.pdf",
+      "file": "013_2_03_Probability.pdf",
       "code": "2.03",
       "title": "Probability",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "016_2_04_Statistical_Distributions.pdf",
+      "file": "014_2_04_Statistical_Distributions.pdf",
       "code": "2.04",
       "title": "Statistical Distributions",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "017_2_05_Statistical_Hypothesis_Testing.pdf",
+      "file": "015_2_05_Statistical_Hypothesis_Testing.pdf",
       "code": "2.05",
       "title": "Statistical Hypothesis Testing",
       "kind": "decimal",
       "pages": 5
     },
     {
-      "file": "018_3_Mechanics.pdf",
-      "code": "3",
-      "title": "Mechanics",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "019_3_01_Quantities_and_Units_in_Mechanics.pdf",
+      "file": "016_3_01_Quantities_and_Units_in_Mechanics.pdf",
       "code": "3.01",
       "title": "Quantities and Units in Mechanics",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "020_3_02_Kinematics.pdf",
+      "file": "017_3_02_Kinematics.pdf",
       "code": "3.02",
       "title": "Kinematics",
       "kind": "decimal",
       "pages": 5
     },
     {
-      "file": "021_3_03_Forces_and_Newton_s_Laws.pdf",
+      "file": "018_3_03_Forces_and_Newton_s_Laws.pdf",
       "code": "3.03",
       "title": "Forces and Newton’s Laws",
       "kind": "decimal",
       "pages": 8
     },
     {
-      "file": "022_3_04_Moments.pdf",
+      "file": "019_3_04_Moments.pdf",
       "code": "3.04",
       "title": "Moments",
       "kind": "decimal",

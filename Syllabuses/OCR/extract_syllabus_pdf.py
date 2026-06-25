@@ -558,7 +558,8 @@ def _heading_candidates(doc, sec, body_size, brand):
                           and ln["size"] >= body_size - 0.5 and len(t) <= 95)
             if not (brand_hit or black_hit or marker_hit or cell_head):
                 continue
-            out.append({"page": pno, "y": ln["y0"], "size": round(ln["size"], 1),
+            out.append({"page": pno, "y": ln["y0"], "x0": ln["x0"],
+                        "size": round(ln["size"], 1),
                         "color": ln["color"], "brand": brand_hit, "raw": t,
                         "kind": cl[0] if cl else "label",
                         "code": cl[1] if cl else "",
@@ -643,7 +644,36 @@ def _build_tree(heads):
 OVERVIEW_PROSE_GAP = 38.0    # a child this far below its parent => parent has its own prose
 
 
-def _collect_units_from_tree(roots, sec):
+def _gap_has_real_prose(doc, pno, y_start, y_end, body_size):
+    """True if there is at least one non-table-header, non-chrome text line
+    strictly between y_start and y_end on page pno. Used to decide whether a
+    section-divider heading (e.g. Economics '2. The role of markets') has real
+    teachable prose before its first child, or only a table column-header row
+    like 'Topic | Students should be able to:' which must not trigger a
+    standalone PDF for the parent heading."""
+    if pno < 0 or pno >= doc.page_count:
+        return False
+    for ln in get_page_lines(doc[pno]):
+        if ln["y0"] <= y_start + 1 or ln["y0"] >= y_end - 1:
+            continue
+        t = norm_ws(ln["text"])
+        if not t:
+            continue
+        # White text on a coloured table-header bar (e.g. "Teaching content |
+        # Breadth and depth" on a teal bar in Cambridge Nationals specs).
+        if _is_whiteish(ln["color"]):
+            continue
+        if _COL_HEADER_RE.match(t):
+            continue
+        if OCR_FOOTER_RE.search(t) or re.fullmatch(r"\d{1,4}", t):
+            continue
+        if ln["size"] < body_size - 1.5:
+            continue
+        return True
+    return False
+
+
+def _collect_units_from_tree(roots, sec, doc=None, body_size=None):
     """Cut the heading tree into sub-topic units, mirroring the AQA tool: a coded
     grouping with children becomes an overview file (when it carries its own
     prose) plus one file per child sub-topic, recursing to the deepest level;
@@ -659,17 +689,13 @@ def _collect_units_from_tree(roots, sec):
         if not children:
             units.append({"node": node, "start": lead})
             return
-        first = children[0]
-        cp, cy = start_of(first)
-        np_, ny = start_of(node)
-        has_prose = (cp > np_) or (cy - ny > OVERVIEW_PROSE_GAP)
-        if has_prose:
-            units.append({"node": node, "start": lead})
-            child_lead = None
-        else:
-            child_lead = lead          # fold this grouping's heading into first child
+        # Always fold the parent heading (and any intro prose or column headers
+        # between it and the first child) into the first child's file. This
+        # ensures section-divider headings such as "1 – Pure Mathematics" or
+        # "2. The role of markets" appear at the top of the first subtopic file
+        # rather than in a separate standalone PDF.
         for k, c in enumerate(children):
-            cl = child_lead if (k == 0 and child_lead is not None) else start_of(c)
+            cl = lead if k == 0 else start_of(c)
             walk(c, cl)
 
     for r in roots:
@@ -720,7 +746,8 @@ def _harvest_code_cells(doc, sec, body_size):
                                              r"calculate|state|define|identify)\b", ot, re.I)):
                         title = ot
                         break
-            out.append({"page": pno, "y": ln["y0"], "size": round(ln["size"], 1),
+            out.append({"page": pno, "y": ln["y0"], "x0": ln["x0"],
+                        "size": round(ln["size"], 1),
                         "color": ln["color"], "brand": False, "raw": t, "kind": "decimal",
                         "code": t, "title": title, "level": 1 + t.count(".")})
     return out
@@ -730,7 +757,9 @@ _COL_HEADER_RE = re.compile(
     r"^(area\s+of\s+study|content|topic|learners?\s+should|students?\s+should"
     r"|reference|key\s+knowledge|key\s+concepts|amplification|guidance|sub.?topic"
     r"|additional\s+guidance|specification|detail|notes?|opportunities|maths"
-    r"|working\s+scientifically|practical|to\s+include|statement)\b", re.I)
+    r"|working\s+scientifically|practical|to\s+include|statement"
+    r"|teaching|breadth|objectives?|assessment\s+criteria|skills?\s+and"
+    r"|knowledge\s+and|understanding)\b", re.I)
 
 
 def _harvest_row_labels(doc, sec, body_size):
@@ -768,7 +797,8 @@ def _harvest_row_labels(doc, sec, body_size):
                          r"|learners?\b|students?\b|study\s+of|\bthrough\b|key\s+knowledge",
                          title, re.I):
                 continue
-            out.append({"page": pno, "y": g[0]["y0"], "size": round(g[0]["size"], 1),
+            out.append({"page": pno, "y": g[0]["y0"], "x0": g[0]["x0"],
+                        "size": round(g[0]["size"], 1),
                         "color": g[0]["color"], "brand": False, "raw": title,
                         "kind": "rowlabel", "code": "", "title": title, "level": 1})
     return out
@@ -788,6 +818,68 @@ def _merge_by_pos(base, extra):
     return out
 
 
+def _sort_column_aware(heads, doc):
+    """Re-sort headings for two-column layout specs (e.g. OCR Further Maths).
+    When a single page has headings in both a left column (x < ~45% of page
+    width) and a right column (x >= ~45%), a naive y-sort produces wrong order:
+    the right-column top (small y) appears before the left-column bottom (large
+    y), causing the last left-column topic to absorb everything to the right.
+    Fix: on two-column pages, sort left-column headings before right-column
+    ones regardless of y, preserving top-to-bottom order within each column."""
+    by_page: dict = {}
+    for h in heads:
+        by_page.setdefault(h["page"], []).append(h)
+
+    two_col: set = set()
+    for pno, phs in by_page.items():
+        if pno < 0 or pno >= doc.page_count:
+            continue
+        pw = page_dims(doc[pno])[0]
+        split = pw * 0.44
+        has_left = any(h["x0"] < split for h in phs)
+        has_right = any(h["x0"] >= split + pw * 0.04 for h in phs)
+        if has_left and has_right:
+            two_col.add(pno)
+
+    if not two_col:
+        return heads  # already sorted correctly
+
+    def _col_key(h):
+        if h["page"] not in two_col:
+            return (h["page"], 0, h["y"])
+        pw = page_dims(doc[h["page"]])[0]
+        col = 1 if h["x0"] >= pw * 0.44 else 0
+        return (h["page"], col, h["y"])
+
+    return sorted(heads, key=_col_key)
+
+
+def _prefer_landscape_headings(heads, doc):
+    """For specs that have a portrait overview page (e.g. OCR Further Maths):
+    when the same topic code (e.g. '4.05') appears on both a portrait page
+    (rotation=0) and a landscape content page (rotation=90/270), drop the
+    portrait instances and keep the landscape ones.  The landscape pages carry
+    the actual content so their positions give the correct crop boundaries.
+    If all pages share the same rotation the function is a no-op."""
+    from collections import defaultdict
+    code_rots: dict = defaultdict(set)
+    for h in heads:
+        code = h.get("code", "")
+        if code and 0 <= h["page"] < doc.page_count:
+            code_rots[code].add(doc[h["page"]].rotation)
+
+    # Codes that appear on BOTH portrait (0°) and landscape (90°/270°) pages
+    mixed = {code for code, rots in code_rots.items()
+             if 0 in rots and rots - {0}}
+    if not mixed:
+        return heads
+
+    return [h for h in heads
+            if not (h.get("code") in mixed
+                    and 0 <= h["page"] < doc.page_count
+                    and doc[h["page"]].rotation == 0)]
+
+
 def collect_units_for_section(doc, sec, body_size, brand):
     """Sub-topic units inside one content section. Falls back to a single
     whole-section unit when no consistent internal heading structure exists."""
@@ -797,6 +889,8 @@ def collect_units_for_section(doc, sec, body_size, brand):
     cells = _harvest_code_cells(doc, sec, body_size)
     if len(cells) >= 2:
         heads = _merge_by_pos(heads, cells)
+    heads = _prefer_landscape_headings(heads, doc)
+    heads = _sort_column_aware(heads, doc)
     heads = _dedupe_headings(heads)
     # Keep only real classified headings for the tree; drop stray labels unless
     # they are the only structure we have (codeless brand labels = Psychology).
@@ -822,17 +916,15 @@ def collect_units_for_section(doc, sec, body_size, brand):
 
     _assign_levels(structured)
     tree = _build_tree(structured)
-    units = _collect_units_from_tree(tree, sec)
+    units = _collect_units_from_tree(tree, sec, doc=doc, body_size=body_size)
 
-    # Optional leading "Overview" unit for section intro prose before first unit.
+    # If the section starts before the first detected subtopic heading (intro prose
+    # or a section title above the first heading), pull the first subtopic's start
+    # back to include that content rather than creating a separate overview file.
     f = units[0]
-    intro = (f["start_page"] > sec["start_page"]) or (f["start_y"] - sec["start_y"] > 120)
-    if intro:
-        sec_title = re.sub(r"^\s*\d{1,2}[a-z]?(?:\([ivx]+\))?\.?\s*", "", sec["title"]).strip()
-        units.insert(0, {"code": sec["code"], "title": sec_title or "Overview",
-                         "kind": "overview",
-                         "start_page": sec["start_page"], "start_y": sec["start_y"],
-                         "end_page": f["start_page"], "end_y": f["start_y"]})
+    if (f["start_page"] > sec["start_page"]) or (f["start_y"] - sec["start_y"] > 2):
+        units[0]["start_page"] = sec["start_page"]
+        units[0]["start_y"] = sec["start_y"]
     return units
 
 
@@ -1029,6 +1121,22 @@ def page_crop(page, body_size, is_start, is_end, start_y, end_y, cache):
 
     y_lo = max(head, start_y) if is_start else head
     y_hi = min(foot, end_y) if is_end else foot
+
+    # Bleeding fix: when this is the last page of a unit, a full-width colored
+    # heading bar for the NEXT unit may start just above end_y (bar top < end_y
+    # but bar bottom > end_y - 35) and bleed into this unit's crop.  Clip y_hi
+    # to just before the bar top.  Height gated to 5-35 pt to exclude tall
+    # table-background fills; width gated to 45% of content column width.
+    if is_end and end_y < 1e9:
+        cw = cx1 - cx0
+        for r, fill in get_page_drawings(page):
+            h = r.y1 - r.y0
+            if (fill is not None and _fill_not_white(fill)
+                    and r.width >= cw * 0.45
+                    and 5.0 <= h <= 35.0
+                    and r.y0 < end_y and r.y1 > end_y - 35):
+                y_hi = min(y_hi, r.y0 - 1.0)
+
     if y_hi - y_lo < MIN_BAND:
         return None
 

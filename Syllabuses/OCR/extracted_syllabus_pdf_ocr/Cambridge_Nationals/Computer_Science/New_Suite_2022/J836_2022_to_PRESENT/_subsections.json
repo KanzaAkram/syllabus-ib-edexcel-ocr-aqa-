@@ -1,598 +1,507 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 85,
+  "n": 72,
   "subsections": [
     {
-      "file": "001_Subject_content.pdf",
-      "code": "",
-      "title": "Subject content",
-      "kind": "overview",
-      "pages": 10
-    },
-    {
-      "file": "002_2_1_OCR_Level_1_Level_2_Cambridge_National_in_.pdf",
-      "code": "2.1",
-      "title": "OCR Level 1/Level 2 Cambridge National in IT at a glance",
-      "kind": "decimal",
-      "pages": 7
-    },
-    {
-      "file": "003_Unit_R050_IT_in_the_digital_world.pdf",
+      "file": "001_Unit_R050_IT_in_the_digital_world.pdf",
       "code": "Unit R050",
       "title": "IT in the digital world",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "004_Topic_Area_1_Design_tools.pdf",
-      "code": "Topic Area 1",
-      "title": "Design tools",
-      "kind": "Topic Area",
-      "pages": 1
-    },
-    {
-      "file": "005_1_1_Types_of_design_tools.pdf",
+      "file": "002_1_1_Types_of_design_tools.pdf",
       "code": "1.1",
       "title": "Types of design tools",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "006_Topic_Area_2_Human_Computer_Interface_HCI_in_everyday_l.pdf",
-      "code": "Topic Area 2",
-      "title": "Human Computer Interface (HCI) in everyday life",
-      "kind": "Topic Area",
-      "pages": 1
-    },
-    {
-      "file": "007_2_1_The_purpose_importance_and_use_of_HCI_in_a.pdf",
+      "file": "003_2_1_The_purpose_importance_and_use_of_HCI_in_a.pdf",
       "code": "2.1",
       "title": "The purpose, importance and use of HCI in application areas",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "008_2_2_Hardware_considerations.pdf",
+      "file": "004_2_2_Hardware_considerations.pdf",
       "code": "2.2",
       "title": "Hardware considerations",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "009_2_3_Software_considerations.pdf",
+      "file": "005_2_3_Software_considerations.pdf",
       "code": "2.3",
       "title": "Software considerations",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "010_2_4_User_interaction_methods.pdf",
+      "file": "006_2_4_User_interaction_methods.pdf",
       "code": "2.4",
       "title": "User interaction methods",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "011_Topic_Area_3_Data_and_testing.pdf",
-      "code": "Topic Area 3",
-      "title": "Data and testing",
-      "kind": "Topic Area",
-      "pages": 1
-    },
-    {
-      "file": "012_3_1_Information_and_data.pdf",
+      "file": "007_3_1_Information_and_data.pdf",
       "code": "3.1",
       "title": "Information and data",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "013_3_2_1_Use_of_data_types_in_different_contexts.pdf",
+      "file": "008_3_2_1_Use_of_data_types_in_different_contexts.pdf",
       "code": "3.2.1",
       "title": "Use of data types in different contexts",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "014_3_2_2_The_difference_between_validation_and.pdf",
+      "file": "009_3_2_2_The_difference_between_validation_and.pdf",
       "code": "3.2.2",
       "title": "The difference between validation and",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "015_3_2_3_Data_validation_tools.pdf",
+      "file": "010_3_2_3_Data_validation_tools.pdf",
       "code": "3.2.3",
       "title": "Data validation tools",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "016_3_2_4_Data_verification_tools.pdf",
+      "file": "011_3_2_4_Data_verification_tools.pdf",
       "code": "3.2.4",
       "title": "Data verification tools",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "017_3_3_Data_collection_methods.pdf",
+      "file": "012_3_3_Data_collection_methods.pdf",
       "code": "3.3",
       "title": "Data collection methods",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "018_3_4_Storage_of_collected_data.pdf",
+      "file": "013_3_4_Storage_of_collected_data.pdf",
       "code": "3.4",
       "title": "Storage of collected data",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "019_3_5_1_Importance_and_purpose_of_testing.pdf",
+      "file": "014_3_5_1_Importance_and_purpose_of_testing.pdf",
       "code": "3.5.1",
       "title": "Importance and purpose of testing",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "020_3_5_2_Test_data.pdf",
+      "file": "015_3_5_2_Test_data.pdf",
       "code": "3.5.2",
       "title": "Test data",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "021_3_5_3_Types_of_testing.pdf",
+      "file": "016_3_5_3_Types_of_testing.pdf",
       "code": "3.5.3",
       "title": "Types of testing",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "022_4_1_Threats.pdf",
+      "file": "017_4_1_Threats.pdf",
       "code": "4.1",
       "title": "Threats",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "023_4_2_The_impacts_of_a_cyber_security_attack_on_.pdf",
+      "file": "018_4_2_The_impacts_of_a_cyber_security_attack_on_.pdf",
       "code": "4.2",
       "title": "The impacts of a cyber-security attack on individuals and/or organisations",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "024_4_3_Prevention_Measures.pdf",
+      "file": "019_4_3_Prevention_Measures.pdf",
       "code": "4.3",
       "title": "Prevention Measures",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "025_4_4_Legislation_related_to_the_use_of_IT_syste.pdf",
+      "file": "020_4_4_Legislation_related_to_the_use_of_IT_syste.pdf",
       "code": "4.4",
       "title": "Legislation related to the use of IT systems",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "026_Topic_Area_5_Digital_communications.pdf",
-      "code": "Topic Area 5",
-      "title": "Digital communications",
-      "kind": "Topic Area",
-      "pages": 1
-    },
-    {
-      "file": "027_5_1_Types.pdf",
+      "file": "021_5_1_Types.pdf",
       "code": "5.1",
       "title": "Types",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "028_5_2_Software.pdf",
+      "file": "022_5_2_Software.pdf",
       "code": "5.2",
       "title": "Software",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "029_5_3_Digital_devices.pdf",
+      "file": "023_5_3_Digital_devices.pdf",
       "code": "5.3",
       "title": "Digital devices",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "030_5_4_1_Types_of_distribution_channel.pdf",
+      "file": "024_5_4_1_Types_of_distribution_channel.pdf",
       "code": "5.4.1",
       "title": "Types of distribution channel",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "031_5_4_2_Distribution_channel_connectivity.pdf",
+      "file": "025_5_4_2_Distribution_channel_connectivity.pdf",
       "code": "5.4.2",
       "title": "Distribution channel connectivity",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "032_5_5_Audience_demographics.pdf",
+      "file": "026_5_5_Audience_demographics.pdf",
       "code": "5.5",
       "title": "Audience demographics",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "033_Topic_Area_6_Internet_of_Everything_IoE.pdf",
-      "code": "Topic Area 6",
-      "title": "Internet of Everything (IoE)",
-      "kind": "Topic Area",
-      "pages": 1
-    },
-    {
-      "file": "034_6_1_Use_of_IoE.pdf",
+      "file": "027_6_1_Use_of_IoE.pdf",
       "code": "6.1",
       "title": "Use of IoE",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "035_6_2_Application_areas_in_everyday_life.pdf",
+      "file": "028_6_2_Application_areas_in_everyday_life.pdf",
       "code": "6.2",
       "title": "Application areas in everyday life",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "036_Unit_R060_Data_manipulation_using_spreadsheets.pdf",
+      "file": "029_Unit_R060_Data_manipulation_using_spreadsheets.pdf",
       "code": "Unit R060",
       "title": "Data manipulation using spreadsheets",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "037_Topic_Area_1_Planning_and_designing_the_spreadsheet_sol.pdf",
-      "code": "Topic Area 1",
-      "title": "Planning and designing the spreadsheet solution",
-      "kind": "Topic Area",
-      "pages": 1
-    },
-    {
-      "file": "038_1_1_Design_tools.pdf",
+      "file": "030_1_1_Design_tools.pdf",
       "code": "1.1",
       "title": "Design tools",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "039_1_2_1_Functionality.pdf",
+      "file": "031_1_2_1_Functionality.pdf",
       "code": "1.2.1",
       "title": "Functionality",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "040_1_2_2_Types_of_outputs_that_clearly_present.pdf",
+      "file": "032_1_2_2_Types_of_outputs_that_clearly_present.pdf",
       "code": "1.2.2",
       "title": "Types of outputs that clearly present",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "041_1_2_3_Human_Computer_Interface_HCI.pdf",
+      "file": "033_1_2_3_Human_Computer_Interface_HCI.pdf",
       "code": "1.2.3",
       "title": "Human Computer Interface (HCI)",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "042_2_1_1_Data_handling_and_manipulation.pdf",
+      "file": "034_2_1_1_Data_handling_and_manipulation.pdf",
       "code": "2.1.1",
       "title": "Data handling and manipulation",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "043_2_1_2_Techniques_to_generate_the_outputs.pdf",
+      "file": "035_2_1_2_Techniques_to_generate_the_outputs.pdf",
       "code": "2.1.2",
       "title": "Techniques to generate the outputs",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "044_2_1_3_User_interface.pdf",
+      "file": "036_2_1_3_User_interface.pdf",
       "code": "2.1.3",
       "title": "User interface",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "045_Topic_Area_3_Testing_the_spreadsheet_solution.pdf",
-      "code": "Topic Area 3",
-      "title": "Testing the spreadsheet solution",
-      "kind": "Topic Area",
-      "pages": 1
-    },
-    {
-      "file": "046_3_1_Test_the_user_interface_and_the_technical_.pdf",
+      "file": "037_3_1_Test_the_user_interface_and_the_technical_.pdf",
       "code": "3.1",
       "title": "Test the user interface and the technical aspects of the spreadsheet solution",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "047_Topic_Area_4_Evaluating_the_spreadsheet_solution.pdf",
-      "code": "Topic Area 4",
-      "title": "Evaluating the spreadsheet solution",
-      "kind": "Topic Area",
-      "pages": 1
-    },
-    {
-      "file": "048_4_1_Methods_used_to_evaluate_the_success_of_th.pdf",
+      "file": "038_4_1_Methods_used_to_evaluate_the_success_of_th.pdf",
       "code": "4.1",
       "title": "Methods used to evaluate the success of the spreadsheet solution",
       "kind": "decimal",
       "pages": 4
     },
     {
-      "file": "049_1_1_and_1_2.pdf",
+      "file": "039_1_1_and_1_2.pdf",
       "code": "1.1",
       "title": "and 1.2",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "050_2_1_1.pdf",
+      "file": "040_2_1_1.pdf",
       "code": "2.1",
       "title": "1",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "051_3_1_1.pdf",
+      "file": "041_3_1_1.pdf",
       "code": "3.1",
       "title": "1",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "052_4_1_1.pdf",
+      "file": "042_4_1_1.pdf",
       "code": "4.1",
       "title": "1",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "053_Unit_R070_Using_Augmented_Reality_to_present_informa.pdf",
+      "file": "043_Unit_R070_Using_Augmented_Reality_to_present_informa.pdf",
       "code": "Unit R070",
       "title": "Using Augmented Reality to present information",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "054_Topic_Area_1_Augmented_Reality_AR.pdf",
-      "code": "Topic Area 1",
-      "title": "Augmented Reality (AR)",
-      "kind": "Topic Area",
-      "pages": 1
-    },
-    {
-      "file": "055_1_1_Purpose_and_uses_of_Augmented_Reality_AR.pdf",
+      "file": "044_1_1_Purpose_and_uses_of_Augmented_Reality_AR.pdf",
       "code": "1.1",
       "title": "Purpose and uses of Augmented Reality (AR)",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "056_1_2_Types_of_Augmented_Reality_AR_and_user_int.pdf",
+      "file": "045_1_2_Types_of_Augmented_Reality_AR_and_user_int.pdf",
       "code": "1.2",
       "title": "Types of Augmented Reality (AR) and user interaction",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "057_1_3_Devices_used_with_Augmented_Reality_AR.pdf",
+      "file": "046_1_3_Devices_used_with_Augmented_Reality_AR.pdf",
       "code": "1.3",
       "title": "Devices used with Augmented Reality (AR)",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "058_2_1_Planning_and_design_considerations.pdf",
+      "file": "047_2_1_Planning_and_design_considerations.pdf",
       "code": "2.1",
       "title": "Planning and design considerations",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "059_2_2_Design_Tools.pdf",
+      "file": "048_2_2_Design_Tools.pdf",
       "code": "2.2",
       "title": "Design Tools",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "060_3_1_Augmented_Reality_AR_model_prototype.pdf",
+      "file": "049_3_1_Augmented_Reality_AR_model_prototype.pdf",
       "code": "3.1",
       "title": "Augmented Reality (AR) model prototype",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "061_3_2_Triggers.pdf",
+      "file": "050_3_2_Triggers.pdf",
       "code": "3.2",
       "title": "Triggers",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "062_3_3_Layers_user_interaction.pdf",
+      "file": "051_3_3_Layers_user_interaction.pdf",
       "code": "3.3",
       "title": "Layers / user interaction",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "063_3_4_information_output.pdf",
+      "file": "052_3_4_information_output.pdf",
       "code": "3.4",
       "title": "information output",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "064_4_1_Testing.pdf",
+      "file": "053_4_1_Testing.pdf",
       "code": "4.1",
       "title": "Testing",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "065_4_2_Reviewing_the_process_of_creating_the_Augm.pdf",
-      "code": "4.2",
-      "title": "Reviewing the process of creating the Augmented Reality (AR) model prototype",
-      "kind": "decimal",
-      "pages": 9
-    },
-    {
-      "file": "066_6_1_1_Centre_and_teacher_assessor_responsibiliti.pdf",
+      "file": "054_6_1_1_Centre_and_teacher_assessor_responsibiliti.pdf",
       "code": "6.1.1",
       "title": "Centre and teacher/assessor responsibilities",
       "kind": "decimal",
-      "pages": 3
+      "pages": 11
     },
     {
-      "file": "067_6_2_1_Ways_to_authenticate_work.pdf",
+      "file": "055_6_2_1_Ways_to_authenticate_work.pdf",
       "code": "6.2.1",
       "title": "Ways to authenticate work",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "068_6_2_2_Plagiarism_including_AI_misuse.pdf",
+      "file": "056_6_2_2_Plagiarism_including_AI_misuse.pdf",
       "code": "6.2.2",
       "title": "Plagiarism (including AI misuse)",
       "kind": "decimal",
       "pages": 4
     },
     {
-      "file": "069_6_3_1_Reporting_suspected_malpractice.pdf",
+      "file": "057_6_3_1_Reporting_suspected_malpractice.pdf",
       "code": "6.3.1",
       "title": "Reporting suspected malpractice",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "070_6_3_2_Supervision.pdf",
+      "file": "058_6_3_2_Supervision.pdf",
       "code": "6.3.2",
       "title": "Supervision",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "071_6_3_3_Student_and_centre_declarations.pdf",
+      "file": "059_6_3_3_Student_and_centre_declarations.pdf",
       "code": "6.3.3",
       "title": "Student and centre declarations",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "072_6_3_4_Group_working.pdf",
+      "file": "060_6_3_4_Group_working.pdf",
       "code": "6.3.4",
       "title": "Group working",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "073_6_3_5_Methods_of_assessment.pdf",
+      "file": "061_6_3_5_Methods_of_assessment.pdf",
       "code": "6.3.5",
       "title": "Methods of assessment",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "074_6_3_6_Presentation_of_the_final_piece_of_work.pdf",
+      "file": "062_6_3_6_Presentation_of_the_final_piece_of_work.pdf",
       "code": "6.3.6",
       "title": "Presentation of the final piece of work",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "075_6_4_1_Use_of_a_best_fit_approach_to_marking_crit.pdf",
+      "file": "063_6_4_1_Use_of_a_best_fit_approach_to_marking_crit.pdf",
       "code": "6.4.1",
       "title": "Use of a ‘best fit’ approach to marking criteria",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "076_6_4_2_Annotating_students_work.pdf",
+      "file": "064_6_4_2_Annotating_students_work.pdf",
       "code": "6.4.2",
       "title": "Annotating students' work",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "077_6_4_3_Internal_standardisation.pdf",
+      "file": "065_6_4_3_Internal_standardisation.pdf",
       "code": "6.4.3",
       "title": "Internal standardisation",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "078_6_4_4_Reattempting_work_before_submitting_marks_.pdf",
+      "file": "066_6_4_4_Reattempting_work_before_submitting_marks_.pdf",
       "code": "6.4.4",
       "title": "Reattempting work before submitting marks to OCR",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "079_6_4_5_Submitting_marks.pdf",
+      "file": "067_6_4_5_Submitting_marks.pdf",
       "code": "6.4.5",
       "title": "Submitting marks",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "080_6_5_1_Sample_requests.pdf",
+      "file": "068_6_5_1_Sample_requests.pdf",
       "code": "6.5.1",
       "title": "Sample requests",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "081_6_5_2_Outcome_of_moderation.pdf",
+      "file": "069_6_5_2_Outcome_of_moderation.pdf",
       "code": "6.5.2",
       "title": "Outcome of moderation",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "082_6_6_Resubmitting_moderated_work_to_us_to_impro.pdf",
+      "file": "070_6_6_Resubmitting_moderated_work_to_us_to_impro.pdf",
       "code": "6.6",
       "title": "Resubmitting moderated work to us to improve the grade",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "083_6_7_Recording_feedback_and_decisions.pdf",
-      "code": "6.7",
-      "title": "Recording feedback and decisions",
+      "file": "071_7_6_1_Making_estimated_unit_entries.pdf",
+      "code": "7.6.1",
+      "title": "Making estimated unit entries",
       "kind": "decimal",
       "pages": 5
     },
     {
-      "file": "084_7_6_1_Making_estimated_unit_entries.pdf",
-      "code": "7.6.1",
-      "title": "Making estimated unit entries",
-      "kind": "decimal",
-      "pages": 1
-    },
-    {
-      "file": "085_7_6_2_Making_final_unit_entries.pdf",
+      "file": "072_7_6_2_Making_final_unit_entries.pdf",
       "code": "7.6.2",
       "title": "Making final unit entries",
       "kind": "decimal",

@@ -1,437 +1,353 @@
 {
   "method": "toc",
   "sections": 3,
-  "n": 62,
+  "n": 50,
   "subsections": [
     {
-      "file": "001_2c_Content_of_Component_1_Microeconomics_H460.pdf",
-      "code": "2c",
-      "title": "Content of Component 1: Microeconomics (H460/01)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_1_Introduction_to_Microeconomics.pdf",
-      "code": "1",
-      "title": "Introduction to Microeconomics",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "003_1_1_The_economic.pdf",
+      "file": "001_1_1_The_economic.pdf",
       "code": "1.1",
       "title": "The economic",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "004_1_2_The_allocation_of.pdf",
+      "file": "002_1_2_The_allocation_of.pdf",
       "code": "1.2",
       "title": "The allocation of",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "005_1_3_Opportunity_cost.pdf",
+      "file": "003_1_3_Opportunity_cost.pdf",
       "code": "1.3",
       "title": "Opportunity cost",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "006_2_The_role_of_markets.pdf",
-      "code": "2",
-      "title": "The role of markets",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "007_2_1_Specialisation.pdf",
+      "file": "004_2_1_Specialisation.pdf",
       "code": "2.1",
       "title": "Specialisation",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "008_2_2_Demand.pdf",
+      "file": "005_2_2_Demand.pdf",
       "code": "2.2",
       "title": "Demand",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "009_2_3_Supply.pdf",
+      "file": "006_2_3_Supply.pdf",
       "code": "2.3",
       "title": "Supply",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "010_2_4_Consumer_and.pdf",
+      "file": "007_2_4_Consumer_and.pdf",
       "code": "2.4",
       "title": "Consumer and",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "011_2_5_The_interaction.pdf",
+      "file": "008_2_5_The_interaction.pdf",
       "code": "2.5",
       "title": "The interaction",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "012_2_6_Elasticity.pdf",
+      "file": "009_2_6_Elasticity.pdf",
       "code": "2.6",
       "title": "Elasticity",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "013_2_7_The_concept_of.pdf",
+      "file": "010_2_7_The_concept_of.pdf",
       "code": "2.7",
       "title": "The concept of",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "014_2_8_Market_failure.pdf",
+      "file": "011_2_8_Market_failure.pdf",
       "code": "2.8",
       "title": "Market failure",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "015_2_9_Information.pdf",
+      "file": "012_2_9_Information.pdf",
       "code": "2.9",
       "title": "Information",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "016_2_10_Public_goods.pdf",
+      "file": "013_2_10_Public_goods.pdf",
       "code": "2.10",
       "title": "Public goods",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "017_2_11_Government.pdf",
+      "file": "014_2_11_Government.pdf",
       "code": "2.11",
       "title": "Government",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "018_3_Business_Objectives.pdf",
-      "code": "3",
-      "title": "Business Objectives",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "019_3_1_Business.pdf",
+      "file": "015_3_1_Business.pdf",
       "code": "3.1",
       "title": "Business",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "020_3_2_Costs_and.pdf",
+      "file": "016_3_2_Costs_and.pdf",
       "code": "3.2",
       "title": "Costs and",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "021_3_3_Revenue_and.pdf",
+      "file": "017_3_3_Revenue_and.pdf",
       "code": "3.3",
       "title": "Revenue and",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "022_4_Market_structures.pdf",
-      "code": "4",
-      "title": "Market structures",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "023_4_1_Perfect.pdf",
+      "file": "018_4_1_Perfect.pdf",
       "code": "4.1",
       "title": "Perfect",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "024_4_2_Monopoly.pdf",
+      "file": "019_4_2_Monopoly.pdf",
       "code": "4.2",
       "title": "Monopoly",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "025_4_3_Monopolistic.pdf",
+      "file": "020_4_3_Monopolistic.pdf",
       "code": "4.3",
       "title": "Monopolistic",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "026_4_4_Oligopoly.pdf",
+      "file": "021_4_4_Oligopoly.pdf",
       "code": "4.4",
       "title": "Oligopoly",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "027_4_5_Contestable.pdf",
+      "file": "022_4_5_Contestable.pdf",
       "code": "4.5",
       "title": "Contestable",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "028_5_The_labour_market.pdf",
-      "code": "5",
-      "title": "The labour market",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "029_5_1_Demand_for.pdf",
+      "file": "023_5_1_Demand_for.pdf",
       "code": "5.1",
       "title": "Demand for",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "030_5_2_Supply_of_labour.pdf",
+      "file": "024_5_2_Supply_of_labour.pdf",
       "code": "5.2",
       "title": "Supply of labour",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "031_5_3_The_interaction.pdf",
+      "file": "025_5_3_The_interaction.pdf",
       "code": "5.3",
       "title": "The interaction",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "032_2d_Content_of_Component_2_Macroeconomics_H460.pdf",
-      "code": "2d",
-      "title": "Content of Component 2: Macroeconomics (H460/02)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "033_1_Aggregate_demand_and_aggregate_supply.pdf",
-      "code": "1",
-      "title": "Aggregate demand and aggregate supply",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "034_1_1_Circular_flow_of.pdf",
+      "file": "026_1_1_Circular_flow_of.pdf",
       "code": "1.1",
       "title": "Circular flow of",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "035_1_2_Aggregate.pdf",
+      "file": "027_1_2_Aggregate.pdf",
       "code": "1.2",
       "title": "Aggregate",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "036_1_3_Aggregate_supply.pdf",
+      "file": "028_1_3_Aggregate_supply.pdf",
       "code": "1.3",
       "title": "Aggregate supply",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "037_1_4_The_interaction.pdf",
+      "file": "029_1_4_The_interaction.pdf",
       "code": "1.4",
       "title": "The interaction",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "038_1_5_The_multiplier.pdf",
+      "file": "030_1_5_The_multiplier.pdf",
       "code": "1.5",
       "title": "The multiplier",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "039_2_Economic_policy_objectives.pdf",
-      "code": "2",
-      "title": "Economic policy objectives",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "040_2_1_Economic_growth.pdf",
+      "file": "031_2_1_Economic_growth.pdf",
       "code": "2.1",
       "title": "Economic growth",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "041_2_2_Development.pdf",
+      "file": "032_2_2_Development.pdf",
       "code": "2.2",
       "title": "Development",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "042_2_3_Employment.pdf",
+      "file": "033_2_3_Employment.pdf",
       "code": "2.3",
       "title": "Employment",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "043_2_4_Inflation.pdf",
+      "file": "034_2_4_Inflation.pdf",
       "code": "2.4",
       "title": "Inflation",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "044_2_5_Balance_of.pdf",
+      "file": "035_2_5_Balance_of.pdf",
       "code": "2.5",
       "title": "Balance of",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "045_2_6_Trends_in.pdf",
+      "file": "036_2_6_Trends_in.pdf",
       "code": "2.6",
       "title": "Trends in",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "046_2_7_Income.pdf",
+      "file": "037_2_7_Income.pdf",
       "code": "2.7",
       "title": "Income",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "047_2_8_The_Phillips.pdf",
+      "file": "038_2_8_The_Phillips.pdf",
       "code": "2.8",
       "title": "The Phillips",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "048_3_Implementing_policy.pdf",
-      "code": "3",
-      "title": "Implementing policy",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "049_3_1_Fiscal_policy.pdf",
+      "file": "039_3_1_Fiscal_policy.pdf",
       "code": "3.1",
       "title": "Fiscal policy",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "050_3_2_Monetary_policy.pdf",
+      "file": "040_3_2_Monetary_policy.pdf",
       "code": "3.2",
       "title": "Monetary policy",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "051_3_3_Supply_side.pdf",
+      "file": "041_3_3_Supply_side.pdf",
       "code": "3.3",
       "title": "Supply side",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "052_3_4_Policy_conflicts.pdf",
+      "file": "042_3_4_Policy_conflicts.pdf",
       "code": "3.4",
       "title": "Policy conflicts",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "053_4_The_global_context.pdf",
-      "code": "4",
-      "title": "The global context",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "054_4_1_International.pdf",
+      "file": "043_4_1_International.pdf",
       "code": "4.1",
       "title": "International",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "055_4_2_Exchange_rates.pdf",
+      "file": "044_4_2_Exchange_rates.pdf",
       "code": "4.2",
       "title": "Exchange rates",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "056_4_3_Globalisation.pdf",
+      "file": "045_4_3_Globalisation.pdf",
       "code": "4.3",
       "title": "Globalisation",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "057_4_4_Trade_policies.pdf",
+      "file": "046_4_4_Trade_policies.pdf",
       "code": "4.4",
       "title": "Trade policies",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "058_5_The_financial_sector.pdf",
-      "code": "5",
-      "title": "The financial sector",
-      "kind": "int",
-      "pages": 1
-    },
-    {
-      "file": "059_5_1_Money_and.pdf",
+      "file": "047_5_1_Money_and.pdf",
       "code": "5.1",
       "title": "Money and",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "060_5_2_The_financial.pdf",
+      "file": "048_5_2_The_financial.pdf",
       "code": "5.2",
       "title": "The financial",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "061_5_3_Financial.pdf",
+      "file": "049_5_3_Financial.pdf",
       "code": "5.3",
       "title": "Financial",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "062_Component_3_Themes_in_economics_H460_03.pdf",
+      "file": "050_Component_3_Themes_in_economics_H460_03.pdf",
       "code": "",
       "title": "Component 3: Themes in economics (H460/03)",
       "kind": "label",
