@@ -1,0 +1,35 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 4,
+  "subsections": [
+    {
+      "file": "001_Paper_1_Listening_and_understanding_in_Spanish.pdf",
+      "code": "Paper 1",
+      "title": "Listening and understanding in Spanish",
+      "family": "Paper",
+      "pages": 5
+    },
+    {
+      "file": "002_Paper_2_Speaking_in_Spanish.pdf",
+      "code": "Paper 2",
+      "title": "Speaking in Spanish",
+      "family": "Paper",
+      "pages": 4
+    },
+    {
+      "file": "003_Paper_3_Reading_and_understanding_in_Spanish.pdf",
+      "code": "Paper 3",
+      "title": "Reading and understanding in Spanish",
+      "family": "Paper",
+      "pages": 24
+    },
+    {
+      "file": "004_Paper_4_Writing_in_Spanish.pdf",
+      "code": "Paper 4",
+      "title": "Writing in Spanish",
+      "family": "Paper",
+      "pages": 1
+    }
+  ]
+}

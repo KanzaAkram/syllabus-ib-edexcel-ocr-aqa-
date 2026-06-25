@@ -1,0 +1,140 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 19,
+  "subsections": [
+    {
+      "file": "001_C1_1_The_particle_model.pdf",
+      "code": "C1.1",
+      "title": "The particle model",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "002_C1_2_Atomic_structure.pdf",
+      "code": "C1.2",
+      "title": "Atomic structure",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "003_C2_1_Purity_and_separating_mixtures.pdf",
+      "code": "C2.1",
+      "title": "Purity and separating mixtures",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "004_C2_2_Bonding.pdf",
+      "code": "C2.2",
+      "title": "Bonding",
+      "kind": "alnum",
+      "pages": 4
+    },
+    {
+      "file": "005_C2_3_Properties_of_materials.pdf",
+      "code": "C2.3",
+      "title": "Properties of materials",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "006_C3_1_Introducing_chemical_reactions.pdf",
+      "code": "C3.1",
+      "title": "Introducing chemical reactions",
+      "kind": "alnum",
+      "pages": 4
+    },
+    {
+      "file": "007_C3_2_Energetics.pdf",
+      "code": "C3.2",
+      "title": "Energetics",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "008_C3_3_Types_of_chemical_reactions.pdf",
+      "code": "C3.3",
+      "title": "Types of chemical reactions",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "009_C3_4_Electrolysis.pdf",
+      "code": "C3.4",
+      "title": "Electrolysis",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "010_C4_1_Predicting_chemical_reactions.pdf",
+      "code": "C4.1",
+      "title": "Predicting chemical reactions",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "011_C4_2_Identifying_the_products_of_chemical_react.pdf",
+      "code": "C4.2",
+      "title": "Identifying the products of chemical reactions",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "012_C5_1_Monitoring_chemical_reactions.pdf",
+      "code": "C5.1",
+      "title": "Monitoring chemical reactions",
+      "kind": "alnum",
+      "pages": 4
+    },
+    {
+      "file": "013_C5_2_Controlling_reactions.pdf",
+      "code": "C5.2",
+      "title": "Controlling reactions",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "014_C5_3_Equilibria.pdf",
+      "code": "C5.3",
+      "title": "Equilibria",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "015_Topic_C6_Global_challenges.pdf",
+      "code": "Topic C6",
+      "title": "Global challenges",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "016_C6_1_Improving_processes_and_products.pdf",
+      "code": "C6.1",
+      "title": "Improving processes and products",
+      "kind": "alnum",
+      "pages": 4
+    },
+    {
+      "file": "017_C6_2_Organic_chemistry.pdf",
+      "code": "C6.2",
+      "title": "Organic chemistry",
+      "kind": "alnum",
+      "pages": 4
+    },
+    {
+      "file": "018_C6_3_Interpreting_and_interacting_with_earth_sy.pdf",
+      "code": "C6.3",
+      "title": "Interpreting and interacting with earth systems",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "019_Topic_C7_Practical_skills.pdf",
+      "code": "Topic C7",
+      "title": "Practical skills",
+      "kind": "Topic",
+      "pages": 4
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "method": "font",
+  "sections": 1,
+  "n": 8,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Paper_1_Speaking_in_Spanish.pdf",
+      "code": "Paper 1",
+      "title": "Speaking in Spanish",
+      "family": "Paper",
+      "pages": 9
+    },
+    {
+      "file": "003_1_5_to_2_minutes_for_12_marks_and.pdf",
+      "code": "1.5",
+      "title": "to 2 minutes for 12 marks, and",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "004_Section_A_Listening_Comprehension_40_marks.pdf",
+      "code": "Section A",
+      "title": "Listening Comprehension (40 marks)",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "005_Section_B_Dictation_10_marks.pdf",
+      "code": "Section B",
+      "title": "Dictation (10 marks)",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "006_Section_A_Reading_comprehension_40_marks.pdf",
+      "code": "Section A",
+      "title": "Reading comprehension (40 marks)",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "007_Section_B_Translation_10_marks.pdf",
+      "code": "Section B",
+      "title": "Translation (10 marks)",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "008_Paper_4_Writing_in_Spanish.pdf",
+      "code": "Paper 4",
+      "title": "Writing in Spanish",
+      "family": "Paper",
+      "pages": 1
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 25,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_1_1_The_structure.pdf",
+      "code": "1.1",
+      "title": "The structure",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "003_1_2_The_structure.pdf",
+      "code": "1.2",
+      "title": "The structure",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "004_1_3_Anaerobic_and.pdf",
+      "code": "1.3",
+      "title": "Anaerobic and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_4_The_short_and.pdf",
+      "code": "1.4",
+      "title": "The short- and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_2_1_Lever_systems.pdf",
+      "code": "2.1",
+      "title": "Lever systems,",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_2_2_Planes_and.pdf",
+      "code": "2.2",
+      "title": "Planes and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_3_1_The.pdf",
+      "code": "3.1",
+      "title": "The",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_3_2_The.pdf",
+      "code": "3.2",
+      "title": "The",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "010_3_3_The_principles.pdf",
+      "code": "3.3",
+      "title": "The principles",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_3_4_The_long_term.pdf",
+      "code": "3.4",
+      "title": "The long-term",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "012_3_5_How_to.pdf",
+      "code": "3.5",
+      "title": "How to",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_3_6_Effective_use_of.pdf",
+      "code": "3.6",
+      "title": "Effective use of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_4_1_Use_of_data.pdf",
+      "code": "4.1",
+      "title": "Use of data",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "015_1_1_Physical.pdf",
+      "code": "1.1",
+      "title": "Physical,",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "016_1_2_The.pdf",
+      "code": "1.2",
+      "title": "The",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_1_3_Energy_use.pdf",
+      "code": "1.3",
+      "title": "Energy use,",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_2_1_Classification_of.pdf",
+      "code": "2.1",
+      "title": "Classification of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_2_2_The_use_of_goal.pdf",
+      "code": "2.2",
+      "title": "The use of goal",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_2_3_Guidance_and.pdf",
+      "code": "2.3",
+      "title": "Guidance and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "021_2_4_Mental.pdf",
+      "code": "2.4",
+      "title": "Mental",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "022_3_1_Engagement.pdf",
+      "code": "3.1",
+      "title": "Engagement",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "023_3_2_Commercial.pdf",
+      "code": "3.2",
+      "title": "Commercial-",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "024_3_3_Ethical_and.pdf",
+      "code": "3.3",
+      "title": "Ethical and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "025_4_1_Use_of_data.pdf",
+      "code": "4.1",
+      "title": "Use of data",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

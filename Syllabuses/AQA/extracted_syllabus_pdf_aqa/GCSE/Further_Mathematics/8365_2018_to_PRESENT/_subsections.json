@@ -1,0 +1,42 @@
+{
+  "method": "font-fallback",
+  "n": 6,
+  "subsections": [
+    {
+      "file": "001_1_Number.pdf",
+      "code": "1",
+      "title": "Number",
+      "pages": 1
+    },
+    {
+      "file": "002_2_Algebra.pdf",
+      "code": "2",
+      "title": "Algebra",
+      "pages": 3
+    },
+    {
+      "file": "003_3_Coordinate_Geometry_2_dimensions_only.pdf",
+      "code": "3",
+      "title": "Coordinate Geometry (2 dimensions only)",
+      "pages": 1
+    },
+    {
+      "file": "004_4_Calculus.pdf",
+      "code": "4",
+      "title": "Calculus",
+      "pages": 1
+    },
+    {
+      "file": "005_5_Matrix_transformations.pdf",
+      "code": "5",
+      "title": "Matrix transformations",
+      "pages": 1
+    },
+    {
+      "file": "006_6_Geometry.pdf",
+      "code": "6",
+      "title": "Geometry",
+      "pages": 2
+    }
+  ]
+}

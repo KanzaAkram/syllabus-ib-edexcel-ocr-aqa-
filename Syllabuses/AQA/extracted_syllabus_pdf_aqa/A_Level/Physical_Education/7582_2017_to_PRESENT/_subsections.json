@@ -1,0 +1,60 @@
+{
+  "method": "toc",
+  "n": 9,
+  "subsections": [
+    {
+      "file": "001_3.1_Factors_affecting_participation_in_physi.pdf",
+      "code": "3.1",
+      "title": "Factors affecting participation in physical activity and sport",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Applied_anatomy_and_physiology.pdf",
+      "code": "3.1.1",
+      "title": "Applied anatomy and physiology",
+      "pages": 4
+    },
+    {
+      "file": "003_3.1.2_Skill_acquisition.pdf",
+      "code": "3.1.2",
+      "title": "Skill acquisition",
+      "pages": 5
+    },
+    {
+      "file": "004_3.1.3_Sport_and_society.pdf",
+      "code": "3.1.3",
+      "title": "Sport and society",
+      "pages": 3
+    },
+    {
+      "file": "005_3.2_Factors_affecting_optimal_performance_in.pdf",
+      "code": "3.2",
+      "title": "Factors affecting optimal performance in physical activity and sport",
+      "pages": 1
+    },
+    {
+      "file": "006_3.2.1_Exercise_physiology.pdf",
+      "code": "3.2.1",
+      "title": "Exercise physiology",
+      "pages": 2
+    },
+    {
+      "file": "007_3.2.2_Biomechanical_movement.pdf",
+      "code": "3.2.2",
+      "title": "Biomechanical movement",
+      "pages": 3
+    },
+    {
+      "file": "008_3.2.3_Sport_psychology.pdf",
+      "code": "3.2.3",
+      "title": "Sport psychology",
+      "pages": 5
+    },
+    {
+      "file": "009_3.2.4_Sport_and_society_and_the_role_of_techno.pdf",
+      "code": "3.2.4",
+      "title": "Sport and society and the role of technology in physical activity and sport",
+      "pages": 4
+    }
+  ]
+}

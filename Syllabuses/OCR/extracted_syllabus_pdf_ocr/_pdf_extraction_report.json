@@ -1,0 +1,802 @@
+[
+  {
+    "pdf": "A_Level/Art_and_Design/F610_2009_to_2016/OCR_ALEVEL_Art_and_Design_F610_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 9,
+    "units": 43,
+    "files": 35,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Art_and_Design/H600_2017_to_PRESENT/OCR_ALEVEL_Art_and_Design_H600_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 8,
+    "units": 35,
+    "files": 35,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Biology/Variant_A/F211_2008_to_2016/OCR_ALEVEL_Biology_A_F211_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 51,
+    "files": 51,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Biology/Variant_A/H420_2017_to_PRESENT/OCR_ALEVEL_Biology_A_H420_2017_to_PRESENT_CURRENT_pub2015.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 39,
+    "files": 39,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Biology/Variant_A/H420_2017_to_PRESENT/OCR_ALEVEL_Biology_A_H420_2017_to_PRESENT_CURRENT_pub2023.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 39,
+    "files": 39,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Biology/Variant_B/H422_2017_to_PRESENT/OCR_ALEVEL_Biology_B_H422_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 53,
+    "files": 53,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Business_Studies/F291_2009_to_2016/OCR_ALEVEL_Business_Studies_F291_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 20,
+    "files": 19,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Business_Studies/H431_2015_to_PRESENT/OCR_ALEVEL_Business_Studies_H431_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 17,
+    "files": 17,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Chemistry/Variant_A/F321_2008_to_2016/OCR_ALEVEL_Chemistry_A_F321_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 3,
+    "files": 3,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Chemistry/Variant_A/H432_2017_to_PRESENT/OCR_ALEVEL_Chemistry_A_H432_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 66,
+    "files": 66,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Chemistry/Variant_B/H433_2017_to_PRESENT/OCR_ALEVEL_Chemistry_B_H433_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 4,
+    "files": 4,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Computer_Science/F452_2012_to_2016/OCR_ALEVEL_Computer_Science_F452_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 3,
+    "units": 16,
+    "files": 16,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Computer_Science/H446_2016_to_PRESENT/OCR_ALEVEL_Computer_Science_H446_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 14,
+    "files": 14,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Design_and_Technology/H404-H406_2017_to_PRESENT/OCR_ALEVEL_Design_and_Technology_H404-H406_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 4,
+    "units": 100,
+    "files": 100,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Drama/H459_2016_to_PRESENT/OCR_ALEVEL_Drama_H459_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 7,
+    "units": 15,
+    "files": 15,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Economics/F581_2008_to_2016/OCR_ALEVEL_Economics_F581_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 2,
+    "units": 7,
+    "files": 7,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Economics/H460_2015_to_PRESENT/OCR_ALEVEL_Economics_H460_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 62,
+    "files": 62,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/English_Language/F651_2008_to_2016/OCR_ALEVEL_English_Language_F651_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 3,
+    "units": 21,
+    "files": 21,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/English_Language/H470_2015_to_PRESENT/OCR_ALEVEL_English_Language_H470_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 13,
+    "files": 13,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/English_Literature/F661_2008_to_2016/OCR_ALEVEL_English_Literature_F661_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 4,
+    "units": 17,
+    "files": 16,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/English_Literature/H472_2015_to_PRESENT/OCR_ALEVEL_English_Literature_H472_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 6,
+    "files": 6,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/French/F701_2008_to_2016/OCR_ALEVEL_French_F701_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 12,
+    "files": 12,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Further_Mathematics/H245_2017_to_PRESENT/OCR_ALEVEL_Further_Mathematics_H245_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 5,
+    "units": 44,
+    "files": 44,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Geography/F761_2008_to_2016/OCR_ALEVEL_Geography_F761_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 8,
+    "files": 8,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Geography/H481_2016_to_PRESENT/OCR_ALEVEL_Geography_H481_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 5,
+    "units": 32,
+    "files": 27,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/History/F961_2008_to_2016/OCR_ALEVEL_History_F961_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 61,
+    "files": 61,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/History/H505_2015_to_PRESENT/OCR_ALEVEL_History_H505_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 61,
+    "files": 61,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Mathematics/4721_2005_to_2016/OCR_ALEVEL_Mathematics_4721_2005_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 102,
+    "files": 101,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Mathematics/Variant_A/H240_2017_to_PRESENT/OCR_ALEVEL_Mathematics_A_H240_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 22,
+    "files": 22,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Media_Studies/H409_2017_to_PRESENT/OCR_ALEVEL_Media_Studies_H409_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 4,
+    "units": 10,
+    "files": 10,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Music/F661M_2009_to_2016/OCR_ALEVEL_Music_F661M_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 39,
+    "files": 38,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Music/H543_2016_to_PRESENT/OCR_ALEVEL_Music_H543_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 7,
+    "files": 7,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Physical_Education/H555_2016_to_PRESENT/OCR_ALEVEL_Physical_Education_H555_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 5,
+    "units": 21,
+    "files": 20,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Physics/H556_2015_to_PRESENT/OCR_ALEVEL_Physics_H556_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 105,
+    "files": 105,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Physics/Variant_A/F321P_2008_to_2016/OCR_ALEVEL_Physics_A_F321P_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 105,
+    "files": 99,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Physics/Variant_A/H557_2017_to_PRESENT/OCR_ALEVEL_Physics_A_H557_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 33,
+    "files": 33,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Psychology/F221_2008_to_2016/OCR_ALEVEL_Psychology_F221_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 3,
+    "units": 15,
+    "files": 15,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Psychology/H567_2015_to_PRESENT/OCR_ALEVEL_Psychology_H567_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 14,
+    "files": 14,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Religious_Studies/G571_2009_to_2016/OCR_ALEVEL_Religious_Studies_G571_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 16,
+    "files": 16,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Religious_Studies/H573_2016_to_PRESENT/OCR_ALEVEL_Religious_Studies_H573_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 8,
+    "units": 8,
+    "files": 8,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Sociology/F671_2008_to_2016/OCR_ALEVEL_Sociology_F671_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 7,
+    "files": 7,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Sociology/H580_2015_to_PRESENT/OCR_ALEVEL_Sociology_H580_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 12,
+    "files": 12,
+    "warnings": []
+  },
+  {
+    "pdf": "Cambridge_Nationals/Business_Studies/New_Suite_2022/J837_2022_to_PRESENT/OCR_CAMNAT_Business_Studies_J837_2022_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 95,
+    "files": 89,
+    "warnings": []
+  },
+  {
+    "pdf": "Cambridge_Nationals/Computer_Science/New_Suite_2022/J836_2022_to_PRESENT/OCR_CAMNAT_Computer_Science_J836_2022_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 91,
+    "files": 85,
+    "warnings": []
+  },
+  {
+    "pdf": "Cambridge_Nationals/Computer_Science/Old_Suite_2012/J800_2012_to_2022/OCR_CAMNAT_Computer_Science_J800_2012_to_2022_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 11,
+    "files": 11,
+    "warnings": []
+  },
+  {
+    "pdf": "Cambridge_Nationals/Media_Studies/New_Suite_2022/J834_2022_to_PRESENT/OCR_CAMNAT_Media_Studies_J834_2022_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 120,
+    "files": 105,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/J170-J176_2017_to_PRESENT/OCR_GCSE_Art_and_Design_J170-J176_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 8,
+    "units": 33,
+    "files": 33,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Biology/NA_2009_to_2016/OCR_GCSE_Biology_NA_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 4,
+    "files": 4,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Biology/Variant_A/J247_2017_to_PRESENT/OCR_GCSE_Biology_A_J247_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 16,
+    "files": 16,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Biology/Variant_B/J257_2017_to_PRESENT/OCR_GCSE_Biology_B_J257_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 9,
+    "files": 9,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Business_Studies/J204_2017_to_PRESENT/OCR_GCSE_Business_Studies_J204_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 39,
+    "files": 37,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Chemistry/NA_2009_to_2016/OCR_GCSE_Chemistry_NA_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 30,
+    "files": 30,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Chemistry/Variant_A/J248_2017_to_PRESENT/OCR_GCSE_Chemistry_A_J248_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 19,
+    "files": 19,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Chemistry/Variant_B/J258_2017_to_PRESENT/OCR_GCSE_Chemistry_B_J258_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 35,
+    "files": 35,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Computer_Science/J276_2016_to_2020/OCR_GCSE_Computer_Science_J276_2016_to_2020_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 17,
+    "files": 17,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Computer_Science/J277_2020_to_PRESENT/OCR_GCSE_Computer_Science_J277_2020_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 37,
+    "files": 28,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Design_and_Technology/J310_2017_to_PRESENT/OCR_GCSE_Design_and_Technology_J310_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 30,
+    "files": 30,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Design_and_Technology/NA_2014_to_2016/OCR_GCSE_Design_and_Technology_NA_2014_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 1,
+    "files": 1,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Drama/J316_2017_to_PRESENT/OCR_GCSE_Drama_J316_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 4,
+    "units": 6,
+    "files": 6,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Economics/J205_2017_to_PRESENT/OCR_GCSE_Economics_J205_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 6,
+    "files": 6,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Economics/NA_2008_to_2016/OCR_GCSE_Economics_NA_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 30,
+    "files": 29,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/English_Language/J351_2015_to_PRESENT/OCR_GCSE_English_Language_J351_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 7,
+    "files": 7,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/English_Language/NA_2014_to_2016/OCR_GCSE_English_Language_NA_2014_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 5,
+    "files": 5,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/English_Literature/J352_2015_to_PRESENT/OCR_GCSE_English_Literature_J352_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 6,
+    "files": 6,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/English_Literature/NA_2014_to_2016/OCR_GCSE_English_Literature_NA_2014_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 6,
+    "files": 6,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Geography/Variant_A/J383_2016_to_PRESENT/OCR_GCSE_Geography_A_J383_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 27,
+    "files": 15,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Geography/Variant_B/J384_2016_to_PRESENT/OCR_GCSE_Geography_B_J384_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 13,
+    "files": 13,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/History/Variant_A/J410_2016_to_PRESENT/OCR_GCSE_History_A_J410_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 6,
+    "units": 17,
+    "files": 17,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Mathematics/Variant_A/J560_2015_to_PRESENT/OCR_GCSE_Mathematics_A_J560_2015_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 46,
+    "files": 46,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Mathematics/Variant_B/J567_2012_to_2016/OCR_GCSE_Mathematics_B_J567_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 46,
+    "files": 46,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Media_Studies/J200_2017_to_PRESENT/OCR_GCSE_Media_Studies_J200_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 13,
+    "files": 13,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Music/J536_2016_to_PRESENT/OCR_GCSE_Music_J536_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 3,
+    "files": 3,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Music/NA_2006_to_2016/OCR_GCSE_Music_NA_2006_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 68,
+    "files": 64,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Physical_Education/J587_2017_to_PRESENT/OCR_GCSE_Physical_Education_J587_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 4,
+    "units": 21,
+    "files": 20,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Physics/Variant_A/J249_2017_to_PRESENT/OCR_GCSE_Physics_A_J249_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 22,
+    "files": 22,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Physics/Variant_B/J259_2017_to_PRESENT/OCR_GCSE_Physics_B_J259_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 9,
+    "files": 9,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Psychology/J203_2017_to_PRESENT/OCR_GCSE_Psychology_J203_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 12,
+    "files": 12,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Psychology/NA_2008_to_2016/OCR_GCSE_Psychology_NA_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 64,
+    "files": 64,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Religious_Studies/J625_2016_to_PRESENT/OCR_GCSE_Religious_Studies_J625_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 62,
+    "files": 62,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Religious_Studies/Variant_B/J621_2012_to_2016/OCR_GCSE_Religious_Studies_B_J621_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 28,
+    "files": 28,
+    "warnings": []
+  }
+]

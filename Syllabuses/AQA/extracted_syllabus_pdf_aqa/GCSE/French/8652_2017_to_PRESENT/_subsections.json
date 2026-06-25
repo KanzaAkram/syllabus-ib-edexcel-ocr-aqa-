@@ -1,0 +1,60 @@
+{
+  "method": "toc",
+  "n": 9,
+  "subsections": [
+    {
+      "file": "001_3.1_Themes.pdf",
+      "code": "3.1",
+      "title": "Themes",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Theme_1_People_and_lifestyle.pdf",
+      "code": "3.1.1",
+      "title": "Theme 1: People and lifestyle",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_Theme_2_Popular_culture.pdf",
+      "code": "3.1.2",
+      "title": "Theme 2: Popular culture",
+      "pages": 1
+    },
+    {
+      "file": "004_3.1.3_Theme_3_Communication_and_the_world_arou.pdf",
+      "code": "3.1.3",
+      "title": "Theme 3: Communication and the world around us",
+      "pages": 1
+    },
+    {
+      "file": "005_3.2_Grammar.pdf",
+      "code": "3.2",
+      "title": "Grammar",
+      "pages": 2
+    },
+    {
+      "file": "006_3.2.1_Foundation_tier.pdf",
+      "code": "3.2.1",
+      "title": "Foundation tier",
+      "pages": 6
+    },
+    {
+      "file": "007_3.2.2_Higher_tier.pdf",
+      "code": "3.2.2",
+      "title": "Higher tier",
+      "pages": 4
+    },
+    {
+      "file": "008_3.3_Vocabulary.pdf",
+      "code": "3.3",
+      "title": "Vocabulary",
+      "pages": 1
+    },
+    {
+      "file": "009_3.3.1_Composition_of_vocabulary_content.pdf",
+      "code": "3.3.1",
+      "title": "Composition of vocabulary content",
+      "pages": 2
+    }
+  ]
+}

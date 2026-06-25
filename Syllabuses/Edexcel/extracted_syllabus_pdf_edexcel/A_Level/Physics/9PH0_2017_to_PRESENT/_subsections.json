@@ -1,0 +1,112 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 15,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_Topic_1_Working_as_a_Physicist.pdf",
+      "code": "Topic 1",
+      "title": "Working as a Physicist",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "003_Topic_2_Mechanics.pdf",
+      "code": "Topic 2",
+      "title": "Mechanics",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "004_Topic_3_Electric_Circuits.pdf",
+      "code": "Topic 3",
+      "title": "Electric Circuits",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "005_Topic_4_Materials.pdf",
+      "code": "Topic 4",
+      "title": "Materials",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_5_Waves_and_Particle_Nature_of_Light.pdf",
+      "code": "Topic 5",
+      "title": "Waves and Particle Nature of Light",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "007_Topic_6_Further_Mechanics.pdf",
+      "code": "Topic 6",
+      "title": "Further Mechanics",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "008_Topic_7_Electric_and_Magnetic_Fields.pdf",
+      "code": "Topic 7",
+      "title": "Electric and Magnetic Fields",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "009_Topic_8_Nuclear_and_Particle_Physics.pdf",
+      "code": "Topic 8",
+      "title": "Nuclear and Particle Physics",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "010_Topic_9_Thermodynamics.pdf",
+      "code": "Topic 9",
+      "title": "Thermodynamics",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "011_Topic_10_Space.pdf",
+      "code": "Topic 10",
+      "title": "Space",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "012_Topic_11_Nuclear_Radiation.pdf",
+      "code": "Topic 11",
+      "title": "Nuclear Radiation",
+      "family": "Topic",
+      "pages": 27
+    },
+    {
+      "file": "013_Paper_1_Advanced_Physics_I.pdf",
+      "code": "Paper 1",
+      "title": "Advanced Physics I",
+      "family": "Paper",
+      "pages": 4
+    },
+    {
+      "file": "014_Paper_2_Advanced_Physics_II.pdf",
+      "code": "Paper 2",
+      "title": "Advanced Physics II",
+      "family": "Paper",
+      "pages": 1
+    },
+    {
+      "file": "015_Paper_3_General_and_Practical_Principles_in_Physic.pdf",
+      "code": "Paper 3",
+      "title": "General and Practical Principles in Physics",
+      "family": "Paper",
+      "pages": 1
+    }
+  ]
+}

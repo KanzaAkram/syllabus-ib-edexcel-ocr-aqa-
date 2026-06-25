@@ -1,0 +1,462 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 65,
+  "subsections": [
+    {
+      "file": "001_Unit_C12_Core_Mathematics_12.pdf",
+      "code": "Unit C12",
+      "title": "Core Mathematics 12",
+      "family": "Unit",
+      "pages": 2
+    },
+    {
+      "file": "002_Topic_1_Algebra_and_functions.pdf",
+      "code": "Topic 1",
+      "title": "Algebra and functions",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "003_Topic_2_Coordinate_geometry_in_the_x_y_plane.pdf",
+      "code": "Topic 2",
+      "title": "Coordinate geometry in the (x, y) plane",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_3_Sequences_and_series.pdf",
+      "code": "Topic 3",
+      "title": "Sequences and series",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "005_Topic_4_Exponentials_and_logarithms.pdf",
+      "code": "Topic 4",
+      "title": "Exponentials and logarithms",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_5_Trigonometry.pdf",
+      "code": "Topic 5",
+      "title": "Trigonometry",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "007_Topic_6_Differentiation.pdf",
+      "code": "Topic 6",
+      "title": "Differentiation",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "008_Topic_7_Integration.pdf",
+      "code": "Topic 7",
+      "title": "Integration",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Unit_C34_Core_Mathematics_34.pdf",
+      "code": "Unit C34",
+      "title": "Core Mathematics 34",
+      "family": "Unit",
+      "pages": 2
+    },
+    {
+      "file": "010_Topic_1_Algebra_and_functions.pdf",
+      "code": "Topic 1",
+      "title": "Algebra and functions",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "011_Topic_3_Trigonometry.pdf",
+      "code": "Topic 3",
+      "title": "Trigonometry",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "012_Topic_4_Exponentials_and_logarithms.pdf",
+      "code": "Topic 4",
+      "title": "Exponentials and logarithms",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "013_Topic_6_Differentiation.pdf",
+      "code": "Topic 6",
+      "title": "Differentiation",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "014_Topic_7_Integration.pdf",
+      "code": "Topic 7",
+      "title": "Integration",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "015_Topic_8_Numerical_methods.pdf",
+      "code": "Topic 8",
+      "title": "Numerical methods",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "016_Topic_9_Vectors.pdf",
+      "code": "Topic 9",
+      "title": "Vectors",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "017_Unit_F1.pdf",
+      "code": "Unit F1",
+      "title": "",
+      "family": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "018_Topic_1_Complex_numbers.pdf",
+      "code": "Topic 1",
+      "title": "Complex numbers",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "019_Topic_2_Roots_of_quadratic_equations.pdf",
+      "code": "Topic 2",
+      "title": "Roots of quadratic equations",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "020_Topic_4_Coordinate_systems.pdf",
+      "code": "Topic 4",
+      "title": "Coordinate systems",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "021_Topic_6_Transformations_using_matrices.pdf",
+      "code": "Topic 6",
+      "title": "Transformations using matrices",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "022_Topic_8_Proof.pdf",
+      "code": "Topic 8",
+      "title": "Proof",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "023_Unit_F2.pdf",
+      "code": "Unit F2",
+      "title": "",
+      "family": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "024_Topic_1_Inequalities.pdf",
+      "code": "Topic 1",
+      "title": "Inequalities",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "025_Topic_3_Further_complex_numbers.pdf",
+      "code": "Topic 3",
+      "title": "Further complex numbers",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "026_Topic_5_Second_order_differential_equations.pdf",
+      "code": "Topic 5",
+      "title": "Second order differential equations",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "027_Topic_7_Polar_coordinates.pdf",
+      "code": "Topic 7",
+      "title": "Polar coordinates",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "028_Topic_1_Hyberbolic_functions.pdf",
+      "code": "Topic 1",
+      "title": "Hyberbolic functions",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "029_Topic_3_Differentiation.pdf",
+      "code": "Topic 3",
+      "title": "Differentiation",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "030_Topic_4_Integration.pdf",
+      "code": "Topic 4",
+      "title": "Integration",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "031_Topic_5_Vectors.pdf",
+      "code": "Topic 5",
+      "title": "Vectors",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "032_Topic_6_Further_matrix_algebra.pdf",
+      "code": "Topic 6",
+      "title": "Further matrix algebra",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "033_Unit_M1_Mechanics_1.pdf",
+      "code": "Unit M1",
+      "title": "Mechanics 1",
+      "family": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "034_Topic_1_Mathematical_models_in_mechanics.pdf",
+      "code": "Topic 1",
+      "title": "Mathematical models in mechanics",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "035_Topic_3_Kinematics_of_a_particle_moving_in_a_strai.pdf",
+      "code": "Topic 3",
+      "title": "Kinematics of a particle moving in a straight line",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "036_Topic_4_Dynamics_of_a_particle_moving_in_a_straigh.pdf",
+      "code": "Topic 4",
+      "title": "Dynamics of a particle moving in a straight line or plane",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "037_Topic_5_Statics_of_a_particle.pdf",
+      "code": "Topic 5",
+      "title": "Statics of a particle",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "038_Topic_6_Moments.pdf",
+      "code": "Topic 6",
+      "title": "Moments",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "039_Unit_M2_Mechanics_2.pdf",
+      "code": "Unit M2",
+      "title": "Mechanics 2",
+      "family": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "040_Topic_1_Kinematics_of_a_particle_moving_in_a_strai.pdf",
+      "code": "Topic 1",
+      "title": "Kinematics of a particle moving in a straight line or plane",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "041_Topic_3_Work_and_energy.pdf",
+      "code": "Topic 3",
+      "title": "Work and energy",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "042_Topic_5_Statics_of_rigid_bodies.pdf",
+      "code": "Topic 5",
+      "title": "Statics of rigid bodies",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "043_Unit_M3_Mechanics_3.pdf",
+      "code": "Unit M3",
+      "title": "Mechanics 3",
+      "family": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "044_Topic_1_Further_kinematics.pdf",
+      "code": "Topic 1",
+      "title": "Further kinematics",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "045_Topic_2_Elastic_strings_and_springs.pdf",
+      "code": "Topic 2",
+      "title": "Elastic strings and springs",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "046_Topic_4_Motion_in_a_circle.pdf",
+      "code": "Topic 4",
+      "title": "Motion in a circle",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "047_Topic_5_Statics_of_rigid_bodies.pdf",
+      "code": "Topic 5",
+      "title": "Statics of rigid bodies",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "048_Unit_S1.pdf",
+      "code": "Unit S1",
+      "title": "",
+      "family": "Unit",
+      "pages": 2
+    },
+    {
+      "file": "049_Topic_1_Mathematical_models_in_probability_and_sta.pdf",
+      "code": "Topic 1",
+      "title": "Mathematical models in probability and statistics",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "050_Topic_2_Representation_and_summary_of_data.pdf",
+      "code": "Topic 2",
+      "title": "Representation and summary of data",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "051_Topic_4_Correlation_and_regression.pdf",
+      "code": "Topic 4",
+      "title": "Correlation and regression",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "052_Topic_6_The_Normal_distribution.pdf",
+      "code": "Topic 6",
+      "title": "The Normal distribution",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "053_Unit_S2.pdf",
+      "code": "Unit S2",
+      "title": "",
+      "family": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "054_Topic_1_The_Binomial_and_Poisson_distributions.pdf",
+      "code": "Topic 1",
+      "title": "The Binomial and Poisson distributions",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "055_Topic_2_Continuous_random_variables.pdf",
+      "code": "Topic 2",
+      "title": "Continuous random variables",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "056_Topic_4_Hypothesis_tests.pdf",
+      "code": "Topic 4",
+      "title": "Hypothesis tests",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "057_Unit_S3.pdf",
+      "code": "Unit S3",
+      "title": "",
+      "family": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "058_Topic_2_Sampling.pdf",
+      "code": "Topic 2",
+      "title": "Sampling",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "059_Topic_3_Estimation_confidence_intervals_and_tests.pdf",
+      "code": "Topic 3",
+      "title": "Estimation, confidence intervals and tests",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "060_Topic_5_Correlation.pdf",
+      "code": "Topic 5",
+      "title": "Correlation",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "061_Unit_D1_Decision_Mathematics_1.pdf",
+      "code": "Unit D1",
+      "title": "Decision Mathematics 1",
+      "family": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "062_Topic_2_Algorithms_on_graphs.pdf",
+      "code": "Topic 2",
+      "title": "Algorithms on graphs",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "063_Topic_3_The_route_inspection_problem.pdf",
+      "code": "Topic 3",
+      "title": "The route inspection problem",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "064_Topic_5_Linear_programming.pdf",
+      "code": "Topic 5",
+      "title": "Linear programming",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "065_Topic_6_Matchings.pdf",
+      "code": "Topic 6",
+      "title": "Matchings",
+      "family": "Topic",
+      "pages": 2
+    }
+  ]
+}

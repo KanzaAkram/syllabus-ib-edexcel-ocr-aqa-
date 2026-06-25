@@ -1,0 +1,66 @@
+{
+  "method": "toc",
+  "n": 10,
+  "subsections": [
+    {
+      "file": "001_3.1_Cognition_and_behaviour.pdf",
+      "code": "3.1",
+      "title": "Cognition and behaviour",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Memory.pdf",
+      "code": "3.1.1",
+      "title": "Memory",
+      "pages": 2
+    },
+    {
+      "file": "003_3.1.2_Perception.pdf",
+      "code": "3.1.2",
+      "title": "Perception",
+      "pages": 1
+    },
+    {
+      "file": "004_3.1.3_Development.pdf",
+      "code": "3.1.3",
+      "title": "Development",
+      "pages": 1
+    },
+    {
+      "file": "005_3.1.4_Research_methods.pdf",
+      "code": "3.1.4",
+      "title": "Research methods",
+      "pages": 3
+    },
+    {
+      "file": "006_3.2_Social_context_and_behaviour.pdf",
+      "code": "3.2",
+      "title": "Social context and behaviour",
+      "pages": 2
+    },
+    {
+      "file": "007_3.2.1_Social_influence.pdf",
+      "code": "3.2.1",
+      "title": "Social influence",
+      "pages": 1
+    },
+    {
+      "file": "008_3.2.2_Language_thought_and_communication.pdf",
+      "code": "3.2.2",
+      "title": "Language, thought and communication",
+      "pages": 2
+    },
+    {
+      "file": "009_3.2.3_Brain_and_neuropsychology.pdf",
+      "code": "3.2.3",
+      "title": "Brain and neuropsychology",
+      "pages": 2
+    },
+    {
+      "file": "010_3.2.4_Psychological_problems.pdf",
+      "code": "3.2.4",
+      "title": "Psychological problems",
+      "pages": 2
+    }
+  ]
+}

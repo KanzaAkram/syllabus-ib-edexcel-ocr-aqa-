@@ -1,0 +1,77 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 10,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Topic_1_Development_of_a_nation_Unification_of_Ger.pdf",
+      "code": "Topic 1",
+      "title": "Development of a nation: Unification of Germany, 1848-71",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "003_Topic_2_Development_of_a_nation_Unification_of_Ita.pdf",
+      "code": "Topic 2",
+      "title": "Development of a nation: Unification of Italy, 1852-70",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_3_Autocracy_and_revolt_in_Russia_1881_1914.pdf",
+      "code": "Topic 3",
+      "title": "Autocracy and revolt in Russia, 1881-1914",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "005_Topic_4_Development_of_dictatorship_Italy_1918_45.pdf",
+      "code": "Topic 4",
+      "title": "Development of dictatorship: Italy, 1918-45",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_5_Development_of_dictatorship_Germany_1918_4.pdf",
+      "code": "Topic 5",
+      "title": "Development of dictatorship: Germany, 1918-45",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "007_Topic_6_A_world_divided_International_relations_be.pdf",
+      "code": "Topic 6",
+      "title": "A world divided: International relations between the wars,",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "008_Topic_7_Dictatorship_and_conflict_in_Russia_1924_5.pdf",
+      "code": "Topic 7",
+      "title": "Dictatorship and conflict in Russia, 1924-53",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Topic_8_A_world_divided_Superpower_relations_1945_.pdf",
+      "code": "Topic 8",
+      "title": "A world divided: Superpower relations, 1945-62",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "010_Topic_9_A_divided_union_Civil_rights_in_the_USA_19.pdf",
+      "code": "Topic 9",
+      "title": "A divided union: Civil rights in the USA, 1945-74",
+      "family": "Topic",
+      "pages": 15
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 23,
+  "subsections": [
+    {
+      "file": "001_Section_C_Prose_essay_response.pdf",
+      "code": "Section C",
+      "title": "Prose essay response",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "002_Section_B_Analytical_essay.pdf",
+      "code": "Section B",
+      "title": "Analytical essay",
+      "family": "Section",
+      "pages": 8
+    },
+    {
+      "file": "003_1_1_Unit_description.pdf",
+      "code": "1.1",
+      "title": "Unit description",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "004_1_2_Assessment_information.pdf",
+      "code": "1.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_3_Unit_content.pdf",
+      "code": "1.3",
+      "title": "Unit content",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "006_1_4_What_students_need_to_learn.pdf",
+      "code": "1.4",
+      "title": "What students need to learn",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_2_1_Unit_description.pdf",
+      "code": "2.1",
+      "title": "Unit description",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_2_2_Assessment_information.pdf",
+      "code": "2.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "009_2_3_Unit_content.pdf",
+      "code": "2.3",
+      "title": "Unit content",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_2_4_What_students_need_to_learn.pdf",
+      "code": "2.4",
+      "title": "What students need to learn",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_2_5_Assessment_criteria.pdf",
+      "code": "2.5",
+      "title": "Assessment criteria",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "012_2_6_Administration_of_internal_assessment.pdf",
+      "code": "2.6",
+      "title": "Administration of internal assessment",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_3_1_Unit_description.pdf",
+      "code": "3.1",
+      "title": "Unit description",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_3_2_Assessment_information.pdf",
+      "code": "3.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "015_3_3_Unit_content.pdf",
+      "code": "3.3",
+      "title": "Unit content",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "016_3_4_What_students_need_to_learn.pdf",
+      "code": "3.4",
+      "title": "What students need to learn",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_4_1_Unit_description.pdf",
+      "code": "4.1",
+      "title": "Unit description",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_4_2_Assessment_information.pdf",
+      "code": "4.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "019_4_3_Unit_content.pdf",
+      "code": "4.3",
+      "title": "Unit content",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_4_4_What_students_need_to_learn.pdf",
+      "code": "4.4",
+      "title": "What students need to learn",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "021_4_5_Assessment_criteria.pdf",
+      "code": "4.5",
+      "title": "Assessment criteria",
+      "family": "Num",
+      "pages": 4
+    },
+    {
+      "file": "022_Section_D_Edexcel_Limited_2007.pdf",
+      "code": "Section D",
+      "title": "© Edexcel Limited 2007",
+      "family": "Section",
+      "pages": 5
+    },
+    {
+      "file": "023_Section_E_Edexcel_Limited_2007.pdf",
+      "code": "Section E",
+      "title": "© Edexcel Limited 2007",
+      "family": "Section",
+      "pages": 3
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "method": "toc",
+  "n": 10,
+  "subsections": [
+    {
+      "file": "001_3.1.1_Water_and_carbon_cycles.pdf",
+      "code": "3.1.1",
+      "title": "Water and carbon cycles",
+      "pages": 2
+    },
+    {
+      "file": "002_3.1.2_Coastal_systems_and_landscapes.pdf",
+      "code": "3.1.2",
+      "title": "Coastal systems and landscapes",
+      "pages": 2
+    },
+    {
+      "file": "003_3.1.3_Glacial_systems_and_landscapes.pdf",
+      "code": "3.1.3",
+      "title": "Glacial systems and landscapes",
+      "pages": 3
+    },
+    {
+      "file": "004_3.2.1_Changing_places.pdf",
+      "code": "3.2.1",
+      "title": "Changing places",
+      "pages": 3
+    },
+    {
+      "file": "005_3.3.1_Hazards.pdf",
+      "code": "3.3.1",
+      "title": "Hazards",
+      "pages": 3
+    },
+    {
+      "file": "006_3.3.2_Contemporary_urban_environments.pdf",
+      "code": "3.3.2",
+      "title": "Contemporary urban environments",
+      "pages": 3
+    },
+    {
+      "file": "007_3.4_Geography_fieldwork_investigation.pdf",
+      "code": "3.4",
+      "title": "Geography fieldwork investigation",
+      "pages": 1
+    },
+    {
+      "file": "008_3.5_Geographical_skills_checklist.pdf",
+      "code": "3.5",
+      "title": "Geographical skills checklist",
+      "pages": 2
+    },
+    {
+      "file": "009_3.5.1_Qualitative_skills_and_quantitative_skil.pdf",
+      "code": "3.5.1",
+      "title": "Qualitative skills and quantitative skills",
+      "pages": 1
+    },
+    {
+      "file": "010_3.5.2_Specific_skills.pdf",
+      "code": "3.5.2",
+      "title": "Specific skills",
+      "pages": 2
+    }
+  ]
+}

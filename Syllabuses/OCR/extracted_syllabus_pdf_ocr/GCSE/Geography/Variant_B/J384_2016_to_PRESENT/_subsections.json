@@ -1,0 +1,98 @@
+{
+  "method": "toc",
+  "sections": 3,
+  "n": 13,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Our_Natural_World_J384_01.pdf",
+      "code": "2c",
+      "title": "Content of Our Natural World (J384/01)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Topic_1_Global_Hazards.pdf",
+      "code": "Topic 1",
+      "title": "Global Hazards",
+      "kind": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "003_Topic_2_Changing_Climate.pdf",
+      "code": "Topic 2",
+      "title": "Changing Climate",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_3_Distinctive_Landscapes.pdf",
+      "code": "Topic 3",
+      "title": "Distinctive Landscapes",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "005_Topic_4_Sustaining_Ecosystems.pdf",
+      "code": "Topic 4",
+      "title": "Sustaining Ecosystems",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_2c_Content_of_People_and_Society_J384_02.pdf",
+      "code": "2c",
+      "title": "Content of People and Society (J384/02)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "007_Topic_5_Urban_Futures.pdf",
+      "code": "Topic 5",
+      "title": "Urban Futures",
+      "kind": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "008_Topic_6_Dynamic_Development.pdf",
+      "code": "Topic 6",
+      "title": "Dynamic Development",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Topic_7_UK_in_the_21st_Century.pdf",
+      "code": "Topic 7",
+      "title": "UK in the 21st Century",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "010_7_2_Is_the_UK_losing_its_global_significance.pdf",
+      "code": "7.2",
+      "title": "Is the UK losing its global significance?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "011_Topic_8_Resource_Reliance.pdf",
+      "code": "Topic 8",
+      "title": "Resource Reliance",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "012_Geographical_Exploration_J384_03.pdf",
+      "code": "",
+      "title": "Geographical Exploration (J384/03)",
+      "kind": "label",
+      "pages": 1
+    },
+    {
+      "file": "013_Geographical_Skills_including_Fieldwork.pdf",
+      "code": "",
+      "title": "Geographical Skills including Fieldwork",
+      "kind": "label",
+      "pages": 1
+    }
+  ]
+}

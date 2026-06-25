@@ -1,0 +1,217 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 30,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_1_1_Description.pdf",
+      "code": "1.1",
+      "title": "Description",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_1_The_world_s_water.pdf",
+      "code": "1.1",
+      "title": "The world’s water",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "004_1_2_Physical_processes.pdf",
+      "code": "1.2",
+      "title": "Physical processes",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_3_River_environments.pdf",
+      "code": "1.3",
+      "title": "River environments",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_2_1_Physical_processes.pdf",
+      "code": "2.1",
+      "title": "Physical processes",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_2_2_Distinctive.pdf",
+      "code": "2.2",
+      "title": "Distinctive",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_2_3_Coastal_environments.pdf",
+      "code": "2.3",
+      "title": "Coastal environments",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_3_1_Some_places_are.pdf",
+      "code": "3.1",
+      "title": "Some places are",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_3_2_Hazards_have_an.pdf",
+      "code": "3.2",
+      "title": "Hazards have an",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_3_3_Earthquakes_present.pdf",
+      "code": "3.3",
+      "title": "Earthquakes present",
+      "family": "Num",
+      "pages": 5
+    },
+    {
+      "file": "012_2_1_Description.pdf",
+      "code": "2.1",
+      "title": "Description",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "013_4_1_The_relative.pdf",
+      "code": "4.1",
+      "title": "The relative",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_4_2_The_growth_and.pdf",
+      "code": "4.2",
+      "title": "The growth and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "015_4_3_Countries.pdf",
+      "code": "4.3",
+      "title": "Countries",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "016_5_1_Rural_environments.pdf",
+      "code": "5.1",
+      "title": "Rural environments",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_5_2_Rural_environments.pdf",
+      "code": "5.2",
+      "title": "Rural environments",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_5_3_Rural_environments.pdf",
+      "code": "5.3",
+      "title": "Rural environments",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "019_6_1_A_growing.pdf",
+      "code": "6.1",
+      "title": "A growing",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_6_2_Cities_face_a_range_of.pdf",
+      "code": "6.2",
+      "title": "Cities face a range of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "021_6_3_Different_strategies.pdf",
+      "code": "6.3",
+      "title": "Different strategies",
+      "family": "Num",
+      "pages": 6
+    },
+    {
+      "file": "022_7_1_Fragile_environments.pdf",
+      "code": "7.1",
+      "title": "Fragile environments",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "023_7_2_There_are_various.pdf",
+      "code": "7.2",
+      "title": "There are various",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "024_7_3_The_responses_to.pdf",
+      "code": "7.3",
+      "title": "The responses to",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "025_8_1_Globalisation_is.pdf",
+      "code": "8.1",
+      "title": "Globalisation is",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "026_8_2_The_impacts_of.pdf",
+      "code": "8.2",
+      "title": "The impacts of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "027_8_3_The_responses_to.pdf",
+      "code": "8.3",
+      "title": "The responses to",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "028_9_1_Definitions_of.pdf",
+      "code": "9.1",
+      "title": "Definitions of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "029_9_2_The_level_of.pdf",
+      "code": "9.2",
+      "title": "The level of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "030_9_3_A_range_of.pdf",
+      "code": "9.3",
+      "title": "A range of",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

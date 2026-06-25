@@ -1,0 +1,175 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 24,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_1_1_Integers.pdf",
+      "code": "1.1",
+      "title": "Integers",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_2_Fractions_and_decimals.pdf",
+      "code": "1.2",
+      "title": "Fractions and decimals",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "004_3_5_and_7.pdf",
+      "code": "3.5",
+      "title": "and 7",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "005_1_3_Percentages.pdf",
+      "code": "1.3",
+      "title": "Percentages",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_1_4_Calculation_skills.pdf",
+      "code": "1.4",
+      "title": "Calculation skills",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "007_1_5_Ratio_and_proportion.pdf",
+      "code": "1.5",
+      "title": "Ratio and proportion",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "008_1_6_Standard_form.pdf",
+      "code": "1.6",
+      "title": "Standard form",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "009_2_1_Expressions_and_formulae.pdf",
+      "code": "2.1",
+      "title": "Expressions and formulae",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "010_2_2_Equations.pdf",
+      "code": "2.2",
+      "title": "Equations",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "011_2_3_Sequences.pdf",
+      "code": "2.3",
+      "title": "Sequences",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "012_2_4_Graphs.pdf",
+      "code": "2.4",
+      "title": "Graphs",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "013_2_5_Inequalities.pdf",
+      "code": "2.5",
+      "title": "Inequalities",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "014_3_1_Measure.pdf",
+      "code": "3.1",
+      "title": "Measure",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "015_40_5_g_and_volume_15_cm3.pdf",
+      "code": "40.5",
+      "title": "g and volume 15 cm3",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_3_2_Angles.pdf",
+      "code": "3.2",
+      "title": "Angles",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_3_3_Symmetry.pdf",
+      "code": "3.3",
+      "title": "Symmetry",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_3_4_Transformation.pdf",
+      "code": "3.4",
+      "title": "Transformation",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_3_5_Constructions.pdf",
+      "code": "3.5",
+      "title": "Constructions",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_3_6_Congruence_and_similarity.pdf",
+      "code": "3.6",
+      "title": "Congruence and similarity",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "021_3_7_Pythagoras_theorem_and_trigonometry.pdf",
+      "code": "3.7",
+      "title": "Pythagoras’ theorem and trigonometry",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "022_4_1_Data.pdf",
+      "code": "4.1",
+      "title": "Data",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "023_4_2_Charts_and_diagrams.pdf",
+      "code": "4.2",
+      "title": "Charts and diagrams",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "024_4_3_Probability.pdf",
+      "code": "4.3",
+      "title": "Probability",
+      "family": "Num",
+      "pages": 2
+    }
+  ]
+}

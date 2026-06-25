@@ -1,0 +1,98 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 13,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 4
+    },
+    {
+      "file": "002_Topic_1_Materials.pdf",
+      "code": "Topic 1",
+      "title": "Materials",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "003_Topic_2_Performance_characteristics_of_materials.pdf",
+      "code": "Topic 2",
+      "title": "Performance characteristics of materials",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "004_Topic_3_Processes_techniques_and_specialist_tools.pdf",
+      "code": "Topic 3",
+      "title": "Processes, techniques and specialist tools",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "005_Topic_4_Digital_technologies.pdf",
+      "code": "Topic 4",
+      "title": "Digital technologies",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_5_Factors_influencing_the_development_of_pro.pdf",
+      "code": "Topic 5",
+      "title": "Factors influencing the development of products",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "007_Topic_6_Effects_of_technological_developments.pdf",
+      "code": "Topic 6",
+      "title": "Effects of technological developments",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "008_Topic_7_Safe_working_practices_potential_hazards_a.pdf",
+      "code": "Topic 7",
+      "title": "Safe working practices, potential hazards and risk",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "009_Topic_8_Features_of_manufacturing_industries.pdf",
+      "code": "Topic 8",
+      "title": "Features of manufacturing industries",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "010_Topic_9_Designing_for_maintenance_and_the_cleaner_.pdf",
+      "code": "Topic 9",
+      "title": "Designing for maintenance and the cleaner environment",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "011_Topic_10_Current_legislation.pdf",
+      "code": "Topic 10",
+      "title": "Current legislation",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "012_Topic_11_Information_handling_modelling_and_forward.pdf",
+      "code": "Topic 11",
+      "title": "Information handling, modelling and forward planning",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "013_Topic_12_Further_processes_and_techniques.pdf",
+      "code": "Topic 12",
+      "title": "Further processes and techniques",
+      "family": "Topic",
+      "pages": 1
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "method": "toc",
+  "n": 11,
+  "subsections": [
+    {
+      "file": "001_3.1_Social_issues_and_trends.pdf",
+      "code": "3.1",
+      "title": "Social issues and trends",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Aspects_of_German_speaking_society.pdf",
+      "code": "3.1.1",
+      "title": "Aspects of German-speaking society",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_Multiculturalism_in_German_speaking_soci.pdf",
+      "code": "3.1.2",
+      "title": "Multiculturalism in German-speaking society",
+      "pages": 1
+    },
+    {
+      "file": "004_3.2_Political_and_artistic_culture.pdf",
+      "code": "3.2",
+      "title": "Political and artistic culture",
+      "pages": 1
+    },
+    {
+      "file": "005_3.2.1_Artistic_culture_in_the_German_speaking_.pdf",
+      "code": "3.2.1",
+      "title": "Artistic culture in the German-speaking world",
+      "pages": 1
+    },
+    {
+      "file": "006_3.2.2_Aspects_of_political_life_in_the_German_.pdf",
+      "code": "3.2.2",
+      "title": "Aspects of political life in the German-speaking world",
+      "pages": 1
+    },
+    {
+      "file": "007_3.3_Grammar.pdf",
+      "code": "3.3",
+      "title": "Grammar",
+      "pages": 1
+    },
+    {
+      "file": "008_3.3.1_AS_grammar.pdf",
+      "code": "3.3.1",
+      "title": "AS grammar",
+      "pages": 4
+    },
+    {
+      "file": "009_3.3.2_A_level_grammar.pdf",
+      "code": "3.3.2",
+      "title": "A-level grammar",
+      "pages": 1
+    },
+    {
+      "file": "010_3.4.1_Literary_texts_and_films.pdf",
+      "code": "3.4.1",
+      "title": "Literary texts and films",
+      "pages": 1
+    },
+    {
+      "file": "011_3.5_Individual_research_project.pdf",
+      "code": "3.5",
+      "title": "Individual research project",
+      "pages": 1
+    }
+  ]
+}

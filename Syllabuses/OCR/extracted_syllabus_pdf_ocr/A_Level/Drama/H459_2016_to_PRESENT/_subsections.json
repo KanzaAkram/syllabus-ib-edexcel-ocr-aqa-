@@ -1,0 +1,112 @@
+{
+  "method": "toc",
+  "sections": 7,
+  "n": 15,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Practitioners_in_practice_perfo.pdf",
+      "code": "2c",
+      "title": "Content of: Practitioners in practice – performing (11/12)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Section_2_Section_2.pdf",
+      "code": "Section 2",
+      "title": "Section 2",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "003_Section_3_Section_3.pdf",
+      "code": "Section 3",
+      "title": "Section 3",
+      "kind": "Section",
+      "pages": 3
+    },
+    {
+      "file": "004_2c_Content_of_Practitioners_in_practice_desig.pdf",
+      "code": "2c",
+      "title": "Content of: Practitioners in practice – design (13/14)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "005_Section_2_Section_2.pdf",
+      "code": "Section 2",
+      "title": "Section 2",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "006_Section_3_Section_3.pdf",
+      "code": "Section 3",
+      "title": "Section 3",
+      "kind": "Section",
+      "pages": 3
+    },
+    {
+      "file": "007_2c_Exploring_and_performing_texts_performing_.pdf",
+      "code": "2c",
+      "title": ": Exploring and performing texts – performing (21)",
+      "kind": "section",
+      "pages": 1
+    },
+    {
+      "file": "008_2c_Exploring_and_performing_texts_design_22.pdf",
+      "code": "2c",
+      "title": ": Exploring and performing texts – design (22)",
+      "kind": "section",
+      "pages": 1
+    },
+    {
+      "file": "009_2c_Content_of_Analysing_performance_31.pdf",
+      "code": "2c",
+      "title": "Content of: Analysing performance (31)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "010_Centres_choose_two_texts_from_one_theme.pdf",
+      "code": "",
+      "title": "Centres choose two texts from one theme.",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "011_Conflict.pdf",
+      "code": "",
+      "title": "Conflict",
+      "kind": "rowlabel",
+      "pages": 2
+    },
+    {
+      "file": "012_2c_Deconstructing_texts_for_performance_41_48.pdf",
+      "code": "2c",
+      "title": ": Deconstructing texts for performance (41–48)",
+      "kind": "section",
+      "pages": 2
+    },
+    {
+      "file": "013_3j_Non_exam_assessment_Practitioners_in_pract.pdf",
+      "code": "3j",
+      "title": "Non-exam assessment: Practitioners in practice (11/12 and 13/14)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "014_Component_11_12_performing.pdf",
+      "code": "Component 11/12",
+      "title": "performing",
+      "kind": "Component",
+      "pages": 2
+    },
+    {
+      "file": "015_Component_13_14_design.pdf",
+      "code": "Component 13/14",
+      "title": "design",
+      "kind": "Component",
+      "pages": 1
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 60,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_Topic_1_Proof.pdf",
+      "code": "Topic 1",
+      "title": "Proof",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "003_Topic_2_Complex_numbers.pdf",
+      "code": "Topic 2",
+      "title": "Complex numbers",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "004_Topic_3_Matrices.pdf",
+      "code": "Topic 3",
+      "title": "Matrices",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "005_Topic_4_Further_algebra_and_functions.pdf",
+      "code": "Topic 4",
+      "title": "Further algebra and functions",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "006_Topic_5_Further_calculus.pdf",
+      "code": "Topic 5",
+      "title": "Further calculus",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "007_Topic_6_Further_vectors.pdf",
+      "code": "Topic 6",
+      "title": "Further vectors",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "008_Topic_7_Polar_coordinates.pdf",
+      "code": "Topic 7",
+      "title": "Polar coordinates",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Topic_8_Hyperbolic_functions.pdf",
+      "code": "Topic 8",
+      "title": "Hyperbolic functions",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "010_Topic_9_Differential_equations.pdf",
+      "code": "Topic 9",
+      "title": "Differential equations",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "011_Topic_1_Further_Trigonometry.pdf",
+      "code": "Topic 1",
+      "title": "Further Trigonometry",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "012_Topic_2_Further_calculus.pdf",
+      "code": "Topic 2",
+      "title": "Further calculus",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "013_Topic_3_Further_differential_equations.pdf",
+      "code": "Topic 3",
+      "title": "Further differential equations",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "014_Topic_4_Coordinate_systems.pdf",
+      "code": "Topic 4",
+      "title": "Coordinate systems",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "015_Topic_5_Further_vectors.pdf",
+      "code": "Topic 5",
+      "title": "Further vectors",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "016_Topic_6_Further_numerical_methods.pdf",
+      "code": "Topic 6",
+      "title": "Further numerical methods",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "017_Topic_7_Inequalities.pdf",
+      "code": "Topic 7",
+      "title": "Inequalities",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "018_Topic_1_Groups.pdf",
+      "code": "Topic 1",
+      "title": "Groups",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "019_Topic_2_Further_calculus.pdf",
+      "code": "Topic 2",
+      "title": "Further calculus",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "020_Topic_3_Further_matrix_algebra.pdf",
+      "code": "Topic 3",
+      "title": "Further matrix algebra",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "021_Topic_4_Further_complex_numbers.pdf",
+      "code": "Topic 4",
+      "title": "Further complex numbers",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "022_Topic_5_Number_theory.pdf",
+      "code": "Topic 5",
+      "title": "Number theory",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "023_Topic_6_Further_sequences_and_series.pdf",
+      "code": "Topic 6",
+      "title": "Further sequences and series",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "024_Topic_1_Discrete_probability_distributions.pdf",
+      "code": "Topic 1",
+      "title": "Discrete probability distributions",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "025_Topic_2_Poisson_binomial_distributions.pdf",
+      "code": "Topic 2",
+      "title": "Poisson & binomial distributions",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "026_Topic_3_Geometric_and_negative_binomial_distributi.pdf",
+      "code": "Topic 3",
+      "title": "Geometric and negative binomial distributions",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "027_Topic_4_Hypothesis_Testing.pdf",
+      "code": "Topic 4",
+      "title": "Hypothesis Testing",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "028_Topic_5_Central_Limit_Theorem.pdf",
+      "code": "Topic 5",
+      "title": "Central Limit Theorem",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "029_Topic_6_Chi_Squared_Tests.pdf",
+      "code": "Topic 6",
+      "title": "Chi Squared Tests",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "030_Topic_7_Probability_generating_functions.pdf",
+      "code": "Topic 7",
+      "title": "Probability generating functions",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "031_Topic_8_Quality_of_tests.pdf",
+      "code": "Topic 8",
+      "title": "Quality of tests",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "032_Topic_1_Linear_Regression.pdf",
+      "code": "Topic 1",
+      "title": "Linear Regression",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "033_Topic_2_Continuous_probability_distributions.pdf",
+      "code": "Topic 2",
+      "title": "Continuous probability distributions",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "034_Topic_3_Correlation.pdf",
+      "code": "Topic 3",
+      "title": "Correlation",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "035_Topic_4_Combinations_of_random_variables.pdf",
+      "code": "Topic 4",
+      "title": "Combinations of random variables",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "036_Topic_5_Estimation_confidence_intervals_and_tests_.pdf",
+      "code": "Topic 5",
+      "title": "Estimation, confidence intervals and tests using a",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "037_Topic_6_Other_Hypothesis_Tests_and_confidence.pdf",
+      "code": "Topic 6",
+      "title": "Other Hypothesis Tests and confidence",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "038_Topic_7_Confidence_intervals_and_tests_using_the.pdf",
+      "code": "Topic 7",
+      "title": "Confidence intervals and tests using the",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "039_Topic_1_Momentum_and_impulse.pdf",
+      "code": "Topic 1",
+      "title": "Momentum and impulse",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "040_Topic_2_Work_energy_and_power.pdf",
+      "code": "Topic 2",
+      "title": "Work, energy and power",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "041_Topic_3_Elastic_strings_and_springs_and_elastic_en.pdf",
+      "code": "Topic 3",
+      "title": "Elastic strings and springs and elastic energy",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "042_Topic_4_Elastic_collisions_in_one_dimension.pdf",
+      "code": "Topic 4",
+      "title": "Elastic collisions in one dimension",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "043_Topic_5_Elastic_collisions_in_two_dimensions.pdf",
+      "code": "Topic 5",
+      "title": "Elastic collisions in two dimensions",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "044_Topic_1_Motion_in_a_circle.pdf",
+      "code": "Topic 1",
+      "title": "Motion in a circle",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "045_Topic_2_Centres_of_mass_of_plane_figures.pdf",
+      "code": "Topic 2",
+      "title": "Centres of mass of plane figures",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "046_Topic_3_Further_centres_of_mass.pdf",
+      "code": "Topic 3",
+      "title": "Further centres of mass",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "047_Topic_4_Further_dynamics.pdf",
+      "code": "Topic 4",
+      "title": "Further dynamics",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "048_Topic_5_Further_kinematics.pdf",
+      "code": "Topic 5",
+      "title": "Further kinematics",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "049_Topic_1_Algorithms_and_graph_theory.pdf",
+      "code": "Topic 1",
+      "title": "Algorithms and graph theory",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "050_Topic_2_Algorithms_on_graphs.pdf",
+      "code": "Topic 2",
+      "title": "Algorithms on graphs",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "051_Topic_3_Algorithms_on_graphs_II.pdf",
+      "code": "Topic 3",
+      "title": "Algorithms on graphs II",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "052_Topic_4_Critical_path_analysis.pdf",
+      "code": "Topic 4",
+      "title": "Critical path analysis",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "053_Topic_5_Linear_programming.pdf",
+      "code": "Topic 5",
+      "title": "Linear programming",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "054_Topic_1_Transportation_problems.pdf",
+      "code": "Topic 1",
+      "title": "Transportation problems",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "055_Topic_2_Allocation_assignment_problems.pdf",
+      "code": "Topic 2",
+      "title": "Allocation (assignment) problems",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "056_Topic_3_Flows_in_networks.pdf",
+      "code": "Topic 3",
+      "title": "Flows in networks",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "057_Topic_4_Dynamic_programming.pdf",
+      "code": "Topic 4",
+      "title": "Dynamic programming",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "058_Topic_5_Game_theory.pdf",
+      "code": "Topic 5",
+      "title": "Game theory",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "059_Topic_6_Recurrence_relations.pdf",
+      "code": "Topic 6",
+      "title": "Recurrence relations",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "060_Topic_7_Decision_analysis.pdf",
+      "code": "Topic 7",
+      "title": "Decision analysis",
+      "family": "Topic",
+      "pages": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "method": "toc",
+  "n": 4,
+  "subsections": [
+    {
+      "file": "001_3.1_Scope_of_study.pdf",
+      "code": "3.1",
+      "title": "Scope of study",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Reading_and_comprehension.pdf",
+      "code": "3.1.1",
+      "title": "Reading and comprehension",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_Writing.pdf",
+      "code": "3.1.2",
+      "title": "Writing",
+      "pages": 1
+    },
+    {
+      "file": "004_3.1.3_Spoken_language.pdf",
+      "code": "3.1.3",
+      "title": "Spoken language",
+      "pages": 1
+    }
+  ]
+}

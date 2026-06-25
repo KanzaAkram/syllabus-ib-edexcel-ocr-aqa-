@@ -1,0 +1,217 @@
+{
+  "method": "toc",
+  "sections": 2,
+  "n": 30,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Principles_of_Design_and_Techno.pdf",
+      "code": "2c",
+      "title": "Content of Principles of Design and Technology (J310/01)",
+      "kind": "overview",
+      "pages": 2
+    },
+    {
+      "file": "002_1_1_How_can_exploring_the_context_a_design_sol.pdf",
+      "code": "1.1",
+      "title": "How can exploring the context a design solution is intended for inform decisions and outcomes?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "003_1_2_Why_is_usability_an_important_consideratio.pdf",
+      "code": "1.2",
+      "title": "Why is usability an important consideration when designing prototypes?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "004_2_1_What_are_the_opportunities_and_constraints.pdf",
+      "code": "2.1",
+      "title": "What are the opportunities and constraints that influence design and making requirements?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "005_2_2_How_do_developments_in_Design_and_Technolo.pdf",
+      "code": "2.2",
+      "title": "How do developments in Design and Technology influence design decisions and practice?",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "006_3_1_What_are_the_impacts_of_new_and_emerging_t.pdf",
+      "code": "3.1",
+      "title": "What are the impacts of new and emerging technologies when developing design solutions?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "007_3_2_How_do_designers_choose_appropriate_source.pdf",
+      "code": "3.2",
+      "title": "How do designers choose appropriate sources of energy to make products and power systems?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "008_3_3_What_wider_implications_can_have_an_influe.pdf",
+      "code": "3.3",
+      "title": "What wider implications can have an influence on the processes of designing and making?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "009_4_1_How_can_design_solutions_be_communicated_t.pdf",
+      "code": "4.1",
+      "title": "How can design solutions be communicated to demonstrate their suitability to a third party?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "010_4_2_How_do_designers_source_information_and_th.pdf",
+      "code": "4.2",
+      "title": "How do designers source information and thinking when problem solving?",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "011_5_1_What_are_the_main_categories_of_materials_.pdf",
+      "code": "5.1",
+      "title": "What are the main categories of materials available to designers when developing design",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "012_5_2_What_factors_are_important_to_consider_whe.pdf",
+      "code": "5.2",
+      "title": "What factors are important to consider when selecting appropriate materials and/or system",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "013_5_3_Why_is_it_important_to_understand_the_sour.pdf",
+      "code": "5.3",
+      "title": "Why is it important to understand the sources or origins of materials and/or system components?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "014_5_4_Why_is_it_important_to_know_the_different_.pdf",
+      "code": "5.4",
+      "title": "Why is it important to know the different available forms of specific materials and/or systems",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "015_6_1_What_gives_a_product_structural_integrity.pdf",
+      "code": "6.1",
+      "title": "What gives a product structural integrity?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "016_6_2_How_can_materials_and_products_be_finished.pdf",
+      "code": "6.2",
+      "title": "How can materials and products be finished for different purposes?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "017_6_3_How_do_we_introduce_controlled_movement_to.pdf",
+      "code": "6.3",
+      "title": "How do we introduce controlled movement to products and systems?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "018_6_4_How_do_electronic_systems_provide_function.pdf",
+      "code": "6.4",
+      "title": "How do electronic systems provide functionality to products and processes?",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "019_7_1_How_can_materials_and_processes_be_used_to.pdf",
+      "code": "7.1",
+      "title": "How can materials and processes be used to make iterative models?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "020_7_2_How_can_materials_be_manipulated_and_joine.pdf",
+      "code": "7.2",
+      "title": "How can materials be manipulated and joined in different ways in a workshop environment",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "021_7_3_How_do_designers_and_manufacturers_ensure_.pdf",
+      "code": "7.3",
+      "title": "How do designers and manufacturers ensure accuracy when making prototypes and products?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "022_7_4_How_do_industry_professionals_use_digital_.pdf",
+      "code": "7.4",
+      "title": "How do industry professionals use digital design tools when exploring and developing design",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "023_7_5_How_do_processes_vary_when_manufacturing_p.pdf",
+      "code": "7.5",
+      "title": "How do processes vary when manufacturing products to different scales of production?",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "024_7_6_How_do_new_and_emerging_technologies_have_.pdf",
+      "code": "7.6",
+      "title": "How do new and emerging technologies have an impact on production techniques and",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "025_8_1_How_can_cost_and_availability_of_specific_.pdf",
+      "code": "8.1",
+      "title": "How can cost and availability of specific materials and/or system components affect their",
+      "kind": "decimal",
+      "pages": 3
+    },
+    {
+      "file": "026_Non_exam_assessment_content_Iterative_Desi.pdf",
+      "code": "",
+      "title": "Non-exam assessment content – Iterative Design Challenge (J310/02, 03)",
+      "kind": "label",
+      "pages": 1
+    },
+    {
+      "file": "027_Explore_AO1.pdf",
+      "code": "",
+      "title": "Explore (AO1)",
+      "kind": "label",
+      "pages": 1
+    },
+    {
+      "file": "028_Create_AO2.pdf",
+      "code": "",
+      "title": "Create (AO2)",
+      "kind": "label",
+      "pages": 1
+    },
+    {
+      "file": "029_Evaluate_AO3.pdf",
+      "code": "",
+      "title": "Evaluate (AO3)",
+      "kind": "label",
+      "pages": 2
+    },
+    {
+      "file": "030_NEA_content_requirement.pdf",
+      "code": "",
+      "title": "NEA content requirement",
+      "kind": "label",
+      "pages": 3
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 4,
+  "subsections": [
+    {
+      "file": "001_Section_A_Non_fiction.pdf",
+      "code": "Section A",
+      "title": "Non-fiction",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "002_Section_B_Transactional_Writing.pdf",
+      "code": "Section B",
+      "title": "Transactional Writing",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "003_Section_A_Poetry_and_Prose_Texts.pdf",
+      "code": "Section A",
+      "title": "Poetry and Prose Texts",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "004_Section_B_Imaginative_Writing.pdf",
+      "code": "Section B",
+      "title": "Imaginative Writing",
+      "family": "Section",
+      "pages": 1
+    }
+  ]
+}

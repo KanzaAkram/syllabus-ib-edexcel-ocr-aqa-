@@ -1,0 +1,180 @@
+{
+  "method": "toc",
+  "n": 29,
+  "subsections": [
+    {
+      "file": "001_3.1_Core_technical_principles.pdf",
+      "code": "3.1",
+      "title": "Core technical principles",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_New_and_emerging_technologies.pdf",
+      "code": "3.1.1",
+      "title": "New and emerging technologies",
+      "pages": 3
+    },
+    {
+      "file": "003_3.1.2_Energy_generation_and_storage.pdf",
+      "code": "3.1.2",
+      "title": "Energy generation and storage",
+      "pages": 2
+    },
+    {
+      "file": "004_3.1.3_Developments_in_new_materials.pdf",
+      "code": "3.1.3",
+      "title": "Developments in new materials",
+      "pages": 2
+    },
+    {
+      "file": "005_3.1.4_Systems_approach_to_designing.pdf",
+      "code": "3.1.4",
+      "title": "Systems approach to designing",
+      "pages": 1
+    },
+    {
+      "file": "006_3.1.5_Mechanical_devices.pdf",
+      "code": "3.1.5",
+      "title": "Mechanical devices",
+      "pages": 1
+    },
+    {
+      "file": "007_3.1.6_Materials_and_their_working_properties.pdf",
+      "code": "3.1.6",
+      "title": "Materials and their working properties",
+      "pages": 5
+    },
+    {
+      "file": "008_3.2_Specialist_technical_principles.pdf",
+      "code": "3.2",
+      "title": "Specialist technical principles",
+      "pages": 1
+    },
+    {
+      "file": "009_3.2.1_Selection_of_materials_or_components.pdf",
+      "code": "3.2.1",
+      "title": "Selection of materials or components",
+      "pages": 1
+    },
+    {
+      "file": "010_3.2.2_Forces_and_stresses.pdf",
+      "code": "3.2.2",
+      "title": "Forces and stresses",
+      "pages": 1
+    },
+    {
+      "file": "011_3.2.3_Ecological_and_social_footprint.pdf",
+      "code": "3.2.3",
+      "title": "Ecological and social footprint",
+      "pages": 2
+    },
+    {
+      "file": "012_3.2.4_Sources_and_origins.pdf",
+      "code": "3.2.4",
+      "title": "Sources and origins",
+      "pages": 1
+    },
+    {
+      "file": "013_3.2.5_Using_and_working_with_materials.pdf",
+      "code": "3.2.5",
+      "title": "Using and working with materials",
+      "pages": 2
+    },
+    {
+      "file": "014_3.2.6_Stock_forms_types_and_sizes.pdf",
+      "code": "3.2.6",
+      "title": "Stock forms, types and sizes",
+      "pages": 2
+    },
+    {
+      "file": "015_3.2.7_Scales_of_production.pdf",
+      "code": "3.2.7",
+      "title": "Scales of production",
+      "pages": 2
+    },
+    {
+      "file": "016_3.2.8_Specialist_techniques_and_processes.pdf",
+      "code": "3.2.8",
+      "title": "Specialist techniques and processes",
+      "pages": 3
+    },
+    {
+      "file": "017_3.2.9_Surface_treatments_and_finishes.pdf",
+      "code": "3.2.9",
+      "title": "Surface treatments and finishes",
+      "pages": 2
+    },
+    {
+      "file": "018_3.3_Designing_and_making_principles.pdf",
+      "code": "3.3",
+      "title": "Designing and making principles",
+      "pages": 1
+    },
+    {
+      "file": "019_3.3.1_Investigation_primary_and_secondary_data.pdf",
+      "code": "3.3.1",
+      "title": "Investigation, primary and secondary data",
+      "pages": 1
+    },
+    {
+      "file": "020_3.3.2_Environmental_social_and_economic_challe.pdf",
+      "code": "3.3.2",
+      "title": "Environmental, social and economic challenge",
+      "pages": 1
+    },
+    {
+      "file": "021_3.3.3_The_work_of_others.pdf",
+      "code": "3.3.3",
+      "title": "The work of others",
+      "pages": 1
+    },
+    {
+      "file": "022_3.3.4_Design_strategies.pdf",
+      "code": "3.3.4",
+      "title": "Design strategies",
+      "pages": 1
+    },
+    {
+      "file": "023_3.3.5_Communication_of_design_ideas.pdf",
+      "code": "3.3.5",
+      "title": "Communication of design ideas",
+      "pages": 1
+    },
+    {
+      "file": "024_3.3.6_Prototype_development.pdf",
+      "code": "3.3.6",
+      "title": "Prototype development",
+      "pages": 1
+    },
+    {
+      "file": "025_3.3.7_Selection_of_materials_and_components.pdf",
+      "code": "3.3.7",
+      "title": "Selection of materials and components",
+      "pages": 1
+    },
+    {
+      "file": "026_3.3.8_Tolerances.pdf",
+      "code": "3.3.8",
+      "title": "Tolerances",
+      "pages": 1
+    },
+    {
+      "file": "027_3.3.9_Material_management.pdf",
+      "code": "3.3.9",
+      "title": "Material management",
+      "pages": 1
+    },
+    {
+      "file": "028_3.3.10_Specialist_tools_and_equipment.pdf",
+      "code": "3.3.10",
+      "title": "Specialist tools and equipment",
+      "pages": 1
+    },
+    {
+      "file": "029_3.3.11_Specialist_techniques_and_processes.pdf",
+      "code": "3.3.11",
+      "title": "Specialist techniques and processes",
+      "pages": 1
+    }
+  ]
+}

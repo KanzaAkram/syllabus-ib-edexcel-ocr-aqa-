@@ -1,0 +1,1244 @@
+[
+  {
+    "pdf": "A_Level/Art_and_Design/9AD0_2017_to_PRESENT/Edexcel_ALEVEL_Art_and_Design_9AD0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 4,
+    "files": 4,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Biology/8BN01_2008_to_2016/Edexcel_ALEVEL_Biology_8BN01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 49,
+    "files": 36,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Biology/9BI0_2017_to_PRESENT/Edexcel_ALEVEL_Biology_9BI0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 61,
+    "files": 61,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Business_Studies/8BS01_2008_to_2016/Edexcel_ALEVEL_Business_Studies_8BS01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 9,
+    "files": 6,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Business_Studies/9BS0_2017_to_PRESENT/Edexcel_ALEVEL_Business_Studies_9BS0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 22,
+    "files": 22,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Chemistry/8CH01_2008_to_2016/Edexcel_ALEVEL_Chemistry_8CH01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 47,
+    "files": 39,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Chemistry/9CH0_2017_to_PRESENT/Edexcel_ALEVEL_Chemistry_9CH0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 39,
+    "files": 39,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Design_and_Technology/9DT0_2017_to_PRESENT/Edexcel_ALEVEL_Design_and_Technology_9DT0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 13,
+    "files": 13,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Drama/8DR01_2008_to_2016/Edexcel_ALEVEL_Drama_8DR01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 23,
+    "files": 22,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Drama/9DR0_2017_to_PRESENT/Edexcel_ALEVEL_Drama_9DR0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 4,
+    "files": 4,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Economics/8EC01_2008_to_2016/Edexcel_ALEVEL_Economics_8EC01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 13,
+    "files": 9,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Economics/9EC0_2017_to_PRESENT/Edexcel_ALEVEL_Economics_9EC0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 4,
+    "files": 4,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/English_Language/9EN0_2017_to_PRESENT/Edexcel_ALEVEL_English_Language_9EN0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 5,
+    "files": 5,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/English_Literature/8ET01_2008_to_2016/Edexcel_ALEVEL_English_Literature_8ET01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 23,
+    "files": 23,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/English_Literature/9ET0_2017_to_PRESENT/Edexcel_ALEVEL_English_Literature_9ET0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 3,
+    "files": 3,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/French/8FR01_2008_to_2016/Edexcel_ALEVEL_French_8FR01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 19,
+    "files": 15,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/French/9FR0_2017_to_PRESENT/Edexcel_ALEVEL_French_9FR0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 8,
+    "files": 8,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Further_Mathematics/9FM0_2017_to_PRESENT/Edexcel_ALEVEL_Further_Mathematics_9FM0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 60,
+    "files": 60,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Geography/8GE01_2008_to_2016/Edexcel_ALEVEL_Geography_8GE01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 29,
+    "files": 24,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Geography/9GE0_2017_to_PRESENT/Edexcel_ALEVEL_Geography_9GE0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 54,
+    "files": 51,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/History/8HI01_2008_to_2016/Edexcel_ALEVEL_History_8HI01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 71,
+    "files": 69,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/History/9HI0_2017_to_PRESENT/Edexcel_ALEVEL_History_9HI0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 42,
+    "files": 42,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Mathematics/8371_2005_to_2012/Edexcel_ALEVEL_Mathematics_8371_2005_to_2012_LEGACY.pdf",
+    "status": "EMPTY",
+    "mode": "subsection",
+    "method": "none",
+    "sections": 0,
+    "units": 0,
+    "files": 0,
+    "warnings": [
+      "No syllabus sub-topics located."
+    ]
+  },
+  {
+    "pdf": "A_Level/Mathematics/9371_2013_to_2016/Edexcel_ALEVEL_Mathematics_9371_2013_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 18,
+    "files": 18,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Mathematics/9MA0_2017_to_PRESENT/Edexcel_ALEVEL_Mathematics_9MA0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 20,
+    "files": 20,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Music/8MU01_2008_to_2016/Edexcel_ALEVEL_Music_8MU01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 42,
+    "files": 34,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Music/9MU0_2017_to_PRESENT/Edexcel_ALEVEL_Music_9MU0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 10,
+    "files": 10,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Physical_Education/8PE01_2008_to_2016/Edexcel_ALEVEL_Physical_Education_8PE01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 17,
+    "files": 17,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Physical_Education/9PE0_2017_to_PRESENT/Edexcel_ALEVEL_Physical_Education_9PE0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 34,
+    "files": 34,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Physics/8PH01_2008_to_2016/Edexcel_ALEVEL_Physics_8PH01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 51,
+    "files": 43,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Physics/9PH0_2017_to_PRESENT/Edexcel_ALEVEL_Physics_9PH0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 15,
+    "files": 15,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Politics/8GP01_2008_to_2016/Edexcel_ALEVEL_Politics_8GP01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 18,
+    "files": 14,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Politics/9PL0_2017_to_PRESENT/Edexcel_ALEVEL_Politics_9PL0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 3,
+    "files": 3,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Psychology/8PS01_2008_to_2016/Edexcel_ALEVEL_Psychology_8PS01_2008_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 15,
+    "files": 13,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Psychology/9PS0_2017_to_PRESENT/Edexcel_ALEVEL_Psychology_9PS0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 51,
+    "files": 51,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Religious_Studies/9RS0_2017_to_PRESENT/Edexcel_ALEVEL_Religious_Studies_9RS0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 54,
+    "files": 54,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Spanish/9SP0_2017_to_PRESENT/Edexcel_ALEVEL_Spanish_9SP0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 8,
+    "files": 8,
+    "warnings": []
+  },
+  {
+    "pdf": "A_Level/Statistics/9ST0_2017_to_PRESENT/Edexcel_ALEVEL_Statistics_9ST0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 21,
+    "files": 21,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/1AD0_2017_to_PRESENT/Edexcel_GCSE_Art_and_Design_1AD0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 2,
+    "files": 2,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Art_and_Design/NA_2011_to_2016/Edexcel_GCSE_Art_and_Design_NA_2011_to_2016_LEGACY.pdf",
+    "status": "EMPTY",
+    "mode": "subsection",
+    "method": "none",
+    "sections": 0,
+    "units": 0,
+    "files": 0,
+    "warnings": [
+      "No syllabus sub-topics located."
+    ]
+  },
+  {
+    "pdf": "GCSE/Biology/1BI0_2017_to_PRESENT/Edexcel_GCSE_Biology_1BI0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 9,
+    "files": 9,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Biology/2BI01_2012_to_2016/Edexcel_GCSE_Biology_2BI01_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 17,
+    "files": 16,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Business_Studies/1BS0_2017_to_PRESENT/Edexcel_GCSE_Business_Studies_1BS0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 40,
+    "files": 39,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Business_Studies/2BS01_2012_to_2016/Edexcel_GCSE_Business_Studies_2BS01_2012_to_2016_LEGACY.pdf",
+    "status": "EMPTY",
+    "mode": "subsection",
+    "method": "none",
+    "sections": 0,
+    "units": 0,
+    "files": 0,
+    "warnings": [
+      "No syllabus sub-topics located."
+    ]
+  },
+  {
+    "pdf": "GCSE/Chemistry/1CH0_2017_to_PRESENT/Edexcel_GCSE_Chemistry_1CH0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 9,
+    "files": 9,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Chemistry/2CH01_2012_to_2016/Edexcel_GCSE_Chemistry_2CH01_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 13,
+    "files": 11,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Computer_Science/1CP2_2017_to_PRESENT/Edexcel_GCSE_Computer_Science_1CP2_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 21,
+    "files": 21,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Computer_Science/2CP01_2012_to_2016/Edexcel_GCSE_Computer_Science_2CP01_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 19,
+    "files": 18,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Design_and_Technology/1DT0_2017_to_PRESENT/Edexcel_GCSE_Design_and_Technology_1DT0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 76,
+    "files": 76,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Design_and_Technology/NA_2011_to_2016/Edexcel_GCSE_Design_and_Technology_NA_2011_to_2016_LEGACY.pdf",
+    "status": "EMPTY",
+    "mode": "subsection",
+    "method": "none",
+    "sections": 0,
+    "units": 0,
+    "files": 0,
+    "warnings": [
+      "No syllabus sub-topics located."
+    ]
+  },
+  {
+    "pdf": "GCSE/Drama/1DR0_2017_to_PRESENT/Edexcel_GCSE_Drama_1DR0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 5,
+    "files": 5,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Economics/NA_2009_to_2016/Edexcel_GCSE_Economics_NA_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 2,
+    "files": 2,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/English_Language/1EN0_2017_to_PRESENT/Edexcel_GCSE_English_Language_1EN0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 7,
+    "files": 7,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/English_Language/2EN01_2012_to_2016/Edexcel_GCSE_English_Language_2EN01_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 4,
+    "files": 4,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/English_Literature/1ET0_2017_to_PRESENT/Edexcel_GCSE_English_Literature_1ET0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 7,
+    "files": 7,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/English_Literature/2ET01_2012_to_2016/Edexcel_GCSE_English_Literature_2ET01_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 4,
+    "files": 4,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/French/1FR1_2017_to_PRESENT/Edexcel_GCSE_French_1FR1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 7,
+    "files": 7,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/French/2FR01_2012_to_2016/Edexcel_GCSE_French_2FR01_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 2,
+    "files": 2,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Geography/1GA0_2017_to_PRESENT/Edexcel_GCSE_Geography_1GA0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 62,
+    "files": 62,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Geography/2GE01_2012_to_2016/Edexcel_GCSE_Geography_2GE01_2012_to_2016_LEGACY.pdf",
+    "status": "EMPTY",
+    "mode": "subsection",
+    "method": "none",
+    "sections": 0,
+    "units": 0,
+    "files": 0,
+    "warnings": [
+      "No syllabus sub-topics located."
+    ]
+  },
+  {
+    "pdf": "GCSE/History/1HI0_2017_to_PRESENT/Edexcel_GCSE_History_1HI0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 18,
+    "files": 18,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/History/2HI01_2012_to_2016/Edexcel_GCSE_History_2HI01_2012_to_2016_LEGACY.pdf",
+    "status": "EMPTY",
+    "mode": "subsection",
+    "method": "none",
+    "sections": 0,
+    "units": 0,
+    "files": 0,
+    "warnings": [
+      "No syllabus sub-topics located."
+    ]
+  },
+  {
+    "pdf": "GCSE/Mathematics/1380_2006_to_2012/Edexcel_GCSE_Mathematics_1380_2006_to_2012_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 13,
+    "files": 13,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Mathematics/1MA1_2017_to_PRESENT/Edexcel_GCSE_Mathematics_1MA1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 3,
+    "units": 7,
+    "files": 7,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Music/1MU0_2017_to_PRESENT/Edexcel_GCSE_Music_1MU0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 8,
+    "files": 8,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Music/NA_2011_to_2016/Edexcel_GCSE_Music_NA_2011_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 8,
+    "files": 7,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Physical_Education/1PE0_2017_to_PRESENT/Edexcel_GCSE_Physical_Education_1PE0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 25,
+    "files": 25,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Physics/1PH0_2017_to_PRESENT/Edexcel_GCSE_Physics_1PH0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 15,
+    "files": 15,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Physics/2PH01_2012_to_2016/Edexcel_GCSE_Physics_2PH01_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 16,
+    "files": 16,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Psychology/1PY0_2017_to_PRESENT/Edexcel_GCSE_Psychology_1PY0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 28,
+    "files": 28,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Psychology/NA_2013_to_2016/Edexcel_GCSE_Psychology_NA_2013_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 6,
+    "files": 6,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT/Edexcel_GCSE_Religious_Studies_1RA0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 22,
+    "files": 22,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Religious_Studies/1RB0_2012_to_2016/Edexcel_GCSE_Religious_Studies_1RB0_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 33,
+    "files": 33,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Religious_Studies/2RS01_2012_to_2016/Edexcel_GCSE_Religious_Studies_2RS01_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 65,
+    "files": 65,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Spanish/1SP0_2017_to_PRESENT/Edexcel_GCSE_Spanish_1SP0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 4,
+    "files": 4,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Spanish/1SP1_2017_to_PRESENT/Edexcel_GCSE_Spanish_1SP1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 8,
+    "files": 8,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Spanish/2SP01_2012_to_2016/Edexcel_GCSE_Spanish_2SP01_2012_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 3,
+    "units": 2,
+    "files": 2,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Statistics/1ST0_2017_to_PRESENT/Edexcel_GCSE_Statistics_1ST0_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 13,
+    "files": 12,
+    "warnings": []
+  },
+  {
+    "pdf": "GCSE/Statistics/NA_2011_to_2016/Edexcel_GCSE_Statistics_NA_2011_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 15,
+    "files": 15,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Biology/Linear/4BI0_2009_to_2016/Edexcel_IGCSE_Biology_4BI0_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 22,
+    "files": 21,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Biology/Linear/4BI1_2017_to_PRESENT/Edexcel_IGCSE_Biology_4BI1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 22,
+    "files": 22,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Business_Studies/Linear/4BS0_2011_to_2016/Edexcel_IGCSE_Business_Studies_4BS0_2011_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 28,
+    "files": 28,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Business_Studies/Linear/4BS1_2017_to_PRESENT/Edexcel_IGCSE_Business_Studies_4BS1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 26,
+    "files": 26,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Chemistry/Linear/4CH0_2009_to_2016/Edexcel_IGCSE_Chemistry_4CH0_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 13,
+    "files": 11,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Chemistry/Linear/4CH1_2017_to_PRESENT/Edexcel_IGCSE_Chemistry_4CH1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 28,
+    "files": 28,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Computer_Science/Linear/4CP0_2013_to_2016/Edexcel_IGCSE_Computer_Science_4CP0_2013_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 22,
+    "files": 22,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Economics/Linear/4EC0_2011_to_2016/Edexcel_IGCSE_Economics_4EC0_2011_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 2,
+    "units": 2,
+    "files": 2,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Economics/Linear/4EC1_2017_to_PRESENT/Edexcel_IGCSE_Economics_4EC1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 19,
+    "files": 19,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/English_Language/Linear/4EA0_2011_to_2016/Edexcel_IGCSE_English_Language_4EA0_2011_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 5,
+    "units": 10,
+    "files": 10,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/English_Language/Linear/4EA1_2017_to_PRESENT/Edexcel_IGCSE_English_Language_4EA1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 5,
+    "files": 4,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/English_Literature/Linear/4ET1_2017_to_PRESENT/Edexcel_IGCSE_English_Literature_4ET1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 6,
+    "files": 6,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/French/Linear/4FR0_2011_to_2016/Edexcel_IGCSE_French_4FR0_2011_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 5,
+    "files": 5,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/French/Linear/4FR1_2017_to_PRESENT/Edexcel_IGCSE_French_4FR1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 12,
+    "files": 12,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Further_Mathematics/Linear/4PM0_2011_to_2016/Edexcel_IGCSE_Further_Mathematics_4PM0_2011_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 2,
+    "units": 11,
+    "files": 11,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Further_Mathematics/Linear/4PM1_2016_to_PRESENT/Edexcel_IGCSE_Further_Mathematics_4PM1_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 11,
+    "files": 11,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Geography/Linear/4GE0_2013_to_2016/Edexcel_IGCSE_Geography_4GE0_2013_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 5,
+    "files": 5,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Geography/Linear/4GE1_2017_to_PRESENT/Edexcel_IGCSE_Geography_4GE1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 30,
+    "files": 30,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/History/Linear/4HI0_2013_to_2016/Edexcel_IGCSE_History_4HI0_2013_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 10,
+    "files": 10,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/History/Linear/4HI1_2017_to_PRESENT/Edexcel_IGCSE_History_4HI1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 22,
+    "files": 22,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Mathematics/Linear/4MA1_2016_to_PRESENT/Edexcel_IGCSE_Mathematics_4MA1_2016_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 8,
+    "files": 8,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Mathematics/Modular/4MA0_2011_to_2016/Edexcel_IGCSE_Mathematics_4MA0_2011_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 53,
+    "files": 46,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Physics/Linear/4PH0_2009_to_2016/Edexcel_IGCSE_Physics_4PH0_2009_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 11,
+    "files": 10,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Physics/Linear/4PH1_2017_to_PRESENT/Edexcel_IGCSE_Physics_4PH1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 28,
+    "files": 27,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Spanish/Linear/4SP0_2011_to_2016/Edexcel_IGCSE_Spanish_4SP0_2011_to_2016_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 5,
+    "files": 5,
+    "warnings": []
+  },
+  {
+    "pdf": "IGCSE/Spanish/Linear/4SP1_2017_to_PRESENT/Edexcel_IGCSE_Spanish_4SP1_2017_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "numbered",
+    "sections": 1,
+    "units": 12,
+    "files": 12,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/Biology/WBI01_2014_to_2019/Edexcel_IAL_Biology_WBI01_2014_to_2019_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 43,
+    "files": 33,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/Biology/WBI11_2019_to_PRESENT/Edexcel_IAL_Biology_WBI11_2019_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 11,
+    "files": 11,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/Chemistry/WCH01_2014_to_2019/Edexcel_IAL_Chemistry_WCH01_2014_to_2019_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 44,
+    "files": 38,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/Chemistry/WCH11_2019_to_PRESENT/Edexcel_IAL_Chemistry_WCH11_2019_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 23,
+    "files": 23,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/French/WFR01_2014_to_PRESENT/Edexcel_IAL_French_WFR01_2014_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 13,
+    "files": 13,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/Mathematics/WMA01_2013_to_2018/Edexcel_IAL_Mathematics_WMA01_2013_to_2018_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 86,
+    "files": 65,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/Mathematics/WMA11_2018_to_PRESENT/Edexcel_IAL_Mathematics_WMA11_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 1,
+    "units": 98,
+    "files": 98,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/Physics/WPH01_2014_to_2019/Edexcel_IAL_Physics_WPH01_2014_to_2019_LEGACY.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 45,
+    "files": 36,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/Physics/WPH11_2019_to_PRESENT/Edexcel_IAL_Physics_WPH11_2019_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "font",
+    "sections": 2,
+    "units": 30,
+    "files": 30,
+    "warnings": []
+  },
+  {
+    "pdf": "International_A_Level/Spanish/WSP01_2014_to_PRESENT/Edexcel_IAL_Spanish_WSP01_2014_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "legacy",
+    "sections": 1,
+    "units": 13,
+    "files": 13,
+    "warnings": []
+  },
+  {
+    "pdf": "iLowerSecondary/Biology/LSC11_2018_to_PRESENT/Edexcel_ILOWERSEC_Biology_LSC11_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 48,
+    "files": 48,
+    "warnings": []
+  },
+  {
+    "pdf": "iLowerSecondary/Computer_Science/LCP11_2018_to_PRESENT/Edexcel_ILOWERSEC_Computer_Science_LCP11_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 15,
+    "files": 14,
+    "warnings": []
+  },
+  {
+    "pdf": "iLowerSecondary/English_Language/LEH11_2018_to_PRESENT/Edexcel_ILOWERSEC_English_Language_LEH11_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 9,
+    "files": 9,
+    "warnings": []
+  },
+  {
+    "pdf": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT/Edexcel_ILOWERSEC_Mathematics_LMA11_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 25,
+    "files": 24,
+    "warnings": []
+  },
+  {
+    "pdf": "iPrimary/Biology/JSC11_2018_to_PRESENT/Edexcel_IPRIMARY_Biology_JSC11_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 21,
+    "files": 21,
+    "warnings": []
+  },
+  {
+    "pdf": "iPrimary/Computer_Science/JCP11_2018_to_PRESENT/Edexcel_IPRIMARY_Computer_Science_JCP11_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 6,
+    "files": 6,
+    "warnings": []
+  },
+  {
+    "pdf": "iPrimary/English_Language/JEH11_2018_to_PRESENT/Edexcel_IPRIMARY_English_Language_JEH11_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 12,
+    "files": 11,
+    "warnings": []
+  },
+  {
+    "pdf": "iPrimary/Mathematics/JMA11_2018_to_PRESENT/Edexcel_IPRIMARY_Mathematics_JMA11_2018_to_PRESENT_CURRENT.pdf",
+    "status": "OK",
+    "mode": "subsection",
+    "method": "toc",
+    "sections": 1,
+    "units": 16,
+    "files": 16,
+    "warnings": []
+  }
+]

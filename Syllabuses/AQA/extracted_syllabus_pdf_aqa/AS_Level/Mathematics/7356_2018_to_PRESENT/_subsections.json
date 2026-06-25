@@ -1,0 +1,144 @@
+{
+  "method": "toc",
+  "n": 23,
+  "subsections": [
+    {
+      "file": "001_3.1_Overarching_themes.pdf",
+      "code": "3.1",
+      "title": "Overarching themes",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_OT1_Mathematical_argument_language_and_p.pdf",
+      "code": "3.1.1",
+      "title": "OT1: Mathematical argument, language and proof",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_OT2_Mathematical_problem_solving.pdf",
+      "code": "3.1.2",
+      "title": "OT2: Mathematical problem solving",
+      "pages": 2
+    },
+    {
+      "file": "004_3.1.3_OT3_Mathematical_modelling.pdf",
+      "code": "3.1.3",
+      "title": "OT3: Mathematical modelling",
+      "pages": 1
+    },
+    {
+      "file": "005_3.2_A_Proof.pdf",
+      "code": "3.2",
+      "title": "A: Proof",
+      "pages": 1
+    },
+    {
+      "file": "006_3.3_B_Algebra_and_functions.pdf",
+      "code": "3.3",
+      "title": "B: Algebra and functions",
+      "pages": 2
+    },
+    {
+      "file": "007_3.4_C_Coordinate_geometry_in_the_x_y_plane.pdf",
+      "code": "3.4",
+      "title": "C: Coordinate geometry in the ( x , y ) plane",
+      "pages": 1
+    },
+    {
+      "file": "008_3.5_D_Sequences_and_series.pdf",
+      "code": "3.5",
+      "title": "D: Sequences and series",
+      "pages": 1
+    },
+    {
+      "file": "009_3.6_E_Trigonometry.pdf",
+      "code": "3.6",
+      "title": "E: Trigonometry",
+      "pages": 2
+    },
+    {
+      "file": "010_3.7_F_Exponentials_and_logarithms.pdf",
+      "code": "3.7",
+      "title": "F: Exponentials and logarithms",
+      "pages": 2
+    },
+    {
+      "file": "011_3.8_G_Differentiation.pdf",
+      "code": "3.8",
+      "title": "G: Differentiation",
+      "pages": 1
+    },
+    {
+      "file": "012_3.9_H_Integration.pdf",
+      "code": "3.9",
+      "title": "H: Integration",
+      "pages": 1
+    },
+    {
+      "file": "013_3.10_J_Vectors.pdf",
+      "code": "3.10",
+      "title": "J: Vectors",
+      "pages": 1
+    },
+    {
+      "file": "014_3.11_K_Statistical_sampling.pdf",
+      "code": "3.11",
+      "title": "K: Statistical sampling",
+      "pages": 1
+    },
+    {
+      "file": "015_3.12_L_Data_presentation_and_interpretation.pdf",
+      "code": "3.12",
+      "title": "L: Data presentation and interpretation",
+      "pages": 1
+    },
+    {
+      "file": "016_3.13_M_Probability.pdf",
+      "code": "3.13",
+      "title": "M: Probability",
+      "pages": 1
+    },
+    {
+      "file": "017_3.14_N_Statistical_distributions.pdf",
+      "code": "3.14",
+      "title": "N: Statistical distributions",
+      "pages": 1
+    },
+    {
+      "file": "018_3.15_O_Statistical_hypothesis_testing.pdf",
+      "code": "3.15",
+      "title": "O: Statistical hypothesis testing",
+      "pages": 1
+    },
+    {
+      "file": "019_3.16_P_Quantities_and_units_in_mechanics.pdf",
+      "code": "3.16",
+      "title": "P: Quantities and units in mechanics",
+      "pages": 1
+    },
+    {
+      "file": "020_3.17_Q_Kinematics.pdf",
+      "code": "3.17",
+      "title": "Q: Kinematics",
+      "pages": 2
+    },
+    {
+      "file": "021_3.18_R_Forces_and_Newton_s_laws.pdf",
+      "code": "3.18",
+      "title": "R: Forces and Newton’s laws",
+      "pages": 1
+    },
+    {
+      "file": "022_3.19_Use_of_data_in_statistics.pdf",
+      "code": "3.19",
+      "title": "Use of data in statistics",
+      "pages": 1
+    },
+    {
+      "file": "023_3.19.1_Large_data_set.pdf",
+      "code": "3.19.1",
+      "title": "Large data set",
+      "pages": 1
+    }
+  ]
+}

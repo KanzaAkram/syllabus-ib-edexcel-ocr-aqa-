@@ -1,0 +1,258 @@
+{
+  "method": "toc",
+  "n": 42,
+  "subsections": [
+    {
+      "file": "001_3.1_Close_study_products_CSPs.pdf",
+      "code": "3.1",
+      "title": "Close study products (CSPs)",
+      "pages": 2
+    },
+    {
+      "file": "002_3.2_Contexts_of_the_media.pdf",
+      "code": "3.2",
+      "title": "Contexts of the media",
+      "pages": 1
+    },
+    {
+      "file": "003_3.3_Extended_response_and_synopticity.pdf",
+      "code": "3.3",
+      "title": "Extended response and synopticity",
+      "pages": 1
+    },
+    {
+      "file": "004_3.4_Media_language.pdf",
+      "code": "3.4",
+      "title": "Media language",
+      "pages": 1
+    },
+    {
+      "file": "005_3.4.1_Forms_of_media_language.pdf",
+      "code": "3.4.1",
+      "title": "Forms of media language",
+      "pages": 1
+    },
+    {
+      "file": "006_3.4.2_Choice_of_media_language.pdf",
+      "code": "3.4.2",
+      "title": "Choice of media language",
+      "pages": 1
+    },
+    {
+      "file": "007_3.4.3_Theories_of_narrative.pdf",
+      "code": "3.4.3",
+      "title": "Theories of narrative",
+      "pages": 1
+    },
+    {
+      "file": "008_3.4.4_Technology_and_media_products.pdf",
+      "code": "3.4.4",
+      "title": "Technology and media products",
+      "pages": 1
+    },
+    {
+      "file": "009_3.4.5_Codes_and_conventions.pdf",
+      "code": "3.4.5",
+      "title": "Codes and conventions",
+      "pages": 1
+    },
+    {
+      "file": "010_3.5_Media_representations.pdf",
+      "code": "3.5",
+      "title": "Media representations",
+      "pages": 1
+    },
+    {
+      "file": "011_3.5.1_Re_presentation.pdf",
+      "code": "3.5.1",
+      "title": "Re-presentation",
+      "pages": 1
+    },
+    {
+      "file": "012_3.5.2_Theoretical_perspectives_on_gender.pdf",
+      "code": "3.5.2",
+      "title": "Theoretical perspectives on gender",
+      "pages": 1
+    },
+    {
+      "file": "013_3.5.3_Choice_of_media_producers.pdf",
+      "code": "3.5.3",
+      "title": "Choice of media producers",
+      "pages": 1
+    },
+    {
+      "file": "014_3.5.4_Representation_of_reality.pdf",
+      "code": "3.5.4",
+      "title": "Representation of reality",
+      "pages": 1
+    },
+    {
+      "file": "015_3.5.5_Stereotypes.pdf",
+      "code": "3.5.5",
+      "title": "Stereotypes",
+      "pages": 1
+    },
+    {
+      "file": "016_3.5.6_Misrepresentation.pdf",
+      "code": "3.5.6",
+      "title": "Misrepresentation",
+      "pages": 1
+    },
+    {
+      "file": "017_3.5.7_Viewpoints.pdf",
+      "code": "3.5.7",
+      "title": "Viewpoints",
+      "pages": 1
+    },
+    {
+      "file": "018_3.5.8_Social_cultural_and_political_significan.pdf",
+      "code": "3.5.8",
+      "title": "Social, cultural and political significance",
+      "pages": 1
+    },
+    {
+      "file": "019_3.5.9_Reflection_of_contexts.pdf",
+      "code": "3.5.9",
+      "title": "Reflection of contexts",
+      "pages": 1
+    },
+    {
+      "file": "020_3.5.10_Audience_interpretation.pdf",
+      "code": "3.5.10",
+      "title": "Audience interpretation",
+      "pages": 1
+    },
+    {
+      "file": "021_3.6_Media_industries.pdf",
+      "code": "3.6",
+      "title": "Media industries",
+      "pages": 1
+    },
+    {
+      "file": "022_3.6.1_The_nature_of_media_production.pdf",
+      "code": "3.6.1",
+      "title": "The nature of media production",
+      "pages": 1
+    },
+    {
+      "file": "023_3.6.2_Production_processes.pdf",
+      "code": "3.6.2",
+      "title": "Production processes",
+      "pages": 1
+    },
+    {
+      "file": "024_3.6.3_Ownership.pdf",
+      "code": "3.6.3",
+      "title": "Ownership",
+      "pages": 1
+    },
+    {
+      "file": "025_3.6.4_Convergence.pdf",
+      "code": "3.6.4",
+      "title": "Convergence",
+      "pages": 1
+    },
+    {
+      "file": "026_3.6.5_Funding_models.pdf",
+      "code": "3.6.5",
+      "title": "Funding models",
+      "pages": 1
+    },
+    {
+      "file": "027_3.6.6_Commercial_industries.pdf",
+      "code": "3.6.6",
+      "title": "Commercial industries",
+      "pages": 1
+    },
+    {
+      "file": "028_3.6.7_Regulation.pdf",
+      "code": "3.6.7",
+      "title": "Regulation",
+      "pages": 1
+    },
+    {
+      "file": "029_3.6.8_Digital_technologies.pdf",
+      "code": "3.6.8",
+      "title": "Digital technologies",
+      "pages": 1
+    },
+    {
+      "file": "030_3.7_Media_audiences.pdf",
+      "code": "3.7",
+      "title": "Media audiences",
+      "pages": 1
+    },
+    {
+      "file": "031_3.7.1_Theoretical_perspectives_on_audiences.pdf",
+      "code": "3.7.1",
+      "title": "Theoretical perspectives on audiences",
+      "pages": 1
+    },
+    {
+      "file": "032_3.7.2_Range_of_audiences.pdf",
+      "code": "3.7.2",
+      "title": "Range of audiences",
+      "pages": 1
+    },
+    {
+      "file": "033_3.7.3_Targeting.pdf",
+      "code": "3.7.3",
+      "title": "Targeting",
+      "pages": 1
+    },
+    {
+      "file": "034_3.7.4_Categorisation.pdf",
+      "code": "3.7.4",
+      "title": "Categorisation",
+      "pages": 1
+    },
+    {
+      "file": "035_3.7.5_Media_technologies.pdf",
+      "code": "3.7.5",
+      "title": "Media technologies",
+      "pages": 1
+    },
+    {
+      "file": "036_3.7.6_Interpretations.pdf",
+      "code": "3.7.6",
+      "title": "Interpretations",
+      "pages": 1
+    },
+    {
+      "file": "037_3.7.7_Media_practices.pdf",
+      "code": "3.7.7",
+      "title": "Media practices",
+      "pages": 1
+    },
+    {
+      "file": "038_3.7.8_Social_cultural_and_political_significan.pdf",
+      "code": "3.7.8",
+      "title": "Social, cultural and political significance",
+      "pages": 1
+    },
+    {
+      "file": "039_3.7.9_Audience_responses.pdf",
+      "code": "3.7.9",
+      "title": "Audience responses",
+      "pages": 1
+    },
+    {
+      "file": "040_3.8_Non_exam_assessment_NEA.pdf",
+      "code": "3.8",
+      "title": "Non-exam assessment (NEA)",
+      "pages": 1
+    },
+    {
+      "file": "041_3.8.1_The_briefs.pdf",
+      "code": "3.8.1",
+      "title": "The briefs",
+      "pages": 3
+    },
+    {
+      "file": "042_3.8.2_Marking_criteria.pdf",
+      "code": "3.8.2",
+      "title": "Marking criteria",
+      "pages": 6
+    }
+  ]
+}

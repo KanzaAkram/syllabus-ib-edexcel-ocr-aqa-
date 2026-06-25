@@ -1,0 +1,42 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 5,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_Paper_1_Listening.pdf",
+      "code": "Paper 1",
+      "title": "Listening",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "003_Paper_2_Reading_and_Writing.pdf",
+      "code": "Paper 2",
+      "title": "Reading and Writing",
+      "family": "Paper",
+      "pages": 1
+    },
+    {
+      "file": "004_Paper_3_Speaking.pdf",
+      "code": "Paper 3",
+      "title": "Speaking",
+      "family": "Paper",
+      "pages": 9
+    },
+    {
+      "file": "005_Section_A_Presentation_and_discussion.pdf",
+      "code": "Section A",
+      "title": "Presentation and discussion",
+      "family": "Section",
+      "pages": 4
+    }
+  ]
+}

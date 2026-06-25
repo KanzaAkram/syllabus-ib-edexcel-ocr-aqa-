@@ -1,0 +1,312 @@
+{
+  "method": "toc",
+  "n": 51,
+  "subsections": [
+    {
+      "file": "001_3.1_Measurements_and_their_errors.pdf",
+      "code": "3.1",
+      "title": "Measurements and their errors",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Use_of_SI_units_and_their_prefixes.pdf",
+      "code": "3.1.1",
+      "title": "Use of SI units and their prefixes",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_Limitation_of_physical_measurements.pdf",
+      "code": "3.1.2",
+      "title": "Limitation of physical measurements",
+      "pages": 1
+    },
+    {
+      "file": "004_3.1.3_Estimation_of_physical_quantities.pdf",
+      "code": "3.1.3",
+      "title": "Estimation of physical quantities",
+      "pages": 1
+    },
+    {
+      "file": "005_3.2_Particles_and_radiation.pdf",
+      "code": "3.2",
+      "title": "Particles and radiation",
+      "pages": 2
+    },
+    {
+      "file": "006_3.2.1_Particles.pdf",
+      "code": "3.2.1",
+      "title": "Particles",
+      "pages": 4
+    },
+    {
+      "file": "007_3.2.2_Electromagnetic_radiation_and_quantum_ph.pdf",
+      "code": "3.2.2",
+      "title": "Electromagnetic radiation and quantum phenomena",
+      "pages": 2
+    },
+    {
+      "file": "008_3.3_Waves.pdf",
+      "code": "3.3",
+      "title": "Waves",
+      "pages": 1
+    },
+    {
+      "file": "009_3.3.1_Progressive_and_stationary_waves.pdf",
+      "code": "3.3.1",
+      "title": "Progressive and stationary waves",
+      "pages": 2
+    },
+    {
+      "file": "010_3.3.2_Refraction_diffraction_and_interference.pdf",
+      "code": "3.3.2",
+      "title": "Refraction, diffraction and interference",
+      "pages": 2
+    },
+    {
+      "file": "011_3.4_Mechanics_and_materials.pdf",
+      "code": "3.4",
+      "title": "Mechanics and materials",
+      "pages": 1
+    },
+    {
+      "file": "012_3.4.1_Force_energy_and_momentum.pdf",
+      "code": "3.4.1",
+      "title": "Force, energy and momentum",
+      "pages": 5
+    },
+    {
+      "file": "013_3.4.2_Materials.pdf",
+      "code": "3.4.2",
+      "title": "Materials",
+      "pages": 2
+    },
+    {
+      "file": "014_3.5_Electricity.pdf",
+      "code": "3.5",
+      "title": "Electricity",
+      "pages": 1
+    },
+    {
+      "file": "015_3.5.1_Current_electricity.pdf",
+      "code": "3.5.1",
+      "title": "Current electricity",
+      "pages": 3
+    },
+    {
+      "file": "016_3.6_Further_mechanics_and_thermal_physics_A_.pdf",
+      "code": "3.6",
+      "title": "Further mechanics and thermal physics (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "017_3.6.1_Periodic_motion_A_level_only.pdf",
+      "code": "3.6.1",
+      "title": "Periodic motion (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "018_3.6.2_Thermal_physics_A_level_only.pdf",
+      "code": "3.6.2",
+      "title": "Thermal physics (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "019_3.7_Fields_and_their_consequences_A_level_on.pdf",
+      "code": "3.7",
+      "title": "Fields and their consequences (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "020_3.7.1_Fields_A_level_only.pdf",
+      "code": "3.7.1",
+      "title": "Fields (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "021_3.7.2_Gravitational_fields_A_level_only.pdf",
+      "code": "3.7.2",
+      "title": "Gravitational fields (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "022_3.7.3_Electric_fields_A_level_only.pdf",
+      "code": "3.7.3",
+      "title": "Electric fields (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "023_3.7.4_Capacitance_A_level_only.pdf",
+      "code": "3.7.4",
+      "title": "Capacitance (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "024_3.7.5_Magnetic_fields_A_level_only.pdf",
+      "code": "3.7.5",
+      "title": "Magnetic fields (A-level only)",
+      "pages": 3
+    },
+    {
+      "file": "025_3.8_Nuclear_physics_A_level_only.pdf",
+      "code": "3.8",
+      "title": "Nuclear physics (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "026_3.8.1_Radioactivity_A_level_only.pdf",
+      "code": "3.8.1",
+      "title": "Radioactivity (A-level only)",
+      "pages": 5
+    },
+    {
+      "file": "027_3.9_Astrophysics_A_level_only.pdf",
+      "code": "3.9",
+      "title": "Astrophysics (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "028_3.9.1_Telescopes_A_level_only.pdf",
+      "code": "3.9.1",
+      "title": "Telescopes (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "029_3.9.2_Classification_of_stars_A_level_only.pdf",
+      "code": "3.9.2",
+      "title": "Classification of stars (A-level only)",
+      "pages": 3
+    },
+    {
+      "file": "030_3.9.3_Cosmology_A_level_only.pdf",
+      "code": "3.9.3",
+      "title": "Cosmology (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "031_3.10_Medical_physics_A_level_only.pdf",
+      "code": "3.10",
+      "title": "Medical physics (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "032_3.10.1_Physics_of_the_eye_A_level_only.pdf",
+      "code": "3.10.1",
+      "title": "Physics of the eye (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "033_3.10.2_Physics_of_the_ear_A_level_only.pdf",
+      "code": "3.10.2",
+      "title": "Physics of the ear (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "034_3.10.3_Biological_measurement_A_level_only.pdf",
+      "code": "3.10.3",
+      "title": "Biological measurement (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "035_3.10.4_Non_ionising_imaging_A_level_only.pdf",
+      "code": "3.10.4",
+      "title": "Non-ionising imaging (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "036_3.10.5_X_ray_imaging_A_level_only.pdf",
+      "code": "3.10.5",
+      "title": "X-ray imaging (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "037_3.10.6_Radionuclide_imaging_and_therapy_A_level.pdf",
+      "code": "3.10.6",
+      "title": "Radionuclide imaging and therapy (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "038_3.11_Engineering_physics_A_level_only.pdf",
+      "code": "3.11",
+      "title": "Engineering physics (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "039_3.11.1_Rotational_dynamics_A_level_only.pdf",
+      "code": "3.11.1",
+      "title": "Rotational dynamics (A-level only)",
+      "pages": 3
+    },
+    {
+      "file": "040_3.11.2_Thermodynamics_and_engines_A_level_only.pdf",
+      "code": "3.11.2",
+      "title": "Thermodynamics and engines (A-level only)",
+      "pages": 4
+    },
+    {
+      "file": "041_3.12_Turning_points_in_physics_A_level_only.pdf",
+      "code": "3.12",
+      "title": "Turning points in physics (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "042_3.12.1_The_discovery_of_the_electron_A_level_on.pdf",
+      "code": "3.12.1",
+      "title": "The discovery of the electron (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "043_3.12.2_Wave_particle_duality_A_level_only.pdf",
+      "code": "3.12.2",
+      "title": "Wave-particle duality (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "044_3.12.3_Special_relativity_A_level_only.pdf",
+      "code": "3.12.3",
+      "title": "Special relativity (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "045_3.13_Electronics_A_level_only.pdf",
+      "code": "3.13",
+      "title": "Electronics (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "046_3.13.1_Discrete_semiconductor_devices_A_level_o.pdf",
+      "code": "3.13.1",
+      "title": "Discrete semiconductor devices (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "047_3.13.2_Analogue_and_digital_signals_A_level_onl.pdf",
+      "code": "3.13.2",
+      "title": "Analogue and digital signals (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "048_3.13.3_Analogue_signal_processing_A_level_only.pdf",
+      "code": "3.13.3",
+      "title": "Analogue signal processing (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "049_3.13.4_Operational_amplifier_in.pdf",
+      "code": "3.13.4",
+      "title": "Operational amplifier in:",
+      "pages": 2
+    },
+    {
+      "file": "050_3.13.5_Digital_signal_processing_A_level_only.pdf",
+      "code": "3.13.5",
+      "title": "Digital signal processing (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "051_3.13.6_Data_communication_systems_A_level_only.pdf",
+      "code": "3.13.6",
+      "title": "Data communication systems (A-level only)",
+      "pages": 2
+    }
+  ]
+}

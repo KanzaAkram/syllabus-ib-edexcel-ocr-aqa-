@@ -1,0 +1,70 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 9,
+  "subsections": [
+    {
+      "file": "001_Topic_1_Key_concepts_in_chemistry.pdf",
+      "code": "Topic 1",
+      "title": "Key concepts in chemistry",
+      "family": "Topic",
+      "pages": 12
+    },
+    {
+      "file": "002_Topic_2_States_of_matter_and_mixtures.pdf",
+      "code": "Topic 2",
+      "title": "States of matter and mixtures",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "003_Topic_3_Chemical_changes.pdf",
+      "code": "Topic 3",
+      "title": "Chemical changes",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "004_Topic_4_Extracting_metals_and_equilibria.pdf",
+      "code": "Topic 4",
+      "title": "Extracting metals and equilibria",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "005_Topic_5_Separate_chemistry_1.pdf",
+      "code": "Topic 5",
+      "title": "Separate chemistry 1",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "006_Topic_6_Groups_in_the_periodic_table.pdf",
+      "code": "Topic 6",
+      "title": "Groups in the periodic table",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "007_Topic_7_Rates_of_reaction_and_energy_changes.pdf",
+      "code": "Topic 7",
+      "title": "Rates of reaction and energy changes",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "008_Topic_8_Fuels_and_Earth_science.pdf",
+      "code": "Topic 8",
+      "title": "Fuels and Earth science",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "009_Topic_9_Separate_chemistry_2.pdf",
+      "code": "Topic 9",
+      "title": "Separate chemistry 2",
+      "family": "Topic",
+      "pages": 5
+    }
+  ]
+}

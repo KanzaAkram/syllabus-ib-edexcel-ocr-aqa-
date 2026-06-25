@@ -1,0 +1,60 @@
+{
+  "method": "toc",
+  "n": 9,
+  "subsections": [
+    {
+      "file": "001_3.1_The_human_body_and_movement_in_physical_.pdf",
+      "code": "3.1",
+      "title": "The human body and movement in physical activity and sport",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Applied_anatomy_and_physiology.pdf",
+      "code": "3.1.1",
+      "title": "Applied anatomy and physiology",
+      "pages": 8
+    },
+    {
+      "file": "003_3.1.2_Movement_analysis.pdf",
+      "code": "3.1.2",
+      "title": "Movement analysis",
+      "pages": 2
+    },
+    {
+      "file": "004_3.1.3_Physical_training.pdf",
+      "code": "3.1.3",
+      "title": "Physical training",
+      "pages": 10
+    },
+    {
+      "file": "005_3.1.4_Use_of_data.pdf",
+      "code": "3.1.4",
+      "title": "Use of data",
+      "pages": 2
+    },
+    {
+      "file": "006_3.2_Socio_cultural_influences_and_wellbeing_.pdf",
+      "code": "3.2",
+      "title": "Socio-cultural influences and wellbeing in physical activity and sport",
+      "pages": 1
+    },
+    {
+      "file": "007_3.2.1_Sports_psychology.pdf",
+      "code": "3.2.1",
+      "title": "Sports psychology",
+      "pages": 6
+    },
+    {
+      "file": "008_3.2.2_Socio_cultural_influences.pdf",
+      "code": "3.2.2",
+      "title": "Socio-cultural influences",
+      "pages": 6
+    },
+    {
+      "file": "009_3.2.3_Health_fitness_and_wellbeing.pdf",
+      "code": "3.2.3",
+      "title": "Health, fitness and wellbeing",
+      "pages": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 4,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 22
+    },
+    {
+      "file": "002_Component_1_Personal_Investigation.pdf",
+      "code": "Component 1",
+      "title": "Personal Investigation",
+      "family": "Component",
+      "pages": 3
+    },
+    {
+      "file": "003_Component_2_Externally_Set_Assignment.pdf",
+      "code": "Component 2",
+      "title": "Externally Set Assignment",
+      "family": "Component",
+      "pages": 7
+    },
+    {
+      "file": "004_Component_2.pdf",
+      "code": "Component 2",
+      "title": "",
+      "family": "Component",
+      "pages": 9
+    }
+  ]
+}

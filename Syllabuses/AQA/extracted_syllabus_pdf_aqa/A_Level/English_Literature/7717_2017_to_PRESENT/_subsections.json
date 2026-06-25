@@ -1,0 +1,72 @@
+{
+  "method": "toc",
+  "n": 11,
+  "subsections": [
+    {
+      "file": "001_3.1_Literary_genres.pdf",
+      "code": "3.1",
+      "title": "Literary genres",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Aspects_of_tragedy.pdf",
+      "code": "3.1.1",
+      "title": "Aspects of tragedy",
+      "pages": 3
+    },
+    {
+      "file": "003_3.1.2_Aspects_of_comedy.pdf",
+      "code": "3.1.2",
+      "title": "Aspects of comedy",
+      "pages": 3
+    },
+    {
+      "file": "004_4.1_Literary_genres.pdf",
+      "code": "4.1",
+      "title": "Literary genres",
+      "pages": 1
+    },
+    {
+      "file": "005_4.1.1_Aspects_of_tragedy.pdf",
+      "code": "4.1.1",
+      "title": "Aspects of tragedy",
+      "pages": 3
+    },
+    {
+      "file": "006_4.1.2_Aspects_of_comedy.pdf",
+      "code": "4.1.2",
+      "title": "Aspects of comedy",
+      "pages": 2
+    },
+    {
+      "file": "007_4.2_Texts_and_genres.pdf",
+      "code": "4.2",
+      "title": "Texts and genres",
+      "pages": 1
+    },
+    {
+      "file": "008_4.2.1_Elements_of_crime_writing.pdf",
+      "code": "4.2.1",
+      "title": "Elements of crime writing",
+      "pages": 3
+    },
+    {
+      "file": "009_4.2.2_Elements_of_political_and_social_protest.pdf",
+      "code": "4.2.2",
+      "title": "Elements of political and social protest writing",
+      "pages": 2
+    },
+    {
+      "file": "010_4.3_Theory_and_independence.pdf",
+      "code": "4.3",
+      "title": "Theory and independence",
+      "pages": 2
+    },
+    {
+      "file": "011_4.3.1_Text_selection.pdf",
+      "code": "4.3.1",
+      "title": "Text selection",
+      "pages": 5
+    }
+  ]
+}

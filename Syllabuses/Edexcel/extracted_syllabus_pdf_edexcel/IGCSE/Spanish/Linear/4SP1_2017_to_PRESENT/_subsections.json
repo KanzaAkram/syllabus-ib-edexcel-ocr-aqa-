@@ -1,0 +1,91 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 12,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_1_1_Introduction.pdf",
+      "code": "1.1",
+      "title": "Introduction",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_2_Content.pdf",
+      "code": "1.2",
+      "title": "Content",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "004_2_1_Introduction.pdf",
+      "code": "2.1",
+      "title": "Introduction",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_2_2_Content.pdf",
+      "code": "2.2",
+      "title": "Content",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "006_2_3_Assessment_criteria_for_Writing.pdf",
+      "code": "2.3",
+      "title": "Assessment criteria for Writing",
+      "family": "Num",
+      "pages": 4
+    },
+    {
+      "file": "007_3_1_Introduction.pdf",
+      "code": "3.1",
+      "title": "Introduction",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_3_2_Content.pdf",
+      "code": "3.2",
+      "title": "Content",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_3_3_Preparation_for_the_speaking_test.pdf",
+      "code": "3.3",
+      "title": "Preparation for the speaking test",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_3_4_Conduct_of_the_speaking_test.pdf",
+      "code": "3.4",
+      "title": "Conduct of the speaking test",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "011_3_5_Assessment_criteria_for_Speaking.pdf",
+      "code": "3.5",
+      "title": "Assessment criteria for Speaking",
+      "family": "Num",
+      "pages": 5
+    },
+    {
+      "file": "012_3_6_Advice_for_examiners_during_Task_A_discuss.pdf",
+      "code": "3.6",
+      "title": "Advice for examiners during Task A discussion and Tasks B and C conversations",
+      "family": "Num",
+      "pages": 3
+    }
+  ]
+}

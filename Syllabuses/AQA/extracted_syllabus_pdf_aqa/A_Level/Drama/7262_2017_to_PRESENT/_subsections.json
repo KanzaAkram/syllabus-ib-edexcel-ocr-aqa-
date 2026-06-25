@@ -1,0 +1,102 @@
+{
+  "method": "toc",
+  "n": 16,
+  "subsections": [
+    {
+      "file": "001_3.1_Drama_and_theatre.pdf",
+      "code": "3.1",
+      "title": "Drama and theatre",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Knowledge_and_understanding.pdf",
+      "code": "3.1.1",
+      "title": "Knowledge and understanding",
+      "pages": 2
+    },
+    {
+      "file": "003_3.1.2_Area_of_study_1_Set_plays.pdf",
+      "code": "3.1.2",
+      "title": "Area of study 1 – Set plays",
+      "pages": 3
+    },
+    {
+      "file": "004_3.1.3_Area_of_study_2_Live_theatre_production.pdf",
+      "code": "3.1.3",
+      "title": "Area of study 2 – Live theatre production",
+      "pages": 2
+    },
+    {
+      "file": "005_3.2_Creating_original_drama.pdf",
+      "code": "3.2",
+      "title": "Creating original drama",
+      "pages": 1
+    },
+    {
+      "file": "006_3.2.1_Creating_devised_drama.pdf",
+      "code": "3.2.1",
+      "title": "Creating devised drama",
+      "pages": 2
+    },
+    {
+      "file": "007_3.2.2_Performing_devised_drama.pdf",
+      "code": "3.2.2",
+      "title": "Performing devised drama",
+      "pages": 1
+    },
+    {
+      "file": "008_3.3_Making_theatre.pdf",
+      "code": "3.3",
+      "title": "Making theatre",
+      "pages": 2
+    },
+    {
+      "file": "009_3.4.1_Performer.pdf",
+      "code": "3.4.1",
+      "title": "Performer",
+      "pages": 2
+    },
+    {
+      "file": "010_3.4.2_Lighting_designer.pdf",
+      "code": "3.4.2",
+      "title": "Lighting designer",
+      "pages": 1
+    },
+    {
+      "file": "011_3.4.3_Sound_designer.pdf",
+      "code": "3.4.3",
+      "title": "Sound designer",
+      "pages": 1
+    },
+    {
+      "file": "012_3.4.4_Set_designer.pdf",
+      "code": "3.4.4",
+      "title": "Set designer",
+      "pages": 1
+    },
+    {
+      "file": "013_3.4.5_Costume_designer.pdf",
+      "code": "3.4.5",
+      "title": "Costume designer",
+      "pages": 1
+    },
+    {
+      "file": "014_3.4.6_Puppet_designer.pdf",
+      "code": "3.4.6",
+      "title": "Puppet designer",
+      "pages": 1
+    },
+    {
+      "file": "015_3.4.7_Director.pdf",
+      "code": "3.4.7",
+      "title": "Director",
+      "pages": 1
+    },
+    {
+      "file": "016_3.5_Prescribed_practitioners.pdf",
+      "code": "3.5",
+      "title": "Prescribed practitioners",
+      "pages": 3
+    }
+  ]
+}

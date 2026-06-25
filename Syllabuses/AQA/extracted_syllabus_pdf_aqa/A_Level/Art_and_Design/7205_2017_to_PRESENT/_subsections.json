@@ -1,0 +1,54 @@
+{
+  "method": "toc",
+  "n": 8,
+  "subsections": [
+    {
+      "file": "001_3.1_Summary_of_subject_content.pdf",
+      "code": "3.1",
+      "title": "Summary of subject content",
+      "pages": 1
+    },
+    {
+      "file": "002_3.2_Overarching_knowledge_understanding_and_.pdf",
+      "code": "3.2",
+      "title": "Overarching knowledge, understanding and skills",
+      "pages": 1
+    },
+    {
+      "file": "003_3.3_Art_craft_and_design.pdf",
+      "code": "3.3",
+      "title": "Art, craft and design",
+      "pages": 2
+    },
+    {
+      "file": "004_3.4_Fine_art.pdf",
+      "code": "3.4",
+      "title": "Fine art",
+      "pages": 2
+    },
+    {
+      "file": "005_3.5_Graphic_communication.pdf",
+      "code": "3.5",
+      "title": "Graphic communication",
+      "pages": 2
+    },
+    {
+      "file": "006_3.6_Textile_design.pdf",
+      "code": "3.6",
+      "title": "Textile design",
+      "pages": 2
+    },
+    {
+      "file": "007_3.7_Three_dimensional_design.pdf",
+      "code": "3.7",
+      "title": "Three-dimensional design",
+      "pages": 2
+    },
+    {
+      "file": "008_3.8_Photography.pdf",
+      "code": "3.8",
+      "title": "Photography",
+      "pages": 2
+    }
+  ]
+}

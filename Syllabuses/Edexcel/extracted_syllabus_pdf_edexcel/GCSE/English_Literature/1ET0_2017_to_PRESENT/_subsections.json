@@ -1,0 +1,56 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 7,
+  "subsections": [
+    {
+      "file": "001_Section_A_a_Shakespeare_play.pdf",
+      "code": "Section A",
+      "title": "a Shakespeare play",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "002_Section_B_a_post_1914_British_play_or_novel.pdf",
+      "code": "Section B",
+      "title": "a post-1914 British play or novel.",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "003_Section_A_a_19th_century_novel.pdf",
+      "code": "Section A",
+      "title": "a 19th-century novel",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "004_Section_B_one_collection_of_15_poems_from_the_Pearso.pdf",
+      "code": "Section B",
+      "title": "one collection of 15 poems from the Pearson Poetry Anthology.",
+      "family": "Section",
+      "pages": 4
+    },
+    {
+      "file": "005_Component_1_Shakespeare_and_Post_1914_Literature.pdf",
+      "code": "Component 1",
+      "title": "Shakespeare and Post-1914 Literature",
+      "family": "Component",
+      "pages": 1
+    },
+    {
+      "file": "006_Section_A_Shakespeare_students_complete_a_two_part_q.pdf",
+      "code": "Section A",
+      "title": "Shakespeare: students complete a two-part question.",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "007_Section_B_Post_1914_British_play_or_novel_students_a.pdf",
+      "code": "Section B",
+      "title": "Post-1914 British play or novel: students answer ONE essay",
+      "family": "Section",
+      "pages": 1
+    }
+  ]
+}

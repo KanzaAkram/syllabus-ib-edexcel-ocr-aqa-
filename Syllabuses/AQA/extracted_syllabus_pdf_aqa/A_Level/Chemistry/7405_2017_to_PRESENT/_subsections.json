@@ -1,0 +1,210 @@
+{
+  "method": "toc",
+  "n": 34,
+  "subsections": [
+    {
+      "file": "001_3.1.1_Atomic_structure.pdf",
+      "code": "3.1.1",
+      "title": "Atomic structure",
+      "pages": 2
+    },
+    {
+      "file": "002_3.1.2_Amount_of_substance.pdf",
+      "code": "3.1.2",
+      "title": "Amount of substance",
+      "pages": 4
+    },
+    {
+      "file": "003_3.1.3_Bonding.pdf",
+      "code": "3.1.3",
+      "title": "Bonding",
+      "pages": 4
+    },
+    {
+      "file": "004_3.1.4_Energetics.pdf",
+      "code": "3.1.4",
+      "title": "Energetics",
+      "pages": 3
+    },
+    {
+      "file": "005_3.1.5_Kinetics.pdf",
+      "code": "3.1.5",
+      "title": "Kinetics",
+      "pages": 3
+    },
+    {
+      "file": "006_3.1.6_Chemical_equilibria_Le_Chatelier_s_princ.pdf",
+      "code": "3.1.6",
+      "title": "Chemical equilibria, Le Chatelier’s principle and Kc",
+      "pages": 3
+    },
+    {
+      "file": "007_3.1.7_Oxidation_reduction_and_redox_equations.pdf",
+      "code": "3.1.7",
+      "title": "Oxidation, reduction and redox equations",
+      "pages": 2
+    },
+    {
+      "file": "008_3.1.8_Thermodynamics_A_level_only.pdf",
+      "code": "3.1.8",
+      "title": "Thermodynamics (A-level only)",
+      "pages": 3
+    },
+    {
+      "file": "009_3.1.9_Rate_equations_A_level_only.pdf",
+      "code": "3.1.9",
+      "title": "Rate equations (A-level only)",
+      "pages": 3
+    },
+    {
+      "file": "010_3.1.10_Equilibrium_constant_Kp_for_homogeneous_.pdf",
+      "code": "3.1.10",
+      "title": "Equilibrium constant Kp for homogeneous systems (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "011_3.1.11_Electrode_potentials_and_electrochemical.pdf",
+      "code": "3.1.11",
+      "title": "Electrode potentials and electrochemical cells (A-level only)",
+      "pages": 3
+    },
+    {
+      "file": "012_3.1.12_Acids_and_bases_A_level_only.pdf",
+      "code": "3.1.12",
+      "title": "Acids and bases (A-level only)",
+      "pages": 4
+    },
+    {
+      "file": "013_3.2.1_Periodicity.pdf",
+      "code": "3.2.1",
+      "title": "Periodicity",
+      "pages": 2
+    },
+    {
+      "file": "014_3.2.2_Group_2_the_alkaline_earth_metals.pdf",
+      "code": "3.2.2",
+      "title": "Group 2, the alkaline earth metals",
+      "pages": 2
+    },
+    {
+      "file": "015_3.2.3_Group_7_17_the_halogens.pdf",
+      "code": "3.2.3",
+      "title": "Group 7(17), the halogens",
+      "pages": 3
+    },
+    {
+      "file": "016_3.2.4_Properties_of_Period_3_elements_and_thei.pdf",
+      "code": "3.2.4",
+      "title": "Properties of Period 3 elements and their oxides (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "017_3.2.5_Transition_metals_A_level_only.pdf",
+      "code": "3.2.5",
+      "title": "Transition metals (A-level only)",
+      "pages": 6
+    },
+    {
+      "file": "018_3.2.6_Reactions_of_ions_in_aqueous_solution_A_.pdf",
+      "code": "3.2.6",
+      "title": "Reactions of ions in aqueous solution (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "019_3.3.1_Introduction_to_organic_chemistry.pdf",
+      "code": "3.3.1",
+      "title": "Introduction to organic chemistry",
+      "pages": 3
+    },
+    {
+      "file": "020_3.3.2_Alkanes.pdf",
+      "code": "3.3.2",
+      "title": "Alkanes",
+      "pages": 2
+    },
+    {
+      "file": "021_3.3.3_Halogenoalkanes.pdf",
+      "code": "3.3.3",
+      "title": "Halogenoalkanes",
+      "pages": 3
+    },
+    {
+      "file": "022_3.3.4_Alkenes.pdf",
+      "code": "3.3.4",
+      "title": "Alkenes",
+      "pages": 2
+    },
+    {
+      "file": "023_3.3.5_Alcohols.pdf",
+      "code": "3.3.5",
+      "title": "Alcohols",
+      "pages": 2
+    },
+    {
+      "file": "024_3.3.6_Organic_analysis.pdf",
+      "code": "3.3.6",
+      "title": "Organic analysis",
+      "pages": 2
+    },
+    {
+      "file": "025_3.3.7_Optical_isomerism_A_level_only.pdf",
+      "code": "3.3.7",
+      "title": "Optical isomerism (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "026_3.3.8_Aldehydes_and_ketones_A_level_only.pdf",
+      "code": "3.3.8",
+      "title": "Aldehydes and ketones (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "027_3.3.9_Carboxylic_acids_and_derivatives_A_level.pdf",
+      "code": "3.3.9",
+      "title": "Carboxylic acids and derivatives (A-level only)",
+      "pages": 3
+    },
+    {
+      "file": "028_3.3.10_Aromatic_chemistry_A_level_only.pdf",
+      "code": "3.3.10",
+      "title": "Aromatic chemistry (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "029_3.3.11_Amines_A_level_only.pdf",
+      "code": "3.3.11",
+      "title": "Amines (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "030_3.3.12_Polymers_A_level_only.pdf",
+      "code": "3.3.12",
+      "title": "Polymers (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "031_3.3.13_Amino_acids_proteins_and_DNA_A_level_onl.pdf",
+      "code": "3.3.13",
+      "title": "Amino acids, proteins and DNA (A-level only)",
+      "pages": 4
+    },
+    {
+      "file": "032_3.3.14_Organic_synthesis_A_level_only.pdf",
+      "code": "3.3.14",
+      "title": "Organic synthesis (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "033_3.3.15_Nuclear_magnetic_resonance_spectroscopy_.pdf",
+      "code": "3.3.15",
+      "title": "Nuclear magnetic resonance spectroscopy (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "034_3.3.16_Chromatography_A_level_only.pdf",
+      "code": "3.3.16",
+      "title": "Chromatography (A-level only)",
+      "pages": 2
+    }
+  ]
+}

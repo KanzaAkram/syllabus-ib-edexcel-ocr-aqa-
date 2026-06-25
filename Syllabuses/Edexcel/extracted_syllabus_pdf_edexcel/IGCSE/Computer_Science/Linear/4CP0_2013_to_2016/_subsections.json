@@ -1,0 +1,161 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 22,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_1_1_Algorithms.pdf",
+      "code": "1.1",
+      "title": "Algorithms",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_2_Decomposition_and.pdf",
+      "code": "1.2",
+      "title": "Decomposition and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "004_2_1_Develop_code.pdf",
+      "code": "2.1",
+      "title": "Develop code",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_2_2_Constructs.pdf",
+      "code": "2.2",
+      "title": "Constructs",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_2_3_Data_types_and_structures.pdf",
+      "code": "2.3",
+      "title": "Data types and structures",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_2_4_Input_output.pdf",
+      "code": "2.4",
+      "title": "Input/output",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_2_5_Operators.pdf",
+      "code": "2.5",
+      "title": "Operators",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_2_6_Subprograms.pdf",
+      "code": "2.6",
+      "title": "Subprograms",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_3_1_Binary.pdf",
+      "code": "3.1",
+      "title": "Binary",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_3_2_Data_representation.pdf",
+      "code": "3.2",
+      "title": "Data representation",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "012_3_3_Data_storage_and.pdf",
+      "code": "3.3",
+      "title": "Data storage and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_3_4_Encryption.pdf",
+      "code": "3.4",
+      "title": "Encryption",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_4_1_Machines_and.pdf",
+      "code": "4.1",
+      "title": "Machines and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "015_4_2_Hardware.pdf",
+      "code": "4.2",
+      "title": "Hardware",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_4_3_Logic.pdf",
+      "code": "4.3",
+      "title": "Logic",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_4_4_Software.pdf",
+      "code": "4.4",
+      "title": "Software",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_4_5_Programming_languages.pdf",
+      "code": "4.5",
+      "title": "Programming languages",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_5_1_Networks.pdf",
+      "code": "5.1",
+      "title": "Networks",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_5_2_Network_security.pdf",
+      "code": "5.2",
+      "title": "Network security",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "021_5_3_The_internet_and_the_world.pdf",
+      "code": "5.3",
+      "title": "The internet and the world",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "022_6_1_Emerging_trends_issues.pdf",
+      "code": "6.1",
+      "title": "Emerging trends, issues",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

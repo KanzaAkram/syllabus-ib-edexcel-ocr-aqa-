@@ -1,0 +1,112 @@
+{
+  "method": "font",
+  "sections": 1,
+  "n": 15,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_a_Planning.pdf",
+      "code": "(a)",
+      "title": "Planning",
+      "family": "",
+      "pages": 1
+    },
+    {
+      "file": "003_b_Types_of_data.pdf",
+      "code": "(b)",
+      "title": "Types of data",
+      "family": "",
+      "pages": 1
+    },
+    {
+      "file": "004_d_Collecting_data.pdf",
+      "code": "(d)",
+      "title": "Collecting data",
+      "family": "",
+      "pages": 2
+    },
+    {
+      "file": "005_b_Diagrams_and_representations.pdf",
+      "code": "(b)",
+      "title": "Diagrams and representations",
+      "family": "",
+      "pages": 2
+    },
+    {
+      "file": "006_c_Measures_of_central_tendency.pdf",
+      "code": "(c)",
+      "title": "Measures of central tendency",
+      "family": "",
+      "pages": 1
+    },
+    {
+      "file": "007_d_Measures_of_dispersion.pdf",
+      "code": "(d)",
+      "title": "Measures of dispersion",
+      "family": "",
+      "pages": 1
+    },
+    {
+      "file": "008_f_Scatter_diagrams_and_correlation.pdf",
+      "code": "(f)",
+      "title": "Scatter diagrams and correlation",
+      "family": "",
+      "pages": 1
+    },
+    {
+      "file": "009_h_Estimation.pdf",
+      "code": "(h)",
+      "title": "Estimation",
+      "family": "",
+      "pages": 3
+    },
+    {
+      "file": "010_c_Population_and_sampling.pdf",
+      "code": "(c)",
+      "title": "Population and sampling",
+      "family": "",
+      "pages": 1
+    },
+    {
+      "file": "011_a_Tabulation.pdf",
+      "code": "(a)",
+      "title": "Tabulation",
+      "family": "",
+      "pages": 2
+    },
+    {
+      "file": "012_e_Further_Summary_Statistics.pdf",
+      "code": "(e)",
+      "title": "Further Summary Statistics",
+      "family": "",
+      "pages": 2
+    },
+    {
+      "file": "013_g_Time_series.pdf",
+      "code": "(g)",
+      "title": "Time series",
+      "family": "",
+      "pages": 2
+    },
+    {
+      "file": "014_h_Quality_Assurance.pdf",
+      "code": "(h)",
+      "title": "Quality Assurance",
+      "family": "",
+      "pages": 1
+    },
+    {
+      "file": "015_i_Estimation.pdf",
+      "code": "(i)",
+      "title": "Estimation",
+      "family": "",
+      "pages": 6
+    }
+  ]
+}

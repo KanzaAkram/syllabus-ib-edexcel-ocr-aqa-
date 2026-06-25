@@ -1,0 +1,18 @@
+{
+  "method": "toc",
+  "n": 2,
+  "subsections": [
+    {
+      "file": "001_3.1_Unit_1_Written_Paper.pdf",
+      "code": "3.1",
+      "title": "Unit 1: Written Paper",
+      "pages": 3
+    },
+    {
+      "file": "002_3.2_Unit_2_Design_and_Making_Practice.pdf",
+      "code": "3.2",
+      "title": "Unit 2: Design and Making Practice",
+      "pages": 5
+    }
+  ]
+}

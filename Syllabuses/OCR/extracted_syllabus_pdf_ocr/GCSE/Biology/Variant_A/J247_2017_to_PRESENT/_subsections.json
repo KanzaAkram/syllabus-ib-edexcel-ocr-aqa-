@@ -1,0 +1,119 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 16,
+  "subsections": [
+    {
+      "file": "001_B1_1_B1_1_Cell_structures.pdf",
+      "code": "B1.1",
+      "title": "B1.1 Cell structures",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "002_B1_2_B1_2_What_happens_in_cells_and_what_do_cel.pdf",
+      "code": "B1.2",
+      "title": "B1.2 What happens in cells (and what do cells need)?",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "003_B1_3_B1_3_Respiration.pdf",
+      "code": "B1.3",
+      "title": "B1.3 Respiration",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "004_B1_4_B1_4_Photosynthesis.pdf",
+      "code": "B1.4",
+      "title": "B1.4 Photosynthesis",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "005_B2_1_B2_1_Supplying_the_cell.pdf",
+      "code": "B2.1",
+      "title": "B2.1 Supplying the cell",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "006_B2_2_B2_2_The_challenges_of_size.pdf",
+      "code": "B2.2",
+      "title": "B2.2 The challenges of size",
+      "kind": "alnum",
+      "pages": 4
+    },
+    {
+      "file": "007_B3_1_B3_1_Coordination_and_control_the_nervous_.pdf",
+      "code": "B3.1",
+      "title": "B3.1 Coordination and control – the nervous system",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "008_B3_2_B3_2_Coordination_and_control_the_endocrin.pdf",
+      "code": "B3.2",
+      "title": "B3.2 Coordination and control – the endocrine system",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "009_B3_3_B3_3_Maintaining_internal_environments.pdf",
+      "code": "B3.3",
+      "title": "B3.3 Maintaining internal environments",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "010_B4_1_B4_1_Ecosystems.pdf",
+      "code": "B4.1",
+      "title": "B4.1 Ecosystems",
+      "kind": "alnum",
+      "pages": 4
+    },
+    {
+      "file": "011_B5_1_B5_1_Inheritance.pdf",
+      "code": "B5.1",
+      "title": "B5.1 Inheritance",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "012_B5_2_B5_2_Natural_selection_and_evolution.pdf",
+      "code": "B5.2",
+      "title": "B5.2 Natural selection and evolution",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "013_Topic_B6_Topic_B6_Global_challenges.pdf",
+      "code": "Topic B6",
+      "title": "Topic B6: Global challenges",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "014_B6_1_B6_1_Monitoring_and_maintaining_the_enviro.pdf",
+      "code": "B6.1",
+      "title": "B6.1 Monitoring and maintaining the environment",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "015_B6_2_B6_2_Feeding_the_human_race.pdf",
+      "code": "B6.2",
+      "title": "B6.2 Feeding the human race",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "016_B6_3_B6_3_Monitoring_and_maintaining_health.pdf",
+      "code": "B6.3",
+      "title": "B6.3 Monitoring and maintaining health",
+      "kind": "alnum",
+      "pages": 4
+    }
+  ]
+}

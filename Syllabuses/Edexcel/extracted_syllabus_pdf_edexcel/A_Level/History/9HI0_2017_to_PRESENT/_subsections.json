@@ -1,0 +1,301 @@
+{
+  "method": "toc",
+  "sections": 2,
+  "n": 42,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_Paper_1_Option_1A.pdf",
+      "code": "Paper 1",
+      "title": "Option 1A:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "003_Paper_2_Option_2A_1.pdf",
+      "code": "Paper 2",
+      "title": "Option 2A.1:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "004_Paper_2_Option_2A_2.pdf",
+      "code": "Paper 2",
+      "title": "Option 2A.2:",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "005_Paper_1_Option_1B.pdf",
+      "code": "Paper 1",
+      "title": "Option 1B:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "006_Paper_2_Option_2B_1.pdf",
+      "code": "Paper 2",
+      "title": "Option 2B.1:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "007_Paper_2_Option_2B_2.pdf",
+      "code": "Paper 2",
+      "title": "Option 2B.2:",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "008_Paper_1_Option_1C.pdf",
+      "code": "Paper 1",
+      "title": "Option 1C:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "009_Paper_2_Option_2C_1.pdf",
+      "code": "Paper 2",
+      "title": "Option 2C.1:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "010_Paper_2_Option_2C_2.pdf",
+      "code": "Paper 2",
+      "title": "Option 2C.2:",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "011_Paper_1_Option_1D.pdf",
+      "code": "Paper 1",
+      "title": "Option 1D:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "012_Paper_2_Option_2D_1.pdf",
+      "code": "Paper 2",
+      "title": "Option 2D.1:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "013_Paper_2_Option_2D_2.pdf",
+      "code": "Paper 2",
+      "title": "Option 2D.2:",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "014_Paper_1_Option_1E.pdf",
+      "code": "Paper 1",
+      "title": "Option 1E:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "015_Paper_2_Option_2E_1.pdf",
+      "code": "Paper 2",
+      "title": "Option 2E.1:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "016_Paper_2_Option_2E_2.pdf",
+      "code": "Paper 2",
+      "title": "Option 2E.2:",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "017_Paper_1_Option_1F.pdf",
+      "code": "Paper 1",
+      "title": "Option 1F:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "018_Paper_2_Option_2F_1.pdf",
+      "code": "Paper 2",
+      "title": "Option 2F.1:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "019_Paper_2_Option_2F_2.pdf",
+      "code": "Paper 2",
+      "title": "Option 2F.2:",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "020_Paper_1_Option_1G.pdf",
+      "code": "Paper 1",
+      "title": "Option 1G:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "021_Paper_2_Option_2G_1.pdf",
+      "code": "Paper 2",
+      "title": "Option 2G.1:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "022_Paper_2_Option_2G_2.pdf",
+      "code": "Paper 2",
+      "title": "Option 2G.2:",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "023_Paper_1_Option_1H.pdf",
+      "code": "Paper 1",
+      "title": "Option 1H:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "024_Paper_2_Option_2H_1.pdf",
+      "code": "Paper 2",
+      "title": "Option 2H.1:",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "025_Paper_2_Option_2H_2.pdf",
+      "code": "Paper 2",
+      "title": "Option 2H.2:",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "026_Paper_3.pdf",
+      "code": "Paper 3",
+      "title": "",
+      "family": "Paper",
+      "pages": 1
+    },
+    {
+      "file": "027_Section_Paper_3_Option_30_Lancastrians_Yorkists_an.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 30:Lancastrians, Yorkists and Henry VII,1399–1509",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "028_Section_Paper_3_Option_31_Rebellion_and_disorder_u.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 31:Rebellion and disorder under the Tudors, 1485–1603",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "029_Section_Paper_3_Option_32_The_Golden_Age_of_Spain_.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 32:The Golden Age of Spain, 1474–1598",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "030_Section_Paper_3_Option_33_The_witch_craze_in_Brita.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 33:The witch craze in Britain, Europe and North America, c1580–c1750",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "031_Section_Paper_3_Option_34_1_Industrialisation_and_.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 34.1:Industrialisation and social change in Britain, 1759–1928: forging a new society",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "032_Section_Paper_3_Option_34_2_Poverty_public_health_.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 34.2:Poverty, public health and the state in Britain, c1780–1939",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "033_Section_Paper_3_Option_35_1_Britain_losing_and_gai.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 35.1:Britain: losing and gaining an empire, 1763–1914",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "034_Section_Paper_3_Option_35_2_The_British_experience.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 35.2:The British experience of warfare, c1790–1918",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "035_Section_Paper_3_Option_36_1_Protest_agitation_and_.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 36.1:Protest, agitation and parliamentary reform in Britain, c1780–1928",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "036_Section_Paper_3_Option_36_2_Ireland_and_the_Union_.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 36.2:Ireland and the Union, c1774–1923",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "037_Section_Paper_3_Option_37_1_The_changing_nature_of.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 37.1:The changing nature of warfare, 1859–1991: perception and reality",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "038_Section_Paper_3_Option_37_2_Germany_1871_1990_unit.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 37.2:Germany, 1871–1990: united, divided andreunited",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "039_Section_Paper_3_Option_38_1_The_making_of_modern_R.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 38.1:The making of modern Russia, 1855–1991",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "040_Section_Paper_3_Option_38_2_The_making_of_modern_C.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 38.2:The making of modern China, 1860–1997",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "041_Section_Paper_3_Option_39_1_Civil_rights_and_race_.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 39.1:Civil rights and race relations in the USA, 1850–2009",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "042_Section_Paper_3_Option_39_2_Mass_media_and_social_.pdf",
+      "code": "Section",
+      "title": "Paper 3, Option 39.2: Mass media and social change in Britain, 1882–2004",
+      "family": "Section",
+      "pages": 3
+    }
+  ]
+}

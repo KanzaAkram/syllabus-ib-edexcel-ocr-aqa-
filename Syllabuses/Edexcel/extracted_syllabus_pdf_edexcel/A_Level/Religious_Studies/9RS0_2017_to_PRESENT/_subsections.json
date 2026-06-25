@@ -1,0 +1,385 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 54,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Topic_1_Philosophical_issues_and_questions.pdf",
+      "code": "Topic 1",
+      "title": "Philosophical issues and questions",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "003_Topic_2_The_nature_and_influence_of_religious_expe.pdf",
+      "code": "Topic 2",
+      "title": "The nature and influence of religious experience",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_3_Problems_of_evil_and_suffering.pdf",
+      "code": "Topic 3",
+      "title": "Problems of evil and suffering",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "005_Topic_4_Religious_language.pdf",
+      "code": "Topic 4",
+      "title": "Religious language",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_5_Works_of_scholars.pdf",
+      "code": "Topic 5",
+      "title": "Works of scholars",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "007_Topic_6_Influences_of_developments_in_religious_be.pdf",
+      "code": "Topic 6",
+      "title": "Influences of developments in religious belief",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "008_Topic_1_Significant_concepts_in_issues_or_debates_.pdf",
+      "code": "Topic 1",
+      "title": "Significant concepts in issues or debates in",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "009_Topic_2_A_study_of_three_ethical_theories.pdf",
+      "code": "Topic 2",
+      "title": "A study of three ethical theories",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "010_Topic_3_Application_of_ethical_theories_to_issues_.pdf",
+      "code": "Topic 3",
+      "title": "Application of ethical theories to issues of importance",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "011_Topic_4_Ethical_language.pdf",
+      "code": "Topic 4",
+      "title": "Ethical language",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "012_Topic_5_Deontology_Virtue_Ethics_and_the_works_of_.pdf",
+      "code": "Topic 5",
+      "title": "Deontology, Virtue Ethics and the works of scholars",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "013_Topic_6_Medical_ethics_beginning_and_end_of_life_i.pdf",
+      "code": "Topic 6",
+      "title": "Medical ethics: beginning and end of life issues",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "014_Topic_1_Social_historical_and_religious_context_of.pdf",
+      "code": "Topic 1",
+      "title": "Social, historical and religious context of the",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "015_Topic_2_Texts_and_interpretation_of_the_Person_of_.pdf",
+      "code": "Topic 2",
+      "title": "Texts and interpretation of the Person of Jesus",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "016_Topic_3_Interpreting_the_text_and_issues_of_relati.pdf",
+      "code": "Topic 3",
+      "title": "Interpreting the text and issues of relationship,",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "017_Topic_4_Ways_of_interpreting_the_scripture.pdf",
+      "code": "Topic 4",
+      "title": "Ways of interpreting the scripture",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "018_Topic_5_Texts_and_interpretation_the_Kingdom_of_Go.pdf",
+      "code": "Topic 5",
+      "title": "Texts and interpretation: the Kingdom of God, conflict,",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "019_Topic_6_Scientific_and_historical_critical_challen.pdf",
+      "code": "Topic 6",
+      "title": "Scientific and historical- critical challenges,",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "020_Topic_1_Religious_beliefs_values_and_teachings.pdf",
+      "code": "Topic 1",
+      "title": "Religious beliefs, values and teachings",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "021_Topic_2_Sources_of_wisdom_and_authority.pdf",
+      "code": "Topic 2",
+      "title": "Sources of wisdom and authority",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "022_Topic_3_Practices_that_shape_and_express_religious.pdf",
+      "code": "Topic 3",
+      "title": "Practices that shape and express religious",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "023_Topic_5_Works_of_scholars.pdf",
+      "code": "Topic 5",
+      "title": "Works of scholars",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "024_Topic_6_Religion_and_society.pdf",
+      "code": "Topic 6",
+      "title": "Religion and society",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "025_Topic_1_Religious_beliefs_values_and_teachings.pdf",
+      "code": "Topic 1",
+      "title": "Religious beliefs, values and teachings",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "026_Topic_2_Sources_of_wisdom_and_authority.pdf",
+      "code": "Topic 2",
+      "title": "Sources of wisdom and authority",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "027_Topic_3_Practices_that_shape_and_express_religious.pdf",
+      "code": "Topic 3",
+      "title": "Practices that shape and express religious",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "028_Topic_4_Social_and_historical_developments.pdf",
+      "code": "Topic 4",
+      "title": "Social and historical developments",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "029_Topic_5_Works_of_scholars.pdf",
+      "code": "Topic 5",
+      "title": "Works of scholars",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "030_Topic_6_Religion_and_society.pdf",
+      "code": "Topic 6",
+      "title": "Religion and society",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "031_Topic_1_Religious_beliefs_values_and_teachings.pdf",
+      "code": "Topic 1",
+      "title": "Religious beliefs, values and teachings",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "032_Topic_2_Sources_of_wisdom_and_authority.pdf",
+      "code": "Topic 2",
+      "title": "Sources of wisdom and authority",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "033_Topic_3_Practices_that_shape_and_express_religious.pdf",
+      "code": "Topic 3",
+      "title": "Practices that shape and express religious",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "034_Topic_4_Social_and_historical_developments_includi.pdf",
+      "code": "Topic 4",
+      "title": "Social and historical developments including",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "035_Topic_5_Works_of_scholars.pdf",
+      "code": "Topic 5",
+      "title": "Works of scholars",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "036_Topic_6_Religion_and_society.pdf",
+      "code": "Topic 6",
+      "title": "Religion and society",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "037_Topic_1_Religious_beliefs_values_and_teachings.pdf",
+      "code": "Topic 1",
+      "title": "Religious beliefs, values and teachings",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "038_Topic_2_Sources_of_wisdom_and_authority.pdf",
+      "code": "Topic 2",
+      "title": "Sources of wisdom and authority",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "039_Topic_3_Practices_that_shape_and_express_religious.pdf",
+      "code": "Topic 3",
+      "title": "Practices that shape and express religious",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "040_Topic_4_Social_and_historical_developments.pdf",
+      "code": "Topic 4",
+      "title": "Social and historical developments",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "041_Topic_5_Works_of_scholars.pdf",
+      "code": "Topic 5",
+      "title": "Works of scholars",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "042_Topic_6_Religion_and_society.pdf",
+      "code": "Topic 6",
+      "title": "Religion and society",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "043_Topic_1_Religious_beliefs_values_and_teachings.pdf",
+      "code": "Topic 1",
+      "title": "Religious beliefs, values and teachings",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "044_Topic_2_Sources_of_wisdom_and_authority.pdf",
+      "code": "Topic 2",
+      "title": "Sources of wisdom and authority",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "045_Topic_3_Practices_that_shape_and_express_religious.pdf",
+      "code": "Topic 3",
+      "title": "Practices that shape and express religious",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "046_Topic_4_Social_and_historical_developments.pdf",
+      "code": "Topic 4",
+      "title": "Social and historical developments",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "047_Topic_5_Works_of_scholars.pdf",
+      "code": "Topic 5",
+      "title": "Works of scholars",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "048_Topic_6_Religion_and_society.pdf",
+      "code": "Topic 6",
+      "title": "Religion and society",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "049_Topic_1_Religious_beliefs_values_and_teachings.pdf",
+      "code": "Topic 1",
+      "title": "Religious beliefs, values and teachings",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "050_Topic_2_Sources_of_wisdom_and_authority.pdf",
+      "code": "Topic 2",
+      "title": "Sources of wisdom and authority",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "051_Topic_3_Practices_that_shape_and_express_religious.pdf",
+      "code": "Topic 3",
+      "title": "Practices that shape and express religious",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "052_Topic_4_Social_and_historical_developments.pdf",
+      "code": "Topic 4",
+      "title": "Social and historical developments",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "053_Topic_5_Works_of_scholars.pdf",
+      "code": "Topic 5",
+      "title": "Works of scholars",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "054_Topic_6_Religion_and_society.pdf",
+      "code": "Topic 6",
+      "title": "Religion and society",
+      "family": "Topic",
+      "pages": 2
+    }
+  ]
+}

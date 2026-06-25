@@ -1,0 +1,266 @@
+{
+  "method": "toc",
+  "sections": 2,
+  "n": 37,
+  "subsections": [
+    {
+      "file": "001_1_Business_activity.pdf",
+      "code": "1",
+      "title": "Business activity",
+      "kind": "int",
+      "pages": 1
+    },
+    {
+      "file": "002_1_1_The_role_of_business.pdf",
+      "code": "1.1",
+      "title": "The role of business",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "003_1_2_Business_planning.pdf",
+      "code": "1.2",
+      "title": "Business planning",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "004_1_3_Business_ownership.pdf",
+      "code": "1.3",
+      "title": "Business ownership",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "005_1_4_Business_aims_and.pdf",
+      "code": "1.4",
+      "title": "Business aims and",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "006_1_5_Stakeholders_in.pdf",
+      "code": "1.5",
+      "title": "Stakeholders in",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "007_1_6_Business_growth.pdf",
+      "code": "1.6",
+      "title": "Business growth",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "008_2_Marketing.pdf",
+      "code": "2",
+      "title": "Marketing",
+      "kind": "int",
+      "pages": 1
+    },
+    {
+      "file": "009_2_1_The_role_of_marketing.pdf",
+      "code": "2.1",
+      "title": "The role of marketing",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "010_2_2_Market_research.pdf",
+      "code": "2.2",
+      "title": "Market research",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "011_2_3_Market_segmentation.pdf",
+      "code": "2.3",
+      "title": "Market segmentation",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "012_2_4_The_marketing_mix.pdf",
+      "code": "2.4",
+      "title": "The marketing mix",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "013_3_People.pdf",
+      "code": "3",
+      "title": "People",
+      "kind": "int",
+      "pages": 1
+    },
+    {
+      "file": "014_3_1_The_role_of_human_resources.pdf",
+      "code": "3.1",
+      "title": "The role of human resources",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "015_3_2_Organisational_structures_and.pdf",
+      "code": "3.2",
+      "title": "Organisational structures and",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "016_3_3_Communication_in_business.pdf",
+      "code": "3.3",
+      "title": "Communication in business",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "017_3_4_Recruitment_and.pdf",
+      "code": "3.4",
+      "title": "Recruitment and",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "018_3_5_Motivation_and.pdf",
+      "code": "3.5",
+      "title": "Motivation and",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "019_3_6_Training_and.pdf",
+      "code": "3.6",
+      "title": "Training and",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "020_3_7_Employment_law.pdf",
+      "code": "3.7",
+      "title": "Employment law",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "021_2c_Content_of_Business_2_operations_finance_a.pdf",
+      "code": "2c",
+      "title": "Content of Business 2: operations, finance and influences on business (J204/02)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "022_4_Operations.pdf",
+      "code": "4",
+      "title": "Operations",
+      "kind": "int",
+      "pages": 1
+    },
+    {
+      "file": "023_4_1_Production_processes.pdf",
+      "code": "4.1",
+      "title": "Production processes",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "024_4_2_Quality_of_goods_and_services.pdf",
+      "code": "4.2",
+      "title": "Quality of goods and services",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "025_4_3_The_sales_process_and_customer.pdf",
+      "code": "4.3",
+      "title": "The sales process and customer",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "026_4_4_Consumer_law.pdf",
+      "code": "4.4",
+      "title": "Consumer law",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "027_4_6_Working_with_suppliers.pdf",
+      "code": "4.6",
+      "title": "Working with suppliers",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "028_5_Finance.pdf",
+      "code": "5",
+      "title": "Finance",
+      "kind": "int",
+      "pages": 1
+    },
+    {
+      "file": "029_5_1_The_role_of_the_finance.pdf",
+      "code": "5.1",
+      "title": "The role of the finance",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "030_5_2_Sources_of_finance.pdf",
+      "code": "5.2",
+      "title": "Sources of finance",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "031_5_3_Revenue_costs_profit_and.pdf",
+      "code": "5.3",
+      "title": "Revenue, costs, profit and",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "032_5_4_Break_even.pdf",
+      "code": "5.4",
+      "title": "Break-even",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "033_5_5_Cash_and_cash_flow.pdf",
+      "code": "5.5",
+      "title": "Cash and cash flow",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "034_6_Influences_on_business.pdf",
+      "code": "6",
+      "title": "Influences on business",
+      "kind": "int",
+      "pages": 1
+    },
+    {
+      "file": "035_6_1_Ethical_and_environmental.pdf",
+      "code": "6.1",
+      "title": "Ethical and environmental",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "036_6_3_Globalisation.pdf",
+      "code": "6.3",
+      "title": "Globalisation",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "037_7_The_interdependent_nature_of_business.pdf",
+      "code": "7",
+      "title": "The interdependent nature of business",
+      "kind": "int",
+      "pages": 1
+    }
+  ]
+}

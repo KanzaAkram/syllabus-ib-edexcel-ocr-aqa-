@@ -1,0 +1,288 @@
+{
+  "method": "toc",
+  "n": 47,
+  "subsections": [
+    {
+      "file": "001_3.1_Biological_molecules.pdf",
+      "code": "3.1",
+      "title": "Biological molecules",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Monomers_and_polymers.pdf",
+      "code": "3.1.1",
+      "title": "Monomers and polymers",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_Carbohydrates.pdf",
+      "code": "3.1.2",
+      "title": "Carbohydrates",
+      "pages": 1
+    },
+    {
+      "file": "004_3.1.3_Lipids.pdf",
+      "code": "3.1.3",
+      "title": "Lipids",
+      "pages": 1
+    },
+    {
+      "file": "005_3.1.4_Proteins.pdf",
+      "code": "3.1.4",
+      "title": "Proteins",
+      "pages": 3
+    },
+    {
+      "file": "006_3.1.5_Nucleic_acids_are_important_information_.pdf",
+      "code": "3.1.5",
+      "title": "Nucleic acids are important information-carrying molecules",
+      "pages": 2
+    },
+    {
+      "file": "007_3.1.6_ATP.pdf",
+      "code": "3.1.6",
+      "title": "ATP",
+      "pages": 1
+    },
+    {
+      "file": "008_3.1.7_Water.pdf",
+      "code": "3.1.7",
+      "title": "Water",
+      "pages": 1
+    },
+    {
+      "file": "009_3.1.8_Inorganic_ions.pdf",
+      "code": "3.1.8",
+      "title": "Inorganic ions",
+      "pages": 1
+    },
+    {
+      "file": "010_3.2_Cells.pdf",
+      "code": "3.2",
+      "title": "Cells",
+      "pages": 1
+    },
+    {
+      "file": "011_3.2.1_Cell_structure.pdf",
+      "code": "3.2.1",
+      "title": "Cell structure",
+      "pages": 2
+    },
+    {
+      "file": "012_3.2.2_All_cells_arise_from_other_cells.pdf",
+      "code": "3.2.2",
+      "title": "All cells arise from other cells",
+      "pages": 1
+    },
+    {
+      "file": "013_3.2.3_Transport_across_cell_membranes.pdf",
+      "code": "3.2.3",
+      "title": "Transport across cell membranes",
+      "pages": 1
+    },
+    {
+      "file": "014_3.2.4_Cell_recognition_and_the_immune_system.pdf",
+      "code": "3.2.4",
+      "title": "Cell recognition and the immune system",
+      "pages": 2
+    },
+    {
+      "file": "015_3.3_Organisms_exchange_substances_with_their.pdf",
+      "code": "3.3",
+      "title": "Organisms exchange substances with their environment",
+      "pages": 1
+    },
+    {
+      "file": "016_3.3.1_Surface_area_to_volume_ratio.pdf",
+      "code": "3.3.1",
+      "title": "Surface area to volume ratio",
+      "pages": 1
+    },
+    {
+      "file": "017_3.3.2_Gas_exchange.pdf",
+      "code": "3.3.2",
+      "title": "Gas exchange",
+      "pages": 1
+    },
+    {
+      "file": "018_3.3.3_Digestion_and_absorption.pdf",
+      "code": "3.3.3",
+      "title": "Digestion and absorption",
+      "pages": 1
+    },
+    {
+      "file": "019_3.3.4_Mass_transport.pdf",
+      "code": "3.3.4",
+      "title": "Mass transport",
+      "pages": 3
+    },
+    {
+      "file": "020_3.4_Genetic_information_variation_and_relati.pdf",
+      "code": "3.4",
+      "title": "Genetic information, variation and relationships between organisms",
+      "pages": 1
+    },
+    {
+      "file": "021_3.4.1_DNA_genes_and_chromosomes.pdf",
+      "code": "3.4.1",
+      "title": "DNA, genes and chromosomes",
+      "pages": 1
+    },
+    {
+      "file": "022_3.4.2_DNA_and_protein_synthesis.pdf",
+      "code": "3.4.2",
+      "title": "DNA and protein synthesis",
+      "pages": 1
+    },
+    {
+      "file": "023_3.4.3_Genetic_diversity_can_arise_as_a_result_.pdf",
+      "code": "3.4.3",
+      "title": "Genetic diversity can arise as a result of mutation or during meiosis",
+      "pages": 1
+    },
+    {
+      "file": "024_3.4.4_Genetic_diversity_and_adaptation.pdf",
+      "code": "3.4.4",
+      "title": "Genetic diversity and adaptation",
+      "pages": 1
+    },
+    {
+      "file": "025_3.4.5_Species_and_taxonomy.pdf",
+      "code": "3.4.5",
+      "title": "Species and taxonomy",
+      "pages": 1
+    },
+    {
+      "file": "026_3.4.6_Biodiversity_within_a_community.pdf",
+      "code": "3.4.6",
+      "title": "Biodiversity within a community",
+      "pages": 1
+    },
+    {
+      "file": "027_3.4.7_Investigating_diversity.pdf",
+      "code": "3.4.7",
+      "title": "Investigating diversity",
+      "pages": 1
+    },
+    {
+      "file": "028_3.5_Energy_transfers_in_and_between_organism.pdf",
+      "code": "3.5",
+      "title": "Energy transfers in and between organisms (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "029_3.5.1_Photosynthesis_A_level_only.pdf",
+      "code": "3.5.1",
+      "title": "Photosynthesis (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "030_3.5.2_Respiration_A_level_only.pdf",
+      "code": "3.5.2",
+      "title": "Respiration (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "031_3.5.3_Energy_and_ecosystems_A_level_only.pdf",
+      "code": "3.5.3",
+      "title": "Energy and ecosystems (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "032_3.5.4_Nutrient_cycles_A_level_only.pdf",
+      "code": "3.5.4",
+      "title": "Nutrient cycles (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "033_3.6_Organisms_respond_to_changes_in_their_in.pdf",
+      "code": "3.6",
+      "title": "Organisms respond to changes in their internal and external environments (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "034_3.6.1_Stimuli_both_internal_and_external_are_d.pdf",
+      "code": "3.6.1",
+      "title": "Stimuli, both internal and external, are detected and lead to a response (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "035_3.6.2_Nervous_coordination_A_level_only.pdf",
+      "code": "3.6.2",
+      "title": "Nervous coordination (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "036_3.6.3_Skeletal_muscles_are_stimulated_to_contr.pdf",
+      "code": "3.6.3",
+      "title": "Skeletal muscles are stimulated to contract by nerves and act as effectors (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "037_3.6.4_Homeostasis_is_the_maintenance_of_a_stab.pdf",
+      "code": "3.6.4",
+      "title": "Homeostasis is the maintenance of a stable internal environment (A-level only)",
+      "pages": 3
+    },
+    {
+      "file": "038_3.7_Genetics_populations_evolution_and_ecosy.pdf",
+      "code": "3.7",
+      "title": "Genetics, populations, evolution and ecosystems (A- level only)",
+      "pages": 1
+    },
+    {
+      "file": "039_3.7.1_Inheritance_A_level_only.pdf",
+      "code": "3.7.1",
+      "title": "Inheritance (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "040_3.7.2_Populations_A_level_only.pdf",
+      "code": "3.7.2",
+      "title": "Populations (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "041_3.7.3_Evolution_may_lead_to_speciation_A_level.pdf",
+      "code": "3.7.3",
+      "title": "Evolution may lead to speciation (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "042_3.7.4_Populations_in_ecosystems_A_level_only.pdf",
+      "code": "3.7.4",
+      "title": "Populations in ecosystems (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "043_3.8_The_control_of_gene_expression_A_level_o.pdf",
+      "code": "3.8",
+      "title": "The control of gene expression (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "044_3.8.1_Alteration_of_the_sequence_of_bases_in_D.pdf",
+      "code": "3.8.1",
+      "title": "Alteration of the sequence of bases in DNA can alter the structure of proteins (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "045_3.8.2_Gene_expression_is_controlled_by_a_numbe.pdf",
+      "code": "3.8.2",
+      "title": "Gene expression is controlled by a number of features (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "046_3.8.3_Using_genome_projects_A_level_only.pdf",
+      "code": "3.8.3",
+      "title": "Using genome projects (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "047_3.8.4_Gene_technologies_allow_the_study_and_al.pdf",
+      "code": "3.8.4",
+      "title": "Gene technologies allow the study and alteration of gene function allowing a better understanding of organism function and the design of new industrial and medical processes (A-level only)",
+      "pages": 2
+    }
+  ]
+}

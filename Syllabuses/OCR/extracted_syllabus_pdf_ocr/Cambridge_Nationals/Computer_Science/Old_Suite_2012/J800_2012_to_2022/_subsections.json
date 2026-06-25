@@ -1,0 +1,84 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 11,
+  "subsections": [
+    {
+      "file": "001_Subject_content.pdf",
+      "code": "",
+      "title": "Subject content",
+      "kind": "overview",
+      "pages": 3
+    },
+    {
+      "file": "002_Summary_of_key_changes_to_this_specificati.pdf",
+      "code": "",
+      "title": "Summary of key changes to this specification",
+      "kind": "label",
+      "pages": 2
+    },
+    {
+      "file": "003_OCR_Cambridge_Nationals_in_ICT.pdf",
+      "code": "",
+      "title": "OCR Cambridge Nationals in ICT",
+      "kind": "label",
+      "pages": 3
+    },
+    {
+      "file": "004_1_Introduction.pdf",
+      "code": "",
+      "title": "1 Introduction",
+      "kind": "label",
+      "pages": 2
+    },
+    {
+      "file": "005_2_Units.pdf",
+      "code": "",
+      "title": "2 Units",
+      "kind": "label",
+      "pages": 20
+    },
+    {
+      "file": "006_3_Assessment.pdf",
+      "code": "",
+      "title": "3 Assessment",
+      "kind": "label",
+      "pages": 6
+    },
+    {
+      "file": "007_4_The_centre_assessed_units_R002_R007.pdf",
+      "code": "",
+      "title": "4 The centre-assessed units (R002-R007)",
+      "kind": "label",
+      "pages": 8
+    },
+    {
+      "file": "008_5_Support.pdf",
+      "code": "",
+      "title": "5 Support",
+      "kind": "label",
+      "pages": 2
+    },
+    {
+      "file": "009_6_Access.pdf",
+      "code": "",
+      "title": "6 Access",
+      "kind": "label",
+      "pages": 1
+    },
+    {
+      "file": "010_7_Administration.pdf",
+      "code": "",
+      "title": "7 Administration",
+      "kind": "label",
+      "pages": 3
+    },
+    {
+      "file": "011_8_Other_information.pdf",
+      "code": "",
+      "title": "8 Other information",
+      "kind": "label",
+      "pages": 3
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 23,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_Topic_1_Formulae_Equations_and_Amount_of_Substance.pdf",
+      "code": "Topic 1",
+      "title": "Formulae, Equations and Amount of Substance",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "003_Topic_2_Atomic_Structure_and_the_Periodic_Table.pdf",
+      "code": "Topic 2",
+      "title": "Atomic Structure and the Periodic Table",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "004_Topic_3_Bonding_and_Structure.pdf",
+      "code": "Topic 3",
+      "title": "Bonding and Structure",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "005_Topic_4_Introductory_Organic_Chemistry_and_Alkanes.pdf",
+      "code": "Topic 4",
+      "title": "Introductory Organic Chemistry and Alkanes",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "006_Topic_5_Alkenes.pdf",
+      "code": "Topic 5",
+      "title": "Alkenes",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "007_Topic_6_Energetics.pdf",
+      "code": "Topic 6",
+      "title": "Energetics",
+      "family": "Topic",
+      "pages": 5
+    },
+    {
+      "file": "008_Topic_7_Intermolecular_Forces.pdf",
+      "code": "Topic 7",
+      "title": "Intermolecular Forces",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Topic_8_Redox_Chemistry_and_Groups_1_2_and_7.pdf",
+      "code": "Topic 8",
+      "title": "Redox Chemistry and Groups 1, 2 and 7",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "010_Topic_9_Introduction_to_Kinetics_and_Equilibria.pdf",
+      "code": "Topic 9",
+      "title": "Introduction to Kinetics and Equilibria",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "011_Topic_10_Organic_Chemistry_Halogenoalkanes_Alcohols.pdf",
+      "code": "Topic 10",
+      "title": "Organic Chemistry: Halogenoalkanes, Alcohols",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "012_Unit_3_Practical_Skills_in_Chemistry_I.pdf",
+      "code": "Unit 3",
+      "title": "Practical Skills in Chemistry I",
+      "family": "Unit",
+      "pages": 3
+    },
+    {
+      "file": "013_Topic_11_Kinetics.pdf",
+      "code": "Topic 11",
+      "title": "Kinetics",
+      "family": "Topic",
+      "pages": 5
+    },
+    {
+      "file": "014_Topic_12_Entropy_and_Energetics.pdf",
+      "code": "Topic 12",
+      "title": "Entropy and Energetics",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "015_Topic_13_Chemical_Equilibria.pdf",
+      "code": "Topic 13",
+      "title": "Chemical Equilibria",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "016_Topic_14_Acid_base_Equilibria.pdf",
+      "code": "Topic 14",
+      "title": "Acid-base Equilibria",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "017_Topic_15_Organic_Chemistry_Carbonyls_Carboxylic_Aci.pdf",
+      "code": "Topic 15",
+      "title": "Organic Chemistry: Carbonyls, Carboxylic Acids",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "018_Topic_16_Redox_Equilibria.pdf",
+      "code": "Topic 16",
+      "title": "Redox Equilibria",
+      "family": "Topic",
+      "pages": 5
+    },
+    {
+      "file": "019_Topic_17_Transition_Metals_and_their_Chemistry.pdf",
+      "code": "Topic 17",
+      "title": "Transition Metals and their Chemistry",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "020_Topic_18_Organic_Chemistry_Arenes.pdf",
+      "code": "Topic 18",
+      "title": "Organic Chemistry – Arenes",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "021_Topic_19_Organic_Nitrogen_Compounds_Amines_Amides.pdf",
+      "code": "Topic 19",
+      "title": "Organic Nitrogen Compounds: Amines, Amides,",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "022_Topic_20_Organic_Synthesis.pdf",
+      "code": "Topic 20",
+      "title": "Organic Synthesis",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "023_Unit_6_Practical_Skills_in_Chemistry_II.pdf",
+      "code": "Unit 6",
+      "title": "Practical Skills in Chemistry II",
+      "family": "Unit",
+      "pages": 1
+    }
+  ]
+}

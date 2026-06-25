@@ -1,0 +1,42 @@
+{
+  "method": "toc",
+  "n": 6,
+  "subsections": [
+    {
+      "file": "001_3.1.1_Shakespeare.pdf",
+      "code": "3.1.1",
+      "title": "Shakespeare",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.2_The_19th_century_novel.pdf",
+      "code": "3.1.2",
+      "title": "The 19th-century novel",
+      "pages": 1
+    },
+    {
+      "file": "003_3.2.1_Modern_texts.pdf",
+      "code": "3.2.1",
+      "title": "Modern texts",
+      "pages": 2
+    },
+    {
+      "file": "004_3.2.2_Poetry.pdf",
+      "code": "3.2.2",
+      "title": "Poetry",
+      "pages": 2
+    },
+    {
+      "file": "005_3.2.3_Unseen_poetry.pdf",
+      "code": "3.2.3",
+      "title": "Unseen poetry",
+      "pages": 1
+    },
+    {
+      "file": "006_3.3_Skills.pdf",
+      "code": "3.3",
+      "title": "Skills",
+      "pages": 1
+    }
+  ]
+}

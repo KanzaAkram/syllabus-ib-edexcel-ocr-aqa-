@@ -1,0 +1,280 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 39,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_1_1_1_Why_new_business_ideas_come_about.pdf",
+      "code": "1.1.1",
+      "title": "Why new business ideas come about:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_1_2_The_impact_of_risk_and_reward_on_business_.pdf",
+      "code": "1.1.2",
+      "title": "The impact of risk and reward on business activity:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "004_1_1_3_The_role_of_business_enterprise_and_the_pu.pdf",
+      "code": "1.1.3",
+      "title": "The role of business enterprise and the purpose of business",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_2_1_Identifying_and_understanding_customer_nee.pdf",
+      "code": "1.2.1",
+      "title": "Identifying and understanding customer needs:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_1_2_2_The_purpose_of_market_research.pdf",
+      "code": "1.2.2",
+      "title": "The purpose of market research:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_1_2_3_How_businesses_use_market_segmentation_to_.pdf",
+      "code": "1.2.3",
+      "title": "How businesses use market segmentation to target",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_1_2_4_Understanding_the_competitive_environment.pdf",
+      "code": "1.2.4",
+      "title": "Understanding the competitive environment:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_1_3_1_What_business_aims_and_business_objectives.pdf",
+      "code": "1.3.1",
+      "title": "What business aims and business objectives are.",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_1_3_2_The_concept_and_calculation_of.pdf",
+      "code": "1.3.2",
+      "title": "The concept and calculation of:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_1_3_3_The_importance_of_cash_to_a_business.pdf",
+      "code": "1.3.3",
+      "title": "The importance of cash to a business:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "012_1_3_4_Sources_of_finance_for_a_start_up_or_estab.pdf",
+      "code": "1.3.4",
+      "title": "Sources of finance for a start-up or established small",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_1_4_1_The_concept_of_limited_liability.pdf",
+      "code": "1.4.1",
+      "title": "The concept of limited liability:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_1_4_2_Factors_influencing_business_location.pdf",
+      "code": "1.4.2",
+      "title": "Factors influencing business location:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "015_1_4_3_What_the_marketing_mix_is_and_the_importan.pdf",
+      "code": "1.4.3",
+      "title": "What the marketing mix is and the importance of each",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_1_4_4_The_role_and_importance_of_a_business_plan.pdf",
+      "code": "1.4.4",
+      "title": "The role and importance of a business plan:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_1_5_1_Who_business_stakeholders_are_and_their_di.pdf",
+      "code": "1.5.1",
+      "title": "Who business stakeholders are and their different",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_1_5_2_Different_types_of_technology_used_by_busi.pdf",
+      "code": "1.5.2",
+      "title": "Different types of technology used by business:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_1_5_3_The_purpose_of_legislation.pdf",
+      "code": "1.5.3",
+      "title": "The purpose of legislation:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_1_5_4_The_impact_of_the_economic_climate_on_busi.pdf",
+      "code": "1.5.4",
+      "title": "The impact of the economic climate on businesses:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "021_1_5_5_The_importance_of_external_influences_on_b.pdf",
+      "code": "1.5.5",
+      "title": "The importance of external influences on business:",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "022_2_1_1_Methods_of_business_growth_and_their_impac.pdf",
+      "code": "2.1.1",
+      "title": "Methods of business growth and their impact:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "023_2_1_2_Why_business_aims_and_objectives_change_as.pdf",
+      "code": "2.1.2",
+      "title": "Why business aims and objectives change as businesses evolve:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "024_2_1_3_The_impact_of_globalisation_on_businesses.pdf",
+      "code": "2.1.3",
+      "title": "The impact of globalisation on businesses:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "025_2_1_4_The_impact_of_ethical_and_environmental_co.pdf",
+      "code": "2.1.4",
+      "title": "The impact of ethical and environmental considerations on",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "026_2_2_1_The_design_mix.pdf",
+      "code": "2.2.1",
+      "title": "The design mix:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "027_2_2_2_Price.pdf",
+      "code": "2.2.2",
+      "title": "Price",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "028_2_2_3_Promotion.pdf",
+      "code": "2.2.3",
+      "title": "Promotion:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "029_2_2_5_How_each_element_of_the_marketing_mix_can_.pdf",
+      "code": "2.2.5",
+      "title": "How each element of the marketing mix can influence other",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "030_2_3_1_The_purpose_of_business_operations.pdf",
+      "code": "2.3.1",
+      "title": "The purpose of business operations:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "031_2_3_2_Managing_stock.pdf",
+      "code": "2.3.2",
+      "title": "Managing stock:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "032_2_3_3_The_concept_of_quality_and_its_importance_.pdf",
+      "code": "2.3.3",
+      "title": "The concept of quality and its importance in:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "033_2_3_4_The_sales_process.pdf",
+      "code": "2.3.4",
+      "title": "The sales process:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "034_2_4_1_The_concept_and_calculation_of.pdf",
+      "code": "2.4.1",
+      "title": "The concept and calculation of:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "035_2_4_2_The_use_and_interpretation_of_quantitative.pdf",
+      "code": "2.4.2",
+      "title": "The use and interpretation of quantitative business data to",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "036_2_5_1_Different_organisational_structures_and_wh.pdf",
+      "code": "2.5.1",
+      "title": "Different organisational structures and when each are",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "037_2_5_2_Different_job_roles_and_responsibilities.pdf",
+      "code": "2.5.2",
+      "title": "Different job roles and responsibilities:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "038_2_5_3_How_businesses_train_and_develop_employees.pdf",
+      "code": "2.5.3",
+      "title": "How businesses train and develop employees:",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "039_2_5_4_The_importance_of_motivation_in_the_workpl.pdf",
+      "code": "2.5.4",
+      "title": "The importance of motivation in the workplace:",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

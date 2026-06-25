@@ -1,0 +1,49 @@
+{
+  "method": "toc",
+  "sections": 2,
+  "n": 6,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Exploring_modern_and_literary_h.pdf",
+      "code": "2c",
+      "title": "Content of Exploring modern and literary heritage texts (01)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Section_A_Exploring_modern_and_literary_heritage_tex.pdf",
+      "code": "Section A",
+      "title": "Exploring modern and literary heritage texts (01)",
+      "kind": "Section",
+      "pages": 3
+    },
+    {
+      "file": "003_Section_B_Exploring_modern_and_literary_heritage_tex.pdf",
+      "code": "Section B",
+      "title": "Exploring modern and literary heritage texts (01)",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "004_2c_Content_of_Exploring_poetry_and_Shakespear.pdf",
+      "code": "2c",
+      "title": "Content of Exploring poetry and Shakespeare (02)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "005_Section_A_Exploring_poetry_and_Shakespeare_02.pdf",
+      "code": "Section A",
+      "title": "Exploring poetry and Shakespeare (02)",
+      "kind": "Section",
+      "pages": 3
+    },
+    {
+      "file": "006_Section_B_Exploring_poetry_and_Shakespeare_02.pdf",
+      "code": "Section B",
+      "title": "Exploring poetry and Shakespeare (02)",
+      "kind": "Section",
+      "pages": 1
+    }
+  ]
+}

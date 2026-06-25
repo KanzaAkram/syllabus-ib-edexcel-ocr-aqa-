@@ -5,6 +5,46 @@ subtopics, sub-subtopics and their content text) from every AQA specification
 PDF in this folder into structured JSON, regardless of the subject's numbering
 style.
 
+---
+
+## `extract_syllabus_pdf.py` — syllabus carved into authentic PDFs
+
+Where the JSON tool re-encodes the text, **`extract_syllabus_pdf.py` keeps the
+original page** (embedded fonts, colours, table styling, two-column layout) and
+simply crops each page to the syllabus content — the running header, footer,
+page numbers, decorative rules and legacy side-tabs are removed. Each cropped
+region is then placed, at its natural scale, onto a **uniform A4 sheet** so every
+output page is the same size. The result is visually identical to the source
+spec, just header/footer-free and page-size-consistent.
+
+```bash
+python extract_syllabus_pdf.py                       # -> ./extracted_syllabus_pdf/ (A4, per sub-topic)
+python extract_syllabus_pdf.py --no-a4               # keep each page at its tight cropped size
+python extract_syllabus_pdf.py --mode section        # one PDF per spec instead
+python extract_syllabus_pdf.py path/to/one.pdf       # a single spec
+```
+
+Default **subsection** mode writes one PDF per teachable sub-topic, mirroring the
+source tree, into `extracted_syllabus_pdf/<qual>/<subject>/<spec-code>/` (files
+go directly in the spec-code folder to keep Windows paths short; a code folder
+holding two spec versions gets `pub2015/` `pub2023/` sub-folders):
+
+```
+001_3.1.1_Atomic_structure.pdf
+002_3.1.2_Amount_of_substance.pdf      # the topic heading (3.1) leads its first sub-topic
+...
+_subsections.json                      # manifest: code, title, page count per file
+```
+
+How a subsection is chosen: one file per level-2 sub-topic carrying its deeper
+content tables (Chemistry `3.1.2`); a level-1 topic whose only sub-headings are
+codeless labels stays whole (Art & Design `3.1`); legacy table-cell codes
+(`3.5.1`) are recovered so they split too. Each page is cropped to the **real
+rendered ink** (not the text bounding box, which several legacy fonts
+under-report) between the detected header/footer, so text is never clipped and
+chrome never leaks. 103 AQA specs → 2,336 A4 subsection PDFs (0 errors, 0 blank
+pages, all paths < 260 chars); audited for header/footer leaks and edge-clipping.
+
 ## Usage
 
 ```bash

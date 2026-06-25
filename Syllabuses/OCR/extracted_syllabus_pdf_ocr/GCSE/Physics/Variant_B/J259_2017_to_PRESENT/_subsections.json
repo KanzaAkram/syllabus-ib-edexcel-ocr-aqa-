@@ -1,0 +1,70 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 9,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_chapters_P1_to_P8.pdf",
+      "code": "2c",
+      "title": "Content of chapters P1 to P8",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Chapter_P1_Radiation_and_waves.pdf",
+      "code": "Chapter P1",
+      "title": "Radiation and waves",
+      "kind": "Chapter",
+      "pages": 8
+    },
+    {
+      "file": "003_Chapter_P2_Sustainable_energy.pdf",
+      "code": "Chapter P2",
+      "title": "Sustainable energy",
+      "kind": "Chapter",
+      "pages": 4
+    },
+    {
+      "file": "004_Chapter_P3_Electric_circuits.pdf",
+      "code": "Chapter P3",
+      "title": "Electric circuits",
+      "kind": "Chapter",
+      "pages": 9
+    },
+    {
+      "file": "005_Chapter_P4_Explaining_motion.pdf",
+      "code": "Chapter P4",
+      "title": "Explaining motion",
+      "kind": "Chapter",
+      "pages": 9
+    },
+    {
+      "file": "006_Chapter_P5_Radioactive_materials.pdf",
+      "code": "Chapter P5",
+      "title": "Radioactive materials",
+      "kind": "Chapter",
+      "pages": 5
+    },
+    {
+      "file": "007_Chapter_P6_Matter_models_and_explanations.pdf",
+      "code": "Chapter P6",
+      "title": "Matter – models and explanations",
+      "kind": "Chapter",
+      "pages": 8
+    },
+    {
+      "file": "008_Chapter_P7_Ideas_about_Science.pdf",
+      "code": "Chapter P7",
+      "title": "Ideas about Science",
+      "kind": "Chapter",
+      "pages": 7
+    },
+    {
+      "file": "009_Chapter_P8_Practical_skills.pdf",
+      "code": "Chapter P8",
+      "title": "Practical skills",
+      "kind": "Chapter",
+      "pages": 3
+    }
+  ]
+}

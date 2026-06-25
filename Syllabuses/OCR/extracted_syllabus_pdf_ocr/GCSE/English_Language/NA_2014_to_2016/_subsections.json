@@ -1,0 +1,42 @@
+{
+  "method": "toc",
+  "sections": 3,
+  "n": 5,
+  "subsections": [
+    {
+      "file": "001_2c_Communicating_information_and_ideas.pdf",
+      "code": "2c",
+      "title": "Communicating information and ideas",
+      "kind": "section",
+      "pages": 1
+    },
+    {
+      "file": "002_2c_Content_of_Exploring_effects_and_impact_Co.pdf",
+      "code": "2c",
+      "title": "Content of Exploring effects and impact (Component 02)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "003_Section_A_Section_A.pdf",
+      "code": "Section A",
+      "title": "Section A",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "004_Section_B_Section_B.pdf",
+      "code": "Section B",
+      "title": "Section B",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "005_2d_non_exam_assessment_in_GCSE_in_English_Lan.pdf",
+      "code": "2d",
+      "title": "non exam assessment in GCSE in English Language (Details to be confirmed by Ofqual)",
+      "kind": "section",
+      "pages": 1
+    }
+  ]
+}

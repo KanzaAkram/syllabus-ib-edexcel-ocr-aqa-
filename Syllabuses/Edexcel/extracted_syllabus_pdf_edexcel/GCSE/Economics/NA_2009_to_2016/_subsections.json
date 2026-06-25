@@ -1,0 +1,21 @@
+{
+  "method": "font",
+  "sections": 1,
+  "n": 2,
+  "subsections": [
+    {
+      "file": "001_Paper_1_Economics.pdf",
+      "code": "Paper 1",
+      "title": "Economics",
+      "family": "Paper",
+      "pages": 9
+    },
+    {
+      "file": "002_Section_D_of_the_subject_content_The_Global_Economy.pdf",
+      "code": "Section D",
+      "title": "of the subject content, The Global Economy.",
+      "family": "Section",
+      "pages": 4
+    }
+  ]
+}

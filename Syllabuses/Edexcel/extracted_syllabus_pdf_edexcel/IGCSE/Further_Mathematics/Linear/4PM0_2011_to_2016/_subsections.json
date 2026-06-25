@@ -1,0 +1,84 @@
+{
+  "method": "font",
+  "sections": 2,
+  "n": 11,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_Topic_1_Logarithmic_functions_and_indices_The_func.pdf",
+      "code": "Topic 1",
+      "title": "Logarithmic functions and indices The functions ax and logb x (where b is a natural number greater than one).",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "003_Topic_2_The_quadratic_function_The_manipulation_of.pdf",
+      "code": "Topic 2",
+      "title": "The quadratic function The manipulation of quadratic expressions.",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_3_Identities_and_inequalities_Simple_algebra.pdf",
+      "code": "Topic 3",
+      "title": "Identities and inequalities Simple algebraic division.",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "005_Topic_4_Graphs_Graphs_of_polynomials_and_rational_.pdf",
+      "code": "Topic 4",
+      "title": "Graphs Graphs of polynomials and rational functions with linear denominators.",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_5_Series_Use_of_the_notation.pdf",
+      "code": "Topic 5",
+      "title": "Series Use of the ∑ notation.",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "007_Topic_6_The_Binomial_series_Use_of_the_binomial_se.pdf",
+      "code": "Topic 6",
+      "title": "The Binomial series Use of the binomial series (1 +x)n.",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "008_Topic_7_Scalar_and_vector_quantities_The_addition_.pdf",
+      "code": "Topic 7",
+      "title": "Scalar and vector quantities The addition and subtraction of coplanar vectors and the multiplication of a vector by",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Topic_8_Rectangular_cartesian_coordinates_The_dist.pdf",
+      "code": "Topic 8",
+      "title": "Rectangular cartesian coordinates The distance between two points.",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "010_Topic_9_Calculus_Differentiation_and_integration_o.pdf",
+      "code": "Topic 9",
+      "title": "Calculus Differentiation and integration of sums of multiples of powers of x (excluding integration of x",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "011_Topic_10_Trigonometry_Radian_measure_including_use_.pdf",
+      "code": "Topic 10",
+      "title": "Trigonometry Radian measure, including use for arc length and area of sector.",
+      "family": "Topic",
+      "pages": 1
+    }
+  ]
+}

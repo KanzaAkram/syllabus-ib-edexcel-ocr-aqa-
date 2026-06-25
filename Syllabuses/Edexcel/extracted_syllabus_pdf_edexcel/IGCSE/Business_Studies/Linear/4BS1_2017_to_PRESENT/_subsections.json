@@ -1,0 +1,189 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 26,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_1_1_Business_objectives.pdf",
+      "code": "1.1",
+      "title": "Business objectives",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_2_Types_of_organisations.pdf",
+      "code": "1.2",
+      "title": "Types of organisations",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "004_1_3_Classification_of.pdf",
+      "code": "1.3",
+      "title": "Classification of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_4_Decisions_on_location.pdf",
+      "code": "1.4",
+      "title": "Decisions on location",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_1_5_Business_and_the.pdf",
+      "code": "1.5",
+      "title": "Business and the",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_1_6_Government_objectives.pdf",
+      "code": "1.6",
+      "title": "Government objectives",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_1_7_External_factors.pdf",
+      "code": "1.7",
+      "title": "External factors",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_1_8_What_makes_a.pdf",
+      "code": "1.8",
+      "title": "What makes a",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_2_1_Internal_and_external.pdf",
+      "code": "2.1",
+      "title": "Internal and external",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_2_2_Recruitment_and.pdf",
+      "code": "2.2",
+      "title": "Recruitment and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "012_2_3_Training.pdf",
+      "code": "2.3",
+      "title": "Training",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_2_4_Motivation_and.pdf",
+      "code": "2.4",
+      "title": "Motivation and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_2_5_Organisation_structure.pdf",
+      "code": "2.5",
+      "title": "Organisation structure",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "015_3_1_Business_finance.pdf",
+      "code": "3.1",
+      "title": "Business finance –",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_3_2_Cash_flow_forecasting.pdf",
+      "code": "3.2",
+      "title": "Cash flow forecasting",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_3_3_Costs_and_break_even.pdf",
+      "code": "3.3",
+      "title": "Costs and break-even",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_3_4_Financial_documents.pdf",
+      "code": "3.4",
+      "title": "Financial documents",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_3_5_Accounts_analysis.pdf",
+      "code": "3.5",
+      "title": "Accounts analysis",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_4_1_Market_research.pdf",
+      "code": "4.1",
+      "title": "Market research",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "021_4_2_The_market.pdf",
+      "code": "4.2",
+      "title": "The market",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "022_4_3_The_marketing_mix.pdf",
+      "code": "4.3",
+      "title": "The marketing mix",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "023_5_1_Economies_and.pdf",
+      "code": "5.1",
+      "title": "Economies and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "024_5_2_Production.pdf",
+      "code": "5.2",
+      "title": "Production",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "025_5_3_Factors_of_production.pdf",
+      "code": "5.3",
+      "title": "Factors of production",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "026_5_4_Quality.pdf",
+      "code": "5.4",
+      "title": "Quality",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

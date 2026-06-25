@@ -1,0 +1,35 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 4,
+  "subsections": [
+    {
+      "file": "001_3_1.pdf",
+      "code": "3.1",
+      "title": "",
+      "family": "Num",
+      "pages": 5
+    },
+    {
+      "file": "002_3_2.pdf",
+      "code": "3.2",
+      "title": "",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_3_3.pdf",
+      "code": "3.3",
+      "title": "",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "004_3_4.pdf",
+      "code": "3.4",
+      "title": "",
+      "family": "Num",
+      "pages": 3
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "method": "toc",
+  "n": 11,
+  "subsections": [
+    {
+      "file": "001_3.1_Component_1_The_study_of_religions_belie.pdf",
+      "code": "3.1",
+      "title": "Component 1: The study of religions: beliefs, teachings and practices",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Buddhism.pdf",
+      "code": "3.1.1",
+      "title": "Buddhism",
+      "pages": 3
+    },
+    {
+      "file": "003_3.1.2_Christianity.pdf",
+      "code": "3.1.2",
+      "title": "Christianity",
+      "pages": 2
+    },
+    {
+      "file": "004_3.1.3_Catholic_Christianity.pdf",
+      "code": "3.1.3",
+      "title": "Catholic Christianity",
+      "pages": 3
+    },
+    {
+      "file": "005_3.1.4_Hinduism.pdf",
+      "code": "3.1.4",
+      "title": "Hinduism",
+      "pages": 2
+    },
+    {
+      "file": "006_3.1.5_Islam.pdf",
+      "code": "3.1.5",
+      "title": "Islam",
+      "pages": 3
+    },
+    {
+      "file": "007_3.1.6_Judaism.pdf",
+      "code": "3.1.6",
+      "title": "Judaism",
+      "pages": 2
+    },
+    {
+      "file": "008_3.1.7_Sikhism.pdf",
+      "code": "3.1.7",
+      "title": "Sikhism",
+      "pages": 3
+    },
+    {
+      "file": "009_3.2_Component_2_Thematic_studies.pdf",
+      "code": "3.2",
+      "title": "Component 2: Thematic studies",
+      "pages": 1
+    },
+    {
+      "file": "010_3.2.1_Religious_philosophical_and_ethical_stud.pdf",
+      "code": "3.2.1",
+      "title": "Religious, philosophical and ethical studies",
+      "pages": 6
+    },
+    {
+      "file": "011_3.2.2_Textual_studies.pdf",
+      "code": "3.2.2",
+      "title": "Textual studies",
+      "pages": 3
+    }
+  ]
+}

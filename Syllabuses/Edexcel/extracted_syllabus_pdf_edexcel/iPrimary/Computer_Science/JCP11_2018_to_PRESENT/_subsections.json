@@ -1,0 +1,49 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 6,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_Topic_1_Problem_solving_algorithms_decomposition_a.pdf",
+      "code": "Topic 1",
+      "title": "Problem solving: algorithms, decomposition and abstraction",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "003_Topic_2_Programming_and_development.pdf",
+      "code": "Topic 2",
+      "title": "Programming and development",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_3_Computers_hardware_and_software.pdf",
+      "code": "Topic 3",
+      "title": "Computers: hardware and software",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "005_Topic_4_Communications_and_networks.pdf",
+      "code": "Topic 4",
+      "title": "Communications and networks",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "006_Section_B_Digital_Technology.pdf",
+      "code": "Section B",
+      "title": "Digital Technology",
+      "family": "Section",
+      "pages": 2
+    }
+  ]
+}

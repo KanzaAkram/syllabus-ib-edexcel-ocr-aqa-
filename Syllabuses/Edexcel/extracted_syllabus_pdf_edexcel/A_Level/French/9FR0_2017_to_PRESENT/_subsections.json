@@ -1,0 +1,63 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 8,
+  "subsections": [
+    {
+      "file": "001_Theme_1_Les_changements_dans_la_soci_t_fran_aise.pdf",
+      "code": "Theme 1",
+      "title": "Les changements dans la société française",
+      "family": "Theme",
+      "pages": 2
+    },
+    {
+      "file": "002_Theme_2_La_culture_politique_et_artistique_dans_le.pdf",
+      "code": "Theme 2",
+      "title": "La culture politique et artistique dans les pays",
+      "family": "Theme",
+      "pages": 1
+    },
+    {
+      "file": "003_Theme_3_L_immigration_et_la_soci_t_multiculturelle.pdf",
+      "code": "Theme 3",
+      "title": "L’immigration et la société multiculturelle française",
+      "family": "Theme",
+      "pages": 1
+    },
+    {
+      "file": "004_Theme_4_L_Occupation_et_la_R_sistance.pdf",
+      "code": "Theme 4",
+      "title": "L’Occupation et la Résistance",
+      "family": "Theme",
+      "pages": 1
+    },
+    {
+      "file": "005_Paper_1_Listening_reading_and_translation.pdf",
+      "code": "Paper 1",
+      "title": "Listening, reading and translation",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "006_Paper_2_Written_response_to_works_and_translation.pdf",
+      "code": "Paper 2",
+      "title": "Written response to works and translation",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "007_Section_A_Question_1_translation_into_assessed_langu.pdf",
+      "code": "Section A",
+      "title": "Question 1 (translation) into assessed language",
+      "family": "Section",
+      "pages": 5
+    },
+    {
+      "file": "008_Paper_3_Speaking.pdf",
+      "code": "Paper 3",
+      "title": "Speaking",
+      "family": "Paper",
+      "pages": 1
+    }
+  ]
+}

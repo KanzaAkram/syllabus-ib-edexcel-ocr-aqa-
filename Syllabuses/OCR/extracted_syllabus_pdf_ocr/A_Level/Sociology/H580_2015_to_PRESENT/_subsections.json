@@ -1,0 +1,91 @@
+{
+  "method": "toc",
+  "sections": 3,
+  "n": 12,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Socialisation_culture_and_ident.pdf",
+      "code": "2c",
+      "title": "Content of Socialisation, culture and identity: (01)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Section_A_Introducing_socialisation_culture_and_iden.pdf",
+      "code": "Section A",
+      "title": "Introducing socialisation, culture and identity",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "003_Section_B_Option_1_Families_and_relationships.pdf",
+      "code": "Section B",
+      "title": "Option 1: Families and relationships",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "004_Section_B_Option_2_Youth_subcultures.pdf",
+      "code": "Section B",
+      "title": "Option 2: Youth subcultures",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "005_2c_Content_of_Researching_and_understanding_s.pdf",
+      "code": "2c",
+      "title": "Content of Researching and understanding social inequalities: (02)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "006_Section_A_Research_methods_and_researching_social_in.pdf",
+      "code": "Section A",
+      "title": "Research methods and researching social inequalities",
+      "kind": "Section",
+      "pages": 3
+    },
+    {
+      "file": "007_Section_B_Understanding_social_inequalities.pdf",
+      "code": "Section B",
+      "title": "Understanding social inequalities",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "008_2c_Content_of_Debates_in_contemporary_society.pdf",
+      "code": "2c",
+      "title": "Content of Debates in contemporary society: (03)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "009_Section_A_Globalisation_and_the_digital_social_world.pdf",
+      "code": "Section A",
+      "title": "Globalisation and the digital social world",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "010_Section_B_Option_1_Crime_and_deviance.pdf",
+      "code": "Section B",
+      "title": "Option 1: Crime and deviance",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "011_Section_B_Option_2_Education.pdf",
+      "code": "Section B",
+      "title": "Option 2: Education",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "012_Section_B_Option_3_Religion_belief_and_faith.pdf",
+      "code": "Section B",
+      "title": "Option 3: Religion, belief and faith",
+      "kind": "Section",
+      "pages": 1
+    }
+  ]
+}

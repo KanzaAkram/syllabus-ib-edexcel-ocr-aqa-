@@ -1,0 +1,198 @@
+{
+  "method": "toc",
+  "n": 32,
+  "subsections": [
+    {
+      "file": "001_Introduction.pdf",
+      "code": "",
+      "title": "Introduction",
+      "pages": 3
+    },
+    {
+      "file": "002_1A_The_Age_of_the_Crusades_c1071_1204.pdf",
+      "code": "1A",
+      "title": "The Age of the Crusades, c1071–1204",
+      "pages": 3
+    },
+    {
+      "file": "003_1B_Spain_in_the_Age_of_Discovery_1469_1598_.pdf",
+      "code": "1B",
+      "title": "Spain in the Age of Discovery, 1469–1598 (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "004_1C_The_Tudors_England_1485_1603.pdf",
+      "code": "1C",
+      "title": "The Tudors: England, 1485–1603",
+      "pages": 2
+    },
+    {
+      "file": "005_1D_Stuart_Britain_and_the_Crisis_of_Monarch.pdf",
+      "code": "1D",
+      "title": "Stuart Britain and the Crisis of Monarchy, 1603–1702",
+      "pages": 3
+    },
+    {
+      "file": "006_1E_Russia_in_the_Age_of_Absolutism_and_Enli.pdf",
+      "code": "1E",
+      "title": "Russia in the Age of Absolutism and Enlightenment, 1682–1796 (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "007_1F_Industrialisation_and_the_people_Britain.pdf",
+      "code": "1F",
+      "title": "Industrialisation and the people: Britain, c1783–1885",
+      "pages": 3
+    },
+    {
+      "file": "008_1G_Challenge_and_transformation_Britain_c18.pdf",
+      "code": "1G",
+      "title": "Challenge and transformation: Britain, c1851–1964",
+      "pages": 2
+    },
+    {
+      "file": "009_1H_Tsarist_and_Communist_Russia_1855_1964.pdf",
+      "code": "1H",
+      "title": "Tsarist and Communist Russia, 1855–1964",
+      "pages": 2
+    },
+    {
+      "file": "010_1J_The_British_Empire_c1857_1967.pdf",
+      "code": "1J",
+      "title": "The British Empire, c1857–1967",
+      "pages": 2
+    },
+    {
+      "file": "011_1K_The_making_of_a_Superpower_USA_1865_1975.pdf",
+      "code": "1K",
+      "title": "The making of a Superpower: USA, 1865–1975",
+      "pages": 2
+    },
+    {
+      "file": "012_1L_The_quest_for_political_stability_German.pdf",
+      "code": "1L",
+      "title": "The quest for political stability: Germany, 1871–1991",
+      "pages": 2
+    },
+    {
+      "file": "013_2A_Royal_Authority_and_the_Angevin_Kings_11.pdf",
+      "code": "2A",
+      "title": "Royal Authority and the Angevin Kings, 1154–1216",
+      "pages": 2
+    },
+    {
+      "file": "014_2B_The_Wars_of_the_Roses_1450_1499.pdf",
+      "code": "2B",
+      "title": "The Wars of the Roses, 1450–1499",
+      "pages": 3
+    },
+    {
+      "file": "015_2C_The_Reformation_in_Europe_c1500_1564_A_l.pdf",
+      "code": "2C",
+      "title": "The Reformation in Europe, c1500–1564 (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "016_2D_Religious_conflict_and_the_Church_in_Eng.pdf",
+      "code": "2D",
+      "title": "Religious conflict and the Church in England, c1529–c1570",
+      "pages": 3
+    },
+    {
+      "file": "017_2E_The_English_Revolution_1625_1660.pdf",
+      "code": "2E",
+      "title": "The English Revolution, 1625–1660",
+      "pages": 3
+    },
+    {
+      "file": "018_2F_The_Sun_King_Louis_XIV_France_and_Europe.pdf",
+      "code": "2F",
+      "title": "The Sun King: Louis XIV, France and Europe, 1643–1715 (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "019_2G_The_Birth_of_the_USA_1760_1801.pdf",
+      "code": "2G",
+      "title": "The Birth of the USA, 1760–1801",
+      "pages": 3
+    },
+    {
+      "file": "020_2H_France_in_Revolution_1774_1815_A_level_o.pdf",
+      "code": "2H",
+      "title": "France in Revolution, 1774–1815 (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "021_2J_America_A_Nation_Divided_c1845_1877.pdf",
+      "code": "2J",
+      "title": "America: A Nation Divided, c1845–1877",
+      "pages": 3
+    },
+    {
+      "file": "022_2K_International_Relations_and_Global_Confl.pdf",
+      "code": "2K",
+      "title": "International Relations and Global Conflict, c1890–1941 (A-level only)",
+      "pages": 3
+    },
+    {
+      "file": "023_2L_Italy_and_Fascism_c1900_1945.pdf",
+      "code": "2L",
+      "title": "Italy and Fascism, c1900–1945",
+      "pages": 2
+    },
+    {
+      "file": "024_2M_Wars_and_Welfare_Britain_in_Transition_1.pdf",
+      "code": "2M",
+      "title": "Wars and Welfare: Britain in Transition, 1906–1957",
+      "pages": 3
+    },
+    {
+      "file": "025_2N_Revolution_and_dictatorship_Russia_1917_.pdf",
+      "code": "2N",
+      "title": "Revolution and dictatorship: Russia, 1917–1953",
+      "pages": 3
+    },
+    {
+      "file": "026_2O_Democracy_and_Nazism_Germany_1918_1945.pdf",
+      "code": "2O",
+      "title": "Democracy and Nazism: Germany, 1918–1945",
+      "pages": 3
+    },
+    {
+      "file": "027_2P_The_Transformation_of_China_1936_1997.pdf",
+      "code": "2P",
+      "title": "The Transformation of China, 1936–1997",
+      "pages": 2
+    },
+    {
+      "file": "028_2Q_The_American_Dream_reality_and_illusion_.pdf",
+      "code": "2Q",
+      "title": "The American Dream: reality and illusion, 1945–1980",
+      "pages": 3
+    },
+    {
+      "file": "029_2R_The_Cold_War_c1945_1991.pdf",
+      "code": "2R",
+      "title": "The Cold War, c1945–1991",
+      "pages": 3
+    },
+    {
+      "file": "030_2S_The_Making_of_Modern_Britain_1951_2007.pdf",
+      "code": "2S",
+      "title": "The Making of Modern Britain, 1951–2007",
+      "pages": 2
+    },
+    {
+      "file": "031_2T_The_Crisis_of_Communism_The_USSR_and_the.pdf",
+      "code": "2T",
+      "title": "The Crisis of Communism: The USSR and the Soviet Empire, 1953–2000 (A-level only)",
+      "pages": 2
+    },
+    {
+      "file": "032_Component_3_Historical_investigation_non.pdf",
+      "code": "",
+      "title": "Component 3: Historical investigation (non-exam assessment)",
+      "pages": 7
+    }
+  ]
+}

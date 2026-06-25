@@ -1,0 +1,282 @@
+{
+  "method": "toc",
+  "n": 46,
+  "subsections": [
+    {
+      "file": "001_3.1_Unit_1_CHEM1_Foundation_Chemistry.pdf",
+      "code": "3.1",
+      "title": "Unit 1 CHEM1 Foundation Chemistry",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Atomic_Structure.pdf",
+      "code": "3.1.1",
+      "title": "Atomic Structure",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_Amount_of_Substance.pdf",
+      "code": "3.1.2",
+      "title": "Amount of Substance",
+      "pages": 1
+    },
+    {
+      "file": "004_3.1.3_Bonding.pdf",
+      "code": "3.1.3",
+      "title": "Bonding",
+      "pages": 2
+    },
+    {
+      "file": "005_3.1.4_Periodicity.pdf",
+      "code": "3.1.4",
+      "title": "Periodicity",
+      "pages": 1
+    },
+    {
+      "file": "006_3.1.5_Introduction_to_Organic_Chemistry.pdf",
+      "code": "3.1.5",
+      "title": "Introduction to Organic Chemistry",
+      "pages": 1
+    },
+    {
+      "file": "007_3.1.6_Alkanes.pdf",
+      "code": "3.1.6",
+      "title": "Alkanes",
+      "pages": 1
+    },
+    {
+      "file": "008_3.2_Unit_2_CHEM2_Chemistry_in_Action.pdf",
+      "code": "3.2",
+      "title": "Unit 2 CHEM2 Chemistry in Action",
+      "pages": 1
+    },
+    {
+      "file": "009_3.2.1_Energetics.pdf",
+      "code": "3.2.1",
+      "title": "Energetics",
+      "pages": 1
+    },
+    {
+      "file": "010_3.2.2_Kinetics.pdf",
+      "code": "3.2.2",
+      "title": "Kinetics",
+      "pages": 1
+    },
+    {
+      "file": "011_3.2.3_Equilibria.pdf",
+      "code": "3.2.3",
+      "title": "Equilibria",
+      "pages": 1
+    },
+    {
+      "file": "012_3.2.4_Redox_Reactions.pdf",
+      "code": "3.2.4",
+      "title": "Redox Reactions",
+      "pages": 1
+    },
+    {
+      "file": "013_3.2.5_Group_7_17_the_Halogens.pdf",
+      "code": "3.2.5",
+      "title": "Group 7(17), the Halogens",
+      "pages": 1
+    },
+    {
+      "file": "014_3.2.6_Group_2_the_Alkaline_Earth_Metals.pdf",
+      "code": "3.2.6",
+      "title": "Group 2, the Alkaline Earth Metals",
+      "pages": 1
+    },
+    {
+      "file": "015_3.2.7_Extraction_of_Metals.pdf",
+      "code": "3.2.7",
+      "title": "Extraction of Metals",
+      "pages": 1
+    },
+    {
+      "file": "016_3.2.8_Haloalkanes.pdf",
+      "code": "3.2.8",
+      "title": "Haloalkanes",
+      "pages": 2
+    },
+    {
+      "file": "017_3.2.9_Alkenes.pdf",
+      "code": "3.2.9",
+      "title": "Alkenes",
+      "pages": 1
+    },
+    {
+      "file": "018_3.2.10_Alcohols.pdf",
+      "code": "3.2.10",
+      "title": "Alcohols",
+      "pages": 1
+    },
+    {
+      "file": "019_3.2.11_Analytical_Techniques.pdf",
+      "code": "3.2.11",
+      "title": "Analytical Techniques",
+      "pages": 1
+    },
+    {
+      "file": "020_3.3_Unit_3_Investigative_and_Practical_Skill.pdf",
+      "code": "3.3",
+      "title": "Unit 3 Investigative and Practical Skills in AS Chemistry",
+      "pages": 2
+    },
+    {
+      "file": "021_3.4_Unit_4_CHEM4_Kinetics_Equilibria_and_Org.pdf",
+      "code": "3.4",
+      "title": "Unit 4 CHEM4 Kinetics, Equilibria and Organic Chemistry",
+      "pages": 1
+    },
+    {
+      "file": "022_3.4.1_Kinetics.pdf",
+      "code": "3.4.1",
+      "title": "Kinetics",
+      "pages": 1
+    },
+    {
+      "file": "023_3.4.2_Equilibria.pdf",
+      "code": "3.4.2",
+      "title": "Equilibria",
+      "pages": 1
+    },
+    {
+      "file": "024_3.4.3_Acids_and_Bases.pdf",
+      "code": "3.4.3",
+      "title": "Acids and Bases",
+      "pages": 1
+    },
+    {
+      "file": "025_3.4.4_Nomenclature_and_Isomerism_in_Organic_Ch.pdf",
+      "code": "3.4.4",
+      "title": "Nomenclature and Isomerism in Organic Chemistry",
+      "pages": 2
+    },
+    {
+      "file": "026_3.4.5_Compounds_Containing_the_Carbonyl_Group.pdf",
+      "code": "3.4.5",
+      "title": "Compounds Containing the Carbonyl Group",
+      "pages": 1
+    },
+    {
+      "file": "027_3.4.6_Aromatic_Chemistry.pdf",
+      "code": "3.4.6",
+      "title": "Aromatic Chemistry",
+      "pages": 1
+    },
+    {
+      "file": "028_3.4.7_Amines.pdf",
+      "code": "3.4.7",
+      "title": "Amines",
+      "pages": 1
+    },
+    {
+      "file": "029_3.4.8_Amino_Acids.pdf",
+      "code": "3.4.8",
+      "title": "Amino Acids",
+      "pages": 1
+    },
+    {
+      "file": "030_3.4.9_Polymers.pdf",
+      "code": "3.4.9",
+      "title": "Polymers",
+      "pages": 1
+    },
+    {
+      "file": "031_3.4.10_Organic_Synthesis_and_Analysis.pdf",
+      "code": "3.4.10",
+      "title": "Organic Synthesis and Analysis",
+      "pages": 1
+    },
+    {
+      "file": "032_3.4.11_Structure_Determination.pdf",
+      "code": "3.4.11",
+      "title": "Structure Determination",
+      "pages": 1
+    },
+    {
+      "file": "033_3.5_Unit_5_CHEM5_Energetics_Redox_and_Inorga.pdf",
+      "code": "3.5",
+      "title": "Unit 5 CHEM5 Energetics, Redox and Inorganic Chemistry",
+      "pages": 1
+    },
+    {
+      "file": "034_3.5.1_Thermodynamics.pdf",
+      "code": "3.5.1",
+      "title": "Thermodynamics",
+      "pages": 1
+    },
+    {
+      "file": "035_3.5.2_Periodicity.pdf",
+      "code": "3.5.2",
+      "title": "Periodicity",
+      "pages": 1
+    },
+    {
+      "file": "036_3.5.3_Redox_Equilibria.pdf",
+      "code": "3.5.3",
+      "title": "Redox Equilibria",
+      "pages": 1
+    },
+    {
+      "file": "037_3.5.4_Transition_Metals.pdf",
+      "code": "3.5.4",
+      "title": "Transition Metals",
+      "pages": 2
+    },
+    {
+      "file": "038_3.5.5_Reactions_of_Inorganic_Compounds_in_Aque.pdf",
+      "code": "3.5.5",
+      "title": "Reactions of Inorganic Compounds in Aqueous Solution",
+      "pages": 2
+    },
+    {
+      "file": "039_3.6_Unit_6_Investigative_and_Practical_Skill.pdf",
+      "code": "3.6",
+      "title": "Unit 6 Investigative and Practical Skills in A2 Chemistry",
+      "pages": 2
+    },
+    {
+      "file": "040_3.7_How_Science_Works.pdf",
+      "code": "3.7",
+      "title": "How Science Works",
+      "pages": 4
+    },
+    {
+      "file": "041_3.8_Guidance_on_Internal_Assessment.pdf",
+      "code": "3.8",
+      "title": "Guidance on Internal Assessment",
+      "pages": 1
+    },
+    {
+      "file": "042_3.8.1_Centre_Assessed.pdf",
+      "code": "3.8.1",
+      "title": "Centre Assessed",
+      "pages": 3
+    },
+    {
+      "file": "043_3.8.2_Externally_Marked_Route_X.pdf",
+      "code": "3.8.2",
+      "title": "Externally Marked Route X",
+      "pages": 2
+    },
+    {
+      "file": "044_3.8.3_General_Marking_Guidance_for.pdf",
+      "code": "3.8.3",
+      "title": "General Marking Guidance for",
+      "pages": 1
+    },
+    {
+      "file": "045_3.8.4_General_Marking_Guidance_for_each_PSA.pdf",
+      "code": "3.8.4",
+      "title": "General Marking Guidance for each PSA",
+      "pages": 7
+    },
+    {
+      "file": "046_3.9_Mathematical_Requirements.pdf",
+      "code": "3.9",
+      "title": "Mathematical Requirements",
+      "pages": 1
+    }
+  ]
+}

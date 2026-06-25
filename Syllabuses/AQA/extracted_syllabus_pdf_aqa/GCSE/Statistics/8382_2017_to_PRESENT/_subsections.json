@@ -1,0 +1,504 @@
+{
+  "method": "toc",
+  "n": 83,
+  "subsections": [
+    {
+      "file": "001_3.1_Section_A.pdf",
+      "code": "3.1",
+      "title": "Section A",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_A1.pdf",
+      "code": "3.1.1",
+      "title": "A1",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_A2.pdf",
+      "code": "3.1.2",
+      "title": "A2",
+      "pages": 1
+    },
+    {
+      "file": "004_3.1.3_A3.pdf",
+      "code": "3.1.3",
+      "title": "A3",
+      "pages": 1
+    },
+    {
+      "file": "005_3.2_Section_B.pdf",
+      "code": "3.2",
+      "title": "Section B",
+      "pages": 1
+    },
+    {
+      "file": "006_3.2.1_B1a.pdf",
+      "code": "3.2.1",
+      "title": "B1a",
+      "pages": 1
+    },
+    {
+      "file": "007_3.2.2_B1b.pdf",
+      "code": "3.2.2",
+      "title": "B1b",
+      "pages": 1
+    },
+    {
+      "file": "008_3.2.3_B1c.pdf",
+      "code": "3.2.3",
+      "title": "B1c",
+      "pages": 1
+    },
+    {
+      "file": "009_3.2.4_B2a.pdf",
+      "code": "3.2.4",
+      "title": "B2a",
+      "pages": 2
+    },
+    {
+      "file": "010_3.2.5_B2b.pdf",
+      "code": "3.2.5",
+      "title": "B2b",
+      "pages": 1
+    },
+    {
+      "file": "011_3.2.6_B2c.pdf",
+      "code": "3.2.6",
+      "title": "B2c",
+      "pages": 1
+    },
+    {
+      "file": "012_3.2.7_B2d.pdf",
+      "code": "3.2.7",
+      "title": "B2d",
+      "pages": 1
+    },
+    {
+      "file": "013_3.2.8_B3a.pdf",
+      "code": "3.2.8",
+      "title": "B3a",
+      "pages": 1
+    },
+    {
+      "file": "014_3.2.9_B3b.pdf",
+      "code": "3.2.9",
+      "title": "B3b",
+      "pages": 1
+    },
+    {
+      "file": "015_3.2.10_B3c.pdf",
+      "code": "3.2.10",
+      "title": "B3c",
+      "pages": 1
+    },
+    {
+      "file": "016_3.2.11_B3d.pdf",
+      "code": "3.2.11",
+      "title": "B3d",
+      "pages": 1
+    },
+    {
+      "file": "017_3.2.12_B3e.pdf",
+      "code": "3.2.12",
+      "title": "B3e",
+      "pages": 1
+    },
+    {
+      "file": "018_3.2.13_B3f.pdf",
+      "code": "3.2.13",
+      "title": "B3f",
+      "pages": 1
+    },
+    {
+      "file": "019_3.2.14_B4.pdf",
+      "code": "3.2.14",
+      "title": "B4",
+      "pages": 1
+    },
+    {
+      "file": "020_3.2.15_B5a.pdf",
+      "code": "3.2.15",
+      "title": "B5a",
+      "pages": 1
+    },
+    {
+      "file": "021_3.2.16_B5b.pdf",
+      "code": "3.2.16",
+      "title": "B5b",
+      "pages": 1
+    },
+    {
+      "file": "022_3.2.17_B5c.pdf",
+      "code": "3.2.17",
+      "title": "B5c",
+      "pages": 1
+    },
+    {
+      "file": "023_3.3_Section_C.pdf",
+      "code": "3.3",
+      "title": "Section C",
+      "pages": 1
+    },
+    {
+      "file": "024_3.3.1_C1a.pdf",
+      "code": "3.3.1",
+      "title": "C1a",
+      "pages": 1
+    },
+    {
+      "file": "025_3.3.2_C1b.pdf",
+      "code": "3.3.2",
+      "title": "C1b",
+      "pages": 1
+    },
+    {
+      "file": "026_3.3.3_C2.pdf",
+      "code": "3.3.3",
+      "title": "C2",
+      "pages": 2
+    },
+    {
+      "file": "027_3.3.4_C3a.pdf",
+      "code": "3.3.4",
+      "title": "C3a",
+      "pages": 1
+    },
+    {
+      "file": "028_3.3.5_C3b.pdf",
+      "code": "3.3.5",
+      "title": "C3b",
+      "pages": 1
+    },
+    {
+      "file": "029_3.3.6_C4a.pdf",
+      "code": "3.3.6",
+      "title": "C4a",
+      "pages": 1
+    },
+    {
+      "file": "030_3.3.7_C4b.pdf",
+      "code": "3.3.7",
+      "title": "C4b",
+      "pages": 1
+    },
+    {
+      "file": "031_3.4_Section_D.pdf",
+      "code": "3.4",
+      "title": "Section D",
+      "pages": 1
+    },
+    {
+      "file": "032_3.4.1_D1a.pdf",
+      "code": "3.4.1",
+      "title": "D1a",
+      "pages": 1
+    },
+    {
+      "file": "033_3.4.2_D1b.pdf",
+      "code": "3.4.2",
+      "title": "D1b",
+      "pages": 1
+    },
+    {
+      "file": "034_3.4.3_D2.pdf",
+      "code": "3.4.3",
+      "title": "D2",
+      "pages": 1
+    },
+    {
+      "file": "035_3.4.4_D3a.pdf",
+      "code": "3.4.4",
+      "title": "D3a",
+      "pages": 1
+    },
+    {
+      "file": "036_3.4.5_D3b.pdf",
+      "code": "3.4.5",
+      "title": "D3b",
+      "pages": 1
+    },
+    {
+      "file": "037_3.4.6_D4.pdf",
+      "code": "3.4.6",
+      "title": "D4",
+      "pages": 1
+    },
+    {
+      "file": "038_3.4.7_D5.pdf",
+      "code": "3.4.7",
+      "title": "D5",
+      "pages": 1
+    },
+    {
+      "file": "039_3.4.8_D6.pdf",
+      "code": "3.4.8",
+      "title": "D6",
+      "pages": 1
+    },
+    {
+      "file": "040_3.4.9_D7.pdf",
+      "code": "3.4.9",
+      "title": "D7",
+      "pages": 1
+    },
+    {
+      "file": "041_3.5_Section_E.pdf",
+      "code": "3.5",
+      "title": "Section E",
+      "pages": 1
+    },
+    {
+      "file": "042_3.5.1_E1a.pdf",
+      "code": "3.5.1",
+      "title": "E1a",
+      "pages": 1
+    },
+    {
+      "file": "043_3.5.2_E1b.pdf",
+      "code": "3.5.2",
+      "title": "E1b",
+      "pages": 1
+    },
+    {
+      "file": "044_3.5.3_E1c.pdf",
+      "code": "3.5.3",
+      "title": "E1c",
+      "pages": 1
+    },
+    {
+      "file": "045_3.5.4_E2a.pdf",
+      "code": "3.5.4",
+      "title": "E2a",
+      "pages": 1
+    },
+    {
+      "file": "046_3.5.5_E2b.pdf",
+      "code": "3.5.5",
+      "title": "E2b",
+      "pages": 1
+    },
+    {
+      "file": "047_3.5.6_E2c.pdf",
+      "code": "3.5.6",
+      "title": "E2c",
+      "pages": 1
+    },
+    {
+      "file": "048_3.5.7_E3a.pdf",
+      "code": "3.5.7",
+      "title": "E3a",
+      "pages": 1
+    },
+    {
+      "file": "049_3.5.8_E3b.pdf",
+      "code": "3.5.8",
+      "title": "E3b",
+      "pages": 1
+    },
+    {
+      "file": "050_3.5.9_E3c.pdf",
+      "code": "3.5.9",
+      "title": "E3c",
+      "pages": 1
+    },
+    {
+      "file": "051_3.5.10_E3d.pdf",
+      "code": "3.5.10",
+      "title": "E3d",
+      "pages": 1
+    },
+    {
+      "file": "052_3.5.11_E4a.pdf",
+      "code": "3.5.11",
+      "title": "E4a",
+      "pages": 1
+    },
+    {
+      "file": "053_3.5.12_E4b.pdf",
+      "code": "3.5.12",
+      "title": "E4b",
+      "pages": 1
+    },
+    {
+      "file": "054_3.5.13_E5a.pdf",
+      "code": "3.5.13",
+      "title": "E5a",
+      "pages": 1
+    },
+    {
+      "file": "055_3.5.14_E5b.pdf",
+      "code": "3.5.14",
+      "title": "E5b",
+      "pages": 1
+    },
+    {
+      "file": "056_3.5.15_E6.pdf",
+      "code": "3.5.15",
+      "title": "E6",
+      "pages": 1
+    },
+    {
+      "file": "057_3.5.16_E7a.pdf",
+      "code": "3.5.16",
+      "title": "E7a",
+      "pages": 1
+    },
+    {
+      "file": "058_3.5.17_E7b.pdf",
+      "code": "3.5.17",
+      "title": "E7b",
+      "pages": 1
+    },
+    {
+      "file": "059_3.5.18_E7c.pdf",
+      "code": "3.5.18",
+      "title": "E7c",
+      "pages": 1
+    },
+    {
+      "file": "060_3.5.19_E8a.pdf",
+      "code": "3.5.19",
+      "title": "E8a",
+      "pages": 1
+    },
+    {
+      "file": "061_3.5.20_E8b.pdf",
+      "code": "3.5.20",
+      "title": "E8b",
+      "pages": 1
+    },
+    {
+      "file": "062_3.5.21_E8c.pdf",
+      "code": "3.5.21",
+      "title": "E8c",
+      "pages": 1
+    },
+    {
+      "file": "063_3.5.22_E9a.pdf",
+      "code": "3.5.22",
+      "title": "E9a",
+      "pages": 1
+    },
+    {
+      "file": "064_3.5.23_E9b.pdf",
+      "code": "3.5.23",
+      "title": "E9b",
+      "pages": 1
+    },
+    {
+      "file": "065_3.5.24_E9c.pdf",
+      "code": "3.5.24",
+      "title": "E9c",
+      "pages": 1
+    },
+    {
+      "file": "066_3.5.25_E10a.pdf",
+      "code": "3.5.25",
+      "title": "E10a",
+      "pages": 1
+    },
+    {
+      "file": "067_3.5.26_E10b.pdf",
+      "code": "3.5.26",
+      "title": "E10b",
+      "pages": 1
+    },
+    {
+      "file": "068_3.5.27_E11a.pdf",
+      "code": "3.5.27",
+      "title": "E11a",
+      "pages": 1
+    },
+    {
+      "file": "069_3.5.28_E11b.pdf",
+      "code": "3.5.28",
+      "title": "E11b",
+      "pages": 1
+    },
+    {
+      "file": "070_3.5.29_E11c.pdf",
+      "code": "3.5.29",
+      "title": "E11c",
+      "pages": 1
+    },
+    {
+      "file": "071_3.5.30_E11d.pdf",
+      "code": "3.5.30",
+      "title": "E11d",
+      "pages": 1
+    },
+    {
+      "file": "072_3.5.31_E12a.pdf",
+      "code": "3.5.31",
+      "title": "E12a",
+      "pages": 1
+    },
+    {
+      "file": "073_3.5.32_E12b.pdf",
+      "code": "3.5.32",
+      "title": "E12b",
+      "pages": 1
+    },
+    {
+      "file": "074_3.5.33_E12c.pdf",
+      "code": "3.5.33",
+      "title": "E12c",
+      "pages": 1
+    },
+    {
+      "file": "075_3.5.34_E12d.pdf",
+      "code": "3.5.34",
+      "title": "E12d",
+      "pages": 1
+    },
+    {
+      "file": "076_3.5.35_E13a.pdf",
+      "code": "3.5.35",
+      "title": "E13a",
+      "pages": 1
+    },
+    {
+      "file": "077_3.5.36_E13b.pdf",
+      "code": "3.5.36",
+      "title": "E13b",
+      "pages": 1
+    },
+    {
+      "file": "078_3.6_Statistical_Enquiry_Cycle_SEC.pdf",
+      "code": "3.6",
+      "title": "Statistical Enquiry Cycle (SEC)",
+      "pages": 1
+    },
+    {
+      "file": "079_3.6.1_Initial_planning.pdf",
+      "code": "3.6.1",
+      "title": "Initial planning",
+      "pages": 1
+    },
+    {
+      "file": "080_3.6.2_Data_collection.pdf",
+      "code": "3.6.2",
+      "title": "Data collection",
+      "pages": 1
+    },
+    {
+      "file": "081_3.6.3_Data_processing_and_presentation.pdf",
+      "code": "3.6.3",
+      "title": "Data processing and presentation",
+      "pages": 1
+    },
+    {
+      "file": "082_3.6.4_Interpretation_of_results.pdf",
+      "code": "3.6.4",
+      "title": "Interpretation of results",
+      "pages": 2
+    },
+    {
+      "file": "083_3.6.5_Evaluation_and_review.pdf",
+      "code": "3.6.5",
+      "title": "Evaluation and review",
+      "pages": 1
+    }
+  ]
+}

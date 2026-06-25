@@ -1,0 +1,91 @@
+{
+  "method": "toc",
+  "sections": 3,
+  "n": 12,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Studies_and_applications_in_psy.pdf",
+      "code": "2c",
+      "title": "Content of Studies and applications in psychology 1",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Criminal_Psychology.pdf",
+      "code": "",
+      "title": "Criminal Psychology",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "003_Criminal_Psychology.pdf",
+      "code": "",
+      "title": "Criminal Psychology",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "004_Development.pdf",
+      "code": "",
+      "title": "Development",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "005_Psychological_Problems.pdf",
+      "code": "",
+      "title": "Psychological Problems",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "006_Psychological_Problems.pdf",
+      "code": "",
+      "title": "Psychological Problems",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "007_2c_Content_of_Studies_and_applications_in_psy.pdf",
+      "code": "2c",
+      "title": "Content of Studies and applications in psychology 2",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "008_Social_Influence.pdf",
+      "code": "",
+      "title": "Social Influence",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "009_Social_Influence.pdf",
+      "code": "",
+      "title": "Social Influence",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "010_Memory.pdf",
+      "code": "",
+      "title": "Memory",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "011_Sleep_and_Dreaming.pdf",
+      "code": "",
+      "title": "Sleep and Dreaming",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "012_2c_Research_Methods_Components_01_and_02.pdf",
+      "code": "2c",
+      "title": "Research Methods (Components 01 and 02)",
+      "kind": "section",
+      "pages": 3
+    }
+  ]
+}

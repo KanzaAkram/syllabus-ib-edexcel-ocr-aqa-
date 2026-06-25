@@ -1,0 +1,210 @@
+{
+  "method": "toc",
+  "n": 34,
+  "subsections": [
+    {
+      "file": "001_3.1_Overarching_themes.pdf",
+      "code": "3.1",
+      "title": "Overarching themes",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_OT1_Mathematical_argument_language_and_p.pdf",
+      "code": "3.1.1",
+      "title": "OT1: Mathematical argument, language and proof",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_OT2_Mathematical_problem_solving.pdf",
+      "code": "3.1.2",
+      "title": "OT2: Mathematical problem solving",
+      "pages": 2
+    },
+    {
+      "file": "004_3.1.3_OT3_Mathematical_modelling.pdf",
+      "code": "3.1.3",
+      "title": "OT3: Mathematical modelling",
+      "pages": 1
+    },
+    {
+      "file": "005_3.2.1_A_Proof.pdf",
+      "code": "3.2.1",
+      "title": "A: Proof",
+      "pages": 1
+    },
+    {
+      "file": "006_3.2.2_B_Complex_numbers.pdf",
+      "code": "3.2.2",
+      "title": "B: Complex numbers",
+      "pages": 2
+    },
+    {
+      "file": "007_3.2.3_C_Matrices.pdf",
+      "code": "3.2.3",
+      "title": "C: Matrices",
+      "pages": 2
+    },
+    {
+      "file": "008_3.2.4_D_Further_algebra_and_functions.pdf",
+      "code": "3.2.4",
+      "title": "D: Further algebra and functions",
+      "pages": 2
+    },
+    {
+      "file": "009_3.2.5_E_Further_calculus.pdf",
+      "code": "3.2.5",
+      "title": "E: Further calculus",
+      "pages": 2
+    },
+    {
+      "file": "010_3.2.6_F_Further_vectors.pdf",
+      "code": "3.2.6",
+      "title": "F: Further vectors",
+      "pages": 2
+    },
+    {
+      "file": "011_3.2.7_G_Polar_coordinates.pdf",
+      "code": "3.2.7",
+      "title": "G: Polar coordinates",
+      "pages": 1
+    },
+    {
+      "file": "012_3.2.8_H_Hyperbolic_functions.pdf",
+      "code": "3.2.8",
+      "title": "H: Hyperbolic functions",
+      "pages": 2
+    },
+    {
+      "file": "013_3.2.9_I_Differential_equations.pdf",
+      "code": "3.2.9",
+      "title": "I: Differential equations",
+      "pages": 2
+    },
+    {
+      "file": "014_3.2.10_J_Numerical_methods.pdf",
+      "code": "3.2.10",
+      "title": "J: Numerical methods",
+      "pages": 1
+    },
+    {
+      "file": "015_3.3.1_MA_Dimensional_analysis.pdf",
+      "code": "3.3.1",
+      "title": "MA: Dimensional analysis",
+      "pages": 1
+    },
+    {
+      "file": "016_3.3.2_MB_Momentum_and_collisions.pdf",
+      "code": "3.3.2",
+      "title": "MB: Momentum and collisions",
+      "pages": 1
+    },
+    {
+      "file": "017_3.3.3_MC_Work_energy_and_power.pdf",
+      "code": "3.3.3",
+      "title": "MC: Work, energy and power",
+      "pages": 2
+    },
+    {
+      "file": "018_3.3.4_MD_Circular_motion.pdf",
+      "code": "3.3.4",
+      "title": "MD: Circular motion",
+      "pages": 1
+    },
+    {
+      "file": "019_3.3.5_ME_Centres_of_mass_and_moments.pdf",
+      "code": "3.3.5",
+      "title": "ME: Centres of mass and moments",
+      "pages": 2
+    },
+    {
+      "file": "020_3.4.1_SA_Discrete_random_variables_DRVs_and_ex.pdf",
+      "code": "3.4.1",
+      "title": "SA: Discrete random variables (DRVs) and expectation",
+      "pages": 2
+    },
+    {
+      "file": "021_3.4.2_SB_Poisson_distribution.pdf",
+      "code": "3.4.2",
+      "title": "SB: Poisson distribution",
+      "pages": 1
+    },
+    {
+      "file": "022_3.4.3_SC_Type_I_and_Type_II_errors.pdf",
+      "code": "3.4.3",
+      "title": "SC: Type I and Type II errors",
+      "pages": 1
+    },
+    {
+      "file": "023_3.4.4_SD_Continuous_random_variables_CRVs.pdf",
+      "code": "3.4.4",
+      "title": "SD: Continuous random variables (CRVs)",
+      "pages": 2
+    },
+    {
+      "file": "024_3.4.5_SE_Chi_squared_tests_for_association.pdf",
+      "code": "3.4.5",
+      "title": "SE: Chi squared tests for association",
+      "pages": 1
+    },
+    {
+      "file": "025_3.4.6_SF_Exponential_distribution.pdf",
+      "code": "3.4.6",
+      "title": "SF: Exponential distribution",
+      "pages": 2
+    },
+    {
+      "file": "026_3.4.7_SG_Inference_one_sample_t_distribution.pdf",
+      "code": "3.4.7",
+      "title": "SG: Inference – one sample t - distribution",
+      "pages": 1
+    },
+    {
+      "file": "027_3.4.8_SH_Confidence_Intervals.pdf",
+      "code": "3.4.8",
+      "title": "SH: Confidence Intervals",
+      "pages": 1
+    },
+    {
+      "file": "028_3.5.1_DA_Graphs.pdf",
+      "code": "3.5.1",
+      "title": "DA: Graphs",
+      "pages": 2
+    },
+    {
+      "file": "029_3.5.2_DB_Networks.pdf",
+      "code": "3.5.2",
+      "title": "DB: Networks",
+      "pages": 1
+    },
+    {
+      "file": "030_3.5.3_DC_Network_flows.pdf",
+      "code": "3.5.3",
+      "title": "DC: Network flows",
+      "pages": 1
+    },
+    {
+      "file": "031_3.5.4_DD_Linear_programming.pdf",
+      "code": "3.5.4",
+      "title": "DD: Linear programming",
+      "pages": 1
+    },
+    {
+      "file": "032_3.5.5_DE_Critical_path_analysis.pdf",
+      "code": "3.5.5",
+      "title": "DE: Critical path analysis",
+      "pages": 1
+    },
+    {
+      "file": "033_3.5.6_DF_Game_theory_for_zero_sum_games.pdf",
+      "code": "3.5.6",
+      "title": "DF: Game theory for zero-sum games",
+      "pages": 1
+    },
+    {
+      "file": "034_3.5.7_DG_Binary_operations.pdf",
+      "code": "3.5.7",
+      "title": "DG: Binary operations",
+      "pages": 2
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 22,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_Section_3_Sources_of_Wisdom_and_Authority.pdf",
+      "code": "Section 3",
+      "title": "Sources of Wisdom and Authority",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "003_Section_4_Forms_of_Expression_and_Ways_of_Life.pdf",
+      "code": "Section 4",
+      "title": "Forms of Expression and Ways of Life",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "004_Area_of_study_1B_Christianity.pdf",
+      "code": "Area of study 1B",
+      "title": "Christianity",
+      "family": "Area of study",
+      "pages": 4
+    },
+    {
+      "file": "005_Area_of_study_1C_Islam.pdf",
+      "code": "Area of study 1C",
+      "title": "Islam",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "006_Paper_1_Area_of_Study_1_Study_of_Religion.pdf",
+      "code": "Paper 1",
+      "title": "Area of Study 1 – Study of Religion",
+      "family": "Paper",
+      "pages": 4
+    },
+    {
+      "file": "007_Area_of_study_2B_Christianity.pdf",
+      "code": "Area of study 2B",
+      "title": "Christianity",
+      "family": "Area of study",
+      "pages": 3
+    },
+    {
+      "file": "008_Area_of_study_2C_Islam.pdf",
+      "code": "Area of study 2C",
+      "title": "Islam",
+      "family": "Area of study",
+      "pages": 3
+    },
+    {
+      "file": "009_Area_of_study_2D_Buddhism.pdf",
+      "code": "Area of study 2D",
+      "title": "Buddhism",
+      "family": "Area of study",
+      "pages": 3
+    },
+    {
+      "file": "010_Area_of_study_2E_Hinduism.pdf",
+      "code": "Area of study 2E",
+      "title": "Hinduism",
+      "family": "Area of study",
+      "pages": 3
+    },
+    {
+      "file": "011_Area_of_study_2F_Judaism.pdf",
+      "code": "Area of study 2F",
+      "title": "Judaism",
+      "family": "Area of study",
+      "pages": 3
+    },
+    {
+      "file": "012_Area_of_study_2G_Sikhism.pdf",
+      "code": "Area of study 2G",
+      "title": "Sikhism",
+      "family": "Area of study",
+      "pages": 3
+    },
+    {
+      "file": "013_Paper_2_Area_of_Study_2_Study_of_Second_Religion.pdf",
+      "code": "Paper 2",
+      "title": "Area of Study 2 – Study of Second Religion",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "014_Section_1_Arguments_for_the_Existence_of_God.pdf",
+      "code": "Section 1",
+      "title": "Arguments for the Existence of God",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "015_Section_2_Religious_Teachings_on_Relationships_and_F.pdf",
+      "code": "Section 2",
+      "title": "Religious Teachings on Relationships and Families in the",
+      "family": "Section",
+      "pages": 4
+    },
+    {
+      "file": "016_Section_1_Arguments_for_the_Existence_of_Allah.pdf",
+      "code": "Section 1",
+      "title": "Arguments for the Existence of Allah",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "017_Paper_3_Area_of_Study_3_Philosophy_and_Ethics.pdf",
+      "code": "Paper 3",
+      "title": "Area of Study 3 – Philosophy and Ethics",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "018_Section_1_Who_is_Jesus.pdf",
+      "code": "Section 1",
+      "title": "Who is Jesus?",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "019_Section_2_The_Nature_of_Discipleship.pdf",
+      "code": "Section 2",
+      "title": "The Nature of Discipleship",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "020_Section_1_Beliefs_and_Teachings_of_Islam.pdf",
+      "code": "Section 1",
+      "title": "Beliefs and Teachings of Islam",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "021_Section_2_Lives_of_the_Prophets_and_Others.pdf",
+      "code": "Section 2",
+      "title": "Lives of the Prophets and Others",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "022_Paper_4_Area_of_Study_4_Textual_Studies.pdf",
+      "code": "Paper 4",
+      "title": "Area of Study 4 – Textual Studies",
+      "family": "Paper",
+      "pages": 1
+    }
+  ]
+}

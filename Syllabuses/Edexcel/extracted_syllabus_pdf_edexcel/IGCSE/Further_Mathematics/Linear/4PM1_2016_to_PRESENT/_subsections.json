@@ -1,0 +1,84 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 11,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Topic_1_Logarithmic_functions_and_indices.pdf",
+      "code": "Topic 1",
+      "title": "Logarithmic functions and indices",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "003_Topic_2_The_quadratic_function.pdf",
+      "code": "Topic 2",
+      "title": "The quadratic function",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_3_Identities_and_inequalities.pdf",
+      "code": "Topic 3",
+      "title": "Identities and inequalities",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "005_Topic_4_Graphs.pdf",
+      "code": "Topic 4",
+      "title": "Graphs",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_5_Series.pdf",
+      "code": "Topic 5",
+      "title": "Series",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "007_Topic_6_The_binomial_series.pdf",
+      "code": "Topic 6",
+      "title": "The binomial series",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "008_Topic_7_Scalar_and_vector_quantities.pdf",
+      "code": "Topic 7",
+      "title": "Scalar and vector quantities",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Topic_8_Rectangular_Cartesian_coordinates.pdf",
+      "code": "Topic 8",
+      "title": "Rectangular Cartesian coordinates",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "010_Topic_9_Calculus.pdf",
+      "code": "Topic 9",
+      "title": "Calculus",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "011_Topic_10_Trigonometry.pdf",
+      "code": "Topic 10",
+      "title": "Trigonometry",
+      "family": "Topic",
+      "pages": 2
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 19,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_1_1_1_The_economic.pdf",
+      "code": "1.1.1",
+      "title": "The economic",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_1_2_Economic.pdf",
+      "code": "1.1.2",
+      "title": "Economic",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "004_1_1_3_Demand_supply_and.pdf",
+      "code": "1.1.3",
+      "title": "Demand, supply and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_1_4_Elasticity.pdf",
+      "code": "1.1.4",
+      "title": "Elasticity",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "006_1_1_5_The_mixed_economy.pdf",
+      "code": "1.1.5",
+      "title": "The mixed economy",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "007_1_1_6_Externalities.pdf",
+      "code": "1.1.6",
+      "title": "Externalities",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_1_2_1_Production.pdf",
+      "code": "1.2.1",
+      "title": "Production",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_1_2_2_Productivity_and.pdf",
+      "code": "1.2.2",
+      "title": "Productivity and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_1_2_3_Business_costs.pdf",
+      "code": "1.2.3",
+      "title": "Business costs,",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_1_2_4_Business_competition.pdf",
+      "code": "1.2.4",
+      "title": "Business competition",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "012_1_2_5_The_labour_market.pdf",
+      "code": "1.2.5",
+      "title": "The labour market",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "013_1_2_6_Government.pdf",
+      "code": "1.2.6",
+      "title": "Government",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "014_2_1_1_Macroeconomic.pdf",
+      "code": "2.1.1",
+      "title": "Macroeconomic",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "015_2_1_2_Government_policies.pdf",
+      "code": "2.1.2",
+      "title": "Government policies",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_2_1_3_Relationships.pdf",
+      "code": "2.1.3",
+      "title": "Relationships",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_2_2_1_Globalisation.pdf",
+      "code": "2.2.1",
+      "title": "Globalisation",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_2_2_2_International_trade.pdf",
+      "code": "2.2.2",
+      "title": "International trade",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_2_2_3_Exchange_rates.pdf",
+      "code": "2.2.3",
+      "title": "Exchange rates",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

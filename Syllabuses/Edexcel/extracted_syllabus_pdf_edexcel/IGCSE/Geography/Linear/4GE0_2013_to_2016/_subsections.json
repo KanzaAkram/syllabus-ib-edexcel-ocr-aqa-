@@ -1,0 +1,42 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 5,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 4
+    },
+    {
+      "file": "002_Section_A_The_Natural_Environment.pdf",
+      "code": "Section A",
+      "title": "The Natural Environment",
+      "family": "Section",
+      "pages": 4
+    },
+    {
+      "file": "003_Section_B_People_and_their_Environments.pdf",
+      "code": "Section B",
+      "title": "People and their Environments",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "004_Section_C_Practical_Geographical_Enquiry.pdf",
+      "code": "Section C",
+      "title": "Practical Geographical Enquiry",
+      "family": "Section",
+      "pages": 5
+    },
+    {
+      "file": "005_Section_D_Global_Issues.pdf",
+      "code": "Section D",
+      "title": "Global Issues",
+      "family": "Section",
+      "pages": 3
+    }
+  ]
+}

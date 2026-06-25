@@ -1,0 +1,30 @@
+{
+  "method": "toc",
+  "n": 4,
+  "subsections": [
+    {
+      "file": "001_3.1_Unit_1_INFO1_Practical_Problem_Solving_i.pdf",
+      "code": "3.1",
+      "title": "Unit 1 INFO1 Practical Problem Solving in the Digital World",
+      "pages": 4
+    },
+    {
+      "file": "002_3.2_Unit_2_INFO2_Living_in_the_Digital_World.pdf",
+      "code": "3.2",
+      "title": "Unit 2 INFO2 Living in the Digital World",
+      "pages": 4
+    },
+    {
+      "file": "003_3.3_Unit_3_INFO3_The_Use_of_ICT_in_the_Digit.pdf",
+      "code": "3.3",
+      "title": "Unit 3 INFO3 The Use of ICT in the Digital World",
+      "pages": 5
+    },
+    {
+      "file": "004_3.4_Unit_4_INFO4_Coursework_Practical_Issues.pdf",
+      "code": "3.4",
+      "title": "Unit 4 INFO4 Coursework: Practical Issues Involved in the Use of ICT in the Digital World",
+      "pages": 8
+    }
+  ]
+}

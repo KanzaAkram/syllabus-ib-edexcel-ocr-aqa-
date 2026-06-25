@@ -1,0 +1,66 @@
+{
+  "method": "toc",
+  "n": 10,
+  "subsections": [
+    {
+      "file": "001_3.1_Knowledge_and_understanding.pdf",
+      "code": "3.1",
+      "title": "Knowledge and understanding",
+      "pages": 2
+    },
+    {
+      "file": "002_3.2_Skills.pdf",
+      "code": "3.2",
+      "title": "Skills",
+      "pages": 2
+    },
+    {
+      "file": "003_3.3_Titles.pdf",
+      "code": "3.3",
+      "title": "Titles",
+      "pages": 2
+    },
+    {
+      "file": "004_3.4_Art_craft_and_design.pdf",
+      "code": "3.4",
+      "title": "Art, craft and design",
+      "pages": 1
+    },
+    {
+      "file": "005_3.5_Fine_art.pdf",
+      "code": "3.5",
+      "title": "Fine art",
+      "pages": 2
+    },
+    {
+      "file": "006_3.6_Graphic_communication.pdf",
+      "code": "3.6",
+      "title": "Graphic communication",
+      "pages": 3
+    },
+    {
+      "file": "007_3.7_Textile_design.pdf",
+      "code": "3.7",
+      "title": "Textile design",
+      "pages": 2
+    },
+    {
+      "file": "008_3.8_Three_dimensional_design.pdf",
+      "code": "3.8",
+      "title": "Three-dimensional design",
+      "pages": 3
+    },
+    {
+      "file": "009_3.9_Photography.pdf",
+      "code": "3.9",
+      "title": "Photography",
+      "pages": 3
+    },
+    {
+      "file": "010_3.10_Progression.pdf",
+      "code": "3.10",
+      "title": "Progression",
+      "pages": 1
+    }
+  ]
+}

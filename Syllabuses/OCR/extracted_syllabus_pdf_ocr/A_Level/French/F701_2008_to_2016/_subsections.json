@@ -1,0 +1,91 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 12,
+  "subsections": [
+    {
+      "file": "001_Subject_content.pdf",
+      "code": "",
+      "title": "Subject content",
+      "kind": "overview",
+      "pages": 5
+    },
+    {
+      "file": "002_Unit_3_is_the_speaking_test_with_the_discussion_o.pdf",
+      "code": "Unit 3",
+      "title": "is the speaking test, with the discussion of an article in the target language and topic",
+      "kind": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "003_Unit_4_is_a_written_paper_testing_the_other_three.pdf",
+      "code": "Unit 4",
+      "title": "is a written paper, testing the other three skills, with a variety of tasks involving",
+      "kind": "Unit",
+      "pages": 9
+    },
+    {
+      "file": "004_Section_A_Role_play_30_marks_5_to_6_minutes.pdf",
+      "code": "Section A",
+      "title": "Role-play (30 marks) 5 to 6 minutes",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "005_Section_B_Topic_discussion_30_marks_9_to_10_minutes.pdf",
+      "code": "Section B",
+      "title": "Topic discussion (30 marks) 9 to 10 minutes",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "006_Section_A_Listening_and_writing_55_marks.pdf",
+      "code": "Section A",
+      "title": "Listening and writing (55 marks)",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "007_Section_B_Reading_and_writing_85_marks.pdf",
+      "code": "Section B",
+      "title": "Reading and writing (85 marks)",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "008_Section_A_Discussion_of_article_30_marks_5_to_6_minu.pdf",
+      "code": "Section A",
+      "title": "Discussion of article (30 marks) 5 to 6 minutes",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "009_Section_B_Topic_conversation_30_marks_10_to_12_minut.pdf",
+      "code": "Section B",
+      "title": "Topic conversation (30 marks) 10 to 12 minutes",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "010_Section_A_Listening_and_writing_35_marks.pdf",
+      "code": "Section A",
+      "title": "Listening and writing (35 marks)",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "011_Section_B_Reading_and_writing_60_marks.pdf",
+      "code": "Section B",
+      "title": "Reading and writing (60 marks)",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "012_Section_C_Writing_45_marks.pdf",
+      "code": "Section C",
+      "title": "Writing (45 marks)",
+      "kind": "Section",
+      "pages": 55
+    }
+  ]
+}

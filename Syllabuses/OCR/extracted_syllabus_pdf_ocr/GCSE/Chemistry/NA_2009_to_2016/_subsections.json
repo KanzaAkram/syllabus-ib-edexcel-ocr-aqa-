@@ -1,0 +1,217 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 30,
+  "subsections": [
+    {
+      "file": "001_Subject_content.pdf",
+      "code": "",
+      "title": "Subject content",
+      "kind": "overview",
+      "pages": 9
+    },
+    {
+      "file": "002_C1_1_C1_1.pdf",
+      "code": "C1.1",
+      "title": "C1.1",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "003_C1_2_C1_2.pdf",
+      "code": "C1.2",
+      "title": "C1.2",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "004_C1_3_C1_3.pdf",
+      "code": "C1.3",
+      "title": "C1.3",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "005_C1_4_C1_4.pdf",
+      "code": "C1.4",
+      "title": "C1.4",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "006_C2_1_C2_1.pdf",
+      "code": "C2.1",
+      "title": "C2.1",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "007_C2_2_C2_2.pdf",
+      "code": "C2.2",
+      "title": "C2.2",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "008_C2_3_C2_3.pdf",
+      "code": "C2.3",
+      "title": "C2.3",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "009_C2_4_C2_4.pdf",
+      "code": "C2.4",
+      "title": "C2.4",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "010_C3_1_C3_1.pdf",
+      "code": "C3.1",
+      "title": "C3.1",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "011_C3_2_C3_2.pdf",
+      "code": "C3.2",
+      "title": "C3.2",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "012_C3_3_C3_3.pdf",
+      "code": "C3.3",
+      "title": "C3.3",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "013_C3_4_C3_4.pdf",
+      "code": "C3.4",
+      "title": "C3.4",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "014_C4_1_C4_1.pdf",
+      "code": "C4.1",
+      "title": "C4.1",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "015_C4_2_C4_2.pdf",
+      "code": "C4.2",
+      "title": "C4.2",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "016_C4_3_C4_3.pdf",
+      "code": "C4.3",
+      "title": "C4.3",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "017_C5_1_C5_1.pdf",
+      "code": "C5.1",
+      "title": "C5.1",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "018_C5_2_C5_2.pdf",
+      "code": "C5.2",
+      "title": "C5.2",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "019_C5_3_C5_3.pdf",
+      "code": "C5.3",
+      "title": "C5.3",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "020_C5_4_C5_4.pdf",
+      "code": "C5.4",
+      "title": "C5.4",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "021_C6_1_C6_1.pdf",
+      "code": "C6.1",
+      "title": "C6.1",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "022_C6_2_C6_2.pdf",
+      "code": "C6.2",
+      "title": "C6.2",
+      "kind": "alnum",
+      "pages": 3
+    },
+    {
+      "file": "023_C7_1_C7_1.pdf",
+      "code": "C7.1",
+      "title": "C7.1",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "024_C7_2_C7_2.pdf",
+      "code": "C7.2",
+      "title": "C7.2",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "025_C7_3_C7_3.pdf",
+      "code": "C7.3",
+      "title": "C7.3",
+      "kind": "alnum",
+      "pages": 1
+    },
+    {
+      "file": "026_C7_4_C7_4.pdf",
+      "code": "C7.4",
+      "title": "C7.4",
+      "kind": "alnum",
+      "pages": 2
+    },
+    {
+      "file": "027_C7_5_C7_5.pdf",
+      "code": "C7.5",
+      "title": "C7.5",
+      "kind": "alnum",
+      "pages": 32
+    },
+    {
+      "file": "028_Section_1_Knowledge_and_understanding_about_becoming.pdf",
+      "code": "Section 1",
+      "title": "Knowledge and understanding about becoming informed citizens",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "029_Section_2_Enquiry_and_communication.pdf",
+      "code": "Section 2",
+      "title": "Enquiry and communication",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "030_Section_3_Developing_skills_of_participation_and_res.pdf",
+      "code": "Section 3",
+      "title": "Developing skills of participation and responsible action",
+      "kind": "Section",
+      "pages": 20
+    }
+  ]
+}

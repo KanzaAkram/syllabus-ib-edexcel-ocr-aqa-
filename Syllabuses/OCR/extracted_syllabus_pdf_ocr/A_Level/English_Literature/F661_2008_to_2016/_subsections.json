@@ -1,0 +1,119 @@
+{
+  "method": "font",
+  "sections": 4,
+  "n": 16,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Drama_and_poetry_pre_1900_Compo.pdf",
+      "code": "2c",
+      "title": "Content of Drama and poetry pre-1900 (Component 01)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Section_1_set_texts.pdf",
+      "code": "Section 1",
+      "title": "set texts:",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "003_Section_2_set_texts_Drama.pdf",
+      "code": "Section 2",
+      "title": "set texts: Drama",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "004_2c_Content_of_Comparative_and_contextual_stud.pdf",
+      "code": "2c",
+      "title": "Content of Comparative and contextual study (Component 02)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "005_OCR_2014.pdf",
+      "code": "",
+      "title": "© OCR 2014",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "006_American_Literature_1880_1940.pdf",
+      "code": "",
+      "title": "American Literature 1880– 1940",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "007_The_Gothic.pdf",
+      "code": "",
+      "title": "The Gothic",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "008_Dystopia.pdf",
+      "code": "",
+      "title": "Dystopia",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "009_Women_in_Literature.pdf",
+      "code": "",
+      "title": "Women in Literature",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "010_The_Immigrant_Experience.pdf",
+      "code": "",
+      "title": "The Immigrant Experience",
+      "kind": "rowlabel",
+      "pages": 2
+    },
+    {
+      "file": "011_2e_non_exam_assessment_in_A_Level_in_English.pdf",
+      "code": "2e",
+      "title": "non exam assessment in A Level in English",
+      "kind": "section",
+      "pages": 1
+    },
+    {
+      "file": "012_Content_of_Literature_post_1900.pdf",
+      "code": "",
+      "title": "Content of Literature post-1900",
+      "kind": "overview",
+      "pages": 2
+    },
+    {
+      "file": "013_Close_reading_OR_Re.pdf",
+      "code": "",
+      "title": "Close reading OR Re-",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "014_based_on_one_literary_text.pdf",
+      "code": "",
+      "title": "based on one literary text.",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "015_two_literary_texts.pdf",
+      "code": "",
+      "title": "two literary texts.",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "016_OCR_2014.pdf",
+      "code": "",
+      "title": "© OCR 2014",
+      "kind": "rowlabel",
+      "pages": 1
+    }
+  ]
+}

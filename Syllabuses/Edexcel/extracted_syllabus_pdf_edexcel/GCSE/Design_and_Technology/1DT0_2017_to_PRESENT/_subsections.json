@@ -1,0 +1,539 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 76,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_1_1_The_impact_of.pdf",
+      "code": "1.1",
+      "title": "The impact of",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "003_1_2_How_the_critical.pdf",
+      "code": "1.2",
+      "title": "How the critical",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "004_1_3_How_energy_is.pdf",
+      "code": "1.3",
+      "title": "How energy is",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_4_Developments.pdf",
+      "code": "1.4",
+      "title": "Developments",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "006_1_5_The_functions.pdf",
+      "code": "1.5",
+      "title": "The functions",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "007_1_6_How_electronic.pdf",
+      "code": "1.6",
+      "title": "How electronic",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_1_7_The_use_of.pdf",
+      "code": "1.7",
+      "title": "The use of",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "009_1_8_The.pdf",
+      "code": "1.8",
+      "title": "The",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_1_9_The.pdf",
+      "code": "1.9",
+      "title": "The",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "011_1_10_The.pdf",
+      "code": "1.10",
+      "title": "The",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "012_1_11_The.pdf",
+      "code": "1.11",
+      "title": "The",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "013_1_12_The.pdf",
+      "code": "1.12",
+      "title": "The",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_1_13_All_design_and.pdf",
+      "code": "1.13",
+      "title": "All design and",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "015_1_14_Investigate.pdf",
+      "code": "1.14",
+      "title": "Investigate",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_1_15_Investigate.pdf",
+      "code": "1.15",
+      "title": "Investigate",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "017_1_16_Use_different.pdf",
+      "code": "1.16",
+      "title": "Use different",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_1_17_Develop.pdf",
+      "code": "1.17",
+      "title": "Develop,",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_2_1_Design.pdf",
+      "code": "2.1",
+      "title": "Design",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_2_2_The_sources.pdf",
+      "code": "2.2",
+      "title": "The sources,",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "021_2_3_The_way_in.pdf",
+      "code": "2.3",
+      "title": "The way in",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "022_2_4_The_impact_of.pdf",
+      "code": "2.4",
+      "title": "The impact of",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "023_2_5_Stock_forms.pdf",
+      "code": "2.5",
+      "title": "Stock forms,",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "024_2_6_Alternative.pdf",
+      "code": "2.6",
+      "title": "Alternative",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "025_2_7_Specialist.pdf",
+      "code": "2.7",
+      "title": "Specialist",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "026_2_8_Appropriate.pdf",
+      "code": "2.8",
+      "title": "Appropriate",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "027_3_1_Design.pdf",
+      "code": "3.1",
+      "title": "Design",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "028_3_2_The_sources.pdf",
+      "code": "3.2",
+      "title": "The sources,",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "029_3_3_The_way_in.pdf",
+      "code": "3.3",
+      "title": "The way in",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "030_3_4_The_impact_of.pdf",
+      "code": "3.4",
+      "title": "The impact of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "031_3_5_Stock_forms.pdf",
+      "code": "3.5",
+      "title": "Stock forms,",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "032_3_6_Alternative.pdf",
+      "code": "3.6",
+      "title": "Alternative",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "033_3_7_Specialist.pdf",
+      "code": "3.7",
+      "title": "Specialist",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "034_3_8_Appropriate.pdf",
+      "code": "3.8",
+      "title": "Appropriate",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "035_4_1_Design.pdf",
+      "code": "4.1",
+      "title": "Design",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "036_4_2_The_sources.pdf",
+      "code": "4.2",
+      "title": "The sources,",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "037_4_3_The_way_in.pdf",
+      "code": "4.3",
+      "title": "The way in",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "038_4_4_The_impact_of.pdf",
+      "code": "4.4",
+      "title": "The impact of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "039_4_5_Stock_forms.pdf",
+      "code": "4.5",
+      "title": "Stock forms,",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "040_4_6_Alternative.pdf",
+      "code": "4.6",
+      "title": "Alternative",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "041_4_7_Specialist.pdf",
+      "code": "4.7",
+      "title": "Specialist",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "042_4_8_Appropriate.pdf",
+      "code": "4.8",
+      "title": "Appropriate",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "043_5_1_Design.pdf",
+      "code": "5.1",
+      "title": "Design",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "044_5_2_The_sources.pdf",
+      "code": "5.2",
+      "title": "The sources,",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "045_5_3_The_way_in.pdf",
+      "code": "5.3",
+      "title": "The way in",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "046_5_4_The_impact_of.pdf",
+      "code": "5.4",
+      "title": "The impact of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "047_5_5_Stock_forms.pdf",
+      "code": "5.5",
+      "title": "Stock forms,",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "048_5_6_Alternative.pdf",
+      "code": "5.6",
+      "title": "Alternative",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "049_5_7_Specialist.pdf",
+      "code": "5.7",
+      "title": "Specialist",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "050_5_8_Appropriate.pdf",
+      "code": "5.8",
+      "title": "Appropriate",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "051_6_1_Design.pdf",
+      "code": "6.1",
+      "title": "Design",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "052_6_2_The_sources.pdf",
+      "code": "6.2",
+      "title": "The sources,",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "053_6_3_The_way_in.pdf",
+      "code": "6.3",
+      "title": "The way in",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "054_6_4_The_impact_of.pdf",
+      "code": "6.4",
+      "title": "The impact of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "055_6_5_Typical_stock.pdf",
+      "code": "6.5",
+      "title": "Typical stock",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "056_6_6_Alternative.pdf",
+      "code": "6.6",
+      "title": "Alternative",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "057_6_7_Specialist.pdf",
+      "code": "6.7",
+      "title": "Specialist",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "058_6_8_Appropriate.pdf",
+      "code": "6.8",
+      "title": "Appropriate",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "059_7_1_Design.pdf",
+      "code": "7.1",
+      "title": "Design",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "060_7_2_The_sources.pdf",
+      "code": "7.2",
+      "title": "The sources,",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "061_7_3_The_way_in.pdf",
+      "code": "7.3",
+      "title": "The way in",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "062_7_4_The_impact_of.pdf",
+      "code": "7.4",
+      "title": "The impact of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "063_7_5_Typical_stock.pdf",
+      "code": "7.5",
+      "title": "Typical stock",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "064_7_6_Alternative.pdf",
+      "code": "7.6",
+      "title": "Alternative",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "065_7_7_Specialist.pdf",
+      "code": "7.7",
+      "title": "Specialist",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "066_7_8_Appropriate.pdf",
+      "code": "7.8",
+      "title": "Appropriate",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "067_1_1_Investigation.pdf",
+      "code": "1.1",
+      "title": "Investigation",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "068_1_2_Product.pdf",
+      "code": "1.2",
+      "title": "Product",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "069_2_1_Design_ideas.pdf",
+      "code": "2.1",
+      "title": "Design ideas",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "070_2_2_Review_of.pdf",
+      "code": "2.2",
+      "title": "Review of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "071_2_3_Development_of.pdf",
+      "code": "2.3",
+      "title": "Development of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "072_2_4_Communication.pdf",
+      "code": "2.4",
+      "title": "Communication",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "073_2_5_Review_of.pdf",
+      "code": "2.5",
+      "title": "Review of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "074_3_1_Manufacture.pdf",
+      "code": "3.1",
+      "title": "Manufacture",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "075_3_2_Quality_and.pdf",
+      "code": "3.2",
+      "title": "Quality and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "076_4_1_Testing_and.pdf",
+      "code": "4.1",
+      "title": "Testing and",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

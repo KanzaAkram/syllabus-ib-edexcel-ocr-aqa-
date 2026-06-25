@@ -1,0 +1,72 @@
+{
+  "method": "toc",
+  "n": 11,
+  "subsections": [
+    {
+      "file": "001_3.1_Love_through_the_ages.pdf",
+      "code": "3.1",
+      "title": "Love through the ages",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Set_texts.pdf",
+      "code": "3.1.1",
+      "title": "Set texts",
+      "pages": 2
+    },
+    {
+      "file": "003_4.1_Love_through_the_ages.pdf",
+      "code": "4.1",
+      "title": "Love through the ages",
+      "pages": 2
+    },
+    {
+      "file": "004_4.1.1_Set_texts.pdf",
+      "code": "4.1.1",
+      "title": "Set texts",
+      "pages": 2
+    },
+    {
+      "file": "005_4.2_Texts_in_shared_contexts.pdf",
+      "code": "4.2",
+      "title": "Texts in shared contexts",
+      "pages": 1
+    },
+    {
+      "file": "006_4.2.1_Set_texts.pdf",
+      "code": "4.2.1",
+      "title": "Set texts",
+      "pages": 4
+    },
+    {
+      "file": "007_4.3_Independent_critical_study_texts_across_.pdf",
+      "code": "4.3",
+      "title": "Independent critical study: texts across time",
+      "pages": 2
+    },
+    {
+      "file": "008_4.3.1_Tasks.pdf",
+      "code": "4.3.1",
+      "title": "Tasks",
+      "pages": 1
+    },
+    {
+      "file": "009_4.3.2_Texts.pdf",
+      "code": "4.3.2",
+      "title": "Texts",
+      "pages": 3
+    },
+    {
+      "file": "010_4.3.3_NEA_prohibited_texts.pdf",
+      "code": "4.3.3",
+      "title": "NEA prohibited texts",
+      "pages": 5
+    },
+    {
+      "file": "011_4.3.4_Examples_of_choices_of_non_exam_assessme.pdf",
+      "code": "4.3.4",
+      "title": "Examples of choices of non-exam assessment texts and possible connections",
+      "pages": 1
+    }
+  ]
+}

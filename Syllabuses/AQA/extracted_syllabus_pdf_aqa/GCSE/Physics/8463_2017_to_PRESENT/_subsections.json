@@ -1,0 +1,240 @@
+{
+  "method": "toc",
+  "n": 39,
+  "subsections": [
+    {
+      "file": "001_4.1_Energy.pdf",
+      "code": "4.1",
+      "title": "Energy",
+      "pages": 1
+    },
+    {
+      "file": "002_4.1.1_Energy_changes_in_a_system_and_the_ways_.pdf",
+      "code": "4.1.1",
+      "title": "Energy changes in a system, and the ways energy is stored before and after such changes",
+      "pages": 4
+    },
+    {
+      "file": "003_4.1.2_Conservation_and_dissipation_of_energy.pdf",
+      "code": "4.1.2",
+      "title": "Conservation and dissipation of energy",
+      "pages": 2
+    },
+    {
+      "file": "004_4.1.3_National_and_global_energy_resources.pdf",
+      "code": "4.1.3",
+      "title": "National and global energy resources",
+      "pages": 1
+    },
+    {
+      "file": "005_4.2_Electricity.pdf",
+      "code": "4.2",
+      "title": "Electricity",
+      "pages": 2
+    },
+    {
+      "file": "006_4.2.1_Current_potential_difference_and_resista.pdf",
+      "code": "4.2.1",
+      "title": "Current, potential difference and resistance",
+      "pages": 4
+    },
+    {
+      "file": "007_4.2.2_Series_and_parallel_circuits.pdf",
+      "code": "4.2.2",
+      "title": "Series and parallel circuits",
+      "pages": 2
+    },
+    {
+      "file": "008_4.2.3_Domestic_uses_and_safety.pdf",
+      "code": "4.2.3",
+      "title": "Domestic uses and safety",
+      "pages": 2
+    },
+    {
+      "file": "009_4.2.4_Energy_transfers.pdf",
+      "code": "4.2.4",
+      "title": "Energy transfers",
+      "pages": 3
+    },
+    {
+      "file": "010_4.2.5_Static_electricity_physics_only.pdf",
+      "code": "4.2.5",
+      "title": "Static electricity (physics only)",
+      "pages": 2
+    },
+    {
+      "file": "011_4.3_Particle_model_of_matter.pdf",
+      "code": "4.3",
+      "title": "Particle model of matter",
+      "pages": 1
+    },
+    {
+      "file": "012_4.3.1_Changes_of_state_and_the_particle_model.pdf",
+      "code": "4.3.1",
+      "title": "Changes of state and the particle model",
+      "pages": 2
+    },
+    {
+      "file": "013_4.3.2_Internal_energy_and_energy_transfers.pdf",
+      "code": "4.3.2",
+      "title": "Internal energy and energy transfers",
+      "pages": 3
+    },
+    {
+      "file": "014_4.3.3_Particle_model_and_pressure.pdf",
+      "code": "4.3.3",
+      "title": "Particle model and pressure",
+      "pages": 2
+    },
+    {
+      "file": "015_4.4_Atomic_structure.pdf",
+      "code": "4.4",
+      "title": "Atomic structure",
+      "pages": 1
+    },
+    {
+      "file": "016_4.4.1_Atoms_and_isotopes.pdf",
+      "code": "4.4.1",
+      "title": "Atoms and isotopes",
+      "pages": 3
+    },
+    {
+      "file": "017_4.4.2_Atoms_and_nuclear_radiation.pdf",
+      "code": "4.4.2",
+      "title": "Atoms and nuclear radiation",
+      "pages": 3
+    },
+    {
+      "file": "018_4.4.3_Hazards_and_uses_of_radioactive_emission.pdf",
+      "code": "4.4.3",
+      "title": "Hazards and uses of radioactive emissions and of background radiation (physics only)",
+      "pages": 2
+    },
+    {
+      "file": "019_4.4.4_Nuclear_fission_and_fusion_physics_only.pdf",
+      "code": "4.4.4",
+      "title": "Nuclear fission and fusion (physics only)",
+      "pages": 2
+    },
+    {
+      "file": "020_4.5_Forces.pdf",
+      "code": "4.5",
+      "title": "Forces",
+      "pages": 1
+    },
+    {
+      "file": "021_4.5.1_Forces_and_their_interactions.pdf",
+      "code": "4.5.1",
+      "title": "Forces and their interactions",
+      "pages": 2
+    },
+    {
+      "file": "022_4.5.2_Work_done_and_energy_transfer.pdf",
+      "code": "4.5.2",
+      "title": "Work done and energy transfer",
+      "pages": 1
+    },
+    {
+      "file": "023_4.5.3_Forces_and_elasticity.pdf",
+      "code": "4.5.3",
+      "title": "Forces and elasticity",
+      "pages": 2
+    },
+    {
+      "file": "024_4.5.4_Moments_levers_and_gears_physics_only.pdf",
+      "code": "4.5.4",
+      "title": "Moments, levers and gears (physics only)",
+      "pages": 1
+    },
+    {
+      "file": "025_4.5.5_Pressure_and_pressure_differences_in_flu.pdf",
+      "code": "4.5.5",
+      "title": "Pressure and pressure differences in fluids (physics only)",
+      "pages": 3
+    },
+    {
+      "file": "026_4.5.6_Forces_and_motion.pdf",
+      "code": "4.5.6",
+      "title": "Forces and motion",
+      "pages": 8
+    },
+    {
+      "file": "027_4.5.7_Momentum_HT_only.pdf",
+      "code": "4.5.7",
+      "title": "Momentum (HT only)",
+      "pages": 2
+    },
+    {
+      "file": "028_4.6_Waves.pdf",
+      "code": "4.6",
+      "title": "Waves",
+      "pages": 1
+    },
+    {
+      "file": "029_4.6.1_Waves_in_air_fluids_and_solids.pdf",
+      "code": "4.6.1",
+      "title": "Waves in air, fluids and solids",
+      "pages": 4
+    },
+    {
+      "file": "030_4.6.2_Electromagnetic_waves.pdf",
+      "code": "4.6.2",
+      "title": "Electromagnetic waves",
+      "pages": 4
+    },
+    {
+      "file": "031_4.6.3_Black_body_radiation_physics_only.pdf",
+      "code": "4.6.3",
+      "title": "Black body radiation (physics only)",
+      "pages": 2
+    },
+    {
+      "file": "032_4.7_Magnetism_and_electromagnetism.pdf",
+      "code": "4.7",
+      "title": "Magnetism and electromagnetism",
+      "pages": 1
+    },
+    {
+      "file": "033_4.7.1_Permanent_and_induced_magnetism_magnetic.pdf",
+      "code": "4.7.1",
+      "title": "Permanent and induced magnetism, magnetic forces and fields",
+      "pages": 2
+    },
+    {
+      "file": "034_4.7.2_The_motor_effect.pdf",
+      "code": "4.7.2",
+      "title": "The motor effect",
+      "pages": 2
+    },
+    {
+      "file": "035_4.7.3_Induced_potential_transformers_and_the_N.pdf",
+      "code": "4.7.3",
+      "title": "Induced potential, transformers and the National Grid (physics only) (HT only)",
+      "pages": 3
+    },
+    {
+      "file": "036_4.8_Space_physics_physics_only.pdf",
+      "code": "4.8",
+      "title": "Space physics (physics only)",
+      "pages": 2
+    },
+    {
+      "file": "037_4.8.1_Solar_system_stability_of_orbital_motion.pdf",
+      "code": "4.8.1",
+      "title": "Solar system; stability of orbital motions; satellites (physics only)",
+      "pages": 3
+    },
+    {
+      "file": "038_4.8.2_Red_shift_physics_only.pdf",
+      "code": "4.8.2",
+      "title": "Red-shift (physics only)",
+      "pages": 1
+    },
+    {
+      "file": "039_4.9_Key_ideas.pdf",
+      "code": "4.9",
+      "title": "Key ideas",
+      "pages": 1
+    }
+  ]
+}

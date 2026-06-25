@@ -1,0 +1,294 @@
+{
+  "method": "toc",
+  "n": 48,
+  "subsections": [
+    {
+      "file": "001_3.1.1_Understanding_the_nature_and_purpose_of_.pdf",
+      "code": "3.1.1",
+      "title": "Understanding the nature and purpose of business",
+      "pages": 2
+    },
+    {
+      "file": "002_3.1.2_Understanding_different_business_forms.pdf",
+      "code": "3.1.2",
+      "title": "Understanding different business forms",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.3_Understanding_that_businesses_operate_wi.pdf",
+      "code": "3.1.3",
+      "title": "Understanding that businesses operate within an external environment",
+      "pages": 1
+    },
+    {
+      "file": "004_3.2.1_Understanding_management_leadership_and_.pdf",
+      "code": "3.2.1",
+      "title": "Understanding management, leadership and decision making",
+      "pages": 1
+    },
+    {
+      "file": "005_3.2.2_Understanding_management_decision_making.pdf",
+      "code": "3.2.2",
+      "title": "Understanding management decision making",
+      "pages": 1
+    },
+    {
+      "file": "006_3.2.3_Understanding_the_role_and_importance_of.pdf",
+      "code": "3.2.3",
+      "title": "Understanding the role and importance of stakeholders",
+      "pages": 1
+    },
+    {
+      "file": "007_3.3_Marketing_management.pdf",
+      "code": "3.3",
+      "title": "Marketing management",
+      "pages": 1
+    },
+    {
+      "file": "008_3.3.1_Setting_marketing_objectives.pdf",
+      "code": "3.3.1",
+      "title": "Setting marketing objectives",
+      "pages": 1
+    },
+    {
+      "file": "009_3.3.2_Understanding_markets_and_customers.pdf",
+      "code": "3.3.2",
+      "title": "Understanding markets and customers",
+      "pages": 1
+    },
+    {
+      "file": "010_3.3.3_Making_marketing_decisions_segmentation_.pdf",
+      "code": "3.3.3",
+      "title": "Making marketing decisions: segmentation, targeting, positioning",
+      "pages": 1
+    },
+    {
+      "file": "011_3.3.4_Making_marketing_decisions_using_the_mar.pdf",
+      "code": "3.3.4",
+      "title": "Making marketing decisions: using the marketing mix",
+      "pages": 2
+    },
+    {
+      "file": "012_3.4_Operational_management.pdf",
+      "code": "3.4",
+      "title": "Operational management",
+      "pages": 1
+    },
+    {
+      "file": "013_3.4.1_Setting_operational_objectives.pdf",
+      "code": "3.4.1",
+      "title": "Setting operational objectives",
+      "pages": 1
+    },
+    {
+      "file": "014_3.4.2_Analysing_operational_performance.pdf",
+      "code": "3.4.2",
+      "title": "Analysing operational performance",
+      "pages": 2
+    },
+    {
+      "file": "015_3.4.3_Making_operational_decisions_to_improve_.pdf",
+      "code": "3.4.3",
+      "title": "Making operational decisions to improve performance: increasing efficiency and productivity",
+      "pages": 1
+    },
+    {
+      "file": "016_3.4.4_Making_operational_decisions_to_improve_.pdf",
+      "code": "3.4.4",
+      "title": "Making operational decisions to improve performance: improving quality",
+      "pages": 1
+    },
+    {
+      "file": "017_3.4.5_Making_operational_decisions_to_improve_.pdf",
+      "code": "3.4.5",
+      "title": "Making operational decisions to improve performance: managing inventory and supply chains",
+      "pages": 1
+    },
+    {
+      "file": "018_3.5_Financial_management.pdf",
+      "code": "3.5",
+      "title": "Financial management",
+      "pages": 1
+    },
+    {
+      "file": "019_3.5.1_Setting_financial_objectives.pdf",
+      "code": "3.5.1",
+      "title": "Setting financial objectives",
+      "pages": 2
+    },
+    {
+      "file": "020_3.5.2_Analysing_financial_performance.pdf",
+      "code": "3.5.2",
+      "title": "Analysing financial performance",
+      "pages": 1
+    },
+    {
+      "file": "021_3.5.3_Making_financial_decisions_sources_of_fi.pdf",
+      "code": "3.5.3",
+      "title": "Making financial decisions: sources of finance",
+      "pages": 1
+    },
+    {
+      "file": "022_3.5.4_Making_financial_decisions_improving_cas.pdf",
+      "code": "3.5.4",
+      "title": "Making financial decisions: improving cash flow and profits",
+      "pages": 1
+    },
+    {
+      "file": "023_3.6_Human_resource_management.pdf",
+      "code": "3.6",
+      "title": "Human resource management",
+      "pages": 1
+    },
+    {
+      "file": "024_3.6.1_Setting_human_resource_objectives.pdf",
+      "code": "3.6.1",
+      "title": "Setting human resource objectives",
+      "pages": 1
+    },
+    {
+      "file": "025_3.6.2_Analysing_human_resource_performance.pdf",
+      "code": "3.6.2",
+      "title": "Analysing human resource performance",
+      "pages": 1
+    },
+    {
+      "file": "026_3.6.3_Making_human_resource_decisions_improvin.pdf",
+      "code": "3.6.3",
+      "title": "Making human resource decisions: improving organisational design and managing the human resource flow",
+      "pages": 2
+    },
+    {
+      "file": "027_3.6.4_Making_human_resource_decisions_improvin.pdf",
+      "code": "3.6.4",
+      "title": "Making human resource decisions: improving motivation and engagement",
+      "pages": 1
+    },
+    {
+      "file": "028_3.6.5_Making_human_resource_decisions_improvin.pdf",
+      "code": "3.6.5",
+      "title": "Making human resource decisions: improving employer- employee relations",
+      "pages": 1
+    },
+    {
+      "file": "029_3.7_Analysing_the_strategic_position_of_a_bu.pdf",
+      "code": "3.7",
+      "title": "Analysing the strategic position of a business (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "030_3.7.1_Mission_corporate_objectives_functional_.pdf",
+      "code": "3.7.1",
+      "title": "Mission, corporate objectives, functional objectives and strategy",
+      "pages": 1
+    },
+    {
+      "file": "031_3.7.2_Analysing_the_existing_internal_position.pdf",
+      "code": "3.7.2",
+      "title": "Analysing the existing internal position of a business to assess strengths and weaknesses: financial ratio analysis",
+      "pages": 1
+    },
+    {
+      "file": "032_3.7.3_Analysing_the_existing_internal_position.pdf",
+      "code": "3.7.3",
+      "title": "Analysing the existing internal position of a business to assess strengths and weaknesses: overall performance",
+      "pages": 1
+    },
+    {
+      "file": "033_3.7.4_Analysing_the_external_environment_to_as.pdf",
+      "code": "3.7.4",
+      "title": "Analysing the external environment to assess opportunities and threats: political and legal change",
+      "pages": 1
+    },
+    {
+      "file": "034_3.7.5_Analysing_the_external_environment_to_as.pdf",
+      "code": "3.7.5",
+      "title": "Analysing the external environment to assess opportunities and threats: economic change",
+      "pages": 1
+    },
+    {
+      "file": "035_3.7.6_Analysing_the_external_environment_to_as.pdf",
+      "code": "3.7.6",
+      "title": "Analysing the external environment to assess opportunities and threats: social and technological",
+      "pages": 1
+    },
+    {
+      "file": "036_3.7.7_Analysing_the_external_environment_to_as.pdf",
+      "code": "3.7.7",
+      "title": "Analysing the external environment to assess opportunities and threats: the competitive environment",
+      "pages": 1
+    },
+    {
+      "file": "037_3.7.8_Analysing_strategic_options_investment_a.pdf",
+      "code": "3.7.8",
+      "title": "Analysing strategic options: investment appraisal",
+      "pages": 1
+    },
+    {
+      "file": "038_3.8.1_Strategic_direction_choosing_which_marke.pdf",
+      "code": "3.8.1",
+      "title": "Strategic direction: choosing which markets to compete in and what products to offer",
+      "pages": 1
+    },
+    {
+      "file": "039_3.8.2_Strategic_positioning_choosing_how_to_co.pdf",
+      "code": "3.8.2",
+      "title": "Strategic positioning: choosing how to compete",
+      "pages": 1
+    },
+    {
+      "file": "040_3.9_Strategic_methods_how_to_pursue_strategi.pdf",
+      "code": "3.9",
+      "title": "Strategic methods: how to pursue strategies (A-level only)",
+      "pages": 1
+    },
+    {
+      "file": "041_3.9.1_Assessing_a_change_in_scale.pdf",
+      "code": "3.9.1",
+      "title": "Assessing a change in scale",
+      "pages": 1
+    },
+    {
+      "file": "042_3.9.2_Assessing_innovation.pdf",
+      "code": "3.9.2",
+      "title": "Assessing innovation",
+      "pages": 1
+    },
+    {
+      "file": "043_3.9.3_Assessing_globalisation_and_internationa.pdf",
+      "code": "3.9.3",
+      "title": "Assessing globalisation and internationalisation",
+      "pages": 2
+    },
+    {
+      "file": "044_3.9.4_Assessing_greater_use_of_digital_technol.pdf",
+      "code": "3.9.4",
+      "title": "Assessing greater use of digital technology",
+      "pages": 1
+    },
+    {
+      "file": "045_3.10.1_Managing_change.pdf",
+      "code": "3.10.1",
+      "title": "Managing change",
+      "pages": 2
+    },
+    {
+      "file": "046_3.10.2_Managing_organisational_culture.pdf",
+      "code": "3.10.2",
+      "title": "Managing organisational culture",
+      "pages": 1
+    },
+    {
+      "file": "047_3.10.3_Managing_strategic_implementation.pdf",
+      "code": "3.10.3",
+      "title": "Managing strategic implementation",
+      "pages": 1
+    },
+    {
+      "file": "048_3.10.4_Problems_with_strategy_and_why_strategie.pdf",
+      "code": "3.10.4",
+      "title": "Problems with strategy and why strategies fail",
+      "pages": 2
+    }
+  ]
+}

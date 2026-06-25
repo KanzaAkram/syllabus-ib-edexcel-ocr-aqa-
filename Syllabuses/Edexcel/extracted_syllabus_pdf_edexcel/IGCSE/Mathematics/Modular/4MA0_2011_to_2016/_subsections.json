@@ -1,0 +1,329 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 46,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_1_1_Integers.pdf",
+      "code": "1.1",
+      "title": "Integers",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_2_Fractions.pdf",
+      "code": "1.2",
+      "title": "Fractions",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "004_1_3_Decimals.pdf",
+      "code": "1.3",
+      "title": "Decimals",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_4_Powers_and.pdf",
+      "code": "1.4",
+      "title": "Powers and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_1_5_Set.pdf",
+      "code": "1.5",
+      "title": "Set",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_1_6_Percentages.pdf",
+      "code": "1.6",
+      "title": "Percentages",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_1_7_Ratio_and.pdf",
+      "code": "1.7",
+      "title": "Ratio and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_1_8_Degree_of.pdf",
+      "code": "1.8",
+      "title": "Degree of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_1_10_Applying.pdf",
+      "code": "1.10",
+      "title": "Applying",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_1_11_Electronic.pdf",
+      "code": "1.11",
+      "title": "Electronic",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "012_2_1_Use_of_symbols.pdf",
+      "code": "2.1",
+      "title": "Use of symbols",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_2_2_Algebraic.pdf",
+      "code": "2.2",
+      "title": "Algebraic",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_2_3_Expressions_and.pdf",
+      "code": "2.3",
+      "title": "Expressions and",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "015_3_1_Sequences.pdf",
+      "code": "3.1",
+      "title": "Sequences",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_3_3_Graphs.pdf",
+      "code": "3.3",
+      "title": "Graphs",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_3_4_Calculus.pdf",
+      "code": "3.4",
+      "title": "Calculus",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_4_1_Angles_and.pdf",
+      "code": "4.1",
+      "title": "Angles and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_4_2_Polygons.pdf",
+      "code": "4.2",
+      "title": "Polygons",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_4_3_Symmetry.pdf",
+      "code": "4.3",
+      "title": "Symmetry",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "021_4_4_Measures.pdf",
+      "code": "4.4",
+      "title": "Measures",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "022_4_5_Construction.pdf",
+      "code": "4.5",
+      "title": "Construction",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "023_4_6_Circle_properties.pdf",
+      "code": "4.6",
+      "title": "Circle properties",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "024_4_7_Geometrical.pdf",
+      "code": "4.7",
+      "title": "Geometrical",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "025_4_8_Trigonometry_and.pdf",
+      "code": "4.8",
+      "title": "Trigonometry and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "026_4_9_Mensuration_of.pdf",
+      "code": "4.9",
+      "title": "Mensuration of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "027_4_11_Similarity.pdf",
+      "code": "4.11",
+      "title": "Similarity",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "028_5_2_Transformation.pdf",
+      "code": "5.2",
+      "title": "Transformation",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "029_6_1_Graphical.pdf",
+      "code": "6.1",
+      "title": "Graphical",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "030_6_2_Statistical.pdf",
+      "code": "6.2",
+      "title": "Statistical",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "031_6_3_Probability.pdf",
+      "code": "6.3",
+      "title": "Probability",
+      "family": "Num",
+      "pages": 6
+    },
+    {
+      "file": "032_2_2_Algebraic.pdf",
+      "code": "2.2",
+      "title": "Algebraic",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "033_2_3_Expressions_and.pdf",
+      "code": "2.3",
+      "title": "Expressions and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "034_2_5_Proportion.pdf",
+      "code": "2.5",
+      "title": "Proportion",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "035_2_6_Simultaneous.pdf",
+      "code": "2.6",
+      "title": "Simultaneous",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "036_2_7_Quadratic.pdf",
+      "code": "2.7",
+      "title": "Quadratic",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "037_2_8_Inequalities.pdf",
+      "code": "2.8",
+      "title": "Inequalities",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "038_3_2_Function_notation.pdf",
+      "code": "3.2",
+      "title": "Function notation",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "039_3_3_Graphs.pdf",
+      "code": "3.3",
+      "title": "Graphs",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "040_3_4_Calculus.pdf",
+      "code": "3.4",
+      "title": "Calculus",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "041_4_9_Mensuration.pdf",
+      "code": "4.9",
+      "title": "Mensuration",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "042_4_11_Similarity.pdf",
+      "code": "4.11",
+      "title": "Similarity",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "043_5_1_Vectors.pdf",
+      "code": "5.1",
+      "title": "Vectors",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "044_6_1_Graphical.pdf",
+      "code": "6.1",
+      "title": "Graphical",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "045_6_2_Statistical_measures_estimate_the_median_f.pdf",
+      "code": "6.2",
+      "title": "Statistical measures estimate the median from a cumulative",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "046_6_3_Probability.pdf",
+      "code": "6.3",
+      "title": "Probability",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

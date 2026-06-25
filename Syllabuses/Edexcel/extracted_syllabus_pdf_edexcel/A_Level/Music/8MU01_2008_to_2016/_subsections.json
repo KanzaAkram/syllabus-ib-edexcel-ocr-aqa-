@@ -1,0 +1,245 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 34,
+  "subsections": [
+    {
+      "file": "001_Section_B_students_will_answer_three_questions_to_pr.pdf",
+      "code": "Section B",
+      "title": "students will answer three questions to provide information that could",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "002_Section_C_students_may_use_a_keyboard_with_headphone.pdf",
+      "code": "Section C",
+      "title": ", students may use a keyboard with headphones. A skeleton score is provided",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "003_Section_A_contains_four_composition_briefs_from_whic.pdf",
+      "code": "Section A",
+      "title": "contains four composition briefs from which students will select one as",
+      "family": "Section",
+      "pages": 12
+    },
+    {
+      "file": "004_1_2_What_students_need_to_learn.pdf",
+      "code": "1.2",
+      "title": "What students need to learn",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_3_Assessment_information.pdf",
+      "code": "1.3",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "006_1_4_How_the_assessment_criteria_will_be_applie.pdf",
+      "code": "1.4",
+      "title": "How the assessment criteria will be applied",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "007_1_5_Assessment_criteria_for_performances_from_.pdf",
+      "code": "1.5",
+      "title": "Assessment criteria for performances from a score",
+      "family": "Num",
+      "pages": 6
+    },
+    {
+      "file": "008_1_6_Assessment_criteria_for_improvised_perform.pdf",
+      "code": "1.6",
+      "title": "Assessment criteria for improvised performances",
+      "family": "Num",
+      "pages": 6
+    },
+    {
+      "file": "009_1_7_Performance_scaling_grid.pdf",
+      "code": "1.7",
+      "title": "Performance scaling grid",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_1_8_Administration_of_internal_assessment.pdf",
+      "code": "1.8",
+      "title": "Administration of internal assessment",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_2_2_What_students_need_to_learn.pdf",
+      "code": "2.2",
+      "title": "What students need to learn",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "012_Area_of_study_1_Instrumental_music.pdf",
+      "code": "Area of study 1",
+      "title": "Instrumental music",
+      "family": "Area of study",
+      "pages": 1
+    },
+    {
+      "file": "013_2_3_Assessment_information.pdf",
+      "code": "2.3",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "014_2_4_How_the_assessment_criteria_will_be_applie.pdf",
+      "code": "2.4",
+      "title": "How the assessment criteria will be applied",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "015_2_5_Assessment_criteria_for_the_composition.pdf",
+      "code": "2.5",
+      "title": "Assessment criteria for the composition",
+      "family": "Num",
+      "pages": 7
+    },
+    {
+      "file": "016_2_6_Assessment_criteria_for_the_sleeve_note.pdf",
+      "code": "2.6",
+      "title": "Assessment criteria for the sleeve note",
+      "family": "Num",
+      "pages": 4
+    },
+    {
+      "file": "017_3_2_What_students_need_to_learn.pdf",
+      "code": "3.2",
+      "title": "What students need to learn",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_3_3_Details_of_set_works.pdf",
+      "code": "3.3",
+      "title": "Details of set works",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "019_4_2_What_students_need_to_learn.pdf",
+      "code": "4.2",
+      "title": "What students need to learn",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_4_3_Assessment_information.pdf",
+      "code": "4.3",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "021_4_4_How_the_assessment_criteria_will_be_applie.pdf",
+      "code": "4.4",
+      "title": "How the assessment criteria will be applied",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "022_4_5_Assessment_criteria_for_performance_from_a.pdf",
+      "code": "4.5",
+      "title": "Assessment criteria for performance from a score",
+      "family": "Num",
+      "pages": 7
+    },
+    {
+      "file": "023_4_6_Assessment_criteria_for_improvised_perform.pdf",
+      "code": "4.6",
+      "title": "Assessment criteria for improvised performances",
+      "family": "Num",
+      "pages": 7
+    },
+    {
+      "file": "024_4_7_Performance_scaling_grid.pdf",
+      "code": "4.7",
+      "title": "Performance scaling grid",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "025_4_8_Administration_of_internal_assessment.pdf",
+      "code": "4.8",
+      "title": "Administration of internal assessment",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "026_5_2_What_students_need_to_learn_if_choosing_co.pdf",
+      "code": "5.2",
+      "title": "What students need to learn if choosing composition",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "027_Topic_2_Chorale.pdf",
+      "code": "Topic 2",
+      "title": "Chorale",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "028_5_5_How_the_assessment_criteria_will_be_applie.pdf",
+      "code": "5.5",
+      "title": "How the assessment criteria will be applied",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "029_5_6_Assessment_criteria_for_composition.pdf",
+      "code": "5.6",
+      "title": "Assessment criteria for composition",
+      "family": "Num",
+      "pages": 7
+    },
+    {
+      "file": "030_5_7_Assessment_criteria_for_technical_study.pdf",
+      "code": "5.7",
+      "title": "Assessment criteria for technical study",
+      "family": "Num",
+      "pages": 7
+    },
+    {
+      "file": "031_6_2_What_students_need_to_learn.pdf",
+      "code": "6.2",
+      "title": "What students need to learn",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "032_6_3_Details_of_Unit_6_set_works.pdf",
+      "code": "6.3",
+      "title": "Details of Unit 6 set works",
+      "family": "Num",
+      "pages": 4
+    },
+    {
+      "file": "033_6_4_Assessment_information.pdf",
+      "code": "6.4",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 9
+    },
+    {
+      "file": "034_Section_E_Pearson_Education_Limited_2013.pdf",
+      "code": "Section E",
+      "title": "© Pearson Education Limited 2013",
+      "family": "Section",
+      "pages": 3
+    }
+  ]
+}

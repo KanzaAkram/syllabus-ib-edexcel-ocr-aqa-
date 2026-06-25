@@ -1,0 +1,49 @@
+{
+  "method": "toc",
+  "sections": 2,
+  "n": 6,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Drama_and_poetry_pre_1900_Compo.pdf",
+      "code": "2c",
+      "title": "Content of Drama and poetry pre-1900 (Component 01)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Section_1_set_texts.pdf",
+      "code": "Section 1",
+      "title": "set texts:",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "003_Section_2_set_texts_Drama_and_poetry_pre.pdf",
+      "code": "Section 2",
+      "title": "set texts: Drama and poetry pre-",
+      "kind": "Section",
+      "pages": 3
+    },
+    {
+      "file": "004_non_exam_assessment_in_A_Level_in_English_.pdf",
+      "code": "",
+      "title": "non‑exam assessment in A Level in English Literature (Component 03)",
+      "kind": "label",
+      "pages": 1
+    },
+    {
+      "file": "005_Literature_post_1900.pdf",
+      "code": "",
+      "title": "Literature post-1900",
+      "kind": "label",
+      "pages": 1
+    },
+    {
+      "file": "006_Literary_texts_requirements.pdf",
+      "code": "",
+      "title": "Literary texts requirements:",
+      "kind": "label",
+      "pages": 1
+    }
+  ]
+}

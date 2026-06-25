@@ -1,0 +1,77 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 10,
+  "subsections": [
+    {
+      "file": "001_Component_1_Performing.pdf",
+      "code": "Component 1",
+      "title": "Performing",
+      "family": "Component",
+      "pages": 22
+    },
+    {
+      "file": "002_Component_2_Composing.pdf",
+      "code": "Component 2",
+      "title": "Composing",
+      "family": "Component",
+      "pages": 37
+    },
+    {
+      "file": "003_Area_of_study_1_Vocal_Music.pdf",
+      "code": "Area of study 1",
+      "title": "Vocal Music",
+      "family": "Area of study",
+      "pages": 9
+    },
+    {
+      "file": "004_Area_of_study_2_Instrumental_Music.pdf",
+      "code": "Area of study 2",
+      "title": "Instrumental Music",
+      "family": "Area of study",
+      "pages": 1
+    },
+    {
+      "file": "005_Area_of_study_3_Music_for_Film.pdf",
+      "code": "Area of study 3",
+      "title": "Music for Film",
+      "family": "Area of study",
+      "pages": 1
+    },
+    {
+      "file": "006_Area_of_study_4_Popular_Music_and_Jazz.pdf",
+      "code": "Area of study 4",
+      "title": "Popular Music and Jazz",
+      "family": "Area of study",
+      "pages": 1
+    },
+    {
+      "file": "007_Area_of_study_5_Fusions.pdf",
+      "code": "Area of study 5",
+      "title": "Fusions",
+      "family": "Area of study",
+      "pages": 1
+    },
+    {
+      "file": "008_Area_of_study_6_New_Directions.pdf",
+      "code": "Area of study 6",
+      "title": "New Directions",
+      "family": "Area of study",
+      "pages": 4
+    },
+    {
+      "file": "009_Section_A.pdf",
+      "code": "Section A",
+      "title": "",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "010_Section_B.pdf",
+      "code": "Section B",
+      "title": "",
+      "family": "Section",
+      "pages": 1
+    }
+  ]
+}

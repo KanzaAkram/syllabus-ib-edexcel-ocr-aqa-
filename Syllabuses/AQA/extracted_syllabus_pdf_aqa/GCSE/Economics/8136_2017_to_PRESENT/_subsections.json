@@ -1,0 +1,84 @@
+{
+  "method": "toc",
+  "n": 13,
+  "subsections": [
+    {
+      "file": "001_3.1_How_markets_work.pdf",
+      "code": "3.1",
+      "title": "How markets work",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Economic_foundations.pdf",
+      "code": "3.1.1",
+      "title": "Economic foundations",
+      "pages": 2
+    },
+    {
+      "file": "003_3.1.2_Resource_allocation.pdf",
+      "code": "3.1.2",
+      "title": "Resource allocation",
+      "pages": 2
+    },
+    {
+      "file": "004_3.1.3_How_prices_are_determined.pdf",
+      "code": "3.1.3",
+      "title": "How prices are determined",
+      "pages": 3
+    },
+    {
+      "file": "005_3.1.4_Production_costs_revenue_and_profit.pdf",
+      "code": "3.1.4",
+      "title": "Production, costs, revenue and profit",
+      "pages": 2
+    },
+    {
+      "file": "006_3.1.5_Competitive_and_concentrated_markets.pdf",
+      "code": "3.1.5",
+      "title": "Competitive and concentrated markets",
+      "pages": 2
+    },
+    {
+      "file": "007_3.1.6_Market_failure.pdf",
+      "code": "3.1.6",
+      "title": "Market failure",
+      "pages": 2
+    },
+    {
+      "file": "008_3.2_How_the_economy_works.pdf",
+      "code": "3.2",
+      "title": "How the economy works",
+      "pages": 1
+    },
+    {
+      "file": "009_3.2.1_Introduction_to_the_national_economy.pdf",
+      "code": "3.2.1",
+      "title": "Introduction to the national economy",
+      "pages": 2
+    },
+    {
+      "file": "010_3.2.2_Government_objectives.pdf",
+      "code": "3.2.2",
+      "title": "Government objectives",
+      "pages": 3
+    },
+    {
+      "file": "011_3.2.3_How_the_government_manages_the_economy.pdf",
+      "code": "3.2.3",
+      "title": "How the government manages the economy",
+      "pages": 2
+    },
+    {
+      "file": "012_3.2.4_International_trade_and_the_global_econo.pdf",
+      "code": "3.2.4",
+      "title": "International trade and the global economy",
+      "pages": 2
+    },
+    {
+      "file": "013_3.2.5_The_role_of_money_and_financial_markets.pdf",
+      "code": "3.2.5",
+      "title": "The role of money and financial markets",
+      "pages": 1
+    }
+  ]
+}

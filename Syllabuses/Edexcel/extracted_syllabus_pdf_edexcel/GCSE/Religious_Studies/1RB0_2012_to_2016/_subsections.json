@@ -1,0 +1,238 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 33,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_Section_1_Catholic_Beliefs.pdf",
+      "code": "Section 1",
+      "title": "Catholic Beliefs",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "003_Section_3_Living_the_Catholic_Life.pdf",
+      "code": "Section 3",
+      "title": "Living the Catholic Life",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "004_Section_1_Christian_Beliefs.pdf",
+      "code": "Section 1",
+      "title": "Christian Beliefs",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "005_Section_3_Living_the_Christian_Life.pdf",
+      "code": "Section 3",
+      "title": "Living the Christian Life",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "006_Section_1_Muslim_Beliefs.pdf",
+      "code": "Section 1",
+      "title": "Muslim Beliefs",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "007_Section_3_Living_the_Muslim_Life.pdf",
+      "code": "Section 3",
+      "title": "Living the Muslim Life",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "008_Section_1_Buddhist_Beliefs.pdf",
+      "code": "Section 1",
+      "title": "Buddhist Beliefs",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "009_Section_3_Living_the_Buddhist_Life.pdf",
+      "code": "Section 3",
+      "title": "Living the Buddhist Life",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "010_Section_1_Hindu_Beliefs.pdf",
+      "code": "Section 1",
+      "title": "Hindu Beliefs",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "011_Section_3_Living_the_Hindu_Life.pdf",
+      "code": "Section 3",
+      "title": "Living the Hindu Life",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "012_Section_1_Jewish_Beliefs.pdf",
+      "code": "Section 1",
+      "title": "Jewish Beliefs",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "013_Section_3_Living_the_Jewish_Life.pdf",
+      "code": "Section 3",
+      "title": "Living the Jewish Life",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "014_Section_1_Sikh_Beliefs.pdf",
+      "code": "Section 1",
+      "title": "Sikh Beliefs",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "015_Section_3_Living_the_Sikh_Life.pdf",
+      "code": "Section 3",
+      "title": "Living the Sikh Life",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "016_Paper_1_Area_of_Study_1_Religion_and_Ethics.pdf",
+      "code": "Paper 1",
+      "title": "Area of Study 1 – Religion and Ethics",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "017_Area_of_study_2A_Catholic_Christianity.pdf",
+      "code": "Area of study 2A",
+      "title": "Catholic Christianity",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "018_Area_of_study_2B_Christianity.pdf",
+      "code": "Area of study 2B",
+      "title": "Christianity",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "019_Area_of_study_2C_Islam.pdf",
+      "code": "Area of study 2C",
+      "title": "Islam",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "020_Area_of_study_2D_Buddhism.pdf",
+      "code": "Area of study 2D",
+      "title": "Buddhism",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "021_Area_of_study_2E_Hinduism.pdf",
+      "code": "Area of study 2E",
+      "title": "Hinduism",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "022_Area_of_study_2F_Judaism.pdf",
+      "code": "Area of study 2F",
+      "title": "Judaism",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "023_Area_of_study_2G_Sikhism.pdf",
+      "code": "Area of study 2G",
+      "title": "Sikhism",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "024_Paper_2_Area_of_Study_2_Religion_Peace_and_Conflic.pdf",
+      "code": "Paper 2",
+      "title": "Area of Study 2 – Religion, Peace and Conflict",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "025_Area_of_study_3A_Catholic_Christianity.pdf",
+      "code": "Area of study 3A",
+      "title": "Catholic Christianity",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "026_Area_of_study_3B_Christianity.pdf",
+      "code": "Area of study 3B",
+      "title": "Christianity",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "027_Area_of_study_3C_Islam.pdf",
+      "code": "Area of study 3C",
+      "title": "Islam",
+      "family": "Area of study",
+      "pages": 10
+    },
+    {
+      "file": "028_Area_of_study_3E_Hinduism.pdf",
+      "code": "Area of study 3E",
+      "title": "Hinduism",
+      "family": "Area of study",
+      "pages": 2
+    },
+    {
+      "file": "029_Section_1_Beliefs_and_Teachings.pdf",
+      "code": "Section 1",
+      "title": "Beliefs and Teachings",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "030_Area_of_study_3F_Judaism.pdf",
+      "code": "Area of study 3F",
+      "title": "Judaism",
+      "family": "Area of study",
+      "pages": 2
+    },
+    {
+      "file": "031_Section_2_Religious_Experience.pdf",
+      "code": "Section 2",
+      "title": "Religious Experience",
+      "family": "Section",
+      "pages": 3
+    },
+    {
+      "file": "032_Area_of_study_3G_Sikhism.pdf",
+      "code": "Area of study 3G",
+      "title": "Sikhism",
+      "family": "Area of study",
+      "pages": 5
+    },
+    {
+      "file": "033_Paper_3_Area_of_Study_3_Religion_Philosophy_and_So.pdf",
+      "code": "Paper 3",
+      "title": "Area of Study 3 – Religion, Philosophy and Social Justice",
+      "family": "Paper",
+      "pages": 2
+    }
+  ]
+}

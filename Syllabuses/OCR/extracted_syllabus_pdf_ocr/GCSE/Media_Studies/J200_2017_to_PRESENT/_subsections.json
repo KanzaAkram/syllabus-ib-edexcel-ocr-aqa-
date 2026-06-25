@@ -1,0 +1,98 @@
+{
+  "method": "toc",
+  "sections": 3,
+  "n": 13,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Television_and_promoting_media_.pdf",
+      "code": "2c",
+      "title": "Content of Television and promoting media (01)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Section_A_Television.pdf",
+      "code": "Section A",
+      "title": "Television",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "003_Section_B_Promoting_Media.pdf",
+      "code": "Section B",
+      "title": "Promoting Media",
+      "kind": "Section",
+      "pages": 6
+    },
+    {
+      "file": "004_Section_A_Music.pdf",
+      "code": "Section A",
+      "title": "Music",
+      "kind": "Section",
+      "pages": 4
+    },
+    {
+      "file": "005_Section_B_News.pdf",
+      "code": "Section B",
+      "title": "News",
+      "kind": "Section",
+      "pages": 8
+    },
+    {
+      "file": "006_2e_Content_of_non_exam_assessment_content_Cre.pdf",
+      "code": "2e",
+      "title": "Content of non-exam assessment content - Creating media (03/04)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "007_media_language_how_the_media_communicate.pdf",
+      "code": "",
+      "title": "media language: how the media communicate",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "008_media_representations_how_the_media_portra.pdf",
+      "code": "",
+      "title": "media representations: how the media portray",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "009_media_audiences_how_media_audiences_are.pdf",
+      "code": "",
+      "title": "media audiences: how media audiences are",
+      "kind": "rowlabel",
+      "pages": 2
+    },
+    {
+      "file": "010_Media_language.pdf",
+      "code": "",
+      "title": "Media language",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "011_Media_representations.pdf",
+      "code": "",
+      "title": "Media representations",
+      "kind": "rowlabel",
+      "pages": 2
+    },
+    {
+      "file": "012_Media_audiences.pdf",
+      "code": "",
+      "title": "Media audiences",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "013_The_NEA_briefs_will_change_every_year_and_.pdf",
+      "code": "",
+      "title": "The NEA briefs will change every year and will require",
+      "kind": "rowlabel",
+      "pages": 1
+    }
+  ]
+}

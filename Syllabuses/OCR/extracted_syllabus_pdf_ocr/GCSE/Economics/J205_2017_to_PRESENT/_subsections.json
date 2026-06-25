@@ -1,0 +1,49 @@
+{
+  "method": "toc",
+  "sections": 2,
+  "n": 6,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_J205_01_Introduction_to_Economi.pdf",
+      "code": "2c",
+      "title": "Content of J205/01 – Introduction to Economics",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_1_Introduction_to_Economics.pdf",
+      "code": "1",
+      "title": "Introduction to Economics",
+      "kind": "int",
+      "pages": 1
+    },
+    {
+      "file": "003_2_The_role_of_markets_and_money.pdf",
+      "code": "2",
+      "title": "The role of markets and money",
+      "kind": "int",
+      "pages": 2
+    },
+    {
+      "file": "004_2c_Content_of_J205_02_National_and_Internatio.pdf",
+      "code": "2c",
+      "title": "Content of J205/02 – National and International Economics",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "005_3_Economic_objectives_and_the_role_of_govern.pdf",
+      "code": "3",
+      "title": "Economic objectives and the role of government",
+      "kind": "int",
+      "pages": 2
+    },
+    {
+      "file": "006_4_International_trade_and_the_global_economy.pdf",
+      "code": "4",
+      "title": "International trade and the global economy",
+      "kind": "int",
+      "pages": 1
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 18,
+  "subsections": [
+    {
+      "file": "001_Unit_C1_Core_Mathematics_1.pdf",
+      "code": "Unit C1",
+      "title": "Core Mathematics 1",
+      "family": "Unit",
+      "pages": 5
+    },
+    {
+      "file": "002_Unit_C2_Core_Mathematics_2.pdf",
+      "code": "Unit C2",
+      "title": "Core Mathematics 2",
+      "family": "Unit",
+      "pages": 7
+    },
+    {
+      "file": "003_Unit_C3_Core_Mathematics_3.pdf",
+      "code": "Unit C3",
+      "title": "Core Mathematics 3",
+      "family": "Unit",
+      "pages": 4
+    },
+    {
+      "file": "004_Unit_C4_Core_Mathematics_4.pdf",
+      "code": "Unit C4",
+      "title": "Core Mathematics 4",
+      "family": "Unit",
+      "pages": 7
+    },
+    {
+      "file": "005_Unit_FP1_Further_Pure_Mathematics_1.pdf",
+      "code": "Unit FP1",
+      "title": "Further Pure Mathematics 1",
+      "family": "Unit",
+      "pages": 4
+    },
+    {
+      "file": "006_Unit_FP2_Further_Pure_Mathematics_2.pdf",
+      "code": "Unit FP2",
+      "title": "Further Pure Mathematics 2",
+      "family": "Unit",
+      "pages": 5
+    },
+    {
+      "file": "007_Unit_FP3_Further_Pure_Mathematics_3.pdf",
+      "code": "Unit FP3",
+      "title": "Further Pure Mathematics 3",
+      "family": "Unit",
+      "pages": 6
+    },
+    {
+      "file": "008_Unit_M1_Mechanics_1.pdf",
+      "code": "Unit M1",
+      "title": "Mechanics 1",
+      "family": "Unit",
+      "pages": 4
+    },
+    {
+      "file": "009_Unit_M2_Mechanics_2.pdf",
+      "code": "Unit M2",
+      "title": "Mechanics 2",
+      "family": "Unit",
+      "pages": 5
+    },
+    {
+      "file": "010_Unit_M3_Mechanics_3.pdf",
+      "code": "Unit M3",
+      "title": "Mechanics 3",
+      "family": "Unit",
+      "pages": 4
+    },
+    {
+      "file": "011_Unit_M4_Mechanics_4.pdf",
+      "code": "Unit M4",
+      "title": "Mechanics 4",
+      "family": "Unit",
+      "pages": 2
+    },
+    {
+      "file": "012_Unit_M5_Mechanics_5.pdf",
+      "code": "Unit M5",
+      "title": "Mechanics 5",
+      "family": "Unit",
+      "pages": 4
+    },
+    {
+      "file": "013_Unit_S1_Statistics_1.pdf",
+      "code": "Unit S1",
+      "title": "Statistics 1",
+      "family": "Unit",
+      "pages": 4
+    },
+    {
+      "file": "014_Unit_S2_Statistics_2.pdf",
+      "code": "Unit S2",
+      "title": "Statistics 2",
+      "family": "Unit",
+      "pages": 5
+    },
+    {
+      "file": "015_Unit_S3_Statistics_3.pdf",
+      "code": "Unit S3",
+      "title": "Statistics 3",
+      "family": "Unit",
+      "pages": 4
+    },
+    {
+      "file": "016_Unit_S4_Statistics_4.pdf",
+      "code": "Unit S4",
+      "title": "Statistics 4",
+      "family": "Unit",
+      "pages": 2
+    },
+    {
+      "file": "017_Unit_D1_Decision_Mathematics_1.pdf",
+      "code": "Unit D1",
+      "title": "Decision Mathematics 1",
+      "family": "Unit",
+      "pages": 6
+    },
+    {
+      "file": "018_Unit_D2_Decision_Mathematics_2.pdf",
+      "code": "Unit D2",
+      "title": "Decision Mathematics 2",
+      "family": "Unit",
+      "pages": 7
+    }
+  ]
+}

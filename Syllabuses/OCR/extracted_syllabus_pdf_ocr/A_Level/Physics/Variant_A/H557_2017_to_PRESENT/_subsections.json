@@ -1,0 +1,238 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 33,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_modules_1_to_6.pdf",
+      "code": "2c",
+      "title": "Content of modules 1 to 6",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Module_1_Development_of_practical_skills_in_physics.pdf",
+      "code": "Module 1",
+      "title": "Development of practical skills in physics",
+      "kind": "Module",
+      "pages": 1
+    },
+    {
+      "file": "003_1_1_Practical_skills_assessed_in_a_written_exa.pdf",
+      "code": "1.1",
+      "title": "Practical skills assessed in a written examination",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "004_1_1_1_Planning.pdf",
+      "code": "1.1.1",
+      "title": "Planning",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "005_1_1_2_Implementing.pdf",
+      "code": "1.1.2",
+      "title": "Implementing",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "006_1_1_3_Analysis.pdf",
+      "code": "1.1.3",
+      "title": "Analysis",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "007_1_1_4_Evaluation.pdf",
+      "code": "1.1.4",
+      "title": "Evaluation",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "008_1_2_Practical_skills_assessed_in_the_Practical.pdf",
+      "code": "1.2",
+      "title": "Practical skills assessed in the Practical Endorsement",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "009_1_2_1_Practical_skills.pdf",
+      "code": "1.2.1",
+      "title": "Practical skills",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "010_1_2_2_Use_of_apparatus_and_techniques.pdf",
+      "code": "1.2.2",
+      "title": "Use of apparatus and techniques",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "011_Module_2_Fundamental_data_analysis.pdf",
+      "code": "Module 2",
+      "title": "Fundamental data analysis",
+      "kind": "Module",
+      "pages": 1
+    },
+    {
+      "file": "012_Module_3_Physics_in_action.pdf",
+      "code": "Module 3",
+      "title": "Physics in action",
+      "kind": "Module",
+      "pages": 1
+    },
+    {
+      "file": "013_3_1_Communication.pdf",
+      "code": "3.1",
+      "title": "Communication",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "014_3_1_1_Imaging_and_signalling.pdf",
+      "code": "3.1.1",
+      "title": "Imaging and signalling",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "015_3_1_2_Sensing.pdf",
+      "code": "3.1.2",
+      "title": "Sensing",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "016_3_2_Mechanical_properties_of_materials.pdf",
+      "code": "3.2",
+      "title": "Mechanical properties of materials",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "017_Module_4_Understanding_processes.pdf",
+      "code": "Module 4",
+      "title": "Understanding processes",
+      "kind": "Module",
+      "pages": 1
+    },
+    {
+      "file": "018_4_1_Waves_and_quantum_behaviour.pdf",
+      "code": "4.1",
+      "title": "Waves and quantum behaviour",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "019_4_2_Space_time_and_motion.pdf",
+      "code": "4.2",
+      "title": "Space, time and motion",
+      "kind": "decimal",
+      "pages": 3
+    },
+    {
+      "file": "020_5_1_Models_and_rules.pdf",
+      "code": "5.1",
+      "title": "Models and rules",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "021_5_1_1_Creating_models.pdf",
+      "code": "5.1.1",
+      "title": "Creating models",
+      "kind": "decimal",
+      "pages": 3
+    },
+    {
+      "file": "022_5_1_2_Out_into_space.pdf",
+      "code": "5.1.2",
+      "title": "Out into space",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "023_5_1_3_Our_place_in_the_universe.pdf",
+      "code": "5.1.3",
+      "title": "Our place in the universe",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "024_5_2_Matter.pdf",
+      "code": "5.2",
+      "title": "Matter",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "025_5_2_1_Matter_very_simple.pdf",
+      "code": "5.2.1",
+      "title": "Matter: very simple",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "026_5_2_2_Matter_hot_or_cold.pdf",
+      "code": "5.2.2",
+      "title": "Matter: hot or cold",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "027_Module_6_Field_and_particle_physics.pdf",
+      "code": "Module 6",
+      "title": "Field and particle physics",
+      "kind": "Module",
+      "pages": 1
+    },
+    {
+      "file": "028_6_1_Fields.pdf",
+      "code": "6.1",
+      "title": "Fields",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "029_6_1_1_Electromagnetism.pdf",
+      "code": "6.1.1",
+      "title": "Electromagnetism",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "030_6_1_2_Charge_and_field.pdf",
+      "code": "6.1.2",
+      "title": "Charge and field",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "031_6_2_Fundamental_particles.pdf",
+      "code": "6.2",
+      "title": "Fundamental particles",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "032_6_2_1_Probing_deep_into_matter.pdf",
+      "code": "6.2.1",
+      "title": "Probing deep into matter",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "033_6_2_2_Ionising_radiation_and_risk.pdf",
+      "code": "6.2.2",
+      "title": "Ionising radiation and risk",
+      "kind": "decimal",
+      "pages": 1
+    }
+  ]
+}

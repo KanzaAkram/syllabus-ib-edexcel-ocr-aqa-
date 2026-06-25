@@ -1,0 +1,63 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 8,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Topic_1_Numbers_and_the_number_system.pdf",
+      "code": "Topic 1",
+      "title": "Numbers and the number system",
+      "family": "Topic",
+      "pages": 6
+    },
+    {
+      "file": "003_Topic_2_Equations_formulae_and_identities.pdf",
+      "code": "Topic 2",
+      "title": "Equations, formulae and identities",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "004_Topic_4_Geometry.pdf",
+      "code": "Topic 4",
+      "title": "Geometry",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "005_Topic_5_Vectors_and_transformation_geometry.pdf",
+      "code": "Topic 5",
+      "title": "Vectors and transformation geometry",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_6_Statistics_and_probability.pdf",
+      "code": "Topic 6",
+      "title": "Statistics and probability",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "007_Topic_3_Sequences_functions_and_graphs.pdf",
+      "code": "Topic 3",
+      "title": "Sequences, functions and graphs",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "008_Topic_4_Geometry_and_trigonometry.pdf",
+      "code": "Topic 4",
+      "title": "Geometry and trigonometry",
+      "family": "Topic",
+      "pages": 2
+    }
+  ]
+}

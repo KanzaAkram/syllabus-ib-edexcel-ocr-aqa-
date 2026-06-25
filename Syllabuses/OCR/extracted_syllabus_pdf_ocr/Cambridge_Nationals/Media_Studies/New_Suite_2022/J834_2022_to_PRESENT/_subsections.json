@@ -1,0 +1,742 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 105,
+  "subsections": [
+    {
+      "file": "001_Subject_content.pdf",
+      "code": "",
+      "title": "Subject content",
+      "kind": "overview",
+      "pages": 17
+    },
+    {
+      "file": "002_4_1_4_Command_and_descriptor_words.pdf",
+      "code": "4.1.4",
+      "title": "Command and descriptor words",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "003_Unit_R093_Creative_iMedia_in_the_media_industry.pdf",
+      "code": "Unit R093",
+      "title": "Creative iMedia in the media industry",
+      "kind": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_Area_1_The_media_industry.pdf",
+      "code": "Topic Area 1",
+      "title": "The media industry",
+      "kind": "Topic Area",
+      "pages": 1
+    },
+    {
+      "file": "005_1_1_Media_industry_sectors_and_products.pdf",
+      "code": "1.1",
+      "title": "Media industry sectors and products",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "006_1_2_Job_roles_in_the_media_industry.pdf",
+      "code": "1.2",
+      "title": "Job roles in the media industry",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "007_2_1_How_style_content_and_layout_are_linked_to.pdf",
+      "code": "2.1",
+      "title": "How style, content and layout are linked to the purpose",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "008_2_2_Client_requirements_and_how_they_are_defin.pdf",
+      "code": "2.2",
+      "title": "Client requirements and how they are defined",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "009_2_3_Audience_demographics_and_segmentation.pdf",
+      "code": "2.3",
+      "title": "Audience demographics and segmentation",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "010_2_4_Research_methods_sources_and_types_of_data.pdf",
+      "code": "2.4",
+      "title": "Research methods, sources and types of data",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "011_2_5_Media_codes_used_to_convey_meaning_create_.pdf",
+      "code": "2.5",
+      "title": "Media codes used to convey meaning, create impact and/or engage audiences",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "012_3_1_Work_planning.pdf",
+      "code": "3.1",
+      "title": "Work planning",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "013_3_2_Documents_used_to_support_ideas_generation.pdf",
+      "code": "3.2",
+      "title": "Documents used to support ideas generation",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "014_3_3_Documents_used_to_design_and_plan_media_pr.pdf",
+      "code": "3.3",
+      "title": "Documents used to design and plan media products",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "015_3_4_1_Legal_considerations_to_protect_individual.pdf",
+      "code": "3.4.1",
+      "title": "Legal considerations to protect individuals",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "016_3_4_2_Intellectual_property_rights.pdf",
+      "code": "3.4.2",
+      "title": "Intellectual property rights",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "017_3_4_3_Regulation_certification_and_classificatio.pdf",
+      "code": "3.4.3",
+      "title": "Regulation, certification, and classification",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "018_3_4_4_Health_and_safety.pdf",
+      "code": "3.4.4",
+      "title": "Health and safety",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "019_4_1_Distribution_platforms_and_media_to_reach_.pdf",
+      "code": "4.1",
+      "title": "Distribution platforms and media to reach audiences",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "020_4_2_1_Image_Files.pdf",
+      "code": "4.2.1",
+      "title": "Image Files",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "021_4_2_2_Audio_Files.pdf",
+      "code": "4.2.2",
+      "title": "Audio Files",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "022_4_2_3_Moving_Image_Files.pdf",
+      "code": "4.2.3",
+      "title": "Moving Image Files",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "023_4_2_4_File_compression.pdf",
+      "code": "4.2.4",
+      "title": "File compression",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "024_Unit_R094_Visual_identity_and_digital_graphics.pdf",
+      "code": "Unit R094",
+      "title": "Visual identity and digital graphics",
+      "kind": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "025_Topic_Area_1_Develop_visual_identity.pdf",
+      "code": "Topic Area 1",
+      "title": "Develop visual identity",
+      "kind": "Topic Area",
+      "pages": 1
+    },
+    {
+      "file": "026_1_1_Purpose_elements_and_design_of_visual_iden.pdf",
+      "code": "1.1",
+      "title": "Purpose, elements and design of visual identity",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "027_2_1_Graphic_design_and_conventions.pdf",
+      "code": "2.1",
+      "title": "Graphic design and conventions",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "028_2_2_Properties_of_digital_graphics_and_use_of_.pdf",
+      "code": "2.2",
+      "title": "Properties of digital graphics and use of assets",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "029_2_3_Techniques_to_plan_visual_identity_and_dig.pdf",
+      "code": "2.3",
+      "title": "Techniques to plan visual identity and digital graphics",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "030_3_1_Tools_and_techniques_of_imaging_editing_so.pdf",
+      "code": "3.1",
+      "title": "Tools and techniques of imaging editing software used to create digital graphics",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "031_3_2_Technical_skills_to_source_create_and_prep.pdf",
+      "code": "3.2",
+      "title": "Technical skills to source, create and prepare assets for use within digital graphics",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "032_3_3_Techniques_to_save_and_export_visual_ident.pdf",
+      "code": "3.3",
+      "title": "Techniques to save and export visual identity and digital graphics",
+      "kind": "decimal",
+      "pages": 6
+    },
+    {
+      "file": "033_Unit_R095_Characters_and_comics.pdf",
+      "code": "Unit R095",
+      "title": "Characters and comics",
+      "kind": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "034_Topic_Area_1_Plan_characters_and_comics.pdf",
+      "code": "Topic Area 1",
+      "title": "Plan characters and comics",
+      "kind": "Topic Area",
+      "pages": 1
+    },
+    {
+      "file": "035_1_1_Character_features_and_conventions.pdf",
+      "code": "1.1",
+      "title": "Character features and conventions",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "036_1_2_Conventions_of_comics.pdf",
+      "code": "1.2",
+      "title": "Conventions of comics",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "037_1_3_Resources_required_to_create_characters_an.pdf",
+      "code": "1.3",
+      "title": "Resources required to create characters and comics",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "038_1_4_Pre_production_and_planning_documentation_.pdf",
+      "code": "1.4",
+      "title": "Pre-production and planning documentation and techniques for characters and comics",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "039_2_1_Techniques_to_obtain_and_create_components.pdf",
+      "code": "2.1",
+      "title": "Techniques to obtain and create components for use within comics",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "040_2_2_Technical_skills_to_create_comics.pdf",
+      "code": "2.2",
+      "title": "Technical skills to create comics",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "041_2_3_Techniques_to_save_and_publish_characters_.pdf",
+      "code": "2.3",
+      "title": "Techniques to save and publish characters and comics",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "042_3_1_Techniques_to_check_and_review_characters_.pdf",
+      "code": "3.1",
+      "title": "Techniques to check and review characters and comics",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "043_3_2_Improvements_and_further_developments.pdf",
+      "code": "3.2",
+      "title": "Improvements and further developments",
+      "kind": "decimal",
+      "pages": 8
+    },
+    {
+      "file": "044_Unit_R096_Animation_with_audio.pdf",
+      "code": "Unit R096",
+      "title": "Animation with audio",
+      "kind": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "045_Topic_Area_1_Plan_animation_with_audio.pdf",
+      "code": "Topic Area 1",
+      "title": "Plan animation with audio",
+      "kind": "Topic Area",
+      "pages": 1
+    },
+    {
+      "file": "046_1_1_Features_and_conventions_of_animation_and_.pdf",
+      "code": "1.1",
+      "title": "Features and conventions of animation and audio",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "047_1_2_Resources_required_to_create_animation_wit.pdf",
+      "code": "1.2",
+      "title": "Resources required to create animation with audio",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "048_1_3_Pre_production_and_planning_documentation_.pdf",
+      "code": "1.3",
+      "title": "Pre-production and planning documentation and techniques for animation with audio",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "049_2_1_Techniques_to_obtain_create_and_manage_ass.pdf",
+      "code": "2.1",
+      "title": "Techniques to obtain, create and manage assets",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "050_2_2_Techniques_used_to_create_animation_with_a.pdf",
+      "code": "2.2",
+      "title": "Techniques used to create animation with audio",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "051_2_3_Techniques_to_save_and_export_animation_wi.pdf",
+      "code": "2.3",
+      "title": "Techniques to save and export animation with audio",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "052_3_1_Techniques_to_test_check_and_review_animat.pdf",
+      "code": "3.1",
+      "title": "Techniques to test/check and review animation with audio",
+      "kind": "decimal",
+      "pages": 8
+    },
+    {
+      "file": "053_Unit_R097_Interactive_digital_media.pdf",
+      "code": "Unit R097",
+      "title": "Interactive digital media",
+      "kind": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "054_Topic_Area_1_Plan_interactive_digital_media.pdf",
+      "code": "Topic Area 1",
+      "title": "Plan interactive digital media",
+      "kind": "Topic Area",
+      "pages": 1
+    },
+    {
+      "file": "055_1_1_Types_of_interactive_digital_media_content.pdf",
+      "code": "1.1",
+      "title": "Types of interactive digital media, content and associated hardware",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "056_1_2_Features_and_conventions_of_interactive_di.pdf",
+      "code": "1.2",
+      "title": "Features and conventions of interactive digital media",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "057_1_3_Resources_required_to_create_interactive_d.pdf",
+      "code": "1.3",
+      "title": "Resources required to create interactive digital media products",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "058_1_4_Pre_production_and_planning_documentation_.pdf",
+      "code": "1.4",
+      "title": "Pre-production and planning documentation and techniques for interactive digital media",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "059_2_1_Technical_skills_to_create_and_or_edit_and.pdf",
+      "code": "2.1",
+      "title": "Technical skills to create and/or edit and manage assets for use within interactive digital media products",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "060_2_2_Technical_skills_to_create_interactive_dig.pdf",
+      "code": "2.2",
+      "title": "Technical skills to create interactive digital media",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "061_2_3_Techniques_to_save_and_export_publish_inte.pdf",
+      "code": "2.3",
+      "title": "Techniques to save and export/publish interactive digital media",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "062_3_1_Techniques_to_test_check_and_review_intera.pdf",
+      "code": "3.1",
+      "title": "Techniques to test/check and review interactive digital media",
+      "kind": "decimal",
+      "pages": 9
+    },
+    {
+      "file": "063_Unit_R098_Visual_imaging.pdf",
+      "code": "Unit R098",
+      "title": "Visual imaging",
+      "kind": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "064_Topic_Area_1_Plan_visual_imaging_portfolios.pdf",
+      "code": "Topic Area 1",
+      "title": "Plan visual imaging portfolios",
+      "kind": "Topic Area",
+      "pages": 1
+    },
+    {
+      "file": "065_1_1_Features_and_conventions_of_photographic_i.pdf",
+      "code": "1.1",
+      "title": "Features and conventions of photographic images and videos",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "066_1_2_Content_used_in_visual_imaging_portfolios.pdf",
+      "code": "1.2",
+      "title": "Content used in visual imaging portfolios",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "067_1_3_Equipment_for_capturing_images_and_video.pdf",
+      "code": "1.3",
+      "title": "Equipment for capturing images and video",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "068_1_4_Pre_production_and_planning_documentation_.pdf",
+      "code": "1.4",
+      "title": "Pre-production and planning documentation and techniques for photoshoots and video recordings",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "069_2_1_Techniques_and_tools_to_take_photographs.pdf",
+      "code": "2.1",
+      "title": "Techniques and tools to take photographs",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "070_2_2_Techniques_for_processing_photographic_ima.pdf",
+      "code": "2.2",
+      "title": "Techniques for processing photographic images",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "071_2_3_Techniques_and_tools_to_record_video_foota.pdf",
+      "code": "2.3",
+      "title": "Techniques and tools to record video footage",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "072_2_4_Techniques_and_tools_for_editing_video_foo.pdf",
+      "code": "2.4",
+      "title": "Techniques and tools for editing video footage",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "073_2_5_Techniques_to_save_and_publish_export_port.pdf",
+      "code": "2.5",
+      "title": "Techniques to save and publish/export portfolios of photographs and video sequences",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "074_3_1_Techniques_used_to_check_and_review_visual.pdf",
+      "code": "3.1",
+      "title": "Techniques used to check and review visual imaging portfolios",
+      "kind": "decimal",
+      "pages": 8
+    },
+    {
+      "file": "075_4_8_Unit_R099_Digital_games.pdf",
+      "code": "4.8",
+      "title": "Unit R099: Digital games",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "076_Unit_R099_Digital_games.pdf",
+      "code": "Unit R099",
+      "title": "Digital games",
+      "kind": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "077_Topic_Area_1_Plan_digital_games.pdf",
+      "code": "Topic Area 1",
+      "title": "Plan digital games",
+      "kind": "Topic Area",
+      "pages": 1
+    },
+    {
+      "file": "078_1_1_Types_characteristics_and_conventions_of_d.pdf",
+      "code": "1.1",
+      "title": "Types, characteristics and conventions of digital games",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "079_1_2_Resources_required_to_create_digital_games.pdf",
+      "code": "1.2",
+      "title": "Resources required to create digital games",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "080_1_3_Pre_production_and_planning_documentation_.pdf",
+      "code": "1.3",
+      "title": "Pre-production and planning documentation and techniques for digital games",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "081_2_1_Techniques_to_explain_game_concepts.pdf",
+      "code": "2.1",
+      "title": "Techniques to explain game concepts",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "082_2_2_Technical_skills_to_create_and_or_edit_and.pdf",
+      "code": "2.2",
+      "title": "Technical skills to create and/or edit and manage assets for use within digital games",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "083_2_3_Technical_skills_to_create_digital_games.pdf",
+      "code": "2.3",
+      "title": "Technical skills to create digital games",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "084_2_4_Techniques_to_save_and_export_digital_game.pdf",
+      "code": "2.4",
+      "title": "Techniques to save and export digital games",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "085_3_1_Techniques_to_test_check_and_review_digita.pdf",
+      "code": "3.1",
+      "title": "Techniques to test/check and review digital games",
+      "kind": "decimal",
+      "pages": 13
+    },
+    {
+      "file": "086_6_1_1_Centre_and_teacher_assessor_responsibiliti.pdf",
+      "code": "6.1.1",
+      "title": "Centre and teacher/assessor responsibilities",
+      "kind": "decimal",
+      "pages": 3
+    },
+    {
+      "file": "087_6_2_1_Ways_to_authenticate_work.pdf",
+      "code": "6.2.1",
+      "title": "Ways to authenticate work",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "088_6_2_2_Plagiarism_including_AI_misuse.pdf",
+      "code": "6.2.2",
+      "title": "Plagiarism (including AI misuse)",
+      "kind": "decimal",
+      "pages": 4
+    },
+    {
+      "file": "089_6_3_1_Reporting_suspected_malpractice.pdf",
+      "code": "6.3.1",
+      "title": "Reporting suspected malpractice",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "090_6_3_2_Supervision.pdf",
+      "code": "6.3.2",
+      "title": "Supervision",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "091_6_3_3_Student_and_centre_declarations.pdf",
+      "code": "6.3.3",
+      "title": "Student and centre declarations",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "092_6_3_4_Group_working.pdf",
+      "code": "6.3.4",
+      "title": "Group working",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "093_6_3_5_Methods_of_assessment.pdf",
+      "code": "6.3.5",
+      "title": "Methods of assessment",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "094_6_3_6_Presentation_of_the_final_piece_of_work.pdf",
+      "code": "6.3.6",
+      "title": "Presentation of the final piece of work",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "095_6_4_1_Use_of_a_best_fit_approach_to_marking_crit.pdf",
+      "code": "6.4.1",
+      "title": "Use of a ‘best fit’ approach to marking criteria",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "096_6_4_2_Annotating_students_work.pdf",
+      "code": "6.4.2",
+      "title": "Annotating students' work",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "097_6_4_3_Internal_standardisation.pdf",
+      "code": "6.4.3",
+      "title": "Internal standardisation",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "098_6_4_4_Reattempting_work_before_submitting_marks_.pdf",
+      "code": "6.4.4",
+      "title": "Reattempting work before submitting marks to OCR",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "099_6_4_5_Submitting_marks.pdf",
+      "code": "6.4.5",
+      "title": "Submitting marks",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "100_6_5_1_Sample_requests.pdf",
+      "code": "6.5.1",
+      "title": "Sample requests",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "101_6_5_2_Outcome_of_moderation.pdf",
+      "code": "6.5.2",
+      "title": "Outcome of moderation",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "102_6_6_Resubmitting_moderated_work_to_us_to_impro.pdf",
+      "code": "6.6",
+      "title": "Resubmitting moderated work to us to improve the grade",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "103_6_7_Recording_feedback_and_decisions.pdf",
+      "code": "6.7",
+      "title": "Recording feedback and decisions",
+      "kind": "decimal",
+      "pages": 4
+    },
+    {
+      "file": "104_7_6_1_Making_estimated_unit_entries.pdf",
+      "code": "7.6.1",
+      "title": "Making estimated unit entries",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "105_7_6_2_Making_final_unit_entries.pdf",
+      "code": "7.6.2",
+      "title": "Making final unit entries",
+      "kind": "decimal",
+      "pages": 8
+    }
+  ]
+}

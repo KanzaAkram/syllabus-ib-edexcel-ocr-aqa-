@@ -1,0 +1,259 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 36,
+  "subsections": [
+    {
+      "file": "001_1_2_Assessment_information.pdf",
+      "code": "1.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "002_1_3_Topic_1_Lifestyle_health_and_risk.pdf",
+      "code": "1.3",
+      "title": "Topic 1: Lifestyle, health and risk",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "003_1_4_Topic_2_Genes_and_health.pdf",
+      "code": "1.4",
+      "title": "Topic 2: Genes and health",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "004_2_2_Assessment_information.pdf",
+      "code": "2.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_2_3_Topic_3_The_voice_of_the_genome.pdf",
+      "code": "2.3",
+      "title": "Topic 3: The voice of the genome",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "006_2_4_Topic_4_Biodiversity_and_natural_resources.pdf",
+      "code": "2.4",
+      "title": "Topic 4: Biodiversity and natural resources",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "007_3_2_Assessment_information.pdf",
+      "code": "3.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_3_3_Topic_5_On_the_wild_side.pdf",
+      "code": "3.3",
+      "title": "Topic 5: On the wild side",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "009_3_4_Topic_6_Infection_immunity_and_forensics.pdf",
+      "code": "3.4",
+      "title": "Topic 6: Infection, immunity and forensics",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "010_Topic_7_Run_for.pdf",
+      "code": "Topic 7",
+      "title": "Run for",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "011_4_3_Topic_7_Run_for_your_life.pdf",
+      "code": "4.3",
+      "title": "Topic 7: Run for your life",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "012_4_4_Topic_8_Grey_matter.pdf",
+      "code": "4.4",
+      "title": "Topic 8: Grey matter",
+      "family": "Num",
+      "pages": 4
+    },
+    {
+      "file": "013_5_2_Assessment_information.pdf",
+      "code": "5.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_5_3_Topic_1_Lifestyle_health_and_risk.pdf",
+      "code": "5.3",
+      "title": "Topic 1: Lifestyle, health and risk",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "015_5_4_Topic_2_Genes_and_health.pdf",
+      "code": "5.4",
+      "title": "Topic 2: Genes and health",
+      "family": "Num",
+      "pages": 4
+    },
+    {
+      "file": "016_6_2_Assessment_information.pdf",
+      "code": "6.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_6_3_Topic_3_The_voice_of_the_genome.pdf",
+      "code": "6.3",
+      "title": "Topic 3: The voice of the genome",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "018_6_4_Topic_4_Biodiversity_and_natural_resources.pdf",
+      "code": "6.4",
+      "title": "Topic 4: Biodiversity and natural resources",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "019_7_2_Assessment_information.pdf",
+      "code": "7.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_7_3_Topic_5_On_the_wild_side.pdf",
+      "code": "7.3",
+      "title": "Topic 5: On the wild side",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "021_7_4_Topic_6_Infection_immunity_and_forensics.pdf",
+      "code": "7.4",
+      "title": "Topic 6: Infection, immunity and forensics",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "022_8_1_Unit_description.pdf",
+      "code": "8.1",
+      "title": "Unit description",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "023_8_3_Topic_7_Run_for_your_life.pdf",
+      "code": "8.3",
+      "title": "Topic 7: Run for your life",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "024_8_4_Topic_8_Grey_matter.pdf",
+      "code": "8.4",
+      "title": "Topic 8: Grey matter",
+      "family": "Num",
+      "pages": 5
+    },
+    {
+      "file": "025_9_1_Part_1_Practical_biology_skills.pdf",
+      "code": "9.1",
+      "title": "Part 1: Practical biology skills",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "026_9_2_Part_2_Visit_or_issue_report.pdf",
+      "code": "9.2",
+      "title": "Part 2: Visit or issue report",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "027_9_3_Assessment_criteria.pdf",
+      "code": "9.3",
+      "title": "Assessment criteria",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "028_9_4_Organisation_of_the_visit.pdf",
+      "code": "9.4",
+      "title": "Organisation of the visit",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "029_9_5_Organisation_of_the_issue.pdf",
+      "code": "9.5",
+      "title": "Organisation of the issue",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "030_9_6_The_report_of_the_visit_or_issue.pdf",
+      "code": "9.6",
+      "title": "The report of the visit or issue",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "031_10_1_Practical_biology_and_investigative_skills.pdf",
+      "code": "10.1",
+      "title": "Practical biology and investigative skills",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "032_10_2_Part_2_Individual_investigation_45_marks.pdf",
+      "code": "10.2",
+      "title": "Part 2: Individual investigation (45 marks)",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "033_10_3_Organisation.pdf",
+      "code": "10.3",
+      "title": "Organisation",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "034_10_4_Preparation.pdf",
+      "code": "10.4",
+      "title": "Preparation",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "035_10_6_The_report.pdf",
+      "code": "10.6",
+      "title": "The report",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "036_10_7_Assessment_criteria_for_the_individual_inv.pdf",
+      "code": "10.7",
+      "title": "Assessment criteria for the individual investigation",
+      "family": "Num",
+      "pages": 4
+    }
+  ]
+}

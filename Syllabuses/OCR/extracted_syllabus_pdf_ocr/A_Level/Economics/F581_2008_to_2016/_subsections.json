@@ -1,0 +1,56 @@
+{
+  "method": "font",
+  "sections": 2,
+  "n": 7,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Component_1_Microeconomics_H060.pdf",
+      "code": "2c",
+      "title": "Content of Component 1: Microeconomics (H060/01)",
+      "kind": "overview",
+      "pages": 2
+    },
+    {
+      "file": "002_How_competitive_markets_work.pdf",
+      "code": "",
+      "title": "How competitive markets work",
+      "kind": "rowlabel",
+      "pages": 3
+    },
+    {
+      "file": "003_Market_failure_and_government_intervention.pdf",
+      "code": "",
+      "title": "Market failure and government intervention",
+      "kind": "rowlabel",
+      "pages": 2
+    },
+    {
+      "file": "004_2c_Content_of_Component_2_Macroeconomics_H060.pdf",
+      "code": "2c",
+      "title": "Content of Component 2: Macroeconomics (H060/02)",
+      "kind": "overview",
+      "pages": 2
+    },
+    {
+      "file": "005_Aggregate_demand_and_aggregate_supply.pdf",
+      "code": "",
+      "title": "Aggregate demand and aggregate supply",
+      "kind": "rowlabel",
+      "pages": 2
+    },
+    {
+      "file": "006_The_application_of_policy_instruments.pdf",
+      "code": "",
+      "title": "The application of policy instruments",
+      "kind": "rowlabel",
+      "pages": 2
+    },
+    {
+      "file": "007_The_global_context.pdf",
+      "code": "",
+      "title": "The global context",
+      "kind": "rowlabel",
+      "pages": 2
+    }
+  ]
+}

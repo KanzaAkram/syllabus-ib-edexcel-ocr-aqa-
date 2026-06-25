@@ -1,0 +1,98 @@
+{
+  "method": "font",
+  "sections": 1,
+  "n": 13,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 5
+    },
+    {
+      "file": "002_Topic_1_Number.pdf",
+      "code": "Topic 1",
+      "title": "Number",
+      "family": "Topic",
+      "pages": 5
+    },
+    {
+      "file": "003_Topic_2_Algebra.pdf",
+      "code": "Topic 2",
+      "title": "Algebra",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "004_Topic_3_Geometry.pdf",
+      "code": "Topic 3",
+      "title": "Geometry",
+      "family": "Topic",
+      "pages": 8
+    },
+    {
+      "file": "005_Topic_4_Measures.pdf",
+      "code": "Topic 4",
+      "title": "Measures",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "006_Topic_5_Statistics.pdf",
+      "code": "Topic 5",
+      "title": "Statistics",
+      "family": "Topic",
+      "pages": 4
+    },
+    {
+      "file": "007_Topic_6_Probability.pdf",
+      "code": "Topic 6",
+      "title": "Probability",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "008_Topic_1_Number.pdf",
+      "code": "Topic 1",
+      "title": "Number",
+      "family": "Topic",
+      "pages": 7
+    },
+    {
+      "file": "009_Topic_2_Algebra.pdf",
+      "code": "Topic 2",
+      "title": "Algebra",
+      "family": "Topic",
+      "pages": 5
+    },
+    {
+      "file": "010_Topic_3_Geometry.pdf",
+      "code": "Topic 3",
+      "title": "Geometry",
+      "family": "Topic",
+      "pages": 10
+    },
+    {
+      "file": "011_Topic_4_Measures.pdf",
+      "code": "Topic 4",
+      "title": "Measures",
+      "family": "Topic",
+      "pages": 5
+    },
+    {
+      "file": "012_Topic_5_Statistics.pdf",
+      "code": "Topic 5",
+      "title": "Statistics",
+      "family": "Topic",
+      "pages": 6
+    },
+    {
+      "file": "013_Topic_6_Probability.pdf",
+      "code": "Topic 6",
+      "title": "Probability",
+      "family": "Topic",
+      "pages": 2
+    }
+  ]
+}

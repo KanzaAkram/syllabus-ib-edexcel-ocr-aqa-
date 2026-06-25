@@ -1,0 +1,273 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 38,
+  "subsections": [
+    {
+      "file": "001_Subject_content.pdf",
+      "code": "",
+      "title": "Subject content",
+      "kind": "overview",
+      "pages": 11
+    },
+    {
+      "file": "002_Section_C_Extended_Performing_one_of.pdf",
+      "code": "Section C",
+      "title": "Extended Performing: one of",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "003_Section_B_Instrumental_Composition_maximum_length_th.pdf",
+      "code": "Section B",
+      "title": "Instrumental Composition (maximum length three minutes)",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "004_Section_A_Aural_Extract_one_of.pdf",
+      "code": "Section A",
+      "title": "Aural Extract: one of",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "005_Section_B_Prescribed_Works_two_extracts.pdf",
+      "code": "Section B",
+      "title": "Prescribed Works: two extracts",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "006_Section_C_Contextual_Study_one_question_from_three.pdf",
+      "code": "Section C",
+      "title": "Contextual Study: one question from three",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "007_Section_A_Stylistic_Techniques_exercises_maximum_8_b.pdf",
+      "code": "Section A",
+      "title": "Stylistic Techniques: exercises (maximum 8) based on one of:",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "008_Section_B_Composition_one_of.pdf",
+      "code": "Section B",
+      "title": "Composition: one of:",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "009_Section_A_Recital.pdf",
+      "code": "Section A",
+      "title": "Recital",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "010_Section_B_Discussion_Viva_voce.pdf",
+      "code": "Section B",
+      "title": "Discussion (Viva voce)",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "011_Section_C_Further_performing.pdf",
+      "code": "Section C",
+      "title": "Further performing",
+      "kind": "Section",
+      "pages": 3
+    },
+    {
+      "file": "012_Section_B_Discussion.pdf",
+      "code": "Section B",
+      "title": "Discussion",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "013_Section_C_Section_C.pdf",
+      "code": "Section C",
+      "title": "Section C",
+      "kind": "Section",
+      "pages": 4
+    },
+    {
+      "file": "014_Section_A_The_Language_of_Western_Tonal_Harmony.pdf",
+      "code": "Section A",
+      "title": "The Language of Western Tonal Harmony",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "015_Section_B_Instrumental_Techniques.pdf",
+      "code": "Section B",
+      "title": "Instrumental Techniques",
+      "kind": "Section",
+      "pages": 8
+    },
+    {
+      "file": "016_Section_A_Aural_Extracts.pdf",
+      "code": "Section A",
+      "title": "Aural Extracts",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "017_Section_B_Prescribed_Works.pdf",
+      "code": "Section B",
+      "title": "Prescribed Works",
+      "kind": "Section",
+      "pages": 3
+    },
+    {
+      "file": "018_Section_C_Contextual_Awareness.pdf",
+      "code": "Section C",
+      "title": "Contextual Awareness",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "019_Unit_G351_Performing_Music_1.pdf",
+      "code": "Unit G351",
+      "title": "Performing Music 1.",
+      "kind": "Unit",
+      "pages": 9
+    },
+    {
+      "file": "020_Section_B_Viva_voce.pdf",
+      "code": "Section B",
+      "title": "Viva voce",
+      "kind": "Section",
+      "pages": 4
+    },
+    {
+      "file": "021_Section_A_Stylistic_Techniques.pdf",
+      "code": "Section A",
+      "title": "Stylistic Techniques",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "022_Section_B_Composition.pdf",
+      "code": "Section B",
+      "title": "Composition",
+      "kind": "Section",
+      "pages": 3
+    },
+    {
+      "file": "023_Unit_G356_Historical_and_Analytical_Studies_in_Music.pdf",
+      "code": "Unit G356",
+      "title": "Historical and Analytical Studies in Music, e.g. song accompaniments of the early",
+      "kind": "Unit",
+      "pages": 8
+    },
+    {
+      "file": "024_Section_A_Aural_Extract.pdf",
+      "code": "Section A",
+      "title": "Aural Extract",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "025_Section_B_Historical_Topics.pdf",
+      "code": "Section B",
+      "title": "Historical Topics",
+      "kind": "Section",
+      "pages": 4
+    },
+    {
+      "file": "026_Topic_1_Topic_1.pdf",
+      "code": "Topic 1",
+      "title": "Topic 1:",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "027_Topic_2_Topic_2.pdf",
+      "code": "Topic 2",
+      "title": "Topic 2:",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "028_Topic_3_Topic_3.pdf",
+      "code": "Topic 3",
+      "title": "Topic 3:",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "029_Topic_4_Topic_4.pdf",
+      "code": "Topic 4",
+      "title": "Topic 4:",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "030_Topic_5_Topic_5.pdf",
+      "code": "Topic 5",
+      "title": "Topic 5:",
+      "kind": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "031_Topic_6_Topic_6.pdf",
+      "code": "Topic 6",
+      "title": "Topic 6:",
+      "kind": "Topic",
+      "pages": 20
+    },
+    {
+      "file": "032_Section_A_Solo_Recital.pdf",
+      "code": "Section A",
+      "title": "Solo Recital",
+      "kind": "Section",
+      "pages": 4
+    },
+    {
+      "file": "033_Section_B_Viva_voce_Discussion.pdf",
+      "code": "Section B",
+      "title": "Viva voce (Discussion)",
+      "kind": "Section",
+      "pages": 14
+    },
+    {
+      "file": "034_2_Technique.pdf",
+      "code": "2",
+      "title": "Technique",
+      "kind": "int",
+      "pages": 6
+    },
+    {
+      "file": "035_Section_B_Vocal_Composition_Programme_Music_Film_TV_.pdf",
+      "code": "Section B",
+      "title": "Vocal Composition, Programme Music, Film/TV Composition",
+      "kind": "Section",
+      "pages": 5
+    },
+    {
+      "file": "036_Section_B_Viva_voce_Preparation_Form.pdf",
+      "code": "Section B",
+      "title": "Viva voce Preparation Form",
+      "kind": "Section",
+      "pages": 4
+    },
+    {
+      "file": "037_Unit_G352_Composing_1.pdf",
+      "code": "Unit G352",
+      "title": "Composing 1",
+      "kind": "Unit",
+      "pages": 1
+    },
+    {
+      "file": "038_Unit_G355_Composing_2.pdf",
+      "code": "Unit G355",
+      "title": "Composing 2",
+      "kind": "Unit",
+      "pages": 4
+    }
+  ]
+}

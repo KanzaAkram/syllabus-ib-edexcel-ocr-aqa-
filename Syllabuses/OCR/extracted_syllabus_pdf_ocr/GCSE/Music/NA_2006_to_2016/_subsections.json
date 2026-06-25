@@ -1,0 +1,455 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 64,
+  "subsections": [
+    {
+      "file": "001_Subject_content.pdf",
+      "code": "",
+      "title": "Subject content",
+      "kind": "overview",
+      "pages": 5
+    },
+    {
+      "file": "002_Area_of_study_4_Traditions_and_Innovation.pdf",
+      "code": "Area of study 4",
+      "title": "Traditions and Innovation",
+      "kind": "Area of study",
+      "pages": 3
+    },
+    {
+      "file": "003_1_1_RATIONALE.pdf",
+      "code": "1.1",
+      "title": "RATIONALE",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "004_1_2_CERTIFICATION_TITLE.pdf",
+      "code": "1.2",
+      "title": "CERTIFICATION TITLE",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "005_1_3_LEVEL_OF_QUALIFICATION.pdf",
+      "code": "1.3",
+      "title": "LEVEL OF QUALIFICATION",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "006_1_4_RECOMMENDED_PRIOR_LEARNING.pdf",
+      "code": "1.4",
+      "title": "RECOMMENDED PRIOR LEARNING",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "007_1_5_PROGRESSION.pdf",
+      "code": "1.5",
+      "title": "PROGRESSION",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "008_1_6_OVERLAP_WITH_OTHER_QUALIFICATIONS.pdf",
+      "code": "1.6",
+      "title": "OVERLAP WITH OTHER QUALIFICATIONS",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "009_1_7_RESTRICTIONS_ON_CANDIDATE_ENTRIES.pdf",
+      "code": "1.7",
+      "title": "RESTRICTIONS ON CANDIDATE ENTRIES",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "010_1_8_CODE_OF_PRACTICE_REQUIREMENTS.pdf",
+      "code": "1.8",
+      "title": "CODE OF PRACTICE REQUIREMENTS",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "011_1_9_STATUS_IN_WALES_AND_NORTHERN_IRELAND.pdf",
+      "code": "1.9",
+      "title": "STATUS IN WALES AND NORTHERN IRELAND",
+      "kind": "decimal",
+      "pages": 3
+    },
+    {
+      "file": "012_4_1_TIERS.pdf",
+      "code": "4.1",
+      "title": "TIERS",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "013_4_2_COMPONENTS.pdf",
+      "code": "4.2",
+      "title": "COMPONENTS",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "014_Component_1_Coursework.pdf",
+      "code": "Component 1",
+      "title": "Coursework",
+      "kind": "Component",
+      "pages": 1
+    },
+    {
+      "file": "015_Component_3_Listening_Examination.pdf",
+      "code": "Component 3",
+      "title": "Listening Examination",
+      "kind": "Component",
+      "pages": 1
+    },
+    {
+      "file": "016_4_3_1_Component_1_Coursework.pdf",
+      "code": "4.3.1",
+      "title": "Component 1 - Coursework",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "017_4_3_2_Component_2_Terminal_Task.pdf",
+      "code": "4.3.2",
+      "title": "Component 2 - Terminal Task",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "018_4_4_QUESTION_PAPER.pdf",
+      "code": "4.4",
+      "title": "QUESTION PAPER",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "019_4_5_WEIGHTING_OF_ASSESSMENT_OBJECTIVES.pdf",
+      "code": "4.5",
+      "title": "WEIGHTING OF ASSESSMENT OBJECTIVES",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "020_4_6_ENTRY_OPTIONS.pdf",
+      "code": "4.6",
+      "title": "ENTRY OPTIONS",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "021_4_7_ASSESSMENT_OF_WRITTEN_COMMUNICATION_AND_IC.pdf",
+      "code": "4.7",
+      "title": "ASSESSMENT OF WRITTEN COMMUNICATION AND ICT",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "022_4_8_DIFFERENTIATION.pdf",
+      "code": "4.8",
+      "title": "DIFFERENTIATION",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "023_4_9_AWARDING_OF_GRADES.pdf",
+      "code": "4.9",
+      "title": "AWARDING OF GRADES",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "024_4_10_GRADE_DESCRIPTIONS.pdf",
+      "code": "4.10",
+      "title": "GRADE DESCRIPTIONS",
+      "kind": "decimal",
+      "pages": 3
+    },
+    {
+      "file": "025_Area_of_study_1_Exploiting_the_Resource_5_4_1.pdf",
+      "code": "Area of study 1",
+      "title": "Exploiting the Resource 5.4.1",
+      "kind": "Area of study",
+      "pages": 1
+    },
+    {
+      "file": "026_Area_of_study_2_Techniques_of_Melodic_Composition_5_4_2.pdf",
+      "code": "Area of study 2",
+      "title": "Techniques of Melodic Composition 5.4.2",
+      "kind": "Area of study",
+      "pages": 1
+    },
+    {
+      "file": "027_Area_of_study_3_Dance_Music_5_4_3.pdf",
+      "code": "Area of study 3",
+      "title": "Dance Music 5.4.3",
+      "kind": "Area of study",
+      "pages": 1
+    },
+    {
+      "file": "028_Area_of_study_4_Traditions_and_Innovation_5_4_4.pdf",
+      "code": "Area of study 4",
+      "title": "Traditions and Innovation 5.4.4",
+      "kind": "Area of study",
+      "pages": 1
+    },
+    {
+      "file": "029_5_1_COMPONENT_1_COURSEWORK.pdf",
+      "code": "5.1",
+      "title": "COMPONENT 1 – COURSEWORK",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "030_5_1_1_Part_A_Integrated_Coursework.pdf",
+      "code": "5.1.1",
+      "title": "Part A: Integrated Coursework",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "031_5_1_2_Part_B_Further_Coursework.pdf",
+      "code": "5.1.2",
+      "title": "Part B: Further Coursework",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "032_5_2_COMPONENT_2_TERMINAL_TASK.pdf",
+      "code": "5.2",
+      "title": "COMPONENT 2 – TERMINAL TASK",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "033_5_3_COMPONENT_3_LISTENING_PAPER.pdf",
+      "code": "5.3",
+      "title": "COMPONENT 3 - LISTENING PAPER",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "034_5_4_AREAS_OF_STUDY.pdf",
+      "code": "5.4",
+      "title": "AREAS OF STUDY",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "035_5_4_1_Area_of_Study_1_Exploiting_the_Resource.pdf",
+      "code": "5.4.1",
+      "title": "Area of Study 1 - Exploiting the Resource",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "036_5_4_2_Area_of_Study_2_Techniques_of_Melodic_Comp.pdf",
+      "code": "5.4.2",
+      "title": "Area of Study 2 - Techniques of Melodic Composition",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "037_5_4_3_Area_of_Study_3_Dance_Music.pdf",
+      "code": "5.4.3",
+      "title": "Area of Study 3 - Dance Music",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "038_5_4_4_Area_of_Study_4_Traditions_and_Innovation.pdf",
+      "code": "5.4.4",
+      "title": "Area of Study 4 -Traditions and Innovation",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "039_5_4_5_Areas_of_Study_Assessed_through_Coursework.pdf",
+      "code": "5.4.5",
+      "title": "Areas of Study Assessed through Coursework",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "040_6_1_NATURE_OF_COURSEWORK.pdf",
+      "code": "6.1",
+      "title": "NATURE OF COURSEWORK",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "041_6_2_PRE_MODERATION_MONITORING_OF_COURSEWORK_TA.pdf",
+      "code": "6.2",
+      "title": "PRE MODERATION MONITORING OF COURSEWORK TASKS",
+      "kind": "decimal",
+      "pages": 4
+    },
+    {
+      "file": "042_7_1_SUPERVISION_AND_AUTHENTICATION_OF_COURSEWO.pdf",
+      "code": "7.1",
+      "title": "SUPERVISION AND AUTHENTICATION OF COURSEWORK",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "043_7_2_PRODUCTION_AND_PRESENTATION_OF_INTERNALLY_.pdf",
+      "code": "7.2",
+      "title": "PRODUCTION AND PRESENTATION OF INTERNALLY ASSESSED",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "044_7_3_DIFFERENTIATION_AND_MARKING_OF_COURSEWORK.pdf",
+      "code": "7.3",
+      "title": "DIFFERENTIATION AND MARKING OF COURSEWORK",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "045_7_4_MARKING_CRITERIA_FOR_INTERNALLY_ASSESSED_W.pdf",
+      "code": "7.4",
+      "title": "MARKING CRITERIA FOR INTERNALLY ASSESSED WORK",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "046_7_4_1_Performing_for_Performance_1_in_Component_.pdf",
+      "code": "7.4.1",
+      "title": "Performing (for Performance 1 in Component 1 Integrated Coursework - Part A; and",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "047_7_4_2_Composing_for_Composition_1_in_Component_1.pdf",
+      "code": "7.4.2",
+      "title": "Composing (for Composition 1 in Component 1 Integrated Coursework - Part A; and",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "048_7_4_3_Appraising_in_Component_1_Integrated_Cours.pdf",
+      "code": "7.4.3",
+      "title": "Appraising (in Component 1 Integrated Coursework - Part A)",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "049_7_4_4_Terminal_Task_Respond_and_Communicate_Comp.pdf",
+      "code": "7.4.4",
+      "title": "Terminal Task (Respond and Communicate - Component 2)",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "050_7_4_1_Performing.pdf",
+      "code": "7.4.1",
+      "title": "Performing",
+      "kind": "decimal",
+      "pages": 3
+    },
+    {
+      "file": "051_7_4_2_Composing.pdf",
+      "code": "7.4.2",
+      "title": "Composing",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "052_7_4_3_Appraising.pdf",
+      "code": "7.4.3",
+      "title": "Appraising",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "053_7_4_4_Terminal_Task_Respond_and_Communicate.pdf",
+      "code": "7.4.4",
+      "title": "Terminal Task (Respond and Communicate)",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "054_7_5_MODERATION.pdf",
+      "code": "7.5",
+      "title": "MODERATION",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "055_7_6_MINIMUM_REQUIREMENTS_FOR_INTERNALLY_ASSESS.pdf",
+      "code": "7.6",
+      "title": "MINIMUM REQUIREMENTS FOR INTERNALLY ASSESSED",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "056_8_1_ICT.pdf",
+      "code": "8.1",
+      "title": "ICT",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "057_8_2_CITIZENSHIP.pdf",
+      "code": "8.2",
+      "title": "CITIZENSHIP",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "058_8_3_SPIRITUAL_MORAL_ETHICAL_SOCIAL_AND_CULTURA.pdf",
+      "code": "8.3",
+      "title": "SPIRITUAL, MORAL, ETHICAL, SOCIAL AND CULTURAL",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "059_8_4_HEALTH_SAFETY_AND_ENVIRONMENTAL_ISSUES.pdf",
+      "code": "8.4",
+      "title": "HEALTH, SAFETY AND ENVIRONMENTAL ISSUES",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "060_8_5_THE_EUROPEAN_DIMENSION.pdf",
+      "code": "8.5",
+      "title": "THE EUROPEAN DIMENSION",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "061_1_Exploiting_the_Resource.pdf",
+      "code": "1",
+      "title": "Exploiting the Resource",
+      "kind": "int",
+      "pages": 1
+    },
+    {
+      "file": "062_2_Techniques_of_Melodic_Composition.pdf",
+      "code": "2",
+      "title": "Techniques of Melodic Composition",
+      "kind": "int",
+      "pages": 1
+    },
+    {
+      "file": "063_3_Dance_Music.pdf",
+      "code": "3",
+      "title": "Dance Music",
+      "kind": "int",
+      "pages": 2
+    },
+    {
+      "file": "064_4_Traditions_and_Innovation.pdf",
+      "code": "4",
+      "title": "Traditions and Innovation",
+      "kind": "int",
+      "pages": 15
+    }
+  ]
+}

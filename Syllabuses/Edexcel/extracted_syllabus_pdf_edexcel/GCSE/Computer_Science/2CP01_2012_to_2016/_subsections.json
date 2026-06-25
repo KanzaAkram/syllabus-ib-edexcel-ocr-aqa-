@@ -1,0 +1,133 @@
+{
+  "method": "font",
+  "sections": 1,
+  "n": 18,
+  "subsections": [
+    {
+      "file": "001_1_2_Algorithms.pdf",
+      "code": "1.2",
+      "title": "Algorithms",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "002_2_1_Develop.pdf",
+      "code": "2.1",
+      "title": "Develop",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_2_2_Constructs.pdf",
+      "code": "2.2",
+      "title": "Constructs",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "004_2_3_Data_types.pdf",
+      "code": "2.3",
+      "title": "Data types",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_2_4_Input.pdf",
+      "code": "2.4",
+      "title": "Input/",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_2_5_Operators.pdf",
+      "code": "2.5",
+      "title": "Operators",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_3_1_Binary.pdf",
+      "code": "3.1",
+      "title": "Binary",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_3_2_Data.pdf",
+      "code": "3.2",
+      "title": "Data",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_3_3_Compression.pdf",
+      "code": "3.3",
+      "title": "Compression",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_3_5_Databases.pdf",
+      "code": "3.5",
+      "title": "Databases",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_4_1_Hardware.pdf",
+      "code": "4.1",
+      "title": "Hardware",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "012_4_2_Logic.pdf",
+      "code": "4.2",
+      "title": "Logic",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_4_3_Software.pdf",
+      "code": "4.3",
+      "title": "Software",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_5_1_Networks.pdf",
+      "code": "5.1",
+      "title": "Networks",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "015_5_2_The_internet.pdf",
+      "code": "5.2",
+      "title": "The internet",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_5_3_Client_server.pdf",
+      "code": "5.3",
+      "title": "Client-server",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_6_1_Impact.pdf",
+      "code": "6.1",
+      "title": "Impact",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_6_2_Legal_and.pdf",
+      "code": "6.2",
+      "title": "Legal and",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

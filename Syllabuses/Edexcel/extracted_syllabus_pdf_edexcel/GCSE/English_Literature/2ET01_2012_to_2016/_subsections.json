@@ -1,0 +1,35 @@
+{
+  "method": "legacy",
+  "sections": 1,
+  "n": 4,
+  "subsections": [
+    {
+      "file": "001_Paper_2_where_they_will_be_tested_for_Reading_Copi.pdf",
+      "code": "Paper 2",
+      "title": "where they will be tested for Reading. Copies of this anthology must not be",
+      "family": "Paper",
+      "pages": 3
+    },
+    {
+      "file": "002_Section_A.pdf",
+      "code": "Section A",
+      "title": "",
+      "family": "Section",
+      "pages": 21
+    },
+    {
+      "file": "003_Section_B.pdf",
+      "code": "Section B",
+      "title": "",
+      "family": "Section",
+      "pages": 25
+    },
+    {
+      "file": "004_Section_C.pdf",
+      "code": "Section C",
+      "title": "",
+      "family": "Section",
+      "pages": 22
+    }
+  ]
+}

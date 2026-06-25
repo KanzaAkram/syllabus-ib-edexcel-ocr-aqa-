@@ -1,0 +1,161 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 22,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Topic_1_The_French_Revolution_c1780_99.pdf",
+      "code": "Topic 1",
+      "title": "The French Revolution, c1780–99",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "003_Topic_2_Development_of_a_nation_unification_of_Ita.pdf",
+      "code": "Topic 2",
+      "title": "Development of a nation: unification of Italy, 1848–70",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_3_Germany_development_of_dictatorship_1918_4.pdf",
+      "code": "Topic 3",
+      "title": "Germany: development of dictatorship, 1918–45",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "005_Topic_4_Colonial_rule_and_the_nationalist_challeng.pdf",
+      "code": "Topic 4",
+      "title": "Colonial rule and the nationalist challenge in India, 1919–47",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_5_Dictatorship_and_conflict_in_the_USSR_1924.pdf",
+      "code": "Topic 5",
+      "title": "Dictatorship and conflict in the USSR, 1924–53",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "007_Topic_6_A_world_divided_superpower_relations_1943_.pdf",
+      "code": "Topic 6",
+      "title": "A world divided: superpower relations, 1943–72",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "008_Topic_7_A_divided_union_civil_rights_in_the_USA_19.pdf",
+      "code": "Topic 7",
+      "title": "A divided union: civil rights in the USA, 1945–74",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Topic_8_South_Africa_from_union_to_the_end_of_apar.pdf",
+      "code": "Topic 8",
+      "title": "South Africa: from union to the end of apartheid, 1948–94",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "010_Topic_A1_The_origins_and_course_of_the_First_World_.pdf",
+      "code": "Topic A1",
+      "title": "The origins and course of the First World War, 1905–18",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "011_Topic_A2_Russia_and_the_Soviet_Union_1905_24.pdf",
+      "code": "Topic A2",
+      "title": "Russia and the Soviet Union, 1905–24",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "012_Topic_A3_The_USA_1918_41.pdf",
+      "code": "Topic A3",
+      "title": "The USA, 1918–41",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "013_Topic_A4_The_Vietnam_Conflict_1945_75.pdf",
+      "code": "Topic A4",
+      "title": "The Vietnam Conflict, 1945–75",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "014_Topic_A5_East_Germany_1958_90.pdf",
+      "code": "Topic A5",
+      "title": "East Germany, 1958–90",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "015_Topic_B1_America_from_new_nation_to_divided_union_1.pdf",
+      "code": "Topic B1",
+      "title": "America: from new nation to divided union, 1783–1877",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "016_Topic_B2_Changes_in_medicine_c1848_c1948.pdf",
+      "code": "Topic B2",
+      "title": "Changes in medicine, c1848–c1948",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "017_Topic_B3_Japan_in_transformation_1853_1945.pdf",
+      "code": "Topic B3",
+      "title": "Japan in transformation, 1853–1945",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "018_Topic_B4_China_conflict_crisis_and_change_1900_89.pdf",
+      "code": "Topic B4",
+      "title": "China: conflict, crisis and change, 1900–89",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "019_Topic_B5_The_changing_role_of_international_organis.pdf",
+      "code": "Topic B5",
+      "title": "The changing role of international organisations: the",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "020_Topic_B6_The_changing_nature_of_warfare_and_interna.pdf",
+      "code": "Topic B6",
+      "title": "The changing nature of warfare and international",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "021_Topic_B7_The_Middle_East_conflict_crisis_and_change.pdf",
+      "code": "Topic B7",
+      "title": "The Middle East: conflict, crisis and change, 1917–2012",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "022_Topic_B8_Diversity_rights_and_equality_in_Britain_1.pdf",
+      "code": "Topic B8",
+      "title": "Diversity, rights and equality in Britain, 1914-2010",
+      "family": "Topic",
+      "pages": 2
+    }
+  ]
+}

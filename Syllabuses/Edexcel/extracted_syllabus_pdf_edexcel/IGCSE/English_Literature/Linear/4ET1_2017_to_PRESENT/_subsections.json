@@ -1,0 +1,49 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 6,
+  "subsections": [
+    {
+      "file": "001_Section_A_Unseen_Poetry.pdf",
+      "code": "Section A",
+      "title": "Unseen Poetry",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "002_Section_B_Anthology_Poetry.pdf",
+      "code": "Section B",
+      "title": "Anthology Poetry",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "003_Section_C_Modern_Prose.pdf",
+      "code": "Section C",
+      "title": "Modern Prose",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "004_Section_A_Modern_Drama.pdf",
+      "code": "Section A",
+      "title": "Modern Drama",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "005_Section_B_Literary_Heritage_Texts.pdf",
+      "code": "Section B",
+      "title": "Literary Heritage Texts",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "006_Component_3_Modern_Drama_and_Literary.pdf",
+      "code": "Component 3",
+      "title": "Modern Drama and Literary",
+      "family": "Component",
+      "pages": 5
+    }
+  ]
+}

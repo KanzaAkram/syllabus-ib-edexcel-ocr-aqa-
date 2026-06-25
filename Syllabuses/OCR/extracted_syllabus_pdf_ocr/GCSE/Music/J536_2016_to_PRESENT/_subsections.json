@@ -1,0 +1,28 @@
+{
+  "method": "toc",
+  "sections": 3,
+  "n": 3,
+  "subsections": [
+    {
+      "file": "001_2c_Integrated_portfolio_01_moderated_upload_o.pdf",
+      "code": "2c",
+      "title": "Integrated portfolio (01 moderated upload or 02 moderated postal)",
+      "kind": "section",
+      "pages": 1
+    },
+    {
+      "file": "002_2d_Practical_component_03_moderated_upload_or.pdf",
+      "code": "2d",
+      "title": "Practical component (03 moderated upload or 04 moderated postal)",
+      "kind": "section",
+      "pages": 1
+    },
+    {
+      "file": "003_2e_Listening_and_appraising_05.pdf",
+      "code": "2e",
+      "title": "Listening and appraising (05)",
+      "kind": "section",
+      "pages": 2
+    }
+  ]
+}

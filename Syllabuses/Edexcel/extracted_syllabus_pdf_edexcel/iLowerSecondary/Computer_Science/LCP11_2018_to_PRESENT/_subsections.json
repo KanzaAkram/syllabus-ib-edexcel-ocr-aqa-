@@ -1,0 +1,105 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 14,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_Topic_1_Problem_solving_algorithms_decomposition_a.pdf",
+      "code": "Topic 1",
+      "title": "Problem solving: algorithms, decomposition and abstraction",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "003_Topic_2_Programming_and_development.pdf",
+      "code": "Topic 2",
+      "title": "Programming and development",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "004_Topic_3_Data_representation.pdf",
+      "code": "Topic 3",
+      "title": "Data representation",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "005_Topic_4_Computers_hardware_processing_and_software.pdf",
+      "code": "Topic 4",
+      "title": "Computers: hardware, processing and software",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_5_Communications_and_networks.pdf",
+      "code": "Topic 5",
+      "title": "Communications and networks",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "007_Topic_6_Safe_and_responsible_practice.pdf",
+      "code": "Topic 6",
+      "title": "Safe and responsible practice",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "008_Topic_7_Information_technology.pdf",
+      "code": "Topic 7",
+      "title": "Information technology",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Topic_8_Software_skills_word_processing.pdf",
+      "code": "Topic 8",
+      "title": "Software skills: word processing",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "010_Topic_9_Software_skills_database_management.pdf",
+      "code": "Topic 9",
+      "title": "Software skills: database management",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "011_Topic_11_Software_skills_web_authoring.pdf",
+      "code": "Topic 11",
+      "title": "Software skills: web authoring",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "012_Topic_12_Software_skills_presentation.pdf",
+      "code": "Topic 12",
+      "title": "Software skills: presentation",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "013_Topic_13_Software_skills_graphics_and_digital_photo.pdf",
+      "code": "Topic 13",
+      "title": "Software skills: graphics and digital photo-editing",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "014_Topic_14_Software_skills_file_handling.pdf",
+      "code": "Topic 14",
+      "title": "Software skills: file handling",
+      "family": "Topic",
+      "pages": 2
+    }
+  ]
+}

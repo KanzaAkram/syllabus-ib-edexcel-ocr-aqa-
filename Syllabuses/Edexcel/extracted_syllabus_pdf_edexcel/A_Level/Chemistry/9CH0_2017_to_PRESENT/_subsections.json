@@ -1,0 +1,280 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 39,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 2
+    },
+    {
+      "file": "002_Topic_1_Atomic_Structure_and_the_Periodic_Table.pdf",
+      "code": "Topic 1",
+      "title": "Atomic Structure and the Periodic Table",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "003_Topic_2A_Bonding.pdf",
+      "code": "Topic 2A",
+      "title": "Bonding",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "004_Topic_2B_Structure.pdf",
+      "code": "Topic 2B",
+      "title": "Structure",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "005_Topic_3_Redox_I.pdf",
+      "code": "Topic 3",
+      "title": "Redox I",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "006_Topic_4A_The_elements_of_Groups_1_and_2.pdf",
+      "code": "Topic 4A",
+      "title": "The elements of Groups 1 and 2",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "007_Topic_4B_The_elements_of_Group_7_halogens.pdf",
+      "code": "Topic 4B",
+      "title": "The elements of Group 7 (halogens)",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "008_Topic_4C_Analysis_of_inorganic_compounds.pdf",
+      "code": "Topic 4C",
+      "title": "Analysis of inorganic compounds",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "009_Topic_5_Formulae_Equations_and_Amounts_of_Substanc.pdf",
+      "code": "Topic 5",
+      "title": "Formulae, Equations and Amounts of Substance",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "010_Topic_6A_Introduction_to_organic_chemistry.pdf",
+      "code": "Topic 6A",
+      "title": "Introduction to organic chemistry",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "011_Topic_6B_Alkanes.pdf",
+      "code": "Topic 6B",
+      "title": "Alkanes",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "012_Topic_6C_Alkenes.pdf",
+      "code": "Topic 6C",
+      "title": "Alkenes",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "013_Topic_6D_Halogenoalkanes.pdf",
+      "code": "Topic 6D",
+      "title": "Halogenoalkanes",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "014_Topic_6E_Alcohols.pdf",
+      "code": "Topic 6E",
+      "title": "Alcohols",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "015_Topic_7A_Mass_spectrometry.pdf",
+      "code": "Topic 7A",
+      "title": "Mass spectrometry",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "016_Topic_7B_Infrared_IR_spectroscopy.pdf",
+      "code": "Topic 7B",
+      "title": "Infrared (IR) spectroscopy",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "017_Topic_8_Energetics_I.pdf",
+      "code": "Topic 8",
+      "title": "Energetics I",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "018_Topic_9_Kinetics_I.pdf",
+      "code": "Topic 9",
+      "title": "Kinetics I",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "019_Topic_10_Equilibrium_I.pdf",
+      "code": "Topic 10",
+      "title": "Equilibrium I",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "020_Topic_11_Equilibrium_II.pdf",
+      "code": "Topic 11",
+      "title": "Equilibrium II",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "021_Topic_12_Acid_base_Equilibria.pdf",
+      "code": "Topic 12",
+      "title": "Acid-base Equilibria",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "022_Topic_13A_Lattice_energy.pdf",
+      "code": "Topic 13A",
+      "title": "Lattice energy",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "023_Topic_13B_Entropy.pdf",
+      "code": "Topic 13B",
+      "title": "Entropy",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "024_Topic_14_Redox_II.pdf",
+      "code": "Topic 14",
+      "title": "Redox II",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "025_Topic_15A_Principles_of_transition_metal_chemistry.pdf",
+      "code": "Topic 15A",
+      "title": "Principles of transition metal chemistry",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "026_Topic_15B_Reactions_of_transition_metal_elements.pdf",
+      "code": "Topic 15B",
+      "title": "Reactions of transition metal elements",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "027_Topic_16_Kinetics_II.pdf",
+      "code": "Topic 16",
+      "title": "Kinetics II",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "028_Topic_17A_Chirality.pdf",
+      "code": "Topic 17A",
+      "title": "Chirality",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "029_Topic_17B_Carbonyl_compounds.pdf",
+      "code": "Topic 17B",
+      "title": "Carbonyl compounds",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "030_Topic_17C_Carboxylic_acids.pdf",
+      "code": "Topic 17C",
+      "title": "Carboxylic acids",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "031_Topic_18A_Arenes_benzene.pdf",
+      "code": "Topic 18A",
+      "title": "Arenes - benzene",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "032_Topic_18B_Amines_amides_amino_acids_and_proteins.pdf",
+      "code": "Topic 18B",
+      "title": "Amines, amides, amino acids and proteins",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "033_Topic_18C_Organic_Synthesis.pdf",
+      "code": "Topic 18C",
+      "title": "Organic Synthesis",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "034_Topic_19A_Mass_Spectrometry.pdf",
+      "code": "Topic 19A",
+      "title": "Mass Spectrometry",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "035_Topic_19B_Nuclear_magnetic_resonance_NMR.pdf",
+      "code": "Topic 19B",
+      "title": "Nuclear magnetic resonance (NMR)",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "036_Topic_19C_Chromatography.pdf",
+      "code": "Topic 19C",
+      "title": "Chromatography",
+      "family": "Topic",
+      "pages": 9
+    },
+    {
+      "file": "037_Paper_1_Advanced_Inorganic_and_Physical_Chemistry.pdf",
+      "code": "Paper 1",
+      "title": "Advanced Inorganic and Physical Chemistry",
+      "family": "Paper",
+      "pages": 1
+    },
+    {
+      "file": "038_Paper_2_Advanced_Organic_and_Physical_Chemistry.pdf",
+      "code": "Paper 2",
+      "title": "Advanced Organic and Physical Chemistry",
+      "family": "Paper",
+      "pages": 1
+    },
+    {
+      "file": "039_Paper_3_General_and_Practical_Principles_in_Chemis.pdf",
+      "code": "Paper 3",
+      "title": "General and Practical Principles in Chemistry",
+      "family": "Paper",
+      "pages": 1
+    }
+  ]
+}

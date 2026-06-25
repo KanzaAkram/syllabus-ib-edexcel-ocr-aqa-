@@ -1,0 +1,161 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 22,
+  "subsections": [
+    {
+      "file": "001_1_1_Meeting_customer_needs.pdf",
+      "code": "1.1",
+      "title": "Meeting customer needs",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "002_1_2_Market.pdf",
+      "code": "1.2",
+      "title": "Market",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_3_Marketing_mix_and_strategy.pdf",
+      "code": "1.3",
+      "title": "Marketing mix and strategy",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "004_1_4_Managing_people.pdf",
+      "code": "1.4",
+      "title": "Managing people",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "005_1_5_Entrepreneurs_and_leaders.pdf",
+      "code": "1.5",
+      "title": "Entrepreneurs and leaders",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_2_1_Raising_finance.pdf",
+      "code": "2.1",
+      "title": "Raising finance",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "007_2_2_Financial_planning.pdf",
+      "code": "2.2",
+      "title": "Financial planning",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_2_3_Managing_finance.pdf",
+      "code": "2.3",
+      "title": "Managing finance",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_2_4_Resource_management.pdf",
+      "code": "2.4",
+      "title": "Resource management",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_2_5_External_influences.pdf",
+      "code": "2.5",
+      "title": "External influences",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_3_1_Business_objectives_and_strategy.pdf",
+      "code": "3.1",
+      "title": "Business objectives and strategy",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "012_3_2_Business_growth.pdf",
+      "code": "3.2",
+      "title": "Business growth",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_3_3_Decision_making_techniques.pdf",
+      "code": "3.3",
+      "title": "Decision-making techniques",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_3_4_Influences_on_business_decisions.pdf",
+      "code": "3.4",
+      "title": "Influences on business decisions",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "015_3_5_Assessing_competitiveness.pdf",
+      "code": "3.5",
+      "title": "Assessing competitiveness",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_3_6_Managing_change.pdf",
+      "code": "3.6",
+      "title": "Managing change",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_4_1_Globalisation.pdf",
+      "code": "4.1",
+      "title": "Globalisation",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "018_4_2_Global_markets_and_business_expansion.pdf",
+      "code": "4.2",
+      "title": "Global markets and business expansion",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_4_3_Global_marketing.pdf",
+      "code": "4.3",
+      "title": "Global marketing",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_4_4_Global_industries_and_companies_multinatio.pdf",
+      "code": "4.4",
+      "title": "Global industries and companies (multinational corporations)",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "021_Paper_1_Marketing_people_and_global_businesses.pdf",
+      "code": "Paper 1",
+      "title": "Marketing, people and global businesses",
+      "family": "Paper",
+      "pages": 1
+    },
+    {
+      "file": "022_Paper_2_Business_activities_decisions_and_strategy.pdf",
+      "code": "Paper 2",
+      "title": "Business activities, decisions and strategy",
+      "family": "Paper",
+      "pages": 1
+    }
+  ]
+}

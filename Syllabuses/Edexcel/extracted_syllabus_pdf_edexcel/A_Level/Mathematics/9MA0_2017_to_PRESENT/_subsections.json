@@ -1,0 +1,147 @@
+{
+  "method": "toc",
+  "sections": 1,
+  "n": 20,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 4
+    },
+    {
+      "file": "002_Topic_1_Proof.pdf",
+      "code": "Topic 1",
+      "title": "Proof",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "003_Topic_2_Algebra_and_functions.pdf",
+      "code": "Topic 2",
+      "title": "Algebra and functions",
+      "family": "Topic",
+      "pages": 5
+    },
+    {
+      "file": "004_Topic_3_Coordinate_geometry_in_the_x_y_plane.pdf",
+      "code": "Topic 3",
+      "title": "Coordinate geometry in the (x,y) plane",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "005_Topic_4_Sequences_and_series.pdf",
+      "code": "Topic 4",
+      "title": "Sequences and series",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "006_Topic_5_Trigonometry.pdf",
+      "code": "Topic 5",
+      "title": "Trigonometry",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "007_Topic_6_Exponentials_and_logarithms.pdf",
+      "code": "Topic 6",
+      "title": "Exponentials and logarithms",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "008_Topic_7_Differentiation.pdf",
+      "code": "Topic 7",
+      "title": "Differentiation",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "009_Topic_8_Integration.pdf",
+      "code": "Topic 8",
+      "title": "Integration",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "010_Topic_9_Numerical_methods.pdf",
+      "code": "Topic 9",
+      "title": "Numerical methods",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "011_Topic_10_Vectors.pdf",
+      "code": "Topic 10",
+      "title": "Vectors",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "012_Topic_1_Statistical_sampling.pdf",
+      "code": "Topic 1",
+      "title": "Statistical sampling",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "013_Topic_2_Data_presentation_and_interpretation.pdf",
+      "code": "Topic 2",
+      "title": "Data presentation and interpretation",
+      "family": "Topic",
+      "pages": 3
+    },
+    {
+      "file": "014_Topic_3_Probability.pdf",
+      "code": "Topic 3",
+      "title": "Probability",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "015_Topic_4_Statistical_distributions.pdf",
+      "code": "Topic 4",
+      "title": "Statistical distributions",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "016_Topic_5_Statistical_hypothesis_testing.pdf",
+      "code": "Topic 5",
+      "title": "Statistical hypothesis testing",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "017_Topic_6_Quantities_and_units_in_mechanics.pdf",
+      "code": "Topic 6",
+      "title": "Quantities and units in mechanics",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "018_Topic_7_Kinematics.pdf",
+      "code": "Topic 7",
+      "title": "Kinematics",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "019_Topic_8_Forces_and_Newton_s_laws.pdf",
+      "code": "Topic 8",
+      "title": "Forces and Newton’s laws",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "020_Topic_9_Moments.pdf",
+      "code": "Topic 9",
+      "title": "Moments",
+      "family": "Topic",
+      "pages": 1
+    }
+  ]
+}

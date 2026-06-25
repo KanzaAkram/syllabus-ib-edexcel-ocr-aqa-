@@ -1,0 +1,105 @@
+{
+  "method": "toc",
+  "sections": 3,
+  "n": 14,
+  "subsections": [
+    {
+      "file": "001_2c_Content_of_Research_methods_Component_01.pdf",
+      "code": "2c",
+      "title": "Content of Research methods (Component 01)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "002_1_1_Research_methods.pdf",
+      "code": "1.1",
+      "title": "Research methods",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "003_1_2_Planning_and.pdf",
+      "code": "1.2",
+      "title": "Planning and",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "004_1_3_Data_recording.pdf",
+      "code": "1.3",
+      "title": "Data recording,",
+      "kind": "decimal",
+      "pages": 3
+    },
+    {
+      "file": "005_1_4_Report_writing.pdf",
+      "code": "1.4",
+      "title": "Report writing",
+      "kind": "decimal",
+      "pages": 1
+    },
+    {
+      "file": "006_1_5_Practical_activities.pdf",
+      "code": "1.5",
+      "title": "Practical activities",
+      "kind": "decimal",
+      "pages": 2
+    },
+    {
+      "file": "007_2c_Content_of_Psychological_themes_through_co.pdf",
+      "code": "2c",
+      "title": "Content of Psychological themes through core studies (Component 02)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "008_Section_A_Core_studies.pdf",
+      "code": "Section A",
+      "title": "Core studies",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "009_Section_B_Areas_perspectives_and_debates.pdf",
+      "code": "Section B",
+      "title": "Areas, perspectives and debates",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "010_Section_C_Practical_applications.pdf",
+      "code": "Section C",
+      "title": "Practical applications",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "011_2c_Content_of_Applied_psychology_Component_03.pdf",
+      "code": "2c",
+      "title": "Content of Applied psychology (Component 03)",
+      "kind": "overview",
+      "pages": 1
+    },
+    {
+      "file": "012_Section_A_Issues_in_mental_health_compulsory.pdf",
+      "code": "Section A",
+      "title": "Issues in mental health (compulsory)",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "013_Section_B_Option_1_Child_psychology_choose_two_out_o.pdf",
+      "code": "Section B",
+      "title": "Option 1 Child psychology (choose two out of the four options)",
+      "kind": "Section",
+      "pages": 2
+    },
+    {
+      "file": "014_Section_B_Option_3_Environmental_psychology_choose_t.pdf",
+      "code": "Section B",
+      "title": "Option 3 Environmental psychology (choose two out of the four options)",
+      "kind": "Section",
+      "pages": 2
+    }
+  ]
+}

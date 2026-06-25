@@ -1,0 +1,63 @@
+{
+  "method": "toc",
+  "sections": 8,
+  "n": 8,
+  "subsections": [
+    {
+      "file": "001_2c_Philosophy_of_religion_H573_01.pdf",
+      "code": "2c",
+      "title": "Philosophy of religion (H573/01)",
+      "kind": "section",
+      "pages": 10
+    },
+    {
+      "file": "002_2c_Religion_and_ethics_H573_02.pdf",
+      "code": "2c",
+      "title": "Religion and ethics (H573/02)",
+      "kind": "section",
+      "pages": 11
+    },
+    {
+      "file": "003_2c_Developments_in_religious_thought_H573_03_.pdf",
+      "code": "2c",
+      "title": "Developments in religious thought (H573/03–07)",
+      "kind": "section",
+      "pages": 1
+    },
+    {
+      "file": "004_2c_Developments_in_Christian_thought_H573_03.pdf",
+      "code": "2c",
+      "title": "Developments in Christian thought (H573/03)",
+      "kind": "section",
+      "pages": 13
+    },
+    {
+      "file": "005_2c_Developments_in_Islamic_thought_H573_04.pdf",
+      "code": "2c",
+      "title": "Developments in Islamic thought (H573/04)",
+      "kind": "section",
+      "pages": 14
+    },
+    {
+      "file": "006_2c_Developments_in_Jewish_thought_H573_05.pdf",
+      "code": "2c",
+      "title": "Developments in Jewish thought (H573/05)",
+      "kind": "section",
+      "pages": 15
+    },
+    {
+      "file": "007_2c_Developments_in_Buddhist_thought_H573_06.pdf",
+      "code": "2c",
+      "title": "Developments in Buddhist thought (H573/06)",
+      "kind": "section",
+      "pages": 13
+    },
+    {
+      "file": "008_2c_Developments_in_Hindu_thought_H573_07.pdf",
+      "code": "2c",
+      "title": "Developments in Hindu thought (H573/07)",
+      "kind": "section",
+      "pages": 14
+    }
+  ]
+}

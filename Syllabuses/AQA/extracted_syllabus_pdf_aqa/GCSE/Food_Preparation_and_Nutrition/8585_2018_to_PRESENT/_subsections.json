@@ -1,0 +1,120 @@
+{
+  "method": "toc",
+  "n": 19,
+  "subsections": [
+    {
+      "file": "001_3.1_Food_preparation_skills.pdf",
+      "code": "3.1",
+      "title": "Food preparation skills",
+      "pages": 5
+    },
+    {
+      "file": "002_3.2_Food_nutrition_and_health.pdf",
+      "code": "3.2",
+      "title": "Food, nutrition and health",
+      "pages": 1
+    },
+    {
+      "file": "003_3.2.1_Macronutrients.pdf",
+      "code": "3.2.1",
+      "title": "Macronutrients",
+      "pages": 2
+    },
+    {
+      "file": "004_3.2.2_Micronutrients.pdf",
+      "code": "3.2.2",
+      "title": "Micronutrients",
+      "pages": 2
+    },
+    {
+      "file": "005_3.2.3_Nutritional_needs_and_health.pdf",
+      "code": "3.2.3",
+      "title": "Nutritional needs and health",
+      "pages": 2
+    },
+    {
+      "file": "006_3.3_Food_science.pdf",
+      "code": "3.3",
+      "title": "Food science",
+      "pages": 1
+    },
+    {
+      "file": "007_3.3.1_Cooking_of_food_and_heat_transfer.pdf",
+      "code": "3.3.1",
+      "title": "Cooking of food and heat transfer",
+      "pages": 2
+    },
+    {
+      "file": "008_3.3.2_Functional_and_chemical_properties_of_fo.pdf",
+      "code": "3.3.2",
+      "title": "Functional and chemical properties of food",
+      "pages": 3
+    },
+    {
+      "file": "009_3.4_Food_safety.pdf",
+      "code": "3.4",
+      "title": "Food safety",
+      "pages": 1
+    },
+    {
+      "file": "010_3.4.1_Food_spoilage_and_contamination.pdf",
+      "code": "3.4.1",
+      "title": "Food spoilage and contamination",
+      "pages": 2
+    },
+    {
+      "file": "011_3.4.2_Principles_of_food_safety.pdf",
+      "code": "3.4.2",
+      "title": "Principles of food safety",
+      "pages": 3
+    },
+    {
+      "file": "012_3.5_Food_choice.pdf",
+      "code": "3.5",
+      "title": "Food choice",
+      "pages": 1
+    },
+    {
+      "file": "013_3.5.1_Factors_affecting_food_choice.pdf",
+      "code": "3.5.1",
+      "title": "Factors affecting food choice",
+      "pages": 2
+    },
+    {
+      "file": "014_3.5.2_British_and_international_cuisines.pdf",
+      "code": "3.5.2",
+      "title": "British and international cuisines",
+      "pages": 1
+    },
+    {
+      "file": "015_3.5.3_Sensory_evaluation.pdf",
+      "code": "3.5.3",
+      "title": "Sensory evaluation",
+      "pages": 1
+    },
+    {
+      "file": "016_3.6_Food_provenance.pdf",
+      "code": "3.6",
+      "title": "Food provenance",
+      "pages": 1
+    },
+    {
+      "file": "017_3.6.1_Environmental_impact_and_sustainability_.pdf",
+      "code": "3.6.1",
+      "title": "Environmental impact and sustainability of food",
+      "pages": 2
+    },
+    {
+      "file": "018_3.6.2_Food_processing_and_production.pdf",
+      "code": "3.6.2",
+      "title": "Food processing and production",
+      "pages": 2
+    },
+    {
+      "file": "019_3.7_Food_preparation_and_cooking_techniques.pdf",
+      "code": "3.7",
+      "title": "Food preparation and cooking techniques",
+      "pages": 1
+    }
+  ]
+}

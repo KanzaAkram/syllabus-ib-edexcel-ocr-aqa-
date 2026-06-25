@@ -1,0 +1,35 @@
+{
+  "method": "font",
+  "sections": 1,
+  "n": 4,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Component_1_Devising.pdf",
+      "code": "Component 1",
+      "title": "Devising",
+      "family": "Component",
+      "pages": 8
+    },
+    {
+      "file": "003_Component_2_Text_in_Performance.pdf",
+      "code": "Component 2",
+      "title": "Text in Performance",
+      "family": "Component",
+      "pages": 23
+    },
+    {
+      "file": "004_Component_3_Theatre_Makers_in_Practice.pdf",
+      "code": "Component 3",
+      "title": "Theatre Makers in Practice",
+      "family": "Component",
+      "pages": 23
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "method": "font",
+  "sections": 3,
+  "n": 2,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Unit_1_Qualification_content_A.pdf",
+      "code": "Unit 1",
+      "title": "Qualification content A",
+      "family": "Unit",
+      "pages": 3
+    }
+  ]
+}

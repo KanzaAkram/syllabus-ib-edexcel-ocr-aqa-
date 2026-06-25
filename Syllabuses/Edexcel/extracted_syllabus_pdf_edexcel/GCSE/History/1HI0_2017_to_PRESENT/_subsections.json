@@ -1,0 +1,133 @@
+{
+  "method": "numbered",
+  "sections": 1,
+  "n": 18,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Option_10_Crime_and_punishment_in_Britain_c1000_pres.pdf",
+      "code": "Option 10",
+      "title": "Crime and punishment in Britain, c1000–present and Whitechapel, c1870-c1900: crime, policing and",
+      "family": "Option",
+      "pages": 4
+    },
+    {
+      "file": "003_Option_11_Medicine_in_Britain_c1250_present_and_The_.pdf",
+      "code": "Option 11",
+      "title": "Medicine in Britain, c1250–present and The British sector of the Western Front, 1914–18: injuries, treatment and the trenches",
+      "family": "Option",
+      "pages": 4
+    },
+    {
+      "file": "004_Option_12_Warfare_and_British_society_c1250_present_.pdf",
+      "code": "Option 12",
+      "title": "Warfare and British society, c1250–present and London and the Second World War, 1939–45",
+      "family": "Option",
+      "pages": 4
+    },
+    {
+      "file": "005_Option_13_Migrants_in_Britain_c800_present_and_Notti.pdf",
+      "code": "Option 13",
+      "title": "Migrants in Britain, c800–present and Notting Hill, c1948–c1970",
+      "family": "Option",
+      "pages": 4
+    },
+    {
+      "file": "006_Option_B1_Anglo_Saxon_and_Norman_England_c1060_88.pdf",
+      "code": "Option B1",
+      "title": "Anglo-Saxon and Norman England, c1060–88",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "007_Option_B2_The_reigns_of_King_Richard_I_and_King_John.pdf",
+      "code": "Option B2",
+      "title": "The reigns of King Richard I and King John,",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "008_Option_B3_Henry_VIII_and_his_ministers_1509_40.pdf",
+      "code": "Option B3",
+      "title": "Henry VIII and his ministers, 1509–40",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "009_Option_B4_Early_Elizabethan_England_1558_88.pdf",
+      "code": "Option B4",
+      "title": "Early Elizabethan England, 1558–88",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "010_Option_P1_Spain_and_the_New_World_c1490_c1555.pdf",
+      "code": "Option P1",
+      "title": "Spain and the ‘New World’, c1490–c1555",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "011_Option_P2_British_America_1713_83_empire_and_revolut.pdf",
+      "code": "Option P2",
+      "title": "British America, 1713–83: empire and revolution",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "012_Option_P3_The_American_West_c1835_c1895.pdf",
+      "code": "Option P3",
+      "title": "The American West, c1835–c1895",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "013_Option_P4_Superpower_relations_and_the_Cold_War_1941.pdf",
+      "code": "Option P4",
+      "title": "Superpower relations and the Cold War, 1941–91",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "014_Option_P5_Conflict_in_the_Middle_East_1945_95.pdf",
+      "code": "Option P5",
+      "title": "Conflict in the Middle East, 1945–95",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "015_Option_30_Russia_and_the_Soviet_Union_1917_41.pdf",
+      "code": "Option 30",
+      "title": "Russia and the Soviet Union, 1917–41",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "016_Option_31_Weimar_and_Nazi_Germany_1918_39.pdf",
+      "code": "Option 31",
+      "title": "Weimar and Nazi Germany, 1918–39",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "017_Option_32_Mao_s_China_1945_76.pdf",
+      "code": "Option 32",
+      "title": "Mao’s China, 1945–76",
+      "family": "Option",
+      "pages": 3
+    },
+    {
+      "file": "018_Option_33_The_USA_1954_75_conflict_at_home_and_abroa.pdf",
+      "code": "Option 33",
+      "title": "The USA, 1954–75: conflict at home and abroad",
+      "family": "Option",
+      "pages": 3
+    }
+  ]
+}

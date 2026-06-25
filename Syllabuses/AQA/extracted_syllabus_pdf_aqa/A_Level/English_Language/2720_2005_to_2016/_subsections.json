@@ -1,0 +1,30 @@
+{
+  "method": "toc",
+  "n": 4,
+  "subsections": [
+    {
+      "file": "001_3.1_Unit_1_ELLA1_Integrated_Analysis_and_Tex.pdf",
+      "code": "3.1",
+      "title": "Unit 1 ELLA1 - Integrated Analysis and Text Production",
+      "pages": 1
+    },
+    {
+      "file": "002_3.2_Unit_2_ELLA2_Analysing_Speech_and_Its_Re.pdf",
+      "code": "3.2",
+      "title": "Unit 2 ELLA2 - Analysing Speech and Its Representation",
+      "pages": 1
+    },
+    {
+      "file": "003_3.3_Unit_3_ELLA3_Comparative_Analysis_and_Te.pdf",
+      "code": "3.3",
+      "title": "Unit 3 ELLA3 - Comparative Analysis and Text Adaptation",
+      "pages": 1
+    },
+    {
+      "file": "004_3.4_Unit_4_ELLA4_Comparative_Analysis_throug.pdf",
+      "code": "3.4",
+      "title": "Unit 4 ELLA4 - Comparative Analysis through Independent Study",
+      "pages": 4
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "method": "toc",
+  "n": 21,
+  "subsections": [
+    {
+      "file": "001_3.1_Education_with_Methods_in_Context.pdf",
+      "code": "3.1",
+      "title": "Education with Methods in Context",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Education.pdf",
+      "code": "3.1.1",
+      "title": "Education",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_Methods_in_Context.pdf",
+      "code": "3.1.2",
+      "title": "Methods in Context",
+      "pages": 1
+    },
+    {
+      "file": "004_3.2.1_Research_Methods.pdf",
+      "code": "3.2.1",
+      "title": "Research Methods",
+      "pages": 1
+    },
+    {
+      "file": "005_3.2.2_Topics_in_Sociology.pdf",
+      "code": "3.2.2",
+      "title": "Topics in Sociology",
+      "pages": 2
+    },
+    {
+      "file": "006_4.1_Education_with_Theory_and_Methods.pdf",
+      "code": "4.1",
+      "title": "Education with Theory and Methods",
+      "pages": 1
+    },
+    {
+      "file": "007_4.1.1_Education.pdf",
+      "code": "4.1.1",
+      "title": "Education",
+      "pages": 1
+    },
+    {
+      "file": "008_4.1.2_Methods_in_Context.pdf",
+      "code": "4.1.2",
+      "title": "Methods in Context",
+      "pages": 1
+    },
+    {
+      "file": "009_4.1.3_Theory_and_Methods.pdf",
+      "code": "4.1.3",
+      "title": "Theory and Methods",
+      "pages": 1
+    },
+    {
+      "file": "010_4.2_Topics_in_Sociology.pdf",
+      "code": "4.2",
+      "title": "Topics in Sociology",
+      "pages": 2
+    },
+    {
+      "file": "011_4.2.1_Culture_and_Identity.pdf",
+      "code": "4.2.1",
+      "title": "Culture and Identity",
+      "pages": 1
+    },
+    {
+      "file": "012_4.2.2_Families_and_Households.pdf",
+      "code": "4.2.2",
+      "title": "Families and Households",
+      "pages": 1
+    },
+    {
+      "file": "013_4.2.3_Health.pdf",
+      "code": "4.2.3",
+      "title": "Health",
+      "pages": 1
+    },
+    {
+      "file": "014_4.2.4_Work_Poverty_and_Welfare.pdf",
+      "code": "4.2.4",
+      "title": "Work, Poverty and Welfare",
+      "pages": 1
+    },
+    {
+      "file": "015_4.2.5_Beliefs_in_Society.pdf",
+      "code": "4.2.5",
+      "title": "Beliefs in Society",
+      "pages": 1
+    },
+    {
+      "file": "016_4.2.6_Global_Development.pdf",
+      "code": "4.2.6",
+      "title": "Global Development",
+      "pages": 1
+    },
+    {
+      "file": "017_4.2.7_The_Media.pdf",
+      "code": "4.2.7",
+      "title": "The Media",
+      "pages": 1
+    },
+    {
+      "file": "018_4.2.8_Stratification_and_Differentiation.pdf",
+      "code": "4.2.8",
+      "title": "Stratification and Differentiation",
+      "pages": 1
+    },
+    {
+      "file": "019_4.3_Crime_and_Deviance_with_Theory_and_Metho.pdf",
+      "code": "4.3",
+      "title": "Crime and Deviance with Theory and Methods",
+      "pages": 1
+    },
+    {
+      "file": "020_4.3.1_Crime_and_Deviance.pdf",
+      "code": "4.3.1",
+      "title": "Crime and Deviance",
+      "pages": 1
+    },
+    {
+      "file": "021_4.3.2_Theory_and_Methods.pdf",
+      "code": "4.3.2",
+      "title": "Theory and Methods",
+      "pages": 2
+    }
+  ]
+}

@@ -1,0 +1,441 @@
+{
+  "method": "font",
+  "sections": 1,
+  "n": 62,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_1_1_There_are.pdf",
+      "code": "1.1",
+      "title": "There are",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "003_1_2_A_number_of.pdf",
+      "code": "1.2",
+      "title": "A number of",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "004_1_3_A_variety_of.pdf",
+      "code": "1.3",
+      "title": "A variety of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "005_1_4_Coastal_erosion.pdf",
+      "code": "1.4",
+      "title": "Coastal erosion",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "006_1_5_Human_activities.pdf",
+      "code": "1.5",
+      "title": "Human activities",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_1_6_Distinctive.pdf",
+      "code": "1.6",
+      "title": "Distinctive",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "008_1_7_A_variety_of.pdf",
+      "code": "1.7",
+      "title": "A variety of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "009_1_8_Erosion_and.pdf",
+      "code": "1.8",
+      "title": "Erosion and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "010_1_9_Human_activities.pdf",
+      "code": "1.9",
+      "title": "Human activities",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "011_1_10_Distinctive_river.pdf",
+      "code": "1.10",
+      "title": "Distinctive river",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "012_1_11_A_variety_of.pdf",
+      "code": "1.11",
+      "title": "A variety of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "013_1_12_Glacial_erosion.pdf",
+      "code": "1.12",
+      "title": "Glacial erosion",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "014_1_13_Human_activities.pdf",
+      "code": "1.13",
+      "title": "Human activities",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "015_1_14_Distinctive.pdf",
+      "code": "1.14",
+      "title": "Distinctive",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "016_2_1_The_atmosphere.pdf",
+      "code": "2.1",
+      "title": "The atmosphere",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "017_2_2_The_global.pdf",
+      "code": "2.2",
+      "title": "The global",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "018_2_3_Global_climate_is.pdf",
+      "code": "2.3",
+      "title": "Global climate is",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "019_2_4_The_UK_has_a.pdf",
+      "code": "2.4",
+      "title": "The UK has a",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_2_5_Tropical.pdf",
+      "code": "2.5",
+      "title": "Tropical",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "021_2_6_There_are.pdf",
+      "code": "2.6",
+      "title": "There are",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "022_2_7_The_causes_of.pdf",
+      "code": "2.7",
+      "title": "The causes of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "023_2_8_The_impacts_of.pdf",
+      "code": "2.8",
+      "title": "The impacts of,",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "024_3_1_Large_scale.pdf",
+      "code": "3.1",
+      "title": "Large-scale",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "025_3_2_The_biosphere_is.pdf",
+      "code": "3.2",
+      "title": "The biosphere is",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "026_3_3_The_UK_has_its.pdf",
+      "code": "3.3",
+      "title": "The UK has its",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "027_3_4_Tropical.pdf",
+      "code": "3.4",
+      "title": "Tropical",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "028_3_5_Tropical.pdf",
+      "code": "3.5",
+      "title": "Tropical",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "029_3_6_Deciduous.pdf",
+      "code": "3.6",
+      "title": "Deciduous",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "030_3_7_Deciduous.pdf",
+      "code": "3.7",
+      "title": "Deciduous",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "031_4_1_Urbanisation_is.pdf",
+      "code": "4.1",
+      "title": "Urbanisation is",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "032_4_2_The_degree_of.pdf",
+      "code": "4.2",
+      "title": "The degree of",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "033_4_3_The_context_of.pdf",
+      "code": "4.3",
+      "title": "The context of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "034_4_4_The_chosen_UK.pdf",
+      "code": "4.4",
+      "title": "The chosen UK",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "035_4_5_Globalisation.pdf",
+      "code": "4.5",
+      "title": "Globalisation",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "036_4_6_The_context_of.pdf",
+      "code": "4.6",
+      "title": "The context of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "037_4_7_The_character_of.pdf",
+      "code": "4.7",
+      "title": "The character of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "038_4_8_Rapid_growth.pdf",
+      "code": "4.8",
+      "title": "Rapid growth,",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "039_5_1_Definitions_of.pdf",
+      "code": "5.1",
+      "title": "Definitions of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "040_5_2_The_level_of.pdf",
+      "code": "5.2",
+      "title": "The level of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "041_5_3_Uneven_global.pdf",
+      "code": "5.3",
+      "title": "Uneven global",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "042_5_4_A_range_of.pdf",
+      "code": "5.4",
+      "title": "A range of",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "043_5_5_The_level_of.pdf",
+      "code": "5.5",
+      "title": "The level of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "044_5_6_The_interactions_of.pdf",
+      "code": "5.6",
+      "title": "The interactions of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "045_5_7_Changing.pdf",
+      "code": "5.7",
+      "title": "Changing",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "046_5_8_There_are_positive.pdf",
+      "code": "5.8",
+      "title": "There are positive",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "047_6_1_A_natural.pdf",
+      "code": "6.1",
+      "title": "A natural",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "048_6_2_The_patterns_of.pdf",
+      "code": "6.2",
+      "title": "The patterns of",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "049_6_3_Renewable_and.pdf",
+      "code": "6.3",
+      "title": "Renewable and",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "050_6_4_To_meet.pdf",
+      "code": "6.4",
+      "title": "To meet",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "051_6_5_There_is.pdf",
+      "code": "6.5",
+      "title": "There is",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "052_6_6_Meeting_the.pdf",
+      "code": "6.6",
+      "title": "Meeting the",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "053_6_7_Management.pdf",
+      "code": "6.7",
+      "title": "Management",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "054_6_8_The_supply_of_fresh.pdf",
+      "code": "6.8",
+      "title": "The supply of fresh",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "055_6_9_There_are.pdf",
+      "code": "6.9",
+      "title": "There are",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "056_6_10_Countries_at.pdf",
+      "code": "6.10",
+      "title": "Countries at",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "057_6_11_Meeting_the.pdf",
+      "code": "6.11",
+      "title": "Meeting the",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "058_6_12_Management_and.pdf",
+      "code": "6.12",
+      "title": "Management and",
+      "family": "Num",
+      "pages": 5
+    },
+    {
+      "file": "059_8_1_The_UK_s.pdf",
+      "code": "8.1",
+      "title": "The UK’s",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "060_8_2_The_UK.pdf",
+      "code": "8.2",
+      "title": "The UK",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "061_8_3_The_UK_s.pdf",
+      "code": "8.3",
+      "title": "The UK’s",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "062_8_4_The_UK_s.pdf",
+      "code": "8.4",
+      "title": "The UK’s",
+      "family": "Num",
+      "pages": 1
+    }
+  ]
+}

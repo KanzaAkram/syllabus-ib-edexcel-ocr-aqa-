@@ -1,0 +1,77 @@
+{
+  "method": "toc",
+  "sections": 5,
+  "n": 10,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Section_A.pdf",
+      "code": "Section A",
+      "title": "",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "003_Section_B.pdf",
+      "code": "Section B",
+      "title": "",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "004_Section_C.pdf",
+      "code": "Section C",
+      "title": "",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "005_Section_C.pdf",
+      "code": "Section C",
+      "title": "",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "006_Paper_2.pdf",
+      "code": "Paper 2",
+      "title": "",
+      "family": "Paper",
+      "pages": 2
+    },
+    {
+      "file": "007_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "008_Paper_3_Written_Coursework.pdf",
+      "code": "Paper 3",
+      "title": "Written Coursework",
+      "family": "Paper",
+      "pages": 4
+    },
+    {
+      "file": "009_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "010_Paper_4_Speaking_and_Listening_Coursework.pdf",
+      "code": "Paper 4",
+      "title": "Speaking and Listening Coursework",
+      "family": "Paper",
+      "pages": 1
+    }
+  ]
+}

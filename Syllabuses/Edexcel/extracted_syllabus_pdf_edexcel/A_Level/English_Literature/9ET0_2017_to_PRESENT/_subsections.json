@@ -1,0 +1,28 @@
+{
+  "method": "font",
+  "sections": 1,
+  "n": 3,
+  "subsections": [
+    {
+      "file": "001_Component_1_Drama.pdf",
+      "code": "Component 1",
+      "title": "Drama",
+      "family": "Component",
+      "pages": 3
+    },
+    {
+      "file": "002_Component_2_Prose.pdf",
+      "code": "Component 2",
+      "title": "Prose",
+      "family": "Component",
+      "pages": 3
+    },
+    {
+      "file": "003_Component_3_Poetry.pdf",
+      "code": "Component 3",
+      "title": "Poetry",
+      "family": "Component",
+      "pages": 3
+    }
+  ]
+}

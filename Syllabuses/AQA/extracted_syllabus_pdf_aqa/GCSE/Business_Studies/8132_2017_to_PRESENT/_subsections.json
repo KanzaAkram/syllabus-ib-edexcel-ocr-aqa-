@@ -1,0 +1,216 @@
+{
+  "method": "toc",
+  "n": 35,
+  "subsections": [
+    {
+      "file": "001_3.1_Business_in_the_real_world.pdf",
+      "code": "3.1",
+      "title": "Business in the real world",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_The_purpose_and_nature_of_businesses.pdf",
+      "code": "3.1.1",
+      "title": "The purpose and nature of businesses",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_Business_ownership.pdf",
+      "code": "3.1.2",
+      "title": "Business ownership",
+      "pages": 1
+    },
+    {
+      "file": "004_3.1.3_Setting_business_aims_and_objectives.pdf",
+      "code": "3.1.3",
+      "title": "Setting business aims and objectives",
+      "pages": 1
+    },
+    {
+      "file": "005_3.1.4_Stakeholders.pdf",
+      "code": "3.1.4",
+      "title": "Stakeholders",
+      "pages": 1
+    },
+    {
+      "file": "006_3.1.5_Business_location.pdf",
+      "code": "3.1.5",
+      "title": "Business location",
+      "pages": 1
+    },
+    {
+      "file": "007_3.1.6_Business_planning.pdf",
+      "code": "3.1.6",
+      "title": "Business planning",
+      "pages": 1
+    },
+    {
+      "file": "008_3.1.7_Expanding_a_business.pdf",
+      "code": "3.1.7",
+      "title": "Expanding a business",
+      "pages": 1
+    },
+    {
+      "file": "009_3.2_Influences_on_business.pdf",
+      "code": "3.2",
+      "title": "Influences on business",
+      "pages": 1
+    },
+    {
+      "file": "010_3.2.1_Technology.pdf",
+      "code": "3.2.1",
+      "title": "Technology",
+      "pages": 1
+    },
+    {
+      "file": "011_3.2.2_Ethical_and_environmental_considerations.pdf",
+      "code": "3.2.2",
+      "title": "Ethical and environmental considerations",
+      "pages": 1
+    },
+    {
+      "file": "012_3.2.3_The_economic_climate_on_businesses.pdf",
+      "code": "3.2.3",
+      "title": "The economic climate on businesses",
+      "pages": 1
+    },
+    {
+      "file": "013_3.2.4_Globalisation.pdf",
+      "code": "3.2.4",
+      "title": "Globalisation",
+      "pages": 1
+    },
+    {
+      "file": "014_3.2.5_Legislation.pdf",
+      "code": "3.2.5",
+      "title": "Legislation",
+      "pages": 1
+    },
+    {
+      "file": "015_3.2.6_Competitive_environment.pdf",
+      "code": "3.2.6",
+      "title": "Competitive environment",
+      "pages": 1
+    },
+    {
+      "file": "016_3.3_Business_operations.pdf",
+      "code": "3.3",
+      "title": "Business operations",
+      "pages": 1
+    },
+    {
+      "file": "017_3.3.1_Production_processes.pdf",
+      "code": "3.3.1",
+      "title": "Production processes",
+      "pages": 1
+    },
+    {
+      "file": "018_3.3.2_The_role_of_procurement.pdf",
+      "code": "3.3.2",
+      "title": "The role of procurement",
+      "pages": 1
+    },
+    {
+      "file": "019_3.3.3_The_concept_of_quality.pdf",
+      "code": "3.3.3",
+      "title": "The concept of quality",
+      "pages": 2
+    },
+    {
+      "file": "020_3.3.4_Good_customer_services.pdf",
+      "code": "3.3.4",
+      "title": "Good customer services",
+      "pages": 1
+    },
+    {
+      "file": "021_3.4_Human_resources.pdf",
+      "code": "3.4",
+      "title": "Human resources",
+      "pages": 1
+    },
+    {
+      "file": "022_3.4.1_Organisational_structures.pdf",
+      "code": "3.4.1",
+      "title": "Organisational structures",
+      "pages": 1
+    },
+    {
+      "file": "023_3.4.2_Recruitment_and_selection_of_employees.pdf",
+      "code": "3.4.2",
+      "title": "Recruitment and selection of employees",
+      "pages": 1
+    },
+    {
+      "file": "024_3.4.3_Motivating_employees.pdf",
+      "code": "3.4.3",
+      "title": "Motivating employees",
+      "pages": 1
+    },
+    {
+      "file": "025_3.4.4_Training.pdf",
+      "code": "3.4.4",
+      "title": "Training",
+      "pages": 1
+    },
+    {
+      "file": "026_3.5_Marketing.pdf",
+      "code": "3.5",
+      "title": "Marketing",
+      "pages": 1
+    },
+    {
+      "file": "027_3.5.1_Identifying_and_understanding_customers.pdf",
+      "code": "3.5.1",
+      "title": "Identifying and understanding customers",
+      "pages": 1
+    },
+    {
+      "file": "028_3.5.2_Segmentation.pdf",
+      "code": "3.5.2",
+      "title": "Segmentation",
+      "pages": 1
+    },
+    {
+      "file": "029_3.5.3_The_purpose_and_methods_of_market_resear.pdf",
+      "code": "3.5.3",
+      "title": "The purpose and methods of market research",
+      "pages": 2
+    },
+    {
+      "file": "030_3.5.4_The_elements_of_the_marketing_mix_price_.pdf",
+      "code": "3.5.4",
+      "title": "The elements of the marketing mix: price, product, promotion and place (4Ps)",
+      "pages": 4
+    },
+    {
+      "file": "031_3.6_Finance.pdf",
+      "code": "3.6",
+      "title": "Finance",
+      "pages": 1
+    },
+    {
+      "file": "032_3.6.1_Sources_of_finance.pdf",
+      "code": "3.6.1",
+      "title": "Sources of finance",
+      "pages": 1
+    },
+    {
+      "file": "033_3.6.2_Cash_flow.pdf",
+      "code": "3.6.2",
+      "title": "Cash flow",
+      "pages": 1
+    },
+    {
+      "file": "034_3.6.3_Financial_terms_and_calculations.pdf",
+      "code": "3.6.3",
+      "title": "Financial terms and calculations",
+      "pages": 1
+    },
+    {
+      "file": "035_3.6.4_Analysing_the_financial_performance_of_a.pdf",
+      "code": "3.6.4",
+      "title": "Analysing the financial performance of a business",
+      "pages": 1
+    }
+  ]
+}

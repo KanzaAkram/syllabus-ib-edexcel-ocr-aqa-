@@ -1,0 +1,90 @@
+{
+  "method": "toc",
+  "n": 14,
+  "subsections": [
+    {
+      "file": "001_3.1_Understanding_music.pdf",
+      "code": "3.1",
+      "title": "Understanding music",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.1_Areas_of_study_1_4.pdf",
+      "code": "3.1.1",
+      "title": "Areas of study 1–4",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.2_Area_of_study_1_Western_classical_tradit.pdf",
+      "code": "3.1.2",
+      "title": "Area of study 1: Western classical tradition 1650–1910 (compulsory)",
+      "pages": 2
+    },
+    {
+      "file": "004_3.1.3_Musical_language_Area_of_study_1.pdf",
+      "code": "3.1.3",
+      "title": "Musical language (Area of study 1)",
+      "pages": 1
+    },
+    {
+      "file": "005_3.1.4_Area_of_study_2_Popular_music.pdf",
+      "code": "3.1.4",
+      "title": "Area of study 2: Popular music",
+      "pages": 3
+    },
+    {
+      "file": "006_3.1.5_Area_of_study_3_Traditional_music.pdf",
+      "code": "3.1.5",
+      "title": "Area of study 3: Traditional music",
+      "pages": 3
+    },
+    {
+      "file": "007_3.1.6_Area_of_study_4_Western_classical_tradit.pdf",
+      "code": "3.1.6",
+      "title": "Area of study 4: Western classical tradition since 1910",
+      "pages": 2
+    },
+    {
+      "file": "008_3.1.7_Musical_language_Areas_of_study_2_4.pdf",
+      "code": "3.1.7",
+      "title": "Musical language (Areas of study 2–4)",
+      "pages": 1
+    },
+    {
+      "file": "009_3.2_Performing_music.pdf",
+      "code": "3.2",
+      "title": "Performing music",
+      "pages": 1
+    },
+    {
+      "file": "010_3.2.1_Instrumental_including_DJ_vocal.pdf",
+      "code": "3.2.1",
+      "title": "Instrumental (including DJ)/vocal",
+      "pages": 2
+    },
+    {
+      "file": "011_3.2.2_DJing_skills.pdf",
+      "code": "3.2.2",
+      "title": "DJing skills",
+      "pages": 2
+    },
+    {
+      "file": "012_3.2.3_Production.pdf",
+      "code": "3.2.3",
+      "title": "Production",
+      "pages": 1
+    },
+    {
+      "file": "013_3.3_Composing_music.pdf",
+      "code": "3.3",
+      "title": "Composing music",
+      "pages": 2
+    },
+    {
+      "file": "014_3.3.1_Documenting_the_composition.pdf",
+      "code": "3.3.1",
+      "title": "Documenting the composition",
+      "pages": 1
+    }
+  ]
+}

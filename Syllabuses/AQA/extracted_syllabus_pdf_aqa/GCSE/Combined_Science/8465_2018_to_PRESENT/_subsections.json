@@ -1,0 +1,210 @@
+{
+  "method": "toc",
+  "n": 34,
+  "subsections": [
+    {
+      "file": "001_4.1_Building_blocks.pdf",
+      "code": "4.1",
+      "title": "Building blocks",
+      "pages": 1
+    },
+    {
+      "file": "002_4.1.1_States_of_matter.pdf",
+      "code": "4.1.1",
+      "title": "States of matter",
+      "pages": 6
+    },
+    {
+      "file": "003_4.1.2_Atomic_structure.pdf",
+      "code": "4.1.2",
+      "title": "Atomic structure",
+      "pages": 4
+    },
+    {
+      "file": "004_4.1.3_Cells_in_animals_and_plants.pdf",
+      "code": "4.1.3",
+      "title": "Cells in animals and plants",
+      "pages": 6
+    },
+    {
+      "file": "005_4.1.4_Waves.pdf",
+      "code": "4.1.4",
+      "title": "Waves",
+      "pages": 5
+    },
+    {
+      "file": "006_4.2_Transport_over_larger_distances.pdf",
+      "code": "4.2",
+      "title": "Transport over larger distances",
+      "pages": 1
+    },
+    {
+      "file": "007_4.2.1_Systems_in_the_human_body.pdf",
+      "code": "4.2.1",
+      "title": "Systems in the human body",
+      "pages": 7
+    },
+    {
+      "file": "008_4.2.2_Plants_and_photosynthesis.pdf",
+      "code": "4.2.2",
+      "title": "Plants and photosynthesis",
+      "pages": 8
+    },
+    {
+      "file": "009_4.3_Interactions_with_the_environment.pdf",
+      "code": "4.3",
+      "title": "Interactions with the environment",
+      "pages": 1
+    },
+    {
+      "file": "010_4.3.1_Lifestyle_and_health.pdf",
+      "code": "4.3.1",
+      "title": "Lifestyle and health",
+      "pages": 6
+    },
+    {
+      "file": "011_4.3.2_Radiation_and_risk.pdf",
+      "code": "4.3.2",
+      "title": "Radiation and risk",
+      "pages": 6
+    },
+    {
+      "file": "012_4.3.3_Preventing_treating_and_curing_diseases.pdf",
+      "code": "4.3.3",
+      "title": "Preventing, treating and curing diseases",
+      "pages": 8
+    },
+    {
+      "file": "013_4.4_Explaining_change.pdf",
+      "code": "4.4",
+      "title": "Explaining change",
+      "pages": 1
+    },
+    {
+      "file": "014_4.4.1_The_Earth_s_atmosphere.pdf",
+      "code": "4.4.1",
+      "title": "The Earth’s atmosphere",
+      "pages": 8
+    },
+    {
+      "file": "015_4.4.2_Ecosystems_and_biodiversity.pdf",
+      "code": "4.4.2",
+      "title": "Ecosystems and biodiversity",
+      "pages": 5
+    },
+    {
+      "file": "016_4.4.3_Inheritance.pdf",
+      "code": "4.4.3",
+      "title": "Inheritance",
+      "pages": 4
+    },
+    {
+      "file": "017_4.4.4_Variation_and_evolution.pdf",
+      "code": "4.4.4",
+      "title": "Variation and evolution",
+      "pages": 5
+    },
+    {
+      "file": "018_4.5_Building_blocks_for_understanding.pdf",
+      "code": "4.5",
+      "title": "Building blocks for understanding",
+      "pages": 1
+    },
+    {
+      "file": "019_4.5.1_The_periodic_table.pdf",
+      "code": "4.5.1",
+      "title": "The periodic table",
+      "pages": 3
+    },
+    {
+      "file": "020_4.5.2_Chemical_quantities.pdf",
+      "code": "4.5.2",
+      "title": "Chemical quantities",
+      "pages": 5
+    },
+    {
+      "file": "021_4.6_Interactions_over_small_and_large_distan.pdf",
+      "code": "4.6",
+      "title": "Interactions over small and large distances",
+      "pages": 1
+    },
+    {
+      "file": "022_4.6.1_Forces_and_energy_changes.pdf",
+      "code": "4.6.1",
+      "title": "Forces and energy changes",
+      "pages": 5
+    },
+    {
+      "file": "023_4.6.2_Structure_and_bonding.pdf",
+      "code": "4.6.2",
+      "title": "Structure and bonding",
+      "pages": 6
+    },
+    {
+      "file": "024_4.6.3_Magnetism_and_electromagnetism.pdf",
+      "code": "4.6.3",
+      "title": "Magnetism and electromagnetism",
+      "pages": 5
+    },
+    {
+      "file": "025_4.7_Movement_and_interactions.pdf",
+      "code": "4.7",
+      "title": "Movement and interactions",
+      "pages": 1
+    },
+    {
+      "file": "026_4.7.1_Forces_and_motion.pdf",
+      "code": "4.7.1",
+      "title": "Forces and motion",
+      "pages": 8
+    },
+    {
+      "file": "027_4.7.2_Electricity.pdf",
+      "code": "4.7.2",
+      "title": "Electricity",
+      "pages": 9
+    },
+    {
+      "file": "028_4.7.3_Acids_and_alkalis.pdf",
+      "code": "4.7.3",
+      "title": "Acids and alkalis",
+      "pages": 6
+    },
+    {
+      "file": "029_4.7.4_The_rate_and_extent_of_chemical_change.pdf",
+      "code": "4.7.4",
+      "title": "The rate and extent of chemical change",
+      "pages": 7
+    },
+    {
+      "file": "030_4.7.5_Atoms_into_ions_and_ions_into_atoms.pdf",
+      "code": "4.7.5",
+      "title": "Atoms into ions and ions into atoms",
+      "pages": 4
+    },
+    {
+      "file": "031_4.8_Guiding_Spaceship_Earth_towards_a_sustai.pdf",
+      "code": "4.8",
+      "title": "Guiding Spaceship Earth towards a sustainable future",
+      "pages": 1
+    },
+    {
+      "file": "032_4.8.1_Carbon_chemistry.pdf",
+      "code": "4.8.1",
+      "title": "Carbon chemistry",
+      "pages": 5
+    },
+    {
+      "file": "033_4.8.2_Resources_of_materials_and_energy.pdf",
+      "code": "4.8.2",
+      "title": "Resources of materials and energy",
+      "pages": 7
+    },
+    {
+      "file": "034_4.9_Key_ideas.pdf",
+      "code": "4.9",
+      "title": "Key ideas",
+      "pages": 2
+    }
+  ]
+}

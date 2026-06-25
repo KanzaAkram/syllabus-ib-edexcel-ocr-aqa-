@@ -1,0 +1,48 @@
+{
+  "method": "toc",
+  "n": 7,
+  "subsections": [
+    {
+      "file": "001_3.1.1_The_government_of_the_UK.pdf",
+      "code": "3.1.1",
+      "title": "The government of the UK",
+      "pages": 3
+    },
+    {
+      "file": "002_3.1.2_The_politics_of_the_UK.pdf",
+      "code": "3.1.2",
+      "title": "The politics of the UK",
+      "pages": 3
+    },
+    {
+      "file": "003_3.2_Government_and_politics_of_the_USA_and_c.pdf",
+      "code": "3.2",
+      "title": "Government and politics of the USA and comparative politics",
+      "pages": 1
+    },
+    {
+      "file": "004_3.2.1_Government_and_politics_of_the_USA.pdf",
+      "code": "3.2.1",
+      "title": "Government and politics of the USA",
+      "pages": 6
+    },
+    {
+      "file": "005_3.2.2_Comparative_politics.pdf",
+      "code": "3.2.2",
+      "title": "Comparative politics",
+      "pages": 3
+    },
+    {
+      "file": "006_3.3.1_Core_ideologies.pdf",
+      "code": "3.3.1",
+      "title": "Core ideologies",
+      "pages": 2
+    },
+    {
+      "file": "007_3.3.2_Other_ideologies.pdf",
+      "code": "3.3.2",
+      "title": "Other ideologies",
+      "pages": 4
+    }
+  ]
+}

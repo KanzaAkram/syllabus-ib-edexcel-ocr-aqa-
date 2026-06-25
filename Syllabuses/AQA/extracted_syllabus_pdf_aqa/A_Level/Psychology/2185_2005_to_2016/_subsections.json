@@ -1,0 +1,42 @@
+{
+  "method": "toc",
+  "n": 6,
+  "subsections": [
+    {
+      "file": "001_3.1_Unit_1_PSYB1_Introducing_Psychology.pdf",
+      "code": "3.1",
+      "title": "Unit 1 PSYB1 Introducing Psychology",
+      "pages": 3
+    },
+    {
+      "file": "002_3.2_Unit_2_PSYB2_Social_Psychology_Cognitive.pdf",
+      "code": "3.2",
+      "title": "Unit 2 PSYB2 Social Psychology, Cognitive Psychology and Individual Differences",
+      "pages": 3
+    },
+    {
+      "file": "003_3.3_Unit_3_PSYB3_Child_Development_and_Appli.pdf",
+      "code": "3.3",
+      "title": "Unit 3 PSYB3 Child Development and Applied Options",
+      "pages": 3
+    },
+    {
+      "file": "004_3.4_Unit_4_PSYB4_Approaches_Debates_and_Meth.pdf",
+      "code": "3.4",
+      "title": "Unit 4 PSYB4 Approaches, Debates and Methods in Psychology",
+      "pages": 3
+    },
+    {
+      "file": "005_3.5_How_Science_Works.pdf",
+      "code": "3.5",
+      "title": "‘How Science Works’",
+      "pages": 5
+    },
+    {
+      "file": "006_3.6_Mathematical_Requirements.pdf",
+      "code": "3.6",
+      "title": "Mathematical Requirements",
+      "pages": 1
+    }
+  ]
+}

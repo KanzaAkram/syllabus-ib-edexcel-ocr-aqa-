@@ -1,0 +1,462 @@
+{
+  "method": "font",
+  "sections": 1,
+  "n": 65,
+  "subsections": [
+    {
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 3
+    },
+    {
+      "file": "002_Section_1_1_Believing_in_God.pdf",
+      "code": "Section 1.1",
+      "title": "Believing in God",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "003_Section_1_2_Matters_of_life_and_death.pdf",
+      "code": "Section 1.2",
+      "title": "Matters of life and death",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "004_Section_1_3_Marriage_and_the_family.pdf",
+      "code": "Section 1.3",
+      "title": "Marriage and the family",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "005_Section_1_4_Religion_and_community_cohesion.pdf",
+      "code": "Section 1.4",
+      "title": "Religion and community cohesion",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "006_Section_2_1_Believing_in_God.pdf",
+      "code": "Section 2.1",
+      "title": "Believing in God",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "007_Section_2_2_Matters_of_life_and_death.pdf",
+      "code": "Section 2.2",
+      "title": "Matters of life and death",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "008_Section_2_3_Marriage_and_the_family.pdf",
+      "code": "Section 2.3",
+      "title": "Marriage and the family",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "009_Section_2_4_Religion_and_community_cohesion.pdf",
+      "code": "Section 2.4",
+      "title": "Religion and community cohesion",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "010_Section_3_1_Believing_in_God.pdf",
+      "code": "Section 3.1",
+      "title": "Believing in God",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "011_Section_3_2_Matters_of_life_and_death.pdf",
+      "code": "Section 3.2",
+      "title": "Matters of life and death",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "012_Section_3_3_Marriage_and_the_family.pdf",
+      "code": "Section 3.3",
+      "title": "Marriage and the family",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "013_Section_3_4_Religion_and_community_cohesion.pdf",
+      "code": "Section 3.4",
+      "title": "Religion and community cohesion",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "014_Section_4_1_Believing_in_Allah.pdf",
+      "code": "Section 4.1",
+      "title": "Believing in Allah",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "015_Section_4_2_Matters_of_life_and_death.pdf",
+      "code": "Section 4.2",
+      "title": "Matters of life and death",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "016_Section_4_3_Marriage_and_the_family.pdf",
+      "code": "Section 4.3",
+      "title": "Marriage and the family",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "017_Section_4_4_Religion_and_community_cohesion.pdf",
+      "code": "Section 4.4",
+      "title": "Religion and community cohesion",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "018_Section_5_1_Believing_in_the_Almighty.pdf",
+      "code": "Section 5.1",
+      "title": "Believing in the Almighty",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "019_Section_5_2_Matters_of_life_and_death.pdf",
+      "code": "Section 5.2",
+      "title": "Matters of life and death",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "020_Section_5_3_Marriage_and_the_family.pdf",
+      "code": "Section 5.3",
+      "title": "Marriage and the family",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "021_Section_5_4_Religion_and_community_cohesion.pdf",
+      "code": "Section 5.4",
+      "title": "Religion and community cohesion",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "022_Section_6_1_Believing_in_God.pdf",
+      "code": "Section 6.1",
+      "title": "Believing in God",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "023_Section_6_2_Matters_of_life_and_death.pdf",
+      "code": "Section 6.2",
+      "title": "Matters of life and death",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "024_Section_6_3_Marriage_and_the_family.pdf",
+      "code": "Section 6.3",
+      "title": "Marriage and the family",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "025_Section_6_4_Religion_and_community_cohesion.pdf",
+      "code": "Section 6.4",
+      "title": "Religion and community cohesion",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "026_Section_7_1_Believing_in_God.pdf",
+      "code": "Section 7.1",
+      "title": "Believing in God",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "027_Section_7_2_Matters_of_life_and_death.pdf",
+      "code": "Section 7.2",
+      "title": "Matters of life and death",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "028_Section_7_3_Marriage_and_the_family.pdf",
+      "code": "Section 7.3",
+      "title": "Marriage and the family",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "029_Section_7_4_Religion_and_community_cohesion.pdf",
+      "code": "Section 7.4",
+      "title": "Religion and community cohesion",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "030_Section_8_1_Religion_rights_and_responsibilities.pdf",
+      "code": "Section 8.1",
+      "title": "Religion: rights and responsibilities",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "031_Section_8_2_Religion_environmental_and_medical_issues.pdf",
+      "code": "Section 8.2",
+      "title": "Religion: environmental and medical issues",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "032_Section_8_3_Religion_peace_and_conflict.pdf",
+      "code": "Section 8.3",
+      "title": "Religion: peace and conflict",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "033_Section_8_4_Religion_crime_and_punishment.pdf",
+      "code": "Section 8.4",
+      "title": "Religion: crime and punishment",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "034_Section_9_1_Beliefs_and_values.pdf",
+      "code": "Section 9.1",
+      "title": "Beliefs and values",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "035_Section_9_2_Community_and_tradition.pdf",
+      "code": "Section 9.2",
+      "title": "Community and tradition",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "036_Section_9_3_Worship_and_celebration.pdf",
+      "code": "Section 9.3",
+      "title": "Worship and celebration",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "037_Section_9_4_Living_the_Christian_life.pdf",
+      "code": "Section 9.4",
+      "title": "Living the Christian life",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "038_Section_10_1_Beliefs_and_values.pdf",
+      "code": "Section 10.1",
+      "title": "Beliefs and values",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "039_Section_10_2_Community_and_tradition.pdf",
+      "code": "Section 10.2",
+      "title": "Community and tradition",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "040_Section_10_3_Worship_and_celebration.pdf",
+      "code": "Section 10.3",
+      "title": "Worship and celebration",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "041_Section_10_4_Living_the_Christian_life.pdf",
+      "code": "Section 10.4",
+      "title": "Living the Christian life",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "042_Section_11_1_Beliefs_and_values.pdf",
+      "code": "Section 11.1",
+      "title": "Beliefs and values",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "043_Section_11_2_Community_and_tradition.pdf",
+      "code": "Section 11.2",
+      "title": "Community and tradition",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "044_Section_11_3_Worship_and_celebration.pdf",
+      "code": "Section 11.3",
+      "title": "Worship and celebration",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "045_Section_11_4_Living_the_Muslim_life.pdf",
+      "code": "Section 11.4",
+      "title": "Living the Muslim life",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "046_Section_12_1_Beliefs_and_values.pdf",
+      "code": "Section 12.1",
+      "title": "Beliefs and values",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "047_Section_12_2_Community_and_tradition.pdf",
+      "code": "Section 12.2",
+      "title": "Community and tradition",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "048_Section_12_3_Worship_and_celebration.pdf",
+      "code": "Section 12.3",
+      "title": "Worship and celebration",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "049_Section_12_4_Living_the_Jewish_life.pdf",
+      "code": "Section 12.4",
+      "title": "Living the Jewish life",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "050_Section_13_1_Beliefs_and_values.pdf",
+      "code": "Section 13.1",
+      "title": "Beliefs and values",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "051_Section_13_2_Community_and_tradition.pdf",
+      "code": "Section 13.2",
+      "title": "Community and tradition",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "052_Section_13_3_Worship_and_celebration.pdf",
+      "code": "Section 13.3",
+      "title": "Worship and celebration",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "053_Section_13_4_Living_the_Hindu_life.pdf",
+      "code": "Section 13.4",
+      "title": "Living the Hindu life",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "054_Section_14_1_Beliefs_and_values.pdf",
+      "code": "Section 14.1",
+      "title": "Beliefs and values",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "055_Section_14_2_Community_and_tradition.pdf",
+      "code": "Section 14.2",
+      "title": "Community and tradition",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "056_Section_14_3_Worship_and_celebration.pdf",
+      "code": "Section 14.3",
+      "title": "Worship and celebration",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "057_Section_14_4_Living_the_Sikh_life.pdf",
+      "code": "Section 14.4",
+      "title": "Living the Sikh life",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "058_Section_15_1_Beliefs_and_values.pdf",
+      "code": "Section 15.1",
+      "title": "Beliefs and values",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "059_Section_15_2_Community_and_tradition.pdf",
+      "code": "Section 15.2",
+      "title": "Community and tradition",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "060_Section_15_3_Worship_and_celebration.pdf",
+      "code": "Section 15.3",
+      "title": "Worship and celebration",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "061_Section_15_4_Living_the_Buddhist_life.pdf",
+      "code": "Section 15.4",
+      "title": "Living the Buddhist life",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "062_Section_16_1_Discipleship.pdf",
+      "code": "Section 16.1",
+      "title": "Discipleship",
+      "family": "Section",
+      "pages": 2
+    },
+    {
+      "file": "063_Section_16_2_Conflict_and_argument.pdf",
+      "code": "Section 16.2",
+      "title": "Conflict and argument",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "064_Section_16_3_Death_and_resurrection.pdf",
+      "code": "Section 16.3",
+      "title": "Death and resurrection",
+      "family": "Section",
+      "pages": 1
+    },
+    {
+      "file": "065_Section_16_4_The_identity_of_Jesus.pdf",
+      "code": "Section 16.4",
+      "title": "The identity of Jesus",
+      "family": "Section",
+      "pages": 1
+    }
+  ]
+}

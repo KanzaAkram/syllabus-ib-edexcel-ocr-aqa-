@@ -1,0 +1,228 @@
+{
+  "method": "toc",
+  "n": 37,
+  "subsections": [
+    {
+      "file": "001_3.1.1_Representing_algorithms.pdf",
+      "code": "3.1.1",
+      "title": "Representing algorithms",
+      "pages": 1
+    },
+    {
+      "file": "002_3.1.2_Efficiency_of_algorithms.pdf",
+      "code": "3.1.2",
+      "title": "Efficiency of algorithms",
+      "pages": 1
+    },
+    {
+      "file": "003_3.1.3_Searching_algorithms.pdf",
+      "code": "3.1.3",
+      "title": "Searching algorithms",
+      "pages": 1
+    },
+    {
+      "file": "004_3.1.4_Sorting_algorithms.pdf",
+      "code": "3.1.4",
+      "title": "Sorting algorithms",
+      "pages": 1
+    },
+    {
+      "file": "005_3.2_Programming.pdf",
+      "code": "3.2",
+      "title": "Programming",
+      "pages": 1
+    },
+    {
+      "file": "006_3.2.1_Data_types.pdf",
+      "code": "3.2.1",
+      "title": "Data types",
+      "pages": 2
+    },
+    {
+      "file": "007_3.2.2_Programming_concepts.pdf",
+      "code": "3.2.2",
+      "title": "Programming concepts",
+      "pages": 2
+    },
+    {
+      "file": "008_3.2.3_Arithmetic_operations_in_a_programming_l.pdf",
+      "code": "3.2.3",
+      "title": "Arithmetic operations in a programming language",
+      "pages": 1
+    },
+    {
+      "file": "009_3.2.4_Relational_operations_in_a_programming_l.pdf",
+      "code": "3.2.4",
+      "title": "Relational operations in a programming language",
+      "pages": 1
+    },
+    {
+      "file": "010_3.2.5_Boolean_operations_in_a_programming_lang.pdf",
+      "code": "3.2.5",
+      "title": "Boolean operations in a programming language",
+      "pages": 1
+    },
+    {
+      "file": "011_3.2.6_Data_structures.pdf",
+      "code": "3.2.6",
+      "title": "Data structures",
+      "pages": 2
+    },
+    {
+      "file": "012_3.2.7_Input_output.pdf",
+      "code": "3.2.7",
+      "title": "Input/output",
+      "pages": 1
+    },
+    {
+      "file": "013_3.2.8_String_handling_operations_in_a_programm.pdf",
+      "code": "3.2.8",
+      "title": "String handling operations in a programming language",
+      "pages": 1
+    },
+    {
+      "file": "014_3.2.9_Random_number_generation_in_a_programmin.pdf",
+      "code": "3.2.9",
+      "title": "Random number generation in a programming language",
+      "pages": 1
+    },
+    {
+      "file": "015_3.2.10_Structured_programming_and_subroutines_p.pdf",
+      "code": "3.2.10",
+      "title": "Structured programming and subroutines (procedures and functions)",
+      "pages": 1
+    },
+    {
+      "file": "016_3.2.11_Robust_and_secure_programming.pdf",
+      "code": "3.2.11",
+      "title": "Robust and secure programming",
+      "pages": 1
+    },
+    {
+      "file": "017_3.3.1_Number_bases.pdf",
+      "code": "3.3.1",
+      "title": "Number bases",
+      "pages": 1
+    },
+    {
+      "file": "018_3.3.2_Converting_between_number_bases.pdf",
+      "code": "3.3.2",
+      "title": "Converting between number bases",
+      "pages": 1
+    },
+    {
+      "file": "019_3.3.3_Units_of_information.pdf",
+      "code": "3.3.3",
+      "title": "Units of information",
+      "pages": 2
+    },
+    {
+      "file": "020_3.3.4_Binary_arithmetic.pdf",
+      "code": "3.3.4",
+      "title": "Binary arithmetic",
+      "pages": 1
+    },
+    {
+      "file": "021_3.3.5_Character_encoding.pdf",
+      "code": "3.3.5",
+      "title": "Character encoding",
+      "pages": 2
+    },
+    {
+      "file": "022_3.3.6_Representing_images.pdf",
+      "code": "3.3.6",
+      "title": "Representing images",
+      "pages": 2
+    },
+    {
+      "file": "023_3.3.7_Representing_sound.pdf",
+      "code": "3.3.7",
+      "title": "Representing sound",
+      "pages": 1
+    },
+    {
+      "file": "024_3.3.8_Data_compression.pdf",
+      "code": "3.3.8",
+      "title": "Data compression",
+      "pages": 2
+    },
+    {
+      "file": "025_3.4.1_Hardware_and_software.pdf",
+      "code": "3.4.1",
+      "title": "Hardware and software",
+      "pages": 1
+    },
+    {
+      "file": "026_3.4.2_Boolean_logic.pdf",
+      "code": "3.4.2",
+      "title": "Boolean logic",
+      "pages": 2
+    },
+    {
+      "file": "027_3.4.3_Software_classification.pdf",
+      "code": "3.4.3",
+      "title": "Software classification",
+      "pages": 2
+    },
+    {
+      "file": "028_3.4.4_Classification_of_programming_languages_.pdf",
+      "code": "3.4.4",
+      "title": "Classification of programming languages and translators",
+      "pages": 2
+    },
+    {
+      "file": "029_3.4.5_Systems_architecture.pdf",
+      "code": "3.4.5",
+      "title": "Systems architecture",
+      "pages": 2
+    },
+    {
+      "file": "030_3.5_Fundamentals_of_computer_networks.pdf",
+      "code": "3.5",
+      "title": "Fundamentals of computer networks",
+      "pages": 3
+    },
+    {
+      "file": "031_3.6.1_Fundamentals_of_cyber_security.pdf",
+      "code": "3.6.1",
+      "title": "Fundamentals of cyber security",
+      "pages": 1
+    },
+    {
+      "file": "032_3.6.2_Cyber_security_threats.pdf",
+      "code": "3.6.2",
+      "title": "Cyber security threats",
+      "pages": 2
+    },
+    {
+      "file": "033_3.6.3_Methods_to_detect_and_prevent_cyber_secu.pdf",
+      "code": "3.6.3",
+      "title": "Methods to detect and prevent cyber security threats",
+      "pages": 1
+    },
+    {
+      "file": "034_3.7_Relational_databases_and_structured_quer.pdf",
+      "code": "3.7",
+      "title": "Relational databases and structured query language (SQL)",
+      "pages": 1
+    },
+    {
+      "file": "035_3.7.1_Relational_databases.pdf",
+      "code": "3.7.1",
+      "title": "Relational databases",
+      "pages": 2
+    },
+    {
+      "file": "036_3.7.2_Structured_query_language_SQL.pdf",
+      "code": "3.7.2",
+      "title": "Structured query language (SQL)",
+      "pages": 1
+    },
+    {
+      "file": "037_3.8_Ethical_legal_and_environmental_impacts_.pdf",
+      "code": "3.8",
+      "title": "Ethical, legal and environmental impacts of digital technology on wider society, including issues of privacy",
+      "pages": 1
+    }
+  ]
+}

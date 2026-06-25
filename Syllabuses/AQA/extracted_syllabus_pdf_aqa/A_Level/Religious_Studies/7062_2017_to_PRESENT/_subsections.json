@@ -1,0 +1,54 @@
+{
+  "method": "toc",
+  "n": 8,
+  "subsections": [
+    {
+      "file": "001_3.1.1_Section_A_Philosophy_of_religion.pdf",
+      "code": "3.1.1",
+      "title": "Section A: Philosophy of religion",
+      "pages": 2
+    },
+    {
+      "file": "002_3.1.2_Section_B_Ethics_and_religion.pdf",
+      "code": "3.1.2",
+      "title": "Section B: Ethics and religion",
+      "pages": 2
+    },
+    {
+      "file": "003_3.2_Component_2_Study_of_religion_and_dialog.pdf",
+      "code": "3.2",
+      "title": "Component 2: Study of religion and dialogues",
+      "pages": 1
+    },
+    {
+      "file": "004_3.2.1_2A_Buddhism.pdf",
+      "code": "3.2.1",
+      "title": "2A Buddhism",
+      "pages": 5
+    },
+    {
+      "file": "005_3.2.2_2B_Christianity.pdf",
+      "code": "3.2.2",
+      "title": "2B Christianity",
+      "pages": 5
+    },
+    {
+      "file": "006_3.2.3_2C_Hinduism.pdf",
+      "code": "3.2.3",
+      "title": "2C Hinduism",
+      "pages": 5
+    },
+    {
+      "file": "007_3.2.4_2D_Islam.pdf",
+      "code": "3.2.4",
+      "title": "2D Islam",
+      "pages": 5
+    },
+    {
+      "file": "008_3.2.5_2E_Judaism.pdf",
+      "code": "3.2.5",
+      "title": "2E Judaism",
+      "pages": 4
+    }
+  ]
+}
