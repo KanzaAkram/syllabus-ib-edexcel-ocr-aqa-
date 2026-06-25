@@ -1,7 +1,7 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 69,
+  "n": 67,
   "subsections": [
     {
       "file": "001_Option_B_Power.pdf",
@@ -29,7 +29,7 @@
       "code": "1.1",
       "title": "Unit description",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "005_1_2_Assessment_information.pdf",
@@ -43,21 +43,21 @@
       "code": "1.3",
       "title": "Unit 1, Option A: England in the Middle Ages and the Transition to",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "007_1_4_Unit_1_Option_B_Power_Belief_and_Conflict_.pdf",
       "code": "1.4",
       "title": "Unit 1, Option B: Power, Belief and Conflict in Early Modern Europe",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "008_1_5_Unit_1_Option_C_The_British_Empire_Colonis.pdf",
       "code": "1.5",
       "title": "Unit 1, Option C: The British Empire: Colonisation and",
       "family": "Num",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "009_1_6_Unit_1_Option_D_A_World_Divided_Communism_.pdf",
@@ -71,7 +71,7 @@
       "code": "1.7",
       "title": "Unit 1, Option E: The Expansion and Challenge of Nationalism",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "011_1_8_Unit_1_Option_F_The_Expansion_and_Challeng.pdf",
@@ -158,333 +158,319 @@
       "pages": 2
     },
     {
-      "file": "023_3_5_Unit_3_Option_C_The_United_States_Challeng.pdf",
-      "code": "3.5",
-      "title": "Unit 3, Option C: The United States: Challenged and Transformed",
-      "family": "Num",
-      "pages": 2
-    },
-    {
-      "file": "024_3_6_Unit_3_Option_D_The_Challenge_of_Fascism.pdf",
+      "file": "023_3_6_Unit_3_Option_D_The_Challenge_of_Fascism.pdf",
       "code": "3.6",
       "title": "Unit 3, Option D: The Challenge of Fascism",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "025_3_7_Unit_3_Option_E_War_and_Peace_20th_Century.pdf",
+      "file": "024_3_7_Unit_3_Option_E_War_and_Peace_20th_Century.pdf",
       "code": "3.7",
       "title": "Unit 3, Option E: War and Peace: 20th Century International",
       "family": "Num",
-      "pages": 2
+      "pages": 4
     },
     {
-      "file": "026_4_1_Unit_description.pdf",
+      "file": "025_4_1_Unit_description.pdf",
       "code": "4.1",
       "title": "Unit description",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "027_4_2_Task_practical_setting_guidance.pdf",
+      "file": "026_4_2_Task_practical_setting_guidance.pdf",
       "code": "4.2",
       "title": "Task/practical setting guidance",
       "family": "Num",
-      "pages": 2
+      "pages": 3
     },
     {
-      "file": "028_4_3_Part_A_and_Part_B.pdf",
+      "file": "027_4_3_Part_A_and_Part_B.pdf",
       "code": "4.3",
       "title": "Part A and Part B",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "029_4_4_Assessment_information.pdf",
+      "file": "028_4_4_Assessment_information.pdf",
       "code": "4.4",
       "title": "Assessment information",
       "family": "Num",
       "pages": 4
     },
     {
-      "file": "030_4_5_Edexcel_designed_coursework_programme_titl.pdf",
+      "file": "029_4_5_Edexcel_designed_coursework_programme_titl.pdf",
       "code": "4.5",
       "title": "Edexcel-designed coursework programme titles",
       "family": "Num",
       "pages": 4
     },
     {
-      "file": "031_4_6_Outline_content_of_Edexcel_designed_course.pdf",
-      "code": "4.6",
-      "title": "Outline content of Edexcel-designed coursework programmes for",
-      "family": "Num",
-      "pages": 22
-    },
-    {
-      "file": "032_4_7_Level_descriptions.pdf",
+      "file": "030_4_7_Level_descriptions.pdf",
       "code": "4.7",
       "title": "Level descriptions",
       "family": "Num",
-      "pages": 21
+      "pages": 42
     },
     {
-      "file": "033_Topic_A1_Alfred.pdf",
+      "file": "031_Topic_A1_Alfred.pdf",
       "code": "Topic A1",
       "title": "Alfred",
       "family": "Topic",
       "pages": 3
     },
     {
-      "file": "034_Topic_A3_The.pdf",
+      "file": "032_Topic_A3_The.pdf",
       "code": "Topic A3",
       "title": "The",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "035_Topic_A4_From.pdf",
+      "file": "033_Topic_A4_From.pdf",
       "code": "Topic A4",
       "title": "From",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "036_Topic_A5_Anglo.pdf",
+      "file": "034_Topic_A5_Anglo.pdf",
       "code": "Topic A5",
       "title": "Anglo-",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "037_Topic_A6_The.pdf",
+      "file": "035_Topic_A6_The.pdf",
       "code": "Topic A6",
       "title": "The",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "038_Topic_A7_The.pdf",
+      "file": "036_Topic_A7_The.pdf",
       "code": "Topic A7",
       "title": "The",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "039_Topic_B3_The.pdf",
+      "file": "037_Topic_B3_The.pdf",
       "code": "Topic B3",
       "title": "The",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "040_Topic_B4_The.pdf",
+      "file": "038_Topic_B4_The.pdf",
       "code": "Topic B4",
       "title": "The",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "041_Topic_B5_Conflict.pdf",
+      "file": "039_Topic_B5_Conflict.pdf",
       "code": "Topic B5",
       "title": "Conflict",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "042_Topic_B6_The.pdf",
+      "file": "040_Topic_B6_The.pdf",
       "code": "Topic B6",
       "title": "The",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "043_Topic_B7_Crown.pdf",
+      "file": "041_Topic_B7_Crown.pdf",
       "code": "Topic B7",
       "title": "Crown,",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "044_Topic_C1_The.pdf",
+      "file": "042_Topic_C1_The.pdf",
       "code": "Topic C1",
       "title": "The",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "045_Topic_C3_The_Slave.pdf",
+      "file": "043_Topic_C3_The_Slave.pdf",
       "code": "Topic C3",
       "title": "The Slave",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "046_Topic_C4_and_Britain_as_the_company_sought_to_exten.pdf",
+      "file": "044_Topic_C4_and_Britain_as_the_company_sought_to_exten.pdf",
       "code": "Topic C4",
       "title": "and Britain as the company sought to extend its influence over the Indian sub-continent, and on the actions and reactions of the",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "047_Topic_C5_of_British_global_power_and_economic_prima.pdf",
+      "file": "045_Topic_C5_of_British_global_power_and_economic_prima.pdf",
       "code": "Topic C5",
       "title": "of British global power and economic primacy. Since the focus of this unit is on broad themes, questions will not be set which",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "048_Topic_C6_Britain.pdf",
+      "file": "046_Topic_C6_Britain.pdf",
       "code": "Topic C6",
       "title": "Britain",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "049_Topic_C7_Retreat.pdf",
+      "file": "047_Topic_C7_Retreat.pdf",
       "code": "Topic C7",
       "title": "Retreat",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "050_Topic_D3_Russia.pdf",
+      "file": "048_Topic_D3_Russia.pdf",
       "code": "Topic D3",
       "title": "Russia",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "051_Topic_D4_Stalin_s.pdf",
+      "file": "049_Topic_D4_Stalin_s.pdf",
       "code": "Topic D4",
       "title": "Stalin’s",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "052_Topic_D5_Pursuing.pdf",
+      "file": "050_Topic_D5_Pursuing.pdf",
       "code": "Topic D5",
       "title": "Pursuing",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "053_Topic_D6_Ideology.pdf",
+      "file": "051_Topic_D6_Ideology.pdf",
       "code": "Topic D6",
       "title": "Ideology,",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "054_Topic_D7_Politics.pdf",
+      "file": "052_Topic_D7_Politics.pdf",
       "code": "Topic D7",
       "title": "Politics,",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "055_Topic_E_F1_The_main_focus_of_this_option_topic_is_on_.pdf",
+      "file": "053_Topic_E_F1_The_main_focus_of_this_option_topic_is_on_.pdf",
       "code": "Topic E/F1",
       "title": "The main focus of this option topic is on the process by which Italy became a single unified state. Since the focus of Unit 1 is on broad",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "056_Topic_E_F2_The.pdf",
+      "file": "054_Topic_E_F2_The.pdf",
       "code": "Topic E/F2",
       "title": "The",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "057_Topic_E_F3_The.pdf",
+      "file": "055_Topic_E_F3_The.pdf",
       "code": "Topic E/F3",
       "title": "The",
       "family": "Topic",
       "pages": 5
     },
     {
-      "file": "058_Topic_E_F6_The.pdf",
+      "file": "056_Topic_E_F6_The.pdf",
       "code": "Topic E/F6",
       "title": "The",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "059_Topic_F7_From.pdf",
+      "file": "057_Topic_F7_From.pdf",
       "code": "Topic F7",
       "title": "From",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "060_Topic_B1_Britain.pdf",
+      "file": "058_Topic_B1_Britain.pdf",
       "code": "Topic B1",
       "title": "Britain,",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "061_Topic_B2_Poverty.pdf",
+      "file": "059_Topic_B2_Poverty.pdf",
       "code": "Topic B2",
       "title": "Poverty,",
       "family": "Topic",
       "pages": 3
     },
     {
-      "file": "062_Unit_2_Option_C.pdf",
+      "file": "060_Unit_2_Option_C.pdf",
       "code": "Unit 2",
       "title": ", Option C:",
       "family": "Unit",
       "pages": 2
     },
     {
-      "file": "063_Topic_C2_Britain.pdf",
+      "file": "061_Topic_C2_Britain.pdf",
       "code": "Topic C2",
       "title": "Britain",
       "family": "Topic",
       "pages": 3
     },
     {
-      "file": "064_Topic_D1_Britain.pdf",
+      "file": "062_Topic_D1_Britain.pdf",
       "code": "Topic D1",
       "title": "Britain",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "065_Topic_D2_Britain.pdf",
+      "file": "063_Topic_D2_Britain.pdf",
       "code": "Topic D2",
       "title": "Britain",
       "family": "Topic",
       "pages": 3
     },
     {
-      "file": "066_Topic_E2_Mass.pdf",
+      "file": "064_Topic_E1_British.pdf",
+      "code": "Topic E1",
+      "title": "British",
+      "family": "Topic",
+      "pages": 2
+    },
+    {
+      "file": "065_Topic_E2_Mass.pdf",
       "code": "Topic E2",
       "title": "Mass",
       "family": "Topic",
       "pages": 3
     },
     {
-      "file": "067_Topic_A2_17th_century_and_the_extent_of_its_recover.pdf",
+      "file": "066_Topic_A2_17th_century_and_the_extent_of_its_recover.pdf",
       "code": "Topic A2",
       "title": "17th century, and the extent of its recovery by 1667. The key issues arising include the reasons for the collapse of royal authority",
       "family": "Topic",
       "pages": 3
     },
     {
-      "file": "068_Unit_3_Option_C_The_United_States_Challenged_and_.pdf",
+      "file": "067_Unit_3_Option_C_The_United_States_Challenged_and_.pdf",
       "code": "Unit 3",
       "title": ", Option C: The United States: Challenged and Transformed",
       "family": "Unit",
-      "pages": 4
-    },
-    {
-      "file": "069_Topic_E1_The.pdf",
-      "code": "Topic E1",
-      "title": "The",
-      "family": "Topic",
-      "pages": 2
+      "pages": 3
     }
   ]
 }

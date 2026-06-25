@@ -1,140 +1,140 @@
 {
   "method": "toc",
   "sections": 9,
-  "n": 35,
+  "n": 25,
   "subsections": [
     {
-      "file": "001_2b_Content_of_A_Level_Art_and_Design_H600_H60.pdf",
-      "code": "2b",
-      "title": "Content of A Level Art and Design (H600-H606)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_OCR_2014.pdf",
+      "file": "001_OCR_2014.pdf",
       "code": "",
       "title": "© OCR 2014",
       "kind": "rowlabel",
-      "pages": 2
+      "pages": 3
     },
     {
-      "file": "003_may_determine_the_amount_of_time_for.pdf",
+      "file": "002_may_determine_the_amount_of_time_for.pdf",
       "code": "",
       "title": "may determine the amount of time for",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "004_Planning_and_preparation.pdf",
+      "file": "003_Planning_and_preparation.pdf",
       "code": "",
       "title": "Planning and preparation",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "005_2c_A_Level_in_Art_and_Design.pdf",
+      "file": "004_2c_A_Level_in_Art_and_Design.pdf",
       "code": "2c",
       "title": "A Level in Art and Design",
       "kind": "section",
       "pages": 2
     },
     {
-      "file": "006_2c_i_Content_of_Art_Craft_and_Design_Combined_S.pdf",
-      "code": "2c(i)",
-      "title": "Content of Art, Craft and Design – Combined Specialisms (H600)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "007_Overview.pdf",
+      "file": "005_Overview.pdf",
       "code": "",
       "title": "Overview",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "008_Areas_of_Study.pdf",
+      "file": "006_Areas_of_Study.pdf",
       "code": "",
       "title": "Areas of Study",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "009_Skills.pdf",
+      "file": "007_Skills.pdf",
       "code": "",
       "title": "Skills",
       "kind": "rowlabel",
       "pages": 2
     },
     {
-      "file": "010_Knowledge_and_Understanding.pdf",
-      "code": "",
-      "title": "Knowledge and Understanding",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "011_2c_ii_Content_of_Art_and_Design_Fine_Art_H601.pdf",
-      "code": "2c(ii)",
-      "title": "Content of Art and Design: Fine Art (H601)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "012_Overview.pdf",
+      "file": "008_Overview.pdf",
       "code": "",
       "title": "Overview",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "013_Areas_of_Study.pdf",
+      "file": "009_Areas_of_Study.pdf",
       "code": "",
       "title": "Areas of Study",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "014_Skills.pdf",
-      "code": "",
-      "title": "Skills",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "015_Knowledge_and_Understanding.pdf",
-      "code": "",
-      "title": "Knowledge and Understanding",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "016_Overview.pdf",
-      "code": "",
-      "title": "Overview",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "017_Areas_of_Study.pdf",
-      "code": "",
-      "title": "Areas of Study",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "018_Skills.pdf",
+      "file": "010_Skills.pdf",
       "code": "",
       "title": "Skills",
       "kind": "rowlabel",
       "pages": 2
     },
     {
-      "file": "019_Knowledge_and_Understanding.pdf",
+      "file": "011_Overview.pdf",
       "code": "",
-      "title": "Knowledge and Understanding",
+      "title": "Overview",
       "kind": "rowlabel",
       "pages": 1
+    },
+    {
+      "file": "012_Areas_of_Study.pdf",
+      "code": "",
+      "title": "Areas of Study",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "013_Skills.pdf",
+      "code": "",
+      "title": "Skills",
+      "kind": "rowlabel",
+      "pages": 2
+    },
+    {
+      "file": "014_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "015_Areas_of_Study.pdf",
+      "code": "",
+      "title": "Areas of Study",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "016_Skills.pdf",
+      "code": "",
+      "title": "Skills",
+      "kind": "rowlabel",
+      "pages": 2
+    },
+    {
+      "file": "017_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "018_Areas_of_Study.pdf",
+      "code": "",
+      "title": "Areas of Study",
+      "kind": "rowlabel",
+      "pages": 1
+    },
+    {
+      "file": "019_Skills.pdf",
+      "code": "",
+      "title": "Skills",
+      "kind": "rowlabel",
+      "pages": 2
     },
     {
       "file": "020_Overview.pdf",
@@ -155,96 +155,26 @@
       "code": "",
       "title": "Skills",
       "kind": "rowlabel",
-      "pages": 2
-    },
-    {
-      "file": "023_Knowledge_and_Understanding.pdf",
-      "code": "",
-      "title": "Knowledge and Understanding",
-      "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "024_Overview.pdf",
+      "file": "023_Overview.pdf",
       "code": "",
       "title": "Overview",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "025_Areas_of_Study.pdf",
+      "file": "024_Areas_of_Study.pdf",
       "code": "",
       "title": "Areas of Study",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "026_Skills.pdf",
+      "file": "025_Skills.pdf",
       "code": "",
       "title": "Skills",
-      "kind": "rowlabel",
-      "pages": 2
-    },
-    {
-      "file": "027_Knowledge_and_Understanding.pdf",
-      "code": "",
-      "title": "Knowledge and Understanding",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "028_Overview.pdf",
-      "code": "",
-      "title": "Overview",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "029_Areas_of_Study.pdf",
-      "code": "",
-      "title": "Areas of Study",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "030_Skills.pdf",
-      "code": "",
-      "title": "Skills",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "031_Knowledge_and_Understanding.pdf",
-      "code": "",
-      "title": "Knowledge and Understanding",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "032_Overview.pdf",
-      "code": "",
-      "title": "Overview",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "033_Areas_of_Study.pdf",
-      "code": "",
-      "title": "Areas of Study",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "034_Skills.pdf",
-      "code": "",
-      "title": "Skills",
-      "kind": "rowlabel",
-      "pages": 1
-    },
-    {
-      "file": "035_Knowledge_and_Understanding.pdf",
-      "code": "",
-      "title": "Knowledge and Understanding",
       "kind": "rowlabel",
       "pages": 1
     }

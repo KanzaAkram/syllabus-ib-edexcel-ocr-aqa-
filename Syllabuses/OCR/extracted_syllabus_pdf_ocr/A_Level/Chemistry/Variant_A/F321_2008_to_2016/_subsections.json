@@ -1,24 +1,17 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 3,
+  "n": 2,
   "subsections": [
     {
-      "file": "001_2b_Content_of_AS_Level_in_Chemistry_B_Salters.pdf",
-      "code": "2b",
-      "title": "Content of AS Level in Chemistry B (Salters) (H033)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_Section_2c_Development_of_practical.pdf",
+      "file": "001_Section_2c_Development_of_practical.pdf",
       "code": "Section 2c",
       "title": "Development of practical",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "003_Section_2d_Storylines.pdf",
+      "file": "002_Section_2d_Storylines.pdf",
       "code": "Section 2d",
       "title": "Storylines",
       "kind": "Section",

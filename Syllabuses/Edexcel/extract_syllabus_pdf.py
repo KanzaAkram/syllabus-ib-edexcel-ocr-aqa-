@@ -494,6 +494,32 @@ def page_crop(page, body_size, is_start, is_end, start_y, end_y, chrome, cache):
         if not real:
             return None
 
+    # Drop a trailing page that is ENTIRELY the NEXT section's divider/intro, wrongly
+    # carried in because this unit's end (= next unit's start_y) sits below that
+    # divider. Two shapes, both with the divider at the very TOP of the crop (so no
+    # real content of THIS unit is above it -> safe to drop the whole page):
+    #   E1: a full section-divider page ("2 / Electricity / The following sub-topics
+    #       are covered in this section. / (a) ...") -- IGCSE sciences.
+    #   E2: a lone section/area/component/paper heading ("Area of study 4: ...",
+    #       "Component 2: ...", "Paper 3 and Paper 4: ...") -- 9GE0 / 9PE0 / 9FM0.
+    if is_end:
+        cl = []
+        for ln in get_page_lines(page):
+            if top - 1 <= ln["y0"] < bottom - 1:
+                t = norm_ws(ln["text"])
+                if t and not EDX_FOOTER_RE.search(t) and t.lower() not in (chrome.get("labels") or set()):
+                    cl.append(t)
+        if cl:
+            divider_top = bool(re.match(r"^(Area of study|Component|Paper|Section|Unit|Theme)\b", cl[0], re.I)
+                               or re.fullmatch(r"\d{1,2}", cl[0]))
+            # "The following sub-topics are covered in this section." is Edexcel's exact
+            # section-divider boilerplate -- it appears ONLY on a divider/contents page.
+            following = any("following" in t.lower() and "sub-topic" in t.lower() for t in cl)
+            if divider_top and following:
+                return None                       # E1: whole next-section divider page
+            if len(cl) <= 2 and re.match(r"^(Area of study|Component|Paper|Section|Unit|Theme)\b", cl[0], re.I):
+                return None                       # E2: lone next-section heading
+
     left = max(0.0, ix0 - PAD_LEFT)
     right = min(pw, ix1 + PAD_RIGHT)
     return fitz.Rect(left, top, right, bottom)
@@ -722,8 +748,16 @@ def _heading_lines_in_span(doc, body_size, sec, allow_bold_body=False, include_d
                 if mn and "." in mn[1]:             # "1.1 Title" inline
                     if not (big or bold_body):
                         continue
+                    # A real sub-topic title is capitalised ("1.2 Fractions and
+                    # decimals"); a number lifted from an example/guidance column
+                    # reads as a lowercase fragment ("3.5 and 7", "40.5 g and
+                    # volume 15 cm3") -- skip so it doesn't become a garbage unit
+                    # that also truncates the real sub-topic's content.
+                    if mn[2] and mn[2][0].islower():
+                        continue
                     mu = mn
-                elif big and re.fullmatch(r"\d{1,2}\.\d{1,2}", t):  # bare "1.1" -> title in next column
+                elif (big and re.fullmatch(r"\d{1,2}\.\d{1,2}", t)
+                        and ln["x0"] < pw * 0.33):  # bare "1.1" code, title in next column (left column only)
                     mu = ("Num", t, "")
                 else:
                     continue                        # require N.N (a sub-topic), not bare "N"
@@ -1318,6 +1352,60 @@ def harvest_unit_topics(doc, body_size, sec):
     return out
 
 
+def _numeric_parts(code):
+    """Tuple of decimal components if `code` is a pure decimal ('1.2.3'), else None."""
+    m = re.match(r"^(\d{1,2}(?:\.\d{1,2})*)$", (code or "").strip())
+    return tuple(m.group(1).split(".")) if m else None
+
+
+# Marker containment tiers (smaller = higher/outer). A cross-family marker can only
+# anchor (lead) a unit that is BELOW it: Paper/Component contain Areas/Units/Themes,
+# which contain Sections, which contain Topics. Without this, 'Section 4' (a child of
+# an Area of Study) was wrongly accepted as a PARENT of the next 'Area of Study 2B',
+# dragging the previous area's Section 4 into it (GCSE RS 1RB0/1RA0).
+_MARKER_TIER = {"paper": 0, "component": 0, "module": 0,
+                "unit": 1, "area of study": 1, "theme": 1,
+                "section": 2, "topic": 3}
+
+def _marker_tier(fam):
+    return _MARKER_TIER.get((fam or "").lower(), 1)
+
+
+def _anchor_is_parent(cand_text, unit):
+    """True only if `cand_text` is a genuine PARENT heading of `unit`, so the
+    unit's start may be moved up to it. Rejects sibling and continuation
+    headings: '1.1 Integers continued' is NOT a parent of '1.2', and
+    'Topic 4 (continued)' is NOT a parent of 'Topic 5'. A marker heading
+    (Topic/Theme/Unit/Paper/...) leads a decimal or lettered child only when its
+    number is an ancestor of the child's code; a bare/decimal heading leads a
+    child only as a STRICT decimal ancestor ('1' or '1.1' -> '1.1.1', never the
+    sibling '1.2')."""
+    if re.search(r"continued", cand_text, re.I):
+        return False
+    uparts = _numeric_parts(unit.get("code", ""))
+    ufam = unit.get("family", "")
+    is_letter_child = bool(re.fullmatch(r"\(?[a-z]\)?", (unit.get("code", "") or "").strip()))
+    cand_mu = _match_unit(cand_text)
+    if cand_mu:
+        cparts = _numeric_parts(cand_mu[1])
+        if cparts and uparts:
+            return len(cparts) < len(uparts) and uparts[:len(cparts)] == cparts
+        if is_letter_child:
+            return True            # 'Topic 2' -> '(a)' (no numeric relation)
+        if cparts is None and uparts:
+            return True            # marker without a parseable number leading a decimal
+        # different-family marker: a parent only if it is a HIGHER containment tier
+        # (Paper -> Topic OK; Section -> Area of Study is NOT, Section is a child).
+        return _marker_tier(cand_mu[0]) < _marker_tier(ufam)
+    cand_mn = _match_numeric(cand_text)
+    if cand_mn:
+        cparts = _numeric_parts(cand_mn[1])
+        if cparts and uparts:
+            return len(cparts) < len(uparts) and uparts[:len(cparts)] == cparts
+        return False
+    return False
+
+
 def collect_units_for_section(doc, body_size, sec, chrome):
     """The set of teachable sub-topic units inside one syllabus section."""
     # A non-whole section that collapses to a single page is a corrupt TOC target
@@ -1473,6 +1561,7 @@ def collect_units_for_section(doc, body_size, sec, chrome):
                 else (sec["start_page"], sec["start_y"] - 1)
             cur = (u["page"], u["y"])
             anc = None
+            anc_marker = False
             for pno in range(prev[0], cur[0] + 1):
                 if pno < 0 or pno >= doc.page_count:
                     continue
@@ -1484,6 +1573,14 @@ def collect_units_for_section(doc, body_size, sec, chrome):
                     t = norm_ws(ln["text"])
                     if (ln["x0"] < pw * 0.5 and t and len(t) < 80
                             and not EDX_FOOTER_RE.search(t)):
+                        # Skip the legacy running header ('Unit 1' echoed at the top
+                        # of every page). It looks like a parent of '1.6' but sits in
+                        # the header band with the previous sub-topic's tail between
+                        # it and the real heading -- anchoring there drags that tail
+                        # (objectives j/k of 1.5) into 1.6's first PDF.
+                        if (chrome.get("header_y") is not None
+                                and abs(ln["y0"] - chrome["header_y"]) < 12):
+                            continue
                         # Only unit-marker headings (Topic N, Theme N, etc. or
                         # bare decimal N.N) qualify as parent anchors.  We use
                         # body_size as the minimum so same-size parent headings
@@ -1496,10 +1593,48 @@ def collect_units_for_section(doc, body_size, sec, chrome):
                             continue
                         if (pno, round(ln["y0"])) in orig_positions:
                             continue
+                        # The anchor must be a genuine PARENT, never the previous
+                        # sub-topic's continuation header ('1.1 Integers continued')
+                        # or a sibling, which would drag the previous topic's tail
+                        # into this unit's first PDF.
+                        if not _anchor_is_parent(t, u):
+                            continue
                         if anc is None or pos > anc:
                             anc = pos
+                            anc_marker = bool(_match_unit(t))
             if anc:
-                u["page"], u["y"] = anc
+                apply = True
+                # A real MARKER parent ('Topic 1', 'Theme 2') legitimately carries its
+                # own intro text before the first child, so it may sit far above (e.g.
+                # 9BI0 'Topic 1: Biological Molecules' + a 245pt intro then '1.1').
+                # A BARE-NUMERIC anchor ('2 Inorganic chemistry of group 7') only
+                # coincidentally prefix-matches a decimal unit ('2.8'); accept it only
+                # when it sits IMMEDIATELY above the unit. If real body content lies
+                # between, it's a spurious match (or the previous sub-topic's tail) --
+                # reject so that content is not dragged into this unit (legacy Chem).
+                if not anc_marker:
+                    blockers = 0
+                    for pno2 in range(anc[0], cur[0] + 1):
+                        if pno2 < 0 or pno2 >= doc.page_count:
+                            continue
+                        for ln2 in get_page_lines(doc[pno2]):
+                            pos2 = (pno2, ln2["y0"])
+                            if pos2 <= anc or pos2 >= cur:
+                                continue
+                            t2 = norm_ws(ln2["text"])
+                            if not t2 or EDX_FOOTER_RE.search(t2):
+                                continue
+                            if (chrome.get("header_y") is not None
+                                    and abs(ln2["y0"] - chrome["header_y"]) < 12):
+                                continue
+                            blockers += 1
+                            if blockers > 3:
+                                break
+                        if blockers > 3:
+                            break
+                    apply = blockers <= 3
+                if apply:
+                    u["page"], u["y"] = anc
 
     out = []
     # optional leading "Overview" unit for the section intro before the first unit.

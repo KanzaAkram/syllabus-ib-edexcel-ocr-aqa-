@@ -1,21 +1,21 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 19,
+  "n": 18,
   "subsections": [
     {
       "file": "001_C1_1_The_particle_model.pdf",
       "code": "C1.1",
       "title": "The particle model",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "002_C1_2_Atomic_structure.pdf",
       "code": "C1.2",
       "title": "Atomic structure",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "003_C2_1_Purity_and_separating_mixtures.pdf",
@@ -29,7 +29,7 @@
       "code": "C2.2",
       "title": "Bonding",
       "kind": "alnum",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "005_C2_3_Properties_of_materials.pdf",
@@ -43,14 +43,14 @@
       "code": "C3.1",
       "title": "Introducing chemical reactions",
       "kind": "alnum",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "007_C3_2_Energetics.pdf",
       "code": "C3.2",
       "title": "Energetics",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "008_C3_3_Types_of_chemical_reactions.pdf",
@@ -85,7 +85,7 @@
       "code": "C5.1",
       "title": "Monitoring chemical reactions",
       "kind": "alnum",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "013_C5_2_Controlling_reactions.pdf",
@@ -102,35 +102,28 @@
       "pages": 2
     },
     {
-      "file": "015_Topic_C6_Global_challenges.pdf",
-      "code": "Topic C6",
-      "title": "Global challenges",
-      "kind": "Topic",
-      "pages": 1
-    },
-    {
-      "file": "016_C6_1_Improving_processes_and_products.pdf",
+      "file": "015_C6_1_Improving_processes_and_products.pdf",
       "code": "C6.1",
       "title": "Improving processes and products",
       "kind": "alnum",
       "pages": 4
     },
     {
-      "file": "017_C6_2_Organic_chemistry.pdf",
+      "file": "016_C6_2_Organic_chemistry.pdf",
       "code": "C6.2",
       "title": "Organic chemistry",
       "kind": "alnum",
       "pages": 4
     },
     {
-      "file": "018_C6_3_Interpreting_and_interacting_with_earth_sy.pdf",
+      "file": "017_C6_3_Interpreting_and_interacting_with_earth_sy.pdf",
       "code": "C6.3",
       "title": "Interpreting and interacting with earth systems",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "019_Topic_C7_Practical_skills.pdf",
+      "file": "018_Topic_C7_Practical_skills.pdf",
       "code": "Topic C7",
       "title": "Practical skills",
       "kind": "Topic",

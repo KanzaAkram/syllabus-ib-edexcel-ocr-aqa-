@@ -1,7 +1,7 @@
 {
   "method": "numbered",
   "sections": 1,
-  "n": 12,
+  "n": 13,
   "subsections": [
     {
       "file": "001_Overview.pdf",
@@ -53,35 +53,42 @@
       "pages": 2
     },
     {
-      "file": "008_h_Estimation.pdf",
+      "file": "008_f_Time_series.pdf",
+      "code": "(f)",
+      "title": "Time series",
+      "family": "",
+      "pages": 1
+    },
+    {
+      "file": "009_h_Estimation.pdf",
       "code": "(h)",
       "title": "Estimation",
       "family": "",
       "pages": 4
     },
     {
-      "file": "009_c_Population_and_sampling.pdf",
+      "file": "010_c_Population_and_sampling.pdf",
       "code": "(c)",
       "title": "Population and sampling",
       "family": "",
       "pages": 1
     },
     {
-      "file": "010_c_Measures_of_dispersion.pdf",
+      "file": "011_c_Measures_of_dispersion.pdf",
       "code": "(c)",
       "title": "Measures of dispersion",
       "family": "",
       "pages": 2
     },
     {
-      "file": "011_e_Scatter_diagrams_and_correlation.pdf",
+      "file": "012_e_Scatter_diagrams_and_correlation.pdf",
       "code": "(e)",
       "title": "Scatter diagrams and correlation",
       "family": "",
       "pages": 2
     },
     {
-      "file": "012_g_Quality_assurance.pdf",
+      "file": "013_g_Quality_assurance.pdf",
       "code": "(g)",
       "title": "Quality assurance",
       "family": "",

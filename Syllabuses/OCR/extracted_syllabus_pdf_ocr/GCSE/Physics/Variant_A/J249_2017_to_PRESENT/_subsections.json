@@ -1,21 +1,21 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 22,
+  "n": 21,
   "subsections": [
     {
       "file": "001_P1_1_The_particle_model.pdf",
       "code": "P1.1",
       "title": "The particle model",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "002_P1_2_Changes_of_state.pdf",
       "code": "P1.2",
       "title": "Changes of state",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "003_P1_3_Pressure.pdf",
@@ -29,14 +29,14 @@
       "code": "P2.1",
       "title": "Motion",
       "kind": "alnum",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "005_P2_2_Newton_s_laws.pdf",
       "code": "P2.2",
       "title": "Newton’s laws",
       "kind": "alnum",
-      "pages": 5
+      "pages": 4
     },
     {
       "file": "006_P2_3_Forces_in_action.pdf",
@@ -57,14 +57,14 @@
       "code": "P3.2",
       "title": "Simple circuits",
       "kind": "alnum",
-      "pages": 6
+      "pages": 5
     },
     {
       "file": "009_P4_1_Magnets_and_magnetic_fields.pdf",
       "code": "P4.1",
       "title": "Magnets and magnetic fields",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "010_P4_2_Uses_of_magnetism.pdf",
@@ -78,21 +78,21 @@
       "code": "P5.1",
       "title": "Wave behaviour",
       "kind": "alnum",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "012_P5_2_The_electromagnetic_spectrum.pdf",
       "code": "P5.2",
       "title": "The electromagnetic spectrum",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "013_P5_3_Wave_interactions.pdf",
       "code": "P5.3",
       "title": "Wave interactions",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "014_P6_1_Radioactive_emissions.pdf",
@@ -123,35 +123,28 @@
       "pages": 2
     },
     {
-      "file": "018_Topic_P8_Global_challenges.pdf",
-      "code": "Topic P8",
-      "title": "Global challenges",
-      "kind": "Topic",
-      "pages": 1
-    },
-    {
-      "file": "019_P8_1_Physics_on_the_move.pdf",
+      "file": "018_P8_1_Physics_on_the_move.pdf",
       "code": "P8.1",
       "title": "Physics on the move",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "020_P8_2_Powering_Earth.pdf",
+      "file": "019_P8_2_Powering_Earth.pdf",
       "code": "P8.2",
       "title": "Powering Earth",
       "kind": "alnum",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "021_P8_3_Beyond_Earth.pdf",
+      "file": "020_P8_3_Beyond_Earth.pdf",
       "code": "P8.3",
       "title": "Beyond Earth",
       "kind": "alnum",
       "pages": 3
     },
     {
-      "file": "022_Topic_P9_Practical_skills.pdf",
+      "file": "021_Topic_P9_Practical_skills.pdf",
       "code": "Topic P9",
       "title": "Practical skills",
       "kind": "Topic",

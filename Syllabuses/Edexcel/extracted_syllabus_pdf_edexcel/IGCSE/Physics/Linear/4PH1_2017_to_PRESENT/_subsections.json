@@ -1,14 +1,14 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 27,
+  "n": 28,
   "subsections": [
     {
       "file": "001_Overview.pdf",
       "code": "",
       "title": "Overview",
       "family": "Overview",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "002_a_Units.pdf",
@@ -29,7 +29,7 @@
       "code": "(c)",
       "title": "Forces, movement, shape and momentum",
       "family": "",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "005_a_Units.pdf",
@@ -57,7 +57,7 @@
       "code": "(d)",
       "title": "Electric charge",
       "family": "",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "009_b_Properties_of_waves.pdf",
@@ -78,7 +78,7 @@
       "code": "(d)",
       "title": "Light and sound",
       "family": "",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "012_a_Units.pdf",
@@ -106,7 +106,7 @@
       "code": "(d)",
       "title": "Energy resources and electricity generation",
       "family": "",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "016_b_Density_and_pressure.pdf",
@@ -127,7 +127,7 @@
       "code": "(d)",
       "title": "Ideal gas molecules",
       "family": "",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "019_a_Units.pdf",
@@ -155,38 +155,45 @@
       "code": "(d)",
       "title": "Electromagnetic induction",
       "family": "",
+      "pages": 1
+    },
+    {
+      "file": "023_b_Radioactivity.pdf",
+      "code": "(b)",
+      "title": "Radioactivity",
+      "family": "",
       "pages": 2
     },
     {
-      "file": "023_c_Fission_and_fusion.pdf",
+      "file": "024_c_Fission_and_fusion.pdf",
       "code": "(c)",
       "title": "Fission and fusion",
       "family": "",
-      "pages": 3
+      "pages": 1
     },
     {
-      "file": "024_a_Units.pdf",
+      "file": "025_a_Units.pdf",
       "code": "(a)",
       "title": "Units",
       "family": "",
       "pages": 1
     },
     {
-      "file": "025_b_Motion_in_the_universe.pdf",
+      "file": "026_b_Motion_in_the_universe.pdf",
       "code": "(b)",
       "title": "Motion in the universe",
       "family": "",
       "pages": 1
     },
     {
-      "file": "026_c_Stellar_evolution.pdf",
+      "file": "027_c_Stellar_evolution.pdf",
       "code": "(c)",
       "title": "Stellar evolution",
       "family": "",
       "pages": 1
     },
     {
-      "file": "027_d_Cosmology.pdf",
+      "file": "028_d_Cosmology.pdf",
       "code": "(d)",
       "title": "Cosmology",
       "family": "",

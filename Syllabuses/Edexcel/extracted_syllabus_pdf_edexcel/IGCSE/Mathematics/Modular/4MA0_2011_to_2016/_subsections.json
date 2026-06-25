@@ -1,7 +1,7 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 46,
+  "n": 47,
   "subsections": [
     {
       "file": "001_Overview.pdf",
@@ -305,21 +305,28 @@
       "pages": 1
     },
     {
-      "file": "044_6_1_Graphical.pdf",
+      "file": "044_5_2_Transformation.pdf",
+      "code": "5.2",
+      "title": "Transformation",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "045_6_1_Graphical.pdf",
       "code": "6.1",
       "title": "Graphical",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "045_6_2_Statistical_measures_estimate_the_median_f.pdf",
+      "file": "046_6_2_Statistical_measures_estimate_the_median_f.pdf",
       "code": "6.2",
       "title": "Statistical measures estimate the median from a cumulative",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "046_6_3_Probability.pdf",
+      "file": "047_6_3_Probability.pdf",
       "code": "6.3",
       "title": "Probability",
       "family": "Num",

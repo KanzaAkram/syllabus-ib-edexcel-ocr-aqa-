@@ -1,115 +1,108 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 16,
+  "n": 15,
   "subsections": [
     {
-      "file": "001_Subject_content.pdf",
-      "code": "",
-      "title": "Subject content",
-      "kind": "overview",
-      "pages": 12
-    },
-    {
-      "file": "002_The_Republic_VII_514A_521B.pdf",
+      "file": "001_The_Republic_VII_514A_521B.pdf",
       "code": "",
       "title": "The Republic VII. 514A–521B",
       "kind": "rowlabel",
-      "pages": 34
+      "pages": 45
     },
     {
-      "file": "003_Wisdom_Literature_and_Religious_Experience.pdf",
+      "file": "002_Wisdom_Literature_and_Religious_Experience.pdf",
       "code": "",
       "title": "Wisdom Literature and Religious Experience",
       "kind": "rowlabel",
       "pages": 23
     },
     {
-      "file": "004_Philosophy_of_Religion.pdf",
+      "file": "003_Philosophy_of_Religion.pdf",
       "code": "",
       "title": "Philosophy of Religion",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "005_Religious_Ethics.pdf",
+      "file": "004_Religious_Ethics.pdf",
       "code": "",
       "title": "Religious Ethics",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "006_Jewish_Scriptures.pdf",
+      "file": "005_Jewish_Scriptures.pdf",
       "code": "",
       "title": "Jewish Scriptures",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "007_New_Testament.pdf",
+      "file": "006_New_Testament.pdf",
       "code": "",
       "title": "New Testament",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "008_Developments_in_Christian_Theology.pdf",
+      "file": "007_Developments_in_Christian_Theology.pdf",
       "code": "",
       "title": "Developments in Christian Theology",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "009_Buddhism.pdf",
+      "file": "008_Buddhism.pdf",
       "code": "",
       "title": "Buddhism",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "010_Hinduism.pdf",
+      "file": "009_Hinduism.pdf",
       "code": "",
       "title": "Hinduism",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "011_Islam.pdf",
+      "file": "010_Islam.pdf",
       "code": "",
       "title": "Islam",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "012_Judaism.pdf",
+      "file": "011_Judaism.pdf",
       "code": "",
       "title": "Judaism",
       "kind": "rowlabel",
       "pages": 13
     },
     {
-      "file": "013_A_B_boundary_performance_descriptions.pdf",
+      "file": "012_A_B_boundary_performance_descriptions.pdf",
       "code": "",
       "title": "A/B boundary performance descriptions",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "014_E_U_boundary_performance_descriptions.pdf",
+      "file": "013_E_U_boundary_performance_descriptions.pdf",
       "code": "",
       "title": "E/U boundary performance descriptions",
       "kind": "rowlabel",
       "pages": 2
     },
     {
-      "file": "015_A_B_boundary_performance_descriptions.pdf",
+      "file": "014_A_B_boundary_performance_descriptions.pdf",
       "code": "",
       "title": "A/B boundary performance descriptions",
       "kind": "rowlabel",
       "pages": 1
     },
     {
-      "file": "016_E_U_boundary_performance_descriptions.pdf",
+      "file": "015_E_U_boundary_performance_descriptions.pdf",
       "code": "",
       "title": "E/U boundary performance descriptions",
       "kind": "rowlabel",

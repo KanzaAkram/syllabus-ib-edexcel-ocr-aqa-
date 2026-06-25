@@ -1,122 +1,101 @@
 {
   "method": "toc",
   "sections": 6,
-  "n": 17,
+  "n": 14,
   "subsections": [
     {
-      "file": "001_GCSE_9_1_History_A_Explaining_the_Modern_W.pdf",
-      "code": "",
-      "title": "GCSE (9–1) History A (Explaining the Modern World) (J410)",
-      "kind": "label",
-      "pages": 1
-    },
-    {
-      "file": "002_the_period_study_J410_01_07_entry_code_det.pdf",
-      "code": "",
-      "title": "the period study (J410/01–07 entry code determined by non-British depth study chosen)",
-      "kind": "label",
-      "pages": 1
-    },
-    {
-      "file": "003_International_Relations_the_changing_inter.pdf",
+      "file": "001_International_Relations_the_changing_inter.pdf",
       "code": "",
       "title": "International Relations: the changing international order 1918–1975 (J410/01–07 entry code determined by non-British depth study selected)",
       "kind": "label",
       "pages": 2
     },
     {
-      "file": "004_China_1950_1981_The_People_and_the_State_J.pdf",
+      "file": "002_China_1950_1981_The_People_and_the_State_J.pdf",
       "code": "",
       "title": "China 1950–1981: The People and the State (J410/01)",
       "kind": "label",
       "pages": 1
     },
     {
-      "file": "005_Germany_1925_1955_The_People_and_the_State.pdf",
+      "file": "003_Germany_1925_1955_The_People_and_the_State.pdf",
       "code": "",
       "title": "Germany 1925–1955: The People and the State (J410/02)",
       "kind": "label",
       "pages": 1
     },
     {
-      "file": "006_South_Africa_1960_1994_The_People_and_the_.pdf",
+      "file": "004_South_Africa_1960_1994_The_People_and_the_.pdf",
       "code": "",
       "title": "South Africa 1960–1994: The People and the State (J410/05)",
       "kind": "label",
       "pages": 1
     },
     {
-      "file": "007_The_USA_1919_1948_The_People_and_the_State.pdf",
+      "file": "005_The_USA_1919_1948_The_People_and_the_State.pdf",
       "code": "",
       "title": "The USA 1919–1948: The People and the State (J410/06)",
       "kind": "label",
       "pages": 1
     },
     {
-      "file": "008_The_USA_1945_1974_The_People_and_the_State.pdf",
+      "file": "006_The_USA_1945_1974_The_People_and_the_State.pdf",
       "code": "",
       "title": "The USA 1945–1974: The People and the State (J410/07)",
       "kind": "label",
       "pages": 1
     },
     {
-      "file": "009_Migration_to_Britain_c_1000_to_c_2010_J410.pdf",
+      "file": "007_Migration_to_Britain_c_1000_to_c_2010_J410.pdf",
       "code": "",
       "title": "Migration to Britain c.1000 to c.2010 (J410/08)",
       "kind": "label",
       "pages": 2
     },
     {
-      "file": "010_Power_Monarchy_and_Democracy_in_Britain_c_.pdf",
+      "file": "008_Power_Monarchy_and_Democracy_in_Britain_c_.pdf",
       "code": "",
       "title": "Power: Monarchy and Democracy in Britain c.1000 to 2014 (J410/09)",
       "kind": "label",
       "pages": 2
     },
     {
-      "file": "011_War_and_British_Society_c_790_to_c_2010_J4.pdf",
+      "file": "009_War_and_British_Society_c_790_to_c_2010_J4.pdf",
       "code": "",
       "title": "War and British Society c.790 to c.2010 (J410/10)",
       "kind": "label",
       "pages": 2
     },
     {
-      "file": "012_The_Impact_of_Empire_on_Britain_1688_c_173.pdf",
+      "file": "010_The_Impact_of_Empire_on_Britain_1688_c_173.pdf",
       "code": "",
       "title": "The Impact of Empire on Britain 1688–c.1730 (J410/11)",
       "kind": "label",
       "pages": 1
     },
     {
-      "file": "013_The_English_Reformation_c_1520_c_1550_J410.pdf",
+      "file": "011_The_English_Reformation_c_1520_c_1550_J410.pdf",
       "code": "",
       "title": "The English Reformation c.1520–c.1550 (J410/12)",
       "kind": "label",
       "pages": 1
     },
     {
-      "file": "014_Personal_Rule_to_Restoration_1629_1660_J41.pdf",
+      "file": "012_Personal_Rule_to_Restoration_1629_1660_J41.pdf",
       "code": "",
       "title": "Personal Rule to Restoration 1629–1660 (J410/13)",
       "kind": "label",
       "pages": 1
     },
     {
-      "file": "015_the_study_of_the_historic_environment_J410.pdf",
-      "code": "",
-      "title": "the study of the historic environment (J410/11–13 determined by entry code for British depth study)",
-      "kind": "label",
-      "pages": 1
-    },
-    {
-      "file": "016_Urban_Environments_Patterns_of_Migration_J.pdf",
+      "file": "013_Urban_Environments_Patterns_of_Migration_J.pdf",
       "code": "",
       "title": "Urban Environments: Patterns of Migration (J410/11)",
       "kind": "label",
       "pages": 2
     },
     {
-      "file": "017_Castles_Form_and_Function_c_1000_1750_J410.pdf",
+      "file": "014_Castles_Form_and_Function_c_1000_1750_J410.pdf",
       "code": "",
       "title": "Castles: Form and Function c.1000–1750 (J410/12 and J410/13)",
       "kind": "label",

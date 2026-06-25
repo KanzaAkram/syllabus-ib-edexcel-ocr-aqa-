@@ -8,7 +8,7 @@
       "code": "",
       "title": "Overview",
       "family": "Overview",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "002_Section_1_Catholic_Beliefs.pdf",
@@ -113,7 +113,7 @@
       "code": "Paper 1",
       "title": "Area of Study 1 – Religion and Ethics",
       "family": "Paper",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "017_Area_of_study_2A_Catholic_Christianity.pdf",
@@ -169,7 +169,7 @@
       "code": "Paper 2",
       "title": "Area of Study 2 – Religion, Peace and Conflict",
       "family": "Paper",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "025_Area_of_study_3A_Catholic_Christianity.pdf",
@@ -197,14 +197,14 @@
       "code": "Area of study 3E",
       "title": "Hinduism",
       "family": "Area of study",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "029_Section_1_Beliefs_and_Teachings.pdf",
       "code": "Section 1",
       "title": "Beliefs and Teachings",
       "family": "Section",
-      "pages": 3
+      "pages": 4
     },
     {
       "file": "030_Area_of_study_3F_Judaism.pdf",
@@ -232,7 +232,7 @@
       "code": "Paper 3",
       "title": "Area of Study 3 – Religion, Philosophy and Social Justice",
       "family": "Paper",
-      "pages": 2
+      "pages": 1
     }
   ]
 }

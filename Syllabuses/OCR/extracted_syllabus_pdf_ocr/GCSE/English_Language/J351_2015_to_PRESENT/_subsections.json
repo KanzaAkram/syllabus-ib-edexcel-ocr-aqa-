@@ -1,52 +1,38 @@
 {
   "method": "toc",
   "sections": 3,
-  "n": 7,
+  "n": 5,
   "subsections": [
     {
-      "file": "001_2c_Content_of_Communicating_information_and_i.pdf",
-      "code": "2c",
-      "title": "Content of Communicating information and ideas (01)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_Section_A_Section_A.pdf",
+      "file": "001_Section_A_Section_A.pdf",
       "code": "Section A",
       "title": "Section A",
       "kind": "Section",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "003_Section_B_Section_B.pdf",
+      "file": "002_Section_B_Section_B.pdf",
       "code": "Section B",
       "title": "Section B",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "004_2c_Content_of_Exploring_effects_and_impact_02.pdf",
-      "code": "2c",
-      "title": "Content of Exploring effects and impact (02)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "005_Section_A_Section_A.pdf",
+      "file": "003_Section_A_Section_A.pdf",
       "code": "Section A",
       "title": "Section A",
       "kind": "Section",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "006_Section_B_Section_B.pdf",
+      "file": "004_Section_B_Section_B.pdf",
       "code": "Section B",
       "title": "Section B",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "007_Spoken_language_Component_03_or_04.pdf",
+      "file": "005_Spoken_language_Component_03_or_04.pdf",
       "code": "",
       "title": "Spoken language (Component 03 or 04)",
       "kind": "label",

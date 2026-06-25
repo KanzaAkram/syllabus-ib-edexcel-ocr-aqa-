@@ -1,31 +1,24 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 4,
+  "n": 3,
   "subsections": [
     {
-      "file": "001_Subject_content.pdf",
-      "code": "",
-      "title": "Subject content",
-      "kind": "overview",
-      "pages": 74
-    },
-    {
-      "file": "002_Section_1_Knowledge_and_understanding_about_becoming.pdf",
+      "file": "001_Section_1_Knowledge_and_understanding_about_becoming.pdf",
       "code": "Section 1",
       "title": "Knowledge and understanding about becoming informed citizens",
       "kind": "Section",
-      "pages": 1
+      "pages": 74
     },
     {
-      "file": "003_Section_2_Enquiry_and_communication.pdf",
+      "file": "002_Section_2_Enquiry_and_communication.pdf",
       "code": "Section 2",
       "title": "Enquiry and communication",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "004_Section_3_Developing_skills_of_participation_and_res.pdf",
+      "file": "003_Section_3_Developing_skills_of_participation_and_res.pdf",
       "code": "Section 3",
       "title": "Developing skills of participation and responsible action",
       "kind": "Section",

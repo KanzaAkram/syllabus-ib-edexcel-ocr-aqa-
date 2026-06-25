@@ -1,206 +1,192 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 29,
+  "n": 27,
   "subsections": [
     {
-      "file": "001_Subject_content.pdf",
-      "code": "",
-      "title": "Subject content",
-      "kind": "overview",
-      "pages": 6
-    },
-    {
-      "file": "002_1_1_RATIONALE.pdf",
+      "file": "001_1_1_RATIONALE.pdf",
       "code": "1.1",
       "title": "RATIONALE",
       "kind": "decimal",
-      "pages": 1
+      "pages": 6
     },
     {
-      "file": "003_1_2_CERTIFICATION_TITLE.pdf",
+      "file": "002_1_2_CERTIFICATION_TITLE.pdf",
       "code": "1.2",
       "title": "CERTIFICATION TITLE",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "004_1_3_LEVEL_OF_QUALIFICATION.pdf",
+      "file": "003_1_3_LEVEL_OF_QUALIFICATION.pdf",
       "code": "1.3",
       "title": "LEVEL OF QUALIFICATION",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "005_1_4_RECOMMENDED_PRIOR_LEARNING.pdf",
+      "file": "004_1_4_RECOMMENDED_PRIOR_LEARNING.pdf",
       "code": "1.4",
       "title": "RECOMMENDED PRIOR LEARNING",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "006_1_5_PROGRESSION.pdf",
+      "file": "005_1_5_PROGRESSION.pdf",
       "code": "1.5",
       "title": "PROGRESSION",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "007_1_6_OVERLAP_WITH_OTHER_QUALIFICATIONS.pdf",
+      "file": "006_1_6_OVERLAP_WITH_OTHER_QUALIFICATIONS.pdf",
       "code": "1.6",
       "title": "OVERLAP WITH OTHER QUALIFICATIONS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "008_1_7_RESTRICTIONS_ON_CANDIDATE_ENTRIES.pdf",
+      "file": "007_1_7_RESTRICTIONS_ON_CANDIDATE_ENTRIES.pdf",
       "code": "1.7",
       "title": "RESTRICTIONS ON CANDIDATE ENTRIES",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "009_1_8_CODE_OF_PRACTICE_REQUIREMENTS.pdf",
+      "file": "008_1_8_CODE_OF_PRACTICE_REQUIREMENTS.pdf",
       "code": "1.8",
       "title": "CODE OF PRACTICE REQUIREMENTS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "010_1_9_STATUS_IN_WALES_AND_NORTHERN_IRELAND.pdf",
+      "file": "009_1_9_STATUS_IN_WALES_AND_NORTHERN_IRELAND.pdf",
       "code": "1.9",
       "title": "STATUS IN WALES AND NORTHERN IRELAND",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "011_4_1_TIERS.pdf",
+      "file": "010_4_1_TIERS.pdf",
       "code": "4.1",
       "title": "TIERS",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "012_4_2_COMPONENTS.pdf",
+      "file": "011_4_2_COMPONENTS.pdf",
       "code": "4.2",
       "title": "COMPONENTS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "013_4_3_QUESTION_PAPERS.pdf",
+      "file": "012_4_3_QUESTION_PAPERS.pdf",
       "code": "4.3",
       "title": "QUESTION PAPERS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "014_4_4_WEIGHTING_OF_ASSESSMENT_OBJECTIVES.pdf",
+      "file": "013_4_4_WEIGHTING_OF_ASSESSMENT_OBJECTIVES.pdf",
       "code": "4.4",
       "title": "WEIGHTING OF ASSESSMENT OBJECTIVES",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "015_Paper_2_Paper_2.pdf",
-      "code": "Paper 2",
-      "title": "Paper 2",
-      "kind": "Paper",
-      "pages": 1
-    },
-    {
-      "file": "016_4_5_ENTRY_OPTIONS.pdf",
+      "file": "014_4_5_ENTRY_OPTIONS.pdf",
       "code": "4.5",
       "title": "ENTRY OPTIONS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "017_4_6_ASSESSMENT_OF_WRITTEN_COMMUNICATION_AND_IC.pdf",
+      "file": "015_4_6_ASSESSMENT_OF_WRITTEN_COMMUNICATION_AND_IC.pdf",
       "code": "4.6",
       "title": "ASSESSMENT OF WRITTEN COMMUNICATION AND ICT",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "018_4_7_DIFFERENTIATION.pdf",
+      "file": "016_4_7_DIFFERENTIATION.pdf",
       "code": "4.7",
       "title": "DIFFERENTIATION",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "019_4_8_AWARDING_OF_GRADES.pdf",
+      "file": "017_4_8_AWARDING_OF_GRADES.pdf",
       "code": "4.8",
       "title": "AWARDING OF GRADES",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "020_4_9_GRADE_DESCRIPTIONS.pdf",
+      "file": "018_4_9_GRADE_DESCRIPTIONS.pdf",
       "code": "4.9",
       "title": "GRADE DESCRIPTIONS",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "021_5_1_THE_ECONOMIC_PROBLEM.pdf",
+      "file": "019_5_1_THE_ECONOMIC_PROBLEM.pdf",
       "code": "5.1",
       "title": "THE ECONOMIC PROBLEM",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "022_5_2_THE_COMPETITIVE_MARKET.pdf",
+      "file": "020_5_2_THE_COMPETITIVE_MARKET.pdf",
       "code": "5.2",
       "title": "THE COMPETITIVE MARKET",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "023_5_3_THE_ECONOMIC_ROLE_OF_GOVERNMENT_WITHIN_THE.pdf",
+      "file": "021_5_3_THE_ECONOMIC_ROLE_OF_GOVERNMENT_WITHIN_THE.pdf",
       "code": "5.3",
       "title": "THE ECONOMIC ROLE OF GOVERNMENT WITHIN THE UK",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "024_5_4_THE_EUROPEAN_AND_INTERNATIONAL_SETTING.pdf",
+      "file": "022_5_4_THE_EUROPEAN_AND_INTERNATIONAL_SETTING.pdf",
       "code": "5.4",
       "title": "THE EUROPEAN AND INTERNATIONAL SETTING",
       "kind": "decimal",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "025_6_1_ICT.pdf",
+      "file": "023_6_1_ICT.pdf",
       "code": "6.1",
       "title": "ICT",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "026_6_2_CITIZENSHIP.pdf",
+      "file": "024_6_2_CITIZENSHIP.pdf",
       "code": "6.2",
       "title": "CITIZENSHIP",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "027_6_3_SPIRITUAL_MORAL_ETHICAL_SOCIAL_AND_CULTURA.pdf",
+      "file": "025_6_3_SPIRITUAL_MORAL_ETHICAL_SOCIAL_AND_CULTURA.pdf",
       "code": "6.3",
       "title": "SPIRITUAL, MORAL, ETHICAL, SOCIAL AND CULTURAL",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "028_6_4_HEALTH_SAFETY_AND_ENVIRONMENTAL_ISSUES.pdf",
+      "file": "026_6_4_HEALTH_SAFETY_AND_ENVIRONMENTAL_ISSUES.pdf",
       "code": "6.4",
       "title": "HEALTH, SAFETY AND ENVIRONMENTAL ISSUES",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "029_6_5_THE_EUROPEAN_DIMENSION.pdf",
+      "file": "027_6_5_THE_EUROPEAN_DIMENSION.pdf",
       "code": "6.5",
       "title": "THE EUROPEAN DIMENSION",
       "kind": "decimal",

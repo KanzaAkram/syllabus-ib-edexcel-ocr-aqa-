@@ -1,150 +1,157 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 21,
+  "n": 22,
   "subsections": [
     {
-      "file": "001_Topic_1_Numerical_measures_graphs_and_diagrams.pdf",
-      "code": "Topic 1",
-      "title": "Numerical measures, graphs and diagrams",
-      "family": "Topic",
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
       "pages": 2
     },
     {
-      "file": "002_Topic_2_Probability.pdf",
+      "file": "002_Topic_1_Numerical_measures_graphs_and_diagrams.pdf",
+      "code": "Topic 1",
+      "title": "Numerical measures, graphs and diagrams",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "003_Topic_2_Probability.pdf",
       "code": "Topic 2",
       "title": "Probability",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "003_Topic_3_Population_and_samples.pdf",
+      "file": "004_Topic_3_Population_and_samples.pdf",
       "code": "Topic 3",
       "title": "Population and samples",
       "family": "Topic",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "004_Topic_4_Introduction_to_probability_distributions.pdf",
+      "file": "005_Topic_4_Introduction_to_probability_distributions.pdf",
       "code": "Topic 4",
       "title": "Introduction to probability distributions",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "005_Topic_5_Binomial_distribution.pdf",
+      "file": "006_Topic_5_Binomial_distribution.pdf",
       "code": "Topic 5",
       "title": "Binomial distribution",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "006_Topic_6_Normal_distribution.pdf",
+      "file": "007_Topic_6_Normal_distribution.pdf",
       "code": "Topic 6",
       "title": "Normal distribution",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "007_Topic_7_Correlation_and_linear_regression.pdf",
+      "file": "008_Topic_7_Correlation_and_linear_regression.pdf",
       "code": "Topic 7",
       "title": "Correlation and linear regression",
       "family": "Topic",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "008_Topic_8_Introduction_to_hypothesis_testing.pdf",
+      "file": "009_Topic_8_Introduction_to_hypothesis_testing.pdf",
       "code": "Topic 8",
       "title": "Introduction to hypothesis testing",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "009_Topic_9_Contingency_tables.pdf",
+      "file": "010_Topic_9_Contingency_tables.pdf",
       "code": "Topic 9",
       "title": "Contingency tables",
       "family": "Topic",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "010_Topic_10_One_and_two_sample_non_parametric_tests.pdf",
+      "file": "011_Topic_10_One_and_two_sample_non_parametric_tests.pdf",
       "code": "Topic 10",
       "title": "One and two sample non-parametric tests",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "011_Topic_11_Bayes_theorem.pdf",
+      "file": "012_Topic_11_Bayes_theorem.pdf",
       "code": "Topic 11",
       "title": "Bayes’ theorem",
       "family": "Topic",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "012_Topic_12_Probability_distributions.pdf",
+      "file": "013_Topic_12_Probability_distributions.pdf",
       "code": "Topic 12",
       "title": "Probability distributions",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "013_Topic_13_Experimental_design.pdf",
+      "file": "014_Topic_13_Experimental_design.pdf",
       "code": "Topic 13",
       "title": "Experimental design",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "014_Topic_14_Sampling_estimates_and_resampling.pdf",
+      "file": "015_Topic_14_Sampling_estimates_and_resampling.pdf",
       "code": "Topic 14",
       "title": "Sampling, estimates and resampling",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "015_Topic_15_Hypothesis_testing_significance_testing_co.pdf",
+      "file": "016_Topic_15_Hypothesis_testing_significance_testing_co.pdf",
       "code": "Topic 15",
       "title": "Hypothesis testing, significance testing, confidence intervals",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "016_Topic_16_Hypothesis_testing_for_1_and_2_samples.pdf",
+      "file": "017_Topic_16_Hypothesis_testing_for_1_and_2_samples.pdf",
       "code": "Topic 16",
       "title": "Hypothesis testing for 1 and 2 samples",
       "family": "Topic",
       "pages": 2
     },
     {
-      "file": "017_Topic_17_Paired_tests.pdf",
+      "file": "018_Topic_17_Paired_tests.pdf",
       "code": "Topic 17",
       "title": "Paired tests",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "018_Topic_18_Exponential_and_Poisson_distributions.pdf",
+      "file": "019_Topic_18_Exponential_and_Poisson_distributions.pdf",
       "code": "Topic 18",
       "title": "Exponential and Poisson distributions",
       "family": "Topic",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "019_Topic_19_Goodness_of_fit.pdf",
+      "file": "020_Topic_19_Goodness_of_fit.pdf",
       "code": "Topic 19",
       "title": "Goodness of fit",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "020_Topic_20_Analysis_of_variance.pdf",
+      "file": "021_Topic_20_Analysis_of_variance.pdf",
       "code": "Topic 20",
       "title": "Analysis of variance",
       "family": "Topic",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "021_Topic_21_Effect_size.pdf",
+      "file": "022_Topic_21_Effect_size.pdf",
       "code": "Topic 21",
       "title": "Effect size",
       "family": "Topic",

@@ -1,70 +1,77 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 9,
+  "n": 10,
   "subsections": [
     {
-      "file": "001_1_2_Assessment_information.pdf",
+      "file": "001_1_1_Unit_description.pdf",
+      "code": "1.1",
+      "title": "Unit description",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "002_1_2_Assessment_information.pdf",
       "code": "1.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "002_1_3_Unit_content.pdf",
+      "file": "003_1_3_Unit_content.pdf",
       "code": "1.3",
       "title": "Unit content",
       "family": "Num",
       "pages": 9
     },
     {
-      "file": "003_2_2_Assessment_information.pdf",
+      "file": "004_2_2_Assessment_information.pdf",
       "code": "2.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "004_2_3_Unit_content.pdf",
+      "file": "005_2_3_Unit_content.pdf",
       "code": "2.3",
       "title": "Unit content",
       "family": "Num",
       "pages": 11
     },
     {
-      "file": "005_3_2_Assessment_information.pdf",
+      "file": "006_3_2_Assessment_information.pdf",
       "code": "3.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "006_3_3_Unit_content.pdf",
+      "file": "007_3_3_Unit_content.pdf",
       "code": "3.3",
       "title": "Unit content",
       "family": "Num",
       "pages": 8
     },
     {
-      "file": "007_4_2_Assessment_information.pdf",
+      "file": "008_4_2_Assessment_information.pdf",
       "code": "4.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "008_4_3_Unit_content.pdf",
+      "file": "009_4_3_Unit_content.pdf",
       "code": "4.3",
       "title": "Unit content",
       "family": "Num",
-      "pages": 6
+      "pages": 9
     },
     {
-      "file": "009_Unit_1_and_Unit_2.pdf",
+      "file": "010_Unit_1_and_Unit_2.pdf",
       "code": "Unit 1",
       "title": "and Unit 2",
       "family": "Unit",
-      "pages": 4
+      "pages": 1
     }
   ]
 }

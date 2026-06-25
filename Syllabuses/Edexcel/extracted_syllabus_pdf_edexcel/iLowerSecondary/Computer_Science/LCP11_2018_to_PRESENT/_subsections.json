@@ -1,7 +1,7 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 14,
+  "n": 15,
   "subsections": [
     {
       "file": "001_Overview.pdf",
@@ -29,14 +29,14 @@
       "code": "Topic 3",
       "title": "Data representation",
       "family": "Topic",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "005_Topic_4_Computers_hardware_processing_and_software.pdf",
       "code": "Topic 4",
       "title": "Computers: hardware, processing and software",
       "family": "Topic",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "006_Topic_5_Communications_and_networks.pdf",
@@ -74,32 +74,39 @@
       "pages": 1
     },
     {
-      "file": "011_Topic_11_Software_skills_web_authoring.pdf",
+      "file": "011_Topic_10_Software_skills_spreadsheets.pdf",
+      "code": "Topic 10",
+      "title": "Software skills: spreadsheets",
+      "family": "Topic",
+      "pages": 1
+    },
+    {
+      "file": "012_Topic_11_Software_skills_web_authoring.pdf",
       "code": "Topic 11",
       "title": "Software skills: web authoring",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "012_Topic_12_Software_skills_presentation.pdf",
+      "file": "013_Topic_12_Software_skills_presentation.pdf",
       "code": "Topic 12",
       "title": "Software skills: presentation",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "013_Topic_13_Software_skills_graphics_and_digital_photo.pdf",
+      "file": "014_Topic_13_Software_skills_graphics_and_digital_photo.pdf",
       "code": "Topic 13",
       "title": "Software skills: graphics and digital photo-editing",
       "family": "Topic",
       "pages": 1
     },
     {
-      "file": "014_Topic_14_Software_skills_file_handling.pdf",
+      "file": "015_Topic_14_Software_skills_file_handling.pdf",
       "code": "Topic 14",
       "title": "Software skills: file handling",
       "family": "Topic",
-      "pages": 2
+      "pages": 1
     }
   ]
 }

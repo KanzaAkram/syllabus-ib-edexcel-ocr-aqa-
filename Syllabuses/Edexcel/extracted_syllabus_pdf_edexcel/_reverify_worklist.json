@@ -1,0 +1,385 @@
+[
+ {
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\GCSE\\Religious_Studies\\1RB0_2012_to_2016",
+  "files": [
+   "003_Section_3_Living_the_Catholic_Life.pdf",
+   "005_Section_3_Living_the_Christian_Life.pdf",
+   "007_Section_3_Living_the_Muslim_Life.pdf",
+   "009_Section_3_Living_the_Buddhist_Life.pdf",
+   "011_Section_3_Living_the_Hindu_Life.pdf",
+   "013_Section_3_Living_the_Jewish_Life.pdf",
+   "015_Section_3_Living_the_Sikh_Life.pdf",
+   "016_Paper_1_Area_of_Study_1_Religion_and_Ethics.pdf",
+   "018_Area_of_study_2B_Christianity.pdf",
+   "019_Area_of_study_2C_Islam.pdf",
+   "020_Area_of_study_2D_Buddhism.pdf",
+   "021_Area_of_study_2E_Hinduism.pdf",
+   "022_Area_of_study_2F_Judaism.pdf",
+   "023_Area_of_study_2G_Sikhism.pdf",
+   "024_Paper_2_Area_of_Study_2_Religion_Peace_and_Conflic.pdf",
+   "025_Area_of_study_3A_Catholic_Christianity.pdf",
+   "026_Area_of_study_3B_Christianity.pdf",
+   "027_Area_of_study_3C_Islam.pdf",
+   "028_Area_of_study_3E_Hinduism.pdf",
+   "030_Area_of_study_3F_Judaism.pdf",
+   "031_Section_2_Religious_Experience.pdf",
+   "032_Area_of_study_3G_Sikhism.pdf",
+   "033_Paper_3_Area_of_Study_3_Religion_Philosophy_and_So.pdf"
+  ]
+ },
+ {
+  "spec": "GCSE/History/1HI0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\GCSE\\History\\1HI0_2017_to_PRESENT",
+  "files": [
+   "003_Option_11_Medicine_in_Britain_c1250_present_and_The_.pdf",
+   "004_Option_12_Warfare_and_British_society_c1250_present_.pdf",
+   "005_Option_13_Migrants_in_Britain_c800_present_and_Notti.pdf",
+   "007_Option_B2_The_reigns_of_King_Richard_I_and_King_John.pdf",
+   "008_Option_B3_Henry_VIII_and_his_ministers_1509_40.pdf",
+   "009_Option_B4_Early_Elizabethan_England_1558_88.pdf",
+   "010_Option_P1_Spain_and_the_New_World_c1490_c1555.pdf",
+   "011_Option_P2_British_America_1713_83_empire_and_revolut.pdf",
+   "012_Option_P3_The_American_West_c1835_c1895.pdf",
+   "013_Option_P4_Superpower_relations_and_the_Cold_War_1941.pdf",
+   "014_Option_P5_Conflict_in_the_Middle_East_1945_95.pdf",
+   "016_Option_31_Weimar_and_Nazi_Germany_1918_39.pdf",
+   "017_Option_32_Mao_s_China_1945_76.pdf",
+   "018_Option_33_The_USA_1954_75_conflict_at_home_and_abroa.pdf"
+  ]
+ },
+ {
+  "spec": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\iLowerSecondary\\Mathematics\\LMA11_2018_to_PRESENT",
+  "files": [
+   "003_1_2_Fractions_and_decimals.pdf",
+   "004_3_5_and_7.pdf",
+   "005_1_3_Percentages.pdf",
+   "006_1_4_Calculation_skills.pdf",
+   "008_1_6_Standard_form.pdf",
+   "010_2_2_Equations.pdf",
+   "012_2_4_Graphs.pdf",
+   "013_2_5_Inequalities.pdf",
+   "015_40_5_g_and_volume_15_cm3.pdf",
+   "017_3_3_Symmetry.pdf",
+   "019_3_5_Constructions.pdf",
+   "023_4_2_Charts_and_diagrams.pdf",
+   "024_4_3_Probability.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Statistics/9ST0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Statistics\\9ST0_2017_to_PRESENT",
+  "files": [
+   "004_Topic_4_Introduction_to_probability_distributions.pdf",
+   "007_Topic_7_Correlation_and_linear_regression.pdf",
+   "009_Topic_9_Contingency_tables.pdf",
+   "011_Topic_11_Bayes_theorem.pdf",
+   "012_Topic_12_Probability_distributions.pdf",
+   "013_Topic_13_Experimental_design.pdf",
+   "016_Topic_16_Hypothesis_testing_for_1_and_2_samples.pdf",
+   "017_Topic_17_Paired_tests.pdf",
+   "018_Topic_18_Exponential_and_Poisson_distributions.pdf",
+   "019_Topic_19_Goodness_of_fit.pdf",
+   "020_Topic_20_Analysis_of_variance.pdf",
+   "021_Topic_21_Effect_size.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Biology/8BN01_2008_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Biology\\8BN01_2008_to_2016",
+  "files": [
+   "001_1_2_Assessment_information.pdf",
+   "003_1_4_Topic_2_Genes_and_health.pdf",
+   "004_2_2_Assessment_information.pdf",
+   "007_3_2_Assessment_information.pdf",
+   "009_3_4_Topic_6_Infection_immunity_and_forensics.pdf",
+   "012_4_4_Topic_8_Grey_matter.pdf",
+   "013_5_2_Assessment_information.pdf",
+   "016_6_2_Assessment_information.pdf",
+   "019_7_2_Assessment_information.pdf",
+   "026_9_2_Part_2_Visit_or_issue_report.pdf"
+  ]
+ },
+ {
+  "spec": "iLowerSecondary/Computer_Science/LCP11_2018_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\iLowerSecondary\\Computer_Science\\LCP11_2018_to_PRESENT",
+  "files": [
+   "004_Topic_3_Data_representation.pdf",
+   "006_Topic_5_Communications_and_networks.pdf",
+   "007_Topic_6_Safe_and_responsible_practice.pdf",
+   "011_Topic_11_Software_skills_web_authoring.pdf",
+   "012_Topic_12_Software_skills_presentation.pdf",
+   "013_Topic_13_Software_skills_graphics_and_digital_photo.pdf",
+   "014_Topic_14_Software_skills_file_handling.pdf"
+  ]
+ },
+ {
+  "spec": "International_A_Level/Biology/WBI01_2014_to_2019",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\International_A_Level\\Biology\\WBI01_2014_to_2019",
+  "files": [
+   "001_1_2_Assessment_information.pdf",
+   "004_2_2_Assessment_information.pdf",
+   "007_3_2_Assessment_information.pdf",
+   "014_5_2_Assessment_information.pdf",
+   "017_6_2_Assessment_information.pdf",
+   "020_7_2_Assessment_information.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Chemistry/8CH01_2008_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Chemistry\\8CH01_2008_to_2016",
+  "files": [
+   "006_1_6_Bonding.pdf",
+   "011_2_6_Redox.pdf",
+   "013_2_8_Kinetics.pdf",
+   "027_4_5_Equilibria.pdf",
+   "028_4_6_Application_of_rates_and_equilibrium.pdf",
+   "030_4_8_Further_organic_chemistry.pdf"
+  ]
+ },
+ {
+  "spec": "iPrimary/Mathematics/JMA11_2018_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\iPrimary\\Mathematics\\JMA11_2018_to_PRESENT",
+  "files": [
+   "003_1_2_Addition_and_subtraction.pdf",
+   "004_1_3_Multiplication_and_division.pdf",
+   "005_1_4_Four_operations.pdf",
+   "007_1_6_Percentages.pdf",
+   "013_3_2_Shape.pdf",
+   "014_3_3_Angles.pdf"
+  ]
+ },
+ {
+  "spec": "IGCSE/Physics/Linear/4PH1_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\IGCSE\\Physics\\Linear\\4PH1_2017_to_PRESENT",
+  "files": [
+   "004_c_Forces_movement_shape_and_momentum.pdf",
+   "008_d_Electric_charge.pdf",
+   "011_d_Light_and_sound.pdf",
+   "018_d_Ideal_gas_molecules.pdf",
+   "022_d_Electromagnetic_induction.pdf",
+   "023_c_Fission_and_fusion.pdf"
+  ]
+ },
+ {
+  "spec": "International_A_Level/Chemistry/WCH01_2014_to_2019",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\International_A_Level\\Chemistry\\WCH01_2014_to_2019",
+  "files": [
+   "003_1_4_Energetics.pdf",
+   "016_2_11_Mechanisms.pdf",
+   "023_4_4_How_far_entropy.pdf",
+   "024_4_5_Equilibria.pdf",
+   "027_4_8_Further_organic_chemistry.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Geography/8GE01_2008_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Geography\\8GE01_2008_to_2016",
+  "files": [
+   "002_1_2_Assessment_information.pdf",
+   "007_2_4_Topic_2_Crowded_Coasts.pdf",
+   "008_2_5_Topic_3_Unequal_Spaces.pdf",
+   "009_2_6_Topic_4_Rebranding_Places.pdf",
+   "011_3_2_Assessment_information.pdf"
+  ]
+ },
+ {
+  "spec": "GCSE/Physics/2PH01_2012_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\GCSE\\Physics\\2PH01_2012_to_2016",
+  "files": [
+   "004_5_12_Use_the_turns_ratio_equation_for_transform.pdf",
+   "005_2_13_Explain_the_energy_transfer_in_2_12_above_.pdf",
+   "006_4_18_Carry_out_calculations_on_work_done_to_sho.pdf",
+   "011_3_11_Recall_that_nuclei_with_high_values_of_Z_a.pdf"
+  ]
+ },
+ {
+  "spec": "IGCSE/Biology/Linear/4BI1_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\IGCSE\\Biology\\Linear\\4BI1_2017_to_PRESENT",
+  "files": [
+   "002_b_Variety_of_living_organisms.pdf",
+   "012_j_Co_ordination_and_response.pdf",
+   "014_b_Inheritance.pdf",
+   "018_d_Human_influences_on_the_environment.pdf"
+  ]
+ },
+ {
+  "spec": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\GCSE\\Religious_Studies\\1RA0_2017_to_PRESENT",
+  "files": [
+   "002_Section_3_Sources_of_Wisdom_and_Authority.pdf",
+   "005_Area_of_study_1C_Islam.pdf",
+   "006_Paper_1_Area_of_Study_1_Study_of_Religion.pdf",
+   "017_Paper_3_Area_of_Study_3_Philosophy_and_Ethics.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Music/8MU01_2008_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Music\\8MU01_2008_to_2016",
+  "files": [
+   "013_2_3_Assessment_information.pdf",
+   "014_2_4_How_the_assessment_criteria_will_be_applie.pdf",
+   "018_3_3_Details_of_set_works.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Geography/9GE0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Geography\\9GE0_2017_to_PRESENT",
+  "files": [
+   "021_Option_4A_Regenerating_Places.pdf",
+   "039_6_9_Further_planetary.pdf",
+   "051_Paper_2_Paper_code_9GE0_02.pdf"
+  ]
+ },
+ {
+  "spec": "iPrimary/Biology/JSC11_2018_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\iPrimary\\Biology\\JSC11_2018_to_PRESENT",
+  "files": [
+   "006_Topic_6_Plant_life_cycles.pdf",
+   "007_Topic_7_Heart_lungs_and_circulation.pdf",
+   "011_Topic_11_Light.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/History/8HI01_2008_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\History\\8HI01_2008_to_2016",
+  "files": [
+   "030_4_5_Edexcel_designed_coursework_programme_titl.pdf",
+   "062_Unit_2_Option_C.pdf"
+  ]
+ },
+ {
+  "spec": "IGCSE/Chemistry/Linear/4CH1_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\IGCSE\\Chemistry\\Linear\\4CH1_2017_to_PRESENT",
+  "files": [
+   "017_h_Chemical_tests.pdf",
+   "020_c_Reversible_reactions_and_equilibria.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Physical_Education/9PE0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Physical_Education\\9PE0_2017_to_PRESENT",
+  "files": [
+   "001_Overview.pdf",
+   "012_2_7_Fluid_mechanics.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Economics/9EC0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Economics\\9EC0_2017_to_PRESENT",
+  "files": [
+   "001_3_1.pdf",
+   "004_3_4.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Mathematics/9371_2013_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Mathematics\\9371_2013_to_2016",
+  "files": [
+   "017_Unit_D1_Decision_Mathematics_1.pdf",
+   "018_Unit_D2_Decision_Mathematics_2.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Physical_Education/8PE01_2008_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Physical_Education\\8PE01_2008_to_2016",
+  "files": [
+   "014_Component_1_Planning_and_Researching.pdf",
+   "016_Component_3_Review_and_Evaluation.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Politics/8GP01_2008_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Politics\\8GP01_2008_to_2016",
+  "files": [
+   "005_3_2_Assessment_information.pdf",
+   "010_4_2_Assessment_information.pdf"
+  ]
+ },
+ {
+  "spec": "International_A_Level/Physics/WPH01_2014_to_2019",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\International_A_Level\\Physics\\WPH01_2014_to_2019",
+  "files": [
+   "016_4_6_Astrophysics_and_cosmology.pdf",
+   "031_8_4_Build_or_Bust_BLD.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/History/9HI0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\History\\9HI0_2017_to_PRESENT",
+  "files": [
+   "025_Paper_2_Option_2H_2.pdf"
+  ]
+ },
+ {
+  "spec": "IGCSE/Chemistry/Linear/4CH0_2009_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\IGCSE\\Chemistry\\Linear\\4CH0_2009_to_2016",
+  "files": [
+   "004_1_25_calculate_percentage_yield.pdf"
+  ]
+ },
+ {
+  "spec": "IGCSE/Physics/Linear/4PH0_2009_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\IGCSE\\Physics\\Linear\\4PH0_2009_to_2016",
+  "files": [
+   "002_1_27_know_and_use_the_principle_of_moments_for_.pdf"
+  ]
+ },
+ {
+  "spec": "GCSE/Chemistry/2CH01_2012_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\GCSE\\Chemistry\\2CH01_2012_to_2016",
+  "files": [
+   "004_1_25_calculate_percentage_yield.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Physics/9PH0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Physics\\9PH0_2017_to_PRESENT",
+  "files": [
+   "007_Topic_6_Further_Mechanics.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Further_Mathematics/9FM0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Further_Mathematics\\9FM0_2017_to_PRESENT",
+  "files": [
+   "010_Topic_9_Differential_equations.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Music/9MU0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Music\\9MU0_2017_to_PRESENT",
+  "files": [
+   "002_Component_2_Composing.pdf"
+  ]
+ },
+ {
+  "spec": "A_Level/Art_and_Design/9AD0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\A_Level\\Art_and_Design\\9AD0_2017_to_PRESENT",
+  "files": [
+   "003_Component_2_Externally_Set_Assignment.pdf"
+  ]
+ },
+ {
+  "spec": "GCSE/Economics/NA_2009_to_2016",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\GCSE\\Economics\\NA_2009_to_2016",
+  "files": [
+   "001_Paper_1_Economics.pdf"
+  ]
+ },
+ {
+  "spec": "GCSE/Physics/1PH0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\GCSE\\Physics\\1PH0_2017_to_PRESENT",
+  "files": [
+   "006_Topic_6_Radioactivity.pdf"
+  ]
+ },
+ {
+  "spec": "GCSE/Spanish/1SP0_2017_to_PRESENT",
+  "extract_dir": "C:\\Users\\kanza\\Desktop\\syllabus(ib,edexcel,ocr,aqa)\\Syllabuses\\Edexcel\\extracted_syllabus_pdf_edexcel\\GCSE\\Spanish\\1SP0_2017_to_PRESENT",
+  "files": [
+   "003_Paper_3_Reading_and_understanding_in_Spanish.pdf"
+  ]
+ }
+]

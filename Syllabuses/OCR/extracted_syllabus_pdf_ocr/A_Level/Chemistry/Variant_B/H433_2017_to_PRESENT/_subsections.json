@@ -1,31 +1,24 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 4,
+  "n": 3,
   "subsections": [
     {
-      "file": "001_2b_Content_of_A_Level_in_Chemistry_B_Salters_.pdf",
-      "code": "2b",
-      "title": "Content of A Level in Chemistry B (Salters) (H433)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_Section_2c_Development_of_practical_skills_in.pdf",
+      "file": "001_Section_2c_Development_of_practical_skills_in.pdf",
       "code": "Section 2c",
       "title": "Development of practical skills in",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "003_Section_2d_Storylines.pdf",
+      "file": "002_Section_2d_Storylines.pdf",
       "code": "Section 2d",
       "title": "Storylines",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "004_Section_2e_Chemical_literacy.pdf",
+      "file": "003_Section_2e_Chemical_literacy.pdf",
       "code": "Section 2e",
       "title": "Chemical literacy",
       "kind": "Section",

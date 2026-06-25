@@ -15,7 +15,7 @@
       "code": "Topic 1",
       "title": "Number",
       "family": "Topic",
-      "pages": 5
+      "pages": 4
     },
     {
       "file": "003_Topic_2_Algebra.pdf",
@@ -57,28 +57,28 @@
       "code": "Topic 1",
       "title": "Number",
       "family": "Topic",
-      "pages": 7
+      "pages": 6
     },
     {
       "file": "009_Topic_2_Algebra.pdf",
       "code": "Topic 2",
       "title": "Algebra",
       "family": "Topic",
-      "pages": 5
+      "pages": 7
     },
     {
       "file": "010_Topic_3_Geometry.pdf",
       "code": "Topic 3",
       "title": "Geometry",
       "family": "Topic",
-      "pages": 10
+      "pages": 9
     },
     {
       "file": "011_Topic_4_Measures.pdf",
       "code": "Topic 4",
       "title": "Measures",
       "family": "Topic",
-      "pages": 5
+      "pages": 3
     },
     {
       "file": "012_Topic_5_Statistics.pdf",

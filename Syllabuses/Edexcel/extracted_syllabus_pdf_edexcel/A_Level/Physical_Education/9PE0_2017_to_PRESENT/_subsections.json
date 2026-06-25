@@ -8,7 +8,7 @@
       "code": "",
       "title": "Overview",
       "family": "Overview",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "002_1_1_Muscular.pdf",
@@ -85,7 +85,7 @@
       "code": "2.7",
       "title": "Fluid mechanics",
       "family": "Num",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "013_3_1_Coach_and.pdf",
@@ -232,14 +232,14 @@
       "code": "Component 3",
       "title": "Practical performance",
       "family": "Component",
-      "pages": 4
+      "pages": 17
     },
     {
       "file": "034_Component_4_Performance_Analysis_and_Performance.pdf",
       "code": "Component 4",
       "title": "Performance Analysis and Performance",
       "family": "Component",
-      "pages": 20
+      "pages": 6
     }
   ]
 }

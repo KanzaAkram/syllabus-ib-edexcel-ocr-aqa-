@@ -92,14 +92,14 @@
       "code": "2.3",
       "title": "Assessment information",
       "family": "Num",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "014_2_4_How_the_assessment_criteria_will_be_applie.pdf",
       "code": "2.4",
       "title": "How the assessment criteria will be applied",
       "family": "Num",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "015_2_5_Assessment_criteria_for_the_composition.pdf",
@@ -141,35 +141,35 @@
       "code": "4.3",
       "title": "Assessment information",
       "family": "Num",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "021_4_4_How_the_assessment_criteria_will_be_applie.pdf",
       "code": "4.4",
       "title": "How the assessment criteria will be applied",
       "family": "Num",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "022_4_5_Assessment_criteria_for_performance_from_a.pdf",
       "code": "4.5",
       "title": "Assessment criteria for performance from a score",
       "family": "Num",
-      "pages": 7
+      "pages": 8
     },
     {
       "file": "023_4_6_Assessment_criteria_for_improvised_perform.pdf",
       "code": "4.6",
       "title": "Assessment criteria for improvised performances",
       "family": "Num",
-      "pages": 7
+      "pages": 6
     },
     {
       "file": "024_4_7_Performance_scaling_grid.pdf",
       "code": "4.7",
       "title": "Performance scaling grid",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "025_4_8_Administration_of_internal_assessment.pdf",
@@ -225,21 +225,21 @@
       "code": "6.3",
       "title": "Details of Unit 6 set works",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "033_6_4_Assessment_information.pdf",
       "code": "6.4",
       "title": "Assessment information",
       "family": "Num",
-      "pages": 9
+      "pages": 5
     },
     {
       "file": "034_Section_E_Pearson_Education_Limited_2013.pdf",
       "code": "Section E",
       "title": "© Pearson Education Limited 2013",
       "family": "Section",
-      "pages": 3
+      "pages": 8
     }
   ]
 }

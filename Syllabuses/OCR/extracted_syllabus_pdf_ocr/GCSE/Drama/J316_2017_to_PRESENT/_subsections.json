@@ -1,7 +1,7 @@
 {
   "method": "toc",
   "sections": 4,
-  "n": 6,
+  "n": 5,
   "subsections": [
     {
       "file": "001_2c_Devising_drama_01_02.pdf",
@@ -25,21 +25,14 @@
       "pages": 4
     },
     {
-      "file": "004_3j_Non_exam_assessment_Devising_drama_01_02.pdf",
-      "code": "3j",
-      "title": "Non-exam assessment: Devising drama (01/02)",
-      "kind": "overview",
-      "pages": 2
-    },
-    {
-      "file": "005_drama_The_final_assessed_performance_must_.pdf",
+      "file": "004_drama_The_final_assessed_performance_must_.pdf",
       "code": "",
       "title": "drama. The final assessed performance must be video",
       "kind": "rowlabel",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "006_Performer_requirements_AO2.pdf",
+      "file": "005_Performer_requirements_AO2.pdf",
       "code": "",
       "title": "Performer requirements (AO2)",
       "kind": "rowlabel",

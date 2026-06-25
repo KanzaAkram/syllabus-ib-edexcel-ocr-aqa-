@@ -1,430 +1,409 @@
 {
   "method": "toc",
   "sections": 3,
-  "n": 61,
+  "n": 58,
   "subsections": [
     {
-      "file": "001_2c_Content_of_unit_group_1_British_period_stu.pdf",
-      "code": "2c",
-      "title": "Content of unit group 1: British period study and enquiry (Units Y101 to Y113)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_Unit_Y101_Alfred_and_the_Making_of_England_871_1016.pdf",
+      "file": "001_Unit_Y101_Alfred_and_the_Making_of_England_871_1016.pdf",
       "code": "Unit Y101",
       "title": "Alfred and the Making of England 871–1016",
       "kind": "Unit",
-      "pages": 2
+      "pages": 3
     },
     {
-      "file": "003_Unit_Y102_Anglo_Saxon_England_and_the_Norman_Conques.pdf",
+      "file": "002_Unit_Y102_Anglo_Saxon_England_and_the_Norman_Conques.pdf",
       "code": "Unit Y102",
       "title": "Anglo-Saxon England and the Norman Conquest 1035–1107",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "004_Unit_Y103_England_1199_1272.pdf",
+      "file": "003_Unit_Y103_England_1199_1272.pdf",
       "code": "Unit Y103",
       "title": "England 1199–1272",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "005_Unit_Y104_England_1377_1455.pdf",
+      "file": "004_Unit_Y104_England_1377_1455.pdf",
       "code": "Unit Y104",
       "title": "England 1377–1455",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "006_Unit_Y105_England_1445_1509_Lancastrians_Yorkists_an.pdf",
+      "file": "005_Unit_Y105_England_1445_1509_Lancastrians_Yorkists_an.pdf",
       "code": "Unit Y105",
       "title": "England 1445–1509: Lancastrians, Yorkists and Henry VII",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "007_Unit_Y106_England_1485_1558_the_Early_Tudors.pdf",
+      "file": "006_Unit_Y106_England_1485_1558_the_Early_Tudors.pdf",
       "code": "Unit Y106",
       "title": "England 1485–1558: the Early Tudors",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "008_Unit_Y107_England_1547_1603_the_Later_Tudors.pdf",
+      "file": "007_Unit_Y107_England_1547_1603_the_Later_Tudors.pdf",
       "code": "Unit Y107",
       "title": "England 1547–1603: the Later Tudors",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "009_Unit_Y108_The_Early_Stuarts_and_the_Origins_of_the_C.pdf",
+      "file": "008_Unit_Y108_The_Early_Stuarts_and_the_Origins_of_the_C.pdf",
       "code": "Unit Y108",
       "title": "The Early Stuarts and the Origins of the Civil War 1603–1660",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "010_Unit_Y109_The_Making_of_Georgian_Britain_1678_c_1760.pdf",
+      "file": "009_Unit_Y109_The_Making_of_Georgian_Britain_1678_c_1760.pdf",
       "code": "Unit Y109",
       "title": "The Making of Georgian Britain 1678–c.1760",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "011_Unit_Y110_From_Pitt_to_Peel_1783_1853.pdf",
+      "file": "010_Unit_Y110_From_Pitt_to_Peel_1783_1853.pdf",
       "code": "Unit Y110",
       "title": "From Pitt to Peel 1783–1853",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "012_Unit_Y111_Liberals_Conservatives_and_the_Rise_of_Lab.pdf",
+      "file": "011_Unit_Y111_Liberals_Conservatives_and_the_Rise_of_Lab.pdf",
       "code": "Unit Y111",
       "title": "Liberals, Conservatives and the Rise of Labour 1846–1918",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "013_Unit_Y112_Britain_1900_1951.pdf",
+      "file": "012_Unit_Y112_Britain_1900_1951.pdf",
       "code": "Unit Y112",
       "title": "Britain 1900–1951",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "014_Unit_Y113_Britain_1930_1997.pdf",
+      "file": "013_Unit_Y113_Britain_1930_1997.pdf",
       "code": "Unit Y113",
       "title": "Britain 1930–1997",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "015_2c_Content_of_unit_group_2_Non_British_period.pdf",
-      "code": "2c",
-      "title": "Content of unit group 2: Non-British period study (Units Y201 to Y224)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "016_Unit_Y201_The_Rise_of_Islam_c_550_750.pdf",
+      "file": "014_Unit_Y201_The_Rise_of_Islam_c_550_750.pdf",
       "code": "Unit Y201",
       "title": "The Rise of Islam c.550–750",
       "kind": "Unit",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "017_Unit_Y202_Charlemagne_768_814.pdf",
+      "file": "015_Unit_Y202_Charlemagne_768_814.pdf",
       "code": "Unit Y202",
       "title": "Charlemagne 768–814",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "018_Unit_Y203_The_Crusades_and_the_Crusader_States_1095_.pdf",
+      "file": "016_Unit_Y203_The_Crusades_and_the_Crusader_States_1095_.pdf",
       "code": "Unit Y203",
       "title": "The Crusades and the Crusader States 1095–1192",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "019_Unit_Y204_Genghis_Khan_and_the_Explosion_from_the_St.pdf",
+      "file": "017_Unit_Y204_Genghis_Khan_and_the_Explosion_from_the_St.pdf",
       "code": "Unit Y204",
       "title": "Genghis Khan and the Explosion from the Steppes c.1167–1405",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "020_Unit_Y205_Exploration_Encounters_and_Empire_1445_157.pdf",
+      "file": "018_Unit_Y205_Exploration_Encounters_and_Empire_1445_157.pdf",
       "code": "Unit Y205",
       "title": "Exploration, Encounters and Empire 1445–1570",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "021_Unit_Y206_Spain_1469_1556.pdf",
+      "file": "019_Unit_Y206_Spain_1469_1556.pdf",
       "code": "Unit Y206",
       "title": "Spain 1469–1556",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "022_Unit_Y207_The_German_Reformation_and_the_rule_of_Cha.pdf",
+      "file": "020_Unit_Y207_The_German_Reformation_and_the_rule_of_Cha.pdf",
       "code": "Unit Y207",
       "title": "The German Reformation and the rule of Charles V 1500–1559",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "023_Unit_Y208_Philip_II_1556_1598.pdf",
+      "file": "021_Unit_Y208_Philip_II_1556_1598.pdf",
       "code": "Unit Y208",
       "title": "Philip II 1556–1598",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "024_Unit_Y209_African_Kingdoms_c_1400_c_1800_four_case_s.pdf",
+      "file": "022_Unit_Y209_African_Kingdoms_c_1400_c_1800_four_case_s.pdf",
       "code": "Unit Y209",
       "title": "African Kingdoms c.1400–c.1800: four case studies",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "025_Unit_Y210_Russia_1645_1741.pdf",
+      "file": "023_Unit_Y210_Russia_1645_1741.pdf",
       "code": "Unit Y210",
       "title": "Russia 1645–1741",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "026_Unit_Y211_The_Rise_and_Decline_of_the_Mughal_Empire_.pdf",
+      "file": "024_Unit_Y211_The_Rise_and_Decline_of_the_Mughal_Empire_.pdf",
       "code": "Unit Y211",
       "title": "The Rise and Decline of the Mughal Empire in India 1526–1739",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "027_Unit_Y212_The_American_Revolution_1740_1796.pdf",
+      "file": "025_Unit_Y212_The_American_Revolution_1740_1796.pdf",
       "code": "Unit Y212",
       "title": "The American Revolution 1740–1796",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "028_Unit_Y213_The_French_Revolution_and_the_rule_of_Napo.pdf",
+      "file": "026_Unit_Y213_The_French_Revolution_and_the_rule_of_Napo.pdf",
       "code": "Unit Y213",
       "title": "The French Revolution and the rule of Napoleon 1774–1815",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "029_Unit_Y214_France_1814_1870.pdf",
+      "file": "027_Unit_Y214_France_1814_1870.pdf",
       "code": "Unit Y214",
       "title": "France 1814–1870",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "030_Unit_Y215_Italy_and_Unification_1789_1896.pdf",
+      "file": "028_Unit_Y215_Italy_and_Unification_1789_1896.pdf",
       "code": "Unit Y215",
       "title": "Italy and Unification 1789–1896",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "031_Unit_Y216_The_USA_in_the_19th_Century_Westward_expan.pdf",
+      "file": "029_Unit_Y216_The_USA_in_the_19th_Century_Westward_expan.pdf",
       "code": "Unit Y216",
       "title": "The USA in the 19th Century: Westward expansion and Civil War 1803–c.1890",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "032_Unit_Y217_Japan_1853_1937.pdf",
+      "file": "030_Unit_Y217_Japan_1853_1937.pdf",
       "code": "Unit Y217",
       "title": "Japan 1853–1937",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "033_Unit_Y218_International_Relations_1890_1941.pdf",
+      "file": "031_Unit_Y218_International_Relations_1890_1941.pdf",
       "code": "Unit Y218",
       "title": "International Relations 1890–1941",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "034_Unit_Y219_Russia_1894_1941.pdf",
+      "file": "032_Unit_Y219_Russia_1894_1941.pdf",
       "code": "Unit Y219",
       "title": "Russia 1894–1941",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "035_Unit_Y220_Italy_1896_1943.pdf",
+      "file": "033_Unit_Y220_Italy_1896_1943.pdf",
       "code": "Unit Y220",
       "title": "Italy 1896–1943",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "036_Unit_Y221_Democracy_and_Dictatorships_in_Germany_191.pdf",
+      "file": "034_Unit_Y221_Democracy_and_Dictatorships_in_Germany_191.pdf",
       "code": "Unit Y221",
       "title": "Democracy and Dictatorships in Germany 1919–1963",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "037_Unit_Y222_The_Cold_War_in_Asia_1945_1993.pdf",
+      "file": "035_Unit_Y222_The_Cold_War_in_Asia_1945_1993.pdf",
       "code": "Unit Y222",
       "title": "The Cold War in Asia 1945–1993",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "038_Unit_Y223_The_Cold_War_in_Europe_1941_1995.pdf",
+      "file": "036_Unit_Y223_The_Cold_War_in_Europe_1941_1995.pdf",
       "code": "Unit Y223",
       "title": "The Cold War in Europe 1941–1995",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "039_Unit_Y224_Apartheid_and_Reconciliation_South_African.pdf",
+      "file": "037_Unit_Y224_Apartheid_and_Reconciliation_South_African.pdf",
       "code": "Unit Y224",
       "title": "Apartheid and Reconciliation: South African Politics 1948–1999",
       "kind": "Unit",
       "pages": 1
     },
     {
-      "file": "040_2c_Content_of_unit_group_3_Thematic_study_and.pdf",
-      "code": "2c",
-      "title": "Content of unit group 3: Thematic study and historical interpretations (Units Y301 to Y321)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "041_Unit_Y301_The_Early_Anglo_Saxons_c_400_800.pdf",
+      "file": "038_Unit_Y301_The_Early_Anglo_Saxons_c_400_800.pdf",
       "code": "Unit Y301",
       "title": "The Early-Anglo Saxons c.400–800",
       "kind": "Unit",
-      "pages": 2
+      "pages": 3
     },
     {
-      "file": "042_Unit_Y302_The_Viking_Age_c_790_1066.pdf",
+      "file": "039_Unit_Y302_The_Viking_Age_c_790_1066.pdf",
       "code": "Unit Y302",
       "title": "The Viking Age c.790–1066",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "043_Unit_Y303_English_Government_and_the_Church_1066_121.pdf",
+      "file": "040_Unit_Y303_English_Government_and_the_Church_1066_121.pdf",
       "code": "Unit Y303",
       "title": "English Government and the Church 1066–1216",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "044_Unit_Y304_The_Church_and_Medieval_Heresy_c_1100_1437.pdf",
+      "file": "041_Unit_Y304_The_Church_and_Medieval_Heresy_c_1100_1437.pdf",
       "code": "Unit Y304",
       "title": "The Church and Medieval Heresy c.1100–1437",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "045_Unit_Y305_The_Renaissance_c_1400_c_1600.pdf",
+      "file": "042_Unit_Y305_The_Renaissance_c_1400_c_1600.pdf",
       "code": "Unit Y305",
       "title": "The Renaissance c.1400–c.1600",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "046_Unit_Y306_Rebellion_and_Disorder_under_the_Tudors_14.pdf",
+      "file": "043_Unit_Y306_Rebellion_and_Disorder_under_the_Tudors_14.pdf",
       "code": "Unit Y306",
       "title": "Rebellion and Disorder under the Tudors 1485–1603",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "047_Unit_Y307_Tudor_Foreign_Policy_1485_1603.pdf",
+      "file": "044_Unit_Y307_Tudor_Foreign_Policy_1485_1603.pdf",
       "code": "Unit Y307",
       "title": "Tudor Foreign Policy 1485–1603",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "048_Unit_Y308_The_Catholic_Reformation_1492_1610.pdf",
+      "file": "045_Unit_Y308_The_Catholic_Reformation_1492_1610.pdf",
       "code": "Unit Y308",
       "title": "The Catholic Reformation 1492–1610",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "049_Unit_Y309_The_Ascendancy_of_the_Ottoman_Empire_1453_.pdf",
+      "file": "046_Unit_Y309_The_Ascendancy_of_the_Ottoman_Empire_1453_.pdf",
       "code": "Unit Y309",
       "title": "The Ascendancy of the Ottoman Empire 1453–1606",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "050_Unit_Y310_The_Development_of_the_Nation_State_France.pdf",
+      "file": "047_Unit_Y310_The_Development_of_the_Nation_State_France.pdf",
       "code": "Unit Y310",
       "title": "The Development of the Nation State: France 1498–1610",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "051_Unit_Y311_The_Origins_and_Growth_of_the_British_Empi.pdf",
+      "file": "048_Unit_Y311_The_Origins_and_Growth_of_the_British_Empi.pdf",
       "code": "Unit Y311",
       "title": "The Origins and Growth of the British Empire 1558–1783",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "052_Unit_Y312_Popular_Culture_and_the_Witchcraze_of_the_.pdf",
+      "file": "049_Unit_Y312_Popular_Culture_and_the_Witchcraze_of_the_.pdf",
       "code": "Unit Y312",
       "title": "Popular Culture and the Witchcraze of the 16th and 17th Centuries",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "053_Unit_Y313_The_Ascendancy_of_France_1610_1715.pdf",
+      "file": "050_Unit_Y313_The_Ascendancy_of_France_1610_1715.pdf",
       "code": "Unit Y313",
       "title": "The Ascendancy of France 1610–1715",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "054_Unit_Y314_The_Challenge_of_German_Nationalism_1789_1.pdf",
+      "file": "051_Unit_Y314_The_Challenge_of_German_Nationalism_1789_1.pdf",
       "code": "Unit Y314",
       "title": "The Challenge of German Nationalism 1789–1919",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "055_Unit_Y315_The_Changing_Nature_of_Warfare_1792_1945.pdf",
+      "file": "052_Unit_Y315_The_Changing_Nature_of_Warfare_1792_1945.pdf",
       "code": "Unit Y315",
       "title": "The Changing Nature of Warfare 1792–1945",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "056_Unit_Y316_Britain_and_Ireland_1791_1921.pdf",
+      "file": "053_Unit_Y316_Britain_and_Ireland_1791_1921.pdf",
       "code": "Unit Y316",
       "title": "Britain and Ireland 1791–1921",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "057_Unit_Y317_China_and_its_Rulers_1839_1989.pdf",
+      "file": "054_Unit_Y317_China_and_its_Rulers_1839_1989.pdf",
       "code": "Unit Y317",
       "title": "China and its Rulers 1839–1989",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "058_Unit_Y318_Russia_and_its_Rulers_1855_1964.pdf",
+      "file": "055_Unit_Y318_Russia_and_its_Rulers_1855_1964.pdf",
       "code": "Unit Y318",
       "title": "Russia and its Rulers 1855–1964",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "059_Unit_Y319_Civil_Rights_in_the_USA_1865_1992.pdf",
+      "file": "056_Unit_Y319_Civil_Rights_in_the_USA_1865_1992.pdf",
       "code": "Unit Y319",
       "title": "Civil Rights in the USA 1865–1992",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "060_Unit_Y320_From_Colonialism_to_Independence_The_Briti.pdf",
+      "file": "057_Unit_Y320_From_Colonialism_to_Independence_The_Briti.pdf",
       "code": "Unit Y320",
       "title": "From Colonialism to Independence: The British Empire 1857–1965",
       "kind": "Unit",
       "pages": 2
     },
     {
-      "file": "061_Unit_Y321_The_Middle_East_1908_2011_Ottomans_to_Arab.pdf",
+      "file": "058_Unit_Y321_The_Middle_East_1908_2011_Ottomans_to_Arab.pdf",
       "code": "Unit Y321",
       "title": "The Middle East 1908–2011: Ottomans to Arab Spring",
       "kind": "Unit",

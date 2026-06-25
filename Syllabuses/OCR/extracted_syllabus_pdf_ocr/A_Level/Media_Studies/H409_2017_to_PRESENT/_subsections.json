@@ -1,73 +1,52 @@
 {
   "method": "toc",
   "sections": 4,
-  "n": 10,
+  "n": 7,
   "subsections": [
     {
-      "file": "001_2c_Content_of_Media_messages_H409_01.pdf",
-      "code": "2c",
-      "title": "Content of Media messages (H409/01)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_Section_A_News.pdf",
+      "file": "001_Section_A_News.pdf",
       "code": "Section A",
       "title": "News",
       "kind": "Section",
       "pages": 3
     },
     {
-      "file": "003_Section_B_Media_Language_and_Representation.pdf",
+      "file": "002_Section_B_Media_Language_and_Representation.pdf",
       "code": "Section B",
       "title": "Media Language and Representation",
       "kind": "Section",
       "pages": 3
     },
     {
-      "file": "004_Section_A_Media_Industries_and_Audiences.pdf",
+      "file": "003_Section_A_Media_Industries_and_Audiences.pdf",
       "code": "Section A",
       "title": "Media Industries and Audiences",
       "kind": "Section",
       "pages": 2
     },
     {
-      "file": "005_Section_B_Long_Form_Television_Drama.pdf",
+      "file": "004_Section_B_Long_Form_Television_Drama.pdf",
       "code": "Section B",
       "title": "Long Form Television Drama",
       "kind": "Section",
       "pages": 2
     },
     {
-      "file": "006_2e_Subject_content_for_components_H409_01_and.pdf",
-      "code": "2e",
-      "title": "Subject content for components H409/01 and H409/02",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "007_Media_Language.pdf",
+      "file": "005_Media_Language.pdf",
       "code": "",
       "title": "Media Language",
       "kind": "rowlabel",
       "pages": 2
     },
     {
-      "file": "008_Media_Representations.pdf",
+      "file": "006_Media_Representations.pdf",
       "code": "",
       "title": "Media Representations",
       "kind": "rowlabel",
       "pages": 4
     },
     {
-      "file": "009_non_exam_assessment_Making_media_H409_03_0.pdf",
-      "code": "",
-      "title": "non-exam assessment: Making media (H409/03/04)",
-      "kind": "label",
-      "pages": 1
-    },
-    {
-      "file": "010_Responding_to_an_NEA_brief.pdf",
+      "file": "007_Responding_to_an_NEA_brief.pdf",
       "code": "",
       "title": "Responding to an NEA brief",
       "kind": "label",

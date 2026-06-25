@@ -1,42 +1,49 @@
 {
   "method": "font",
   "sections": 1,
-  "n": 5,
+  "n": 6,
   "subsections": [
     {
-      "file": "001_Option_1.pdf",
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Option_1.pdf",
       "code": "Option 1",
       "title": "",
       "family": "Option",
       "pages": 1
     },
     {
-      "file": "002_Option_2.pdf",
+      "file": "003_Option_2.pdf",
       "code": "Option 2",
       "title": "",
       "family": "Option",
       "pages": 1
     },
     {
-      "file": "003_Component_1_Devising.pdf",
+      "file": "004_Component_1_Devising.pdf",
       "code": "Component 1",
       "title": "Devising",
       "family": "Component",
-      "pages": 6
+      "pages": 20
     },
     {
-      "file": "004_Component_2_Performance_from_Text.pdf",
+      "file": "005_Component_2_Performance_from_Text.pdf",
       "code": "Component 2",
       "title": "Performance from Text",
       "family": "Component",
-      "pages": 22
+      "pages": 17
     },
     {
-      "file": "005_Component_3_Theatre_Makers_in_Practice.pdf",
+      "file": "006_Component_3_Theatre_Makers_in_Practice.pdf",
       "code": "Component 3",
       "title": "Theatre Makers in Practice",
       "family": "Component",
-      "pages": 15
+      "pages": 5
     }
   ]
 }

@@ -1,171 +1,178 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 24,
+  "n": 25,
   "subsections": [
     {
       "file": "001_Section_B_Synoptic_Investigation_One_question_with_t.pdf",
       "code": "Section B",
       "title": "(Synoptic Investigation): One question with three parts.",
       "family": "Section",
-      "pages": 9
+      "pages": 7
     },
     {
-      "file": "002_1_2_Assessment_information.pdf",
+      "file": "002_1_1_Unit_description.pdf",
+      "code": "1.1",
+      "title": "Unit description",
+      "family": "Num",
+      "pages": 2
+    },
+    {
+      "file": "003_1_2_Assessment_information.pdf",
       "code": "1.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "003_1_3_Topic_1_World_at_Risk.pdf",
+      "file": "004_1_3_Topic_1_World_at_Risk.pdf",
       "code": "1.3",
       "title": "Topic 1: World at Risk",
       "family": "Num",
-      "pages": 8
+      "pages": 9
     },
     {
-      "file": "004_1_4_Topic_2_Going_Global.pdf",
+      "file": "005_1_4_Topic_2_Going_Global.pdf",
       "code": "1.4",
       "title": "Topic 2: Going Global",
       "family": "Num",
       "pages": 5
     },
     {
-      "file": "005_2_1_Unit_description.pdf",
-      "code": "2.1",
-      "title": "Unit description",
+      "file": "006_2_2_Assessment_information.pdf",
+      "code": "2.2",
+      "title": "Assessment information",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "006_2_3_Topic_1_Extreme_Weather.pdf",
+      "file": "007_2_3_Topic_1_Extreme_Weather.pdf",
       "code": "2.3",
       "title": "Topic 1: Extreme Weather",
       "family": "Num",
-      "pages": 3
+      "pages": 4
     },
     {
-      "file": "007_2_4_Topic_2_Crowded_Coasts.pdf",
+      "file": "008_2_4_Topic_2_Crowded_Coasts.pdf",
       "code": "2.4",
       "title": "Topic 2: Crowded Coasts",
       "family": "Num",
-      "pages": 3
+      "pages": 4
     },
     {
-      "file": "008_2_5_Topic_3_Unequal_Spaces.pdf",
+      "file": "009_2_5_Topic_3_Unequal_Spaces.pdf",
       "code": "2.5",
       "title": "Topic 3: Unequal Spaces",
       "family": "Num",
       "pages": 4
     },
     {
-      "file": "009_2_6_Topic_4_Rebranding_Places.pdf",
+      "file": "010_2_6_Topic_4_Rebranding_Places.pdf",
       "code": "2.6",
       "title": "Topic 4: Rebranding Places",
       "family": "Num",
-      "pages": 6
+      "pages": 5
     },
     {
-      "file": "010_3_1_Unit_description.pdf",
+      "file": "011_3_1_Unit_description.pdf",
       "code": "3.1",
       "title": "Unit description",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "011_3_2_Assessment_information.pdf",
+      "file": "012_3_2_Assessment_information.pdf",
       "code": "3.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "012_3_3_Topic_1_Energy_Security.pdf",
+      "file": "013_3_3_Topic_1_Energy_Security.pdf",
       "code": "3.3",
       "title": "Topic 1: Energy Security",
       "family": "Num",
-      "pages": 2
+      "pages": 3
     },
     {
-      "file": "013_3_4_Topic_2_Water_conflicts.pdf",
+      "file": "014_3_4_Topic_2_Water_conflicts.pdf",
       "code": "3.4",
       "title": "Topic 2: Water conflicts",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "014_3_5_Topic_3_Biodiversity_Under_Threat.pdf",
+      "file": "015_3_5_Topic_3_Biodiversity_Under_Threat.pdf",
       "code": "3.5",
       "title": "Topic 3: Biodiversity Under Threat",
       "family": "Num",
-      "pages": 2
+      "pages": 3
     },
     {
-      "file": "015_3_6_Topic_4_Superpower_Geographies.pdf",
+      "file": "016_3_6_Topic_4_Superpower_Geographies.pdf",
       "code": "3.6",
       "title": "Topic 4: Superpower Geographies",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "016_3_7_Topic_5_Bridging_the_development_gap.pdf",
+      "file": "017_3_7_Topic_5_Bridging_the_development_gap.pdf",
       "code": "3.7",
       "title": "Topic 5: Bridging the development gap",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "018_3_8_Topic_6_The_Technological_Fix.pdf",
+      "code": "3.8",
+      "title": "Topic 6: The Technological Fix?",
+      "family": "Num",
+      "pages": 3
+    },
+    {
+      "file": "019_4_2_Assessment_information.pdf",
+      "code": "4.2",
+      "title": "Assessment information",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "017_3_8_Topic_6_The_Technological_Fix.pdf",
-      "code": "3.8",
-      "title": "Topic 6: The Technological Fix?",
-      "family": "Num",
-      "pages": 4
-    },
-    {
-      "file": "018_4_1_Unit_description.pdf",
-      "code": "4.1",
-      "title": "Unit description",
-      "family": "Num",
-      "pages": 1
-    },
-    {
-      "file": "019_4_3_Option_1_Tectonic_Activity_and_Hazards.pdf",
+      "file": "020_4_3_Option_1_Tectonic_Activity_and_Hazards.pdf",
       "code": "4.3",
       "title": "Option 1: Tectonic Activity and Hazards",
       "family": "Num",
-      "pages": 4
+      "pages": 5
     },
     {
-      "file": "020_4_4_Option_2_Cold_Environments_Landscapes_and_.pdf",
+      "file": "021_4_4_Option_2_Cold_Environments_Landscapes_and_.pdf",
       "code": "4.4",
       "title": "Option 2: Cold Environments – Landscapes and Change",
       "family": "Num",
       "pages": 4
     },
     {
-      "file": "021_4_5_Option_3_Life_on_the_Margins_the_Food_Supp.pdf",
+      "file": "022_4_5_Option_3_Life_on_the_Margins_the_Food_Supp.pdf",
       "code": "4.5",
       "title": "Option 3: Life on the Margins: the Food Supply Problem",
       "family": "Num",
-      "pages": 4
+      "pages": 5
     },
     {
-      "file": "022_4_6_Option_4_The_World_of_Cultural_Diversity.pdf",
+      "file": "023_4_6_Option_4_The_World_of_Cultural_Diversity.pdf",
       "code": "4.6",
       "title": "Option 4: The World of Cultural Diversity",
       "family": "Num",
-      "pages": 6
+      "pages": 5
     },
     {
-      "file": "023_4_7_Option_5_Pollution_and_Human_Health_at_Ris.pdf",
+      "file": "024_4_7_Option_5_Pollution_and_Human_Health_at_Ris.pdf",
       "code": "4.7",
       "title": "Option 5: Pollution and Human Health at Risk",
       "family": "Num",
-      "pages": 4
+      "pages": 5
     },
     {
-      "file": "024_4_8_Option_6_Consuming_the_Rural_Landscape_Lei.pdf",
+      "file": "025_4_8_Option_6_Consuming_the_Rural_Landscape_Lei.pdf",
       "code": "4.8",
       "title": "Option 6: Consuming the Rural Landscape – Leisure and Tourism",
       "family": "Num",

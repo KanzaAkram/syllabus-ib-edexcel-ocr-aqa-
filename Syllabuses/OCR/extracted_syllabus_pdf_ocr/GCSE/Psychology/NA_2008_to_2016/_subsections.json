@@ -1,451 +1,402 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 64,
+  "n": 57,
   "subsections": [
     {
-      "file": "001_Subject_content.pdf",
-      "code": "",
-      "title": "Subject content",
-      "kind": "overview",
-      "pages": 7
-    },
-    {
-      "file": "002_1_1_RATIONALE.pdf",
+      "file": "001_1_1_RATIONALE.pdf",
       "code": "1.1",
       "title": "RATIONALE",
       "kind": "decimal",
-      "pages": 1
+      "pages": 7
     },
     {
-      "file": "003_1_2_CERTIFICATION_TITLE.pdf",
+      "file": "002_1_2_CERTIFICATION_TITLE.pdf",
       "code": "1.2",
       "title": "CERTIFICATION TITLE",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "004_1_3_LEVEL_OF_QUALIFICATION.pdf",
+      "file": "003_1_3_LEVEL_OF_QUALIFICATION.pdf",
       "code": "1.3",
       "title": "LEVEL OF QUALIFICATION",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "005_1_4_RECOMMENDED_PRIOR_LEARNING.pdf",
+      "file": "004_1_4_RECOMMENDED_PRIOR_LEARNING.pdf",
       "code": "1.4",
       "title": "RECOMMENDED PRIOR LEARNING",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "006_1_5_PROGRESSION.pdf",
+      "file": "005_1_5_PROGRESSION.pdf",
       "code": "1.5",
       "title": "PROGRESSION",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "007_1_6_OVERLAP_WITH_OTHER_QUALIFICATIONS.pdf",
+      "file": "006_1_6_OVERLAP_WITH_OTHER_QUALIFICATIONS.pdf",
       "code": "1.6",
       "title": "OVERLAP WITH OTHER QUALIFICATIONS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "008_1_7_RESTRICTIONS_ON_CANDIDATE_ENTRIES.pdf",
+      "file": "007_1_7_RESTRICTIONS_ON_CANDIDATE_ENTRIES.pdf",
       "code": "1.7",
       "title": "RESTRICTIONS ON CANDIDATE ENTRIES",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "009_1_8_CODE_OF_PRACTICE_REQUIREMENTS.pdf",
+      "file": "008_1_8_CODE_OF_PRACTICE_REQUIREMENTS.pdf",
       "code": "1.8",
       "title": "CODE OF PRACTICE REQUIREMENTS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "010_1_9_STATUS_IN_WALES_AND_NORTHERN_IRELAND.pdf",
+      "file": "009_1_9_STATUS_IN_WALES_AND_NORTHERN_IRELAND.pdf",
       "code": "1.9",
       "title": "STATUS IN WALES AND NORTHERN IRELAND",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "011_3_1_KNOWLEDGE_AND_UNDERSTANDING_AO1.pdf",
+      "file": "010_3_1_KNOWLEDGE_AND_UNDERSTANDING_AO1.pdf",
       "code": "3.1",
       "title": "KNOWLEDGE AND UNDERSTANDING (AO1)",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "012_3_2_ANALYSIS_AND_EVALUATION_AO2.pdf",
+      "file": "011_3_2_ANALYSIS_AND_EVALUATION_AO2.pdf",
       "code": "3.2",
       "title": "ANALYSIS AND EVALUATION (AO2)",
       "kind": "decimal",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "013_4_1_TIERS.pdf",
+      "file": "012_4_1_TIERS.pdf",
       "code": "4.1",
       "title": "TIERS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "014_4_2_COMPONENTS.pdf",
+      "file": "013_4_2_COMPONENTS.pdf",
       "code": "4.2",
       "title": "COMPONENTS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "015_4_3_QUESTION_PAPERS.pdf",
+      "file": "014_4_3_QUESTION_PAPERS.pdf",
       "code": "4.3",
       "title": "QUESTION PAPERS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "016_Paper_1_Foundation_Tier_and_Paper_3_Higher_Tier.pdf",
+      "file": "015_Paper_1_Foundation_Tier_and_Paper_3_Higher_Tier.pdf",
       "code": "Paper 1",
       "title": "(Foundation Tier) and Paper 3 (Higher Tier)",
       "kind": "Paper",
       "pages": 1
     },
     {
-      "file": "017_Section_A_will_contain_one_source_based_structured_q.pdf",
+      "file": "016_Section_A_will_contain_one_source_based_structured_q.pdf",
       "code": "Section A",
       "title": "will contain one source-based, structured question selected from the Social",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "018_Section_B_will_contain_one_source_based_structured_q.pdf",
+      "file": "017_Section_B_will_contain_one_source_based_structured_q.pdf",
       "code": "Section B",
       "title": "will contain one source-based, structured question selected from the Behavioural",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "019_Section_C_will_contain_one_source_based_structured_q.pdf",
+      "file": "018_Section_C_will_contain_one_source_based_structured_q.pdf",
       "code": "Section C",
       "title": "will contain one source-based, structured question selected from the Developmental",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "020_Section_D_will_contain_one_source_based_structured_q.pdf",
+      "file": "019_Section_D_will_contain_one_source_based_structured_q.pdf",
       "code": "Section D",
       "title": "will contain one source-based, structured question selected from a topic not included",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "021_Paper_2_Foundation_Tier_and_Paper_4_Higher_Tier.pdf",
+      "file": "020_Paper_2_Foundation_Tier_and_Paper_4_Higher_Tier.pdf",
       "code": "Paper 2",
       "title": "(Foundation Tier) and Paper 4 (Higher Tier)",
       "kind": "Paper",
       "pages": 1
     },
     {
-      "file": "022_Section_A_will_contain_one_source_based_structured_q.pdf",
+      "file": "021_Section_A_will_contain_one_source_based_structured_q.pdf",
       "code": "Section A",
       "title": "will contain one source-based, structured question selected from the Individual",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "023_Section_B_will_contain_one_source_based_structured_q.pdf",
+      "file": "022_Section_B_will_contain_one_source_based_structured_q.pdf",
       "code": "Section B",
       "title": "will contain one source-based, structured question selected from the Cognitive",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "024_Section_C_will_contain_one_source_based_structured_q.pdf",
-      "code": "Section C",
-      "title": "will contain one source-based, structured question selected from the Bio-psychology",
-      "kind": "Section",
-      "pages": 1
-    },
-    {
-      "file": "025_4_4_WEIGHTING_OF_ASSESSMENT_OBJECTIVES.pdf",
+      "file": "023_4_4_WEIGHTING_OF_ASSESSMENT_OBJECTIVES.pdf",
       "code": "4.4",
       "title": "WEIGHTING OF ASSESSMENT OBJECTIVES",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "026_4_5_ENTRY_OPTIONS.pdf",
+      "file": "024_4_5_ENTRY_OPTIONS.pdf",
       "code": "4.5",
       "title": "ENTRY OPTIONS",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "027_4_6_INTERNAL_ASSESSMENT_COURSEWORK.pdf",
+      "file": "025_4_6_INTERNAL_ASSESSMENT_COURSEWORK.pdf",
       "code": "4.6",
       "title": "INTERNAL ASSESSMENT (COURSEWORK)",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "028_4_7_ASSESSMENT_OF_WRITTEN_COMMUNICATION_AND_IC.pdf",
+      "file": "026_4_7_ASSESSMENT_OF_WRITTEN_COMMUNICATION_AND_IC.pdf",
       "code": "4.7",
       "title": "ASSESSMENT OF WRITTEN COMMUNICATION AND ICT",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "029_4_8_DIFFERENTIATION.pdf",
+      "file": "027_4_8_DIFFERENTIATION.pdf",
       "code": "4.8",
       "title": "DIFFERENTIATION",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "030_4_9_AWARDING_OF_GRADES.pdf",
+      "file": "028_4_9_AWARDING_OF_GRADES.pdf",
       "code": "4.9",
       "title": "AWARDING OF GRADES",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "031_4_10_GRADE_DESCRIPTIONS.pdf",
+      "file": "029_4_10_GRADE_DESCRIPTIONS.pdf",
       "code": "4.10",
       "title": "GRADE DESCRIPTIONS",
       "kind": "decimal",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "032_5_1_THEMES_AND_PROCESSES.pdf",
-      "code": "5.1",
-      "title": "THEMES AND PROCESSES",
-      "kind": "decimal",
-      "pages": 1
-    },
-    {
-      "file": "033_5_1_1_Methodology.pdf",
+      "file": "030_5_1_1_Methodology.pdf",
       "code": "5.1.1",
       "title": "Methodology",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "034_5_1_2_Ethics.pdf",
+      "file": "031_5_1_2_Ethics.pdf",
       "code": "5.1.2",
       "title": "Ethics",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "035_5_1_3_Applications.pdf",
+      "file": "032_5_1_3_Applications.pdf",
       "code": "5.1.3",
       "title": "Applications",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "036_5_1_4_Cultural_Diversity.pdf",
+      "file": "033_5_1_4_Cultural_Diversity.pdf",
       "code": "5.1.4",
       "title": "Cultural Diversity",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "037_5_1_5_Fundamental_Questions.pdf",
+      "file": "034_5_1_5_Fundamental_Questions.pdf",
       "code": "5.1.5",
       "title": "Fundamental Questions",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "038_5_2_PAPER_1_AND_PAPER_3.pdf",
-      "code": "5.2",
-      "title": "PAPER 1 AND PAPER 3",
-      "kind": "decimal",
-      "pages": 1
-    },
-    {
-      "file": "039_5_2_1_Social_Psychology.pdf",
+      "file": "035_5_2_1_Social_Psychology.pdf",
       "code": "5.2.1",
       "title": "Social Psychology",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "040_5_2_2_Behavioural_Psychology.pdf",
+      "file": "036_5_2_2_Behavioural_Psychology.pdf",
       "code": "5.2.2",
       "title": "Behavioural Psychology",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "041_5_2_3_Developmental_Psychology.pdf",
+      "file": "037_5_2_3_Developmental_Psychology.pdf",
       "code": "5.2.3",
       "title": "Developmental Psychology",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "042_5_3_PAPER_2_AND_PAPER_4.pdf",
+      "file": "038_5_3_PAPER_2_AND_PAPER_4.pdf",
       "code": "5.3",
       "title": "PAPER 2 AND PAPER 4",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "043_C1_1_2_C2_1_2_2_WO1_1_1_2_WO2_1_2_2_LP1_1_1_3_L.pdf",
-      "code": "C1.1",
-      "title": "2; C2.1-2.2; WO1.1-1.2; WO2.1-2.2; LP1.1-1.3; LP2.1-2.3.",
-      "kind": "alnum",
-      "pages": 1
-    },
-    {
-      "file": "044_5_3_1_Individual_Differentiation.pdf",
+      "file": "039_5_3_1_Individual_Differentiation.pdf",
       "code": "5.3.1",
       "title": "Individual Differentiation",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "045_5_3_2_Cognitive_Psychology.pdf",
+      "file": "040_5_3_2_Cognitive_Psychology.pdf",
       "code": "5.3.2",
       "title": "Cognitive Psychology",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "046_5_3_3_Bio_psychology.pdf",
+      "file": "041_5_3_3_Bio_psychology.pdf",
       "code": "5.3.3",
       "title": "Bio-psychology",
       "kind": "decimal",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "047_6_1_NATURE_OF_COURSEWORK.pdf",
+      "file": "042_6_1_NATURE_OF_COURSEWORK.pdf",
       "code": "6.1",
       "title": "NATURE OF COURSEWORK",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "048_6_2_EXEMPLAR_COURSEWORK_TASKS.pdf",
+      "file": "043_6_2_EXEMPLAR_COURSEWORK_TASKS.pdf",
       "code": "6.2",
       "title": "EXEMPLAR COURSEWORK TASKS",
       "kind": "decimal",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "049_7_1_SUPERVISION_AND_AUTHENTICATION_OF_INTERNAL.pdf",
+      "file": "044_7_1_SUPERVISION_AND_AUTHENTICATION_OF_INTERNAL.pdf",
       "code": "7.1",
       "title": "SUPERVISION AND AUTHENTICATION OF INTERNALLY ASSESSED",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "050_7_2_PRODUCTION_AND_PRESENTATION_OF_INTERNALLY_.pdf",
+      "file": "045_7_2_PRODUCTION_AND_PRESENTATION_OF_INTERNALLY_.pdf",
       "code": "7.2",
       "title": "PRODUCTION AND PRESENTATION OF INTERNALLY ASSESSED",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "051_7_3_MARKING_CRITERIA_FOR_INTERNALLY_ASSESSED_W.pdf",
+      "file": "046_7_3_MARKING_CRITERIA_FOR_INTERNALLY_ASSESSED_W.pdf",
       "code": "7.3",
       "title": "MARKING CRITERIA FOR INTERNALLY ASSESSED WORK",
       "kind": "decimal",
       "pages": 4
     },
     {
-      "file": "052_7_4_MODERATION.pdf",
+      "file": "047_7_4_MODERATION.pdf",
       "code": "7.4",
       "title": "MODERATION",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "053_7_5_MINIMUM_REQUIREMENTS_FOR_INTERNALLY_ASSESS.pdf",
+      "file": "048_7_5_MINIMUM_REQUIREMENTS_FOR_INTERNALLY_ASSESS.pdf",
       "code": "7.5",
       "title": "MINIMUM REQUIREMENTS FOR INTERNALLY ASSESSED WORK",
       "kind": "decimal",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "054_8_1_ICT.pdf",
+      "file": "049_8_1_ICT.pdf",
       "code": "8.1",
       "title": "ICT",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "055_8_2_CITIZENSHIP.pdf",
+      "file": "050_8_2_CITIZENSHIP.pdf",
       "code": "8.2",
       "title": "CITIZENSHIP",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "056_8_3_1_Spiritual_Issues.pdf",
+      "file": "051_8_3_1_Spiritual_Issues.pdf",
       "code": "8.3.1",
       "title": "Spiritual Issues",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "057_8_3_2_Moral_and_Ethical_Issues.pdf",
+      "file": "052_8_3_2_Moral_and_Ethical_Issues.pdf",
       "code": "8.3.2",
       "title": "Moral and Ethical Issues",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "058_8_3_3_Social_Issues.pdf",
+      "file": "053_8_3_3_Social_Issues.pdf",
       "code": "8.3.3",
       "title": "Social Issues",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "059_8_3_4_Cultural_Issues.pdf",
+      "file": "054_8_3_4_Cultural_Issues.pdf",
       "code": "8.3.4",
       "title": "Cultural Issues",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "060_8_4_HEALTH_SAFETY_AND_ENVIRONMENTAL_ISSUES.pdf",
-      "code": "8.4",
-      "title": "HEALTH, SAFETY AND ENVIRONMENTAL ISSUES",
-      "kind": "decimal",
-      "pages": 1
-    },
-    {
-      "file": "061_8_4_1_Health_and_Safety_Issues.pdf",
+      "file": "055_8_4_1_Health_and_Safety_Issues.pdf",
       "code": "8.4.1",
       "title": "Health and Safety Issues",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "062_8_4_2_Environmental_Education.pdf",
+      "file": "056_8_4_2_Environmental_Education.pdf",
       "code": "8.4.2",
       "title": "Environmental Education",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "063_8_5_THE_EUROPEAN_DIMENSION.pdf",
-      "code": "8.5",
-      "title": "THE EUROPEAN DIMENSION",
-      "kind": "decimal",
-      "pages": 1
-    },
-    {
-      "file": "064_8_5_1_European_Dimension.pdf",
+      "file": "057_8_5_1_European_Dimension.pdf",
       "code": "8.5.1",
       "title": "European Dimension",
       "kind": "decimal",

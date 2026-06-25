@@ -1,108 +1,87 @@
 {
   "method": "font",
   "sections": 3,
-  "n": 15,
+  "n": 12,
   "subsections": [
     {
-      "file": "001_2c_Content_of_Research_methods_Component_01.pdf",
-      "code": "2c",
-      "title": "Content of Research methods (Component 01)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_1_1_Research.pdf",
+      "file": "001_1_1_Research.pdf",
       "code": "1.1",
       "title": "Research",
       "kind": "decimal",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "003_1_2_Planning_and.pdf",
+      "file": "002_1_2_Planning_and.pdf",
       "code": "1.2",
       "title": "Planning and",
       "kind": "decimal",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "004_1_3_Data_recording.pdf",
+      "file": "003_1_3_Data_recording.pdf",
       "code": "1.3",
       "title": "Data recording,",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "005_1_4_Report_writing.pdf",
+      "file": "004_1_4_Report_writing.pdf",
       "code": "1.4",
       "title": "Report writing",
       "kind": "decimal",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "006_1_5_Practical.pdf",
+      "file": "005_1_5_Practical.pdf",
       "code": "1.5",
       "title": "Practical",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "007_1_6_Science_in.pdf",
+      "file": "006_1_6_Science_in.pdf",
       "code": "1.6",
       "title": "Science in",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "008_2c_Content_of_Psychological_themes_through_co.pdf",
-      "code": "2c",
-      "title": "Content of Psychological themes through core studies",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "009_Section_A_Core_studies.pdf",
+      "file": "007_Section_A_Core_studies.pdf",
       "code": "Section A",
       "title": "Core studies",
-      "kind": "Section",
-      "pages": 3
-    },
-    {
-      "file": "010_Section_B_Areas_perspectives_and_debates.pdf",
-      "code": "Section B",
-      "title": "Areas, perspectives and debates",
       "kind": "Section",
       "pages": 2
     },
     {
-      "file": "011_Section_C_Practical_applications.pdf",
+      "file": "008_Section_B_Areas_perspectives_and_debates.pdf",
+      "code": "Section B",
+      "title": "Areas, perspectives and debates",
+      "kind": "Section",
+      "pages": 1
+    },
+    {
+      "file": "009_Section_C_Practical_applications.pdf",
       "code": "Section C",
       "title": "Practical applications",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "012_2c_Content_of_Applied_psychology_Component_03.pdf",
-      "code": "2c",
-      "title": "Content of Applied psychology (Component 03)",
-      "kind": "overview",
-      "pages": 2
-    },
-    {
-      "file": "013_Section_A_Issues_in_mental_health.pdf",
+      "file": "010_Section_A_Issues_in_mental_health.pdf",
       "code": "Section A",
       "title": "Issues in mental health",
       "kind": "Section",
       "pages": 2
     },
     {
-      "file": "014_Section_B_Option_1_Child_psychology.pdf",
+      "file": "011_Section_B_Option_1_Child_psychology.pdf",
       "code": "Section B",
       "title": "Option 1 Child psychology",
       "kind": "Section",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "015_Section_B_Option_3_Environmental_psychology.pdf",
+      "file": "012_Section_B_Option_3_Environmental_psychology.pdf",
       "code": "Section B",
       "title": "Option 3 Environmental psychology",
       "kind": "Section",

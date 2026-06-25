@@ -1,66 +1,59 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 9,
+  "n": 8,
   "subsections": [
     {
-      "file": "001_2c_Content_of_chapters_B1_to_B8.pdf",
-      "code": "2c",
-      "title": "Content of chapters B1 to B8",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_Chapter_B1_You_and_your_genes.pdf",
+      "file": "001_Chapter_B1_You_and_your_genes.pdf",
       "code": "Chapter B1",
       "title": "You and your genes",
       "kind": "Chapter",
       "pages": 5
     },
     {
-      "file": "003_Chapter_B2_Keeping_healthy.pdf",
+      "file": "002_Chapter_B2_Keeping_healthy.pdf",
       "code": "Chapter B2",
       "title": "Keeping healthy",
       "kind": "Chapter",
       "pages": 8
     },
     {
-      "file": "004_Chapter_B3_Living_together_food_and_ecosystems.pdf",
+      "file": "003_Chapter_B3_Living_together_food_and_ecosystems.pdf",
       "code": "Chapter B3",
       "title": "Living together – food and ecosystems",
       "kind": "Chapter",
       "pages": 8
     },
     {
-      "file": "005_Chapter_B4_Using_food_and_controlling_growth.pdf",
+      "file": "004_Chapter_B4_Using_food_and_controlling_growth.pdf",
       "code": "Chapter B4",
       "title": "Using food and controlling growth",
       "kind": "Chapter",
       "pages": 6
     },
     {
-      "file": "006_Chapter_B5_The_human_body_staying_alive.pdf",
+      "file": "005_Chapter_B5_The_human_body_staying_alive.pdf",
       "code": "Chapter B5",
       "title": "The human body – staying alive",
       "kind": "Chapter",
       "pages": 7
     },
     {
-      "file": "007_Chapter_B6_Life_on_Earth_past_present_and_future.pdf",
+      "file": "006_Chapter_B6_Life_on_Earth_past_present_and_future.pdf",
       "code": "Chapter B6",
       "title": "Life on Earth – past, present and future",
       "kind": "Chapter",
       "pages": 5
     },
     {
-      "file": "008_Chapter_B7_Ideas_about_Science.pdf",
+      "file": "007_Chapter_B7_Ideas_about_Science.pdf",
       "code": "Chapter B7",
       "title": "Ideas about Science",
       "kind": "Chapter",
       "pages": 8
     },
     {
-      "file": "009_Chapter_B8_Practical_skills.pdf",
+      "file": "008_Chapter_B8_Practical_skills.pdf",
       "code": "Chapter B8",
       "title": "Practical skills",
       "kind": "Chapter",

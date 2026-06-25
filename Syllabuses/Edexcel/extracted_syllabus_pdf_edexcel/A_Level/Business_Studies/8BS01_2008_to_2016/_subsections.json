@@ -1,21 +1,21 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 6,
+  "n": 5,
   "subsections": [
     {
       "file": "001_Unit_2a_Unit_3_and_Unit_4a.pdf",
       "code": "Unit 2a",
       "title": ", Unit 3 and Unit 4a.",
       "family": "Unit",
-      "pages": 12
+      "pages": 10
     },
     {
       "file": "002_1_3_Unit_content.pdf",
       "code": "1.3",
       "title": "Unit content",
       "family": "Num",
-      "pages": 4
+      "pages": 5
     },
     {
       "file": "003_Section_A_supported_multiple_choice_questions_24_mar.pdf",
@@ -32,18 +32,11 @@
       "pages": 7
     },
     {
-      "file": "005_Unit_4a_Making_Business_Decisions_and_Unit_4b_The_.pdf",
-      "code": "Unit 4a",
-      "title": "Making Business Decisions and Unit 4b: The Wider",
-      "family": "Unit",
-      "pages": 5
-    },
-    {
-      "file": "006_Section_E_Edexcel_Limited_2007.pdf",
+      "file": "005_Section_E_Edexcel_Limited_2007.pdf",
       "code": "Section E",
       "title": "© Edexcel Limited 2007",
       "family": "Section",
-      "pages": 24
+      "pages": 28
     }
   ]
 }

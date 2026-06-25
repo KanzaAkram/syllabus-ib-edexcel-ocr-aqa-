@@ -8,7 +8,7 @@
       "code": "Section A",
       "title": "Pearson Edexcel Level 3 GCE in Physical Education –",
       "family": "Section",
-      "pages": 12
+      "pages": 11
     },
     {
       "file": "002_1_1_Healthy_and_Active_Lifestyles.pdf",
@@ -22,7 +22,7 @@
       "code": "1.2",
       "title": "Opportunities and pathways",
       "family": "Num",
-      "pages": 5
+      "pages": 6
     },
     {
       "file": "004_2_1_Personal_Performance.pdf",
@@ -50,7 +50,7 @@
       "code": "2.4",
       "title": "Performance Analysis",
       "family": "Num",
-      "pages": 13
+      "pages": 12
     },
     {
       "file": "008_3_1_Short_term_preparation.pdf",
@@ -64,21 +64,21 @@
       "code": "3.2",
       "title": "Long-term Preparation",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "010_3_3_Managing_elite_performance.pdf",
       "code": "3.3",
       "title": "Managing elite performance",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "011_4_1_Development_Plan.pdf",
       "code": "4.1",
       "title": "Development Plan",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "012_4_2_International_Study.pdf",
@@ -92,14 +92,14 @@
       "code": "4.3",
       "title": "Progressive Participation",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "014_Component_1_Planning_and_Researching.pdf",
       "code": "Component 1",
       "title": "Planning and Researching",
       "family": "Component",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "015_Component_2_Performing_and_Recording.pdf",
@@ -113,14 +113,14 @@
       "code": "Component 3",
       "title": "Review and Evaluation",
       "family": "Component",
-      "pages": 16
+      "pages": 12
     },
     {
       "file": "017_Section_E_Pearson_Edexcel_Level_3_GCE_in_Physical_Ed.pdf",
       "code": "Section E",
       "title": "Pearson Edexcel Level 3 GCE in Physical Education –",
       "family": "Section",
-      "pages": 3
+      "pages": 7
     }
   ]
 }

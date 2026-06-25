@@ -1,0 +1,2418 @@
+[
+ {
+  "rel": "A_Level/Biology/8BN01_2008_to_2016/002_1_3_Topic_1_Lifestyle_health_and_risk.pdf",
+  "spec": "A_Level/Biology/8BN01_2008_to_2016",
+  "idx": 1,
+  "code": "1.3",
+  "title": "Topic 1: Lifestyle, health and risk",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "18\tAnalyse and interpret quantitative data on",
+     "y": 0.66,
+     "below": 86
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Biology/8BN01_2008_to_2016/005_2_3_Topic_3_The_voice_of_the_genome.pdf",
+  "spec": "A_Level/Biology/8BN01_2008_to_2016",
+  "idx": 4,
+  "code": "2.3",
+  "title": "Topic 3: The voice of the genome",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "15\tExplain how some phenotypes are affected b",
+     "y": 0.59,
+     "below": 95
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Biology/8BN01_2008_to_2016/009_3_3_Topic_5_On_the_wild_side.pdf",
+  "spec": "A_Level/Biology/8BN01_2008_to_2016",
+  "idx": 8,
+  "code": "3.3",
+  "title": "Topic 5: On the wild side",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "19\tDescribe that data can be extrapolated to ",
+     "y": 0.76,
+     "below": 35
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Biology/8BN01_2008_to_2016/012_4_3_Topic_7_Run_for_your_life.pdf",
+  "spec": "A_Level/Biology/8BN01_2008_to_2016",
+  "idx": 11,
+  "code": "4.3",
+  "title": "Topic 7: Run for your life",
+  "pages": 3,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "20\tOutline two ethical positions relating to ",
+     "y": 0.65,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Chemistry/8CH01_2008_to_2016/001_Section_C_contemporary_context_questions.pdf",
+  "spec": "A_Level/Chemistry/8CH01_2008_to_2016",
+  "idx": 0,
+  "code": "Section C",
+  "title": "contemporary context questions.",
+  "pages": 16,
+  "flags": {
+   "blank_end_sliver": 0.0165
+  }
+ },
+ {
+  "rel": "A_Level/Chemistry/8CH01_2008_to_2016/009_2_1_Unit_description.pdf",
+  "spec": "A_Level/Chemistry/8CH01_2008_to_2016",
+  "idx": 8,
+  "code": "2.1",
+  "title": "Unit description",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.10.1d \u2013 CP11",
+     "y": 0.56,
+     "below": 196
+    },
+    {
+     "text": "2.10.2c \u2013 CP12",
+     "y": 0.58,
+     "below": 182
+    },
+    {
+     "text": "2.10.2e \u2013 CP13",
+     "y": 0.59,
+     "below": 182
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Chemistry/8CH01_2008_to_2016/025_4_2_Assessment_information.pdf",
+  "spec": "A_Level/Chemistry/8CH01_2008_to_2016",
+  "idx": 24,
+  "code": "4.2",
+  "title": "Assessment information",
+  "pages": 2,
+  "flags": {
+   "bleed_next": [
+    {
+     "text": "Unit 4 examination",
+     "y": 0.7,
+     "below": 190
+    }
+   ],
+   "bleed_other": [
+    {
+     "text": "Section A is an objective test section which ",
+     "y": 0.75,
+     "below": 74
+    },
+    {
+     "text": "Section B contains a mixture of short-answer ",
+     "y": 0.8,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Chemistry/8CH01_2008_to_2016/034_5_2_Assessment_information.pdf",
+  "spec": "A_Level/Chemistry/8CH01_2008_to_2016",
+  "idx": 33,
+  "code": "5.2",
+  "title": "Assessment information",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "Section A is an objective test section which ",
+     "y": 0.73,
+     "below": 168
+    },
+    {
+     "text": "Section B contains a mixture of short-answer ",
+     "y": 0.78,
+     "below": 40
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Chemistry/9CH0_2017_to_PRESENT/036_Topic_19C_Chromatography.pdf",
+  "spec": "A_Level/Chemistry/9CH0_2017_to_PRESENT",
+  "idx": 35,
+  "code": "Topic 19C",
+  "title": "Chromatography",
+  "pages": 9,
+  "flags": {
+   "blank_end_sliver": 0.0192
+  }
+ },
+ {
+  "rel": "A_Level/Drama/9DR0_2017_to_PRESENT/001_Overview.pdf",
+  "spec": "A_Level/Drama/9DR0_2017_to_PRESENT",
+  "idx": 0,
+  "code": "",
+  "title": "Overview",
+  "pages": 1,
+  "flags": {
+   "bleed_next": [
+    {
+     "text": "Component 1",
+     "y": 0.75,
+     "below": 169
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Economics/9EC0_2017_to_PRESENT/001_3_1.pdf",
+  "spec": "A_Level/Economics/9EC0_2017_to_PRESENT",
+  "idx": 0,
+  "code": "3.1",
+  "title": "",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0125
+  }
+ },
+ {
+  "rel": "A_Level/Economics/9EC0_2017_to_PRESENT/003_3_3.pdf",
+  "spec": "A_Level/Economics/9EC0_2017_to_PRESENT",
+  "idx": 2,
+  "code": "3.3",
+  "title": "",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "3.6.1",
+     "y": 0.67,
+     "below": 173
+    },
+    {
+     "text": "4.2.1",
+     "y": 0.73,
+     "below": 128
+    },
+    {
+     "text": "4.2.2",
+     "y": 0.75,
+     "below": 23
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Economics/9EC0_2017_to_PRESENT/004_3_4.pdf",
+  "spec": "A_Level/Economics/9EC0_2017_to_PRESENT",
+  "idx": 3,
+  "code": "3.4",
+  "title": "",
+  "pages": 3,
+  "flags": {
+   "lead_unrel": {
+    "top": "2.6.2, 4.5.2",
+    "file_code": "3.4"
+   }
+  }
+ },
+ {
+  "rel": "A_Level/English_Language/9EN0_2017_to_PRESENT/002_Component_1_Language_Variation.pdf",
+  "spec": "A_Level/English_Language/9EN0_2017_to_PRESENT",
+  "idx": 1,
+  "code": "Component 1",
+  "title": "Language Variation",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0094
+  }
+ },
+ {
+  "rel": "A_Level/English_Literature/8ET01_2008_to_2016/022_Section_E_Edexcel_Limited_2007.pdf",
+  "spec": "A_Level/English_Literature/8ET01_2008_to_2016",
+  "idx": 21,
+  "code": "Section E",
+  "title": "\u00a9 Edexcel Limited 2007",
+  "pages": 1,
+  "flags": {
+   "lead_cut": "left."
+  }
+ },
+ {
+  "rel": "A_Level/English_Literature/9ET0_2017_to_PRESENT/001_Component_1_Drama.pdf",
+  "spec": "A_Level/English_Literature/9ET0_2017_to_PRESENT",
+  "idx": 0,
+  "code": "Component 1",
+  "title": "Drama",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0124
+  }
+ },
+ {
+  "rel": "A_Level/English_Literature/9ET0_2017_to_PRESENT/002_Component_2_Prose.pdf",
+  "spec": "A_Level/English_Literature/9ET0_2017_to_PRESENT",
+  "idx": 1,
+  "code": "Component 2",
+  "title": "Prose",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0124
+  }
+ },
+ {
+  "rel": "A_Level/History/8HI01_2008_to_2016/012_2_1_Unit_description.pdf",
+  "spec": "A_Level/History/8HI01_2008_to_2016",
+  "idx": 11,
+  "code": "2.1",
+  "title": "Unit description",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "Option A: Early Modern British History: Crown",
+     "y": 0.65,
+     "below": 156
+    },
+    {
+     "text": "Option B: British Political History in the 19",
+     "y": 0.68,
+     "below": 101
+    },
+    {
+     "text": "Option C: Conflict and Change in 19th and 20t",
+     "y": 0.72,
+     "below": 39
+    },
+    {
+     "text": "Option D: The British Empire Challenged",
+     "y": 0.75,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/History/8HI01_2008_to_2016/029_4_5_Edexcel_designed_coursework_programme_titl.pdf",
+  "spec": "A_Level/History/8HI01_2008_to_2016",
+  "idx": 28,
+  "code": "4.5",
+  "title": "Edexcel-designed coursework programme titles",
+  "pages": 4,
+  "flags": {
+   "lead_cut": "teachers and do not require approval. Centres may "
+  }
+ },
+ {
+  "rel": "A_Level/History/8HI01_2008_to_2016/060_Unit_2_Option_C.pdf",
+  "spec": "A_Level/History/8HI01_2008_to_2016",
+  "idx": 59,
+  "code": "Unit 2",
+  "title": ", Option C:",
+  "pages": 2,
+  "flags": {
+   "lead_unrel": {
+    "top": "Topic C1: The",
+    "file_code": "Unit 2"
+   }
+  }
+ },
+ {
+  "rel": "A_Level/History/9HI0_2017_to_PRESENT/025_Paper_2_Option_2H_2.pdf",
+  "spec": "A_Level/History/9HI0_2017_to_PRESENT",
+  "idx": 24,
+  "code": "Paper 2",
+  "title": "Option 2H.2:",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0093
+  }
+ },
+ {
+  "rel": "A_Level/History/9HI0_2017_to_PRESENT/031_Section_Paper_3_Option_34_1_Industrialisation_and_.pdf",
+  "spec": "A_Level/History/9HI0_2017_to_PRESENT",
+  "idx": 30,
+  "code": "Section",
+  "title": "Paper 3, Option 34.1:Industrialisation and social chang",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "5 Herbert",
+     "y": 0.72,
+     "below": 188
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/History/9HI0_2017_to_PRESENT/032_Section_Paper_3_Option_34_2_Poverty_public_health_.pdf",
+  "spec": "A_Level/History/9HI0_2017_to_PRESENT",
+  "idx": 31,
+  "code": "Section",
+  "title": "Paper 3, Option 34.2:Poverty, public health and the sta",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "5 Depression",
+     "y": 0.73,
+     "below": 140
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/History/9HI0_2017_to_PRESENT/038_Section_Paper_3_Option_37_2_Germany_1871_1990_unit.pdf",
+  "spec": "A_Level/History/9HI0_2017_to_PRESENT",
+  "idx": 37,
+  "code": "Section",
+  "title": "Paper 3, Option 37.2:Germany, 1871\u20131990: united, divide",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "5 Reunification:",
+     "y": 0.78,
+     "below": 115
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/History/9HI0_2017_to_PRESENT/041_Section_Paper_3_Option_39_1_Civil_rights_and_race_.pdf",
+  "spec": "A_Level/History/9HI0_2017_to_PRESENT",
+  "idx": 40,
+  "code": "Section",
+  "title": "Paper 3, Option 39.1:Civil rights and race relations in",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "5 Obama's",
+     "y": 0.76,
+     "below": 194
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Mathematics/9371_2013_to_2016/002_Unit_C2_Core_Mathematics_2.pdf",
+  "spec": "A_Level/Mathematics/9371_2013_to_2016",
+  "idx": 1,
+  "code": "Unit C2",
+  "title": "Core Mathematics 2",
+  "pages": 6,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "0.25, 0.5, 0.75 and 1.",
+     "y": 0.64,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Mathematics/9371_2013_to_2016/009_Unit_M2_Mechanics_2.pdf",
+  "spec": "A_Level/Mathematics/9371_2013_to_2016",
+  "idx": 8,
+  "code": "Unit M2",
+  "title": "Mechanics 2",
+  "pages": 4,
+  "flags": {
+   "blank_end_sliver": 0.0132
+  }
+ },
+ {
+  "rel": "A_Level/Mathematics/9371_2013_to_2016/010_Unit_M3_Mechanics_3.pdf",
+  "spec": "A_Level/Mathematics/9371_2013_to_2016",
+  "idx": 9,
+  "code": "Unit M3",
+  "title": "Mechanics 3",
+  "pages": 4,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "(i)suspension of a body from a",
+     "y": 0.57,
+     "below": 57
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Music/8MU01_2008_to_2016/006_1_4_How_the_assessment_criteria_will_be_applie.pdf",
+  "spec": "A_Level/Music/8MU01_2008_to_2016",
+  "idx": 5,
+  "code": "1.4",
+  "title": "How the assessment criteria will be applied",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0157
+  }
+ },
+ {
+  "rel": "A_Level/Music/8MU01_2008_to_2016/013_2_3_Assessment_information.pdf",
+  "spec": "A_Level/Music/8MU01_2008_to_2016",
+  "idx": 12,
+  "code": "2.3",
+  "title": "Assessment information",
+  "pages": 2,
+  "flags": {
+   "lead_unrel": {
+    "top": "3 \tWriting about",
+    "file_code": "2.3"
+   },
+   "bleed_other": [
+    {
+     "text": "assessment criteria in Section 2.6.",
+     "y": 0.72,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Music/8MU01_2008_to_2016/014_2_4_How_the_assessment_criteria_will_be_applie.pdf",
+  "spec": "A_Level/Music/8MU01_2008_to_2016",
+  "idx": 13,
+  "code": "2.4",
+  "title": "How the assessment criteria will be applied",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0184,
+   "lead_unrel": {
+    "top": "4\tControlled",
+    "file_code": "2.4"
+   }
+  }
+ },
+ {
+  "rel": "A_Level/Music/8MU01_2008_to_2016/026_5_2_What_students_need_to_learn_if_choosing_co.pdf",
+  "spec": "A_Level/Music/8MU01_2008_to_2016",
+  "idx": 25,
+  "code": "5.2",
+  "title": "What students need to learn if choosing composition",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "Area of study Applied music: Topic 4: Music, ",
+     "y": 0.67,
+     "below": 186
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Music/8MU01_2008_to_2016/033_6_4_Assessment_information.pdf",
+  "spec": "A_Level/Music/8MU01_2008_to_2016",
+  "idx": 32,
+  "code": "6.4",
+  "title": "Assessment information",
+  "pages": 5,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "Unit 4",
+     "y": 0.62,
+     "below": 149
+    },
+    {
+     "text": "Unit grade",
+     "y": 0.65,
+     "below": 134
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Music/9MU0_2017_to_PRESENT/001_Overview.pdf",
+  "spec": "A_Level/Music/9MU0_2017_to_PRESENT",
+  "idx": 0,
+  "code": "",
+  "title": "Overview",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.016
+  }
+ },
+ {
+  "rel": "A_Level/Physical_Education/8PE01_2008_to_2016/014_Component_1_Planning_and_Researching.pdf",
+  "spec": "A_Level/Physical_Education/8PE01_2008_to_2016",
+  "idx": 13,
+  "code": "Component 1",
+  "title": "Planning and Researching",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0199,
+   "lead_unrel": {
+    "top": "Task 4.1 \u2014 Development Plan (AO1, AO2, AO3)",
+    "file_code": "Component 1"
+   }
+  }
+ },
+ {
+  "rel": "A_Level/Physical_Education/8PE01_2008_to_2016/015_Component_2_Performing_and_Recording.pdf",
+  "spec": "A_Level/Physical_Education/8PE01_2008_to_2016",
+  "idx": 14,
+  "code": "Component 2",
+  "title": "Performing and Recording",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "Task 4.1 \u2014 Development Plan (AO1, AO2, AO3)",
+    "file_code": "Component 2"
+   }
+  }
+ },
+ {
+  "rel": "A_Level/Physical_Education/8PE01_2008_to_2016/016_Component_3_Review_and_Evaluation.pdf",
+  "spec": "A_Level/Physical_Education/8PE01_2008_to_2016",
+  "idx": 15,
+  "code": "Component 3",
+  "title": "Review and Evaluation",
+  "pages": 12,
+  "flags": {
+   "lead_unrel": {
+    "top": "Task 4.1 \u2014 Development Plan (AO1, AO2, AO3)",
+    "file_code": "Component 3"
+   }
+  }
+ },
+ {
+  "rel": "A_Level/Physical_Education/9PE0_2017_to_PRESENT/034_Component_4_Performance_Analysis_and_Performance.pdf",
+  "spec": "A_Level/Physical_Education/9PE0_2017_to_PRESENT",
+  "idx": 33,
+  "code": "Component 4",
+  "title": "Performance Analysis and Performance",
+  "pages": 6,
+  "flags": {
+   "blank_end_sliver": 0.0073
+  }
+ },
+ {
+  "rel": "A_Level/Physics/9PH0_2017_to_PRESENT/001_Overview.pdf",
+  "spec": "A_Level/Physics/9PH0_2017_to_PRESENT",
+  "idx": 0,
+  "code": "",
+  "title": "Overview",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0192
+  }
+ },
+ {
+  "rel": "A_Level/Physics/9PH0_2017_to_PRESENT/010_Topic_9_Thermodynamics.pdf",
+  "spec": "A_Level/Physics/9PH0_2017_to_PRESENT",
+  "idx": 9,
+  "code": "Topic 9",
+  "title": "Thermodynamics",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "155. be able to use Wien\u2019s law equation \u03bbmaxT",
+     "y": 0.7,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "A_Level/Politics/8GP01_2008_to_2016/006_3_2_Assessment_information.pdf",
+  "spec": "A_Level/Politics/8GP01_2008_to_2016",
+  "idx": 5,
+  "code": "3.2",
+  "title": "Assessment information",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "Topic D: Structures of Global Politics.",
+    "file_code": "3.2"
+   }
+  }
+ },
+ {
+  "rel": "A_Level/Politics/8GP01_2008_to_2016/011_4_2_Assessment_information.pdf",
+  "spec": "A_Level/Politics/8GP01_2008_to_2016",
+  "idx": 10,
+  "code": "4.2",
+  "title": "Assessment information",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "Topic D: Global Political Issues.",
+    "file_code": "4.2"
+   }
+  }
+ },
+ {
+  "rel": "A_Level/Psychology/8PS01_2008_to_2016/014_4_4_Issues_and_debates.pdf",
+  "spec": "A_Level/Psychology/8PS01_2008_to_2016",
+  "idx": 13,
+  "code": "4.4",
+  "title": "Issues and debates",
+  "pages": 3,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "6\tPsychology",
+     "y": 0.7,
+     "below": 148
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Biology/1BI0_2017_to_PRESENT/002_Topic_1_Key_concepts_in_biology.pdf",
+  "spec": "GCSE/Biology/1BI0_2017_to_PRESENT",
+  "idx": 1,
+  "code": "Topic 1",
+  "title": "Key concepts in biology",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0118
+  }
+ },
+ {
+  "rel": "GCSE/Biology/1BI0_2017_to_PRESENT/008_Topic_7_Animal_coordination_control_and_homeostasi.pdf",
+  "spec": "GCSE/Biology/1BI0_2017_to_PRESENT",
+  "idx": 7,
+  "code": "Topic 7",
+  "title": "Animal coordination, control and homeostasis",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0166
+  }
+ },
+ {
+  "rel": "GCSE/Chemistry/1CH0_2017_to_PRESENT/009_Topic_8_Fuels_and_Earth_science.pdf",
+  "spec": "GCSE/Chemistry/1CH0_2017_to_PRESENT",
+  "idx": 8,
+  "code": "Topic 8",
+  "title": "Fuels and Earth science",
+  "pages": 4,
+  "flags": {
+   "blank_end_sliver": 0.0151
+  }
+ },
+ {
+  "rel": "GCSE/Chemistry/2CH01_2012_to_2016/006_Section_5_Chemistry_in_society.pdf",
+  "spec": "GCSE/Chemistry/2CH01_2012_to_2016",
+  "idx": 5,
+  "code": "Section 5",
+  "title": "Chemistry in society",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "paper and soap; and of chlorine, including st",
+     "y": 0.81,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Drama/1DR0_2017_to_PRESENT/006_Component_3_Theatre_Makers_in_Practice.pdf",
+  "spec": "GCSE/Drama/1DR0_2017_to_PRESENT",
+  "idx": 5,
+  "code": "Component 3",
+  "title": "Theatre Makers in Practice",
+  "pages": 5,
+  "flags": {
+   "blank_end_sliver": 0.012
+  }
+ },
+ {
+  "rel": "GCSE/Economics/NA_2009_to_2016/001_Paper_1_Economics.pdf",
+  "spec": "GCSE/Economics/NA_2009_to_2016",
+  "idx": 0,
+  "code": "Paper 1",
+  "title": "Economics",
+  "pages": 9,
+  "flags": {
+   "blank_end_sliver": 0.0069
+  }
+ },
+ {
+  "rel": "GCSE/English_Language/1EN0_2017_to_PRESENT/005_Section_B_Transactional_writing_explore_and_develop_.pdf",
+  "spec": "GCSE/English_Language/1EN0_2017_to_PRESENT",
+  "idx": 4,
+  "code": "Section B",
+  "title": "Transactional writing: explore and develop transactiona",
+  "pages": 12,
+  "flags": {
+   "blank_end_sliver": 0.0187
+  }
+ },
+ {
+  "rel": "GCSE/Geography/1GA0_2017_to_PRESENT/060_8_2_The_UK.pdf",
+  "spec": "GCSE/Geography/1GA0_2017_to_PRESENT",
+  "idx": 59,
+  "code": "8.2",
+  "title": "The UK",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "4.2b; 4.4a, b;",
+    "file_code": "8.2"
+   }
+  }
+ },
+ {
+  "rel": "GCSE/Geography/1GA0_2017_to_PRESENT/062_8_4_The_UK_s.pdf",
+  "spec": "GCSE/Geography/1GA0_2017_to_PRESENT",
+  "idx": 61,
+  "code": "8.4",
+  "title": "The UK\u2019s",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "1.4b; 1.7b; 1.11b;",
+    "file_code": "8.4"
+   }
+  }
+ },
+ {
+  "rel": "GCSE/History/1HI0_2017_to_PRESENT/015_Option_30_Russia_and_the_Soviet_Union_1917_41.pdf",
+  "spec": "GCSE/History/1HI0_2017_to_PRESENT",
+  "idx": 14,
+  "code": "Option 30",
+  "title": "Russia and the Soviet Union, 1917\u201341",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4  The position of",
+     "y": 0.59,
+     "below": 84
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/History/1HI0_2017_to_PRESENT/016_Option_31_Weimar_and_Nazi_Germany_1918_39.pdf",
+  "spec": "GCSE/History/1HI0_2017_to_PRESENT",
+  "idx": 15,
+  "code": "Option 31",
+  "title": "Weimar and Nazi Germany, 1918\u201339",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4  The",
+     "y": 0.61,
+     "below": 143
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/History/1HI0_2017_to_PRESENT/017_Option_32_Mao_s_China_1945_76.pdf",
+  "spec": "GCSE/History/1HI0_2017_to_PRESENT",
+  "idx": 16,
+  "code": "Option 32",
+  "title": "Mao\u2019s China, 1945\u201376",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4  Cultural",
+     "y": 0.6,
+     "below": 160
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/History/1HI0_2017_to_PRESENT/018_Option_33_The_USA_1954_75_conflict_at_home_and_abroa.pdf",
+  "spec": "GCSE/History/1HI0_2017_to_PRESENT",
+  "idx": 17,
+  "code": "Option 33",
+  "title": "The USA, 1954\u201375: conflict at home and abroad",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4  Reasons for",
+     "y": 0.58,
+     "below": 142
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Music/1MU0_2017_to_PRESENT/007_Area_of_study_4_Fusion.pdf",
+  "spec": "GCSE/Music/1MU0_2017_to_PRESENT",
+  "idx": 6,
+  "code": "Area of study 4",
+  "title": "Fusion",
+  "pages": 4,
+  "flags": {
+   "blank_end_sliver": 0.011
+  }
+ },
+ {
+  "rel": "GCSE/Music/1MU0_2017_to_PRESENT/009_Section_B.pdf",
+  "spec": "GCSE/Music/1MU0_2017_to_PRESENT",
+  "idx": 8,
+  "code": "Section B",
+  "title": "",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0109
+  }
+ },
+ {
+  "rel": "GCSE/Music/NA_2011_to_2016/002_Area_of_study_2_Area_of_Study_3_Popular_music_in_context.pdf",
+  "spec": "GCSE/Music/NA_2011_to_2016",
+  "idx": 1,
+  "code": "Area of study 2",
+  "title": "Area of Study 3 Popular music in context",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0149
+  }
+ },
+ {
+  "rel": "GCSE/Music/NA_2011_to_2016/004_Unit_2_Composing_Music.pdf",
+  "spec": "GCSE/Music/NA_2011_to_2016",
+  "idx": 3,
+  "code": "Unit 2",
+  "title": "Composing Music",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0067
+  }
+ },
+ {
+  "rel": "GCSE/Physics/1PH0_2017_to_PRESENT/007_Topic_6_Radioactivity.pdf",
+  "spec": "GCSE/Physics/1PH0_2017_to_PRESENT",
+  "idx": 6,
+  "code": "Topic 6",
+  "title": "Radioactivity",
+  "pages": 4,
+  "flags": {
+   "blank_end_sliver": 0.0169
+  }
+ },
+ {
+  "rel": "GCSE/Physics/2PH01_2012_to_2016/002_Topic_2.pdf",
+  "spec": "GCSE/Physics/2PH01_2012_to_2016",
+  "idx": 1,
+  "code": "Topic 2",
+  "title": "",
+  "pages": 3,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.1",
+     "y": 0.79,
+     "below": 161
+    },
+    {
+     "text": "4.2",
+     "y": 0.83,
+     "below": 119
+    },
+    {
+     "text": "4.3",
+     "y": 0.91,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Physics/2PH01_2012_to_2016/004_5_12_Use_the_turns_ratio_equation_for_transform.pdf",
+  "spec": "GCSE/Physics/2PH01_2012_to_2016",
+  "idx": 3,
+  "code": "5.12",
+  "title": "Use the turns ratio equation for transformers to predic",
+  "pages": 7,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "1.12\tRecall that cells and batteries supply d",
+     "y": 0.87,
+     "below": 103
+    },
+    {
+     "text": "1.13\tDemonstrate an understanding that direct",
+     "y": 0.89,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Physics/2PH01_2012_to_2016/005_2_13_Explain_the_energy_transfer_in_2_12_above_.pdf",
+  "spec": "GCSE/Physics/2PH01_2012_to_2016",
+  "idx": 4,
+  "code": "2.13",
+  "title": "Explain the energy transfer (in 2.12 above) as the resu",
+  "pages": 3,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.5",
+     "y": 0.92,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Physics/2PH01_2012_to_2016/006_4_18_Carry_out_calculations_on_work_done_to_sho.pdf",
+  "spec": "GCSE/Physics/2PH01_2012_to_2016",
+  "idx": 5,
+  "code": "4.18",
+  "title": "Carry out calculations on work done to show the",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.17\tDemonstrate an understanding of the idea",
+     "y": 0.75,
+     "below": 194
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Physics/2PH01_2012_to_2016/007_5_14_Explain_why_nuclear_fusion_does_not_happen.pdf",
+  "spec": "GCSE/Physics/2PH01_2012_to_2016",
+  "idx": 6,
+  "code": "5.14",
+  "title": "Explain why nuclear fusion does not happen at low",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "5.13\tExplain the difference between nuclear f",
+     "y": 0.57,
+     "below": 121
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Physics/2PH01_2012_to_2016/011_3_11_Recall_that_nuclei_with_high_values_of_Z_a.pdf",
+  "spec": "GCSE/Physics/2PH01_2012_to_2016",
+  "idx": 10,
+  "code": "3.11",
+  "title": "Recall that nuclei with high values of Z (above 82) usu",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.3",
+     "y": 0.84,
+     "below": 144
+    },
+    {
+     "text": "4.4",
+     "y": 0.89,
+     "below": 5
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Psychology/1PY0_2017_to_PRESENT/001_Overview.pdf",
+  "spec": "GCSE/Psychology/1PY0_2017_to_PRESENT",
+  "idx": 0,
+  "code": "",
+  "title": "Overview",
+  "pages": 4,
+  "flags": {
+   "blank_end_sliver": 0.0103
+  }
+ },
+ {
+  "rel": "GCSE/Psychology/1PY0_2017_to_PRESENT/024_10_1_Language.pdf",
+  "spec": "GCSE/Psychology/1PY0_2017_to_PRESENT",
+  "idx": 23,
+  "code": "10.1",
+  "title": "Language,",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "(i) proxemics",
+     "y": 0.63,
+     "below": 157
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT/004_Area_of_study_1B_Christianity.pdf",
+  "spec": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT",
+  "idx": 3,
+  "code": "Area of study 1B",
+  "title": "Christianity",
+  "pages": 5,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.64,
+     "below": 154
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT/005_Area_of_study_1C_Islam.pdf",
+  "spec": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT",
+  "idx": 4,
+  "code": "Area of study 1C",
+  "title": "Islam",
+  "pages": 5,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.64,
+     "below": 16
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT/006_Paper_1_Area_of_Study_1_Study_of_Religion.pdf",
+  "spec": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT",
+  "idx": 5,
+  "code": "Paper 1",
+  "title": "Area of Study 1 \u2013 Study of Religion",
+  "pages": 4,
+  "flags": {
+   "bleed_next": [
+    {
+     "text": "2.8",
+     "y": 0.74,
+     "below": 165
+    }
+   ],
+   "bleed_other": [
+    {
+     "text": "Chapter 5.",
+     "y": 0.81,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT/007_Area_of_study_2B_Christianity.pdf",
+  "spec": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT",
+  "idx": 6,
+  "code": "Area of study 2B",
+  "title": "Christianity",
+  "pages": 3,
+  "flags": {
+   "bleed_next": [
+    {
+     "text": "2.8",
+     "y": 0.67,
+     "below": 154
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT/009_Area_of_study_2D_Buddhism.pdf",
+  "spec": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT",
+  "idx": 8,
+  "code": "Area of study 2D",
+  "title": "Buddhism",
+  "pages": 3,
+  "flags": {
+   "lead_unrel": {
+    "top": "\u25cfBeliefs about the afterlife and their signif",
+    "file_code": "Area of study 2D"
+   }
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT/010_Area_of_study_2E_Hinduism.pdf",
+  "spec": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT",
+  "idx": 9,
+  "code": "Area of study 2E",
+  "title": "Hinduism",
+  "pages": 3,
+  "flags": {
+   "bleed_next": [
+    {
+     "text": "2.8",
+     "y": 0.68,
+     "below": 109
+    }
+   ],
+   "bleed_other": [
+    {
+     "text": "of Bhagavad Gita 3.10\u201312.",
+     "y": 0.72,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT/016_Section_1_Arguments_for_the_Existence_of_Allah.pdf",
+  "spec": "GCSE/Religious_Studies/1RA0_2017_to_PRESENT",
+  "idx": 15,
+  "code": "Section 1",
+  "title": "Arguments for the Existence of Allah",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.8",
+     "y": 0.69,
+     "below": 28
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/006_Section_1_Muslim_Beliefs.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 5,
+  "code": "Section 1",
+  "title": "Muslim Beliefs",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.8",
+     "y": 0.68,
+     "below": 28
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/008_Section_1_Buddhist_Beliefs.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 7,
+  "code": "Section 1",
+  "title": "Buddhist Beliefs",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.8",
+     "y": 0.68,
+     "below": 66
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/010_Section_1_Hindu_Beliefs.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 9,
+  "code": "Section 1",
+  "title": "Hindu Beliefs",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.8",
+     "y": 0.68,
+     "below": 59
+    },
+    {
+     "text": "6.29\u201332; examples of gender equality in actio",
+     "y": 0.71,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/012_Section_1_Jewish_Beliefs.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 11,
+  "code": "Section 1",
+  "title": "Jewish Beliefs",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.8",
+     "y": 0.74,
+     "below": 77
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/014_Section_1_Sikh_Beliefs.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 13,
+  "code": "Section 1",
+  "title": "Sikh Beliefs",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.8",
+     "y": 0.68,
+     "below": 67
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/017_Area_of_study_2A_Catholic_Christianity.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 16,
+  "code": "Area of study 2A",
+  "title": "Catholic Christianity",
+  "pages": 5,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.66,
+     "below": 126
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/019_Area_of_study_2C_Islam.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 18,
+  "code": "Area of study 2C",
+  "title": "Islam",
+  "pages": 5,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.62,
+     "below": 193
+    },
+    {
+     "text": "have worked to overcome these issues, includi",
+     "y": 0.65,
+     "below": 50
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/020_Area_of_study_2D_Buddhism.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 19,
+  "code": "Area of study 2D",
+  "title": "Buddhism",
+  "pages": 5,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.63,
+     "below": 121
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/025_Area_of_study_3A_Catholic_Christianity.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 24,
+  "code": "Area of study 3A",
+  "title": "Catholic Christianity",
+  "pages": 5,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.68,
+     "below": 134
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/026_Area_of_study_3B_Christianity.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 25,
+  "code": "Area of study 3B",
+  "title": "Christianity",
+  "pages": 5,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.64,
+     "below": 139
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/027_Area_of_study_3C_Islam.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 26,
+  "code": "Area of study 3C",
+  "title": "Islam",
+  "pages": 10,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.67,
+     "below": 138
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/029_Section_1_Beliefs_and_Teachings.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 28,
+  "code": "Section 1",
+  "title": "Beliefs and Teachings",
+  "pages": 4,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.6,
+     "below": 100
+    },
+    {
+     "text": "and Rig Veda 10.117.",
+     "y": 0.65,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/031_Section_2_Religious_Experience.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 30,
+  "code": "Section 2",
+  "title": "Religious Experience",
+  "pages": 3,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.62,
+     "below": 83
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/1RB0_2012_to_2016/032_Area_of_study_3G_Sikhism.pdf",
+  "spec": "GCSE/Religious_Studies/1RB0_2012_to_2016",
+  "idx": 31,
+  "code": "Area of study 3G",
+  "title": "Sikhism",
+  "pages": 5,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4.8",
+     "y": 0.68,
+     "below": 100
+    }
+   ]
+  }
+ },
+ {
+  "rel": "GCSE/Religious_Studies/2RS01_2012_to_2016/030_Section_8_1_Religion_rights_and_responsibilities.pdf",
+  "spec": "GCSE/Religious_Studies/2RS01_2012_to_2016",
+  "idx": 29,
+  "code": "Section 8.1",
+  "title": "Religion: rights and responsibilities",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "1\u00a0John 3:11-18).",
+     "y": 0.64,
+     "below": 150
+    }
+   ]
+  }
+ },
+ {
+  "rel": "IGCSE/Biology/Linear/4BI0_2009_to_2016/001_Paper_2_assesses_all_content_including_content_in_.pdf",
+  "spec": "IGCSE/Biology/Linear/4BI0_2009_to_2016",
+  "idx": 0,
+  "code": "Paper 2",
+  "title": "assesses all content including content in bold.",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "1.3 recall the term \u2018pathogen\u2019 and know that ",
+     "y": 0.86,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "IGCSE/Biology/Linear/4BI1_2017_to_PRESENT/008_e_Nutrition.pdf",
+  "spec": "IGCSE/Biology/Linear/4BI1_2017_to_PRESENT",
+  "idx": 7,
+  "code": "(e)",
+  "title": "Nutrition",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.31",
+     "y": 0.62,
+     "below": 164
+    },
+    {
+     "text": "2.32",
+     "y": 0.65,
+     "below": 64
+    },
+    {
+     "text": "2.33B practical: investigate the energy conte",
+     "y": 0.68,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "IGCSE/Biology/Linear/4BI1_2017_to_PRESENT/011_h_Transport.pdf",
+  "spec": "IGCSE/Biology/Linear/4BI1_2017_to_PRESENT",
+  "idx": 10,
+  "code": "(h)",
+  "title": "Transport",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.68",
+     "y": 0.74,
+     "below": 141
+    },
+    {
+     "text": "2.69",
+     "y": 0.76,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "IGCSE/Business_Studies/Linear/4BS1_2017_to_PRESENT/001_Overview.pdf",
+  "spec": "IGCSE/Business_Studies/Linear/4BS1_2017_to_PRESENT",
+  "idx": 0,
+  "code": "",
+  "title": "Overview",
+  "pages": 2,
+  "flags": {
+   "bleed_next": [
+    {
+     "text": "Paper 1 will focus on a small business of up ",
+     "y": 0.71,
+     "below": 104
+    }
+   ]
+  }
+ },
+ {
+  "rel": "IGCSE/Chemistry/Linear/4CH0_2009_to_2016/006_Section_5_Chemistry_in_society.pdf",
+  "spec": "IGCSE/Chemistry/Linear/4CH0_2009_to_2016",
+  "idx": 5,
+  "code": "Section 5",
+  "title": "Chemistry in society",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "paper and soap; and of chlorine, including st",
+     "y": 0.8,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "IGCSE/Chemistry/Linear/4CH1_2017_to_PRESENT/017_g_Acids_bases_and_salt_preparations.pdf",
+  "spec": "IGCSE/Chemistry/Linear/4CH1_2017_to_PRESENT",
+  "idx": 16,
+  "code": "(g)",
+  "title": "Acids, bases and salt preparations",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.43C practical: prepare a sample of pure, dr",
+     "y": 0.56,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "IGCSE/Chemistry/Linear/4CH1_2017_to_PRESENT/018_h_Chemical_tests.pdf",
+  "spec": "IGCSE/Chemistry/Linear/4CH1_2017_to_PRESENT",
+  "idx": 17,
+  "code": "(h)",
+  "title": "Chemical tests",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "2.50",
+     "y": 0.56,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "IGCSE/Economics/Linear/4EC0_2011_to_2016/001_Paper_1_Economics.pdf",
+  "spec": "IGCSE/Economics/Linear/4EC0_2011_to_2016",
+  "idx": 0,
+  "code": "Paper 1",
+  "title": "Economics",
+  "pages": 9,
+  "flags": {
+   "blank_end_sliver": 0.0071
+  }
+ },
+ {
+  "rel": "IGCSE/French/Linear/4FR1_2017_to_PRESENT/005_2_2_Content.pdf",
+  "spec": "IGCSE/French/Linear/4FR1_2017_to_PRESENT",
+  "idx": 4,
+  "code": "2.2",
+  "title": "Content",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0156
+  }
+ },
+ {
+  "rel": "IGCSE/Further_Mathematics/Linear/4PM0_2011_to_2016/001_Overview.pdf",
+  "spec": "IGCSE/Further_Mathematics/Linear/4PM0_2011_to_2016",
+  "idx": 0,
+  "code": "",
+  "title": "Overview",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0043
+  }
+ },
+ {
+  "rel": "IGCSE/Further_Mathematics/Linear/4PM0_2011_to_2016/007_Topic_6_The_Binomial_series_Use_of_the_binomial_se.pdf",
+  "spec": "IGCSE/Further_Mathematics/Linear/4PM0_2011_to_2016",
+  "idx": 6,
+  "code": "Topic 6",
+  "title": "The Binomial series Use of the binomial series (1 +x)n.",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "(i) n is a positive integer",
+    "file_code": "Topic 6"
+   }
+  }
+ },
+ {
+  "rel": "IGCSE/Geography/Linear/4GE1_2017_to_PRESENT/002_1_1_Description.pdf",
+  "spec": "IGCSE/Geography/Linear/4GE1_2017_to_PRESENT",
+  "idx": 1,
+  "code": "1.1",
+  "title": "Description",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "Section B (20 marks).",
+     "y": 0.66,
+     "below": 156
+    }
+   ]
+  }
+ },
+ {
+  "rel": "IGCSE/History/Linear/4HI1_2017_to_PRESENT/015_Topic_B1_America_from_new_nation_to_divided_union_1.pdf",
+  "spec": "IGCSE/History/Linear/4HI1_2017_to_PRESENT",
+  "idx": 14,
+  "code": "Topic B1",
+  "title": "America: from new nation to divided union, 1783\u20131877",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0193
+  }
+ },
+ {
+  "rel": "IGCSE/History/Linear/4HI1_2017_to_PRESENT/019_Topic_B5_The_changing_role_of_international_organis.pdf",
+  "spec": "IGCSE/History/Linear/4HI1_2017_to_PRESENT",
+  "idx": 18,
+  "code": "Topic B5",
+  "title": "The changing role of international organisations: the",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0151
+  }
+ },
+ {
+  "rel": "IGCSE/Mathematics/Modular/4MA0_2011_to_2016/031_6_3_Probability.pdf",
+  "spec": "IGCSE/Mathematics/Modular/4MA0_2011_to_2016",
+  "idx": 30,
+  "code": "6.3",
+  "title": "Probability",
+  "pages": 6,
+  "flags": {
+   "blank_end_sliver": 0.008
+  }
+ },
+ {
+  "rel": "IGCSE/Mathematics/Modular/4MA0_2011_to_2016/044_5_2_Transformation.pdf",
+  "spec": "IGCSE/Mathematics/Modular/4MA0_2011_to_2016",
+  "idx": 43,
+  "code": "5.2",
+  "title": "Transformation",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "6 Statistics",
+    "file_code": "5.2"
+   }
+  }
+ },
+ {
+  "rel": "IGCSE/Spanish/Linear/4SP0_2011_to_2016/002_Paper_1_Listening.pdf",
+  "spec": "IGCSE/Spanish/Linear/4SP0_2011_to_2016",
+  "idx": 1,
+  "code": "Paper 1",
+  "title": "Listening",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0119
+  }
+ },
+ {
+  "rel": "IGCSE/Spanish/Linear/4SP1_2017_to_PRESENT/005_2_2_Content.pdf",
+  "spec": "IGCSE/Spanish/Linear/4SP1_2017_to_PRESENT",
+  "idx": 4,
+  "code": "2.2",
+  "title": "Content",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0155
+  }
+ },
+ {
+  "rel": "IGCSE/Spanish/Linear/4SP1_2017_to_PRESENT/012_3_6_Advice_for_examiners_during_Task_A_discuss.pdf",
+  "spec": "IGCSE/Spanish/Linear/4SP1_2017_to_PRESENT",
+  "idx": 11,
+  "code": "3.6",
+  "title": "Advice for examiners during Task A discussion and Tasks",
+  "pages": 3,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "(e), o (u), pero, sino, porque",
+     "y": 0.78,
+     "below": 92
+    }
+   ]
+  }
+ },
+ {
+  "rel": "International_A_Level/Biology/WBI01_2014_to_2019/025_8_4_Topic_8_Grey_matter.pdf",
+  "spec": "International_A_Level/Biology/WBI01_2014_to_2019",
+  "idx": 24,
+  "code": "8.4",
+  "title": "Topic 8: Grey matter",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0118
+  }
+ },
+ {
+  "rel": "International_A_Level/Biology/WBI01_2014_to_2019/029_9_4_Assessment_Criteria.pdf",
+  "spec": "International_A_Level/Biology/WBI01_2014_to_2019",
+  "idx": 28,
+  "code": "9.4",
+  "title": "Assessment Criteria",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "4\tCommunicate clearly, concisely and",
+     "y": 0.62,
+     "below": 99
+    }
+   ]
+  }
+ },
+ {
+  "rel": "International_A_Level/Chemistry/WCH01_2014_to_2019/031_5_4_Organic_chemistry_arenes_nitrogen_compound.pdf",
+  "spec": "International_A_Level/Chemistry/WCH01_2014_to_2019",
+  "idx": 30,
+  "code": "5.4",
+  "title": "Organic chemistry \u2013 arenes, nitrogen compounds and synt",
+  "pages": 4,
+  "flags": {
+   "blank_end_sliver": 0.0149
+  }
+ },
+ {
+  "rel": "International_A_Level/Chemistry/WCH01_2014_to_2019/032_6_1_Unit_description.pdf",
+  "spec": "International_A_Level/Chemistry/WCH01_2014_to_2019",
+  "idx": 31,
+  "code": "6.1",
+  "title": "Unit description",
+  "pages": 18,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "11\tAppreciate the role of the scientific comm",
+     "y": 0.66,
+     "below": 159
+    },
+    {
+     "text": "all of 2.13",
+     "y": 0.66,
+     "below": 159
+    },
+    {
+     "text": "all of 4.9",
+     "y": 0.66,
+     "below": 159
+    },
+    {
+     "text": "5.3.2h",
+     "y": 0.66,
+     "below": 159
+    },
+    {
+     "text": "5.4.3b",
+     "y": 0.67,
+     "below": 153
+    },
+    {
+     "text": "5.4.3c",
+     "y": 0.69,
+     "below": 153
+    },
+    {
+     "text": "12\tAppreciate the ways in which society uses ",
+     "y": 0.74,
+     "below": 41
+    },
+    {
+     "text": "2.7.1h",
+     "y": 0.74,
+     "below": 41
+    },
+    {
+     "text": "4.6a",
+     "y": 0.74,
+     "below": 41
+    },
+    {
+     "text": "5.3.1i",
+     "y": 0.74,
+     "below": 41
+    },
+    {
+     "text": "2.11g",
+     "y": 0.76,
+     "below": 20
+    },
+    {
+     "text": "4.6b",
+     "y": 0.76,
+     "below": 20
+    },
+    {
+     "text": "all of 2.13",
+     "y": 0.78,
+     "below": 10
+    },
+    {
+     "text": "4.6c",
+     "y": 0.78,
+     "below": 10
+    },
+    {
+     "text": "4.6d",
+     "y": 0.79,
+     "below": 0
+    },
+    {
+     "text": "all of 4.9",
+     "y": 0.81,
+     "below": 0
+    }
+   ],
+   "bleed_next": [
+    {
+     "text": "1.7.3h",
+     "y": 0.66,
+     "below": 159
+    },
+    {
+     "text": "1.3c",
+     "y": 0.74,
+     "below": 41
+    },
+    {
+     "text": "1.7.2c",
+     "y": 0.76,
+     "below": 20
+    },
+    {
+     "text": "1.7.2d",
+     "y": 0.78,
+     "below": 10
+    },
+    {
+     "text": "1.7.3h",
+     "y": 0.79,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "International_A_Level/Chemistry/WCH11_2019_to_PRESENT/010_Topic_9_Introduction_to_Kinetics_and_Equilibria.pdf",
+  "spec": "International_A_Level/Chemistry/WCH11_2019_to_PRESENT",
+  "idx": 9,
+  "code": "Topic 9",
+  "title": "Introduction to Kinetics and Equilibria",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0166
+  }
+ },
+ {
+  "rel": "International_A_Level/Chemistry/WCH11_2019_to_PRESENT/021_Topic_19_Organic_Nitrogen_Compounds_Amines_Amides.pdf",
+  "spec": "International_A_Level/Chemistry/WCH11_2019_to_PRESENT",
+  "idx": 20,
+  "code": "Topic 19",
+  "title": "Organic Nitrogen Compounds: Amines, Amides,",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0124
+  }
+ },
+ {
+  "rel": "International_A_Level/French/WFR01_2014_to_PRESENT/001_1_1_Unit_content.pdf",
+  "spec": "International_A_Level/French/WFR01_2014_to_PRESENT",
+  "idx": 0,
+  "code": "1.1",
+  "title": "Unit content",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0087
+  }
+ },
+ {
+  "rel": "International_A_Level/French/WFR01_2014_to_PRESENT/011_4_1_Unit_content.pdf",
+  "spec": "International_A_Level/French/WFR01_2014_to_PRESENT",
+  "idx": 10,
+  "code": "4.1",
+  "title": "Unit content",
+  "pages": 3,
+  "flags": {
+   "bleed_next": [
+    {
+     "text": "4 Films",
+     "y": 0.77,
+     "below": 118
+    }
+   ]
+  }
+ },
+ {
+  "rel": "International_A_Level/Mathematics/WMA01_2013_to_2018/003_Topic_2_Coordinate_geometry_in_the_x_y_plane.pdf",
+  "spec": "International_A_Level/Mathematics/WMA01_2013_to_2018",
+  "idx": 2,
+  "code": "Topic 2",
+  "title": "Coordinate geometry in the (x, y) plane",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "(i)\tthe equation of a line through two given ",
+    "file_code": "Topic 2"
+   }
+  }
+ },
+ {
+  "rel": "International_A_Level/Mathematics/WMA01_2013_to_2018/022_Topic_8_Proof.pdf",
+  "spec": "International_A_Level/Mathematics/WMA01_2013_to_2018",
+  "idx": 21,
+  "code": "Topic 8",
+  "title": "Proof",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "(i)\tsummation of series",
+    "file_code": "Topic 8"
+   }
+  }
+ },
+ {
+  "rel": "International_A_Level/Mathematics/WMA01_2013_to_2018/036_Topic_4_Dynamics_of_a_particle_moving_in_a_straigh.pdf",
+  "spec": "International_A_Level/Mathematics/WMA01_2013_to_2018",
+  "idx": 35,
+  "code": "Topic 4",
+  "title": "Dynamics of a particle moving in a straight line or pla",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "(i)\tthe motion of two connected particles mov",
+    "file_code": "Topic 4"
+   }
+  }
+ },
+ {
+  "rel": "International_A_Level/Mathematics/WMA01_2013_to_2018/047_Topic_5_Statics_of_rigid_bodies.pdf",
+  "spec": "International_A_Level/Mathematics/WMA01_2013_to_2018",
+  "idx": 46,
+  "code": "Topic 5",
+  "title": "Statics of rigid bodies",
+  "pages": 1,
+  "flags": {
+   "lead_unrel": {
+    "top": "(i)\tsuspension of a body from a fixed point,",
+    "file_code": "Topic 5"
+   }
+  }
+ },
+ {
+  "rel": "International_A_Level/Mathematics/WMA11_2018_to_PRESENT/081_Topic_6_The_Normal_distribution.pdf",
+  "spec": "International_A_Level/Mathematics/WMA11_2018_to_PRESENT",
+  "idx": 80,
+  "code": "Topic 6",
+  "title": "The Normal distribution",
+  "pages": 1,
+  "flags": {
+   "lead_prev": {
+    "top": "5.1",
+    "prev_code": "Topic 5"
+   }
+  }
+ },
+ {
+  "rel": "International_A_Level/Physics/WPH01_2014_to_2019/020_4_6_Astrophysics_and_cosmology.pdf",
+  "spec": "International_A_Level/Physics/WPH01_2014_to_2019",
+  "idx": 19,
+  "code": "4.6",
+  "title": "Astrophysics and cosmology",
+  "pages": 3,
+  "flags": {
+   "blank_end_sliver": 0.0166
+  }
+ },
+ {
+  "rel": "International_A_Level/Physics/WPH01_2014_to_2019/039_8_4_Build_or_Bust_BLD.pdf",
+  "spec": "International_A_Level/Physics/WPH01_2014_to_2019",
+  "idx": 38,
+  "code": "8.4",
+  "title": "Build or Bust (BLD)",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0118
+  }
+ },
+ {
+  "rel": "International_A_Level/Physics/WPH11_2019_to_PRESENT/001_Overview.pdf",
+  "spec": "International_A_Level/Physics/WPH11_2019_to_PRESENT",
+  "idx": 0,
+  "code": "",
+  "title": "Overview",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0144
+  }
+ },
+ {
+  "rel": "International_A_Level/Spanish/WSP01_2014_to_PRESENT/001_1_1_Unit_content.pdf",
+  "spec": "International_A_Level/Spanish/WSP01_2014_to_PRESENT",
+  "idx": 0,
+  "code": "1.1",
+  "title": "Unit content",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0087
+  }
+ },
+ {
+  "rel": "International_A_Level/Spanish/WSP01_2014_to_PRESENT/011_4_1_Unit_content.pdf",
+  "spec": "International_A_Level/Spanish/WSP01_2014_to_PRESENT",
+  "idx": 10,
+  "code": "4.1",
+  "title": "Unit content",
+  "pages": 3,
+  "flags": {
+   "bleed_next": [
+    {
+     "text": "4 Films",
+     "y": 0.77,
+     "below": 144
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iLowerSecondary/Computer_Science/LCP11_2018_to_PRESENT/003_Topic_2_Programming_and_development.pdf",
+  "spec": "iLowerSecondary/Computer_Science/LCP11_2018_to_PRESENT",
+  "idx": 2,
+  "code": "Topic 2",
+  "title": "Programming and development",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "PD7.7A",
+     "y": 0.59,
+     "below": 90
+    },
+    {
+     "text": "PD7.2A, B",
+     "y": 0.63,
+     "below": 6
+    },
+    {
+     "text": "PD8.4A",
+     "y": 0.65,
+     "below": 0
+    },
+    {
+     "text": "PD9.3A",
+     "y": 0.67,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iLowerSecondary/Computer_Science/LCP11_2018_to_PRESENT/006_Topic_5_Communications_and_networks.pdf",
+  "spec": "iLowerSecondary/Computer_Science/LCP11_2018_to_PRESENT",
+  "idx": 5,
+  "code": "Topic 5",
+  "title": "Communications and networks",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "CN8.5A",
+     "y": 0.56,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT/002_1_1_Integers.pdf",
+  "spec": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT",
+  "idx": 1,
+  "code": "1.1",
+  "title": "Integers",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "N9.1E",
+     "y": 0.57,
+     "below": 35
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT/004_1_3_Percentages.pdf",
+  "spec": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT",
+  "idx": 3,
+  "code": "1.3",
+  "title": "Percentages",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "N9.2C",
+     "y": 0.63,
+     "below": 197
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT/006_1_5_Ratio_and_proportion.pdf",
+  "spec": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT",
+  "idx": 5,
+  "code": "1.5",
+  "title": "Ratio and proportion",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "One man is 1.8m tall and his foot",
+     "y": 0.66,
+     "below": 119
+    },
+    {
+     "text": "N7.5D",
+     "y": 0.66,
+     "below": 119
+    },
+    {
+     "text": "N8.5D",
+     "y": 0.69,
+     "below": 81
+    },
+    {
+     "text": "Another man is 1.65m tall and his",
+     "y": 0.7,
+     "below": 58
+    },
+    {
+     "text": "N9.4C",
+     "y": 0.71,
+     "below": 58
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT/013_3_1_Measure.pdf",
+  "spec": "iLowerSecondary/Mathematics/LMA11_2018_to_PRESENT",
+  "idx": 12,
+  "code": "3.1",
+  "title": "Measure",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "G9.1J",
+     "y": 0.64,
+     "below": 20
+    },
+    {
+     "text": "40.5g and volume 15cm3",
+     "y": 0.65,
+     "below": 20
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iPrimary/Computer_Science/JCP11_2018_to_PRESENT/006_Section_B_Digital_Technology.pdf",
+  "spec": "iPrimary/Computer_Science/JCP11_2018_to_PRESENT",
+  "idx": 5,
+  "code": "Section B",
+  "title": "Digital Technology",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "12.1",
+     "y": 0.68,
+     "below": 139
+    },
+    {
+     "text": "SS3.4A",
+     "y": 0.68,
+     "below": 139
+    },
+    {
+     "text": "12.2",
+     "y": 0.73,
+     "below": 70
+    },
+    {
+     "text": "SS3.4B",
+     "y": 0.73,
+     "below": 70
+    },
+    {
+     "text": "12.3",
+     "y": 0.75,
+     "below": 0
+    },
+    {
+     "text": "SS3.4C",
+     "y": 0.75,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iPrimary/English_Language/JEH11_2018_to_PRESENT/012_3_3_Convey_meaning_in_writing_through_the_use_.pdf",
+  "spec": "iPrimary/English_Language/JEH11_2018_to_PRESENT",
+  "idx": 11,
+  "code": "3.3",
+  "title": "Convey meaning in writing through the use of accurate g",
+  "pages": 2,
+  "flags": {
+   "blank_end_sliver": 0.0068
+  }
+ },
+ {
+  "rel": "iPrimary/Mathematics/JMA11_2018_to_PRESENT/004_1_3_Multiplication_and_division.pdf",
+  "spec": "iPrimary/Mathematics/JMA11_2018_to_PRESENT",
+  "idx": 3,
+  "code": "1.3",
+  "title": "Multiplication and division",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "N4.3K",
+     "y": 0.57,
+     "below": 134
+    },
+    {
+     "text": "N5.2I",
+     "y": 0.6,
+     "below": 122
+    },
+    {
+     "text": "N4.3K",
+     "y": 0.64,
+     "below": 24
+    },
+    {
+     "text": "N5.2I",
+     "y": 0.66,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iPrimary/Mathematics/JMA11_2018_to_PRESENT/006_1_5_Fractions_and_decimals.pdf",
+  "spec": "iPrimary/Mathematics/JMA11_2018_to_PRESENT",
+  "idx": 5,
+  "code": "1.5",
+  "title": "Fractions and decimals",
+  "pages": 2,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "N6.5J",
+     "y": 0.66,
+     "below": 161
+    },
+    {
+     "text": "4.35 \u2013 2.4 = 1.95",
+     "y": 0.71,
+     "below": 81
+    },
+    {
+     "text": "N4.5G",
+     "y": 0.71,
+     "below": 81
+    },
+    {
+     "text": "N5.5M",
+     "y": 0.73,
+     "below": 76
+    },
+    {
+     "text": "N6.5K",
+     "y": 0.75,
+     "below": 71
+    },
+    {
+     "text": "N4.5H",
+     "y": 0.79,
+     "below": 15
+    },
+    {
+     "text": "N5.5N",
+     "y": 0.81,
+     "below": 10
+    },
+    {
+     "text": "N5.5O",
+     "y": 0.83,
+     "below": 5
+    },
+    {
+     "text": "N6.5L",
+     "y": 0.85,
+     "below": 0
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iPrimary/Mathematics/JMA11_2018_to_PRESENT/012_3_1_Measures.pdf",
+  "spec": "iPrimary/Mathematics/JMA11_2018_to_PRESENT",
+  "idx": 11,
+  "code": "3.1",
+  "title": "Measures",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "G5.1C",
+     "y": 0.58,
+     "below": 69
+    }
+   ]
+  }
+ },
+ {
+  "rel": "iPrimary/Mathematics/JMA11_2018_to_PRESENT/016_4_1_Using_and_interpreting_data.pdf",
+  "spec": "iPrimary/Mathematics/JMA11_2018_to_PRESENT",
+  "idx": 15,
+  "code": "4.1",
+  "title": "Using and interpreting data",
+  "pages": 1,
+  "flags": {
+   "bleed_other": [
+    {
+     "text": "S5.1B",
+     "y": 0.59,
+     "below": 5
+    },
+    {
+     "text": "S6.1C",
+     "y": 0.62,
+     "below": 0
+    }
+   ]
+  }
+ }
+]

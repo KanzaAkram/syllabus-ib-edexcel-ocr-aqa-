@@ -714,6 +714,50 @@ def _collect_units_from_tree(roots, sec, doc=None, body_size=None):
         out.append({"code": node["code"], "title": _clean_unit_title(node["title"] or node["raw"]),
                     "kind": node["kind"], "start_page": sp, "start_y": sy,
                     "end_page": ep, "end_y": ey})
+
+    # Trim trailing column-header-only pages from each unit.
+    # When the next subtopic's table begins with a "Topic | Students should be
+    # able to:" header row on a NEW PAGE before its heading (Economics pattern),
+    # that row bleeds into the previous unit's file as a near-blank last page.
+    # Detect this and pull the end boundary back by one page.
+    if doc is not None:
+        for u in out:
+            ep2, ey2, sp2 = u["end_page"], u["end_y"], u["start_page"]
+            if ep2 <= sp2 or ep2 >= doc.page_count:
+                continue
+            pg = doc[ep2]
+            lines_before_end = [ln for ln in get_page_lines(pg) if ln["y0"] < ey2 - 1]
+            if not lines_before_end:
+                u["end_page"] = ep2 - 1
+                u["end_y"] = 1e9
+                continue
+            real = [ln for ln in lines_before_end if _is_real_line(ln)]
+            if not real:
+                u["end_page"] = ep2 - 1
+                u["end_y"] = 1e9
+                continue
+            # Single short section-title line (e.g. "Geographical Skills" in J383):
+            # if the ONLY remaining real line has ≤5 words, no digits/brackets/colon,
+            # and starts uppercase it is almost certainly a heading bleed, not content.
+            if len(real) == 1:
+                t_only = norm_ws(real[0]["text"])
+                if (len(t_only.split()) <= 5
+                        and not re.search(r"[:\d()\[\]]", t_only)
+                        and t_only[:1].isupper()):
+                    u["end_page"] = ep2 - 1
+                    u["end_y"] = 1e9
+                    continue
+            # Fallback: render the source-page crop and check ink.
+            try:
+                clip = fitz.Rect(0, 0, pg.rect.width, min(ey2, pg.rect.height))
+                pix = pg.get_pixmap(dpi=36, colorspace=fitz.csGRAY, clip=clip)
+                dark = sum(1 for b in pix.samples if b < 240)
+                if dark / max(pix.width * pix.height, 1) < 0.010:
+                    u["end_page"] = ep2 - 1
+                    u["end_y"] = 1e9
+            except Exception:
+                pass
+
     return out
 
 
@@ -759,7 +803,51 @@ _COL_HEADER_RE = re.compile(
     r"|additional\s+guidance|specification|detail|notes?|opportunities|maths"
     r"|working\s+scientifically|practical|to\s+include|statement"
     r"|teaching|breadth|objectives?|assessment\s+criteria|skills?\s+and"
-    r"|knowledge\s+and|understanding)\b", re.I)
+    r"|knowledge\s+and|understanding"
+    # H245/H240 landscape maths: column headers repeated on every page
+    r"|ocr\s+ref|subject|dfe\s+ref|stage\s+[12]\s+learners"
+    # J383 Geography: "With respect to..." section intro rows
+    r"|with\s+respect\s+to"
+    # J836 CamNat: unit-divider headings e.g. "Unit R050: IT in the digital world"
+    r"|unit\s+[a-z0-9]+"
+    # H470 English Language: "Section | Topic coverage | ..." column layout
+    r"|section\b"
+    # J200 Media Studies: "Key idea | Learners must demonstrate..." column layout
+    r"|key\s+idea|learners?\s+must"
+    r")\b", re.I)
+
+# Strips a leading decimal section code (e.g. "3.3 ") so _COL_HEADER_RE can match
+# the rest of the text. Used in the trim pass to handle lines like
+# "3.3 With respect to ... learners should be able to:".
+_DECIMAL_PREFIX_RE = re.compile(r"^\d+\.\d+[\s.–—\-\x00-\x1f]*")
+
+# Strips all ASCII control characters (e.g. \x08 backspace decorations in J277
+# landscape page numbers: "18\x08" would not match the digit filter otherwise).
+_CTRL_STRIP_RE = re.compile(r"[\x00-\x1f\x7f]+")
+
+
+def _is_real_line(ln):
+    """Return True if a text line represents real content (not chrome/header/bleed).
+    Used by the column-header-bleed trim passes."""
+    t = norm_ws(ln["text"])
+    if not t:
+        return False
+    tc = _CTRL_STRIP_RE.sub("", t)       # strip control chars (\x08 etc.)
+    if not tc:                            # line was only control characters
+        return False
+    if re.fullmatch(r"\d{1,4}", tc):      # page number (possibly with ctrl chars)
+        return False
+    if _COL_HEADER_RE.match(t):
+        return False
+    if _COL_HEADER_RE.match(_DECIMAL_PREFIX_RE.sub("", t)):
+        return False
+    if _COL_HEADER_RE.match(_DECIMAL_PREFIX_RE.sub("", tc)):
+        return False
+    if OCR_FOOTER_RE.search(t):
+        return False
+    if re.fullmatch(r"\d{1,4}", t):
+        return False
+    return True
 
 
 def _harvest_row_labels(doc, sec, body_size):
@@ -925,6 +1013,44 @@ def collect_units_for_section(doc, sec, body_size, brand):
     if (f["start_page"] > sec["start_page"]) or (f["start_y"] - sec["start_y"] > 2):
         units[0]["start_page"] = sec["start_page"]
         units[0]["start_y"] = sec["start_y"]
+
+    # Re-run the column-header-bleed trim pass now that start_page may have been
+    # pulled back (e.g. J383: 3.3 unit is sp=ep=19 inside _collect_units_from_tree
+    # so the trim is skipped there; after pull-back sp=18 ep=19, so it can fire).
+    if doc is not None:
+        for u in units:
+            ep2, ey2, sp2 = u["end_page"], u["end_y"], u["start_page"]
+            if ep2 <= sp2 or ep2 >= doc.page_count:
+                continue
+            pg = doc[ep2]
+            lines_before_end = [ln for ln in get_page_lines(pg) if ln["y0"] < ey2 - 1]
+            if not lines_before_end:
+                u["end_page"] = ep2 - 1
+                u["end_y"] = 1e9
+                continue
+            real = [ln for ln in lines_before_end if _is_real_line(ln)]
+            if not real:
+                u["end_page"] = ep2 - 1
+                u["end_y"] = 1e9
+                continue
+            if len(real) == 1:
+                t_only = norm_ws(real[0]["text"])
+                if (len(t_only.split()) <= 5
+                        and not re.search(r"[:\d()\[\]]", t_only)
+                        and t_only[:1].isupper()):
+                    u["end_page"] = ep2 - 1
+                    u["end_y"] = 1e9
+                    continue
+            try:
+                clip = fitz.Rect(0, 0, pg.rect.width, min(ey2, pg.rect.height))
+                pix = pg.get_pixmap(dpi=36, colorspace=fitz.csGRAY, clip=clip)
+                dark = sum(1 for b in pix.samples if b < 240)
+                if dark / max(pix.width * pix.height, 1) < 0.010:
+                    u["end_page"] = ep2 - 1
+                    u["end_y"] = 1e9
+            except Exception:
+                pass
+
     return units
 
 
@@ -940,6 +1066,12 @@ def collect_subsections(doc, body_size, brand):
     # Drop post-content material (assessment / prior knowledge / appendix) that can
     # slip in at a section boundary; never drop the only unit of a section.
     units = [u for u in units if not STOP_UNIT_RE.search(u.get("title", ""))]
+    # Drop CamNat unit-divider headings (e.g. "Unit R050: IT in the digital world").
+    # The legacy heading parser splits them into code="Unit R099" / title="Digital games";
+    # check both the title AND the code field so either encoding is caught.
+    units = [u for u in units
+             if not re.match(r"^\s*unit\s+r\d+\s*:?", u.get("code", ""), re.I)
+             and not re.match(r"^\s*unit\s+r\d+\s*:", u.get("title", ""), re.I)]
     units.sort(key=lambda u: (u["start_page"], u["start_y"]))
     return units, method, len(sections)
 

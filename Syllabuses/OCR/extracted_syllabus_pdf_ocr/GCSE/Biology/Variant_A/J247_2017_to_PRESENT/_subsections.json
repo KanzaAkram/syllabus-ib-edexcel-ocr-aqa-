@@ -1,14 +1,14 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 16,
+  "n": 15,
   "subsections": [
     {
       "file": "001_B1_1_B1_1_Cell_structures.pdf",
       "code": "B1.1",
       "title": "B1.1 Cell structures",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "002_B1_2_B1_2_What_happens_in_cells_and_what_do_cel.pdf",
@@ -43,7 +43,7 @@
       "code": "B2.2",
       "title": "B2.2 The challenges of size",
       "kind": "alnum",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "007_B3_1_B3_1_Coordination_and_control_the_nervous_.pdf",
@@ -71,7 +71,7 @@
       "code": "B4.1",
       "title": "B4.1 Ecosystems",
       "kind": "alnum",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "011_B5_1_B5_1_Inheritance.pdf",
@@ -88,28 +88,21 @@
       "pages": 2
     },
     {
-      "file": "013_Topic_B6_Topic_B6_Global_challenges.pdf",
-      "code": "Topic B6",
-      "title": "Topic B6: Global challenges",
-      "kind": "Topic",
-      "pages": 1
-    },
-    {
-      "file": "014_B6_1_B6_1_Monitoring_and_maintaining_the_enviro.pdf",
+      "file": "013_B6_1_B6_1_Monitoring_and_maintaining_the_enviro.pdf",
       "code": "B6.1",
       "title": "B6.1 Monitoring and maintaining the environment",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "015_B6_2_B6_2_Feeding_the_human_race.pdf",
+      "file": "014_B6_2_B6_2_Feeding_the_human_race.pdf",
       "code": "B6.2",
       "title": "B6.2 Feeding the human race",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "016_B6_3_B6_3_Monitoring_and_maintaining_health.pdf",
+      "file": "015_B6_3_B6_3_Monitoring_and_maintaining_health.pdf",
       "code": "B6.3",
       "title": "B6.3 Monitoring and maintaining health",
       "kind": "alnum",

@@ -1,21 +1,21 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 15,
+  "n": 16,
   "subsections": [
     {
       "file": "001_Section_A_A_short_written_translation_exercise_to_te.pdf",
       "code": "Section A",
       "title": "A short written translation exercise to test students’ ability to transfer",
       "family": "Section",
-      "pages": 10
+      "pages": 8
     },
     {
       "file": "002_1_1_Unit_description.pdf",
       "code": "1.1",
       "title": "Unit description",
       "family": "Num",
-      "pages": 1
+      "pages": 3
     },
     {
       "file": "003_1_3_Content.pdf",
@@ -43,66 +43,73 @@
       "code": "2.3",
       "title": "Content",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "007_Section_C.pdf",
+      "file": "007_2_4_Assessment_criteria.pdf",
+      "code": "2.4",
+      "title": "Assessment criteria",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "008_Section_C.pdf",
       "code": "Section C",
       "title": "",
       "family": "Section",
       "pages": 1
     },
     {
-      "file": "008_3_1_Unit_description.pdf",
+      "file": "009_3_1_Unit_description.pdf",
       "code": "3.1",
       "title": "Unit description",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "009_3_2_Assessment_information.pdf",
+      "file": "010_3_2_Assessment_information.pdf",
       "code": "3.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "010_3_3_Content.pdf",
+      "file": "011_3_3_Content.pdf",
       "code": "3.3",
       "title": "Content",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "011_3_4_Assessment_criteria.pdf",
+      "file": "012_3_4_Assessment_criteria.pdf",
       "code": "3.4",
       "title": "Assessment criteria",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "012_4_1_Unit_description.pdf",
+      "file": "013_4_1_Unit_description.pdf",
       "code": "4.1",
       "title": "Unit description",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "013_4_3_Content.pdf",
+      "file": "014_4_3_Content.pdf",
       "code": "4.3",
       "title": "Content",
       "family": "Num",
       "pages": 4
     },
     {
-      "file": "014_4_4_Assessment_criteria.pdf",
+      "file": "015_4_4_Assessment_criteria.pdf",
       "code": "4.4",
       "title": "Assessment criteria",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "015_Section_B.pdf",
+      "file": "016_Section_B.pdf",
       "code": "Section B",
       "title": "",
       "family": "Section",

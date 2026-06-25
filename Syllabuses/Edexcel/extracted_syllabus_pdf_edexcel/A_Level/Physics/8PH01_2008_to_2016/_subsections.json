@@ -1,304 +1,360 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 43,
+  "n": 51,
   "subsections": [
     {
       "file": "001_1_1_Introduction.pdf",
       "code": "1.1",
       "title": "Introduction",
       "family": "Num",
+      "pages": 5
+    },
+    {
+      "file": "002_1_2_Assessment_information.pdf",
+      "code": "1.2",
+      "title": "Assessment information",
+      "family": "Num",
       "pages": 1
     },
     {
-      "file": "002_1_3_Mechanics.pdf",
+      "file": "003_1_3_Mechanics.pdf",
       "code": "1.3",
       "title": "Mechanics",
       "family": "Num",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "003_1_4_Materials.pdf",
+      "file": "004_1_4_Materials.pdf",
       "code": "1.4",
       "title": "Materials",
       "family": "Num",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "004_2_1_Introduction.pdf",
+      "file": "005_2_1_Introduction.pdf",
       "code": "2.1",
       "title": "Introduction",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "005_2_3_Waves.pdf",
+      "file": "006_2_2_Assessment_information.pdf",
+      "code": "2.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "007_2_3_Waves.pdf",
       "code": "2.3",
       "title": "Waves",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "006_2_4_DC_Electricity.pdf",
+      "file": "008_2_4_DC_Electricity.pdf",
       "code": "2.4",
       "title": "DC Electricity",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "007_2_5_Nature_of_Light.pdf",
+      "file": "009_2_5_Nature_of_Light.pdf",
       "code": "2.5",
       "title": "Nature of Light",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "008_3_1_Unit_description.pdf",
+      "file": "010_3_1_Unit_description.pdf",
       "code": "3.1",
       "title": "Unit description",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "009_3_2_Assessment_information.pdf",
+      "file": "011_3_2_Assessment_information.pdf",
       "code": "3.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "010_3_3_Assessment_criteria.pdf",
+      "file": "012_3_3_Assessment_criteria.pdf",
       "code": "3.3",
       "title": "Assessment criteria",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "011_4_1_Introduction.pdf",
+      "file": "013_4_1_Introduction.pdf",
       "code": "4.1",
       "title": "Introduction",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "012_4_3_Further_Mechanics.pdf",
+      "file": "014_4_2_Assessment_information.pdf",
+      "code": "4.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "015_4_3_Further_Mechanics.pdf",
       "code": "4.3",
       "title": "Further Mechanics",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "013_4_4_Electric_and_Magnetic_Fields.pdf",
+      "file": "016_4_4_Electric_and_Magnetic_Fields.pdf",
       "code": "4.4",
       "title": "Electric and Magnetic Fields",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "014_4_5_Particle_physics.pdf",
+      "file": "017_4_5_Particle_physics.pdf",
       "code": "4.5",
       "title": "Particle physics",
       "family": "Num",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "015_5_1_Introduction.pdf",
+      "file": "018_5_1_Introduction.pdf",
       "code": "5.1",
       "title": "Introduction",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "016_5_3_Thermal_energy.pdf",
+      "file": "019_5_2_Assessment_information.pdf",
+      "code": "5.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "020_5_3_Thermal_energy.pdf",
       "code": "5.3",
       "title": "Thermal energy",
       "family": "Num",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "017_5_4_Nuclear_decay.pdf",
+      "file": "021_5_4_Nuclear_decay.pdf",
       "code": "5.4",
       "title": "Nuclear decay",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "018_5_5_Oscillations.pdf",
+      "file": "022_5_5_Oscillations.pdf",
       "code": "5.5",
       "title": "Oscillations",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "019_5_6_Astrophysics_and_cosmology.pdf",
+      "file": "023_5_6_Astrophysics_and_cosmology.pdf",
       "code": "5.6",
       "title": "Astrophysics and cosmology",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "020_6_1_Unit_description.pdf",
+      "file": "024_6_1_Unit_description.pdf",
       "code": "6.1",
       "title": "Unit description",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "021_6_2_Assessment_information.pdf",
+      "file": "025_6_2_Assessment_information.pdf",
       "code": "6.2",
       "title": "Assessment information",
       "family": "Num",
-      "pages": 2
+      "pages": 3
     },
     {
-      "file": "022_6_3_Assessment_criteria.pdf",
+      "file": "026_6_3_Assessment_criteria.pdf",
       "code": "6.3",
       "title": "Assessment criteria",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "023_7_1_Introduction.pdf",
+      "file": "027_7_1_Introduction.pdf",
       "code": "7.1",
       "title": "Introduction",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "024_7_3_Higher_faster_stronger_HFS.pdf",
+      "file": "028_7_2_Assessment_information.pdf",
+      "code": "7.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "029_7_3_Higher_faster_stronger_HFS.pdf",
       "code": "7.3",
       "title": "Higher, faster, stronger (HFS)",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "025_7_4_Good_enough_to_eat_EAT.pdf",
+      "file": "030_7_4_Good_enough_to_eat_EAT.pdf",
       "code": "7.4",
       "title": "Good enough to eat (EAT)",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "026_7_5_Spare_part_surgery_SUR.pdf",
+      "file": "031_7_5_Spare_part_surgery_SUR.pdf",
       "code": "7.5",
       "title": "Spare part surgery (SUR)",
       "family": "Num",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "027_8_1_Introduction.pdf",
+      "file": "032_8_1_Introduction.pdf",
       "code": "8.1",
       "title": "Introduction",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "028_8_3_The_Sound_of_Music_MUS.pdf",
+      "file": "033_8_2_Assessment_information.pdf",
+      "code": "8.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "034_8_3_The_Sound_of_Music_MUS.pdf",
       "code": "8.3",
       "title": "The Sound of Music (MUS)",
       "family": "Num",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "029_8_4_Technology_in_Space_SPC.pdf",
+      "file": "035_8_4_Technology_in_Space_SPC.pdf",
       "code": "8.4",
       "title": "Technology in Space (SPC)",
       "family": "Num",
       "pages": 4
     },
     {
-      "file": "030_8_5_Digging_up_the_Past_DIG.pdf",
+      "file": "036_8_5_Digging_up_the_Past_DIG.pdf",
       "code": "8.5",
       "title": "Digging up the Past (DIG)",
       "family": "Num",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "031_9_1_Unit_description.pdf",
+      "file": "037_9_1_Unit_description.pdf",
       "code": "9.1",
       "title": "Unit description",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "032_9_2_Assessment_information.pdf",
+      "file": "038_9_2_Assessment_information.pdf",
       "code": "9.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "033_9_3_Assessment_criteria.pdf",
+      "file": "039_9_3_Assessment_criteria.pdf",
       "code": "9.3",
       "title": "Assessment criteria",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "034_10_1_Introduction.pdf",
+      "file": "040_10_1_Introduction.pdf",
       "code": "10.1",
       "title": "Introduction",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "035_10_3_Transport_on_Track_TRA.pdf",
+      "file": "041_10_2_Assessment_information.pdf",
+      "code": "10.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "042_10_3_Transport_on_Track_TRA.pdf",
       "code": "10.3",
       "title": "Transport on Track (TRA)",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "036_10_4_The_Medium_is_the_Message_MDM.pdf",
+      "file": "043_10_4_The_Medium_is_the_Message_MDM.pdf",
       "code": "10.4",
       "title": "The Medium is the Message (MDM)",
       "family": "Num",
       "pages": 2
     },
     {
-      "file": "037_10_5_Probing_the_Heart_of_Matter_PRO.pdf",
+      "file": "044_10_5_Probing_the_Heart_of_Matter_PRO.pdf",
       "code": "10.5",
       "title": "Probing the Heart of Matter (PRO)",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "038_11_1_Introduction.pdf",
+      "file": "045_11_1_Introduction.pdf",
       "code": "11.1",
       "title": "Introduction",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "039_11_3_Reach_for_the_Stars_STA.pdf",
+      "file": "046_11_2_Assessment_information.pdf",
+      "code": "11.2",
+      "title": "Assessment information",
+      "family": "Num",
+      "pages": 1
+    },
+    {
+      "file": "047_11_3_Reach_for_the_Stars_STA.pdf",
       "code": "11.3",
       "title": "Reach for the Stars (STA)",
       "family": "Num",
       "pages": 4
     },
     {
-      "file": "040_11_4_Build_or_Bust_BLD.pdf",
+      "file": "048_11_4_Build_or_Bust_BLD.pdf",
       "code": "11.4",
       "title": "Build or Bust? (BLD)",
       "family": "Num",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "041_12_1_Unit_description.pdf",
+      "file": "049_12_1_Unit_description.pdf",
       "code": "12.1",
       "title": "Unit description",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "042_12_2_Assessment_information.pdf",
+      "file": "050_12_2_Assessment_information.pdf",
       "code": "12.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 4
     },
     {
-      "file": "043_12_3_Assessment_criteria.pdf",
+      "file": "051_12_3_Assessment_criteria.pdf",
       "code": "12.3",
       "title": "Assessment criteria",
       "family": "Num",

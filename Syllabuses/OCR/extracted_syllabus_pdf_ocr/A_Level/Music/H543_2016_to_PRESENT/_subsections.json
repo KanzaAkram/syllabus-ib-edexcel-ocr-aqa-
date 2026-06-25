@@ -1,52 +1,45 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 7,
+  "n": 6,
   "subsections": [
     {
-      "file": "001_2b_Core_Content_of_A_Level_in_Music_H543.pdf",
-      "code": "2b",
-      "title": "Core Content of A Level in Music (H543)",
-      "kind": "overview",
-      "pages": 2
-    },
-    {
-      "file": "002_Area_of_study_1_Instrumental_Music_of_Haydn_Mozart_and_Bee.pdf",
+      "file": "001_Area_of_study_1_Instrumental_Music_of_Haydn_Mozart_and_Bee.pdf",
       "code": "Area of study 1",
       "title": "Instrumental Music of Haydn, Mozart and Beethoven",
       "kind": "Area of study",
-      "pages": 1
+      "pages": 3
     },
     {
-      "file": "003_Area_of_study_2_Popular_Song_Blues_Jazz_Swing_and_Big_Band.pdf",
+      "file": "002_Area_of_study_2_Popular_Song_Blues_Jazz_Swing_and_Big_Band.pdf",
       "code": "Area of study 2",
       "title": "Popular Song: Blues, Jazz, Swing and Big Band",
       "kind": "Area of study",
       "pages": 1
     },
     {
-      "file": "004_Area_of_study_3_Developments_in_Instrumental_Jazz_1910_to_.pdf",
+      "file": "003_Area_of_study_3_Developments_in_Instrumental_Jazz_1910_to_.pdf",
       "code": "Area of study 3",
       "title": "Developments in Instrumental Jazz 1910 to the present day",
       "kind": "Area of study",
       "pages": 1
     },
     {
-      "file": "005_Area_of_study_4_Religious_Music_of_the_Baroque_Period.pdf",
+      "file": "004_Area_of_study_4_Religious_Music_of_the_Baroque_Period.pdf",
       "code": "Area of study 4",
       "title": "Religious Music of the Baroque Period",
       "kind": "Area of study",
       "pages": 1
     },
     {
-      "file": "006_Area_of_study_5_Programme_Music_1820_1910.pdf",
+      "file": "005_Area_of_study_5_Programme_Music_1820_1910.pdf",
       "code": "Area of study 5",
       "title": "Programme Music 1820–1910",
       "kind": "Area of study",
       "pages": 1
     },
     {
-      "file": "007_Area_of_study_6_Innovations_in_Music_1900_to_the_present_d.pdf",
+      "file": "006_Area_of_study_6_Innovations_in_Music_1900_to_the_present_d.pdf",
       "code": "Area of study 6",
       "title": "Innovations in Music 1900 to the present day",
       "kind": "Area of study",

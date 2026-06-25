@@ -29,7 +29,7 @@
       "code": "Topic 3",
       "title": "Electric Circuits",
       "family": "Topic",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "005_Topic_4_Materials.pdf",
@@ -43,14 +43,14 @@
       "code": "Topic 5",
       "title": "Waves and Particle Nature of Light",
       "family": "Topic",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "007_Topic_6_Further_Mechanics.pdf",
       "code": "Topic 6",
       "title": "Further Mechanics",
       "family": "Topic",
-      "pages": 3
+      "pages": 1
     },
     {
       "file": "008_Topic_7_Electric_and_Magnetic_Fields.pdf",
@@ -85,14 +85,14 @@
       "code": "Topic 11",
       "title": "Nuclear Radiation",
       "family": "Topic",
-      "pages": 27
+      "pages": 30
     },
     {
       "file": "013_Paper_1_Advanced_Physics_I.pdf",
       "code": "Paper 1",
       "title": "Advanced Physics I",
       "family": "Paper",
-      "pages": 4
+      "pages": 1
     },
     {
       "file": "014_Paper_2_Advanced_Physics_II.pdf",

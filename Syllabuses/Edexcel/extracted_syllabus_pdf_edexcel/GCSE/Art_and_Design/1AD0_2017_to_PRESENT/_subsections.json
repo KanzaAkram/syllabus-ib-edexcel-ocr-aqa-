@@ -1,17 +1,24 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 2,
+  "n": 3,
   "subsections": [
     {
-      "file": "001_Component_1_Personal_Portfolio.pdf",
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 15
+    },
+    {
+      "file": "002_Component_1_Personal_Portfolio.pdf",
       "code": "Component 1",
       "title": "Personal Portfolio",
       "family": "Component",
-      "pages": 17
+      "pages": 2
     },
     {
-      "file": "002_Component_2_Externally_Set_Assignment.pdf",
+      "file": "003_Component_2_Externally_Set_Assignment.pdf",
       "code": "Component 2",
       "title": "Externally Set Assignment",
       "family": "Component",

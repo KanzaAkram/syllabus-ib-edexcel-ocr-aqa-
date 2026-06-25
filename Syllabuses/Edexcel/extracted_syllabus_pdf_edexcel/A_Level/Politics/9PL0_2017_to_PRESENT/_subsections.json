@@ -1,24 +1,31 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 3,
+  "n": 4,
   "subsections": [
     {
-      "file": "001_Component_1_UK_Politics_and_Core_Political_Ideas.pdf",
+      "file": "001_Overview.pdf",
+      "code": "",
+      "title": "Overview",
+      "family": "Overview",
+      "pages": 1
+    },
+    {
+      "file": "002_Component_1_UK_Politics_and_Core_Political_Ideas.pdf",
       "code": "Component 1",
       "title": "UK Politics and Core Political Ideas",
       "family": "Component",
-      "pages": 42
+      "pages": 41
     },
     {
-      "file": "002_1_1_The_state_nation_state_and_of_national_sov.pdf",
+      "file": "003_1_1_The_state_nation_state_and_of_national_sov.pdf",
       "code": "1.1",
       "title": "The state: nation-state and of national sovereignty.",
       "family": "Num",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "003_1_2_Globalisation.pdf",
+      "file": "004_1_2_Globalisation.pdf",
       "code": "1.2",
       "title": "Globalisation.",
       "family": "Num",

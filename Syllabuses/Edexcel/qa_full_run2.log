@@ -1,0 +1,61 @@
+  ...200/2442
+  ...400/2442
+  ...600/2442
+  ...800/2442
+  ...1000/2442
+  ...1200/2442
+  ...1400/2442
+  ...1600/2442
+  ...1800/2442
+  ...2000/2442
+  ...2200/2442
+  ...2400/2442
+
+=== QA over 2442 PDFs ===
+flag totals:
+   1147  first_page_no_heading
+     82  title_marker
+     38  trailing_sliver
+     35  heading_bleed_end
+
+=== specs with most flags ===
+    82  International_A_Level/Mathematics/WMA11_2018_to_PRESENT  {'first_page_no_heading': 82}
+    75  GCSE/Design_and_Technology/1DT0_2017_to_PRESENT  {'first_page_no_heading': 75}
+    54  GCSE/Geography/1GA0_2017_to_PRESENT  {'first_page_no_heading': 54}
+    50  A_Level/Biology/9BI0_2017_to_PRESENT  {'first_page_no_heading': 50}
+    48  iLowerSecondary/Biology/LSC11_2018_to_PRESENT  {'first_page_no_heading': 48}
+    47  International_A_Level/Mathematics/WMA01_2013_to_2018  {'first_page_no_heading': 46, 'heading_bleed_end': 1}
+    46  IGCSE/Business_Studies/Linear  {'first_page_no_heading': 46}
+    46  IGCSE/Mathematics/Modular  {'first_page_no_heading': 45, 'trailing_sliver': 1}
+    45  A_Level/Further_Mathematics/9FM0_2017_to_PRESENT  {'first_page_no_heading': 44, 'heading_bleed_end': 1}
+    44  A_Level/Religious_Studies/9RS0_2017_to_PRESENT  {'first_page_no_heading': 44}
+    41  A_Level/Geography/9GE0_2017_to_PRESENT  {'first_page_no_heading': 41}
+    41  A_Level/History/9HI0_2017_to_PRESENT  {'title_marker': 40, 'trailing_sliver': 1}
+    41  A_Level/Psychology/9PS0_2017_to_PRESENT  {'first_page_no_heading': 41}
+    37  GCSE/Business_Studies/1BS0_2017_to_PRESENT  {'first_page_no_heading': 37}
+    30  GCSE/Religious_Studies/1RB0_2012_to_2016  {'first_page_no_heading': 30}
+    28  A_Level/Chemistry/9CH0_2017_to_PRESENT  {'first_page_no_heading': 28}
+    28  IGCSE/Chemistry/Linear  {'first_page_no_heading': 28}
+    27  IGCSE/Physics/Linear  {'first_page_no_heading': 27}
+    25  A_Level/Physical_Education/9PE0_2017_to_PRESENT  {'first_page_no_heading': 24, 'trailing_sliver': 1}
+    22  IGCSE/Biology/Linear  {'first_page_no_heading': 22}
+    21  A_Level/Statistics/9ST0_2017_to_PRESENT  {'first_page_no_heading': 21}
+    21  iPrimary/Biology/JSC11_2018_to_PRESENT  {'first_page_no_heading': 21}
+    18  A_Level/Biology/8BN01_2008_to_2016  {'heading_bleed_end': 4, 'title_marker': 14}
+    18  A_Level/Business_Studies/9BS0_2017_to_PRESENT  {'first_page_no_heading': 18}
+    18  IGCSE/Geography/Linear  {'first_page_no_heading': 18}
+    17  A_Level/Mathematics/9MA0_2017_to_PRESENT  {'first_page_no_heading': 17}
+    17  GCSE/Psychology/1PY0_2017_to_PRESENT  {'trailing_sliver': 1, 'first_page_no_heading': 16}
+    16  GCSE/Physical_Education/1PE0_2017_to_PRESENT  {'first_page_no_heading': 16}
+    16  GCSE/Religious_Studies/1RA0_2017_to_PRESENT  {'first_page_no_heading': 16}
+    16  IGCSE/Economics/Linear  {'trailing_sliver': 1, 'first_page_no_heading': 15}
+    15  IGCSE/Computer_Science/Linear  {'first_page_no_heading': 15}
+    15  International_A_Level/Biology/WBI01_2014_to_2019  {'title_marker': 14, 'trailing_sliver': 1}
+    14  A_Level/Geography/8GE01_2008_to_2016  {'title_marker': 14}
+    13  GCSE/Computer_Science/1CP2_2017_to_PRESENT  {'first_page_no_heading': 13}
+    13  GCSE/Statistics/NA_2011_to_2016  {'first_page_no_heading': 13}
+    12  A_Level/Design_and_Technology/9DT0_2017_to_PRESENT  {'first_page_no_heading': 12}
+    12  GCSE/Computer_Science/2CP01_2012_to_2016  {'first_page_no_heading': 12}
+    12  GCSE/Statistics/1ST0_2017_to_PRESENT  {'first_page_no_heading': 12}
+    12  iLowerSecondary/Computer_Science/LCP11_2018_to_PRESENT  {'first_page_no_heading': 12}
+    12  iPrimary/English_Language/JEH11_2018_to_PRESENT  {'first_page_no_heading': 11, 'trailing_sliver': 1}

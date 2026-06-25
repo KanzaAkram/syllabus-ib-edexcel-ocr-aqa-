@@ -1,7 +1,7 @@
 {
   "method": "legacy",
   "sections": 1,
-  "n": 33,
+  "n": 32,
   "subsections": [
     {
       "file": "001_1_2_Assessment_information.pdf",
@@ -57,14 +57,14 @@
       "code": "3.3",
       "title": "Topic 5: On the wild side",
       "family": "Num",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "009_3_4_Topic_6_Infection_immunity_and_forensics.pdf",
       "code": "3.4",
       "title": "Topic 6: Infection, immunity and forensics",
       "family": "Num",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "010_Topic_7_Run_for.pdf",
@@ -85,14 +85,14 @@
       "code": "4.3",
       "title": "Topic 7: Run for your life",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "013_4_4_Topic_8_Grey_matter.pdf",
       "code": "4.4",
       "title": "Topic 8: Grey matter",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "014_5_2_Assessment_information.pdf",
@@ -148,87 +148,80 @@
       "code": "7.3",
       "title": "Topic 5: On the wild side",
       "family": "Num",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "022_7_4_Topic_6_Infection_immunity_and_forensics.pdf",
       "code": "7.4",
       "title": "Topic 6: Infection, immunity and forensics",
       "family": "Num",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "023_8_1_Unit_description.pdf",
-      "code": "8.1",
-      "title": "Unit description",
-      "family": "Num",
-      "pages": 1
-    },
-    {
-      "file": "024_8_2_Assessment_information.pdf",
+      "file": "023_8_2_Assessment_information.pdf",
       "code": "8.2",
       "title": "Assessment information",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "025_8_3_Topic_7_Run_for_your_life.pdf",
+      "file": "024_8_3_Topic_7_Run_for_your_life.pdf",
       "code": "8.3",
       "title": "Topic 7: Run for your life",
       "family": "Num",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "026_8_4_Topic_8_Grey_matter.pdf",
+      "file": "025_8_4_Topic_8_Grey_matter.pdf",
       "code": "8.4",
       "title": "Topic 8: Grey matter",
       "family": "Num",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "027_9_1_Unit_description.pdf",
+      "file": "026_9_1_Unit_description.pdf",
       "code": "9.1",
       "title": "Unit description",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "028_9_2_Assessment_information.pdf",
+      "file": "027_9_2_Assessment_information.pdf",
       "code": "9.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "029_9_3_Practical_biology_skills.pdf",
+      "file": "028_9_3_Practical_biology_skills.pdf",
       "code": "9.3",
       "title": "Practical biology skills",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "030_9_4_Assessment_Criteria.pdf",
+      "file": "029_9_4_Assessment_Criteria.pdf",
       "code": "9.4",
       "title": "Assessment Criteria",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "031_10_1_Unit_description.pdf",
+      "file": "030_10_1_Unit_description.pdf",
       "code": "10.1",
       "title": "Unit description",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "032_10_2_Assessment_information.pdf",
+      "file": "031_10_2_Assessment_information.pdf",
       "code": "10.2",
       "title": "Assessment information",
       "family": "Num",
       "pages": 1
     },
     {
-      "file": "033_10_3_Practical_biology_and_investigative_skills.pdf",
+      "file": "032_10_3_Practical_biology_and_investigative_skills.pdf",
       "code": "10.3",
       "title": "Practical biology and investigative skills",
       "family": "Num",

@@ -1,325 +1,318 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 46,
+  "n": 45,
   "subsections": [
     {
-      "file": "001_2b_Content_of_GCSE_9_1_in_Mathematics_J560.pdf",
-      "code": "2b",
-      "title": "Content of GCSE (9–1) in Mathematics (J560)",
-      "kind": "overview",
-      "pages": 3
-    },
-    {
-      "file": "002_1_01_01a.pdf",
+      "file": "001_1_01_01a.pdf",
       "code": "1.01",
       "title": "01a",
       "kind": "decimal",
-      "pages": 1
+      "pages": 3
     },
     {
-      "file": "003_1_02_02a.pdf",
+      "file": "002_1_02_02a.pdf",
       "code": "1.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "004_1_03_03a.pdf",
+      "file": "003_1_03_03a.pdf",
       "code": "1.03",
       "title": "03a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "005_1_04_04a.pdf",
+      "file": "004_1_04_04a.pdf",
       "code": "1.04",
       "title": "04a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "006_2_01_01a.pdf",
+      "file": "005_2_01_01a.pdf",
       "code": "2.01",
       "title": "01a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "007_2_02_02a.pdf",
+      "file": "006_2_02_02a.pdf",
       "code": "2.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "008_2_03_03a.pdf",
+      "file": "007_2_03_03a.pdf",
       "code": "2.03",
       "title": "03a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "009_2_04_04a.pdf",
+      "file": "008_2_04_04a.pdf",
       "code": "2.04",
       "title": "04a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "010_3_01_01a.pdf",
+      "file": "009_3_01_01a.pdf",
       "code": "3.01",
       "title": "01a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "011_3_02_02a.pdf",
+      "file": "010_3_02_02a.pdf",
       "code": "3.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "012_3_03_03a.pdf",
+      "file": "011_3_03_03a.pdf",
       "code": "3.03",
       "title": "03a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "013_4_01_01a.pdf",
+      "file": "012_4_01_01a.pdf",
       "code": "4.01",
       "title": "01a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "014_5_01_01a.pdf",
+      "file": "013_5_01_01a.pdf",
       "code": "5.01",
       "title": "01a",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "015_5_02_02a.pdf",
+      "file": "014_5_02_02a.pdf",
       "code": "5.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "016_5_03_03a.pdf",
+      "file": "015_5_03_03a.pdf",
       "code": "5.03",
       "title": "03a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "017_6_01_01a.pdf",
+      "file": "016_6_01_01a.pdf",
       "code": "6.01",
       "title": "01a",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "018_6_02_02a.pdf",
+      "file": "017_6_02_02a.pdf",
       "code": "6.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "019_6_03_03a.pdf",
+      "file": "018_6_03_03a.pdf",
       "code": "6.03",
       "title": "03a",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "020_6_04_04a.pdf",
+      "file": "019_6_04_04a.pdf",
       "code": "6.04",
       "title": "04a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "021_6_05_05a.pdf",
+      "file": "020_6_05_05a.pdf",
       "code": "6.05",
       "title": "05a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "022_6_06_06a.pdf",
+      "file": "021_6_06_06a.pdf",
       "code": "6.06",
       "title": "06a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "023_7_01_01a.pdf",
+      "file": "022_7_01_01a.pdf",
       "code": "7.01",
       "title": "01a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "024_7_02_02a.pdf",
+      "file": "023_7_02_02a.pdf",
       "code": "7.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "025_7_03_03a.pdf",
+      "file": "024_7_03_03a.pdf",
       "code": "7.03",
       "title": "03a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "026_7_04_04a.pdf",
+      "file": "025_7_04_04a.pdf",
       "code": "7.04",
       "title": "04a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "027_8_01_01.pdf",
+      "file": "026_8_01_01.pdf",
       "code": "8.01",
       "title": "01",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "028_8_02_02a.pdf",
+      "file": "027_8_02_02a.pdf",
       "code": "8.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "029_8_03_03a.pdf",
+      "file": "028_8_03_03a.pdf",
       "code": "8.03",
       "title": "03a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "030_8_04_04a.pdf",
+      "file": "029_8_04_04a.pdf",
       "code": "8.04",
       "title": "04a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "031_8_05_05a.pdf",
+      "file": "030_8_05_05a.pdf",
       "code": "8.05",
       "title": "05a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "032_8_06_06a.pdf",
+      "file": "031_8_06_06a.pdf",
       "code": "8.06",
       "title": "06a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "033_9_01_Version_2_0_Cambridge_OCR_2026.pdf",
+      "file": "032_9_01_Version_2_0_Cambridge_OCR_2026.pdf",
       "code": "9.01",
       "title": "Version 2.0 © Cambridge OCR 2026",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "034_9_02_02a.pdf",
+      "file": "033_9_02_02a.pdf",
       "code": "9.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "035_9_03_03a.pdf",
+      "file": "034_9_03_03a.pdf",
       "code": "9.03",
       "title": "03a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "036_9_04_04a.pdf",
+      "file": "035_9_04_04a.pdf",
       "code": "9.04",
       "title": "04a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "037_10_01_01a.pdf",
+      "file": "036_10_01_01a.pdf",
       "code": "10.01",
       "title": "01a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "038_10_02_02a.pdf",
+      "file": "037_10_02_02a.pdf",
       "code": "10.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "039_10_03_03a.pdf",
+      "file": "038_10_03_03a.pdf",
       "code": "10.03",
       "title": "03a",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "040_10_04_04a.pdf",
+      "file": "039_10_04_04a.pdf",
       "code": "10.04",
       "title": "04a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "041_10_05_05a.pdf",
+      "file": "040_10_05_05a.pdf",
       "code": "10.05",
       "title": "05a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "042_11_01_01a.pdf",
+      "file": "041_11_01_01a.pdf",
       "code": "11.01",
       "title": "01a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "043_11_02_02a.pdf",
+      "file": "042_11_02_02a.pdf",
       "code": "11.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "044_12_01_01a.pdf",
+      "file": "043_12_01_01a.pdf",
       "code": "12.01",
       "title": "01a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "045_12_02_02a.pdf",
+      "file": "044_12_02_02a.pdf",
       "code": "12.02",
       "title": "02a",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "046_12_03_03a.pdf",
+      "file": "045_12_03_03a.pdf",
       "code": "12.03",
       "title": "03a",
       "kind": "decimal",

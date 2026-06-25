@@ -1,248 +1,199 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 35,
+  "n": 28,
   "subsections": [
     {
-      "file": "001_2c_Content_of_chapters_C1_to_C8.pdf",
-      "code": "2c",
-      "title": "Content of chapters C1 to C8",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_Chapter_C1_Air_and_water.pdf",
-      "code": "Chapter C1",
-      "title": "Air and water",
-      "kind": "Chapter",
-      "pages": 2
-    },
-    {
-      "file": "003_C1_1_How_has_the_Earth_s_atmosphere_changed_ove.pdf",
+      "file": "001_C1_1_How_has_the_Earth_s_atmosphere_changed_ove.pdf",
       "code": "C1.1",
       "title": "How has the Earth’s atmosphere changed over time, and why?",
       "kind": "alnum",
       "pages": 3
     },
     {
-      "file": "004_C1_2_Why_are_there_temperature_changes_in_chemi.pdf",
+      "file": "002_C1_2_Why_are_there_temperature_changes_in_chemi.pdf",
       "code": "C1.2",
       "title": "Why are there temperature changes in chemical reactions?",
       "kind": "alnum",
       "pages": 1
     },
     {
-      "file": "005_C1_3_What_is_the_evidence_for_climate_change_wh.pdf",
+      "file": "003_C1_3_What_is_the_evidence_for_climate_change_wh.pdf",
       "code": "C1.3",
       "title": "What is the evidence for climate change, why is it occurring?",
       "kind": "alnum",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "006_C1_4_How_can_scientists_help_improve_the_supply.pdf",
+      "file": "004_C1_4_How_can_scientists_help_improve_the_supply.pdf",
       "code": "C1.4",
       "title": "How can scientists help improve the supply of potable water?",
       "kind": "alnum",
       "pages": 1
     },
     {
-      "file": "007_Chapter_C2_Chemical_patterns.pdf",
-      "code": "Chapter C2",
-      "title": "Chemical patterns",
-      "kind": "Chapter",
+      "file": "005_C2_1_How_have_our_ideas_about_atoms_developed_o.pdf",
+      "code": "C2.1",
+      "title": "How have our ideas about atoms developed over time?",
+      "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "008_C2_1_How_have_our_ideas_about_atoms_developed_o.pdf",
-      "code": "C2.1",
-      "title": "How have our ideas about atoms developed over time?",
+      "file": "006_C2_2_What_does_the_Periodic_Table_tell_us_about.pdf",
+      "code": "C2.2",
+      "title": "What does the Periodic Table tell us about the elements?",
       "kind": "alnum",
       "pages": 1
     },
     {
-      "file": "009_C2_2_What_does_the_Periodic_Table_tell_us_about.pdf",
-      "code": "C2.2",
-      "title": "What does the Periodic Table tell us about the elements?",
+      "file": "007_C2_3_How_do_metals_and_non_metals_combine_to_fo.pdf",
+      "code": "C2.3",
+      "title": "How do metals and non-metals combine to form compounds?",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "010_C2_3_How_do_metals_and_non_metals_combine_to_fo.pdf",
-      "code": "C2.3",
-      "title": "How do metals and non-metals combine to form compounds?",
-      "kind": "alnum",
-      "pages": 3
-    },
-    {
-      "file": "011_C2_4_How_are_equations_used_to_represent_chemic.pdf",
+      "file": "008_C2_4_How_are_equations_used_to_represent_chemic.pdf",
       "code": "C2.4",
       "title": "How are equations used to represent chemical reactions?",
       "kind": "alnum",
       "pages": 1
     },
     {
-      "file": "012_C2_5_What_are_the_properties_of_the_transition_.pdf",
+      "file": "009_C2_5_What_are_the_properties_of_the_transition_.pdf",
       "code": "C2.5",
       "title": "What are the properties of the transition metals? (separate science only)",
       "kind": "alnum",
       "pages": 1
     },
     {
-      "file": "013_Chapter_C3_Chemicals_of_the_natural_environment.pdf",
-      "code": "Chapter C3",
-      "title": "Chemicals of the natural environment",
-      "kind": "Chapter",
-      "pages": 2
-    },
-    {
-      "file": "014_C3_1_How_are_the_atoms_held_together_in_a_metal.pdf",
+      "file": "010_C3_1_How_are_the_atoms_held_together_in_a_metal.pdf",
       "code": "C3.1",
       "title": "How are the atoms held together in a metal?",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "015_C3_2_How_are_metals_with_different_reactivities.pdf",
+      "file": "011_C3_2_How_are_metals_with_different_reactivities.pdf",
       "code": "C3.2",
       "title": "How are metals with different reactivities extracted?",
       "kind": "alnum",
       "pages": 1
     },
     {
-      "file": "016_C3_3_What_are_electrolytes_and_what_happens_dur.pdf",
+      "file": "012_C3_3_What_are_electrolytes_and_what_happens_dur.pdf",
       "code": "C3.3",
       "title": "What are electrolytes and what happens during electrolysis?",
       "kind": "alnum",
-      "pages": 2
+      "pages": 1
     },
     {
-      "file": "017_C3_4_Why_is_crude_oil_important_as_a_source_of_.pdf",
+      "file": "013_C3_4_Why_is_crude_oil_important_as_a_source_of_.pdf",
       "code": "C3.4",
       "title": "Why is crude oil important as a source of new materials?",
       "kind": "alnum",
       "pages": 3
     },
     {
-      "file": "018_Chapter_C4_Material_choices.pdf",
-      "code": "Chapter C4",
-      "title": "Material choices",
-      "kind": "Chapter",
+      "file": "014_C4_1_How_is_data_used_to_choose_a_material_for_.pdf",
+      "code": "C4.1",
+      "title": "How is data used to choose a material for a particular use?",
+      "kind": "alnum",
       "pages": 3
     },
     {
-      "file": "019_C4_1_How_is_data_used_to_choose_a_material_for_.pdf",
-      "code": "C4.1",
-      "title": "How is data used to choose a material for a particular use?",
+      "file": "015_C4_2_What_are_the_different_types_of_polymers_s.pdf",
+      "code": "C4.2",
+      "title": "What are the different types of polymers? (separate science only)",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "020_C4_2_What_are_the_different_types_of_polymers_s.pdf",
-      "code": "C4.2",
-      "title": "What are the different types of polymers? (separate science only)",
-      "kind": "alnum",
-      "pages": 3
-    },
-    {
-      "file": "021_C4_3_How_do_bonding_and_structure_affect_proper.pdf",
+      "file": "016_C4_3_How_do_bonding_and_structure_affect_proper.pdf",
       "code": "C4.3",
       "title": "How do bonding and structure affect properties of materials?",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "022_C4_4_Why_are_nanoparticles_so_useful.pdf",
+      "file": "017_C4_4_Why_are_nanoparticles_so_useful.pdf",
       "code": "C4.4",
       "title": "Why are nanoparticles so useful?",
       "kind": "alnum",
-      "pages": 3
+      "pages": 2
     },
     {
-      "file": "023_C4_5_What_happens_to_products_at_the_end_of_the.pdf",
+      "file": "018_C4_5_What_happens_to_products_at_the_end_of_the.pdf",
       "code": "C4.5",
       "title": "What happens to products at the end of their useful life?",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "024_Chapter_C5_Chemical_analysis.pdf",
-      "code": "Chapter C5",
-      "title": "Chemical analysis",
-      "kind": "Chapter",
-      "pages": 2
-    },
-    {
-      "file": "025_C5_1_How_are_chemicals_separated_and_tested_for.pdf",
+      "file": "019_C5_1_How_are_chemicals_separated_and_tested_for.pdf",
       "code": "C5.1",
       "title": "How are chemicals separated and tested for purity?",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "026_C5_2_How_do_chemists_find_the_composition_of_un.pdf",
+      "file": "020_C5_2_How_do_chemists_find_the_composition_of_un.pdf",
       "code": "C5.2",
       "title": "How do chemists find the composition of unknown samples? (separate science only)",
       "kind": "alnum",
       "pages": 1
     },
     {
-      "file": "027_C5_3_How_are_the_amounts_of_substances_in_react.pdf",
+      "file": "021_C5_3_How_are_the_amounts_of_substances_in_react.pdf",
       "code": "C5.3",
       "title": "How are the amounts of substances in reactions calculated?",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "028_C5_4_How_are_the_amounts_of_chemicals_in_soluti.pdf",
+      "file": "022_C5_4_How_are_the_amounts_of_chemicals_in_soluti.pdf",
       "code": "C5.4",
       "title": "How are the amounts of chemicals in solution measured?",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "029_Chapter_C6_Making_useful_chemicals.pdf",
-      "code": "Chapter C6",
-      "title": "Making useful chemicals",
-      "kind": "Chapter",
-      "pages": 2
-    },
-    {
-      "file": "030_C6_1_What_useful_products_can_be_made_from_acid.pdf",
+      "file": "023_C6_1_What_useful_products_can_be_made_from_acid.pdf",
       "code": "C6.1",
       "title": "What useful products can be made from acids?",
       "kind": "alnum",
-      "pages": 1
+      "pages": 2
     },
     {
-      "file": "031_C6_2_How_do_chemists_control_the_rate_of_reacti.pdf",
+      "file": "024_C6_2_How_do_chemists_control_the_rate_of_reacti.pdf",
       "code": "C6.2",
       "title": "How do chemists control the rate of reactions?",
       "kind": "alnum",
-      "pages": 4
+      "pages": 3
     },
     {
-      "file": "032_C6_3_What_factors_affect_the_yield_of_chemical_.pdf",
+      "file": "025_C6_3_What_factors_affect_the_yield_of_chemical_.pdf",
       "code": "C6.3",
       "title": "What factors affect the yield of chemical reactions?",
       "kind": "alnum",
       "pages": 1
     },
     {
-      "file": "033_C6_4_How_are_chemicals_made_on_an_industrial_sc.pdf",
+      "file": "026_C6_4_How_are_chemicals_made_on_an_industrial_sc.pdf",
       "code": "C6.4",
       "title": "How are chemicals made on an industrial scale? (separate science only)",
       "kind": "alnum",
       "pages": 2
     },
     {
-      "file": "034_Chapter_C7_Ideas_about_Science.pdf",
+      "file": "027_Chapter_C7_Ideas_about_Science.pdf",
       "code": "Chapter C7",
       "title": "Ideas about Science",
       "kind": "Chapter",
       "pages": 8
     },
     {
-      "file": "035_Chapter_C8_Practical_skills.pdf",
+      "file": "028_Chapter_C8_Practical_skills.pdf",
       "code": "Chapter C8",
       "title": "Practical skills",
       "kind": "Chapter",

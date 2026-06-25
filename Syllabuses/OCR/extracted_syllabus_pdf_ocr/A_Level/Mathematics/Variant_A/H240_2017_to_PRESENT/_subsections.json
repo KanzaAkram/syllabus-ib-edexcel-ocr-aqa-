@@ -8,14 +8,14 @@
       "code": "1.01",
       "title": "Proof",
       "kind": "decimal",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "002_1_02_Algebra_and_Functions.pdf",
       "code": "1.02",
       "title": "Algebra and Functions",
       "kind": "decimal",
-      "pages": 8
+      "pages": 7
     },
     {
       "file": "003_1_03_Coordinate_Geometry_in_the_x_y_Plane.pdf",
@@ -29,7 +29,7 @@
       "code": "1.04",
       "title": "Sequences and Series",
       "kind": "decimal",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "005_1_05_Trigonometry.pdf",
@@ -43,14 +43,14 @@
       "code": "1.06",
       "title": "Exponentials and Logarithms",
       "kind": "decimal",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "007_1_07_Differentiation.pdf",
       "code": "1.07",
       "title": "Differentiation",
       "kind": "decimal",
-      "pages": 4
+      "pages": 3
     },
     {
       "file": "008_1_08_Integration.pdf",
@@ -78,7 +78,7 @@
       "code": "2.01",
       "title": "Statistical Sampling",
       "kind": "decimal",
-      "pages": 2
+      "pages": 1
     },
     {
       "file": "012_2_02_Data_Presentation_and_Interpretation.pdf",
@@ -92,21 +92,21 @@
       "code": "2.03",
       "title": "Probability",
       "kind": "decimal",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "014_2_04_Statistical_Distributions.pdf",
       "code": "2.04",
       "title": "Statistical Distributions",
       "kind": "decimal",
-      "pages": 3
+      "pages": 2
     },
     {
       "file": "015_2_05_Statistical_Hypothesis_Testing.pdf",
       "code": "2.05",
       "title": "Statistical Hypothesis Testing",
       "kind": "decimal",
-      "pages": 5
+      "pages": 4
     },
     {
       "file": "016_3_01_Quantities_and_Units_in_Mechanics.pdf",
@@ -120,14 +120,14 @@
       "code": "3.02",
       "title": "Kinematics",
       "kind": "decimal",
-      "pages": 5
+      "pages": 4
     },
     {
       "file": "018_3_03_Forces_and_Newton_s_Laws.pdf",
       "code": "3.03",
       "title": "Forces and Newton’s Laws",
       "kind": "decimal",
-      "pages": 8
+      "pages": 7
     },
     {
       "file": "019_3_04_Moments.pdf",

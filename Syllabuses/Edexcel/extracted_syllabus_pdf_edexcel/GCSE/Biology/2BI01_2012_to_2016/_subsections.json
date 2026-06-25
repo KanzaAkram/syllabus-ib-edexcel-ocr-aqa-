@@ -1,119 +1,49 @@
 {
   "method": "toc",
   "sections": 1,
-  "n": 16,
+  "n": 6,
   "subsections": [
     {
       "file": "001_Overview.pdf",
       "code": "",
       "title": "Overview",
       "family": "Overview",
-      "pages": 2
-    },
-    {
-      "file": "002_2_10_understand_how_the_functioning_of_enzymes_.pdf",
-      "code": "2.10",
-      "title": "understand how the functioning of enzymes can be affected by changes in pH",
-      "family": "Num",
-      "pages": 2
-    },
-    {
-      "file": "003_2_14_understand_the_importance_in_plants_of_tur.pdf",
-      "code": "2.14",
-      "title": "understand the importance in plants of turgid cells as a means of support",
-      "family": "Num",
-      "pages": 2
-    },
-    {
-      "file": "004_2_40_understand_that_respiration_continues_duri.pdf",
-      "code": "2.40",
-      "title": "understand that respiration continues during the day and night, but that the net",
-      "family": "Num",
       "pages": 1
     },
     {
-      "file": "005_2_43_describe_simple_controlled_experiments_to_.pdf",
-      "code": "2.43",
-      "title": "describe simple controlled experiments to investigate the effect of light on net gas",
-      "family": "Num",
-      "pages": 1
-    },
-    {
-      "file": "006_2_51_describe_the_role_of_phloem_in_transportin.pdf",
-      "code": "2.51",
-      "title": "describe the role of phloem in transporting sucrose and amino acids between the",
-      "family": "Num",
+      "file": "002_Section_1_The_nature_and_variety_of_living_organisms.pdf",
+      "code": "Section 1",
+      "title": "The nature and variety of living organisms",
+      "family": "Section",
       "pages": 2
     },
     {
-      "file": "007_2_61_understand_that_vaccination_results_in_the.pdf",
-      "code": "2.61",
-      "title": "understand that vaccination results in the manufacture of memory cells, which",
-      "family": "Num",
-      "pages": 1
+      "file": "003_Section_2_Structures_and_functions_in_living_organis.pdf",
+      "code": "Section 2",
+      "title": "Structures and functions in living organisms",
+      "family": "Section",
+      "pages": 6
     },
     {
-      "file": "008_2_62_recall_that_platelets_are_involved_in_bloo.pdf",
-      "code": "2.62",
-      "title": "recall that platelets are involved in blood clotting, which prevents blood loss and the",
-      "family": "Num",
+      "file": "004_Section_3_Reproduction_and_inheritance.pdf",
+      "code": "Section 3",
+      "title": "Reproduction and inheritance",
+      "family": "Section",
       "pages": 2
     },
     {
-      "file": "009_2_88_describe_the_role_of_the_skin_in_temperatu.pdf",
-      "code": "2.88",
-      "title": "describe the role of the skin in temperature regulation, with reference to sweating,",
-      "family": "Num",
-      "pages": 1
-    },
-    {
-      "file": "010_3_11_describe_the_role_of_the_placenta_in_the_n.pdf",
-      "code": "3.11",
-      "title": "describe the role of the placenta in the nutrition of the developing embryo",
-      "family": "Num",
-      "pages": 1
-    },
-    {
-      "file": "011_3_12_understand_how_the_developing_embryo_is_pr.pdf",
-      "code": "3.12",
-      "title": "understand how the developing embryo is protected by amniotic fluid",
-      "family": "Num",
+      "file": "005_Section_4_Ecology_and_the_environment.pdf",
+      "code": "Section 4",
+      "title": "Ecology and the environment",
+      "family": "Section",
       "pages": 2
     },
     {
-      "file": "012_3_34_understand_that_the_incidence_of_mutations.pdf",
-      "code": "3.34",
-      "title": "understand that the incidence of mutations can be increased by exposure to ionising",
-      "family": "Num",
-      "pages": 1
-    },
-    {
-      "file": "013_4_10_describe_the_stages_in_the_nitrogen_cycle_.pdf",
-      "code": "4.10",
-      "title": "describe the stages in the nitrogen cycle, including the roles of nitrogen fixing",
-      "family": "Num",
+      "file": "006_Section_5_Use_of_biological_resources.pdf",
+      "code": "Section 5",
+      "title": "Use of biological resources",
+      "family": "Section",
       "pages": 2
-    },
-    {
-      "file": "014_4_15_understand_the_biological_consequences_of_.pdf",
-      "code": "4.15",
-      "title": "understand the biological consequences of pollution of water by sewage including",
-      "family": "Num",
-      "pages": 1
-    },
-    {
-      "file": "015_5_16_recall_that_the_term_transgenic_means_the_.pdf",
-      "code": "5.16",
-      "title": "recall that the term ‘transgenic’ means the transfer of genetic material from one",
-      "family": "Num",
-      "pages": 2
-    },
-    {
-      "file": "016_5_20_evaluate_the_potential_for_using_cloned_tr.pdf",
-      "code": "5.20",
-      "title": "evaluate the potential for using cloned transgenic animals, for example to produce",
-      "family": "Num",
-      "pages": 1
     }
   ]
 }

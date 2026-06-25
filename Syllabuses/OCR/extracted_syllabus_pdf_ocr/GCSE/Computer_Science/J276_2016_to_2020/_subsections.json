@@ -1,122 +1,108 @@
 {
   "method": "toc",
   "sections": 3,
-  "n": 17,
+  "n": 15,
   "subsections": [
     {
-      "file": "001_2b_Content_of_Computer_systems_J276_01.pdf",
-      "code": "2b",
-      "title": "Content of Computer systems (J276/01)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_1_1_Systems_architecture.pdf",
+      "file": "001_1_1_Systems_architecture.pdf",
       "code": "1.1",
       "title": "Systems architecture",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "003_1_2_Memory.pdf",
+      "file": "002_1_2_Memory.pdf",
       "code": "1.2",
       "title": "Memory",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "004_1_3_Storage.pdf",
+      "file": "003_1_3_Storage.pdf",
       "code": "1.3",
       "title": "Storage",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "005_1_4_Wired_and_wireless_networks.pdf",
+      "file": "004_1_4_Wired_and_wireless_networks.pdf",
       "code": "1.4",
       "title": "Wired and wireless networks",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "006_1_5_Network_topologies_protocols_and_layers.pdf",
+      "file": "005_1_5_Network_topologies_protocols_and_layers.pdf",
       "code": "1.5",
       "title": "Network topologies, protocols and layers",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "007_1_6_System_security.pdf",
+      "file": "006_1_6_System_security.pdf",
       "code": "1.6",
       "title": "System security",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "008_1_7_Systems_software.pdf",
+      "file": "007_1_7_Systems_software.pdf",
       "code": "1.7",
       "title": "Systems software",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "009_1_8_Ethical_legal_cultural_and_environmental_c.pdf",
+      "file": "008_1_8_Ethical_legal_cultural_and_environmental_c.pdf",
       "code": "1.8",
       "title": "Ethical, legal, cultural and environmental concerns",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "010_2c_Content_of_Computational_thinking_algorith.pdf",
-      "code": "2c",
-      "title": "Content of Computational thinking, algorithms and programming (J276/02)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "011_2_1_Algorithms.pdf",
+      "file": "009_2_1_Algorithms.pdf",
       "code": "2.1",
       "title": "Algorithms",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "012_2_2_Programming_techniques.pdf",
+      "file": "010_2_2_Programming_techniques.pdf",
       "code": "2.2",
       "title": "Programming techniques",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "013_2_3_Producing_robust_programs.pdf",
+      "file": "011_2_3_Producing_robust_programs.pdf",
       "code": "2.3",
       "title": "Producing robust programs",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "014_2_4_Computational_logic.pdf",
+      "file": "012_2_4_Computational_logic.pdf",
       "code": "2.4",
       "title": "Computational logic",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "015_2_5_Translators_and_facilities_of_languages.pdf",
+      "file": "013_2_5_Translators_and_facilities_of_languages.pdf",
       "code": "2.5",
       "title": "Translators and facilities of languages",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "016_2_6_Data_representation.pdf",
+      "file": "014_2_6_Data_representation.pdf",
       "code": "2.6",
       "title": "Data representation",
       "kind": "decimal",
       "pages": 1
     },
     {
-      "file": "017_2d_the_Programming_Project.pdf",
+      "file": "015_2d_the_Programming_Project.pdf",
       "code": "2d",
       "title": "the Programming Project",
       "kind": "section",

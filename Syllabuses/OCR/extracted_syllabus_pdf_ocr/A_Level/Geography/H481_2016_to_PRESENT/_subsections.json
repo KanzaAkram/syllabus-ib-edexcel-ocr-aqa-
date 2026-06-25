@@ -1,192 +1,143 @@
 {
   "method": "toc",
   "sections": 5,
-  "n": 27,
+  "n": 20,
   "subsections": [
     {
-      "file": "001_2c_Content_of_Physical_systems_H481_01.pdf",
-      "code": "2c",
-      "title": "Content of Physical systems (H481/01)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "002_Topic_1_1_Landscape_Systems.pdf",
-      "code": "Topic 1",
-      "title": "1 – Landscape Systems",
-      "kind": "Topic",
-      "pages": 1
-    },
-    {
-      "file": "003_1_1_1_Option_A_Coastal_Landscapes.pdf",
+      "file": "001_1_1_1_Option_A_Coastal_Landscapes.pdf",
       "code": "1.1.1",
       "title": "Option A – Coastal Landscapes",
       "kind": "decimal",
-      "pages": 3
+      "pages": 4
     },
     {
-      "file": "004_1_1_2_Option_B_Glaciated_Landscapes.pdf",
+      "file": "002_1_1_2_Option_B_Glaciated_Landscapes.pdf",
       "code": "1.1.2",
       "title": "Option B – Glaciated Landscapes",
       "kind": "decimal",
       "pages": 2
     },
     {
-      "file": "005_1_1_3_Option_C_Dryland_Landscapes.pdf",
+      "file": "003_1_1_3_Option_C_Dryland_Landscapes.pdf",
       "code": "1.1.3",
       "title": "Option C – Dryland Landscapes",
       "kind": "decimal",
       "pages": 3
     },
     {
-      "file": "006_Topic_1_2_Earth_s_Life_Support_Systems.pdf",
+      "file": "004_Topic_1_2_Earth_s_Life_Support_Systems.pdf",
       "code": "Topic 1",
       "title": "2 – Earth’s Life Support Systems",
       "kind": "Topic",
       "pages": 3
     },
     {
-      "file": "007_2c_Content_of_Human_interactions_H481_02.pdf",
-      "code": "2c",
-      "title": "Content of Human interactions (H481/02)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "008_Topic_2_1_Changing_Spaces_Making_Places.pdf",
+      "file": "005_Topic_2_1_Changing_Spaces_Making_Places.pdf",
       "code": "Topic 2",
       "title": "1 – Changing Spaces; Making Places",
       "kind": "Topic",
-      "pages": 3
+      "pages": 4
     },
     {
-      "file": "009_Topic_2_2_Global_Connections.pdf",
-      "code": "Topic 2",
-      "title": "2 – Global Connections",
-      "kind": "Topic",
-      "pages": 2
-    },
-    {
-      "file": "010_2_2_2_Global_Systems_Option_B_Global_Migration.pdf",
+      "file": "006_2_2_2_Global_Systems_Option_B_Global_Migration.pdf",
       "code": "2.2.2",
       "title": "Global Systems: Option B – Global Migration",
       "kind": "decimal",
-      "pages": 6
+      "pages": 8
     },
     {
-      "file": "011_2c_Content_of_Geographical_debates_H481_03.pdf",
-      "code": "2c",
-      "title": "Content of Geographical debates (H481/03)",
-      "kind": "overview",
-      "pages": 1
-    },
-    {
-      "file": "012_Topic_3_1_Climate_Change.pdf",
+      "file": "007_Topic_3_1_Climate_Change.pdf",
       "code": "Topic 3",
       "title": "1 – Climate Change",
       "kind": "Topic",
-      "pages": 3
+      "pages": 4
     },
     {
-      "file": "013_Topic_3_2_Disease_Dilemmas.pdf",
+      "file": "008_Topic_3_2_Disease_Dilemmas.pdf",
       "code": "Topic 3",
       "title": "2 – Disease Dilemmas",
       "kind": "Topic",
       "pages": 3
     },
     {
-      "file": "014_Topic_3_3_Exploring_Oceans.pdf",
+      "file": "009_Topic_3_3_Exploring_Oceans.pdf",
       "code": "Topic 3",
       "title": "3 – Exploring Oceans",
       "kind": "Topic",
       "pages": 3
     },
     {
-      "file": "015_Topic_3_4_Future_of_Food.pdf",
+      "file": "010_Topic_3_4_Future_of_Food.pdf",
       "code": "Topic 3",
       "title": "4 – Future of Food",
       "kind": "Topic",
       "pages": 3
     },
     {
-      "file": "016_Topic_3_5_Hazardous_Earth.pdf",
+      "file": "011_Topic_3_5_Hazardous_Earth.pdf",
       "code": "Topic 3",
       "title": "5 – Hazardous Earth",
       "kind": "Topic",
       "pages": 3
     },
     {
-      "file": "017_2d_Investigative_geography_H481_04_05.pdf",
+      "file": "012_2d_Investigative_geography_H481_04_05.pdf",
       "code": "2d",
       "title": "Investigative geography (H481/04, 05)",
       "kind": "section",
       "pages": 1
     },
     {
-      "file": "018_3i_Non_exam_assessment_Investigative_geograph.pdf",
-      "code": "3i",
-      "title": "Non-exam assessment – Investigative geography (H481/04, 05)",
-      "kind": "overview",
-      "pages": 6
-    },
-    {
-      "file": "019_Section_1_Planning_purpose_and_introduction_8_marks.pdf",
+      "file": "013_Section_1_Planning_purpose_and_introduction_8_marks.pdf",
       "code": "Section 1",
       "title": "Planning, purpose and introduction. (8 marks)",
       "kind": "Section",
-      "pages": 1
+      "pages": 6
     },
     {
-      "file": "020_Section_2_Data_information_collection_methods_and_sa.pdf",
+      "file": "014_Section_2_Data_information_collection_methods_and_sa.pdf",
       "code": "Section 2",
       "title": "Data, information collection methods and sampling framework. (7 marks)",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "021_Section_3_Data_presentation_techniques_9_marks.pdf",
+      "file": "015_Section_3_Data_presentation_techniques_9_marks.pdf",
       "code": "Section 3",
       "title": "Data presentation techniques. (9 marks)",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "022_Section_4_Data_analysis_and_explanation_14_marks.pdf",
+      "file": "016_Section_4_Data_analysis_and_explanation_14_marks.pdf",
       "code": "Section 4",
       "title": "Data analysis and explanation. (14 marks)",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "023_Section_5_Conclusions_and_investigation_evaluation_1.pdf",
+      "file": "017_Section_5_Conclusions_and_investigation_evaluation_1.pdf",
       "code": "Section 5",
       "title": "Conclusions and investigation evaluation. (12 marks)",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "024_Section_6_Overall_quality_and_communication_of_writt.pdf",
+      "file": "018_Section_6_Overall_quality_and_communication_of_writt.pdf",
       "code": "Section 6",
       "title": "Overall quality and communication of written work. (10 marks)",
       "kind": "Section",
       "pages": 1
     },
     {
-      "file": "025_Section_6_Section_6.pdf",
-      "code": "Section 6",
-      "title": "Section 6",
-      "kind": "Section",
-      "pages": 1
-    },
-    {
-      "file": "026_2_Investigation_proposal_section.pdf",
+      "file": "019_2_Investigation_proposal_section.pdf",
       "code": "2",
       "title": "Investigation proposal section",
       "kind": "int",
       "pages": 1
     },
     {
-      "file": "027_3_Mark_sheet_section.pdf",
+      "file": "020_3_Mark_sheet_section.pdf",
       "code": "3",
       "title": "Mark sheet section",
       "kind": "int",

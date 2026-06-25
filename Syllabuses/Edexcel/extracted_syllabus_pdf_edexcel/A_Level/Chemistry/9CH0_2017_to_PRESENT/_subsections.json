@@ -15,7 +15,7 @@
       "code": "Topic 1",
       "title": "Atomic Structure and the Periodic Table",
       "family": "Topic",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "003_Topic_2A_Bonding.pdf",
@@ -36,7 +36,7 @@
       "code": "Topic 3",
       "title": "Redox I",
       "family": "Topic",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "006_Topic_4A_The_elements_of_Groups_1_and_2.pdf",
@@ -64,7 +64,7 @@
       "code": "Topic 5",
       "title": "Formulae, Equations and Amounts of Substance",
       "family": "Topic",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "010_Topic_6A_Introduction_to_organic_chemistry.pdf",
@@ -99,7 +99,7 @@
       "code": "Topic 6E",
       "title": "Alcohols",
       "family": "Topic",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "015_Topic_7A_Mass_spectrometry.pdf",
@@ -148,7 +148,7 @@
       "code": "Topic 12",
       "title": "Acid-base Equilibria",
       "family": "Topic",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "022_Topic_13A_Lattice_energy.pdf",
@@ -169,7 +169,7 @@
       "code": "Topic 14",
       "title": "Redox II",
       "family": "Topic",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "025_Topic_15A_Principles_of_transition_metal_chemistry.pdf",
@@ -190,7 +190,7 @@
       "code": "Topic 16",
       "title": "Kinetics II",
       "family": "Topic",
-      "pages": 2
+      "pages": 3
     },
     {
       "file": "028_Topic_17A_Chirality.pdf",
@@ -211,7 +211,7 @@
       "code": "Topic 17C",
       "title": "Carboxylic acids",
       "family": "Topic",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "031_Topic_18A_Arenes_benzene.pdf",
@@ -232,7 +232,7 @@
       "code": "Topic 18C",
       "title": "Organic Synthesis",
       "family": "Topic",
-      "pages": 1
+      "pages": 2
     },
     {
       "file": "034_Topic_19A_Mass_Spectrometry.pdf",
