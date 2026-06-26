@@ -6,17 +6,17 @@ teachable **topic / sub-topic**, mirroring the source tree, with a
 
 ## Totals
 
-| Qualification | specs | files |
-|---|--:|--:|
-| A_Level | 38 | 887 |
-| GCSE | 41 | 441 |
-| IGCSE | 26 | 315 |
-| International A_Level | 10 | 320 |
-| iLowerSecondary | 4 | 91 |
-| iPrimary | 4 | 49 |
-| **TOTAL** | **123** | **2103** |
+| Qualification | files |
+|---|--:|
+| A_Level | 930 |
+| GCSE | 597 |
+| IGCSE | 394 |
+| International A_Level | 368 |
+| iLowerSecondary | 96 |
+| iPrimary | 56 |
+| **TOTAL** | **2441** |
 
-Status: **117 OK · 6 EMPTY · 0 ERROR · ~2580 sub-topic PDFs · ~5400 pages · 0 blank.**
+Status: **117 OK · 6 EMPTY · 0 ERROR · 2441 sub-topic PDFs · 5027 pages · 0 blank pages · 0 zero-page files.**
 
 Every spec is now split at its **deepest clean sub-topic level** (e.g. A-level Biology
 1.1 Carbohydrates … ; Business 1.1 ; Economics 1.1.1 ; Chemistry Topic 2A/2B ; IGCSE
@@ -26,6 +26,45 @@ with verbs like "Analyse"/"Describe" are recognised as objectives, so GCSE Physi
 Statistics stay at topic level), and deeply-nested specs (GCSE RS) are capped at a
 usable level instead of exploding into hundreds of fragments. Counts are indicative;
 see the live `_pdf_extraction_report.json`.
+
+## QA audit round 2 (2026-06-26) — multi-agent verification + fixes
+
+A full re-audit was run: a precise, hierarchy- and neighbour-aware detector scanned all
+2,441 PDFs for the four user-named defects (heading bleeding at the **start**, the
+**next** heading bleeding onto the last page, **blank/white** trailing pages, and
+**cropped** headings), then a 73-agent fleet visually verified every flagged file
+(rendering each suspect page region) to separate real defects from detector false
+positives. That confirmed **161 real defects in 37 specs** (31 specs fully clean).
+
+Six shared root-cause fixes were made in `extract_syllabus_pdf.py` and the whole set
+re-extracted; **135 of 161 (84%) confirmed defects are resolved**, verified by re-render:
+
+1. **Previous sub-topic's "…continued" page bled into the next PDF** (LMA11, JMA11,
+   LCP11, 9ST0, JSC11, 9PH0, 1PH0): the parent-heading **anchor** accepted sibling /
+   "continued" headings. Anchors are now restricted to genuine **ancestors**.
+2. **Content numbers mistaken for sub-topic headings** (`40.5 g…`, `3.5 and 7`), which
+   created garbage units *and truncated* the real sub-topic (LMA11, 1SP1): decimal
+   headings with lowercase/fragment titles are rejected; bare `N.N` codes must be
+   left-column.
+3. **Legacy heading cropped off the top** ("opens at *j …*", 8CH01, WCH01): the anchor
+   was grabbing the **running header** ("Unit 1" echoed on every page) — header-band
+   lines are now skipped.
+4. **Anchor jumped to a far bare-numeric sub-heading** across a page of other content
+   (8CH01 1.6/1.7): marker anchors ("Topic 1") are trusted across their own intro, but
+   bare-numeric anchors must sit immediately above the unit — *preserving* the wanted
+   "Topic N leads its first sub-topic" behaviour (9BI0, 9BS0, 9CH0).
+5. **Next-section divider / blank page at the end** (4PH1, 4BI1, 4CH1, 9GE0, 9PE0,
+   9FM0…): a trailing page that is wholly the next section's divider/contents page is
+   dropped.
+6. **GCSE RS "Area of Study" off-by-one** (1RB0, 1RA0): each area's PDF opened with the
+   *previous* area's Section 4. A marker **containment-tier** rule (Paper/Component ▸
+   Unit/Area/Theme ▸ Section ▸ Topic) stops a child "Section 4" from anchoring its
+   parent "Area of Study". Also incidentally fixed GCSE History 1HI0 options.
+
+**Current (in-use) specs now have no genuine start-defects** — the few remaining `lead_*`
+flags on current specs are detector false positives (the heading *is* present, e.g.
+WMA01 "2. Coordinate geometry", 1GA0 "8.2 The UK"). The residual real defects are all in
+**legacy (2008–2016) specs** with irregular layouts (see limitations).
 
 ## Verification performed
 
@@ -87,6 +126,27 @@ see the live `_pdf_extraction_report.json`.
 - **Truncated titles** — a few specs with long wrapped headings (Geography enquiry
   questions) keep a short title; the PDF **content is complete**, only the
   filename/title is shortened.
+
+### Residual defects after the round-2 audit (≈ a dozen files, all edge/legacy)
+
+These are the only confirmed real defects left (everything affecting current in-use
+specs is resolved; the remaining `bleed_*`/`blank_end_sliver` detector flags on current
+specs were visually verified as **false positives** — own-content continuing onto the
+last page, or legitimately short pages):
+
+- **Legacy GCSE Physics 2PH01 (2012–2016)** — a unit's last sub-topic over-spans into
+  the *next* Unit (e.g. a `5.x` file runs into "Unit P2"). The next Unit's first topic
+  isn't detected as a sub-topic boundary in this legacy layout.
+- **Legacy A-level 8MU01 / 8GP01 / 8HI01 / 8ET01 / 8PE01 (2008–2016)** — assessment /
+  coursework sub-sections ("Assessment information", "Task 4.1 Development Plan",
+  "Section E …") open at an internal numbered part rather than the component heading.
+  (8PE01's "Task 4.1" top line is in fact legitimate.)
+- **Legacy Biology 8BN01 / WBI01** — Salters-Nuffield dual "Concept approach / Context
+  approach" layout (codes like `1.3` titled "Topic 1") confuses boundary detection.
+- **A-level Economics 9EC0** — the source is a "specification map" grid (3.1.1/3.1.2…
+  in a matrix), not prose content, so it doesn't crop into clean per-topic pages.
+- **GCSE RS 1RB0** — Area off-by-one fixed; a few last pages still show the next area's
+  Section-1 heading at the very bottom (minor trailing bleed).
 
 ## Fixes in the final pass
 
